@@ -36,11 +36,15 @@ Add to a project's `.claude/settings.json` so everyone who opens the repo is off
 claude plugin validate plugins/video-studio
 claude plugin validate .
 claude --plugin-dir ./plugins/video-studio plugin details video-studio
+python3 -m unittest discover -s tests -v     # end-to-end tests on synthetic media (needs ffmpeg + numpy, ~1 min)
 ```
+CI (`.github/workflows/ci.yml`) runs lint, the tests, both validations and a version-match check on every
+push and pull request.
 Bump `version` in both `plugins/video-studio/.claude-plugin/plugin.json` and `.claude-plugin/marketplace.json`
 when you release; users get it with `/plugin update video-studio`.
 
 ## Repository layout
 - `plugins/video-studio/`: the plugin (install it with the commands above)
 - `examples/nexa-workspace/`: a ready-made brand / moves / notes set to copy into a project
+- `tests/`: end-to-end tests for the `vs` tools
 - `legacy/in-repo-v1/`: the first, in-repo version of the toolkit, kept for reference

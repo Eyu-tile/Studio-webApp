@@ -94,7 +94,7 @@ def fit(path, length, start, out):
             pieces.append((l0, l1))
             total += l1 - l0 - XF
         pieces.append((l1, dur))
-    ins, filt, labs = [], [], []
+    ins, filt = [], []
     for i, (a_, b_) in enumerate(pieces):
         ins += ["-ss", f"{a_:.3f}", "-t", f"{b_ - a_:.3f}", "-i", path]
         filt.append(f"[{i}:a]aresample=48000,aformat=channel_layouts=stereo,asetpts=PTS-STARTPTS[p{i}]")

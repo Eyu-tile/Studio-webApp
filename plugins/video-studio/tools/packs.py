@@ -14,7 +14,6 @@ so `vs sfx plan`, `vs sfx library` and every project can use them.
 Add only repositories whose audio licence allows your use (CC0/CC BY or the owner's permission).
 """
 import argparse
-import json
 import os
 import shutil
 import subprocess

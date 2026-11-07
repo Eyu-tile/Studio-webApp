@@ -1,0 +1,54 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install ffmpeg
+        run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Python tools
+        run: pip install numpy pyflakes
+
+      - name: Lint
+        run: |
+          python -m pyflakes plugins/video-studio/tools/*.py tests/*.py
+          for f in plugins/video-studio/bin/vs plugins/video-studio/tools/setup.sh plugins/video-studio/hooks/*.sh; do bash -n "$f"; done
+
+      - name: Tests
+        run: python -m unittest discover -s tests -v
+
+  validate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
+      - name: Validate plugin and marketplace
+        run: |
+          claude plugin validate plugins/video-studio
+          claude plugin validate .
+      - name: Versions match
+        run: |
+          a=$(python3 -c "import json;print(json.load(open('plugins/video-studio/.claude-plugin/plugin.json'))['version'])")
+          b=$(python3 -c "import json;print([p for p in json.load(open('.claude-plugin/marketplace.json'))['plugins'] if p['name']=='video-studio'][0]['version'])")
+          echo "plugin.json $a, marketplace.json $b"; test "$a" = "$b"
