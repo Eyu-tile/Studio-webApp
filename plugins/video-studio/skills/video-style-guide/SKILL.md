@@ -20,17 +20,17 @@ For each reference:
 R=video-studio/style/refs/<file>
 vs probe "$R"
 vs transcribe "$R" -o video-studio/style/refs/<name>.transcript --model small
-vs scenes "$R" -o video-studio/style/refs/<name>.scenes      # cuts/min, median shot, one frame per shot
+vs breakdown "$R" -o video-studio/style/refs/<name>.bd      # cuts/min, shot lengths, camera moves, look, tempo, cuts on beat, sheet
 vs filmstrip "$R" -o video-studio/style/refs/<name>.png --every 2 --max 40
 vs qa "$R"                                                      # loudness of the reference
 ```
 From these derive:
-- **Pacing**: cuts/min and median shot from `scenes.json`, words per minute from the transcript, longest pause kept.
+- **Pacing**: cuts/min and median shot from `<name>.bd/report.md`, words per minute from the transcript, longest pause kept.
 - **Hook**: what happens in the first 3 s (cold open line? text hook? motion?).
 - **Captions**: words per card, case, position (% from bottom), highlight colour, font weight. Read the PNG.
 - **Framing**: punch-ins (zoom jumps between cuts), split screens, b-roll ratio.
 - **Graphics**: lower thirds, keyword pops, charts, emoji, progress bars; durations.
-- **Sound**: music under voice? ducking depth? SFX on cuts/graphics? loudness. Music tempo: `vs beats detect "$R"`, and whether cuts land on beats.
+- **Sound**: music under voice? ducking depth? SFX on cuts/graphics? loudness. Tempo and % of cuts on the beat are in the breakdown report.
 - **Look**: grade (warm/cool, contrast, saturation, grain, vignette) → nearest `/video-color` grade.
 - **Transitions**: hard cuts vs whips/fades and where (`scenes.png` shows them).
 - **End**: CTA style, end card length.
@@ -42,7 +42,8 @@ From these derive:
 - Show the person a 10-line summary and ask what to keep/drop before saving.
 
 ## Rebuild one video exactly
-To copy one reference closely (layer by layer, then checked against the original frame by frame) rather than
+To see how one reference was made shot by shot (camera moves, live vs AI vs graphics, a remake plan and
+template EDL), use `/video-breakdown`. To copy one reference closely (layer by layer, then checked against the original frame by frame) rather than
 learn a general style, use `/reverse-any-video`. For a whole series in a proven explainer style (Collage,
 Finance, Animated Science, 3D Brand, 3D True Crime), use `/style-sampling`. Never reuse the reference's own
 footage, music or script in a deliverable.

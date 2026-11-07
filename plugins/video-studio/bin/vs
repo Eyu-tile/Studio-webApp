@@ -27,7 +27,7 @@ init_ws() {
 cmd="${1:-help}"
 shift || true
 case "$cmd" in
-  transcribe|pack|propose_cuts|silences|render|captions|filmstrip|qa|export_edl|ingest|scenes|beats|sync|multicam|convert|thumbs|sfx|packs|music|proxy)
+  transcribe|pack|propose_cuts|silences|render|captions|filmstrip|qa|export_edl|ingest|scenes|beats|sync|multicam|convert|thumbs|sfx|packs|music|proxy|breakdown)
     exec "$py" "$tools/$cmd.py" "$@" ;;
   cuts) exec "$py" "$tools/propose_cuts.py" "$@" ;;
   fetch) exec "$py" "$tools/assets.py" "$@" ;;
@@ -51,12 +51,16 @@ case "$cmd" in
     eh="${VS_EARSHOT_HOME:-$HOME/.cache/video-studio/earshot}"
     [ -x "$eh/.venv/bin/python" ] || { echo "earshot not installed: vs setup --earshot" >&2; exit 1; }
     exec "$eh/.venv/bin/python" -m earshot "$@" ;;
+  rea)
+    rh="${VS_REA_HOME:-$HOME/.cache/video-studio/rea-video}"
+    [ -x "$rh/bin/rea-video" ] || { echo "rea-video not installed: vs setup --rea" >&2; exit 1; }
+    exec "$rh/bin/rea-video" "$@" ;;
   yt-dlp) if [ -x "$venv/bin/yt-dlp" ]; then exec "$venv/bin/yt-dlp" "$@"; else exec yt-dlp "$@"; fi ;;
   help|-h|--help)
     cat <<'HELP'
 vs <command>                                         video-studio plugin
  setup / workspace
-  setup [--packs] [--earshot] [--remotion]  install whisper venv, numpy, yt-dlp, gdown; free SFX packs / earshot / Remotion
+  setup [--packs] [--earshot] [--remotion] [--rea]  install whisper venv, numpy, yt-dlp, gdown; free SFX packs / earshot / Remotion / rea-video
   doctor                  check tools
   init                    create ./video-studio/{style,projects} here
   new <name>              video-studio/projects/<name>/{raw,work,out} + project.md
@@ -67,6 +71,8 @@ vs <command>                                         video-studio plugin
   transcribe <in> -o work/transcript   word timestamps [--model large-v3 --lang en --prompt "names"]
   pack <transcript.json> -o x.md       LLM-readable transcript
   scenes <in> -o work/scenes           shot detection + sheet (b-roll, measuring references)
+  breakdown <ref.mp4> -o work/ref     how a reference was made: cuts, camera moves, look, beat sync, hits + remake_edl.json
+  rea decompose <ref.mp4> -o out/ref   deep forensics (optional, vs setup --rea): live/AI/3D/screen per shot, OCR text
   silences <in> -o work/sil.json [--edl work/edl.json]
   filmstrip <video> -o x.png --every 5 | --at 1,2 | --cuts edl.json
   beats detect <music> -o work/beats.json

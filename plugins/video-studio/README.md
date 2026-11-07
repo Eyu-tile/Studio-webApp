@@ -52,6 +52,7 @@ Drop footage into `raw/` and talk to Claude:
 | `video-sound-design` | SFX on the exact frame from EDLs, HyperFrames or any video; libraries; earshot listening |
 | `video-export` | platform presets, multi-aspect, GIF/WebM/ProRes/MP3, size limits, thumbnails, chapters |
 | `video-style-guide` | learn a style from reference videos |
+| `video-breakdown` | how a reference was made, shot by shot (camera, look, pacing, beat sync; optional rea-video forensics: live/AI/3D/screen, OCR text), remake plan + template EDL |
 | `motion-graphics` | titles, lower thirds, charts, end cards with HyperFrames |
 | `video-qa` | automated and visual checks |
 | `video-nle-handoff` | CMX3600 / FCPXML export, Resolve and FCP MCP pointers |
@@ -62,7 +63,7 @@ Drop footage into `raw/` and talk to Claude:
 **Agents**: `edit-planner`, `footage-logger`, `broll-researcher`, `motion-designer`, `video-qa-reviewer`.
 
 **CLI** (`vs help`): `setup doctor init new where add fetch keys credits probe ingest transcribe pack scenes
-silences filmstrip beats sync cuts multicam captions music packs sfx earshot render proxy qa convert thumbs export yt-dlp`.
+silences filmstrip beats sync cuts multicam captions music packs sfx earshot render proxy breakdown rea qa convert thumbs export yt-dlp`.
 
 **Renderer features**: frame-accurate cuts from any number of sources, still images, speed 0.25–4×
 with pitch-kept audio, smooth speed ramps, reverse and freeze frames, J/L cuts, keyframed zoom / pan /
@@ -79,6 +80,9 @@ EBU R128 loudness, h264/h265/ProRes and 10-bit, proxies, chunked parallel render
   12 styles) and Kenney Interface Sounds (100 CC0 recordings); add any other free sound repo with `vs packs add`.
 - **earshot** (`vs setup --earshot`, MIT, CPU-only, ~1.3 GB): lets Claude hear: describe, rank and find sounds,
   critique a mix against 7 professional launch films, and render 250+ code-made sound effects.
+
+- **rea-video** (`vs setup --rea`, Apache-2.0, ~1 GB): deep shot forensics for `/video-breakdown`: live action vs AI
+  video vs 3D vs screen recording per shot, on-screen text timeline by OCR, stickers, vocal/music separation.
 
 ## Stock media keys (optional, free)
 Pexels, Pixabay, Unsplash and Freesound need a free API key each: `vs keys set pexels` (stored in

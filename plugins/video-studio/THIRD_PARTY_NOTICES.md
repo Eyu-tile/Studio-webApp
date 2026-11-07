@@ -18,3 +18,10 @@ All other skills in this plugin (`video-*`, `motion-graphics`) are original to t
 
 Telemetry: the HyperFrames CLI sends usage telemetry, and the `hyperframes` skill runs a usage beacon
 (`npx hyperframes events`) when it starts. Opt out with `npx hyperframes telemetry disable`.
+
+# Optional external tools (installed on request, not bundled)
+
+- **rea-video** ([JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video), Apache-2.0): installed by
+  `vs setup --rea` into its own venv, pinned to commit `e3d2805ee1e6188a640b62149eb055474f6bf982`; no code is copied
+  into this plugin. `vs breakdown` is an independent implementation (numpy + ffmpeg).
+- **earshot** ([Leonxlnx/earshot](https://github.com/Leonxlnx/earshot), MIT): installed by `vs setup --earshot`.

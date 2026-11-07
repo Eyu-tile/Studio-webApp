@@ -3,19 +3,21 @@
 #   vs setup             install what's missing
 #   vs doctor            report only
 #   vs setup --remotion  also install Remotion agent skills into the current project
+#   vs setup --rea       also install rea-video (deep shot forensics: live/AI/3D/screen, OCR text timeline)
 #
 # Core: ffmpeg/ffprobe (with libass), Node 22+, Python 3.10+, a Whisper backend
 # (mlx-whisper on Apple Silicon, faster-whisper elsewhere), yt-dlp.
 set -uo pipefail
 root="${VS_ROOT:-$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)}"
 venv="${VS_VENV:-$HOME/.cache/video-studio/venv}"
-check=0 remotion=0 earshot=0 packs=0
+check=0 remotion=0 earshot=0 packs=0 rea=0
 for a in "$@"; do
   case "$a" in
     --check) check=1 ;;
     --remotion) remotion=1 ;;
     --earshot) earshot=1 ;;
     --packs) packs=1 ;;
+    --rea) rea=1 ;;
     *) echo "unknown flag $a" >&2; exit 2 ;;
   esac
 done
@@ -104,6 +106,18 @@ if [ $earshot = 1 ] && [ $check = 0 ]; then
   fi
 fi
 if [ -x "$eh/.venv/bin/python" ]; then ok "earshot (vs earshot ...)"; else info "earshot not installed (optional: vs setup --earshot)"; fi
+
+# rea-video (optional, Apache-2.0): shot-level production forensics. Pinned to a reviewed commit.
+REA_REF="e3d2805ee1e6188a640b62149eb055474f6bf982"
+rh="${VS_REA_HOME:-$HOME/.cache/video-studio/rea-video}"
+if [ $rea = 1 ] && [ $check = 0 ]; then
+  { [ -x "$rh/bin/python" ] || python3 -m venv "$rh"; } \
+    && "$rh/bin/python" -m pip install -q "rea-video[ocr] @ git+https://github.com/JuneYaooo/rea-video@$REA_REF" \
+    && "$rh/bin/python" -m pip uninstall -q -y opencv-python \
+    && "$rh/bin/python" -m pip install -q --force-reinstall --no-deps "opencv-python-headless>=4.8,<5" \
+    && "$rh/bin/rea-video" --help >/dev/null && ok "rea-video installed ($rh)" || bad "rea-video install failed (see output)"
+fi
+if [ -x "$rh/bin/rea-video" ]; then ok "rea-video (vs rea ...)"; else info "rea-video not installed (optional: vs setup --rea)"; fi
 
 if [ $packs = 1 ] && [ $check = 0 ]; then
   VS_ROOT="$root" "$py" "$root/tools/packs.py" install --defaults && ok "free GitHub sound packs installed into the workspace library"
