@@ -1,0 +1,42 @@
+---
+name: video-audio
+description: Audio for video edits - clean up noisy or echoey dialogue, level voices, add and duck music, sound effects on cuts and graphics, room tone, platform loudness targets (LUFS), audio-only exports. Use for "the audio is bad", "add music", "add sound effects", "make it louder", "remove background noise", or any mix question.
+---
+
+# Audio
+
+Everything is in the EDL and applied at render time, so it is non-destructive.
+
+## Dialogue
+- Clean-up: `"audio": {"enhance": true}` = high-pass 80 Hz, FFT denoise, de-ess, 3:1 compression.
+  Preview on a raw clip first: `vs convert raw/take.mp4 -o work/clean.wav --enhance-voice`, compare by
+  transcribing both or by the person's ear. Heavy noise/echo beyond that: suggest re-recording or a dedicated
+  tool (Adobe Podcast Enhance, iZotope RX, or `/media-use` cleanup options) and import the cleaned WAV
+  as the segment `src`'s audio via `audio_track`.
+- Uneven levels between shots: `volume_db` per segment (±3–6 dB), then `--loudnorm`.
+- Mic recorded separately: `vs sync`, then `audio_track` with that file.
+- Cuts sound clicky: renderer already fades 25 ms at every cut; for a gap in room tone, keep 100–200 ms more
+  pause or lay a quiet room-tone loop as `music` at −40 dB without ducking.
+
+## Music
+`"music": {"file", "gain_db", "duck", "start", "fade_out"}`
+| use | gain_db | duck |
+|---|---|---|
+| under talking head / tutorial | −20 to −24 | true |
+| ad with voice-over | −16 to −18 | true |
+| montage / no dialogue | −6 to −10 | false |
+- Choosing, finding (Jamendo, Openverse, Incompetech, ccMixter, Archive), fitting to length on downbeats and
+  crediting: `/video-music`. Never pull a reference video's song.
+- Match mood and tempo to the cut; for cuts on the beat see `/video-montage`.
+- End on a phrase: set `fade_out` 1.5–3 s or trim the edit to land on a downbeat.
+
+## Sound effects
+Full workflow (find every moment, place real recordings, stems, earshot scoring): `/video-sound-design`.
+Manual: `"sfx": [{"file", "at", "gain_db"}]` at output times. Whoosh under transitions/whips (start 0.1 s before
+the cut), pop/click on text pops, riser into a reveal, impact on the drop. Keep them −6 to −12 dB and
+sparse (one per 5–10 s in talking content). Free SFX ship with the `media-use` skill (`audio/assets/sfx/`).
+
+## Loudness & delivery
+- Targets (integrated / true peak): social & YouTube −14 LUFS / −1 dBTP, podcasts −16, broadcast −23.
+  Presets set it; `--loudnorm <LUFS>` overrides. `vs qa` measures it.
+- Audio-only: `vs convert out/final.mp4 -o out/final.mp3` (or `.wav` for masters).

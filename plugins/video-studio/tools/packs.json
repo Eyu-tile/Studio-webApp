@@ -1,0 +1,29 @@
+{
+  "_comment": "Free sound libraries hosted on GitHub. `vs packs install <id>` sparse-clones only the audio folder and copies it into the workspace library. Add your own with `vs packs add <git-url> ...`.",
+  "packs": {
+    "uisfx": {
+      "repo": "https://github.com/romainsimon/uisfx",
+      "branch": "main",
+      "path": "packages/uisfx/sounds",
+      "prefer_ext": ".mp3",
+      "kind": "sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://github.com/romainsimon/uisfx/blob/main/LICENSE-AUDIO",
+      "credit": "uisfx by Romain Simon",
+      "attribution_required": false,
+      "about": "936 synthesized UI/motion sounds: 78 cues (success, error, swipe, toggle, notification, loading, unlock, level-up...) in 12 sonic styles (minimal, soft, glass, studio, cinematic, scifi, arcade, organic, zen, dreamy, rubber, mechanical)."
+    },
+    "kenney-interface": {
+      "repo": "https://github.com/hipdiscovery/Free-Sound-Effects",
+      "branch": "master",
+      "path": "audio/kenney-interface",
+      "catalog": "catalog.json",
+      "kind": "sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://kenney.nl/assets/interface-sounds",
+      "credit": "Kenney (kenney.nl), Interface Sounds",
+      "attribution_required": false,
+      "about": "100 recorded interface sounds from Kenney (click, select, switch, toggle, open/close, maximize/minimize, glass, glitch, error, confirmation, drop, pluck, scratch...), with per-file licence, tags and durations."
+    }
+  }
+}

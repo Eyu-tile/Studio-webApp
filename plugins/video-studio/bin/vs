@@ -1,0 +1,102 @@
+#!/usr/bin/env bash
+# video-studio CLI: `vs <command> [args]`
+# Tools ship with the plugin; your style files and projects live in a workspace
+# folder: $VS_WORKSPACE, else <git root or cwd>/video-studio.
+set -euo pipefail
+src="${BASH_SOURCE[0]}"
+while [ -L "$src" ]; do src="$(readlink "$src")"; done
+root="$(cd "$(dirname "$src")/.." && pwd)"
+tools="$root/tools"
+venv="${VS_VENV:-$HOME/.cache/video-studio/venv}"
+py="python3"
+[ -x "$venv/bin/python" ] && py="$venv/bin/python"
+ws="${VS_WORKSPACE:-$(git rev-parse --show-toplevel 2>/dev/null || pwd)/video-studio}"
+
+init_ws() {
+  mkdir -p "$ws/style" "$ws/projects" "$ws/library/assets"
+  for f in brand.md moves.md notes.md; do
+    [ -f "$ws/style/$f" ] || cp "$root/defaults/$f" "$ws/style/$f"
+  done
+  gi="$ws/.gitignore"
+  if [ ! -f "$gi" ]; then
+    printf 'projects/*\n!projects/.gitkeep\nstyle/refs/\n' > "$gi"
+    touch "$ws/projects/.gitkeep"
+  fi
+}
+
+cmd="${1:-help}"
+shift || true
+case "$cmd" in
+  transcribe|pack|propose_cuts|silences|render|captions|filmstrip|qa|export_edl|ingest|scenes|beats|sync|multicam|convert|thumbs|sfx|packs|music)
+    exec "$py" "$tools/$cmd.py" "$@" ;;
+  cuts) exec "$py" "$tools/propose_cuts.py" "$@" ;;
+  fetch) exec "$py" "$tools/assets.py" "$@" ;;
+  add) exec "$py" "$tools/assets.py" add "$@" ;;
+  keys) exec "$py" "$tools/assets.py" keys "$@" ;;
+  credits) exec "$py" "$tools/assets.py" credits "$@" ;;
+  export) exec "$py" "$tools/export_edl.py" "$@" ;;
+  probe) exec ffprobe -v error -show_entries format=duration:stream=codec_type,codec_name,width,height,avg_frame_rate,sample_rate,channels -of compact "$@" ;;
+  init) init_ws; echo "workspace ready: $ws (style/brand.md, moves.md, notes.md, projects/)" ;;
+  new)
+    name="${1:?usage: vs new <project-name>}"
+    init_ws
+    d="$ws/projects/$name"
+    mkdir -p "$d"/{raw,refs,work/gfx,out} "$d"/assets/{broll,images,logos,music,sfx,fonts,luts,graphics}
+    [ -f "$d/project.md" ] || sed "s/{{NAME}}/$name/g" "$root/defaults/project.md" > "$d/project.md"
+    echo "created $d (put footage in raw/)" ;;
+  where) echo "plugin: $root"; echo "workspace: $ws"; echo "venv: $venv" ;;
+  setup) VS_VENV="$venv" VS_ROOT="$root" exec bash "$tools/setup.sh" "$@" ;;
+  doctor) VS_VENV="$venv" VS_ROOT="$root" exec bash "$tools/setup.sh" --check ;;
+  earshot)
+    eh="${VS_EARSHOT_HOME:-$HOME/.cache/video-studio/earshot}"
+    [ -x "$eh/.venv/bin/python" ] || { echo "earshot not installed: vs setup --earshot" >&2; exit 1; }
+    exec "$eh/.venv/bin/python" -m earshot "$@" ;;
+  yt-dlp) if [ -x "$venv/bin/yt-dlp" ]; then exec "$venv/bin/yt-dlp" "$@"; else exec yt-dlp "$@"; fi ;;
+  help|-h|--help)
+    cat <<'HELP'
+vs <command>                                         video-studio plugin
+ setup / workspace
+  setup [--packs] [--earshot] [--remotion]  install whisper venv, numpy, yt-dlp, gdown; free SFX packs / earshot / Remotion
+  doctor                  check tools
+  init                    create ./video-studio/{style,projects} here
+  new <name>              video-studio/projects/<name>/{raw,work,out} + project.md
+  where                   plugin, workspace and venv paths
+ understand footage
+  probe <file>            stream info
+  ingest <dir> -o work/media            catalogue clips + contact sheets
+  transcribe <in> -o work/transcript   word timestamps [--model large-v3 --lang en --prompt "names"]
+  pack <transcript.json> -o x.md       LLM-readable transcript
+  scenes <in> -o work/scenes           shot detection + sheet (b-roll, measuring references)
+  silences <in> -o work/sil.json [--edl work/edl.json]
+  filmstrip <video> -o x.png --every 5 | --at 1,2 | --cuts edl.json
+  beats detect <music> -o work/beats.json
+  sync <ref> <other>... -o work/sync.json   align cameras/recorders by audio
+ get media
+  fetch search "<query>" --type video|photo|music|sfx --project P [--provider archive,youtube,wikipedia,...]
+  fetch get <results.json> 2 5 7 [--quality hd --section 95-110]  download picks / only a section (logged with licences)
+  add <files|folders|zips|URLs>... --project P [--as broll|music|sfx|logo|font|lut|ref|raw] | --library
+  keys set|list|unset pexels|pixabay|unsplash|freesound|jamendo  free API keys for stock search
+  credits --project P     regenerate assets/CREDITS.md
+ build the edit
+  cuts <transcript.json> -o work/edl.json [--max-pause 0.45]
+  beats snap <edl> --beats work/beats.json -o work/edl.beat.json [--every 2]
+  multicam --sync s.json --angle V=MIC ... [--wide V] --mix A --end T -o work/edl.json
+  captions <transcript.json> <edl.json> -o work/captions --style bold-pop|clean|minimal|karaoke --aspect 9:16
+  render <edl.json> -o out/draft.mp4 [--preview --preset reels --captions c.ass --range 10-20]
+ music & sound design
+  music analyze <track> | music fit <track> --edl e.json -o work/music_fit.wav   BPM/sections; fit to edit length on downbeats
+  packs list | packs install --defaults | packs add <git-url> --name n --path p --license L   free GitHub sound libraries
+  sfx plan --edl e.json | --hyperframes dir | --video v.mp4 -o work/sfx_plan.json   find every moment, pick real recordings
+  sfx apply <video> --plan p.json -o out.mp4 [--stem sfx.wav]  |  sfx merge <edl> --plan p.json -o edl.sfx.json
+  sfx library | sfx bank --from earshot                              what's available / render earshot's code-made bank
+  earshot critique <video> | timeline <video> | describe <wav> | ...  (optional; vs setup --earshot)
+ check & deliver
+  qa <video> --edl e.json --transcript t.json [--preset reels --max-length 60]
+  convert <in> -o out.gif|.webm|.mov|.mp3|.wav|.mp4 [--target-mb 15 --enhance-voice --height 1080]
+  thumbs <video> -o work/thumbs [--at 12.4 --title "TEXT" --size 1280x720]
+  export <edl.json> -o out/rough_cut   CMX3600 .edl + .fcpxml for Premiere/Resolve/FCP
+  yt-dlp <args>           downloader from the plugin venv
+HELP
+    ;;
+  *) echo "unknown command: $cmd (try: vs help)" >&2; exit 2 ;;
+esac
