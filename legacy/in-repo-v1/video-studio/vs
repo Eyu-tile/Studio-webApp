@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+# video-studio CLI: `video-studio/vs <command> [args]`
+# Uses video-studio/.venv when setup.sh created one, else system python3.
+set -euo pipefail
+here="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+py="python3"
+[ -x "$here/.venv/bin/python" ] && py="$here/.venv/bin/python"
+
+cmd="${1:-help}"
+shift || true
+case "$cmd" in
+  transcribe|pack|propose_cuts|silences|render|captions|filmstrip|qa|export_edl)
+    exec "$py" "$here/scripts/$cmd.py" "$@" ;;
+  cuts) exec "$py" "$here/scripts/propose_cuts.py" "$@" ;;
+  export) exec "$py" "$here/scripts/export_edl.py" "$@" ;;
+  probe) exec ffprobe -v error -show_entries format=duration:stream=codec_type,codec_name,width,height,avg_frame_rate,sample_rate,channels -of compact "$@" ;;
+  new)
+    name="${1:?usage: vs new <project-name>}"
+    d="$here/projects/$name"
+    mkdir -p "$d"/{raw,work/gfx,out}
+    [ -f "$d/project.md" ] || sed "s/{{NAME}}/$name/g" "$here/templates/project.md" > "$d/project.md"
+    echo "created $d (put footage in raw/)" ;;
+  doctor) exec bash "$here/setup.sh" --check ;;
+  help|-h|--help)
+    cat <<'EOF'
+video-studio/vs <command>
+  new <name>                       scaffold projects/<name>/{raw,work,out} + project.md
+  doctor                           check tools
+  probe <file>                     stream info
+  transcribe <in> -o work/transcript [--model large-v3 --lang en --prompt "Nexa"]
+  pack <transcript.json> -o work/transcript.md
+  cuts <transcript.json> -o work/edl.json [--max-pause 0.5 --pad 0.08]
+  silences <in> -o work/silences.json [--edl work/edl.json]
+  captions <transcript.json> <edl.json> -o work/captions --style bold-pop|clean|minimal --aspect 9:16
+  render <edl.json> -o out/draft.mp4 [--preview --aspect 9:16 --captions x.ass --loudnorm -14]
+  filmstrip <video> -o work/strip.png --every 5 | --at 1,2 | --cuts edl.json
+  qa <video> --edl edl.json --transcript transcript.json --lufs -14
+  export <edl.json> -o out/rough_cut      (CMX3600 .edl + .fcpxml for Premiere/Resolve/FCP)
+EOF
+    ;;
+  *) echo "unknown command: $cmd (try: video-studio/vs help)" >&2; exit 2 ;;
+esac

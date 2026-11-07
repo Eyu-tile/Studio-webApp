@@ -39,3 +39,8 @@ claude --plugin-dir ./plugins/video-studio plugin details video-studio
 ```
 Bump `version` in both `plugins/video-studio/.claude-plugin/plugin.json` and `.claude-plugin/marketplace.json`
 when you release; users get it with `/plugin update video-studio`.
+
+## Repository layout
+- `plugins/video-studio/`: the plugin (install it with the commands above)
+- `examples/nexa-workspace/`: a ready-made brand / moves / notes set to copy into a project
+- `legacy/in-repo-v1/`: the first, in-repo version of the toolkit, kept for reference
