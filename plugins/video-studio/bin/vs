@@ -27,7 +27,7 @@ init_ws() {
 cmd="${1:-help}"
 shift || true
 case "$cmd" in
-  transcribe|pack|propose_cuts|silences|render|captions|filmstrip|qa|export_edl|ingest|scenes|beats|sync|multicam|convert|thumbs|sfx|packs|music|proxy|breakdown|edl|notes|review|ai|translate|ads)
+  transcribe|pack|propose_cuts|silences|render|captions|filmstrip|qa|export_edl|ingest|scenes|beats|sync|multicam|convert|thumbs|sfx|packs|music|proxy|breakdown|edl|notes|review|ai|translate|ads|watch)
     exec "$py" "$tools/$cmd.py" "$@" ;;
   cuts) exec "$py" "$tools/propose_cuts.py" "$@" ;;
   fetch) exec "$py" "$tools/assets.py" "$@" ;;
@@ -71,6 +71,7 @@ vs <command>                                         video-studio plugin
   transcribe <in> -o work/transcript   word timestamps [--model large-v3 --lang en --prompt "names"]
   pack <transcript.json> -o x.md       LLM-readable transcript
   scenes <in> -o work/scenes           shot detection + sheet (b-roll, measuring references)
+  watch <link|file> -o work/watch/x     download + watch any video link (yt-dlp sites, Instagram fallback, Drive, direct): watch.md, frames, transcript
   breakdown <ref.mp4> -o work/ref     how a reference was made: cuts, camera moves, look, beat sync, hits + remake_edl.json
   rea decompose <ref.mp4> -o out/ref   deep forensics (optional, vs setup --rea): live/AI/3D/screen per shot, OCR text
   silences <in> -o work/sil.json [--edl work/edl.json]

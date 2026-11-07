@@ -9,6 +9,8 @@ Goal: turn 2–3 reference videos into concrete, numbered "moves" in
 `video-studio/style/moves.md` that every future edit applies.
 
 ## 1. Collect
+Fastest: `vs watch "<link>" -o video-studio/style/refs/<name>` per reference (downloads, transcribes, breaks
+down, makes frame sheets; read its `watch.md`). Or by hand:
 - Local files → `video-studio/style/refs/` (gitignored).
 - Links (only content the person has rights to study): `vs yt-dlp -f "bv*[height<=720]+ba/b[height<=720]" -o "video-studio/style/refs/%(title).60s.%(ext)s" <url>`
   Instagram/TikTok often need a login: add `--cookies-from-browser chrome` (or safari/firefox) after the person

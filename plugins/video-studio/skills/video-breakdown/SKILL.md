@@ -10,6 +10,11 @@ would it take to remake it** (what to film, what to generate, what to build as g
 the person may study; a remake uses their own footage, music and script, never the reference's.
 
 ## 1. Measure (always)
+From a link (Instagram, TikTok, YouTube, X, Vimeo, Drive, a direct file...), watch it first:
+```bash
+vs watch "<link>" -o work/ref          # video + caption + transcript + breakdown + frame sheets -> watch.md
+```
+For a file you already have:
 ```bash
 vs breakdown ref.mp4 -o work/ref
 ```
