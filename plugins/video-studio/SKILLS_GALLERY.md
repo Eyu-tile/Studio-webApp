@@ -11,14 +11,14 @@ Original (MIT): `video-edit`, `video-captions`, `video-repurpose`, `video-montag
 `video-qa`, `video-nle-handoff`, `video-setup`; agents `edit-planner`, `footage-logger`, `motion-designer`,
 `video-qa-reviewer`; the `vs` CLI.
 
-Bundled: `hyperframes`, `hyperframes-cli`, `hyperframes-registry`, `media-use` from
+Bundled (v0.9.19): `hyperframes`, `hyperframes-cli`, `hyperframes-registry`, `media-use`, `reverse-any-video`, `style-sampling` from
 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) (~74.6k ★, Apache-2.0).
 
 ## Video frameworks (motion graphics as code)
 
 | repo | ★ | install | notes |
 |------|---|---------|-------|
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | ~74.6k | `npx skills add heygen-com/hyperframes` · `npx hyperframes skills update` · plugin: `claude plugin marketplace add heygen-com/hyperframes` then `claude plugin install hyperframes@hyperframes` | Node 22+, FFmpeg. 7 published skills; on-demand ones: `figma`, `slideshow`, `remotion-to-hyperframes`. **Included in this plugin.** |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | ~74.6k | `npx skills add heygen-com/hyperframes` · `npx hyperframes skills update` · plugin: `claude plugin marketplace add heygen-com/hyperframes` then `claude plugin install hyperframes@hyperframes` | Node 22+, FFmpeg. 9 published skills (v0.9.19); on demand: `figma`, `slideshow`, `remotion-to-hyperframes` (the other six are bundled here). **Included in this plugin.** |
 | [remotion-dev/skills](https://github.com/remotion-dev/skills) | ~5.8k | `npx skills add remotion-dev/skills` · `npx remotion skills add` | React video. Skills: `remotion-best-practices`, `-create`, `-captions`, `-render`, `-multimedia`, … Remotion needs a paid company license above a team-size threshold, so check before commercial use. `vs setup --remotion` |
 
 ## End-to-end editing kits (raw footage → final.mp4)

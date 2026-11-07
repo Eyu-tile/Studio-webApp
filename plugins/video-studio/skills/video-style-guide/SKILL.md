@@ -41,5 +41,11 @@ From these derive:
 - Update `brand.md` only for brand facts (colour, type, logo), not per-video choices.
 - Show the person a 10-line summary and ask what to keep/drop before saving.
 
+## Rebuild one video exactly
+To copy one reference closely (layer by layer, then checked against the original frame by frame) rather than
+learn a general style, use `/reverse-any-video`. For a whole series in a proven explainer style (Collage,
+Finance, Animated Science, 3D Brand, 3D True Crime), use `/style-sampling`. Never reuse the reference's own
+footage, music or script in a deliverable.
+
 ## 4. Apply
 `/video-edit` reads `moves.md` before planning. When feedback contradicts a move, update the move.

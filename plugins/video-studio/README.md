@@ -56,7 +56,8 @@ Drop footage into `raw/` and talk to Claude:
 | `video-qa` | automated and visual checks |
 | `video-nle-handoff` | CMX3600 / FCPXML export, Resolve and FCP MCP pointers |
 | `video-setup` | install/repair tools |
-| `hyperframes`, `hyperframes-cli`, `hyperframes-registry`, `media-use` | HeyGen HyperFrames (Apache-2.0) |
+| `hyperframes`, `hyperframes-cli`, `hyperframes-registry`, `media-use` | HeyGen HyperFrames v0.9.19 (Apache-2.0) |
+| `reverse-any-video`, `style-sampling` | HyperFrames: rebuild a reference video as an editable project; new episodes in proven explainer styles |
 
 **Agents**: `edit-planner`, `footage-logger`, `broll-researcher`, `motion-designer`, `video-qa-reviewer`.
 
@@ -80,6 +81,10 @@ partial-range previews.
 Pexels, Pixabay, Unsplash and Freesound need a free API key each: `vs keys set pexels` (stored in
 `~/.config/video-studio/keys.env`, mode 600; environment variables `PEXELS_API_KEY` etc. also work). Internet
 Archive, Wikipedia, Wikimedia Commons, Creative Commons YouTube, Openverse and NASA work without keys. NonCommercial/NoDerivs licences are excluded by default.
+
+## Privacy
+The bundled HyperFrames CLI sends usage telemetry (and a usage beacon when its skill starts). Turn it off with
+`npx hyperframes telemetry disable`. The plugin's own `vs` tools send nothing.
 
 ## Workspace
 Style files, projects and a shared `library/` (logos, fonts, LUTs, music) live in your repo (`video-studio/`), so brand rules, notes from past feedback
