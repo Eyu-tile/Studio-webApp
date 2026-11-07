@@ -31,7 +31,8 @@ Speed changes and transitions are accounted for.
 - `--aspect` must match the render's `--aspect`. Regenerate after EVERY EDL change.
 - Fix transcript typos (brand names, jargon) in `work/transcript.json` `words[i].w` before generating, never in the .ass by hand. Re-transcribe with `--prompt "<names>"` if many are wrong.
 - Numbers: write as digits ("3x faster", "$40k") by editing the word text.
-- Safe zones: 9:16 keep out of bottom 20% and right 15%; 16:9 inside 80% title-safe. Check with `vs filmstrip out/draft.mp4 -o work/strip.png --every 3` and look for collisions with faces, slides or lower thirds. Move with a lower/higher style or by editing `MarginV` in the generated .ass `Style:` line.
+- Safe zones: pass `--preset` (reels, tiktok, shorts, story, feed) and captions stay out of that platform's UI
+  (Reels ads: top 14%, bottom 35%, sides 6%); without a preset, 9:16 keeps out of the bottom 30% and right 15%; 16:9 inside 80% title-safe. Check with `vs filmstrip out/draft.mp4 -o work/strip.png --every 3` and look for collisions with faces, slides or lower thirds. Move with a lower/higher style or by editing `MarginV` in the generated .ass `Style:` line.
 - Platforms that auto-caption (YouTube, LinkedIn): also deliver the `.srt` so viewers can toggle.
 - Fancier animated captions (per-word bounce, emoji, karaoke fills with motion): build them as a HyperFrames composition (`/hyperframes`, its `references/captions.md`) and place via EDL `overlays`.
 

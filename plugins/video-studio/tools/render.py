@@ -57,7 +57,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from vs_common import (ASPECTS, GRADES, PRESETS, VOICE_ENHANCE, die, fmt_ts, has_filter,  # noqa: E402
-                       is_image, kf_expr, load_json, need, probe, ramp_points, ramp_setpts, run, timeline)
+                       is_image, kf_expr, load_json, need, probe, ramp_points, ramp_setpts, run, safe_zone,
+                       timeline)
 
 RENDER_VERSION = "2.4.0"  # part of the chunk cache key: bump when stage-1 output changes
 FADE = 0.025
@@ -108,7 +109,7 @@ def ass_ts(t):
     return f"{int(h)}:{int(m):02d}:{s:05.2f}"
 
 
-def write_texts_ass(texts, path, W, H, font):
+def write_texts_ass(texts, path, W, H, font, safe=None):
     base = min(W, H)
     styles, events = [], []
     for i, t in enumerate(texts):
@@ -118,6 +119,12 @@ def write_texts_ass(texts, path, W, H, font):
         box = t.get("box")
         border, outline, back = (3, max(size // 5, 6), ass_color(box, 0x30)) if box else (1, max(size // 14, 2), ass_color("#000000", 0x80))
         ml = mr = int(W * 0.08)
+        if safe and not t.get("ignore_safe"):  # keep texts out of the platform UI
+            if align in (1, 2, 3):
+                mv = max(mv, safe["bottom"] + 0.02)
+            elif align in (7, 8, 9):
+                mv = max(mv, safe["top"] + 0.02)
+            ml, mr = max(ml, int(W * (safe["left"] + 0.02))), max(mr, int(W * (safe["right"] + 0.02)))
         styles.append(f"Style: T{i},{t.get('font', font)},{size},{col},{col},{ass_color('#000000')},{back},"
                       f"{-1 if t.get('bold', True) else 0},0,0,0,100,100,0,0,{border},{outline},0,{align},{ml},{mr},{int(H * mv)},1")
         anim = t.get("anim", "fade")
@@ -543,7 +550,9 @@ def finish(ctx, gr, vlab, alab, total, out):
     if edl.get("texts"):
         tpath = out.with_suffix(".texts.ass")
         out.parent.mkdir(parents=True, exist_ok=True)
-        write_texts_ass(edl["texts"], tpath, W, H, ctx.args.font)
+        aspect = ctx.args.aspect or PRESETS.get(ctx.args.preset, {}).get("aspect")
+        write_texts_ass(edl["texts"], tpath, W, H, ctx.args.font,
+                        safe_zone(ctx.args.preset, aspect if aspect else ("9:16" if H > W else None)))
         gr.f(f"[{vlab}]subtitles='{esc_path(tpath)}'{fontsdir}[tv]")
         vlab = "tv"
     if ctx.args.captions:

@@ -57,6 +57,7 @@ def main():
     ap.add_argument("--max-length", type=float)
     ap.add_argument("--final", action="store_true", help="full-quality render (default: --preview)")
     ap.add_argument("--range", help="render/review only this output window, e.g. 20-35")
+    ap.add_argument("--brief", help="ad brief (vs ads brief): also run the ad delivery checks")
     ap.add_argument("--notes", help="notes file (default: work/notes.json next to the EDL)")
     ap.add_argument("--dir", help="review folder (default: work/review next to the EDL)")
     args = ap.parse_args()
@@ -127,6 +128,16 @@ def main():
             if tool("filmstrip", video, "-o", rd / "texts.png", "--at", at, "--cols", "4", "--width", "400").returncode == 0:
                 look.append(("texts.png", "every on-screen text: spelling, size, inside title-safe, not covering faces"))
 
+    if args.brief and video and video.exists():
+        from ads import ad_checks
+        for lv, check, msg in ad_checks(video, edl, load_json(args.brief), args.captions, args.preset):
+            if lv == "FAIL":
+                fails.append(f"ad {check}: {msg}")
+            elif lv == "WARN":
+                warns.append(f"ad {check}: {msg}")
+            elif lv == "MANUAL":
+                look.append(("(manual)", f"{check}: {msg}"))
+
     # 4. What changed, open notes.
     changed = []
     if rounds and (rounds[-1] / "edl.json").exists():
@@ -142,7 +153,8 @@ def main():
     lines += ["## FAIL (fix before showing anyone)"] + ([f"- {f}" for f in fails] or ["- none"]) + [""]
     lines += ["## WARN (decide: fix or explain)"] + ([f"- {w}" for w in warns] or ["- none"]) + [""]
     if look:
-        lines += ["## Look at (Read each image)"] + [f"- `{rd / f}`: {why}" for f, why in look] + [""]
+        lines += ["## Look at (Read each image)"] + [f"- `{rd / f}`: {why}" if f != "(manual)" else f"- by hand: {why}"
+                                                     for f, why in look] + [""]
     if changed:
         lines += [f"## Changed since round {len(rounds)}"] + [f"- {c}" for c in changed] + [""]
     if open_notes:
@@ -155,12 +167,12 @@ def main():
     lines.append(f"**{verdict}**" + (f", {len(open_notes)} open note(s)" if open_notes else ""))
     (rd / "review.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     save_json(rd / "review.json", {"round": len(rounds) + 1, "verdict": verdict, "fails": fails, "warns": warns,
-                                   "look": [str(rd / f) for f, _ in look], "changed": changed,
+                                   "look": [str(rd / f) for f, _ in look if f != "(manual)"], "changed": changed,
                                    "open_notes": [n["id"] for n in open_notes],
                                    "video": str(video) if video else None})
     print(f"round {len(rounds) + 1}: {verdict} ({len(fails)} fail, {len(warns)} warn, {len(open_notes)} open notes) "
           f"-> {rd / 'review.md'}")
-    print(json.dumps({"look": [str(rd / f) for f, _ in look]}))
+    print(json.dumps({"look": [str(rd / f) for f, _ in look if f != "(manual)"]}))
     sys.exit(1 if fails else 0)
 
 

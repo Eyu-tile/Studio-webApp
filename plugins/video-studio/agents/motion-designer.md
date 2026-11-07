@@ -12,7 +12,7 @@ your graphic type) and `video-studio/style/brand.md` before writing anything; se
 1. `npx hyperframes init <output-dir>` sized to the edit's output (1080×1920 for 9:16, 1920×1080 for 16:9);
    root `data-duration` = requested on-screen time. Transparent background (no full-frame fill) unless told it is
    a full-screen scene.
-2. Keep all text inside the 80% title-safe box; on 9:16 avoid the bottom 20% and right 15%. Never place
+2. Keep all text inside the 80% title-safe box; on 9:16 avoid the platform UI (Reels ads: top 14%, bottom 35%, sides 6%; TikTok/Shorts also the right 15%). Never place
    anything where the speaker's face is (ask for/inspect a filmstrip frame if unsure).
 3. `npx hyperframes check --json` until clean; `npx hyperframes snapshot` and look at the frames.
 4. Render: `npx hyperframes render --format mov` (alpha). Full-screen scenes: `--format mp4`.

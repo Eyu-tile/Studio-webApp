@@ -34,6 +34,30 @@ PRESETS = {
     "broadcast": {"aspect": "16:9", "lufs": -23, "max": None, "fps": None, "note": "EBU R128 broadcast"},
 }
 
+# UI safe zones per platform, as fractions of the frame to keep free of text, logos and key action.
+# Meta Reels ads: 14% top, 35% bottom, 6% sides (as restated by ad-spec guides; Meta's own spec page
+# was not reachable when this was written). TikTok publishes templates, not numbers: these are
+# conservative defaults with the right-side action rail. Check the platform template for new formats.
+SAFE_ZONES = {
+    "reels":   {"top": 0.14, "bottom": 0.35, "left": 0.06, "right": 0.06},
+    "story":   {"top": 0.14, "bottom": 0.20, "left": 0.06, "right": 0.06},
+    "tiktok":  {"top": 0.12, "bottom": 0.30, "left": 0.06, "right": 0.15},
+    "shorts":  {"top": 0.12, "bottom": 0.25, "left": 0.06, "right": 0.15},
+    "feed":    {"top": 0.05, "bottom": 0.12, "left": 0.05, "right": 0.05},
+    "default_vertical": {"top": 0.12, "bottom": 0.30, "left": 0.06, "right": 0.15},
+}
+
+
+def safe_zone(preset=None, aspect=None):
+    """Safe zone for a preset (or a generic one for vertical aspects); None for landscape."""
+    if preset in SAFE_ZONES:
+        return SAFE_ZONES[preset]
+    a = PRESETS.get(preset, {}).get("aspect") or aspect
+    if a == "9:16":
+        return SAFE_ZONES["default_vertical"]
+    return None
+
+
 # Colour grades as ffmpeg filter chains (applied after scaling, before overlays).
 GRADES = {
     "none": "",

@@ -128,6 +128,12 @@ def main():
     # Vertical: keep clear of right-rail icons and the caption/UI band at the bottom.
     margin_l = int(W * 0.08)
     margin_r = int(W * (0.16 if vertical else 0.08))
+    from vs_common import safe_zone
+    sz = safe_zone(args.preset, args.aspect)
+    if sz:  # platform UI: never let captions sit under it
+        margin_v = max(margin_v, int(H * (sz["bottom"] + 0.02)))
+        margin_l = max(margin_l, int(W * (sz["left"] + 0.02)))
+        margin_r = max(margin_r, int(W * (sz["right"] + 0.02)))
 
     txt, acc = ass_color(args.text_color), ass_color(args.accent)
     # Karaoke fills from SecondaryColour (not yet spoken) to PrimaryColour (spoken).

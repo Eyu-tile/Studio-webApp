@@ -38,7 +38,10 @@ Tools: `vs <cmd>` (on PATH via this plugin's SessionStart hook; if missing, run
 ## 2. Pick the recipe
 | the job | go to |
 |---|---|
-| talking head, short-form, YouTube A-roll, ad with a presenter | transcript cut below + `/video-captions` |
+| talking head, short-form, YouTube A-roll | transcript cut below + `/video-captions` |
+| UGC or VSL ads, performance creative, ad variants from a brief | `/ugc-ads` (uses this loop) |
+| how a reference was made / remake a winning ad | `/video-breakdown` |
+| subtitles in other languages, dubbing | `/video-translate` |
 | long recording → several shorts/clips | `/video-repurpose` |
 | b-roll montage, music video, travel/event highlights, slideshow/photos | `/video-montage` |
 | podcast / interview / panel with 2+ cameras | `/video-multicam` |
@@ -111,7 +114,8 @@ then `/video-export` for other formats, thumbnails and `.srt`. Report the file p
 3. No full-quality render before the plan is approved (unless "no stops").
 4. `raw/` is read-only. Outputs go to `work/` and `out/`.
 5. Regenerate captions after every EDL change, for the same aspect as the render.
-6. Text/graphics inside title-safe (80%); vertical: clear of bottom 20% and right 15%.
+6. Text/graphics inside title-safe (80%); vertical: clear of the platform UI (Reels ads: top 14%, bottom 35%, sides
+   6%; TikTok/Shorts: right-side rail too). `--preset` keeps captions and texts out of it automatically.
 7. Only use music, footage, fonts and SFX the person has rights to (stock is logged with its licence in
    `assets/CREDITS.md`; report required credit lines). A reference video's style is fair game; its footage,
    music and script are not.
