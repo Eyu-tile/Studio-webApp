@@ -39,7 +39,7 @@ the same `--preset`, render. Text/overlays positioned with `pos` adapt; pixel-pl
 | resize | `vs convert out/final.mp4 -o out/final_720.mp4 --height 720` |
 
 ## Thumbnails / covers
-`vs thumbs out/final.mp4 -o work/thumbs --n 8` → Read `candidates.png`, pick an expressive, sharp frame →
+`vs thumbs out/final.mp4 -o work/thumbs --n 8` → `ranked.json` scores each candidate (sharpness, exposure, contrast, colour, faces; dark/blurry rejected); Read `candidates.png` and pick an expressive frame from the top ones →
 `vs thumbs out/final.mp4 -o out/thumb.jpg --at <t> --title "3 WORDS MAX" --size 1280x720` (Reels cover
 `1080x1920`). Richer designs (cut-out person, arrows, brand layout) via `/motion-graphics` as a still.
 

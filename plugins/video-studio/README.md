@@ -52,6 +52,7 @@ Drop footage into `raw/` and talk to Claude:
 | `video-sound-design` | SFX on the exact frame from EDLs, HyperFrames or any video; libraries; earshot listening |
 | `video-export` | platform presets, multi-aspect, GIF/WebM/ProRes/MP3, size limits, thumbnails, chapters |
 | `video-style-guide` | learn a style from reference videos |
+| `video-translate` | translated subtitles (SRT/ASS) and dubbed tracks timed to the edit, music kept under |
 | `video-breakdown` | how a reference was made, shot by shot (camera, look, pacing, beat sync; optional rea-video forensics: live/AI/3D/screen, OCR text), remake plan + template EDL |
 | `motion-graphics` | titles, lower thirds, charts, end cards with HyperFrames |
 | `video-qa` | automated and visual checks |
@@ -63,7 +64,7 @@ Drop footage into `raw/` and talk to Claude:
 **Agents**: `edit-planner`, `footage-logger`, `broll-researcher`, `motion-designer`, `video-qa-reviewer`.
 
 **CLI** (`vs help`): `setup doctor init new where add fetch keys credits probe ingest transcribe pack scenes
-silences filmstrip beats sync cuts multicam captions music packs sfx earshot render proxy breakdown rea edl review notes ai qa convert thumbs export yt-dlp`.
+silences filmstrip beats sync cuts multicam captions music packs sfx earshot render proxy breakdown rea edl review notes ai translate qa convert thumbs export yt-dlp`.
 
 **Agentic loop**: `vs edl` makes small edits (trim, split, cut a time range, delete, move, insert, set) with
 version history, undo/redo and ripple (texts, overlays, sfx follow the picture); `vs review` runs one

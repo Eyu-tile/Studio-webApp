@@ -2,8 +2,9 @@
 """Thumbnails / cover frames.
 
   vs thumbs out/final.mp4 -o work/thumbs --n 8
-      candidate frames (ffmpeg's representative-frame picker, spread over the video)
-      + work/thumbs/candidates.png contact sheet to choose from
+      candidate frames (ffmpeg's representative-frame picker, spread over the video), ranked by
+      sharpness, exposure, contrast, colourfulness and faces (OpenCV, if installed) into
+      work/thumbs/ranked.json, + work/thumbs/candidates.png contact sheet to choose from
   vs thumbs out/final.mp4 -o out/thumb.jpg --at 12.4 --title "I QUIT MY JOB" --size 1280x720
       one frame, cropped to size, with a bold title (accent colour optional)
 """
@@ -14,11 +15,47 @@ import tempfile
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from vs_common import need, probe, run  # noqa: E402
+from vs_common import need, need_numpy, probe, run, save_json  # noqa: E402
 
 
 def esc(p):
     return str(p).replace("\\", "/").replace(":", r"\:").replace("'", r"\'")
+
+
+def rank(files, times):
+    """Score frames for thumbnail use (0..1): sharp, well exposed, contrasty, colourful, with a face."""
+    np = need_numpy()
+    faces = None
+    try:
+        import cv2
+        faces = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
+    except ImportError:
+        pass
+    out = []
+    for f, t in zip(files, times):
+        if not f.exists():
+            continue
+        raw = subprocess.run(["ffmpeg", "-v", "error", "-i", str(f), "-vf", "scale=320:-2", "-f", "rawvideo",
+                              "-pix_fmt", "rgb24", "-"], capture_output=True).stdout
+        h = len(raw) // (320 * 3)
+        img = np.frombuffer(raw[: h * 320 * 3], np.uint8).reshape(h, 320, 3).astype(np.float32)
+        g = img.mean(-1)
+        lap = np.abs(4 * g[1:-1, 1:-1] - g[:-2, 1:-1] - g[2:, 1:-1] - g[1:-1, :-2] - g[1:-1, 2:]).mean()
+        sharp = min(lap / 12.0, 1.0)
+        mean = g.mean() / 255
+        exposure = 1 - min(abs(mean - 0.5) / 0.4, 1)
+        contrast = min(g.std() / 64.0, 1.0)
+        rg, yb = img[..., 0] - img[..., 1], 0.5 * (img[..., 0] + img[..., 1]) - img[..., 2]
+        colour = min((np.sqrt(rg.std() ** 2 + yb.std() ** 2) + 0.3 * np.sqrt(rg.mean() ** 2 + yb.mean() ** 2)) / 60, 1)
+        nface = 0
+        if faces is not None:
+            nface = len(faces.detectMultiScale(g.astype(np.uint8), 1.1, 4, minSize=(24, 24)))
+        score = 0.35 * sharp + 0.2 * exposure + 0.2 * contrast + 0.15 * colour + (0.1 if nface else 0)
+        reject = mean < 0.08 or mean > 0.95 or sharp < 0.08
+        out.append({"file": f.name, "t": round(t, 2), "score": round(float(score), 3), "sharp": round(float(sharp), 2),
+                    "exposure": round(float(exposure), 2), "contrast": round(float(contrast), 2),
+                    "colour": round(float(colour), 2), "faces": nface, "reject": bool(reject)})
+    return sorted(out, key=lambda r: (r["reject"], -r["score"]))
 
 
 def main():
@@ -49,7 +86,10 @@ def main():
         subprocess.run([sys.executable, str(Path(__file__).parent / "filmstrip.py"), args.input, "-o",
                         str(out / "candidates.png"), "--at", ",".join(f"{t:.2f}" for t in times), "--width", "360"],
                        capture_output=True)
-        print(f"{args.n} candidates -> {out}/cand_*.jpg, contact sheet {out}/candidates.png")
+        ranked = rank([out / f"cand_{i:02d}.jpg" for i in range(args.n)], times)
+        save_json(out / "ranked.json", ranked)
+        best = ", ".join(f"{r['file']} @ {r['t']:.1f}s ({r['score']:.2f})" for r in ranked[:3] if not r["reject"])
+        print(f"{args.n} candidates -> {out}/cand_*.jpg, contact sheet {out}/candidates.png; best: {best or 'none usable'}")
         return
 
     W, H = (int(x) for x in args.size.lower().split("x"))

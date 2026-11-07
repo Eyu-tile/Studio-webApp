@@ -27,7 +27,7 @@ init_ws() {
 cmd="${1:-help}"
 shift || true
 case "$cmd" in
-  transcribe|pack|propose_cuts|silences|render|captions|filmstrip|qa|export_edl|ingest|scenes|beats|sync|multicam|convert|thumbs|sfx|packs|music|proxy|breakdown|edl|notes|review|ai)
+  transcribe|pack|propose_cuts|silences|render|captions|filmstrip|qa|export_edl|ingest|scenes|beats|sync|multicam|convert|thumbs|sfx|packs|music|proxy|breakdown|edl|notes|review|ai|translate)
     exec "$py" "$tools/$cmd.py" "$@" ;;
   cuts) exec "$py" "$tools/propose_cuts.py" "$@" ;;
   fetch) exec "$py" "$tools/assets.py" "$@" ;;
@@ -92,6 +92,7 @@ vs <command>                                         video-studio plugin
   edl show|at|lint|trim|split|cut|delete|move|insert|set|undo|redo|history|diff <edl>   small edits with version history
   review <edl> [--preset reels --captions c.ass --transcript t.json]   lint + preview render + QA + images -> work/review/rNN/review.md
   notes add work/notes.json --edl work/edl.json notes.txt | list | done <id> --how "..."   timestamped feedback as a checklist
+  translate export <transcript> <edl> -o work/tr/es.json --lang es | check | subs | dub --clips dir   subtitles + dubbing
   proxy <files|folder> [--height 540]                                 light proxies for 4K/long sources (used by --preview)
   ai track <edl> --aspect 9:16 | match <ref> <clip> -o x.cube | stems | cutout | upscale | interpolate | status   (AI with fallbacks)
  music & sound design

@@ -34,3 +34,5 @@ Speed changes and transitions are accounted for.
 - Safe zones: 9:16 keep out of bottom 20% and right 15%; 16:9 inside 80% title-safe. Check with `vs filmstrip out/draft.mp4 -o work/strip.png --every 3` and look for collisions with faces, slides or lower thirds. Move with a lower/higher style or by editing `MarginV` in the generated .ass `Style:` line.
 - Platforms that auto-caption (YouTube, LinkedIn): also deliver the `.srt` so viewers can toggle.
 - Fancier animated captions (per-word bounce, emoji, karaoke fills with motion): build them as a HyperFrames composition (`/hyperframes`, its `references/captions.md`) and place via EDL `overlays`.
+
+Other languages: `/video-translate` (translated SRT/ASS on the edited timeline, and dubbing).
