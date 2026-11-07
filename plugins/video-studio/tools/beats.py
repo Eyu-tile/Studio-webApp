@@ -48,7 +48,31 @@ def onset_envelope(path):
 LATENCY = NFFT / 2 / SR
 
 
+def detect_librosa(path):
+    import librosa
+    import numpy as np
+    y, sr = librosa.load(path, sr=SR, mono=True)
+    tempo, beats = librosa.beat.beat_track(y=y, sr=sr, units="time", trim=False)
+    env = librosa.onset.onset_strength(y=y, sr=sr)
+    on = librosa.onset.onset_detect(onset_envelope=env, sr=sr, units="time")
+    beats = [float(b) for b in beats]
+    # Downbeat: the beat phase (mod 4) with the most onset energy.
+    fr = sr / 512
+    strength = [sum(env[min(int(t * fr), env.size - 1)] for t in beats[k::4]) for k in range(4)] if beats else [0]
+    k0 = int(np.argmax(strength))
+    return {"bpm": round(float(np.atleast_1d(tempo)[0]), 1), "beats": [round(b, 3) for b in beats],
+            "downbeats": [round(b, 3) for b in beats[k0::4]], "onsets": [round(float(t), 3) for t in on],
+            "method": "librosa"}
+
+
 def detect(path):
+    import importlib.util
+    import os
+    if importlib.util.find_spec("librosa") and not os.environ.get("VS_NO_AI"):
+        try:
+            return detect_librosa(path)
+        except Exception as e:  # noqa: BLE001 - fall back to the built-in tracker
+            print(f"warning: librosa failed ({e}); using the built-in beat tracker", file=sys.stderr)
     np = need_numpy()
     env, fr = onset_envelope(path)
     ac = np.correlate(env, env, mode="full")[env.size - 1:]

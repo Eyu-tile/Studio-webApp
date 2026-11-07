@@ -25,7 +25,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from vs_common import GRADES, die, fmt_ts, need, need_numpy, probe, run, save_json  # noqa: E402
+from vs_common import GRADES, detect_cuts, die, fmt_ts, need, need_numpy, probe, save_json  # noqa: E402
 
 AW = 160  # analysis width (px)
 
@@ -39,10 +39,7 @@ def frames(path, fps, w, h):
 
 
 def scene_cuts(path, threshold):
-    p = run(["ffmpeg", "-hide_banner", "-nostats", "-i", path, "-an", "-vf",
-             f"scale=320:-2,select='gt(scene,{threshold})',showinfo", "-f", "null", "-"])
-    import re
-    return [float(x) for x in re.findall(r"pts_time:([\d.]+)", p.stderr)]
+    return detect_cuts(path, threshold)
 
 
 def phase_shift(a, b):

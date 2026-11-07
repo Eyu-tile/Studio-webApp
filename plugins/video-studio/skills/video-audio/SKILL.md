@@ -13,6 +13,12 @@ Everything is in the EDL and applied at render time, so it is non-destructive.
   transcribing both or by the person's ear. Heavy noise/echo beyond that: suggest re-recording or a dedicated
   tool (Adobe Podcast Enhance, iZotope RX, or `/media-use` cleanup options) and import the cleaned WAV
   as the segment `src`'s audio via `audio_track`.
+- Music or noise under the voice in the source: `vs ai stems raw/a.mp4 -o work/stems` → `vocals.wav`
+  (Demucs when installed with `vs setup --stems`, else a centre-channel + dialogue-band fallback that only works
+  for a centred voice over stereo music). Use the stem as `audio_track` (with `follow` for cut edits) or per shot.
+- J/L cuts for natural dialogue edits: `audio_lead` (hear the next speaker before the cut) / `audio_tail`
+  (let a line finish over the next picture) on the segment, 0.3–1.0 s.
+- Extra beds (ambience, room tone, a second music cue): `tracks[]` with `gain` automation and `duck`.
 - Uneven levels between shots: `volume_db` per segment (±3–6 dB), then `--loudnorm`.
 - Mic recorded separately: `vs sync`, then `audio_track` with that file.
 - Cuts sound clicky: renderer already fades 25 ms at every cut; for a gap in room tone, keep 100–200 ms more

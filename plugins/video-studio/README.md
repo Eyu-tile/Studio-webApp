@@ -63,7 +63,7 @@ Drop footage into `raw/` and talk to Claude:
 **Agents**: `edit-planner`, `footage-logger`, `broll-researcher`, `motion-designer`, `video-qa-reviewer`.
 
 **CLI** (`vs help`): `setup doctor init new where add fetch keys credits probe ingest transcribe pack scenes
-silences filmstrip beats sync cuts multicam captions music packs sfx earshot render proxy breakdown rea edl review notes qa convert thumbs export yt-dlp`.
+silences filmstrip beats sync cuts multicam captions music packs sfx earshot render proxy breakdown rea edl review notes ai qa convert thumbs export yt-dlp`.
 
 **Agentic loop**: `vs edl` makes small edits (trim, split, cut a time range, delete, move, insert, set) with
 version history, undo/redo and ripple (texts, overlays, sfx follow the picture); `vs review` runs one
@@ -87,6 +87,11 @@ EBU R128 loudness, h264/h265/ProRes and 10-bit, proxies, chunked parallel render
 - **earshot** (`vs setup --earshot`, MIT, CPU-only, ~1.3 GB): lets Claude hear: describe, rank and find sounds,
   critique a mix against 7 professional launch films, and render 250+ code-made sound effects.
 
+- **AI helpers** (`vs setup --ai`, `--stems`; `vs ai status`): face-tracking reframe (OpenCV), PySceneDetect cuts,
+  librosa beats, rembg cutouts, Demucs stems; Real-ESRGAN / RIFE binaries on PATH for upscaling and smooth
+  slow motion. Each has a built-in fallback (skin/motion tracking, ffmpeg scene score, built-in beat tracker,
+  flat-colour key, centre/side split, lanczos, minterpolate), so nothing here is required. `vs ai match`
+  (reference frame → `.cube` LUT) is native.
 - **rea-video** (`vs setup --rea`, Apache-2.0, ~1 GB): deep shot forensics for `/video-breakdown`: live action vs AI
   video vs 3D vs screen recording per shot, on-screen text timeline by OCR, stickers, vocal/music separation.
 

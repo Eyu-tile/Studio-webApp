@@ -3,6 +3,8 @@
 #   vs setup             install what's missing
 #   vs doctor            report only
 #   vs setup --remotion  also install Remotion agent skills into the current project
+#   vs setup --ai        optional AI helpers: OpenCV, PySceneDetect, librosa, rembg (vs ai ...)
+#   vs setup --stems     Demucs + CPU torch for vocal/music stems (~2 GB)
 #   vs setup --rea       also install rea-video (deep shot forensics: live/AI/3D/screen, OCR text timeline)
 #
 # Core: ffmpeg/ffprobe (with libass), Node 22+, Python 3.10+, a Whisper backend
@@ -10,7 +12,7 @@
 set -uo pipefail
 root="${VS_ROOT:-$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)}"
 venv="${VS_VENV:-$HOME/.cache/video-studio/venv}"
-check=0 remotion=0 earshot=0 packs=0 rea=0
+check=0 remotion=0 earshot=0 packs=0 rea=0 ai=0 stems=0
 for a in "$@"; do
   case "$a" in
     --check) check=1 ;;
@@ -18,6 +20,8 @@ for a in "$@"; do
     --earshot) earshot=1 ;;
     --packs) packs=1 ;;
     --rea) rea=1 ;;
+    --ai) ai=1 ;;
+    --stems) stems=1 ;;
     *) echo "unknown flag $a" >&2; exit 2 ;;
   esac
 done
@@ -74,6 +78,24 @@ elif [ $check = 0 ]; then
 else
   bad "no whisper backend (run: vs setup)"
 fi
+# Optional AI helpers (vs ai ...). Each has a built-in fallback, so none is required.
+if [ $ai = 1 ] && [ $check = 0 ]; then
+  pipi "opencv-python-headless>=4.8,<5" "scenedetect>=0.6.4" "librosa>=0.10" "rembg[cpu]>=2.0.50" \
+    && ok "AI helpers installed (opencv, scenedetect, librosa, rembg)" || bad "AI helpers install failed"
+fi
+if [ $stems = 1 ] && [ $check = 0 ]; then
+  if [ -x "$venv/bin/python" ]; then
+    "$venv/bin/python" -m pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu \
+      && pipi "demucs>=4.0" && ok "demucs installed (vs ai stems)" || bad "demucs install failed"
+  else bad "run vs setup first (no venv yet)"; fi
+fi
+for m in cv2:opencv scenedetect:PySceneDetect librosa:librosa rembg:rembg demucs:demucs; do
+  "$py" -c "import ${m%%:*}" 2>/dev/null && ok "${m#*:} (vs ai)" || info "${m#*:} not installed (optional: vs setup --ai / --stems; fallback in use)"
+done
+for b in realesrgan-ncnn-vulkan rife-ncnn-vulkan; do
+  command -v $b >/dev/null && ok "$b" || info "$b not on PATH (optional GPU upscaling/interpolation; ffmpeg fallback in use)"
+done
+
 if "$py" -c "import numpy" 2>/dev/null; then ok "numpy (beats, sync, multicam)"
 elif [ $check = 0 ]; then pipi numpy && ok "numpy installed" || bad "could not install numpy"
 else bad "numpy missing (run: vs setup)"; fi

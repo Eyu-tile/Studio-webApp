@@ -356,3 +356,20 @@ def total_duration(edl):
 def resolve(base, p):
     p = Path(p)
     return p if p.is_absolute() else (Path(base) / p)
+
+
+def detect_cuts(path, threshold=0.3):
+    """Hard-cut times (s). PySceneDetect's adaptive detector when installed (vs setup --ai), else
+    ffmpeg's scene score. `threshold` is the ffmpeg scale (0.2 sensitive .. 0.5 hard cuts only)."""
+    import importlib.util
+    import re
+    if importlib.util.find_spec("scenedetect") and not __import__("os").environ.get("VS_NO_AI"):
+        try:
+            from scenedetect import AdaptiveDetector, detect
+            scenes = detect(str(path), AdaptiveDetector(adaptive_threshold=1.5 + 10 * threshold))
+            return [s[0].get_seconds() for s in scenes[1:]]
+        except Exception as e:  # noqa: BLE001 - fall back to ffmpeg on any detector problem
+            print(f"warning: PySceneDetect failed ({e}); using ffmpeg", file=sys.stderr)
+    p = run(["ffmpeg", "-hide_banner", "-nostats", "-i", str(path), "-an", "-vf",
+             f"scale=320:-2,select='gt(scene,{threshold})',showinfo", "-f", "null", "-"])
+    return [float(x) for x in re.findall(r"pts_time:([\d.]+)", p.stderr)]

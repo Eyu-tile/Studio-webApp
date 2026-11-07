@@ -9,7 +9,14 @@ description: Install, verify or repair the local video editing toolchain (ffmpeg
 vs doctor                # report
 vs setup                 # install what's missing (venv in ~/.cache/video-studio)
 vs setup --remotion      # + Remotion agent skills in this project
+vs setup --ai            # optional: OpenCV (face tracking), PySceneDetect, librosa, rembg
+vs setup --stems         # optional: Demucs + CPU torch for vocal/music stems (~2 GB)
+vs setup --rea           # optional: rea-video shot forensics for /video-breakdown (~1 GB)
+vs ai status             # which AI helpers are installed; every one has a fallback
 ```
+GPU extras: put `realesrgan-ncnn-vulkan` (upscaling) and `rife-ncnn-vulkan` (frame interpolation) from their
+GitHub releases on PATH; `vs ai upscale` / `vs ai interpolate` use them, else ffmpeg lanczos / minterpolate.
+Long-cut silence removal is built in (`vs cuts`, `vs silences`); auto-editor is not needed.
 
 | need | macOS | Linux | Windows |
 |------|-------|-------|---------|

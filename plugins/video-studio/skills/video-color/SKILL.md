@@ -39,4 +39,7 @@ optional LUTs (`"lut": "path.cube"`). Always judge on stills: `vs render --previ
 ## Match a reference look
 Grab 3–4 reference frames (`vs filmstrip ref.mp4 --every 5`) and your footage at similar moments. Describe
 the difference (contrast, black level, saturation, warmth, split-tone, grain, vignette), choose the nearest
-grade, and iterate per segment. Record the final choice in `style/moves.md` so future edits reuse it.
+grade, and iterate per segment. To match exactly, fit a LUT from a reference frame:
+`vs ai match ref.png raw/camB.mp4 -o assets/luts/camB.cube --at 12 [--strength 0.8]` (mean/covariance +
+per-channel histogram transfer, prints the colour distance before/after), then `"lut": "assets/luts/camB.cube"` on
+that camera's shots. Matching camera B to camera A in multicam: use a frame of A as the reference. Record the final choice in `style/moves.md` so future edits reuse it.

@@ -21,8 +21,10 @@ description: Turn long videos (podcasts, webinars, livestreams, talks, interview
 For each approved clip, write `work/clip_<n>.edl.json`:
 - `vs cuts` on the transcript then keep only that range, or write segments by hand from word times.
 - Hook: open on the strongest line (reorder), cut the warm-up, end right after the payoff.
-- Reframe for 9:16: `focus` on the speaker (check a frame: `vs filmstrip <src> --at <t>`); multicam
-  sources → pick the angle of whoever speaks, wide shots become `fit: "blur"`.
+- Reframe for 9:16: `vs ai track work/clip_<n>.edl.json --aspect 9:16` writes keyframes that follow the
+  speaker (face tracking with OpenCV, else a skin/motion fallback; a dead zone and speed cap keep it calm).
+  Check the cut sheet; fix a shot by hand with `focus` or `kf.x`. Multicam sources → pick the angle of whoever
+  speaks, wide shots become `fit: "blur"`.
 - Hook text for the first 2–3 s: `texts` at `top`, `anim: pop`; captions `bold-pop`.
 - Optional: music bed −22 dB ducked, punch-ins on alternate cuts.
 

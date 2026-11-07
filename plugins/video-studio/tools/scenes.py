@@ -8,14 +8,13 @@ Usage:
   -> work/scenes.json [{start,end,dur}], work/scenes.png
 """
 import argparse
-import re
 import statistics
 import subprocess
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from vs_common import fmt_ts, need, probe, run, save_json  # noqa: E402
+from vs_common import detect_cuts, need, probe, save_json  # noqa: E402
 
 
 def main():
@@ -28,9 +27,7 @@ def main():
 
     need("ffmpeg")
     dur = probe(args.input)["duration"]
-    p = run(["ffmpeg", "-hide_banner", "-nostats", "-i", args.input, "-an", "-vf",
-             f"scale=320:-2,select='gt(scene,{args.threshold})',showinfo", "-f", "null", "-"])
-    cuts = [float(x) for x in re.findall(r"pts_time:([\d.]+)", p.stderr)]
+    cuts = detect_cuts(args.input, args.threshold)
     bounds = [0.0]
     for c in cuts:
         if c - bounds[-1] >= args.min_shot and dur - c >= args.min_shot:
