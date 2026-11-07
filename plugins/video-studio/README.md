@@ -63,7 +63,13 @@ Drop footage into `raw/` and talk to Claude:
 **Agents**: `edit-planner`, `footage-logger`, `broll-researcher`, `motion-designer`, `video-qa-reviewer`.
 
 **CLI** (`vs help`): `setup doctor init new where add fetch keys credits probe ingest transcribe pack scenes
-silences filmstrip beats sync cuts multicam captions music packs sfx earshot render proxy breakdown rea qa convert thumbs export yt-dlp`.
+silences filmstrip beats sync cuts multicam captions music packs sfx earshot render proxy breakdown rea edl review notes qa convert thumbs export yt-dlp`.
+
+**Agentic loop**: `vs edl` makes small edits (trim, split, cut a time range, delete, move, insert, set) with
+version history, undo/redo and ripple (texts, overlays, sfx follow the picture); `vs review` runs one
+self-check round (lint, preview render, QA, cut/overview/text sheets, what changed, open notes) and exits 0
+only when nothing fails; `vs notes` turns timestamped feedback or Frame.io CSVs into a checklist mapped to
+shots and source times.
 
 **Renderer features**: frame-accurate cuts from any number of sources, still images, speed 0.25–4×
 with pitch-kept audio, smooth speed ramps, reverse and freeze frames, J/L cuts, keyframed zoom / pan /

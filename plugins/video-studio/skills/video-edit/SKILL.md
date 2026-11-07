@@ -73,20 +73,33 @@ Transcript-driven edits:
    Add a storyboard (beats, on-screen elements) for anything with graphics or > 60 s.
    **Stop for approval** unless told "no stops" / "just do it".
 
-## 4. Draft → self-QA (before showing anything)
+## 4. Draft → self-check loop (before showing anything)
+Change the EDL with `vs edl` (each change is a version; later texts/overlays/sfx ripple with the picture):
+`vs edl show`, `trim 4 --end -0.3`, `cut 30.5 33`, `split 4 --at 12`, `delete 6-7`, `move 9 --to 1`,
+`insert --before 3 --src ... --start --end`, `set 4 zoom=1.15`, `undo`, `history`, `diff`. Hand-edit the JSON
+when that is clearer (texts, overlays, keyframes): the next `vs edl` command records it.
 ```bash
 vs captions $P/work/<f>.transcript.json $P/work/edl.json -o $P/work/captions --style bold-pop --preset reels
-vs render $P/work/edl.json -o $P/out/draft.mp4 --preview --preset reels --captions $P/work/captions.ass
-vs qa $P/out/draft.mp4 --edl $P/work/edl.json --transcript $P/work/<f>.transcript.json --preset reels --max-length 60
-vs filmstrip $P/out/draft.mp4 -o $P/work/cuts.png --cuts $P/work/edl.json
+vs review $P/work/edl.json --preset reels --captions $P/work/captions.ass \
+    --transcript $P/work/<f>.transcript.json --max-length 60
 ```
-Fix every FAIL, weigh every WARN, Read `cuts.png` (jump cuts, captions on faces/UI, black flashes, framing
-after reframe). Up to 3 self-correction rounds, then show it and say what you checked. Long or important
-edits: spawn `video-qa-reviewer`. Iterating on one section: `--range 20-35`.
+`vs review` lints the EDL, renders a preview, runs QA and writes `work/review/rNN/review.md`: FAILs, WARNs,
+the images to Read (`cuts.png` both sides of every cut, `overview.png`, `texts.png`), what changed since the
+last round, open notes. Loop: read review.md → Read every image listed → fix with `vs edl` (regenerate
+captions after EDL changes) → `vs review` again. Stop when it exits 0 and the images look right; at most 3
+rounds, then show it and say what you checked and what is left. Long or important edits: spawn
+`video-qa-reviewer`. Iterating on one section: `--range 20-35`.
 
 ## 5. Notes → GATE 2
-Map each note to an EDL/caption/overlay change; re-render preview. A note about taste that should apply
-to future videos → one line in `style/notes.md`. Log decisions in `project.md`.
+Log the person's notes before changing anything, so each is mapped to the version they watched:
+```bash
+vs notes add $P/work/notes.json --edl $P/work/edl.json --video $P/out/draft.mp4 notes.txt   # or --text "0:12 ...", or a Frame.io CSV
+vs notes list $P/work/notes.json        # each timed note shows its shot and source time
+```
+Work from the latest timestamp backwards (earlier times stay valid), make each change with `vs edl`, mark it
+`vs notes done <id> --how "..."` (or `skip <id> --why "..."` and say why), then `vs review`. Reply with the
+checklist. A note about taste that should apply to future videos → one line in `style/notes.md`. Log
+decisions in `project.md`.
 
 ## 6. Final
 `vs render ... -o $P/out/final.mp4 --preset <platform> --captions ...` (no `--preview`), `vs qa` again,

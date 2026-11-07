@@ -27,7 +27,7 @@ init_ws() {
 cmd="${1:-help}"
 shift || true
 case "$cmd" in
-  transcribe|pack|propose_cuts|silences|render|captions|filmstrip|qa|export_edl|ingest|scenes|beats|sync|multicam|convert|thumbs|sfx|packs|music|proxy|breakdown)
+  transcribe|pack|propose_cuts|silences|render|captions|filmstrip|qa|export_edl|ingest|scenes|beats|sync|multicam|convert|thumbs|sfx|packs|music|proxy|breakdown|edl|notes|review)
     exec "$py" "$tools/$cmd.py" "$@" ;;
   cuts) exec "$py" "$tools/propose_cuts.py" "$@" ;;
   fetch) exec "$py" "$tools/assets.py" "$@" ;;
@@ -89,6 +89,9 @@ vs <command>                                         video-studio plugin
   multicam --sync s.json --angle V=MIC ... [--wide V] --mix A --end T -o work/edl.json
   captions <transcript.json> <edl.json> -o work/captions --style bold-pop|clean|minimal|karaoke --aspect 9:16
   render <edl.json> -o out/draft.mp4 [--preview --preset reels --captions c.ass --range 10-20]
+  edl show|at|lint|trim|split|cut|delete|move|insert|set|undo|redo|history|diff <edl>   small edits with version history
+  review <edl> [--preset reels --captions c.ass --transcript t.json]   lint + preview render + QA + images -> work/review/rNN/review.md
+  notes add work/notes.json --edl work/edl.json notes.txt | list | done <id> --how "..."   timestamped feedback as a checklist
   proxy <files|folder> [--height 540]                                 light proxies for 4K/long sources (used by --preview)
  music & sound design
   music analyze <track> | music fit <track> --edl e.json -o work/music_fit.wav   BPM/sections; fit to edit length on downbeats
