@@ -20,7 +20,7 @@ import tempfile
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from vs_common import die, fmt_ts, load_json, need, probe, run, timeline  # noqa: E402
+from vs_common import cut_points, die, fmt_ts, load_json, need, probe, run, timeline  # noqa: E402
 
 
 def main():
@@ -45,7 +45,7 @@ def main():
         times = [float(x) for x in args.at.split(",")]
     else:
         times = []
-        for it in timeline(load_json(args.cuts))[1:]:
+        for it in cut_points(timeline(load_json(args.cuts)))[1:]:
             mid = it["out_start"] + it["overlap"] / 2
             times += [max(it["out_start"] - 0.08, 0), mid, it["out_start"] + it["overlap"] + 0.04] if it["overlap"] \
                 else [max(it["out_start"] - 0.08, 0), it["out_start"] + 0.04]

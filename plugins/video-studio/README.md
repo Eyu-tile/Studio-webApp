@@ -62,14 +62,17 @@ Drop footage into `raw/` and talk to Claude:
 **Agents**: `edit-planner`, `footage-logger`, `broll-researcher`, `motion-designer`, `video-qa-reviewer`.
 
 **CLI** (`vs help`): `setup doctor init new where add fetch keys credits probe ingest transcribe pack scenes
-silences filmstrip beats sync cuts multicam captions music packs sfx earshot render qa convert thumbs export yt-dlp`.
+silences filmstrip beats sync cuts multicam captions music packs sfx earshot render proxy qa convert thumbs export yt-dlp`.
 
 **Renderer features**: frame-accurate cuts from any number of sources, still images, speed 0.25–4×
-with pitch-kept audio, punch-ins and Ken Burns, cover/contain/blurred-fill reframing to any aspect,
-25+ transitions, 14 colour grades and `.cube` LUTs, automatic HDR tone-mapping and VFR conforming,
-stabilisation, text overlays with animations, alpha overlays and picture-in-picture, burned captions,
-voice enhancement, SFX, ducked music, continuous audio tracks for multicam, EBU R128 loudness, h264/h265/ProRes,
-partial-range previews.
+with pitch-kept audio, smooth speed ramps, reverse and freeze frames, J/L cuts, keyframed zoom / pan /
+rotation (reframing that follows a subject), cover/contain/blurred-fill reframing to any aspect,
+25+ transitions, 14 colour grades and `.cube` LUTs per shot, automatic HDR tone-mapping (or HDR10/HLG
+kept) and VFR conforming, two-pass vid.stab stabilisation, text overlays with animations, alpha overlays,
+green-screen keying, keyframed picture-in-picture, blur/pixelate regions, burned captions, voice enhancement,
+SFX, multiple audio tracks with volume automation and ducking, continuous audio tracks for multicam,
+EBU R128 loudness, h264/h265/ProRes and 10-bit, proxies, chunked parallel rendering with a per-chunk cache
+(only changed shots re-render), partial-range previews.
 
 ## Optional extras
 - **Free sound packs from GitHub** (`vs setup --packs` or `vs packs install --defaults`): uisfx (936 CC0 sounds in

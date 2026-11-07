@@ -1,49 +1,68 @@
 #!/usr/bin/env python3
 """Render an EDL to video with ffmpeg. Deterministic: same EDL, same output.
 
-Each segment is cut frame-accurately from its source and conformed to the
-output canvas, then segments are joined (hard cuts, or transitions), then the
-output gets overlays, text, captions, voice clean-up, sound effects, music
-with ducking, and loudness normalisation.
+Stage 1 (shots): each segment is cut frame-accurately from its source, stabilised, framed
+(static crop, or keyframed zoom / pan / rotation), graded, retimed (constant speed, speed
+ramp, reverse, freeze) and joined (hard cuts or transitions) with its dialogue, including
+J/L cuts. Stage 2 (finish): blur/pixelate regions, overlays (chroma key, keyframed
+position, fades), texts, captions, voice clean-up, sound effects, audio tracks with volume
+automation and ducking, and loudness normalisation.
 
-EDL (see the video-studio skill docs for the full reference):
+Long edits render stage 1 in chunks (split at hard cuts) in parallel, cached by content, so
+a change to one shot re-renders only its chunk.
+
+EDL reference: skills/video-edit/references/edl.md. Summary:
 {
-  "source": "raw/a.mp4",                       default src for segments
+  "source": "raw/a.mp4",
   "segments": [{
-     "src": "...", "start": 1.2, "end": 6.8,   source seconds (images: start 0, end = duration)
-     "speed": 1.0,                              0.25 slow-mo .. 4 time-lapse (audio pitch kept)
-     "fit": "cover"|"contain"|"blur",           fill+crop (default) | letterbox | letterbox on blurred fill
-     "focus": [0.5, 0.4],                       crop anchor x,y in 0..1 (who stays in frame)
-     "zoom": 1.0, "zoom_to": 1.15,              punch-in; zoom_to animates it (Ken Burns)
-     "grade": "punchy", "lut": "luts/x.cube",   per-segment look (else EDL-level)
-     "stabilize": false, "volume_db": 0, "mute": false,
-     "transition_in": {"type": "fade", "dur": 0.4}   fade|dissolve|dip-black|dip-white|wipeleft|slideup|zoomin|...
+     "src": "...", "start": 1.2, "end": 6.8,    source seconds (images: start 0, end = duration)
+     "speed": 1.0 | [[0, 1], [1.5, 0.3], [3, 1]], constant, or a ramp: [source s from start, speed]
+     "reverse": false, "freeze": 1.5,            play backwards | hold the frame at `start` for 1.5 s
+     "fit": "cover"|"contain"|"blur", "focus": [0.5, 0.4], "zoom": 1.0, "zoom_to": 1.15,
+     "kf": {"zoom": [[0, 1], [2, 1.2]], "x": [[0, 0.3], [2, 0.7]], "y": [...], "rotate": [[0, 0], [1, 3]]},
+     "grade": "punchy", "lut": "luts/x.cube", "stabilize": false | true | "strong",
+     "volume_db": 0, "mute": false, "audio_lead": 0.5, "audio_tail": 0.8,   J-cut / L-cut seconds
+     "transition_in": {"type": "fade", "dur": 0.4}
   }],
-  "grade": "natural", "lut": null,             global look
-  "reframe": 0.5,                               default focus x for every segment
-  "overlays": [{"file": "gfx/t.mov", "start": 0, "end": 3, "in": 0, "x": "W-w-60", "y": 60, "w": 400, "fit": false, "opacity": 1}],
-  "texts": [{"text": "3 tips", "start": 0.2, "end": 2.5, "pos": "top|center|bottom|lower-third", "size": 0.07,
-             "color": "#FFFFFF", "box": "#000000", "anim": "pop|fade|none"}],
-  "sfx": [{"file": "sfx/whoosh.mp3", "at": 2.4, "gain_db": -6}],
-  "music": {"file": "music/bed.mp3", "gain_db": -18, "duck": true, "start": 0},
-  "audio_track": {"src": "raw/mix.wav", "start": 0},  one continuous audio bed (multicam, music videos)
-  "audio": {"enhance": true}                    voice clean-up on the dialogue bus
+  "grade", "lut", "reframe", "fit",
+  "overlays": [{"file", "start", "end", "in", "x", "y", "w", "fit", "focus", "opacity",
+                "key": "green" | {"color": "#00FF00", "similarity": 0.12, "blend": 0.08},
+                "fade_in": 0.3, "fade_out": 0.3, "kf": {"x": [[0, -400], [0.5, 60]], "y": [...]}}],
+  "blurs": [{"start", "end", "x", "y", "w", "h", "mode": "blur"|"pixelate", "strength": 20, "kf": {"x", "y"}}],
+  "texts": [...], "sfx": [...],
+  "music": {"file", "gain_db", "duck", "start", "fade_out"},
+  "tracks": [{"name": "ambience", "gain_db": -24, "gain": [[0, -30], [4, -18]], "duck": false,
+              "clips": [{"file", "at", "in", "dur", "gain_db", "fade_in", "fade_out", "loop"}]}],
+  "audio_track": {"src", "start", "gain_db", "follow", "offset"},
+  "audio": {"enhance": true, "gain": [[t, dB], ...]}
 }
 
 Usage:
-  vs render work/edl.json -o out/draft.mp4 --preview
+  vs render work/edl.json -o out/draft.mp4 --preview            (uses proxies from `vs proxy`)
   vs render work/edl.json -o out/final.mp4 --preset reels --captions work/captions.ass
   vs render work/edl.json -o out/part.mp4 --range 20-35 --preview
+  vs render work/edl.json -o out/final.mov --codec prores --10bit
+  vs render work/edl.json -o out/hdr.mp4 --codec h265 --hdr     (keep HDR10 / HLG)
+  vs render work/edl.json -o out/long.mp4 --chunks 60 --jobs 4  (force chunking; default: auto)
 """
 import argparse
+import hashlib
+import json
+import os
+import subprocess
 import sys
+import tempfile
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from vs_common import (ASPECTS, GRADES, PRESETS, VOICE_ENHANCE, die, fmt_ts, has_filter,  # noqa: E402
-                       is_image, load_json, need, probe, run, timeline)
+                       is_image, kf_expr, load_json, need, probe, ramp_points, ramp_setpts, run, timeline)
 
+RENDER_VERSION = "2.4.0"  # part of the chunk cache key: bump when stage-1 output changes
 FADE = 0.025
+JL_FADE = 0.02
+AUTO_CHUNK_MIN = 180.0  # auto-chunk edits at least this long (seconds)
 XFADE = {"fade": "fade", "crossfade": "fade", "dissolve": "dissolve", "dip-black": "fadeblack",
          "fadeblack": "fadeblack", "dip-white": "fadewhite", "fadewhite": "fadewhite",
          "wipeleft": "wipeleft", "wiperight": "wiperight", "wipeup": "wipeup", "wipedown": "wipedown",
@@ -56,6 +75,9 @@ TEXT_POS = {"top": (8, 0.10), "center": (5, 0.0), "bottom": (2, 0.12), "lower-th
             "top-left": (7, 0.06), "top-right": (9, 0.06), "bottom-left": (1, 0.08), "bottom-right": (3, 0.08)}
 HDR_TONEMAP = ("zscale=t=linear:npl=100,format=gbrpf32le,zscale=p=bt709,tonemap=tonemap=hable:desat=0,"
                "zscale=t=bt709:m=bt709:r=tv,format=yuv420p")
+KEY_COLORS = {"green": "0x00FF00", "blue": "0x0000FF"}
+STAB = {True: (5, 15), "light": (4, 10), "strong": (8, 30)}  # (shakiness, smoothing)
+DUCK = {"threshold": 0.03, "ratio": 8, "attack": 20, "release": 400}
 
 
 def esc_path(p):
@@ -112,24 +134,119 @@ def write_texts_ass(texts, path, W, H, font):
         "\n".join(events) + "\n", encoding="utf-8")
 
 
-def segment_video(idx, k, item, pinfo, edl, W, H, fps, warnings):
-    seg = item["seg"]
+def proxy_for(src):
+    """The proxy `vs proxy` made for a source (raw/.proxy/<name>.mkv), if any."""
+    p = Path(src).parent / ".proxy" / (Path(src).name + ".mkv")
+    return p if p.exists() and p.stat().st_mtime >= Path(src).stat().st_mtime else None
+
+
+def file_sig(path):
+    st = Path(path).stat()
+    return [str(Path(path).resolve()), st.st_size, int(st.st_mtime)]
+
+
+# --------------------------------------------------------------------------------------------
+# Shots: timeline items grouped back into the segments the editor wrote.
+
+def groups_of(tl):
+    groups = []
+    for it in tl:
+        if it["first"]:
+            seg = it["seg"]
+            groups.append({"items": [it], "seg": seg, "src": it["src"], "start": it["start"],
+                           "out_start": it["out_start"], "overlap": it["overlap"], "freeze": it["freeze"],
+                           "index": it["index"]})
+        else:
+            groups[-1]["items"].append(it)
+    for g in groups:
+        g["end"] = g["items"][-1]["end"]
+        g["out_end"] = g["items"][-1]["out_end"]
+        g["len"] = g["out_end"] - g["out_start"]
+        sp = g["seg"].get("speed", 1.0)
+        g["ramp"] = ramp_points(g["seg"], g["end"] - g["start"]) if isinstance(sp, list) and not g["freeze"] else None
+        g["speed"] = 1.0 if (g["freeze"] or g["ramp"]) else g["items"][0]["speed"]
+    return groups
+
+
+class Graph:
+    """An ffmpeg input list plus filter graph under construction."""
+
+    def __init__(self):
+        self.inputs, self.filters, self.n = [], [], 0
+
+    def add_input(self, *args):
+        self.inputs += list(args)
+        self.n += 1
+        return self.n - 1
+
+    def f(self, s):
+        self.filters.append(s)
+
+
+class Ctx:
+    def __init__(self, args, edl, W, H, fps, pixfmt, keep_hdr, cache_dir, warnings):
+        self.args, self.edl, self.W, self.H, self.fps = args, edl, W, H, fps
+        self.pixfmt, self.keep_hdr, self.cache_dir, self.warnings = pixfmt, keep_hdr, cache_dir, warnings
+        self.use_proxy = bool(args.proxy or args.preview)
+        self.trf = {}
+
+    def video_src(self, src):
+        if self.use_proxy and not is_image(src):
+            p = proxy_for(src)
+            if p:
+                return str(p)
+        return src
+
+
+def out_time_expr(g, var):
+    """Expression for the segment's output time given its source-relative time variable."""
+    if g["ramp"]:
+        return ramp_setpts(g["ramp"], var)
+    if g["speed"] != 1.0:
+        return f"({var})/{g['speed']:.6g}"
+    return f"({var})"
+
+
+def shot_video(ctx, gr, vi, k, g):
+    W, H, fps, seg, edl = ctx.W, ctx.H, ctx.fps, g["seg"], ctx.edl
+    pinfo = probe(ctx.video_src(g["src"]))
     chain = []
-    if pinfo["hdr"]:
+    if g["freeze"]:
+        chain.append(f"trim=end_frame=1,setpts=PTS-STARTPTS,fps={fps},"
+                     f"tpad=stop_mode=clone:stop_duration={g['freeze']:.3f},trim=duration={g['freeze']:.3f}")
+    if seg.get("reverse") and not g["freeze"]:
+        if g["end"] - g["start"] > 30:
+            ctx.warnings.add(f"{Path(g['src']).name}: reversing {g['end'] - g['start']:.0f}s holds it all in memory")
+        chain.append("reverse")
+    stab = seg.get("stabilize")
+    if stab and not g["freeze"] and not is_image(g["src"]):
+        trf = ctx.trf.get(g["index"])
+        if trf:
+            _, smooth = STAB.get(stab, STAB[True])
+            chain.append(f"vidstabtransform=input='{esc_path(trf)}':smoothing={smooth}:optzoom=1:interpol=bicubic,"
+                         "unsharp=5:5:0.6:3:3:0.3")
+        else:
+            chain.append("deshake")
+    if pinfo["hdr"] and not ctx.keep_hdr:
         if has_filter("zscale"):
             chain.append(HDR_TONEMAP)
         else:
-            warnings.add(f"{Path(item['src']).name}: HDR source but ffmpeg lacks zscale; colours may look washed out")
-    if seg.get("stabilize"):
-        chain.append("deshake")
+            ctx.warnings.add(f"{Path(g['src']).name}: HDR source but ffmpeg lacks zscale; colours may look washed out")
+    elif ctx.keep_hdr and not pinfo["hdr"] and not is_image(g["src"]):
+        ctx.warnings.add(f"{Path(g['src']).name}: SDR shot in an HDR render will look dim/flat next to HDR shots")
+    chain.append("setpts=PTS-STARTPTS")
+
+    kf = dict(seg.get("kf") or {})
     fx, fy = seg.get("focus", [edl.get("reframe", 0.5), 0.5])
     z0 = float(seg.get("zoom", 1.0))
     z1 = seg.get("zoom_to")
-    if z1 is None and is_image(item["src"]) and seg.get("ken_burns", True):
+    if z1 is None and is_image(g["src"]) and seg.get("ken_burns", True) and "zoom" not in kf:
         z1 = z0 * 1.08
+    if z1 is not None and "zoom" not in kf:
+        kf["zoom"] = [[0, z0, "linear"], [g["len"], float(z1), "linear"]]
     fit = seg.get("fit", edl.get("fit", "cover"))
-    pre = [f"setpts=PTS-STARTPTS"]
-    if fit in ("contain", "blur") and z1 is None and z0 == 1.0:
+    animated = "zoom" in kf
+    if fit in ("contain", "blur") and not animated and z0 == 1.0:
         fg = f"scale={W}:{H}:force_original_aspect_ratio=decrease,setsar=1"
         if fit == "blur":
             bg = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
@@ -138,34 +255,485 @@ def segment_video(idx, k, item, pinfo, edl, W, H, fps, warnings):
                     f"[bb{k}][ff{k}]overlay=(W-w)/2:(H-h)/2")
         else:
             body = f"{fg},pad={W}:{H}:(ow-iw)/2:(oh-ih)/2:black"
-    elif z1 is None:
-        zw, zh = int(W * z0) // 2 * 2, int(H * z0) // 2 * 2
-        body = (f"scale={zw}:{zh}:force_original_aspect_ratio=increase,"
-                f"crop={W}:{H}:(iw-{W})*{fx}:(ih-{H})*{fy}")
-    else:
-        # Animated zoom: oversample 2x, then zoompan one output frame per input frame.
-        z1 = float(z1)
-        frames = max(int(round((item["end"] - item["start"]) * fps)), 1)
+    elif "zoom" in kf:
+        # Animated framing: oversample 2x, then zoompan one output frame per input frame.
+        tz = out_time_expr(g, f"on/{fps}")
+        zx = kf_expr(kf["zoom"], tvar=tz) if "zoom" in kf else f"{z0}"
+        xx = kf_expr(kf["x"], tvar=tz) if "x" in kf else f"{fx}"
+        yy = kf_expr(kf["y"], tvar=tz) if "y" in kf else f"{fy}"
         body = (f"fps={fps},scale={W * 2}:{H * 2}:force_original_aspect_ratio=increase,crop={W * 2}:{H * 2},"
-                f"zoompan=z='{z0}+({z1}-{z0})*on/{frames}':x='(iw-iw/zoom)*{fx}':y='(ih-ih/zoom)*{fy}'"
+                f"zoompan=z='max({zx},1)':x='(iw-iw/zoom)*({xx})':y='(ih-ih/zoom)*({yy})'"
                 f":d=1:s={W}x{H}:fps={fps}")
-    chain += pre + [body]
+    else:
+        zw, zh = int(W * z0) // 2 * 2, int(H * z0) // 2 * 2
+        tt = out_time_expr(g, "t")
+        xx = kf_expr(kf["x"], tvar=tt) if "x" in kf else f"{fx}"
+        yy = kf_expr(kf["y"], tvar=tt) if "y" in kf else f"{fy}"
+        body = (f"scale={zw}:{zh}:force_original_aspect_ratio=increase,"
+                f"crop={W}:{H}:x='(iw-{W})*({xx})':y='(ih-{H})*({yy})'")
+    chain.append(body)
+    if "rotate" in kf:
+        tt = out_time_expr(g, "t")
+        chain.append(f"rotate=a='({kf_expr(kf['rotate'], tvar=tt)})*PI/180':c=black")
     grade = seg.get("grade", edl.get("grade"))
     if grade:
-        g = GRADES.get(grade)
-        if g is None:
+        gch = GRADES.get(grade)
+        if gch is None:
             die(f"unknown grade '{grade}'. Options: {', '.join(GRADES)}")
-        if g:
-            chain.append(g)
+        if gch:
+            chain.append(gch)
     lut = seg.get("lut", edl.get("lut"))
     if lut:
         if not Path(lut).exists():
             die(f"LUT not found: {lut}")
         chain.append(f"lut3d='{esc_path(lut)}'")
-    if item["speed"] != 1.0:
-        chain.append(f"setpts=PTS/{item['speed']}")
-    chain.append(f"fps={fps},setsar=1,format=yuv420p,settb=AVTB")
-    return f"[{idx}:v]" + ",".join(chain) + f"[v{k}]"
+    if g["ramp"]:
+        chain.append(f"setpts='({ramp_setpts(g['ramp'], 'T')})/TB'")
+    elif g["speed"] != 1.0:
+        chain.append(f"setpts=PTS/{g['speed']}")
+    chain.append(f"fps={fps},setsar=1,format={ctx.pixfmt},trim=duration={g['len']:.4f},settb=AVTB")
+    gr.f(f"[{vi}:v]" + ",".join(chain) + f"[v{k}]")
+
+
+def shot_audio(ctx, gr, ain, k, g):
+    """Dialogue for one shot, exactly as long as its picture."""
+    seg, L = g["seg"], g["len"]
+    tail = [f"afade=t=in:d={FADE},afade=t=out:st={max(L - FADE, 0):.4f}:d={FADE}", f"apad,atrim=0:{L:.4f}"]
+    head = f"[{ain}]aresample=48000,aformat=channel_layouts=stereo,asetpts=PTS-STARTPTS"
+    vol = float(seg.get("volume_db", 0))
+    if g["ramp"]:
+        parts = g["items"]
+        labs = "".join(f"[r{k}_{i}]" for i in range(len(parts)))
+        gr.f(f"{head},asplit={len(parts)}{labs}")
+        for i, it in enumerate(parts):
+            a0, a1 = it["start"] - g["start"], it["end"] - g["start"]
+            pl = it["out_end"] - it["out_start"]
+            gr.f(f"[r{k}_{i}]atrim={a0:.4f}:{a1:.4f},asetpts=PTS-STARTPTS,{atempo_chain(it['speed'])},"
+                 f"apad,atrim=0:{pl:.4f}[rp{k}_{i}]")
+        chain = ["".join(f"[rp{k}_{i}]" for i in range(len(parts))) + f"concat=n={len(parts)}:v=0:a=1"]
+    else:
+        chain = [head]
+        if seg.get("reverse"):
+            chain.append("areverse")
+        if g["speed"] != 1.0:
+            chain.append(atempo_chain(g["speed"]))
+    if vol:
+        chain.append(f"volume={vol}dB")
+    gr.f(",".join(chain + tail) + f"[a{k}]")
+
+
+def silence(gr, label, length):
+    gr.f(f"anullsrc=r=48000:cl=stereo,atrim=0:{length:.4f}[{label}]")
+
+
+def jl_patches(ctx, groups, follow):
+    """J/L cuts as audio patches over the joined dialogue: (src, src_in, dur, at, mute_from, mute_to)."""
+    out = []
+    for k in range(1, len(groups)):
+        prev, cur = groups[k - 1], groups[k]
+        lead, tail = float(cur["seg"].get("audio_lead", 0)), float(prev["seg"].get("audio_tail", 0))
+        if not (lead or tail):
+            continue
+        cut = cur["out_start"]
+        if cur["overlap"] > 0 or follow or ctx.edl.get("audio_track"):
+            ctx.warnings.add(f"audio_lead/audio_tail at shot {k + 1} ignored (transition or shared audio track)")
+            continue
+        if lead:
+            if cur["ramp"] or cur["seg"].get("reverse") or cur["freeze"] or is_image(cur["src"]) or cur["seg"].get("mute"):
+                ctx.warnings.add(f"audio_lead on shot {k + 1} ignored (needs plain audio)")
+            else:
+                lead = min(lead, prev["len"] - 0.05, cur["start"] / cur["speed"])
+                if lead > 0.02:
+                    out.append((cur["src"], cur["start"] - lead * cur["speed"], lead, cut - lead, cur["speed"],
+                                cur["seg"]))
+        if tail:
+            if prev["ramp"] or prev["seg"].get("reverse") or prev["freeze"] or is_image(prev["src"]) or prev["seg"].get("mute"):
+                ctx.warnings.add(f"audio_tail on shot {k} ignored (needs plain audio)")
+            else:
+                d = probe(prev["src"])["duration"]
+                tail = min(tail, cur["len"] - 0.05, (d - prev["end"]) / prev["speed"] if d else tail)
+                if tail > 0.02:
+                    out.append((prev["src"], prev["end"], tail, cut, prev["speed"], prev["seg"]))
+    return out
+
+
+def build_shots(ctx, gr, groups, t0=0.0):
+    """Stage 1 into graph `gr`. Returns (video label, audio label, length)."""
+    edl = ctx.edl
+    use_track = edl.get("audio_track")
+    follow = bool(use_track and use_track.get("follow"))
+    if follow:
+        if not Path(use_track["src"]).exists():
+            die(f"audio_track not found: {use_track['src']}")
+        tinfo = probe(use_track["src"])
+    for k, g in enumerate(groups):
+        src, a, b = g["src"], g["start"], g["end"]
+        vsrc = ctx.video_src(src)
+        if is_image(src):
+            vi = gr.add_input("-loop", "1", "-framerate", str(ctx.fps), "-t", f"{g['len']:.3f}", "-i", src)
+        elif g["freeze"]:
+            vi = gr.add_input("-ss", f"{a:.3f}", "-t", "1", "-i", vsrc)
+        else:
+            vi = gr.add_input("-ss", f"{a:.3f}", "-t", f"{b - a:.3f}", "-i", vsrc)
+        shot_video(ctx, gr, vi, k, g)
+        if use_track and not follow:
+            continue
+        if follow and not g["freeze"]:
+            ref0 = float(g["seg"].get("ref", [a])[0]) + float(use_track.get("offset", 0))
+            ai = gr.add_input("-ss", f"{max(ref0, 0):.3f}", "-t", f"{b - a:.3f}", "-i", use_track["src"])
+            has_a, ain = tinfo["has_audio"], f"{ai}:a"
+        else:
+            has_a = probe(src)["has_audio"] and not g["freeze"] and not is_image(src)
+            ain = f"{vi}:a"
+            if has_a and vsrc != src:  # proxies keep audio, but the original is the reference
+                ain = f"{gr.add_input('-ss', f'{a:.3f}', '-t', f'{b - a:.3f}', '-i', src)}:a"
+        if has_a and not g["seg"].get("mute"):
+            shot_audio(ctx, gr, ain, k, g)
+        else:
+            silence(gr, f"a{k}", g["len"])
+
+    skip_audio = bool(use_track and not follow)
+    has_tr = any(g["overlap"] > 0 for g in groups[1:])
+    G = len(groups)
+    if not has_tr:
+        if skip_audio:
+            gr.f("".join(f"[v{k}]" for k in range(G)) + f"concat=n={G}:v=1:a=0[cv]")
+        else:
+            gr.f("".join(f"[v{k}][a{k}]" for k in range(G)) + f"concat=n={G}:v=1:a=1[cv][ca]")
+    else:
+        vl, al = "v0", "a0"
+        for k in range(1, G):
+            g = groups[k]
+            if g["overlap"] > 0:
+                tr = g["seg"]["transition_in"]
+                ttype = tr.get("type", "fade") if isinstance(tr, dict) else "fade"
+                xf = XFADE.get(ttype, ttype)
+                d = g["overlap"]
+                gr.f(f"[{vl}][v{k}]xfade=transition={xf}:duration={d:.4f}:offset={g['out_start'] - t0:.4f}[xv{k}]")
+                if not skip_audio:
+                    gr.f(f"[{al}][a{k}]acrossfade=d={d:.4f}:c1=tri:c2=tri[xa{k}]")
+            else:
+                gr.f(f"[{vl}][v{k}]concat=n=2:v=1:a=0[xv{k}]")
+                if not skip_audio:
+                    gr.f(f"[{al}][a{k}]concat=n=2:v=0:a=1[xa{k}]")
+            vl, al = f"xv{k}", f"xa{k}"
+        gr.f(f"[{vl}]null[cv]")
+        if not skip_audio:
+            gr.f(f"[{al}]anull[ca]")
+    total = groups[-1]["out_end"] - t0
+    if skip_audio:
+        silence(gr, "ca", total)
+        return "cv", "ca", total
+
+    patches = jl_patches(ctx, groups, follow)
+    if patches:
+        mutes, labs = [], []
+        for j, (src, s_in, dur, at, sp, seg) in enumerate(patches):
+            pi = gr.add_input("-ss", f"{s_in:.3f}", "-t", f"{dur * sp:.3f}", "-i", src)
+            chain = [f"[{pi}:a]aresample=48000,aformat=channel_layouts=stereo,asetpts=PTS-STARTPTS"]
+            if sp != 1.0:
+                chain.append(atempo_chain(sp))
+            if float(seg.get("volume_db", 0)):
+                chain.append(f"volume={float(seg['volume_db'])}dB")
+            chain.append(f"apad,atrim=0:{dur:.4f},afade=t=in:d={JL_FADE},afade=t=out:st={dur - JL_FADE:.4f}:d={JL_FADE},"
+                         f"adelay={int(round((at - t0) * 1000))}:all=1")
+            gr.f(",".join(chain) + f"[jl{j}]")
+            labs.append(f"[jl{j}]")
+            mutes.append((at - t0, at - t0 + dur))
+        pts = [[0, 1, "linear"]]
+        for m0, m1 in sorted(mutes):
+            pts += [[max(m0 - JL_FADE, 0), 1, "linear"], [m0, 0, "linear"], [m1, 0, "linear"], [m1 + JL_FADE, 1, "linear"]]
+        gr.f(f"[ca]volume='{kf_expr(pts)}':eval=frame[cam]")
+        gr.f(f"[cam]{''.join(labs)}amix=inputs={1 + len(labs)}:duration=first:normalize=0[cjl]")
+        return "cv", "cjl", total
+    return "cv", "ca", total
+
+
+# --------------------------------------------------------------------------------------------
+# Finish: everything that lives on the output timeline.
+
+def finish(ctx, gr, vlab, alab, total, out):
+    edl, W, H = ctx.edl, ctx.W, ctx.H
+    use_track = edl.get("audio_track")
+    follow = bool(use_track and use_track.get("follow"))
+    if use_track and not follow:
+        if not Path(use_track["src"]).exists():
+            die(f"audio_track not found: {use_track['src']}")
+        ti = gr.add_input("-i", use_track["src"])
+        s0 = float(use_track.get("start", 0))
+        g = float(use_track.get("gain_db", 0))
+        gr.f(f"[{ti}:a]aresample=48000,aformat=channel_layouts=stereo,atrim={s0:.3f}:{s0 + total:.3f},"
+             f"asetpts=PTS-STARTPTS,volume={g}dB,apad,atrim=0:{total:.3f}[trk]")
+        gr.f(f"[{alab}]anullsink")
+        alab = "trk"
+    ofmt = ":format=yuv420p10" if "10" in ctx.pixfmt else ""
+
+    for j, bl in enumerate(edl.get("blurs", [])):
+        s, e = float(bl["start"]), float(bl["end"])
+        cw = max(int(W * float(bl.get("w", 0.2))) // 2 * 2, 4)
+        ch = max(int(H * float(bl.get("h", 0.2))) // 2 * 2, 4)
+        kfb = bl.get("kf") or {}
+        xx = kf_expr(kfb["x"]) if "x" in kfb else f"{float(bl.get('x', 0.4))}"
+        yy = kf_expr(kfb["y"]) if "y" in kfb else f"{float(bl.get('y', 0.4))}"
+        xe, ye = f"({xx})*{W}", f"({yy})*{H}"
+        strength = int(bl.get("strength", 20))
+        if bl.get("mode", "blur") == "pixelate":
+            b = max(strength // 2, 4)
+            fx = f"scale={max(cw // b, 1)}:{max(ch // b, 1)},scale={cw}:{ch}:flags=neighbor"
+        else:
+            r = max(min(strength, min(cw, ch) // 2 - 1), 1)
+            fx = f"boxblur=luma_radius={r}:luma_power=2:chroma_radius={max(r // 2, 1)}"
+        gr.f(f"[{vlab}]split=2[bm{j}][bs{j}]")
+        gr.f(f"[bs{j}]crop={cw}:{ch}:x='min(max({xe},0),{W - cw})':y='min(max({ye},0),{H - ch})',{fx}[bb{j}]")
+        gr.f(f"[bm{j}][bb{j}]overlay=x='min(max({xe},0),{W - cw})':y='min(max({ye},0),{H - ch})'"
+             f":enable='between(t,{s},{e})'{ofmt}[bl{j}]")
+        vlab = f"bl{j}"
+
+    for j, ov in enumerate(edl.get("overlays", [])):
+        if not Path(ov["file"]).exists():
+            die(f"overlay not found: {ov['file']}")
+        dec = ["-c:v", "libvpx-vp9"] if ov["file"].lower().endswith(".webm") else []
+        loop = ["-loop", "1"] if is_image(ov["file"]) else []
+        seek = ["-ss", f"{float(ov['in']):.3f}"] if ov.get("in") and not loop else []
+        oi = gr.add_input(*loop, *seek, *dec, "-i", ov["file"])
+        s, e = float(ov["start"]), float(ov["end"])
+        chain = []
+        key = ov.get("key")
+        if key:
+            kc = key if isinstance(key, dict) else {"color": key}
+            col = KEY_COLORS.get(kc.get("color", "green"), str(kc.get("color", "green")).replace("#", "0x"))
+            chain.append(f"chromakey=color={col}:similarity={float(kc.get('similarity', 0.12))}"
+                         f":blend={float(kc.get('blend', 0.08))}")
+            if kc.get("despill", True) and col in ("0x00FF00", "0x0000FF"):
+                chain.append(f"format=yuva444p,despill=type={'blue' if col == '0x0000FF' else 'green'}")
+        if ov.get("fit", "w" not in ov):
+            fx, fy = ov.get("focus", [0.5, 0.5])
+            chain.append(f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H}:(iw-{W})*{fx}:(ih-{H})*{fy}")
+        elif "w" in ov:
+            chain.append(f"scale={int(ov['w'])}:-2")
+        chain.append("format=rgba")
+        if "opacity" in ov:
+            chain.append(f"colorchannelmixer=aa={float(ov['opacity'])}")
+        if loop:
+            chain.append(f"trim=0:{e - s:.3f}")
+        chain.append("setpts=PTS-STARTPTS")
+        if ov.get("fade_in"):
+            chain.append(f"fade=t=in:st=0:d={float(ov['fade_in'])}:alpha=1")
+        if ov.get("fade_out"):
+            fo = float(ov["fade_out"])
+            chain.append(f"fade=t=out:st={max(e - s - fo, 0):.3f}:d={fo}:alpha=1")
+        chain.append(f"setpts=PTS+{s}/TB")
+        gr.f(f"[{oi}:v]" + ",".join(chain) + f"[o{j}]")
+        kfo = ov.get("kf") or {}
+        lt = f"(t-{s})"
+        x = f"'{kf_expr(kfo['x'], tvar=lt)}'" if "x" in kfo else ov.get("x", 0)
+        y = f"'{kf_expr(kfo['y'], tvar=lt)}'" if "y" in kfo else ov.get("y", 0)
+        gr.f(f"[{vlab}][o{j}]overlay=x={x}:y={y}:enable='between(t,{s},{e})':eof_action=pass{ofmt}[ov{j}]")
+        vlab = f"ov{j}"
+
+    # Custom fonts: project assets/fonts, then the workspace library, then style/fonts.
+    fontsdir = ""
+    edl_dir = Path(ctx.args.edl).resolve().parent
+    ws = edl_dir.parents[2] if len(edl_dir.parents) > 2 else None
+    for cand in (edl_dir.parent / "assets" / "fonts", ws and ws / "library" / "assets" / "fonts",
+                 ws and ws / "style" / "fonts"):
+        if cand and cand.is_dir() and any(cand.iterdir()):
+            fontsdir = f":fontsdir='{esc_path(cand)}'"
+            break
+    if edl.get("texts"):
+        tpath = out.with_suffix(".texts.ass")
+        out.parent.mkdir(parents=True, exist_ok=True)
+        write_texts_ass(edl["texts"], tpath, W, H, ctx.args.font)
+        gr.f(f"[{vlab}]subtitles='{esc_path(tpath)}'{fontsdir}[tv]")
+        vlab = "tv"
+    if ctx.args.captions:
+        if not Path(ctx.args.captions).exists():
+            die(f"captions not found: {ctx.args.captions}")
+        gr.f(f"[{vlab}]subtitles='{esc_path(ctx.args.captions)}'{fontsdir}[sv]")
+        vlab = "sv"
+    gr.f(f"[{vlab}]null[vout]")
+
+    # Audio: foreground (dialogue + sfx), then beds (music + tracks), ducked under the foreground.
+    aud = edl.get("audio", {})
+    if aud.get("enhance"):
+        gr.f(f"[{alab}]{VOICE_ENHANCE}[ae]")
+        alab = "ae"
+    if aud.get("gain"):
+        gr.f(f"[{alab}]volume='pow(10,({kf_expr(aud['gain'], default_ease='linear')})/20)':eval=frame[ag]")
+        alab = "ag"
+    sfx = edl.get("sfx", [])
+    if sfx:
+        labs = []
+        for j, fx in enumerate(sfx):
+            if not Path(fx["file"]).exists():
+                die(f"sfx not found: {fx['file']}")
+            si = gr.add_input("-i", fx["file"])
+            ms = int(float(fx["at"]) * 1000)
+            gr.f(f"[{si}:a]aresample=48000,aformat=channel_layouts=stereo,"
+                 f"volume={float(fx.get('gain_db', -6))}dB,adelay={ms}:all=1[fx{j}]")
+            labs.append(f"[fx{j}]")
+        gr.f(f"[{alab}]{''.join(labs)}amix=inputs={1 + len(labs)}:duration=first:normalize=0[asx]")
+        alab = "asx"
+
+    tracks = list(edl.get("tracks", []))
+    music = edl.get("music")
+    if music:
+        tracks.insert(0, {"name": "music", "duck": music.get("duck", True), "gain_db": float(music.get("gain_db", -18)),
+                          "clips": [{"file": music["file"], "in": float(music.get("start", 0)), "loop": True,
+                                     "fade_in": 0.3, "fade_out": float(music.get("fade_out", 1.5))}]})
+    ducked, plain = [], []
+    for j, tr in enumerate(tracks):
+        lab = track_bus(gr, tr, j, total)
+        if not lab:
+            continue
+        (ducked if tr.get("duck") and not use_track else plain).append((lab, tr))
+    if ducked:
+        if len(ducked) > 1:
+            gr.f("".join(f"[{lab}]" for lab, _ in ducked) + f"amix=inputs={len(ducked)}:duration=first:normalize=0[dkin]")
+            dk = "dkin"
+        else:
+            dk = ducked[0][0]
+        dc = dict(DUCK)
+        for _, tr in ducked:
+            if isinstance(tr.get("duck"), dict):
+                dc.update(tr["duck"])
+        gr.f(f"[{alab}]asplit=2[fgo][sc]")
+        gr.f(f"[{dk}][sc]sidechaincompress=threshold={dc['threshold']}:ratio={dc['ratio']}"
+             f":attack={dc['attack']}:release={dc['release']}[dkd]")
+        alab = "fgo"
+        plain.insert(0, ("dkd", None))
+    if plain:
+        gr.f(f"[{alab}]" + "".join(f"[{lab}]" for lab, _ in plain) +
+             f"amix=inputs={1 + len(plain)}:duration=first:normalize=0[am]")
+        alab = "am"
+    lufs = ctx.lufs
+    if lufs is not None:
+        gr.f(f"[{alab}]loudnorm=I={lufs}:TP=-1.5:LRA=11,aresample=48000[an]")
+        alab = "an"
+    gr.f(f"[{alab}]anull[aout]")
+
+
+def track_bus(gr, tr, j, total):
+    labs = []
+    for c, clip in enumerate(tr.get("clips", [])):
+        f = clip["file"]
+        if not Path(f).exists():
+            die(f"track '{tr.get('name', j)}' clip not found: {f}")
+        at = float(clip.get("at", 0))
+        if at >= total:
+            continue
+        dur = float(clip["dur"]) if clip.get("dur") else None
+        loop = clip.get("loop", False)
+        if dur is None:
+            dur = total - at if loop else min(probe(f)["duration"] - float(clip.get("in", 0)), total - at)
+        dur = min(dur, total - at)
+        ci = gr.add_input(*(["-stream_loop", "-1"] if loop else []), "-ss", f"{float(clip.get('in', 0)):.3f}", "-i", f)
+        chain = [f"[{ci}:a]aresample=48000,aformat=channel_layouts=stereo,atrim=0:{dur:.3f},asetpts=PTS-STARTPTS"]
+        if float(clip.get("gain_db", 0)):
+            chain.append(f"volume={float(clip['gain_db'])}dB")
+        if clip.get("fade_in"):
+            chain.append(f"afade=t=in:d={float(clip['fade_in'])}")
+        if clip.get("fade_out"):
+            fo = float(clip["fade_out"])
+            chain.append(f"afade=t=out:st={max(dur - fo, 0):.3f}:d={fo}")
+        chain.append(f"adelay={int(at * 1000)}:all=1")
+        gr.f(",".join(chain) + f"[t{j}c{c}]")
+        labs.append(f"[t{j}c{c}]")
+    if not labs:
+        return None
+    mix = f"amix=inputs={len(labs)}:duration=longest:normalize=0," if len(labs) > 1 else ""
+    if tr.get("gain"):
+        gain = f"volume='pow(10,({kf_expr(tr['gain'], default_ease='linear')})/20)':eval=frame"
+    else:
+        gain = f"volume={float(tr.get('gain_db', 0))}dB"
+    gr.f("".join(labs) + f"{mix}apad,atrim=0:{total:.3f},{gain}[tk{j}]")
+    return f"tk{j}"
+
+
+# --------------------------------------------------------------------------------------------
+# Encoding, stabilisation pre-pass, chunks.
+
+def encoder_args(args, pixfmt, hdr_transfer):
+    if args.codec == "prores":
+        return ["-c:v", "prores_ks", "-profile:v", "3", "-pix_fmt", "yuv422p10le"], ["-c:a", "pcm_s16le"]
+    preset_speed = "ultrafast" if args.preview else ("medium" if args.codec == "h264" else "slow")
+    crf = max(args.crf, 26) if args.preview else args.crf
+    lib = "libx264" if args.codec == "h264" else "libx265"
+    tag = ["-tag:v", "hvc1"] if args.codec == "h265" else []
+    venc = ["-c:v", lib, "-preset", preset_speed, "-crf", str(crf), "-pix_fmt", pixfmt, *tag]
+    if hdr_transfer:
+        venc += ["-x265-params", f"colorprim=bt2020:transfer={hdr_transfer}:colormatrix=bt2020nc"
+                 + (":hdr10=1:repeat-headers=1" if hdr_transfer == "smpte2084" else ""),
+                 "-color_primaries", "bt2020", "-color_trc", hdr_transfer, "-colorspace", "bt2020nc"]
+    return venc, ["-c:a", "aac", "-b:a", "192k"]
+
+
+def stab_prepass(ctx, groups):
+    if not any(g["seg"].get("stabilize") for g in groups):
+        return
+    if not (has_filter("vidstabdetect") and has_filter("vidstabtransform")):
+        ctx.warnings.add("ffmpeg has no vid.stab; using deshake (weaker). Install an ffmpeg built with libvidstab")
+        return
+    ctx.cache_dir.mkdir(parents=True, exist_ok=True)
+    for g in groups:
+        stab = g["seg"].get("stabilize")
+        if not stab or g["freeze"] or is_image(g["src"]):
+            continue
+        vsrc = ctx.video_src(g["src"])
+        shak, _ = STAB.get(stab, STAB[True])
+        key = hashlib.sha256(json.dumps([file_sig(vsrc), g["start"], g["end"], shak, bool(g["seg"].get("reverse"))])
+                             .encode()).hexdigest()[:20]
+        trf = ctx.cache_dir / f"stab-{key}.trf"
+        if not trf.exists():
+            print(f"stabilise: analysing {Path(g['src']).name} {g['start']:.2f}-{g['end']:.2f}s", file=sys.stderr)
+            pre = "reverse," if g["seg"].get("reverse") else ""
+            tmp = trf.with_suffix(".part")
+            run(["ffmpeg", "-y", "-hide_banner", "-v", "error", "-ss", f"{g['start']:.3f}", "-t",
+                 f"{g['end'] - g['start']:.3f}", "-i", vsrc, "-vf",
+                 f"{pre}vidstabdetect=shakiness={shak}:accuracy=15:result='{esc_path(tmp)}'", "-f", "null", "-"])
+            tmp.rename(trf)
+        ctx.trf[g["index"]] = trf
+
+
+def chunk_groups(groups, target):
+    """Split shots into chunks of about `target` seconds, only at plain hard cuts."""
+    chunks, cur = [], []
+    for k, g in enumerate(groups):
+        if cur:
+            prev = groups[k - 1]
+            clean = (g["overlap"] == 0 and not g["seg"].get("audio_lead") and not prev["seg"].get("audio_tail"))
+            if clean and g["out_start"] - cur[0]["out_start"] >= target:
+                chunks.append(cur)
+                cur = []
+        cur.append(g)
+    if cur:
+        chunks.append(cur)
+    return chunks
+
+
+def chunk_key(ctx, chunk):
+    data = {"v": RENDER_VERSION, "W": ctx.W, "H": ctx.H, "fps": ctx.fps, "pix": ctx.pixfmt, "hdr": ctx.keep_hdr,
+            "proxy": ctx.use_proxy, "preview": bool(ctx.args.preview),
+            "edl": {k: ctx.edl.get(k) for k in ("grade", "lut", "reframe", "fit", "audio_track")},
+            "shots": [[g["src"], g["start"], g["end"], g["out_start"] - chunk[0]["out_start"], g["seg"],
+                       file_sig(ctx.video_src(g["src"])), file_sig(g["src"])] for g in chunk]}
+    luts = {g["seg"].get("lut") for g in chunk} | {ctx.edl.get("lut")}
+    data["luts"] = [file_sig(lp) for lp in sorted(x for x in luts if x) if Path(lp).exists()]
+    return hashlib.sha256(json.dumps(data, sort_keys=True, default=str).encode()).hexdigest()[:24]
+
+
+def render_chunk(ctx, chunk, path, threads):
+    gr = Graph()
+    vl, al, total = build_shots(ctx, gr, chunk, t0=chunk[0]["out_start"])
+    gr.f(f"[{vl}]null[vout]")
+    gr.f(f"[{al}]anull[aout]")
+    vcodec = ["-c:v", "libx264", "-preset", "ultrafast" if ctx.args.preview else "veryfast", "-crf", "10",
+              "-pix_fmt", ctx.pixfmt]
+    tmp = path.with_suffix(".part.mkv")
+    run(["ffmpeg", "-y", "-hide_banner", "-v", "error", *gr.inputs, "-filter_complex", ";".join(gr.filters),
+         "-map", "[vout]", "-map", "[aout]", "-t", f"{total:.4f}", *vcodec, "-r", str(ctx.fps),
+         "-c:a", "pcm_s16le", "-threads", str(threads), str(tmp)])
+    tmp.rename(path)
 
 
 def main():
@@ -181,8 +749,14 @@ def main():
     ap.add_argument("--font", default="Inter", help="font for EDL texts")
     ap.add_argument("--codec", choices=["h264", "h265", "prores"], default="h264")
     ap.add_argument("--crf", type=int, default=18)
+    ap.add_argument("--10bit", dest="ten_bit", action="store_true", help="10-bit output (h265/prores): no banding")
+    ap.add_argument("--hdr", action="store_true", help="keep HDR (HDR10/HLG) instead of tone-mapping to SDR (h265)")
     ap.add_argument("--range", help="render only this output window, e.g. 20-35")
-    ap.add_argument("--preview", action="store_true", help="half resolution, ultrafast: for review drafts")
+    ap.add_argument("--preview", action="store_true", help="half resolution, ultrafast, proxies: for review drafts")
+    ap.add_argument("--proxy", action="store_true", help="use proxies from `vs proxy` (on by default with --preview)")
+    ap.add_argument("--chunks", default="auto", help="auto | off | seconds per chunk (stage 1 in parallel, cached)")
+    ap.add_argument("--jobs", type=int, default=0, help="parallel chunk renders (default: cores/2, max 4)")
+    ap.add_argument("--no-cache", action="store_true", help="re-render every chunk")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
@@ -199,8 +773,11 @@ def main():
         if it["end"] <= it["start"]:
             die(f"segment {it['src']} {it['start']}..{it['end']}: end must be after start")
         d = probes[it["src"]]["duration"]
-        if d and it["end"] > d + 0.05:
+        if d and it["end"] > d + 0.05 and not it["freeze"]:
             die(f"segment {Path(it['src']).name} ends at {it['end']:.2f}s but the source is {d:.2f}s")
+        if it["freeze"] and (is_image(it["src"]) or (d and it["start"] >= d)):
+            die(f"freeze on {Path(it['src']).name} @ {it['start']}s: needs a video and a time inside it")
+    groups = groups_of(tl)
 
     preset = PRESETS.get(args.preset, {})
     first = next((probes[i["src"]] for i in tl if not is_image(i["src"])), probes[tl[0]["src"]])
@@ -210,208 +787,88 @@ def main():
         W, H = W * preset.get("scale", 1), H * preset.get("scale", 1)
     else:
         W, H = first["width"] - first["width"] % 2, first["height"] - first["height"] % 2
-    fps = args.fps or preset.get("fps") or first["fps"] or 30
-    fps = round(fps, 3)
+    fps = round(args.fps or preset.get("fps") or first["fps"] or 30, 3)
     if args.preview:
         W, H = (W // 2) - (W // 2) % 2, (H // 2) - (H // 2) % 2
-    lufs = None if args.no_loudnorm else (args.loudnorm if args.loudnorm is not None else preset.get("lufs"))
 
     warnings = set()
+    keep_hdr, hdr_transfer = False, None
+    if args.hdr:
+        if args.codec != "h265":
+            die("--hdr needs --codec h265")
+        hdr_src = next((p for p in probes.values() if p["hdr"]), None)
+        if not hdr_src:
+            warnings.add("--hdr: no HDR source found; rendering 10-bit SDR")
+        else:
+            keep_hdr, hdr_transfer = True, hdr_src.get("transfer") or "smpte2084"
+    ten = args.ten_bit or args.hdr
+    if ten and args.codec == "h264":
+        warnings.add("--10bit ignored for h264 (players rarely support it); use --codec h265 or prores")
+        ten = False
+    pixfmt = "yuv420p10le" if ten or args.codec == "prores" else "yuv420p"
     for src, p in probes.items():
         if p["vfr"]:
             warnings.add(f"{Path(src).name}: variable frame rate (phone footage); conformed to {fps} fps")
-    inputs, filters = [], []
-    n = 0
-    use_track = edl.get("audio_track")
-    follow = bool(use_track and use_track.get("follow"))
-    if follow:
-        if not Path(use_track["src"]).exists():
-            die(f"audio_track not found: {use_track['src']}")
-        tinfo = probe(use_track["src"])
-    for k, it in enumerate(tl):
-        src, a, b = it["src"], it["start"], it["end"]
-        src_len = b - a
-        if is_image(src):
-            inputs += ["-loop", "1", "-framerate", str(fps), "-t", f"{src_len:.3f}", "-i", src]
-        else:
-            inputs += ["-ss", f"{a:.3f}", "-t", f"{src_len:.3f}", "-i", src]
-        vi = n
-        n += 1
-        filters.append(segment_video(vi, k, it, probes[src], edl, W, H, fps, warnings))
-        if use_track and not follow:
-            continue
-        out_len = src_len / it["speed"]
-        ain, has_a = f"{vi}:a", probes[src]["has_audio"]
-        if follow:
-            # Audio comes from the shared track at this segment's reference time (multicam).
-            ref0 = float(it["seg"].get("ref", [a])[0]) + float(use_track.get("offset", 0))
-            inputs += ["-ss", f"{max(ref0, 0):.3f}", "-t", f"{src_len:.3f}", "-i", use_track["src"]]
-            ain, has_a = f"{n}:a", tinfo["has_audio"]
-            n += 1
-        if has_a and not it["seg"].get("mute"):
-            ach = [f"[{ain}]aresample=48000,aformat=channel_layouts=stereo,asetpts=PTS-STARTPTS"]
-            if it["speed"] != 1.0:
-                ach.append(atempo_chain(it["speed"]))
-            vol = float(it["seg"].get("volume_db", 0))
-            if vol:
-                ach.append(f"volume={vol}dB")
-            ach.append(f"afade=t=in:d={FADE},afade=t=out:st={max(out_len - FADE, 0):.3f}:d={FADE}")
-            # Pad/trim to exact video length so A/V never drift.
-            ach.append(f"apad,atrim=0:{out_len:.3f}")
-            filters.append(",".join(ach) + f"[a{k}]")
-        else:
-            filters.append(f"anullsrc=r=48000:cl=stereo,atrim=0:{out_len:.3f}[a{k}]")
-
-    # Join.
-    has_tr = any(it["overlap"] > 0 for it in tl[1:])
-    if follow:
-        use_track = None  # segment audio is built; join it like normal audio
-    if not has_tr:
-        if use_track:
-            filters.append("".join(f"[v{k}]" for k in range(len(tl))) + f"concat=n={len(tl)}:v=1:a=0[cv]")
-        else:
-            filters.append("".join(f"[v{k}][a{k}]" for k in range(len(tl))) + f"concat=n={len(tl)}:v=1:a=1[cv][ca]")
-    else:
-        vl, al = "v0", "a0"
-        for k in range(1, len(tl)):
-            it = tl[k]
-            if it["overlap"] > 0:
-                tr = it["seg"]["transition_in"]
-                ttype = tr.get("type", "fade") if isinstance(tr, dict) else "fade"
-                xf = XFADE.get(ttype, ttype)
-                d = it["overlap"]
-                filters.append(f"[{vl}][v{k}]xfade=transition={xf}:duration={d:.3f}:offset={it['out_start']:.3f}[xv{k}]")
-                if not use_track:
-                    filters.append(f"[{al}][a{k}]acrossfade=d={d:.3f}:c1=tri:c2=tri[xa{k}]")
-            else:
-                filters.append(f"[{vl}][v{k}]concat=n=2:v=1:a=0[xv{k}]")
-                if not use_track:
-                    filters.append(f"[{al}][a{k}]concat=n=2:v=0:a=1[xa{k}]")
-            vl, al = f"xv{k}", f"xa{k}"
-        filters.append(f"[{vl}]null[cv]")
-        if not use_track:
-            filters.append(f"[{al}]anull[ca]")
-    total = tl[-1]["out_end"]
-
-    if use_track:
-        if not Path(use_track["src"]).exists():
-            die(f"audio_track not found: {use_track['src']}")
-        inputs += ["-i", use_track["src"]]
-        s0 = float(use_track.get("start", 0))
-        g = float(use_track.get("gain_db", 0))
-        filters.append(f"[{n}:a]aresample=48000,aformat=channel_layouts=stereo,atrim={s0:.3f}:{s0 + total:.3f},"
-                       f"asetpts=PTS-STARTPTS,volume={g}dB,apad,atrim=0:{total:.3f}[ca]")
-        n += 1
-
-    vlab = "cv"
-    for j, ov in enumerate(edl.get("overlays", [])):
-        if not Path(ov["file"]).exists():
-            die(f"overlay not found: {ov['file']}")
-        dec = ["-c:v", "libvpx-vp9"] if ov["file"].lower().endswith(".webm") else []
-        loop = ["-loop", "1"] if is_image(ov["file"]) else []
-        seek = ["-ss", f"{float(ov['in']):.3f}"] if ov.get("in") and not loop else []
-        inputs += [*loop, *seek, *dec, "-i", ov["file"]]
-        oi = n
-        n += 1
-        s, e = float(ov["start"]), float(ov["end"])
-        if ov.get("fit", "w" not in ov):
-            # Fill the frame without distortion (crop around focus), like segments do.
-            fx, fy = ov.get("focus", [0.5, 0.5])
-            size = (f"scale={W}:{H}:force_original_aspect_ratio=increase,"
-                    f"crop={W}:{H}:(iw-{W})*{fx}:(ih-{H})*{fy},")
-        elif "w" in ov:
-            size = f"scale={int(ov['w'])}:-2,"
-        else:
-            size = ""
-        op = f",colorchannelmixer=aa={float(ov['opacity'])}" if "opacity" in ov else ""
-        trim = f",trim=0:{e - s:.3f}" if loop else ""
-        filters.append(f"[{oi}:v]{size}format=rgba{op}{trim},setpts=PTS-STARTPTS+{s}/TB[o{j}]")
-        filters.append(f"[{vlab}][o{j}]overlay=x={ov.get('x', 0)}:y={ov.get('y', 0)}:"
-                       f"enable='between(t,{s},{e})':eof_action=pass[ov{j}]")
-        vlab = f"ov{j}"
 
     out = Path(args.out)
-    # Custom fonts: project assets/fonts, then the workspace library, then style/fonts (libass finds them by family name).
-    fontsdir = ""
-    edl_dir = Path(args.edl).resolve().parent
-    ws = edl_dir.parents[2] if len(edl_dir.parents) > 2 else None
-    for cand in (edl_dir.parent / "assets" / "fonts", ws and ws / "library" / "assets" / "fonts",
-                 ws and ws / "style" / "fonts"):
-        if cand and cand.is_dir() and any(cand.iterdir()):
-            fontsdir = f":fontsdir='{esc_path(cand)}'"
-            break
-    if edl.get("texts"):
-        tpath = out.with_suffix(".texts.ass")
-        out.parent.mkdir(parents=True, exist_ok=True)
-        write_texts_ass(edl["texts"], tpath, W, H, args.font)
-        filters.append(f"[{vlab}]subtitles='{esc_path(tpath)}'{fontsdir}[tv]")
-        vlab = "tv"
-    if args.captions:
-        if not Path(args.captions).exists():
-            die(f"captions not found: {args.captions}")
-        filters.append(f"[{vlab}]subtitles='{esc_path(args.captions)}'{fontsdir}[sv]")
-        vlab = "sv"
+    cache_dir = Path(os.environ.get("VS_CACHE") or out.parent / ".vs-cache")
+    ctx = Ctx(args, edl, W, H, fps, pixfmt, keep_hdr, cache_dir, warnings)
+    ctx.lufs = None if args.no_loudnorm else (args.loudnorm if args.loudnorm is not None else preset.get("lufs"))
+    if ctx.use_proxy:
+        missing = [s for s in probes if not is_image(s) and not proxy_for(s)]
+        if args.proxy and missing:
+            warnings.add(f"no proxy for {len(missing)} source(s); using originals (make them: vs proxy <files>)")
+    total = groups[-1]["out_end"]
 
-    alab = "ca"
-    if edl.get("audio", {}).get("enhance"):
-        filters.append(f"[{alab}]{VOICE_ENHANCE}[ae]")
-        alab = "ae"
-    sfx = edl.get("sfx", [])
-    if sfx:
-        labs = []
-        for j, fx in enumerate(sfx):
-            if not Path(fx["file"]).exists():
-                die(f"sfx not found: {fx['file']}")
-            inputs += ["-i", fx["file"]]
-            ms = int(float(fx["at"]) * 1000)
-            filters.append(f"[{n}:a]aresample=48000,aformat=channel_layouts=stereo,"
-                           f"volume={float(fx.get('gain_db', -6))}dB,adelay={ms}:all=1[fx{j}]")
-            labs.append(f"[fx{j}]")
-            n += 1
-        filters.append(f"[{alab}]{''.join(labs)}amix=inputs={1 + len(labs)}:duration=first:normalize=0[asx]")
-        alab = "asx"
-    music = edl.get("music")
-    if music:
-        if not Path(music["file"]).exists():
-            die(f"music not found: {music['file']}")
-        inputs += ["-stream_loop", "-1", "-i", music["file"]]
-        mi = n
-        n += 1
-        ms0 = float(music.get("start", 0))
-        gain = float(music.get("gain_db", -18))
-        fo = float(music.get("fade_out", 1.5))
-        filters.append(f"[{mi}:a]aresample=48000,aformat=channel_layouts=stereo,atrim={ms0}:{ms0 + total:.3f},"
-                       f"asetpts=PTS-STARTPTS,volume={gain}dB,afade=t=in:d=0.3,"
-                       f"afade=t=out:st={max(total - fo, 0):.3f}:d={fo}[m]")
-        if music.get("duck", True) and not use_track:
-            filters.append(f"[{alab}]asplit=2[vo][sc]")
-            filters.append("[m][sc]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md]")
-            filters.append("[vo][md]amix=inputs=2:duration=first:normalize=0[am]")
-        else:
-            filters.append(f"[{alab}][m]amix=inputs=2:duration=first:normalize=0[am]")
-        alab = "am"
-    if lufs is not None:
-        filters.append(f"[{alab}]loudnorm=I={lufs}:TP=-1.5:LRA=11,aresample=48000[an]")
-        alab = "an"
-
-    out.parent.mkdir(parents=True, exist_ok=True)
-    if args.codec == "prores":
-        venc = ["-c:v", "prores_ks", "-profile:v", "3", "-pix_fmt", "yuv422p10le"]
-        aenc = ["-c:a", "pcm_s16le"]
+    if args.chunks == "off" or args.range or args.dry_run:
+        target = None
+    elif args.chunks == "auto":
+        target = 60.0 if total >= AUTO_CHUNK_MIN else None
     else:
-        preset_speed = "ultrafast" if args.preview else ("medium" if args.codec == "h264" else "slow")
-        crf = max(args.crf, 26) if args.preview else args.crf
-        lib = "libx264" if args.codec == "h264" else "libx265"
-        tag = ["-tag:v", "hvc1"] if args.codec == "h265" else []
-        venc = ["-c:v", lib, "-preset", preset_speed, "-crf", str(crf), "-pix_fmt", "yuv420p", *tag]
-        aenc = ["-c:a", "aac", "-b:a", "192k"]
+        target = float(args.chunks)
+    chunks = chunk_groups(groups, target) if target else [groups]
+    if len(chunks) < 2:
+        chunks = [groups]
+
+    if not args.dry_run:
+        stab_prepass(ctx, groups)
+    venc, aenc = encoder_args(args, pixfmt, hdr_transfer)
     window = []
     if args.range:
         r0, _, r1 = args.range.partition("-")
         window = ["-ss", r0, "-to", r1]
-    cmd = ["ffmpeg", "-y", "-hide_banner", "-v", "error", "-stats", *inputs,
-           "-filter_complex", ";".join(filters), "-map", f"[{vlab}]", "-map", f"[{alab}]", *window,
-           *venc, "-r", str(fps), *aenc, "-movflags", "+faststart", str(out)]
+
+    gr = Graph()
+    if len(chunks) == 1:
+        vl, al, total = build_shots(ctx, gr, groups)
+    else:
+        cache_dir.mkdir(parents=True, exist_ok=True)
+        jobs = args.jobs or max(1, min(4, (os.cpu_count() or 2) // 2))
+        threads = max(1, (os.cpu_count() or 2) // jobs)
+        todo, paths = [], []
+        for c in chunks:
+            p = cache_dir / f"chunk-{chunk_key(ctx, c)}.mkv"
+            paths.append(p)
+            if (args.no_cache or not p.exists()) and p not in {q for _, q in todo}:
+                todo.append((c, p))
+        print(f"stage 1: {len(chunks)} chunks, {len(chunks) - len(todo)} cached, rendering {len(todo)} "
+              f"with {jobs} job(s)", file=sys.stderr)
+        with ThreadPoolExecutor(max_workers=jobs) as ex:
+            for f in [ex.submit(render_chunk, ctx, c, p, threads) for c, p in todo]:
+                f.result()
+        listing = Path(tempfile.mkstemp(suffix=".txt", dir=cache_dir)[1])
+        listing.write_text("".join(f"file '{p.resolve()}'\n" for p in paths))
+        ci = gr.add_input("-f", "concat", "-safe", "0", "-i", str(listing))
+        vl, al = f"{ci}:v", f"{ci}:a"
+        gr.f(f"[{vl}]setpts=PTS-STARTPTS[cv]")
+        gr.f(f"[{al}]asetpts=PTS-STARTPTS,apad,atrim=0:{total:.4f}[ca]")
+        vl, al = "cv", "ca"
+    finish(ctx, gr, vl, al, total, out)
+
+    out.parent.mkdir(parents=True, exist_ok=True)
+    cmd = ["ffmpeg", "-y", "-hide_banner", "-v", "error", "-stats", *gr.inputs,
+           "-filter_complex", ";".join(gr.filters), "-map", "[vout]", "-map", "[aout]", *window,
+           "-t", f"{total:.4f}", *venc, "-r", str(fps), *aenc, "-movflags", "+faststart", str(out)]
     for w in sorted(warnings):
         print(f"warning: {w}", file=sys.stderr)
     if preset.get("max") and total > preset["max"]:
@@ -419,10 +876,18 @@ def main():
     if args.dry_run:
         print(" ".join(f"'{c}'" if (" " in c or ";" in c) else c for c in cmd))
         return
-    run(cmd)
+    if window:
+        cmd.remove("-t")
+        cmd.remove(f"{total:.4f}")
+    p = subprocess.run(cmd, capture_output=True, text=True)
+    if p.returncode != 0:
+        tail = (p.stderr or "")[-2500:]
+        die(f"render failed ({p.returncode}). Re-run with --dry-run to see the ffmpeg command.\n{tail}")
     o = probe(str(out))
+    has_tr = any(g["overlap"] > 0 for g in groups[1:])
     print(f"rendered {out}: {o['width']}x{o['height']} @ {o['fps']}fps, {fmt_ts(o['duration'])} "
-          f"({len(tl)} segments{', transitions' if has_tr else ''})")
+          f"({len(groups)} segments{', transitions' if has_tr else ''}"
+          f"{f', {len(chunks)} chunks' if len(chunks) > 1 else ''})")
 
 
 if __name__ == "__main__":

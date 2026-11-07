@@ -28,7 +28,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from vs_common import die, fmt_ts, load_json, need, probe, run, save_json, timeline  # noqa: E402
+from vs_common import cut_points, die, fmt_ts, load_json, need, probe, run, save_json, timeline  # noqa: E402
 
 AUDIO_EXT = {".mp3", ".wav", ".m4a", ".aac", ".flac", ".aiff", ".aif", ".ogg", ".opus"}
 # category -> filename keywords (first match wins, so order specific -> generic)
@@ -119,7 +119,7 @@ def library(extra, project=None):
 
 def moments_from_edl(edl, every_cut):
     out = []
-    tl = timeline(edl)
+    tl = cut_points(timeline(edl))
     for k, it in enumerate(tl[1:], 1):
         seg = it["seg"]
         tr = seg.get("transition_in")

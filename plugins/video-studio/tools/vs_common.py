@@ -115,7 +115,7 @@ def probe(path):
     info = json.loads(p.stdout)
     v = next((s for s in info["streams"] if s["codec_type"] == "video"), None)
     a = next((s for s in info["streams"] if s["codec_type"] == "audio"), None)
-    fps, w, h, rot, hdr, vfr = 30.0, 0, 0, 0, False, False
+    fps, w, h, rot, hdr, vfr, transfer = 30.0, 0, 0, 0, False, False, None
     if v:
         w, h = int(v.get("width", 0)), int(v.get("height", 0))
         for key in ("avg_frame_rate", "r_frame_rate"):
@@ -134,12 +134,13 @@ def probe(path):
         if abs(rot) % 180 == 90:
             w, h = h, w
         hdr = v.get("color_transfer") in ("arib-std-b67", "smpte2084")
+        transfer = v.get("color_transfer") if hdr else None
     dur = float(info["format"].get("duration", 0.0) or 0.0)
     if is_image(path):
         dur = 0.0
     return {
         "duration": dur, "width": w, "height": h, "fps": round(fps, 3), "rotation": rot,
-        "has_video": v is not None, "has_audio": a is not None, "hdr": hdr, "vfr": vfr,
+        "has_video": v is not None, "has_audio": a is not None, "hdr": hdr, "transfer": transfer, "vfr": vfr,
         "vcodec": v.get("codec_name") if v else None,
         "channels": int(a.get("channels", 0)) if a else 0,
     }
@@ -168,17 +169,25 @@ def norm_word(w):
 
 
 def edl_segments(edl):
-    """Yield (src, start, end, seg) with defaults resolved. Image segments start at 0."""
+    """Yield (src, start, end, seg) with defaults resolved. Image segments start at 0.
+    A freeze segment ({"start": t, "freeze": 1.5}) may omit `end`."""
     default_src = edl.get("source")
     for seg in edl["segments"]:
         src = seg.get("src", default_src)
         if src is None:
             die("segment has no 'src' and EDL has no 'source'")
-        yield src, float(seg.get("start", 0.0)), float(seg["end"]), seg
+        a = float(seg.get("start", 0.0))
+        if "end" not in seg and not seg.get("freeze"):
+            die(f"segment {src} @ {a}: missing 'end'")
+        b = float(seg["end"]) if "end" in seg else a + 0.04
+        yield src, a, b, seg
 
 
 def seg_speed(seg):
-    return max(float(seg.get("speed", 1.0)), 0.05)
+    s = seg.get("speed", 1.0)
+    if isinstance(s, list):  # speed ramp: average for callers that only need a number
+        return max(sum(float(p[1]) for p in s) / len(s), 0.05)
+    return max(float(s), 0.05)
 
 
 def transition_dur(seg):
@@ -188,23 +197,155 @@ def transition_dur(seg):
     return float(t.get("dur", 0.4)) if isinstance(t, dict) else 0.4
 
 
+def interp(points, x):
+    """Linear interpolation over [[x, y], ...] (clamped at the ends)."""
+    pts = sorted((float(p[0]), float(p[1])) for p in points)
+    if x <= pts[0][0]:
+        return pts[0][1]
+    for (x0, y0), (x1, y1) in zip(pts, pts[1:]):
+        if x <= x1:
+            return y0 + (y1 - y0) * (x - x0) / (x1 - x0) if x1 > x0 else y1
+    return pts[-1][1]
+
+
+RAMP_PIECES = 6  # constant-speed pieces per keyframe interval (audio, captions); video is exact
+
+
+def ramp_points(seg, length):
+    """Speed keyframes [[t, speed], ...] (t: source seconds from the segment start), clamped
+    to the segment and extended flat to both ends."""
+    pts = sorted((min(max(float(p[0]), 0.0), length), max(float(p[1]), 0.05)) for p in seg["speed"])
+    if pts[0][0] > 0:
+        pts.insert(0, (0.0, pts[0][1]))
+    if pts[-1][0] < length:
+        pts.append((length, pts[-1][1]))
+    return pts
+
+
+def ramp_intervals(pts):
+    """[(t0, t1, s0, k, out0)]: speed s0 + k*(t - t0) on [t0, t1]; out0 = output time at t0."""
+    out, acc = [], 0.0
+    for (t0, s0), (t1, s1) in zip(pts, pts[1:]):
+        if t1 <= t0:
+            continue
+        k = (s1 - s0) / (t1 - t0)
+        out.append((t0, t1, s0, k, acc))
+        acc += _ramp_int(t1 - t0, s0, k)
+    return out
+
+
+def _ramp_int(d, s0, k):
+    """Output seconds for d source seconds when speed goes linearly s0 -> s0 + k*d."""
+    import math
+    if abs(k) < 1e-9:
+        return d / s0
+    return math.log((s0 + k * d) / s0) / k
+
+
+def ramp_out(pts, x):
+    """Output seconds after x source seconds of a ramped segment."""
+    for t0, t1, s0, k, o in ramp_intervals(pts):
+        if x <= t1:
+            return o + _ramp_int(max(x - t0, 0.0), s0, k)
+    return ramp_out(pts, pts[-1][0])
+
+
+def ramp_setpts(pts, var="T"):
+    """setpts expression (output seconds) for source-relative time `var` of a ramped segment."""
+    expr = None
+    for t0, t1, s0, k, o in reversed(ramp_intervals(pts)):
+        d = f"(({var})-{t0:.6g})"
+        piece = f"{o:.6g}+{d}/{s0:.6g}" if abs(k) < 1e-9 else f"{o:.6g}+log(({s0:.6g}+({k:.6g})*{d})/{s0:.6g})/({k:.6g})"
+        expr = piece if expr is None else f"if(lt({var},{t1:.6g}),{piece},{expr})"
+    return expr
+
+
+def expand_ramp(a, b, seg):
+    """Split a speed-ramped segment into constant-average-speed pieces.
+
+    `speed` is [[t, speed], ...] with t in seconds from the segment's source start. Returns
+    [(a_i, b_i, speed_i, out_offset_i)], where out_offset is the piece's output time inside
+    the original segment. Piece lengths follow the exact ramp, so the pieces add up to the
+    length the renderer produces."""
+    pts = ramp_points(seg, b - a)
+    marks = []
+    for (t0, _), (t1, _) in zip(pts, pts[1:]):
+        if t1 > t0:
+            marks += [t0 + (t1 - t0) * i / RAMP_PIECES for i in range(RAMP_PIECES)]
+    marks.append(b - a)
+    out = []
+    for x0, x1 in zip(marks, marks[1:]):
+        o0, o1 = ramp_out(pts, x0), ramp_out(pts, x1)
+        out.append((a + x0, a + x1, (x1 - x0) / max(o1 - o0, 1e-6), o0))
+    return out
+
+
 def timeline(edl):
     """Output-timeline placement of every segment, accounting for speed and transitions.
 
-    Returns a list of dicts: {src, start, end, speed, out_start, out_end, seg}. A transition
-    on segment k overlaps it with segment k-1 by its duration, so out_start moves earlier.
+    Returns a list of dicts: {src, start, end, speed, out_start, out_end, seg, overlap, ...}.
+    A transition on segment k overlaps it with segment k-1 by its duration, so out_start moves
+    earlier. Speed-ramped segments become several constant-speed pieces: every piece after the
+    first has `join` True (a seamless continuation, not a cut). `kf_off` is the piece's output
+    time inside its original segment; `freeze` is the hold length of a freeze frame.
     """
     out, t = [], 0.0
     for k, (src, a, b, seg) in enumerate(edl_segments(edl)):
-        sp = seg_speed(seg)
-        length = (b - a) / sp
-        td = transition_dur(seg) if k else 0.0
-        td = min(td, length / 2, (out[-1]["out_end"] - out[-1]["out_start"]) / 2 if out else 0)
-        start = t - td
-        out.append({"src": src, "start": a, "end": b, "speed": sp, "out_start": start,
-                    "out_end": start + length, "seg": seg, "overlap": td})
-        t = start + length
+        if isinstance(seg.get("speed"), list) and not seg.get("freeze"):
+            pieces = expand_ramp(a, b, seg)
+        else:
+            pieces = [(a, b, seg_speed(seg), 0.0)]
+        for i, (pa, pb, sp, off) in enumerate(pieces):
+            freeze = float(seg["freeze"]) if seg.get("freeze") else 0.0
+            length = freeze if freeze else (pb - pa) / sp
+            td = 0.0
+            if k and i == 0:
+                td = transition_dur(seg)
+                td = min(td, length / 2, (out[-1]["out_end"] - out[-1]["out_start"]) / 2 if out else 0)
+            start = t - td
+            out.append({"src": src, "start": pa, "end": pb, "speed": 1.0 if freeze else sp,
+                        "out_start": start, "out_end": start + length, "seg": seg, "overlap": td,
+                        "join": i > 0, "first": i == 0, "last": i == len(pieces) - 1,
+                        "kf_off": off, "freeze": freeze, "index": k})
+            t = start + length
     return out
+
+
+def cut_points(tl):
+    """Timeline items that start a new shot (ramp continuations excluded)."""
+    return [it for it in tl if not it["join"]]
+
+
+EASE = {
+    "linear": "{u}",
+    "in": "({u})*({u})",
+    "out": "(1-(1-{u})*(1-{u}))",
+    "inout": "(3*({u})*({u})-2*({u})*({u})*({u}))",
+}
+
+
+def kf_expr(points, tvar="t", default_ease="inout"):
+    """ffmpeg expression for keyframes [[t, v], [t, v, "ease"], ...] in the variable `tvar`.
+
+    Holds the first value before the first key and the last value after the last; the ease on a
+    key shapes the move INTO that key (linear, in, out, inout). Commas are safe inside the
+    single-quoted option values the callers write."""
+    pts = sorted(points, key=lambda p: float(p[0]))
+    if not pts:
+        raise ValueError("empty keyframe list")
+    if len(pts) == 1:
+        return f"({float(pts[0][1]):.6g})"
+    expr = f"({float(pts[-1][1]):.6g})"
+    for i in range(len(pts) - 1, 0, -1):
+        t0, v0 = float(pts[i - 1][0]), float(pts[i - 1][1])
+        t1, v1 = float(pts[i][0]), float(pts[i][1])
+        ease = pts[i][2] if len(pts[i]) > 2 else default_ease
+        if t1 <= t0:
+            continue
+        u = f"(({tvar})-{t0:.6g})/{t1 - t0:.6g}"
+        shaped = EASE.get(ease, EASE["linear"]).format(u=u)
+        expr = f"if(lt({tvar},{t1:.6g}),({v0:.6g})+({v1 - v0:.6g})*{shaped},{expr})"
+    return f"if(lt({tvar},{float(pts[0][0]):.6g}),({float(pts[0][1]):.6g}),{expr})"
 
 
 def total_duration(edl):
