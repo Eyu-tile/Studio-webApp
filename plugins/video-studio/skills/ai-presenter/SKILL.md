@@ -8,12 +8,15 @@ description: Generate the footage an edit is missing - an AI talking-head presen
 Claude runs the generations (MCP tools); `vs gen` plans them as jobs, hands over exact inputs, downloads and
 checks the results, and builds the EDL. Then the normal edit continues (`/ugc-ads`, `/video-edit`).
 
-## 0. Connect the generator (once)
-The Higgsfield MCP is `https://mcp.higgsfield.ai/mcp` (sign-in with the person's Higgsfield account; no API key).
-- claude.ai / Claude app: Settings → Connectors → add custom connector with that URL.
-- Claude Code: `claude mcp add --transport http higgsfield https://mcp.higgsfield.ai/mcp`, then `/mcp` to sign in.
-Find its tools with your tool search ("higgsfield"); tool names come from the server, so read their
-descriptions rather than assuming. Not connected → tell the person how to connect it and stop; never fake
+## 0. Connect the account (once per account)
+The Higgsfield MCP (`https://mcp.higgsfield.ai/mcp`) signs in through the browser; there is no key to paste. The
+plugin ships one connection, `higgsfield`. For several accounts (clients, brands) each gets its own connection
+and sign-in: run **`/connect-higgsfield`** (asks which account, adds `higgsfield-<name>`, walks the person through
+/mcp → Authenticate, checks the tools, makes it active), or by hand `vs higgsfield add <name>` then /mcp.
+`vs higgsfield use <name> [--project $P]` picks the account a project generates with; `vs gen plan` records it
+and `vs gen next` names it. Only call that connection's tools (`mcp__higgsfield-<name>__*`, found with your tool
+search); never spend credits on another account. Tool names come from the server, so read their descriptions
+rather than assuming. In the Claude app: Settings → Connectors → custom connector with the URL, one per account. Not connected → tell the person how to connect it and stop; never fake
 generated results. Other generators (HeyGen via `/media-use`, Veo, Kling...) work the same way: the job
 file doesn't care which provider ran it, only what came back.
 

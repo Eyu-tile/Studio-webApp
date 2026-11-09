@@ -122,12 +122,15 @@ def cmd_plan(a):
                        f"phone-shot b-roll, real hands and real places, natural light, smooth slight handheld motion. "
                        f"No text, no watermark, no logos except the product's own.",
                 aspect=aspect, line=i, expect_seconds=round(est(ln.get("say", "x x x")) + 0.5, 1))
+    from higgsfield import active
+    acct = a.account or s.get("account") or active(a.project)
     doc = {"variant": v, "script": a.script, "aspect": aspect, "presenter": p, "lines": lines,
+           "account": acct, "tool_prefix": f"mcp__{acct}__",
            "created": time.strftime("%Y-%m-%d %H:%M"), "jobs": jobs}
     out = Path(a.out or Path(a.script).with_name(f"{v}.jobs.json"))
     save_json(out, doc)
     gens = sum(j["status"] == "todo" for j in jobs)
-    print(f"{len(jobs)} jobs ({gens} generations) -> {out}")
+    print(f"{len(jobs)} jobs ({gens} generations) -> {out}; account {acct} (tools mcp__{acct}__*)")
     for j in jobs:
         print(f"  {j['id']:<10} {j['kind']:<9} needs {','.join(j['needs']) or '-':<16} {j.get('tool', '')}")
     print("Confirm the plan and the provider's price estimate with the person before generating.")
@@ -154,6 +157,8 @@ def cmd_next(a):
         return
     for j in r:
         print(json.dumps(resolve(doc, j), indent=1, ensure_ascii=False))
+    if doc.get("account"):
+        print(f"\nUse the {doc['account']} connection (tools {doc['tool_prefix']}*), not another Higgsfield account.")
     print(f"\n{len(r)} job(s) ready. Run each with the generator, then: vs gen done {a.jobs} <id> --url <result>")
 
 
@@ -332,6 +337,8 @@ def main():
     p.add_argument("script")
     p.add_argument("-o", "--out")
     p.add_argument("--max-clip", type=float, default=MAX_CLIP)
+    p.add_argument("--account", help="Higgsfield connection to use (default: vs higgsfield current)")
+    p.add_argument("--project", help="project folder, for its active account")
     for name in ("next", "list"):
         sub.add_parser(name).add_argument("jobs")
     d = sub.add_parser("done")
