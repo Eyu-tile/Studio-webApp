@@ -32,7 +32,7 @@ case "$cmd" in
   cuts) exec "$py" "$tools/propose_cuts.py" "$@" ;;
   fetch) exec "$py" "$tools/assets.py" "$@" ;;
   add) exec "$py" "$tools/assets.py" add "$@" ;;
-  keys) exec "$py" "$tools/assets.py" keys "$@" ;;
+  keys) exec "$py" "$tools/keys.py" "$@" ;;
   credits) exec "$py" "$tools/assets.py" credits "$@" ;;
   export) exec "$py" "$tools/export_edl.py" "$@" ;;
   probe) exec ffprobe -v error -show_entries format=duration:stream=codec_type,codec_name,width,height,avg_frame_rate,sample_rate,channels -of compact "$@" ;;
@@ -81,7 +81,8 @@ vs <command>                                         video-studio plugin
   fetch search "<query>" --type video|photo|music|sfx --project P [--provider archive,youtube,wikipedia,...]
   fetch get <results.json> 2 5 7 [--quality hd --section 95-110]  download picks / only a section (logged with licences)
   add <files|folders|zips|URLs>... --project P [--as broll|music|sfx|logo|font|lut|ref|raw] | --library
-  keys set|list|unset pexels|pixabay|unsplash|freesound|jamendo  free API keys for stock search
+  keys ask <provider> [--project P]    pop-up to enter an API key (hidden; per project or machine-wide)
+  keys set|unset|check|list|exec       elevenlabs heygen openai gemini (audio), pexels pixabay unsplash freesound jamendo (stock)
   credits --project P     regenerate assets/CREDITS.md
  build the edit
   cuts <transcript.json> -o work/edl.json [--max-pause 0.45]

@@ -44,7 +44,7 @@ Fonts in `assets/fonts` or the library are picked up by renders automatically (u
 | `freesound` | sound effects | free key |
 | `nasa` | space, earth, science (public domain) | none |
 
-Keys (one-time, per machine): the person creates them, then `vs keys set pexels` (pixabay, unsplash, freesound);
+Keys (one-time, per machine): the person creates them, then `vs keys ask pexels` (pop-up; pixabay, unsplash, freesound);
 `vs keys list` shows what's set. With no keys, archive, wikipedia, wikimedia, youtube, openverse and nasa all work.
 
 ```bash
