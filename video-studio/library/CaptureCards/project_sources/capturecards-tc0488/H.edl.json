@@ -1,0 +1,742 @@
+{
+ "source": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Wren_Presley_B-Roll_13.mov",
+ "segments": [
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Wren_Presley_B-Roll_13.mov",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.02,
+   "end": 2.417
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Wren_Presley_B-Roll_13.mov",
+   "start": 2.417,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.16,
+   "zoom_to": 1.18,
+   "end": 4.269
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Claire_Fisher_B-Roll_29.mov",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 3.11
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/hf_20260820_075318_e5f3af3a_054c_43d4_bb.mp4",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 3.09
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q2.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 0.98
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q3.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 1.429
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q1.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 2.213
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Claire_Fisher_B-Roll_27.mov",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 3.296
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/hf_20260807_104641_2ff7cbef-3b76-4f65-a1c2-a899b79a229a.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 1.709
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Ailani_Paneth_B-Roll_1.mov",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 2.143
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/hf_20260820_090306_1413f3da-c2fd-4737-a391-090661464cfd.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 1.396,
+   "transition_in": {
+    "type": "zoomin",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/hf_20260820_090559_a83c6287-39a2-4e8c-b042-a97bd8b55c02.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 2.691
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/hf_20260821_054813_38409857-0c03-4472-bb4c-ab11afa8049c.mp4",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 3.337
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/hf_20260821_054604_abc8c70d-e01c-41df-a1fe-15d63ac899b8.mp4",
+   "start": 3.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 4.816
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Woman_sneezing_and_wiping_nose_202608190710.mp4",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 4.806,
+   "transition_in": {
+    "type": "slideleft",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/Woman_wakes_with_blocked_nostril_2026080.mp4",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 3.468
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q4.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 1.417
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/woman-blowing-nose-while-lying-on-couch-2025-12-17-13-14-03-utc.mov",
+   "start": 5.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 7.003
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/hf_20260902_214429_d712d36c_4c3d_47a5_b5.mp4",
+   "start": 1.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 2.229
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q5.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 2.439
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q6.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 1.404
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/hf_20260823_004413_518b7518-cfa4-4316-a129-067234f5640a.mp4",
+   "start": 1.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 2.104
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q7.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 1.291
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q8.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 1.413
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q20.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 1.196
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q9.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 1.7
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q10.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 1.57
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Wren_Presley_B-Roll_10.mov",
+   "start": 6.8,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 7.832
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/hf_20260803_175442_03a9d954-1b9d-48e1-8ad6-412f234f9849.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 1.307
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/hf_20260824_052232_b62a6913-e8d3-4f6b-8c67-4cc0a22709d5.mp4",
+   "start": 1.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 3.237,
+   "transition_in": {
+    "type": "fadeblack",
+    "dur": 0.35
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Dust_mites_crawling_inside_pillow_202607301942.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 1.883
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/hf_20260807_103103_0aac4395-8c52-4653-a200-97f38dd16fb4.mp4",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 3.839,
+   "transition_in": {
+    "type": "zoomin",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/hf_20260820_175630_cf612c00-b412-4bdf-b010-69013d8a2125.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 1.841,
+   "transition_in": {
+    "type": "slideleft",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q11.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 2.987
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/hf_20260820_145132_059ffddf-0b60-4fa2-9e4a-a5068cd52469.mp4",
+   "start": 0.6,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 2.455
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q12.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.02,
+   "end": 1.875
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q12.mp4",
+   "start": 1.875,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.16,
+   "zoom_to": 1.18,
+   "end": 3.145
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Charlotte_Fischer_B-Roll_15.mov",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 1.065,
+   "transition_in": {
+    "type": "circleopen",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/Dust_mites_moving_inside_mattress_202608.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 1.209
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q13.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 1.804
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q14.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 2.926
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/hf_20260807_103127_724cc3b6_ab55_4556_ad.mp4",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 4.58
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/Generate_video_dust_mites_moving_2026080.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 0.82
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/Woman_washing_and_making_bed_20260802071.mp4",
+   "start": 3.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 4.31
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/hf_20260820_080738_52a1f2a1-4711-46b4-a09b-b871f14be259.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 1.258
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/b4.mp4",
+   "start": 2.6,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 5.035,
+   "speed": 0.9313
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/hf_20260810_073507_f93700fb_3c71_4292_be.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 2.282,
+   "transition_in": {
+    "type": "fade",
+    "dur": 0.35
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/Woman_sleeping_nasal_cavity_cutaway_2026.mp4",
+   "start": 2.2,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 3.372
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/bait_doesn_t_work_04.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 0.655
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/Woman_sleeping_with_nasal_obstru_2026080.mp4",
+   "start": 1.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 1.737
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Woman_sneezes_from_pillow_202607310336__1_.mp4",
+   "start": 2.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 4.587
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q15.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.02,
+   "end": 2.274
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q15.mp4",
+   "start": 2.274,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.16,
+   "zoom_to": 1.18,
+   "end": 4.152
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Wren_Presley_B-Roll_21.mov",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 3.063,
+   "transition_in": {
+    "type": "slideleft",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Fionnuala_Kennedy_B-Roll_10.mov",
+   "start": 3.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 4.922
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Wren_Presley_B-Roll_20.mov",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 1.778
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Bedroom_air_purifier_cleans_room_202607310053.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 1.687
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Claire_Fisher_B-Roll_18.mov",
+   "start": 4.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 6.131
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Ailani_Paneth_B-Roll_20.mov",
+   "start": 1.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 3.309
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/Dust_mites_in_mattress_fibers_2026080206.mp4",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 3.365
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Woman_realizing_solution_in_bedroom_202608121559.mp4",
+   "start": 1.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 3.037,
+   "transition_in": {
+    "type": "smoothup",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/hf_20260820_184313_d8fa9113_5068_413c_99.mp4",
+   "start": 2.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 4.963,
+   "speed": 0.9358
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/real/Ailani_Paneth_B_Roll_9.mov",
+   "start": 1.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 3.8,
+   "transition_in": {
+    "type": "fadewhite",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/Dustmites.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 1.846
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/real/hf_20260820_180513_f8abd308_f198_4e98_91.mp4",
+   "start": 1.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 3.093
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/hf_20260820_183945_6f07289b_66be_422b_b1.mp4",
+   "start": 2.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 4.213
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0482/raw/ai/Mason_Stevens_B-Roll_7.mov",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 4.348
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Ailani_Paneth_B-Roll_31.mov",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 3.537,
+   "transition_in": {
+    "type": "slideleft",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Ailani_Paneth_B-Roll_8.mov",
+   "start": 1.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 1.948
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Ailani_Paneth_B-Roll_22.mov",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 1.352
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q18.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 1.309
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Lynch_B-Roll_11.mov",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 1.826
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Wren_Presley_B-Roll_17.mov",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 4.817,
+   "transition_in": {
+    "type": "fade",
+    "dur": 0.4
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/higgsfield/Q19.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 1.86
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Charlotte_Fischer_B-Roll_21.mov",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 3.718
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0488/raw/lib/Wren_Presley_B-Roll_1.mov",
+   "start": 1.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 2.977
+  }
+ ],
+ "reframe": 0.5,
+ "grade": "natural",
+ "texts": []
+}

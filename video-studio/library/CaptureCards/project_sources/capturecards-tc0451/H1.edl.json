@@ -1,0 +1,346 @@
+{
+ "source": "raw/Woman_sneezing_and_wiping_nose_202608190.mp4",
+ "segments": [
+  {
+   "src": "raw/Woman_sneezing_and_wiping_nose_202608190.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 1.351
+  },
+  {
+   "src": "raw/Dust_mite_feeding_on_skin_202607302025.mp4",
+   "start": 0.3,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.735
+  },
+  {
+   "src": "raw/Woman_loading_laundry_into_washer_202608.mp4",
+   "start": 0.3,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.986,
+   "transition_in": {
+    "type": "slideleft",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "raw/Woman_washing_and_making_bed_20260802071.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 1.436
+  },
+  {
+   "src": "raw/b3_1_.mp4",
+   "start": 0.2,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 2.1,
+   "speed": 0.8202,
+   "transition_in": {
+    "type": "zoomin",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "raw/Dust_mites_inside_mattress_layers_202608.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.9,
+   "speed": 0.9422
+  },
+  {
+   "src": "raw/Generate_video_dust_mites_moving_2026080.mp4",
+   "start": 0.2,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 1.9,
+   "speed": 0.9422
+  },
+  {
+   "src": "raw/hf_20260820_075318_e5f3af3a_054c_43d4_bb.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.9,
+   "speed": 0.8829,
+   "transition_in": {
+    "type": "slideleft",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "raw/Woman_wakes_with_blocked_nostril_2026080.mp4",
+   "start": 3.3,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 5.2,
+   "speed": 0.999
+  },
+  {
+   "src": "raw/b4.mp4",
+   "start": 1.4,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 2.6,
+   "speed": 0.9787
+  },
+  {
+   "src": "raw/hf_20260820_080151_2bc9e3ae_db6a_4e84_97.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.6,
+   "speed": 0.9787
+  },
+  {
+   "src": "raw/Woman_cleaning_mattress_dust_mites_20260.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 1.6,
+   "speed": 0.9787
+  },
+  {
+   "src": "raw/hf_20260807_022405_6be555a4_ac3e_4f2b_8c.mp4",
+   "start": 4.2,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 6.473,
+   "transition_in": {
+    "type": "fadewhite",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "raw/hf_20260820_184313_d8fa9113_5068_413c_99.mp4",
+   "start": 0.3,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 1.816
+  },
+  {
+   "src": "raw/Capture_card_animation_tiny_mites_202607.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.611
+  },
+  {
+   "src": "raw/hf_20260820_183945_6f07289b_66be_422b_b1.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 1.516
+  },
+  {
+   "src": "raw/Dustmites.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.754,
+   "transition_in": {
+    "type": "zoomin",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "raw/Mites_trapped_in_adhesive_202608010223.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 1.454
+  },
+  {
+   "src": "raw/card_composition_01.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.454
+  },
+  {
+   "src": "raw/TrueClean_card_01.mp4",
+   "start": 0.2,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 1.654
+  },
+  {
+   "src": "raw/Woman_struggling_to_sleep_breathing_2026.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 1.823,
+   "transition_in": {
+    "type": "fadeblack",
+    "dur": 0.4
+   }
+  },
+  {
+   "src": "raw/Woman_sneezing_hard_realistic_2026080423.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.423
+  },
+  {
+   "src": "raw/Woman_sleeping_nasal_cavity_cutaway_2026.mp4",
+   "start": 1.4,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 3.167
+  },
+  {
+   "src": "raw/bait_doesn_t_work_04.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 1.963
+  },
+  {
+   "src": "raw/Camera_zooms_into_sleeping_woman_2026081.mp4",
+   "start": 2.2,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 3.967
+  },
+  {
+   "src": "raw/Microscopic_dust_mites_in_mattress_20260.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 1.57
+  },
+  {
+   "src": "raw/hf_20260810_073507_f93700fb_3c71_4292_be.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 2.287,
+   "transition_in": {
+    "type": "fade",
+    "dur": 0.5
+   }
+  },
+  {
+   "src": "raw/Woman_sleeping_with_nasal_obstru_2026080.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.787
+  },
+  {
+   "src": "raw/Woman_waking_up_well_rested_202608070448.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 1.787
+  },
+  {
+   "src": "raw/hf_20260823_005442_4d56ab5c_3ca6_417f_bb.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.465
+  },
+  {
+   "src": "raw/MptuLfKfQ7kwE_K7QIlrt_minimax_h3.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 1.465
+  },
+  {
+   "src": "raw/cta_.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.465
+  },
+  {
+   "src": "raw/cta_1_.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 5.0,
+   "speed": 0.9,
+   "transition_in": {
+    "type": "fadewhite",
+    "dur": 0.3
+   }
+  }
+ ],
+ "reframe": 0.5,
+ "grade": "natural",
+ "texts": []
+}
