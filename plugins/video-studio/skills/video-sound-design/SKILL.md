@@ -18,6 +18,7 @@ vs packs list                                           # what's registered / in
 vs packs add https://github.com/<user>/<repo> --name x --path audio --license CC0-1.0   # any free sound repo
 vs sfx library                                          # what's available, by category
 vs fetch search "whoosh transition" --type sfx --max-dur 3 --library    # Openverse first (no key), then Freesound
+vs fetch search "door slam" --type sfx --cc0 --library   # client ads: CC0/public domain only, free anywhere, no credit
 vs fetch get <results.json> 1 3 4 --library
 vs add ~/Sounds/brand-kit/ --as sfx --library           # your own recordings
 vs sfx bank --from earshot                              # render earshot's bank (needs vs setup --earshot)
@@ -68,5 +69,7 @@ Use `critique` as a second opinion, not a verdict: it describes the style of its
 top fixes to the person and apply the ones that fit the brief.
 
 ## Related: Clipwing "Real SFX"
-A separate free skill from Clipwing (clipwing.pro/skills/real-sfx) does the same job with a CC0 starter pack of
-78 UI sounds. If the person has it installed, either tool is fine; this plugin's `vs sfx` needs nothing extra.
+A separate free skill from Clipwing (clipwing.pro/skills/real-sfx) does the same job. Its built-in sounds are the
+same uisfx library this plugin installs with `vs packs install --defaults` (78 UI sounds × 12 styles = 936, CC0),
+so nothing extra is needed: `vs sfx` places them on the frame, Openverse adds real recordings, earshot makes or
+judges the rest. If the person has Clipwing's skill installed too, either tool is fine.
