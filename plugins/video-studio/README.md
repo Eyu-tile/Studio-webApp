@@ -53,6 +53,7 @@ Drop footage into `raw/` and talk to Claude:
 | `video-export` | platform presets, multi-aspect, GIF/WebM/ProRes/MP3, size limits, thumbnails, chapters |
 | `video-style-guide` | learn a style from reference videos |
 | `ai-presenter` | AI talking-head presenter and b-roll through the Higgsfield MCP (or another generator) as tracked jobs, pulled back into the edit |
+| `task-history` | Client task history by code: every delivered version (files, link, note, snapshot of the edit), client feedback with done/skipped tracking, and `vs task resume <CODE>` to pick up exactly where you left off |
 | `ugc-ads` | UGC and VSL ads from a brief: audience/emotion/awareness → hooks, beats, captions, music; variants; ad QA (hook, words on screen, stimulus, safe zones, CTA, loudness, compliance); client review page |
 | `video-translate` | translated subtitles (SRT/ASS) and dubbed tracks timed to the edit, music kept under |
 | `video-breakdown` | how a reference was made, shot by shot (camera, look, pacing, beat sync; optional rea-video forensics: live/AI/3D/screen, OCR text), remake plan + template EDL |
@@ -108,6 +109,20 @@ EBU R128 loudness, h264/h265/ProRes and 10-bit, proxies, chunked parallel render
   (reference frame → `.cube` LUT) is native.
 - **rea-video** (`vs setup --rea`, Apache-2.0, ~1 GB): deep shot forensics for `/video-breakdown`: live action vs AI
   video vs 3D vs screen recording per shot, on-screen text timeline by OCR, stickers, vocal/music separation.
+
+## Task history: pick up a client task by its code
+Every client task gets a code (e.g. `TC0488`). Its history is kept in `video-studio/history/` (committed with the
+workspace), so a new session, or another machine, can continue it:
+
+    vs task new TC0488 --project capturecards-tc0488 --client TrueClean --title "Scale & awareness 1"
+    vs task deliver TC0488 --file out/final/ad.mp4 --link <drive link> --note "v2: real people, TC0217 structure"
+    vs task feedback TC0488 "make the hook faster; 0:12 swap the shot"   # client comments, kept word for word
+    vs task resume TC0488     # brief, versions, open feedback, files to read, next step
+    vs task done TC0488 1 --how "hook now 2 cuts"   ·   vs task list --open   ·   vs task restore TC0488
+
+Each delivery snapshots the edit's inputs (script, shot list, EDLs, builder, project.md) into
+`history/<CODE>/vN/`. At session start the plugin lists open tasks, so "continue TC0488" or "the client replied"
+starts from the recorded state.
 
 ## API keys: per project, entered in a pop-up
 Paid voice and audio services (ElevenLabs, HeyGen API, OpenAI, Gemini) often bill a different account for each
