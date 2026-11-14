@@ -36,6 +36,11 @@ PROVIDERS = {
     "heygen": ("HEYGEN_API_KEY", "voiceover with word timestamps, avatars", "app.heygen.com → Settings → API"),
     "openai": ("OPENAI_API_KEY", "voiceover (TTS), transcription", "platform.openai.com → API keys"),
     "gemini": ("GEMINI_API_KEY", "music beds (Lyria), TTS", "aistudio.google.com → Get API key"),
+    # client footage libraries (vs learn)
+    "gdrive": ("GOOGLE_DRIVE_API_KEY", "list and read Google Drive folders fast (vs learn)",
+               "console.cloud.google.com → APIs & Services → Credentials → API key (enable Drive API)"),
+    "dropbox": ("DROPBOX_TOKEN", "list Dropbox shared folders without downloading the zip (vs learn)",
+                "dropbox.com/developers/apps → your app → Generate access token"),
     # stock media (free)
     "pexels": ("PEXELS_API_KEY", "stock video and photos", "pexels.com/api"),
     "pixabay": ("PIXABAY_API_KEY", "stock video, photos, music", "pixabay.com/api/docs"),

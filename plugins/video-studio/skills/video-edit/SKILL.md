@@ -42,6 +42,7 @@ Tools: `vs <cmd>` (on PATH via this plugin's SessionStart hook; if missing, run
 | UGC or VSL ads, performance creative, ad variants from a brief | `/ugc-ads` (uses this loop) |
 | generate a presenter / talking head / missing b-roll (Higgsfield MCP) | `/ai-presenter` |
 | Higgsfield account per client: connect, switch, bill a client's team workspace | `/connect-higgsfield` |
+| client shared a footage link/folder; find the client's own clips | `/library-learning` (`vs learn`) |
 | client task by code: continue, client feedback, revisions, what was delivered | `/task-history` (`vs task resume <CODE>`) |
 | how a reference was made / remake a winning ad | `/video-breakdown` |
 | subtitles in other languages, dubbing | `/video-translate` |

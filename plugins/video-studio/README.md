@@ -54,6 +54,7 @@ Drop footage into `raw/` and talk to Claude:
 | `video-style-guide` | learn a style from reference videos |
 | `ai-presenter` | AI talking-head presenter and b-roll through the Higgsfield MCP (or another generator) as tracked jobs, pulled back into the edit |
 | `task-history` | Client task history by code: every delivered version (files, link, note, snapshot of the edit), client feedback with done/skipped tracking, and `vs task resume <CODE>` to pick up exactly where you left off |
+| `library-learning` | Learn a client's footage from Drive, Frame.io, Dropbox, OneDrive, web pages, links or a local drive without downloading it all: scan, network frame sampling into contact sheets, described atlas, search, fetch on demand, usage log (`vs learn`) |
 | `ugc-ads` | UGC and VSL ads from a brief: audience/emotion/awareness → hooks, beats, captions, music; variants; ad QA (hook, words on screen, stimulus, safe zones, CTA, loudness, compliance); client review page |
 | `video-translate` | translated subtitles (SRT/ASS) and dubbed tracks timed to the edit, music kept under |
 | `video-breakdown` | how a reference was made, shot by shot (camera, look, pacing, beat sync; optional rea-video forensics: live/AI/3D/screen, OCR text), remake plan + template EDL |
@@ -109,6 +110,24 @@ EBU R128 loudness, h264/h265/ProRes and 10-bit, proxies, chunked parallel render
   (reference frame → `.cube` LUT) is native.
 - **rea-video** (`vs setup --rea`, Apache-2.0, ~1 GB): deep shot forensics for `/video-breakdown`: live action vs AI
   video vs 3D vs screen recording per shot, on-screen text timeline by OCR, stickers, vocal/music separation.
+
+## Learn a client's footage library (`vs learn`)
+Clients keep footage in different places. Add each share once; public links work as they are, and a saved key
+(`vs keys ask gdrive|dropbox --project <Library>`) switches to the provider's API:
+
+    vs learn source AcmeShoes "https://drive.google.com/drive/folders/..."   # Drive, Frame.io, Dropbox, OneDrive,
+    vs learn source AcmeShoes "https://next.frame.io/share/..."              # any page with videos, direct links,
+    vs learn source AcmeShoes /Volumes/Footage/Acme                          # a .txt list of links, a local drive
+    vs learn scan AcmeShoes          # list every file (duplicates and removed files flagged)
+    vs learn sample AcmeShoes        # 6 frames per clip read over the network -> contact sheets of 12 clips
+    vs learn next AcmeShoes          # Claude looks at a sheet and saves what it sees: vs learn tag
+    vs learn atlas AcmeShoes         # ATLAS.md: every clip, what's in it, best part, OK/CAUTION/BANNED
+    vs learn find AcmeShoes "woman sneezing in bed" --status OK --unused
+    vs learn fetch AcmeShoes <id> -o raw/lib --section 2-6     # fresh download of just what the edit needs
+
+Measured on a real Frame.io share: 454 files listed in about 80 s, then 36 clips (including 4K .mov) sampled in
+about 110 s with 8 parallel jobs. Frame.io and other web pages are read with headless Chromium (Node.js and
+Playwright). Output lives in `library/<Library>/resources/`.
 
 ## Task history: pick up a client task by its code
 Every client task gets a code (e.g. `TC0488`). Its history is kept in `video-studio/history/` (committed with the
