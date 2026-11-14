@@ -1,0 +1,972 @@
+{
+ "batch": "batch_030",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_030.out.json",
+ "clips": [
+  {
+   "id": "6b8166ad-e016-4586-94a7-22b65e89f4d7",
+   "filename": "UT__April_Selects_2.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 459.37,
+   "talking": false,
+   "cuts": [
+    5.63,
+    17.23,
+    23.15,
+    36.49,
+    43.34,
+    59.77,
+    67.32,
+    77.66,
+    84.79,
+    88.55,
+    96.47,
+    104.9,
+    110.78,
+    118.95,
+    128.34,
+    146.31,
+    151.49,
+    158.49,
+    171.13,
+    181.22,
+    192.23,
+    199.66,
+    207.16,
+    216.97,
+    222.6,
+    240.12,
+    244.83,
+    251.84,
+    258.63,
+    265.64,
+    285.62,
+    295.17,
+    300.43,
+    309.77,
+    313.65,
+    319.82,
+    327.49,
+    334.0,
+    337.67,
+    345.05,
+    369.2,
+    382.01,
+    386.47,
+    391.06,
+    398.94,
+    403.57,
+    414.87,
+    430.97,
+    436.64,
+    446.28,
+    459.29
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6b8166ad-e016-4586-94a7-22b65e89f4d7_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6b8166ad-e016-4586-94a7-22b65e89f4d7_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6b8166ad-e016-4586-94a7-22b65e89f4d7_3.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6b8166ad-e016-4586-94a7-22b65e89f4d7_4.jpg"
+   ],
+   "bya_description": "Wide shot of a modern living room with a couple on a couch, followed by a close-up of a white fan spinning.",
+   "bya_tags": [
+    "Relaxing at home",
+    "Fan spinning close-up",
+    "Living room",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Feeling the breeze",
+    "Gathering around",
+    "Living room"
+   ]
+  },
+  {
+   "id": "78bbf403-af10-437b-a392-4fc6e68eff19",
+   "filename": "UT_April_Sleep.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 303.38,
+   "talking": true,
+   "cuts": [
+    4.8,
+    9.13,
+    24.65,
+    35.58,
+    44.79,
+    53.3,
+    61.6,
+    75.2,
+    84.71,
+    100.22,
+    116.87,
+    123.37,
+    129.38,
+    138.39,
+    168.29,
+    171.92,
+    186.6,
+    201.45,
+    209.58,
+    216.72,
+    222.18,
+    227.69,
+    245.7,
+    253.88,
+    259.88,
+    265.01,
+    268.85,
+    277.53,
+    291.29,
+    303.3
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/78bbf403-af10-437b-a392-4fc6e68eff19_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/78bbf403-af10-437b-a392-4fc6e68eff19_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/78bbf403-af10-437b-a392-4fc6e68eff19_3.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/78bbf403-af10-437b-a392-4fc6e68eff19_4.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/78bbf403-af10-437b-a392-4fc6e68eff19_5.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/78bbf403-af10-437b-a392-4fc6e68eff19_6.jpg"
+   ],
+   "bya_description": "A person sleeps in a bed with a fan running in the background of a dark bedroom.",
+   "bya_tags": [
+    "Bedroom",
+    "Relaxing at home",
+    "Waking rested",
+    "Bedroom",
+    "Relaxing at home",
+    "Sleeping",
+    "Waking rested"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "back there, but be early morning. Complete blackout.",
+     "labels": [
+      "Sleeping",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 68,
+     "text": "Awesome. Great. Love it. That was great. Nice.",
+     "labels": [
+      "Waking rested",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 86,
+     "text": "All right, and action. Nice. Awesome. All right,",
+     "labels": [
+      "Waking rested",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 99,
+     "text": "let's do that again. We're gonna have a",
+     "labels": [
+      "Sleeping",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 129,
+     "text": "lot of shots to work with now. Do you want any lights or anything? No, I think this is good.",
+     "labels": [
+      "Relaxing at home",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 138,
+     "text": "50 is not old anymore. Like 60, 60 I can kind of start feeling old, and then I'll hit 60 and be like, yeah, this isn't old. That's what my parents are saying.",
+     "labels": [
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 160,
+     "text": "But I think he's home because he had finals this week or next week or That's awesome. 29, he's almost 30 like me. Yep. Oh my gosh, I know, which is crazy to think he's that old. Like, what happened? I'm only 30. How is t",
+     "labels": [
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 186,
+     "text": "doing some stretches. One, go. Awesome. Just so",
+     "labels": [
+      "Relaxing at home",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 209,
+     "text": "we have a bunch, same thing. Yeah, keep",
+     "labels": [
+      "Relaxing at home",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 227,
+     "text": "doing that for",
+     "labels": [
+      "Relaxing at home",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 237,
+     "text": "more. Awesome. Yeah, keep going for a few.",
+     "labels": [
+      "Waking rested",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 245.8,
+     "text": "3, 2, 1. Nice.",
+     "labels": [
+      "Waking rested",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 253.6,
+     "text": "Mere Christianity. Is better. Yeah, written by him.",
+     "labels": [
+      "Product hero shot",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 259.6,
+     "text": "One of the integral giants of the 20th century and arguably one of the most\u2014 in '54, when he was unanimously elected to the chair of medieval\u2014",
+     "labels": [
+      "Relaxing at home",
+      "Bedroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5361320-a431-45e2-b6a9-bd9590171364",
+   "filename": "omni-2026-08-29-b73aa744.mp4",
+   "folder": "AI generated",
+   "duration_s": 1.0,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d5361320-a431-45e2-b6a9-bd9590171364_1.jpg"
+   ],
+   "bya_description": "A woman with long brown hair and a tan cardigan speaks directly to the camera while seated on a white couch. She gestures with her hands in front of a dark wood-slatted wall decorated with abstract art.",
+   "bya_tags": [
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.3,
+     "text": "And annoyingly,",
+     "labels": [
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f9802123-c535-41b3-9c1d-17867086988d",
+   "filename": "omni-2026-08-30-9fb44b67.mp4",
+   "folder": "AI generated",
+   "duration_s": 4.35,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f9802123-c535-41b3-9c1d-17867086988d_1.jpg"
+   ],
+   "bya_description": "A woman with long brown hair, wearing a white t-shirt and a brown cardigan, sits on a white couch and speaks directly to the camera. She gestures with her hands while talking in a living room with modern art and wood paneling behind her.",
+   "bya_tags": [
+    "Product benefit",
+    "Spin 360",
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.1,
+     "text": "Spin 360, it claims it can recreate that soft outdoor glow.",
+     "labels": [
+      "Spin 360",
+      "Product benefit",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ed08f12d-08b7-4e7a-aaf8-8a861639adf5",
+   "filename": "omni-2026-08-30-ed0aafc9.mp4",
+   "folder": "AI generated",
+   "duration_s": 7.34,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ed08f12d-08b7-4e7a-aaf8-8a861639adf5_1.jpg"
+   ],
+   "bya_description": "A woman with long brown hair, wearing a red cardigan over a white t-shirt, sits in a living room and speaks directly to the camera while gesturing with her hands.",
+   "bya_tags": [
+    "Gentle air movement",
+    "Hook",
+    "Nostalgic Comfort",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.8,
+     "text": "You know what, when you're outside on a quiet summer evening and the air is just moving enough that your whole body kind of just relaxes?",
+     "labels": [
+      "Hook",
+      "Gentle air movement",
+      "Nostalgic Comfort",
+      "Sleeping outside feeling"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "398e4a0d-232e-4433-a2dc-3bf800f64f95",
+   "filename": "omni-2026-08-31-3fa177bb.mp4",
+   "folder": "AI generated",
+   "duration_s": 4.35,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/398e4a0d-232e-4433-a2dc-3bf800f64f95_1.jpg"
+   ],
+   "bya_description": "A woman with long brown hair wearing a tan cardigan over a white shirt speaks directly to the camera while seated on a white couch. She gestures with her hands as she talks, with two abstract black-and-white paintings on a dark slatted wall behind her.",
+   "bya_tags": [
+    "Sleeping outside feeling",
+    "Spin 360",
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.1,
+     "text": "Spin 360, it claims it can recreate that soft outdoor.",
+     "labels": [
+      "Spin 360",
+      "Sleeping outside feeling",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8dd43760-d27e-4b47-999e-bf96da4de407",
+   "filename": "holding 360.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.0,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8dd43760-d27e-4b47-999e-bf96da4de407_1.jpg"
+   ],
+   "bya_description": "A woman in a black jumpsuit stands in a bedroom, lifting and showing a white pedestal fan while talking to the camera.",
+   "bya_tags": [
+    "Bedroom",
+    "Moving the fan",
+    "Product in hand",
+    "Bedroom",
+    "Moving the fan",
+    "Product in hand",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I can't understand that.",
+     "labels": [
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5f0f9826-c24f-469c-9fda-ad7bcc8b19df",
+   "filename": "script 2 hook 1.MOV",
+   "folder": "Spin360 - Avery / scripts",
+   "duration_s": 4.6,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5f0f9826-c24f-469c-9fda-ad7bcc8b19df_1.jpg"
+   ],
+   "bya_description": "Woman in a black shirt and headband talks to the camera on a couch, gesturing dismissively. She looks stressed and briefly closes her eyes.",
+   "bya_tags": [
+    "Failed alternative",
+    "Hook",
+    "Personal Struggle",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.5,
+     "text": "Last summer, I hit a wall.",
+     "labels": [
+      "Hook",
+      "Failed alternative",
+      "Talking head",
+      "Personal Struggle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e61ee665-52a9-4a59-b1ea-4b9b31872b89",
+   "filename": "script 2 hook 2.MOV",
+   "folder": "Spin360 - Avery / scripts",
+   "duration_s": 5.7,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e61ee665-52a9-4a59-b1ea-4b9b31872b89_1.jpg"
+   ],
+   "bya_description": "A woman in a black shirt and headband speaks to the camera while sitting on a couch. She gestures with her hands in a bright living room.",
+   "bya_tags": [
+    "Hook",
+    "Immediate Desire",
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.0,
+     "text": "The moment my friend turned this on, I knew I was taking it home.",
+     "labels": [
+      "Hook",
+      "Talking head",
+      "Immediate Desire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3167f633-671a-4377-898a-498e40954de6",
+   "filename": "script 3 hook 1.MOV",
+   "folder": "Spin360 - Avery / scripts",
+   "duration_s": 8.3,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3167f633-671a-4377-898a-498e40954de6_1.jpg"
+   ],
+   "bya_description": "A woman in a purple top sits on a bed, speaking to the camera. She gestures and fixes her hair against a bedroom background.",
+   "bya_tags": [
+    "Hook",
+    "Personal Suitability",
+    "Product benefit",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.7,
+     "text": "This room used to be unbearable in the summer. Now it's my favorite place in the house.",
+     "labels": [
+      "Hook",
+      "Product benefit",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "426746a4-1cbb-4bc9-9285-a8d7056a2a66",
+   "filename": "script 3 hook 2.MOV",
+   "folder": "Spin360 - Avery / scripts",
+   "duration_s": 5.63,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/426746a4-1cbb-4bc9-9285-a8d7056a2a66_1.jpg"
+   ],
+   "bya_description": "Woman in purple dress talking to camera while sitting on a bed in a bedroom.",
+   "bya_tags": [
+    "Hook",
+    "Personal Suitability",
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.2,
+     "text": "I've never felt a room cool down this fast, and I'm a hot sleeper.",
+     "labels": [
+      "Hook",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b214830d-8bce-47f3-9994-87808340575d",
+   "filename": "script 3 hook 3.MOV",
+   "folder": "Spin360 - Avery / scripts",
+   "duration_s": 8.33,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b214830d-8bce-47f3-9994-87808340575d_1.jpg"
+   ],
+   "bya_description": "Woman in a purple dress sits on a bed, holding a paper and talking to the camera with hand gestures in a neutral bedroom.",
+   "bya_tags": [
+    "Bedroom",
+    "Hook",
+    "Product benefit",
+    "Bedroom",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 3.7,
+     "text": "The first night I turned it on, the room felt completely different.",
+     "labels": [
+      "Hook",
+      "Product benefit",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "35629bb2-7f67-4f18-98b9-b267c0ef066d",
+   "filename": "Script 1_1",
+   "folder": "Spin360 - Michael / Scripts",
+   "duration_s": 144.22,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/35629bb2-7f67-4f18-98b9-b267c0ef066d_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/35629bb2-7f67-4f18-98b9-b267c0ef066d_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/35629bb2-7f67-4f18-98b9-b267c0ef066d_3.jpg"
+   ],
+   "bya_description": "A man in a black button-down shirt speaks directly to the camera in a living room. He gestures with both hands throughout the video, occasionally pointing to a television and wooden cabinet behind him.",
+   "bya_tags": [
+    "Talking head",
+    "Family movie night",
+    "Greenhouse effect",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.3,
+     "text": "Okay, this is genuinely one of the best home upgrades we've ever made.",
+     "labels": [
+      "Hook",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 4.1,
+     "text": "If you're new here, hey, I'm Michael. Welcome back to Home Upgrades That Are Actually Worth It. In the last episode, we talked about what changes we made to our kitchen and our bedroom, and this summer, the living room w",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 18.2,
+     "text": "Because here's the thing, our living room is where we spend all of our time. It's where the kids play, where we watch movies, where we try to actually relax after a long day.",
+     "labels": [
+      "Family movie night",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 28.5,
+     "text": "But in the summer, it turns into a greenhouse. It's where the kids play, where we watch movies, where we try to actually relax after a long day.",
+     "labels": [
+      "Greenhouse effect",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 37.4,
+     "text": "But in the summer, it turns into a greenhouse. The afternoon sun just bakes this room and it stays hot and stuffy all evening. We tried everything\u2014 blackout curtains, a portable AC, even just accepting that the summer is",
+     "labels": [
+      "Greenhouse effect",
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 54.1,
+     "text": "So when we came across Spin 360, I honestly didn't expect much, but the moment we turned it on, I was like, okay, wait, this is completely different.",
+     "labels": [
+      "Spin 360",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 63.8,
+     "text": "But the moment we turned it on, I was like, okay, wait, this is completely different.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 69.1,
+     "text": "It doesn't blast you with a harsh stream. It gently moves the air around the room like the whole space can finally breathe. That heavy trapped feeling just disappears. It's not loud. It's not cold in one spot. It's just ",
+     "labels": [
+      "Gentle air movement",
+      "Product benefit",
+      "Talking head",
+      "No Harsh Streams"
+     ]
+    },
+    {
+     "start": 84.6,
+     "text": "Like the whole space can finally breathe. That heavy trapped feeling just disappears. It's not loud. It's not cold in one spot. It's just comfortable everywhere.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 96.2,
+     "text": "The kids stop complaining about being too hot during movie night. I can actually sit down and unwind without feeling like I'm melting into the sofa. The air just feels softer and lighter and easier to exhale.",
+     "labels": [
+      "Family movie night",
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 108.3,
+     "text": "The air just feels softer, lighter, like you can finally exhale.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 113.4,
+     "text": "And I'm not gonna lie, I was skeptical at first because we've tried so many things, but this one genuinely made a difference we could actually feel. This house has completely changed how summer feels, and honestly, anyth",
+     "labels": [
+      "Personal Suitability",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 131.8,
+     "text": "So if you're looking for home upgrades that are actually worth it, This is the one I would actually recommend. Follow along because we still have more we want to do, but for now, this is the best thing that we have added",
+     "labels": [
+      "Worth it upgrades",
+      "Spin 360",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "50dc9363-44b4-4239-8e0e-f1100c20d0c6",
+   "filename": "Script 1_2",
+   "folder": "Spin360 - Michael / Scripts",
+   "duration_s": 128.2,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/50dc9363-44b4-4239-8e0e-f1100c20d0c6_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/50dc9363-44b4-4239-8e0e-f1100c20d0c6_2.jpg"
+   ],
+   "bya_description": "A man in a black button-down shirt stands in a living room, speaking directly to the camera and gesturing with both hands throughout. He is framed from the chest up, with a bed, a lamp, and a painting visible in the background.",
+   "bya_tags": [
+    "Talking head",
+    "Product benefit",
+    "Worth it upgrades",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.4,
+     "text": "Okay, this is genuinely one of the best home upgrades we've ever made.",
+     "labels": [
+      "Hook",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 4.8,
+     "text": "If you're new here, hey, I'm Michael, and welcome back to Home Upgrades That Are Actually Worth It. In the last episode, we talked about what changes we made to our kitchen and our bedroom, and this summer the living roo",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 18.9,
+     "text": "Because here's the thing, our living room is where we spend all our time. It's where the kids play, it's where we watch movies, where we try to actually relax after a long day. But In the summer, it turns into a greenhou",
+     "labels": [
+      "Talking head",
+      "Greenhouse effect"
+     ]
+    },
+    {
+     "start": 40.0,
+     "text": "We tried everything. We tried everything. Blackout curtains, portable AC, even just accepting that the summer is sticky and miserable. Nothing actually made it feel comfortable.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 51.2,
+     "text": "So when we came across Spin 360, I honestly didn't expect much, but The moment we turned it on, I was like, okay, wait, this is completely different. It doesn't blast you with a harsh stream. It gently moves the air arou",
+     "labels": [
+      "Product benefit",
+      "Gentle air movement",
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 81.5,
+     "text": "The kids stopped complaining about being too hot during movie night. I can actually sit down and unwind without feeling like I'm melting into the sofa. The air just feels softer, lighter, like you can finally exhale.",
+     "labels": [
+      "Product benefit",
+      "Family movie night",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 95.7,
+     "text": "And I'm not going to lie, I was skeptical at first because we've tried so many things, but this one genuinely made a difference. We could actually feel.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 105.6,
+     "text": "This house has completely changed how summer feels, and honestly, anything that makes our home feel more comfortable for our family gets an A+ in my book.",
+     "labels": [
+      "Product benefit",
+      "Personal Suitability",
+      "Home Elevation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 114.9,
+     "text": "So if you're looking for home upgrades that are actually worth it, this is the one I'd recommend. Follow along because we still have more we want to do, but for now, this is the best thing we've added all summer.",
+     "labels": [
+      "Worth it upgrades",
+      "Spin 360",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "df5119fb-73d0-48d2-93d3-447c045c913a",
+   "filename": "Script 2",
+   "folder": "Spin360 - Michael / Scripts",
+   "duration_s": 114.98,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/df5119fb-73d0-48d2-93d3-447c045c913a_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/df5119fb-73d0-48d2-93d3-447c045c913a_2.jpg"
+   ],
+   "bya_description": "A man in a black button-down shirt stands in a bedroom, speaking directly to the camera and gesturing with both hands. Behind him is a bed with a chunky knit throw and a large piece of art on the wall.",
+   "bya_tags": [
+    "Talking head",
+    "Gentle air movement",
+    "Room transformation",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.3,
+     "text": "Okay, do not fall for this fan. This thing is a scam. Let me explain.",
+     "labels": [
+      "Hook",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 5.7,
+     "text": "First, Spin 360 claims it can recreate that soft outdoor breeze feeling in your bedroom. You know, when you're outside on a quiet evening and the air is just moving enough that your whole body kind of relaxes? That, whic",
+     "labels": [
+      "Sleeping outside feeling",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 21.9,
+     "text": "Then I found out it pulls air in from the top and the bottom and pushes it around the whole room instead of firing one of those aggressive streams directly at your face. And unfortunately, they were right.",
+     "labels": [
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 34.2,
+     "text": "It feels completely different. The air around\u2014 the air around the bed is just constantly moving, so I'm not doing that thing all night where I throw the blanket off, pull it back on top, flip over, get annoyed, repeat. F",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 49.8,
+     "text": "Then there's the sound. At the lower speeds, it's ridiculously quiet. Turn it up and you get this soft, steady shh in the background. Traffic outside? Less noticeable.",
+     "labels": [
+      "Dead silent",
+      "Noise Sensitivity",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 61.1,
+     "text": "At this point, I'm getting irritated because then you find out you can add one of these scent pods. So now the fan is moving an awesome scent around the bedroom too.",
+     "labels": [
+      "Scent rotation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 69.8,
+     "text": "And within a few minutes, my room goes from, I threw my clothes on that chair again, to, a very put-together man definitely lives here.",
+     "labels": [
+      "Room transformation",
+      "Home Elevation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 78.9,
+     "text": "Which brings me to the actual scam, calling Spin 360 a fan. Because when I hear fan, I picture some plastic thing blasting one side of my face while my hair gets thrown to the other side. This doesn't feel like that. It ",
+     "labels": [
+      "Worth it upgrades",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 103.7,
+     "text": "So seriously, do not fall for it. You'll order something to cool down your bedroom and somehow end up turning it into your favorite room in the house. Honestly, very misleading.",
+     "labels": [
+      "Spin 360",
+      "Room transformation",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "238b8ff3-e8ef-45b7-a70f-506fc305efed",
+   "filename": "Script 3_1",
+   "folder": "Spin360 - Michael / Scripts",
+   "duration_s": 133.31,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/238b8ff3-e8ef-45b7-a70f-506fc305efed_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/238b8ff3-e8ef-45b7-a70f-506fc305efed_2.jpg"
+   ],
+   "bya_description": "A man in a black button-down shirt speaks directly to the camera in a bedroom setting. He gestures with both hands throughout the video, occasionally touching his chest or pointing to emphasize his points. Behind him, a bed with red pillows and a large piece of wall art are visible, along with a red light glow on the left wall.",
+   "bya_tags": [
+    "Talking head",
+    "Product benefit",
+    "Spin 360",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.3,
+     "text": "Last summer, I hit a wall.",
+     "labels": [
+      "Hook",
+      "Personal Struggle",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 4.2,
+     "text": "The moment my friend turned this on, I knew I was taking it home.",
+     "labels": [
+      "Immediate Desire",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 8.5,
+     "text": "I remember one morning specifically. My alarm went off and I just lay there staring at the ceiling, trying to find the energy to get out of bed. The kids were already up. I could hear them, and I just thought, I can't do",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 34.4,
+     "text": "But I was running on empty, and I knew exactly why. Our bedroom gets so hot in the summer, I'd go to bed exhausted, but I could never zone out. I'd throw the blanket off, turn from side to side, wake up sweating, then ge",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 55.4,
+     "text": "about a month ago, a friend showed me something he'd just gotten. It was this fan, Spin 360. He turned it on and I immediately felt it. It cooled the whole room down, like the heat just started to disappear. He told me t",
+     "labels": [
+      "Spin 360",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 71.7,
+     "text": "That first night, I turned it on, got into bed, and just exhaled. The air in my room was moving. I felt this soft, gentle coolness that filled the entire room. The air felt lighter. The atmosphere felt calmer. It felt li",
+     "labels": [
+      "Product benefit",
+      "Room transformation",
+      "Gentle air movement",
+      "Nostalgic Comfort"
+     ]
+    },
+    {
+     "start": 94.5,
+     "text": "I slept through the night. No tossing, no turning, no waking up sweating. And the next morning, I woke up before my alarm. I actually felt ready. That morning, making lunches didn't feel as heavy. Finding someone's shoes",
+     "labels": [
+      "Product benefit",
+      "Energy For Kids",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 111.8,
+     "text": "I had actual energy for my kids.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 114.4,
+     "text": "I didn't realize how much the heat was draining me until it wasn't anymore. So if summer nights are stealing the energy you need the next morning, you probably don't need air that blows harder. You need the air around yo",
+     "labels": [
+      "Mechanism explainer",
+      "No Harsh Streams",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 129.8,
+     "text": "And that's exactly what Spin 360 does.",
+     "labels": [
+      "Spin 360",
+      "Talking head"
+     ]
+    }
+   ]
+  }
+ ]
+}

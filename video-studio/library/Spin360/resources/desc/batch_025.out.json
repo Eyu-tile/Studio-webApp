@@ -1,0 +1,565 @@
+[
+{
+ "id": "6d3996e9-ece4-47e5-9d04-1cd6f5f1e345",
+ "kind": "ugc_broll",
+ "summary": "Michael sits on the end of his bed next to a black old-style round floor fan, squints at it, then the fan is swapped for a black Spin360 that he leans on and smiles.",
+ "people": [{"who": "man, 30s, short dark hair", "wardrobe": "light denim short-sleeve shirt, black shorts, ring", "role": "creator"}],
+ "product": {"visible": "partial", "colourway": "black", "on": null, "details_seen": ["cage", "display (unreadable)", "top cover"], "other_fans": ["black round pedestal floor fan (old fan)"], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 9.1, "camera": "static", "framing": "medium", "action": "man seated on bed beside black old floor fan, reaches toward it, looks at it unimpressed", "on_screen_text": "", "audio_hint": "old fan noise likely"},
+  {"start": 9.1, "end": 25.5, "camera": "static", "framing": "medium", "action": "closer seat position, old fan blowing at him from left; he squints and grimaces", "on_screen_text": "", "audio_hint": ""},
+  {"start": 25.5, "end": 46.0, "camera": "static", "framing": "medium", "action": "old fan replaced by black Spin360 head at left edge; he sits relaxed, smiles, closes eyes", "on_screen_text": "", "audio_hint": ""},
+  {"start": 46.0, "end": 57.5, "camera": "static", "framing": "medium", "action": "he rests his arm on the Spin360 top cover and smiles at camera", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 14.0, "end": 31.0, "why": "squinting at old fan then the swap to calm smile next to Spin360 = ready before/after"},
+ "beats": ["old_fan_annoyance", "before_after", "reaction_face", "product_hero"],
+ "hook_potential": {"score": 2, "why": "clear old-fan vs Spin360 swap with facial reaction"},
+ "brand_fit": {"score": 1, "why": "pink-lit bedroom, red pillows, checked rug; Spin360 only half in frame at edge"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "CAUTION", "status_why": "other fan (old black floor fan) shown as problem shot",
+ "tags": ["old fan vs Spin360", "man squints at fan", "man leans on fan smiling", "bedroom before after", "Michael denim shirt", "red checked rug"]
+},
+{
+ "id": "47aa88da-d5d8-4721-b717-abadfdadb27d",
+ "kind": "ugc_broll",
+ "summary": "A hand holds a strip of tissue paper around and over the top of a running black Spin360, the tissue fluttering in the airflow.",
+ "people": [{"who": "woman (arm only), blue sleeve", "wardrobe": "light blue tee", "role": "hand only"}],
+ "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["gold halo", "cage", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 32.5, "camera": "static", "framing": "medium", "action": "arm reaches in from left, dangles tissue strip at the cage and over the top; tissue streams sideways and gets sucked down at the top", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 0.0, "end": 5.0, "why": "tissue streams strongly off the cage, clearest airflow"},
+ "beats": ["airflow_demo_curtain_or_ribbon", "turning_on"],
+ "hook_potential": {"score": 2, "why": "visible-airflow proof, repeats around the head so easy to loop"},
+ "brand_fit": {"score": 1, "why": "plain grey wall, wood trim, floor vent and cord visible; carpet"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["tissue airflow test", "paper fluttering", "air pulled in at top", "black unit full height", "hand only demo", "B roll IMG_97xx"]
+},
+{
+ "id": "3f8b14e8-d954-40f6-a847-7f642012872d",
+ "kind": "ugc_broll",
+ "summary": "The brown-haired B-roll woman sits on the carpet and assembles a black Spin360, twisting pole sections together, then reaches to the display.",
+ "people": [{"who": "woman, 30s, brown hair in ponytail", "wardrobe": "brown-white striped tee, light blue shorts", "role": "creator"}],
+ "product": {"visible": "full", "colourway": "black", "on": null, "details_seen": ["gold halo", "cage", "base", "pole sections", "yellow sticker on pole", "display"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 12.0, "camera": "static", "framing": "medium", "action": "she grips the pole, lifts and rotates the head section off/onto the base", "on_screen_text": "", "audio_hint": ""},
+  {"start": 12.0, "end": 34.0, "camera": "static", "framing": "medium", "action": "spare black pole section on floor; she twists the pole joint (yellow sticker) to lock it", "on_screen_text": "", "audio_hint": ""},
+  {"start": 34.0, "end": 45.9, "camera": "static", "framing": "medium", "action": "she touches the pole display/button and looks up at the head", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 13.0, "end": 24.0, "why": "clear pole-twist assembly step"},
+ "beats": ["assembly", "turning_on"],
+ "hook_potential": {"score": 0, "why": "slow how-to footage"},
+ "brand_fit": {"score": 1, "why": "plain corner, carpet, cords and wall outlet visible"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "yellow warning sticker visible on pole",
+ "tags": ["assembly", "woman sitting on floor", "twisting pole", "yellow sticker", "striped tee woman", "B roll IMG_97xx"]
+},
+{
+ "id": "cea24aee-1092-4c6b-8531-734f22d2be3f",
+ "kind": "product_only",
+ "summary": "Locked-off close-up of a black Spin360 head and pole while a finger steps the display from off through F1 to F9.",
+ "people": [{"who": "woman (hand only), pink nails", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["gold halo", "cage", "display F1-F9", "pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 7.0, "camera": "static", "framing": "close", "action": "display dark, finger presses button", "on_screen_text": "", "audio_hint": "beep"},
+  {"start": 7.0, "end": 35.0, "camera": "static", "framing": "close", "action": "display shows F1, F2, F3, F4, F5; blades spin behind slats", "on_screen_text": "", "audio_hint": ""},
+  {"start": 35.0, "end": 60.3, "camera": "static", "framing": "close", "action": "finger presses again: F6, F7, F8, F9; hand waves in front at 40s", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 3.0, "end": 13.0, "why": "off to F1 to F2 switch-on with finger press"},
+ "beats": ["turning_on", "control_display", "product_hero"],
+ "hook_potential": {"score": 1, "why": "clean product detail, not a hook on its own"},
+ "brand_fit": {"score": 2, "why": "clean close-up of halo, cage and display on white wall"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["display close-up", "speed F1 to F9", "finger presses button", "gold halo detail", "blades spinning", "switch on"]
+},
+{
+ "id": "eadb3df8-896b-4a79-a73e-de4e02527c00",
+ "kind": "ugc_talking_head",
+ "summary": "Vicky stands behind a black Spin360 with a scent pod on the cap and tells the 'husband begged for a fan' story, ending by reaching to stop the camera.",
+ "people": [{"who": "senior woman, 60s, long wavy silver hair", "wardrobe": "black top, beige trousers", "role": "senior"}],
+ "product": {"visible": "full", "colourway": "black", "on": null, "details_seen": ["cage", "top cover", "scent pod on cap", "pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 53.0, "camera": "static", "framing": "medium", "action": "she talks to camera with hands on/around the fan head, gestures", "on_screen_text": "", "audio_hint": "speech"},
+  {"start": 53.0, "end": 54.4, "camera": "static", "framing": "close", "action": "she walks to camera to stop recording", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 0.8, "end": 14.5, "why": "full hook line, warm delivery, product in frame"},
+ "beats": ["talking_to_camera", "old_fan_annoyance", "noise_problem", "product_hero"],
+ "hook_potential": {"score": 3, "why": "'My husband begged for a fan... I said no every single time' is a strong relatable hook"},
+ "brand_fit": {"score": 2, "why": "white modern living room with fireplace; TV on wall behind"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["Vicky", "senior woman talking head", "husband begged for a fan", "scent pod on top", "white living room fireplace", "black unit"],
+ "takes": [
+  {"start": 0.8, "line": "My husband begged for a fan in our room for 3 years…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 14.6, "line": "Because here's what a normal fan actually does…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 26.2, "line": "I was fully prepared to hate this one too. This one doesn't blow at you…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 36.6, "line": "This one blows— this, this one…", "delivery": "restart", "energy": 1, "framing": "medium", "keep": false},
+  {"start": 43.2, "line": "This one doesn't blow at you, it moves all the air…", "delivery": "stumble", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.8, 14.6, 26.2],
+ "speaker": {"look": "silver-haired senior woman, black top, beige trousers", "setting": "white luxe living room, fireplace, wall TV, sculptures on shelves", "props": "black Spin360 with yellow-gold scent pod on cap"}
+},
+{
+ "id": "315115dc-1d26-4f41-ab76-14d0acda1dcc",
+ "kind": "ugc_talking_head",
+ "summary": "Vicky behind the black Spin360 explains it moves all the room's air, describes the first use, and records several 'check out Spin 360' CTA takes.",
+ "people": [{"who": "senior woman, 60s, long wavy silver hair", "wardrobe": "black top, beige trousers", "role": "senior"}],
+ "product": {"visible": "full", "colourway": "black", "on": null, "details_seen": ["cage", "top cover", "scent pod on cap", "pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 47.5, "camera": "static", "framing": "medium", "action": "she talks to camera, hands on the fan head and gesturing wide", "on_screen_text": "", "audio_hint": "speech"},
+  {"start": 47.5, "end": 49.1, "camera": "static", "framing": "medium", "action": "she walks out of frame toward camera; fan alone", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 0.7, "end": 8.0, "why": "clean mechanism line with fan in frame"},
+ "beats": ["talking_to_camera", "quiet_demo", "cta_point", "product_hero"],
+ "hook_potential": {"score": 2, "why": "'This one doesn't blow at you' is a clear opener"},
+ "brand_fit": {"score": 2, "why": "white modern living room, fireplace"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "Claims: \"it's dead silent\"; \"the whole room goes cool\"",
+ "tags": ["Vicky", "CTA check out Spin 360", "senior woman", "whole room moving air", "dead silent", "scent pod"],
+ "takes": [
+  {"start": 0.7, "line": "This one doesn't blow at you. It moves all the air…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 8.3, "line": "The first time we used it, it was like the whole atmosphere…", "delivery": "stumble", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 28.6, "line": "If you're looking for a fan that changes the atmosphere—", "delivery": "cut off", "energy": 1, "framing": "medium", "keep": false},
+  {"start": 34.9, "line": "if you're looking for a fan that'll change the atmosphere… check out Spin 360.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 40.4, "line": "If you're looking for a fan that—", "delivery": "cut off", "energy": 1, "framing": "medium", "keep": false},
+  {"start": 42.4, "line": "if you're looking for a fan that'll change the atmosphere… check out Spin 360.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.7, 8.3, 42.4],
+ "speaker": {"look": "silver-haired senior woman, black top, beige trousers", "setting": "white luxe living room with fireplace and wall TV", "props": "black Spin360 with scent pod on cap"}
+},
+{
+ "id": "9f86239a-261c-478e-8768-59318650fe62",
+ "kind": "ugc_talking_head",
+ "summary": "Vicky leans on the black Spin360 and compares room sprays and candles to its 'Active Breeze Diffusion', in soft focus, ending in repeated restarts.",
+ "people": [{"who": "senior woman, 60s, long wavy silver hair", "wardrobe": "black top, beige trousers", "role": "senior"}],
+ "product": {"visible": "full", "colourway": "black", "on": null, "details_seen": ["cage", "top cover", "scent pod on cap", "pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 53.1, "camera": "static", "framing": "medium", "action": "she leans on the fan head talking; holds/rolls the scent pod in her fingers around 12-30s", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 3.2, "end": 16.5, "why": "full sprays/candles problem line"},
+ "beats": ["talking_to_camera", "scent_tray", "product_hero"],
+ "hook_potential": {"score": 2, "why": "'I used to buy those expensive room sprays' is a usable scent hook"},
+ "brand_fit": {"score": 2, "why": "white luxe living room"},
+ "quality": {"score": 1, "issues": ["blurry", "vertical crop risk"]},
+ "status": "CAUTION", "status_why": "Soft focus throughout. Claims: candles \"honestly a fire hazard\"; sprays \"last about 3 minutes\"; \"Active Breeze Diffusion\"; \"Normal diffusers… do absolutely nothing\"",
+ "tags": ["Vicky", "room sprays vs fan", "candles fire hazard", "scent pod in hand", "Active Breeze Diffusion", "soft focus"],
+ "takes": [
+  {"start": 0.7, "line": "I used to buy those expensive room sprays.", "delivery": "restart", "energy": 2, "framing": "medium", "keep": false},
+  {"start": 3.2, "line": "I used to buy those expensive room sprays, but they have such an artificial smell…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 16.8, "line": "So I switched to the Spin 360. It looks like a beautiful piece of high-end decor…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 45.3, "line": "It pulls in air that— it pulls in that—…", "delivery": "restart", "energy": 1, "framing": "medium", "keep": false}
+ ],
+ "best_takes": [3.2, 16.8],
+ "speaker": {"look": "silver-haired senior woman, black top", "setting": "white luxe living room with fireplace", "props": "black Spin360, scent pod"}
+},
+{
+ "id": "d65aff8e-b651-4224-a9a5-bbee0ca00d05",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren, seated at a table holding a ceramic mug, delivers the 'haven't felt this kind of cold since I was a kid' script and a $110-off CTA.",
+ "people": [{"who": "woman, 30s-40s, blonde hair pinned up", "wardrobe": "brown halter tank", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 46.9, "camera": "static", "framing": "medium", "action": "she talks to camera holding a bobble-handled mug, gesturing, eyes closed for emphasis", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 2.3, "end": 6.5, "why": "short punchy hook line"},
+ "beats": ["talking_to_camera", "cta_point"],
+ "hook_potential": {"score": 2, "why": "'I haven't felt this kind of cold since I was a kid' is a strong nostalgic hook"},
+ "brand_fit": {"score": 3, "why": "wood-framed windows onto mountain forest, sunlit airy room"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "Claims: price \"$110 off while it's still in stock\"; \"freakishly cold\"",
+ "tags": ["Lauren", "cold since I was a kid", "grandma's basement", "mug", "forest view windows", "$110 off CTA"],
+ "takes": [
+  {"start": 2.3, "line": "I haven't felt this kind of cold since I was a kid.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 6.7, "line": "This thing feels freakishly cold…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 42.2, "line": "Get it for $110 off while it's still in stock.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [2.3, 6.7, 42.2],
+ "speaker": {"look": "blonde woman, brown halter tank", "setting": "Lauren's forest-view house, wood windows, plant", "props": "speckled mug with bobble handle"}
+},
+{
+ "id": "4c26e4b5-1943-4b4b-8ae0-866206b1c30e",
+ "kind": "ugc_talking_head",
+ "summary": "Second take of Lauren's 'cold since I was a kid' script with an extra 'every time I walk into my room' line and the $110-off CTA.",
+ "people": [{"who": "woman, 30s-40s, blonde hair pinned up", "wardrobe": "brown halter tank", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 47.8, "camera": "static", "framing": "medium", "action": "she talks to camera with mug, chin on hand at start, animated gestures", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 7.9, "end": 31.5, "why": "complete cold/grandma's basement line"},
+ "beats": ["talking_to_camera", "cta_point"],
+ "hook_potential": {"score": 2, "why": "same nostalgic cold hook"},
+ "brand_fit": {"score": 3, "why": "sunlit room, mountain forest view"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "Claims: \"$110 off while it's still in stock\"; \"freakishly cold\"; \"cold wrap around me from everywhere at once\"",
+ "tags": ["Lauren", "cold since I was a kid", "grandma's basement in summer", "August", "mug", "$110 off"],
+ "takes": [
+  {"start": 2.8, "line": "I haven't felt this kind of cold since I was a kid.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 7.9, "line": "This thing feels freakishly cold…", "delivery": "clean", "energy": 3, "framing": "medium", "keep": true},
+  {"start": 31.9, "line": "Every time I walk into my room now, that's what happens…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 43.4, "line": "Get it for $110 off while it's still in stock.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [2.8, 7.9, 31.9, 43.4],
+ "speaker": {"look": "blonde woman, brown halter tank", "setting": "forest-view house, wood windows", "props": "speckled bobble-handle mug"}
+},
+{
+ "id": "e89c938b-cab1-491e-ae20-62c7855539c0",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren records four takes of the 'mom of 2, tight ship, cool quiet and smells clean by 8 PM' hook in her sunlit forest-view room.",
+ "people": [{"who": "woman, 30s-40s, blonde hair pinned up", "wardrobe": "brown halter tank", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 11.8, "camera": "selfie", "framing": "close", "action": "close selfie-style take 1, hand gesture", "on_screen_text": "", "audio_hint": "speech"},
+  {"start": 11.8, "end": 42.5, "camera": "handheld", "framing": "close", "action": "takes 2-3, counting on fingers, very close at ~30s", "on_screen_text": "", "audio_hint": "speech"},
+  {"start": 42.5, "end": 54.7, "camera": "static", "framing": "medium", "action": "take 4 sitting back at table, ends with smile and open hands", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 43.3, "end": 54.7, "why": "steady medium framing, confident delivery, smile at end"},
+ "beats": ["talking_to_camera", "room_aesthetic"],
+ "hook_potential": {"score": 2, "why": "'All right, listen up. I'm a mom of 2' is a confident opener"},
+ "brand_fit": {"score": 3, "why": "big windows onto mountain forest, sunlit"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "Mild profanity \"tidy as hell\". Claim: \"by 8 PM it's cool, quiet, and smells clean\"",
+ "tags": ["Lauren", "mom of 2 hook", "listen up", "tight ship", "forest view", "multiple takes"],
+ "takes": [
+  {"start": 0.9, "line": "All right, listen up. I'm a mom of 2…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 13.6, "line": "All right, listen up. I'm a mom of 2…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 29.2, "line": "All right, listen up. I'm a mom of 2…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 43.3, "line": "All right, listen up. I'm a mom of 2…", "delivery": "clean", "energy": 3, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [43.3],
+ "speaker": {"look": "blonde woman, brown halter tank, gold necklace", "setting": "forest-view house, wood beams and windows", "props": "none"}
+},
+{
+ "id": "9bb88e24-a2fb-40df-817d-37d2acb7d739",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren records four takes of 'as a mom of 2, here are the things I do so we're knocked out by 8 PM', with phone re-adjusts between takes.",
+ "people": [{"who": "woman, 30s-40s, blonde hair pinned up", "wardrobe": "brown halter tank, grey-green leggings", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 11.0, "camera": "selfie", "framing": "close", "action": "take 1", "on_screen_text": "", "audio_hint": "speech"},
+  {"start": 11.0, "end": 14.0, "camera": "handheld", "framing": "extreme close", "action": "phone repositioned, chin/neck only", "on_screen_text": "", "audio_hint": ""},
+  {"start": 14.0, "end": 53.0, "camera": "static", "framing": "medium", "action": "takes 2-4 at table, map art on wall behind, big smile at ~30s", "on_screen_text": "", "audio_hint": "speech"},
+  {"start": 53.0, "end": 54.1, "camera": "static", "framing": "close", "action": "leans in to stop recording", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 42.8, "end": 52.5, "why": "most energetic final take, framed well"},
+ "beats": ["talking_to_camera", "family_kids"],
+ "hook_potential": {"score": 2, "why": "listicle hook 'here are the things I do in summer'"},
+ "brand_fit": {"score": 3, "why": "sunlit room with forest view"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "Sleep claim: \"kids, me, and my hubby are knocked out by 8 PM… good night's sleep\"",
+ "tags": ["Lauren", "mom of 2", "knocked out by 8 PM", "summer sleep tips", "listicle hook"],
+ "takes": [
+  {"start": 1.1, "line": "As a mom of 2, here are the things that I do in summer…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 17.6, "line": "As a mom of 2, here are the things that I do in summer…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 30.4, "line": "As a mom of 2, here are the things… make sure my kids…", "delivery": "clean", "energy": 3, "framing": "medium", "keep": true},
+  {"start": 42.8, "line": "As a mom of 2, here are the things… so we can get a good night's sleep.", "delivery": "clean", "energy": 3, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [42.8],
+ "speaker": {"look": "blonde woman, brown halter tank", "setting": "forest-view house, framed map on wall", "props": "none"}
+},
+{
+ "id": "65b28139-8aff-4795-a15e-747d5430e036",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren with a white mug runs the main script intro plus tips 1 (cross-breeze windows) and 2 (blinds closed at 3 PM).",
+ "people": [{"who": "woman, 30s-40s, blonde hair pinned up", "wardrobe": "brown halter tank, dark leggings", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 44.8, "camera": "static", "framing": "medium", "action": "she talks at table holding a white embossed mug, counts on fingers, big expression at end", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 16.4, "end": 30.0, "why": "tip 1 cross-breeze line, clear and energetic"},
+ "beats": ["talking_to_camera", "hot_sleeper_problem", "family_kids"],
+ "hook_potential": {"score": 1, "why": "mid-script content, hook is the listicle opener"},
+ "brand_fit": {"score": 3, "why": "sunlit forest-view room"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "Sleep claim: \"knocked out by 8 PM… good night's sleep\"",
+ "tags": ["Lauren", "summer sleep tips", "cross breeze windows", "blinds at 3 PM", "white mug"],
+ "takes": [
+  {"start": 1.5, "line": "Here are the 3 things that I do in summer…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 16.4, "line": "Number 1, every morning I open up 2 windows…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 30.3, "line": "Number 2, in summer, bedroom blinds close at 3 PM…", "delivery": "clean", "energy": 3, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [1.5, 16.4, 30.3],
+ "speaker": {"look": "blonde woman, brown halter tank", "setting": "forest-view house", "props": "white embossed mug"}
+},
+{
+ "id": "d0004b6e-733a-4ebd-9a3e-408768395f93",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren with a glass of ice water runs the main script intro plus tips 1 and 2 (second version).",
+ "people": [{"who": "woman, 30s-40s, blonde hair pinned up", "wardrobe": "brown halter tank, dark leggings", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 43.7, "camera": "static", "framing": "medium", "action": "she talks at table with a wavy glass of ice water, counts on fingers", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 0.3, "end": 14.0, "why": "opener delivered with good energy, iced drink reads summer"},
+ "beats": ["talking_to_camera", "hot_sleeper_problem", "family_kids"],
+ "hook_potential": {"score": 2, "why": "'you're gonna be like, those seem stupid' curiosity opener"},
+ "brand_fit": {"score": 3, "why": "sunlit forest-view room, ice water"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "Sleep claim: \"knocked out by 8 PM… good night's sleep\"",
+ "tags": ["Lauren", "ice water glass", "summer sleep tips", "cross breeze", "blinds at 3"],
+ "takes": [
+  {"start": 0.3, "line": "Here are the things that I do in summer…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 14.5, "line": "Number 1, every morning I open 2 windows…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 28.7, "line": "Number 2, in summer, bedroom blinds close at 3 PM…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.3, 14.5, 28.7],
+ "speaker": {"look": "blonde woman, brown halter tank", "setting": "forest-view house", "props": "wavy glass of ice water"}
+},
+{
+ "id": "fb832853-01b7-4f1e-85ce-614f54c10bb5",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren with ice water runs the main script intro plus tips 1 and 2 (third version).",
+ "people": [{"who": "woman, 30s-40s, blonde hair pinned up", "wardrobe": "brown halter tank, dark leggings", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 45.9, "camera": "static", "framing": "medium", "action": "she talks at table with glass of ice water, pinching gestures, picks up glass", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 30.9, "end": 45.5, "why": "tip 2 delivered calmly with ice water in hand"},
+ "beats": ["talking_to_camera", "hot_sleeper_problem", "family_kids"],
+ "hook_potential": {"score": 1, "why": "same opener as V2, a little calmer"},
+ "brand_fit": {"score": 3, "why": "sunlit forest-view room"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "Sleep claim: \"knocked out by 8 PM… good night's sleep\"",
+ "tags": ["Lauren", "ice water", "summer sleep tips", "blinds at 3 PM", "upstairs bedroom hot"],
+ "takes": [
+  {"start": 1.6, "line": "Here are the things that I do in summer…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 17.0, "line": "Number 1, every morning I open 2 windows…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 30.9, "line": "Number 2, in summer, bedroom blinds close at 3 PM…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [1.6, 17.0, 30.9],
+ "speaker": {"look": "blonde woman, brown halter tank", "setting": "forest-view house", "props": "wavy glass of ice water"}
+},
+{
+ "id": "7aaa50a5-e23d-4a9a-8a34-8ff34b988c01",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren in a white tank shoots five takes of 'this 10-second hack changes the atmosphere', one walking to a black Spin360 by the window and standing in its breeze.",
+ "people": [{"who": "woman, 30s-40s, blonde hair pinned up", "wardrobe": "white tank, grey-green leggings", "role": "creator"}],
+ "product": {"visible": "partial", "colourway": "black", "on": null, "details_seen": ["cage", "top cover", "pole", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 5.9, "camera": "selfie", "framing": "close", "action": "take 1 by white bouclé chair", "on_screen_text": "", "audio_hint": "speech"},
+  {"start": 5.9, "end": 12.5, "camera": "selfie", "framing": "medium", "action": "take 2 in front of forest windows", "on_screen_text": "", "audio_hint": "speech"},
+  {"start": 12.5, "end": 19.6, "camera": "POV", "framing": "medium", "action": "take 3: POV hand reaches to Spin360 by window, then she stands next to it eyes closed in the breeze", "on_screen_text": "", "audio_hint": "speech"},
+  {"start": 19.6, "end": 36.5, "camera": "selfie", "framing": "close", "action": "whip-blur then takes 4-5 walking selfie with fan behind her by windows", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 12.5, "end": 19.6, "why": "only take showing product: reaches for fan and enjoys the breeze with forest view"},
+ "beats": ["talking_to_camera", "turning_on", "reaction_face", "room_aesthetic"],
+ "hook_potential": {"score": 3, "why": "'This 10-second hack completely changes the atmosphere in my house' + walk to fan"},
+ "brand_fit": {"score": 3, "why": "wood-framed windows onto pines and mountains, sunlit, airy"},
+ "quality": {"score": 2, "issues": ["shaky", "blurry"]},
+ "status": "OK", "status_why": "",
+ "tags": ["Lauren", "10-second hack", "white tank", "POV reach to fan", "eyes closed in breeze", "forest view window", "black unit"],
+ "takes": [
+  {"start": 0.2, "line": "This little 10-second hack completely changes the atmosphere…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 7.2, "line": "This 10-second little hack completely changes…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 13.0, "line": "This 10-second hack completely changes the atmosphere…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 22.3, "line": "This 10-second hack completely changes the atmosphere…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 30.7, "line": "This 10-second hack completely changes the atmosphere…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true}
+ ],
+ "best_takes": [13.0],
+ "speaker": {"look": "blonde woman, white tank", "setting": "forest-view house, window nook with bouclé chairs", "props": "black Spin360 by window"}
+},
+{
+ "id": "82230ec5-fb6f-4b70-98ca-9950ba511383",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren in a white tank sits beside a black Spin360 at a forest window and delivers the full scent/atmosphere script ending 'Go look at the scents'.",
+ "people": [{"who": "woman, 30s-40s, blonde hair pinned up", "wardrobe": "white tank, grey-green shorts", "role": "creator"}],
+ "product": {"visible": "full", "colourway": "black", "on": null, "details_seen": ["cage", "top cover", "pole", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 64.0, "camera": "static", "framing": "medium", "action": "she talks seated, fan behind her left by the window; thumbs toward it at ~54s; drinks water", "on_screen_text": "", "audio_hint": "speech"},
+  {"start": 64.0, "end": 69.6, "camera": "selfie", "framing": "close", "action": "picks up camera for close CTA with water glass", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 11.6, "end": 29.0, "why": "'Here's what actually worked: this thing right here' with fan in frame"},
+ "beats": ["talking_to_camera", "scent_tray", "quiet_demo", "family_kids", "room_aesthetic", "cta_point"],
+ "hook_potential": {"score": 2, "why": "'Candles are pretty, but a candle is a little open flame' problem opener"},
+ "brand_fit": {"score": 3, "why": "black unit against pine-forest windows, sunlit"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "Claims: \"quiet enough that it has never once woken a kid up\"; \"cools the room down\"; \"smells like a luxury spa\"; \"5 separate people have…\"; candle = \"open flame\"",
+ "tags": ["Lauren", "scent system", "floral citrus sandalwood", "candles vs fan", "luxury spa", "fan by forest window", "go look at the scents"],
+ "takes": [
+  {"start": 0.6, "line": "Candles are pretty, but a candle is a little open flame…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 11.6, "line": "Here's what actually worked: this thing right here…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 29.1, "line": "30 seconds, okay? 30 seconds and it's a completely different house.", "delivery": "clean", "energy": 3, "framing": "medium", "keep": true},
+  {"start": 33.2, "line": "And of course I have a system: clean floral…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 49.6, "line": "And you know me, 2 birds, one stone—this kills 3…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 58.7, "line": "So now after bedtime, lights low, fan on…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 65.3, "line": "Go look at the scents. I'm telling you.", "delivery": "clean", "energy": 2, "framing": "close", "keep": true}
+ ],
+ "best_takes": [0.6, 11.6, 29.1, 33.2, 49.6, 58.7, 65.3],
+ "speaker": {"look": "blonde woman, white tank", "setting": "forest-view window nook", "props": "black Spin360, glass of water"}
+},
+{
+ "id": "a6e40cd4-a9d6-4429-8921-0d0540010424",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren in a white tank, black Spin360 at her shoulder by the forest window, delivers a tighter version of the scent/atmosphere script.",
+ "people": [{"who": "woman, 30s-40s, blonde hair pinned up", "wardrobe": "white tank", "role": "creator"}],
+ "product": {"visible": "full", "colourway": "black", "on": null, "details_seen": ["cage", "top cover", "pole", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 4.5, "camera": "handheld", "framing": "close", "action": "low-angle start, fan at lower left", "on_screen_text": "", "audio_hint": "speech"},
+  {"start": 4.5, "end": 58.8, "camera": "static", "framing": "close", "action": "she talks close to lens, fan behind her left shoulder, expressive gestures", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 4.8, "end": 23.5, "why": "full 'looks like decor, moves the air itself' line with fan beside her"},
+ "beats": ["talking_to_camera", "scent_tray", "quiet_demo", "family_kids", "room_aesthetic", "cta_point"],
+ "hook_potential": {"score": 2, "why": "'Here's what actually worked. This thing right here.'"},
+ "brand_fit": {"score": 3, "why": "black unit with pine-forest window behind"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "Claims: \"quiet enough that has never woken a kid up\"; \"cools the room down\"; \"smells like a luxury spa\"",
+ "tags": ["Lauren", "here's what actually worked", "looks like decor", "scent rotation", "luxury spa", "fan by window"],
+ "takes": [
+  {"start": 1.4, "line": "Here's what actually worked. This thing right here.", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 4.8, "line": "It looks like decor. I can place it wherever…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 23.8, "line": "And of course I have a system. Clean floral…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 40.0, "line": "And you know me, 2 birds with one stone…", "delivery": "clean", "energy": 3, "framing": "close", "keep": true},
+  {"start": 48.4, "line": "So now after bedtime, lights low, fan on…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 55.6, "line": "Go look at the scents. I'm telling you.", "delivery": "clean", "energy": 2, "framing": "close", "keep": true}
+ ],
+ "best_takes": [1.4, 4.8, 23.8, 40.0, 48.4, 55.6],
+ "speaker": {"look": "blonde woman, white tank", "setting": "forest-view window nook, bouclé chair", "props": "black Spin360"}
+},
+{
+ "id": "97b72a70-1817-4dee-9f80-aaec0fa1f97b",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren in a leopard-print halter sits on her bed with a black Spin360 behind her and explains hot air at the ceiling vs cool air at the floor.",
+ "people": [{"who": "woman, 30s-40s, blonde hair pinned up", "wardrobe": "leopard-print halter top", "role": "creator"}],
+ "product": {"visible": "partial", "colourway": "black", "on": null, "details_seen": ["cage", "top cover", "pole"], "other_fans": ["dark ceiling fan (glimpse at 0s)"], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.5, "camera": "handheld", "framing": "close", "action": "low angle, ceiling fan on wood ceiling visible above her", "on_screen_text": "", "audio_hint": "speech"},
+  {"start": 4.5, "end": 39.7, "camera": "static", "framing": "close", "action": "she talks on bed, fan behind her shoulder, rattan chair, hat on wall, points up for 'hot air at the top'", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 14.0, "end": 28.0, "why": "mechanism explainer with fan behind her"},
+ "beats": ["talking_to_camera", "old_fan_annoyance", "noise_problem", "sleeping_comfort"],
+ "hook_potential": {"score": 2, "why": "'Here's what makes it different from any other fan you have ever tried'"},
+ "brand_fit": {"score": 2, "why": "boho bedroom, white bedding, plants; fan only partly in frame"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "CAUTION", "status_why": "Ceiling fan glimpse at start. Claims: \"I cannot tell you this fan makes you live longer. Nobody can\"; \"worth every single penny\"; \"pulls the hot air down, pushes the cool air up\"",
+ "tags": ["Lauren", "leopard top", "bedroom", "hot air rises explainer", "whop whop whop", "live longer line", "sleeping outside"],
+ "takes": [
+  {"start": 0.6, "line": "Here's what makes it different from any other fan…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 4.7, "line": "Every fan you have ever owned pulls air in one side…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 14.0, "line": "Hot air lives at the top of your room…", "delivery": "stumble", "energy": 2, "framing": "close", "keep": true},
+  {"start": 28.1, "line": "So no, I cannot tell you this fan makes you live longer…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true}
+ ],
+ "best_takes": [0.6, 4.7, 14.0, 28.1],
+ "speaker": {"look": "blonde woman, leopard-print halter", "setting": "boho bedroom, white bed, rattan chair, hat on wall", "props": "black Spin360 behind shoulder"}
+},
+{
+ "id": "2752232e-d75d-4ccc-99b3-91167320c294",
+ "kind": "ugc_broll",
+ "summary": "Wide static of a white Spin360 in a living room corner; Avery walks in, feels the breeze, picks up her toddler and holds his hand to the fan, then leaves the frame empty.",
+ "people": [{"who": "woman, 30s, long dark brown hair", "wardrobe": "black jumpsuit, barefoot", "role": "creator"}, {"who": "toddler boy, blond", "wardrobe": "white romper", "role": "child"}],
+ "product": {"visible": "full", "colourway": "white", "on": null, "details_seen": ["cage", "pole", "base", "display"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 5.0, "camera": "static", "framing": "wide", "action": "empty corner: white Spin360, patterned armchair, plant on stand", "on_screen_text": "", "audio_hint": ""},
+  {"start": 5.0, "end": 12.0, "camera": "static", "framing": "wide", "action": "woman walks in, holds hand to the fan head", "on_screen_text": "", "audio_hint": ""},
+  {"start": 12.0, "end": 28.0, "camera": "static", "framing": "wide", "action": "toddler toddles in, she picks him up, holds his hand toward the fan, they leave", "on_screen_text": "", "audio_hint": "short Korean phrase 'thank you' at 19s"},
+  {"start": 28.0, "end": 59.1, "camera": "static", "framing": "wide", "action": "empty static shot of fan in corner", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 17.0, "end": 26.0, "why": "mum with toddler on hip reaching to the fan"},
+ "beats": ["family_kids", "airflow_demo_hand", "room_aesthetic"],
+ "hook_potential": {"score": 1, "why": "sweet but small in a wide frame"},
+ "brand_fit": {"score": 1, "why": "plain pale wall, ordinary corner; white unit reads well"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["Avery", "mum and toddler", "white unit living room", "hand in breeze", "empty plate shot", "patterned armchair"],
+ "takes": [
+  {"start": 19.3, "line": "고마워 (Korean, 'thank you')", "delivery": "clean", "energy": 1, "framing": "medium", "keep": false}
+ ],
+ "best_takes": [],
+ "speaker": {"look": "brunette mum, black jumpsuit, toddler on hip", "setting": "Avery's living room, wood floor, patterned armchair", "props": "white Spin360"}
+},
+{
+ "id": "3167f633-671a-4377-898a-498e40954de6",
+ "kind": "ugc_talking_head",
+ "summary": "Avery sits on her bed in a lilac dress and says 'This room used to be unbearable in the summer. Now it's my favorite place in the house.'",
+ "people": [{"who": "woman, 30s, long dark brown hair", "wardrobe": "lilac gauze dress", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 8.3, "camera": "static", "framing": "medium", "action": "she sits on bed edge and delivers hook, smiles", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 0.7, "end": 8.0, "why": "whole hook in one clean take"},
+ "beats": ["talking_to_camera", "hot_sleeper_problem"],
+ "hook_potential": {"score": 2, "why": "short before/after bedroom hook"},
+ "brand_fit": {"score": 1, "why": "grey bedroom, lamp, slightly flat light"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["Avery", "bedroom hook", "unbearable in summer", "favorite place in the house", "lilac dress"],
+ "takes": [
+  {"start": 0.7, "line": "This room used to be unbearable in the summer…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.7],
+ "speaker": {"look": "brunette woman, lilac dress", "setting": "grey bedroom, table lamp, floral bedding", "props": "none"}
+},
+{
+ "id": "b214830d-8bce-47f3-9994-87808340575d",
+ "kind": "ugc_talking_head",
+ "summary": "Avery reads from a script page, then delivers 'The first night I turned it on, the room felt completely different' with an eyes-closed relief gesture.",
+ "people": [{"who": "woman, 30s, long dark brown hair", "wardrobe": "lilac gauze dress", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 3.5, "camera": "static", "framing": "medium", "action": "she looks down reading a paper script", "on_screen_text": "", "audio_hint": ""},
+  {"start": 3.5, "end": 8.3, "camera": "static", "framing": "medium", "action": "delivers line, closes eyes, fans face with hand in relief", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 3.7, "end": 8.3, "why": "line plus relief face; skip the script reading"},
+ "beats": ["talking_to_camera", "turning_on", "reaction_face"],
+ "hook_potential": {"score": 2, "why": "'The first night I turned it on…' with relief expression"},
+ "brand_fit": {"score": 1, "why": "grey bedroom, flat light"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "script paper visible 0-3.5s",
+ "tags": ["Avery", "first night", "relief face", "eyes closed", "reading script", "lilac dress"],
+ "takes": [
+  {"start": 3.7, "line": "The first night I turned it on, the room felt completely different.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [3.7],
+ "speaker": {"look": "brunette woman, lilac dress", "setting": "grey bedroom, table lamp", "props": "script page"}
+},
+{
+ "id": "f617cf14-fae4-48b5-b89b-6f8c4a84c50d",
+ "kind": "ugc_talking_head",
+ "summary": "Kylie in her denim-shirt bedroom look delivers the full 'doesn't feel like a fan / hot air at the top' script straight to camera.",
+ "people": [{"who": "woman, 30s, long brown hair with highlights", "wardrobe": "light denim short-sleeve shirt", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 66.0, "camera": "static", "framing": "medium", "action": "she talks to camera, dark wall and wall TV behind, expressive hand gestures, points at camera near end", "on_screen_text": "", "audio_hint": "speech"}
+ ],
+ "best": {"start": 0.0, "end": 12.5, "why": "hook plus 'windows wide open on a perfect day' image"},
+ "beats": ["talking_to_camera", "old_fan_annoyance", "family_kids", "sleeping_comfort"],
+ "hook_potential": {"score": 3, "why": "'This thing does not feel like a fan, and I mean that in the best way possible'"},
+ "brand_fit": {"score": 1, "why": "dark wall, warm indoor light, no product shown"},
+ "quality": {"score": 2, "issues": ["no frame after ~66s (end may be corrupt)"]},
+ "status": "OK", "status_why": "Claims: \"I cannot tell you this fan makes you live longer. Nobody can\"; \"worth every single penny\"; \"pulls the hot air down and pushes the cool air up\"",
+ "tags": ["Kylie", "denim shirt", "does not feel like a fan", "kids fight over fan", "hot air rises", "live longer line"],
+ "takes": [
+  {"start": 0.0, "line": "This thing does not feel like a fan…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 4.3, "line": "There's nothing blowing at you. It's like the windows are wide open…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 12.8, "line": "The whole room feels lighter…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 16.5, "line": "In a house with kids, a normal fan points at one person…", "delivery": "clean", "energy": 3, "framing": "medium", "keep": true},
+  {"start": 31.9, "line": "Here's what makes it different from any other fan…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 41.9, "line": "Hot air lives at the top of your room…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 58.0, "line": "So no, I cannot tell you this fan makes you live longer…", "delivery": "clean", "energy": 3, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.0, 4.3, 12.8, 16.5, 31.9, 41.9, 58.0],
+ "speaker": {"look": "brunette woman, denim shirt", "setting": "bedroom with dark wall and wall-mounted TV", "props": "none"}
+}
+]

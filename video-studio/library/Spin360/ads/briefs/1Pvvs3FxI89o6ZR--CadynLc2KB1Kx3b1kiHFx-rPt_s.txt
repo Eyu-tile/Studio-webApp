@@ -1,0 +1,178 @@
+﻿Spin360_NatureBreeze_Winter
+Brief - Spin360_NatureBreeze_Winter.mp4
+One ad, vertical 9:16. No voiceover: music and short on-screen text only. Three sequences: (1) nature, generated, no product, to bring back the feeling of a real breeze; (2) the closed winter room, built by you; (3) the Spin360 in nature, then a fade to people sleeping with it in the bedroom. The images are inspiration, not a storyboard. The on-screen text is final. 3 hooks: the video is the same, only the first text changes (see Hooks).
+	
+
+The idea: take people back to a real outdoor breeze (goosebumps), show winter closing every window, then turn the room back into outside with the Spin360.
+	The emotion curve
+  
+Music follows the curve: it builds in Act 1, almost disappears in Act 2, and comes back bigger in Act 3.
+Reference
+Perfume ad (10 s, music only): fast cuts of real nature, with the product placed inside the nature. Watch the refe
+rence video.
+  
+         
+Strategy
+# Element
+	Answer
+	Why this ad
+	"It feels like my bed is outside" is a proven message for us (BedOutside_Hook_1: $53k, ROAS 3.21; BedOutside_Hook_4: ROAS 4.34; NatureBreeze_DavidVO: $47k). This ad tells it with no voice, only images, music and short text, like the perfume ad in the reference: real nature, and the product placed inside it.
+	Desire
+	To feel a real outdoor breeze while you sleep, even in winter with every window shut.
+	Sub-avatar
+	People who love sleeping with the windows open and lose that in winter (they crack the window "just for air", then the cold or their partner closes it).
+	Angle
+	The feeling of an open window, with the windows closed.
+	Awareness
+	Unaware / problem aware. No product talk until Act 3.
+	Emotion (the curve)
+	Up (the breeze, nostalgia) → down (winter shuts the windows, still air) → up higher (the room becomes outside). Valence and intensity drive this ad, not words.
+	Proof / authority
+	David's real line as on-screen text: "You'd swear the walls were removed and your bed is outside."
+	End result
+	You fall asleep without noticing and wake up actually rested. This is the deep benefit; we sell the feeling, never cooling.
+	Offer
+	30 nights to try it. No discount.
+	Production brief
+Format: 9:16, no voice. Cuts of 1–2 s like the reference. The 7 Act 1 clips are ready: 5 s each, 1080p, no product. Each one is linked in the shot list; use the best 1–2 s of each. Act 1 has no product at all: it only brings back the feeling.
+The product moment: the first time we see the Spin360 it is inside nature (shot 11), like the perfume in the reference. Then a soft fade into the bedroom, and we see people sleeping with it.
+Look: premium, real, slow, shallow depth of field, natural light. Act 1 warm and green; Act 2 cold, blue, dark, nothing moves; Act 3 warm again, and the air visibly moves (curtain, hair, grass).
+On-screen text: white, clean, centered, few words, on screen long enough to read once (about 2–3 s each). Exactly as in the table, in this order. It must match what is on screen at that moment.
+Music: emotional, cinematic. Build in Act 1, drop to almost nothing in Act 2, return bigger in Act 3.
+Rules: the Spin360 looks exactly like the real product (generate it from our product reference videos); it never heats or glows red; no Christmas decor; breeze is always positive.
+Hooks
+Same video for all three. Only the first text (shots 1–2) changes. Everything else stays the same.
+Hook
+	On-screen text (shots 1–2)
+	What it tests
+	Hook 1
+	What if your bed felt like this tonight?
+	Curiosity: how?
+	Hook 2
+	What if your bed felt like this… in January?
+	Winter contrast: summer image, January text
+	Hook 3
+	Imagine falling asleep in this. Tonight.
+	Desire: sleep
+	Shot list
+#
+	Shot
+	Source
+	Inspiration
+	On-screen text
+	ACT 1 · The breeze (0–15 s) · the curve goes up · ALREADY GENERATED, no product
+	1
+	Tall golden grass waving in a soft breeze at sunset, low angle, slow motion.
+Hook. This text stays over shots 1 and 2.
+	Generated (Seedance 2.5)
+Watch clip
+	  
+
+	HOOK 1, 2 or 3 (see Hooks)
+	2
+	Sheer white linen curtains blowing into a bedroom from a wide-open window onto a green field, morning light.
+	Generated (Seedance 2.5)
+Watch clip
+	  
+
+	(same text as shot 1)
+	3
+	Thousands of birch leaves trembling against the sky, sunbeams flickering through.
+Stays over shots 3 and 4.
+	Generated (Seedance 2.5)
+Watch clip
+	  
+
+	That breeze on your skin.
+	4
+	Close-up: a woman outdoors at golden hour, eyes closed, breeze lifting her hair, a slow deep breath.
+	Generated (Seedance 2.5)
+Watch clip
+	  
+
+	(same text as shot 3)
+	5
+	Dune grass swaying in a sea breeze, ocean glittering behind.
+	Generated (Seedance 2.5)
+Watch clip
+	  
+
+	(no text: let the music breathe)
+	6
+	A calm lake at dawn, mist drifting, reeds swaying.
+	Generated (Seedance 2.5)
+Watch clip
+	  
+
+	(no text)
+	7
+	A bed on a screened porch at dusk, curtains moving, a woman asleep in peace (the bridge to sleep).
+	Generated (Seedance 2.5)
+Watch clip
+	  
+
+	Like your bed is outside.
+	ACT 2 · Winter shuts the windows (15–23 s) · the curve drops · YOU BUILD THIS SEQUENCE
+	8
+	A closed window with frost, snow falling outside, the curtain completely still.
+	Editor (stock or AI)
+	  
+
+	Then winter shuts every window.
+	9
+	A dark closed bedroom, heat on, she lies awake looking at the ceiling. Nothing moves.
+	Editor (stock or AI)
+	  
+
+	Stuffy. Still. Wide awake.
+	10
+	She gets up and cracks the window. Snow blows in, she pulls the duvet up to her chin, freezing.
+	Editor (stock or AI)
+	  
+
+	Crack the window? Now you're freezing.
+	ACT 3 · The breeze comes back (23–38 s) · the curve goes higher · product appears here for the first time
+	11
+	Back to nature: the Spin360 placed in nature like the perfume in the reference, on moss beside a forest stream, ferns moving. A clip of this already exists (test 27/10).
+First text over the nature shot, then the next text when the product is clearly seen.
+	Generated (Seedance 2.5, product reference)
+	  
+
+	What if this breeze came inside?
+	11b
+	Same shot, the Spin360 now clearly in view.
+Two lines, one card.
+	Generated (Seedance 2.5, product reference)
+	  
+
+	Meet Spin360.
+Built to bring the outdoors inside.
+	12
+	Fade from the nature shot into the bedroom: the Spin360 turns on, the curtain starts to move gently.
+Real quote from David. Use it exactly as written.
+	Editor (AI or our footage)
+	  
+
+	"You'd swear the walls were removed and your bed is outside."
+David Patrick, inventor of the Spin360
+	13
+	She sleeps deeply: her hair moves a little, she smiles under the duvet, window shut, snow outside.
+	Editor (AI or our footage)
+	  
+
+	You drift off without noticing.
+	14
+	Morning light, snow on the window. She wakes up easy, stretches, rested.
+New shot: the text needs her waking up.
+	Editor (AI or our footage)
+	  
+
+	And wake up actually rested.
+	15
+	End: the bedroom in soft morning light, the Spin360 by the bed, the curtain moving gently.
+	Editor
+	  
+
+	Spin360 · Try it for 30 nights
+	What's up to you
+The exact cuts, timing, transitions and the music track. Keep the curve and the text as written.

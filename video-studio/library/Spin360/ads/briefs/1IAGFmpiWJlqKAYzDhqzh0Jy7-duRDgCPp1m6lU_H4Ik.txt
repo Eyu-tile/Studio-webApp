@@ -1,0 +1,391 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_UnAware_MercatorMaps 
+Author: Gabriel
+Editor: Mustafa 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: S
+* Ad Type: Ideation
+* Type of Ad: VSL
+* Sizes Needed: 9x16
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 Video
+
+
+
+
+
+
+________________
+ 
+[2] Strategy
+Who is this for: 
+
+
+Men 35–55, practical/curious, enters through the cultural hook
+
+
+Main Selling Points: Natural breeze, 360 degree airflow, Quiet , scent pods 
+Market Awareness: Unaware 
+Desires: Comfort  
+Angle:n
+ 
+________________
+
+
+[3] Creative Direction
+Watch: 2026-05-31 22-43-24.mp4
+Use this voice audiom1.mp3 try to cut some of the exaggerated breaths
+The music are on the variations
+[3] Creative Direction
+Watch for reference:
+ Why every world map is wrong — Kayla Wolf (TED-Ed) https://www.youtube.com/watch?v=eTYsIePy5zg
+The True Size Of Countries — RealLifeLore https://www.youtube.com/watch?v=lPNrtjboISg
+Vox — Why all world maps are wrong https://www.youtube.com/watch?v=kIID5FDi2JQ
+NOTE: The editor has creative freedom to interpret these guidelines. This is not a rigid checklist — it's the visual logic of the ad. If you find a better solution, go for it.
+
+
+________________
+
+
+[4] Script
+
+
+
+Most maps of the world are wrong. 
+14 Greenlands could fit inside Africa. On your map they look the same size. Africa is bigger than the US, China, and India combined. On your map, it barely looks bigger than Greenland.
+Alaska looks bigger than Mexico. Mexico is bigger.
+Why? The Earth is round. A map is flat. Try to peel an orange and lay the skin flat. It doesn't work. Something's gotta stretch. So every flat map is distorted. There's no way around it.
+And that map was created in 1569 by a guy named Mercator. He was trying to solve the biggest problem of the time. Ships crossing oceans kept getting lost. So he created a map where any sailing route was a straight line on paper. Draw the line, follow it with a compass, arrive at your destination. Genius. But to make it work, he had to stretch the countries in the north. Europe, Canada, Russia became huge. And shrink the ones in the middle. Africa, Brazil, India became small. Solved navigation, created a lie about the real size of the world.
+A map made for ships. That's what's been on your wall, in your textbooks, on your Google, for 500 years. Nobody swapped it out. Nobody questioned it. Because if something's been there your whole life, you just accept it.
+And fans are the same exact story.
+Every fan ever made works one way, sucks air from one side, fires it out the other. One direction, straight at your face. Like a leaf blower pointed right at your bed.
+And for over 100 years, nobody looked at that and said wait, why does the air only go one way? Somebody designed it one way to solve one problem and the whole world just accepted it for everything. But it's wrong.
+One engineer in California didn't accept it. He started looking at how air moves in nature. Outside, the air doesn't just go one way. The breeze comes from everywhere. It moves through the trees, wraps around you, shifts direction. It's alive.
+And he spent 4 years trying to recreate that. What he built honestly doesn't even feel like a fan anymore. It pulls air in from two directions at the same time and sends it out everywhere at once, like Saturn's rings. And because of the blade shape, the air that comes out doesn't feel mechanical. It feels like a real breeze that wraps around you from every direction.
+The first time you turn it on, this is the part that gets people. It feels like the walls of your room just disappeared. Like you're outside somewhere and this natural breeze is just moving around you. You don't try to fall asleep, you just go. You wake up like wait, I actually feel good. Changes everything after that.
+Below speed 5 you literally won't hear it. Above 5 it makes this soft breeze sound that makes the whole world disappear in a minute. Drop a scent pod in, 10 seconds your room smells like a forest. Pine, cedar, eucalyptus, citronella in summer and bugs disappear. Like bringing nature into your room.
+It was made by the guy who invented the Shark Wheel. Yeah, he literally reinvented the wheel, went on Shark Tank and got a deal with Mark Cuban, and Nick Woodman. They just started selling it to the public and the first 1,000 people get $100 off.
+And honestly, once you feel it, it kind of speaks for itself. Go check it out.
+
+
+
+
+
+
+
+
+
+
+ 
+________________
+[5] Shotlist / Storyboard
+
+
+Variations
+	
+
+	Verion 
+	Script
+	Visual
+	Kling
+	Music combinations
+	1
+	
+
+Most maps of the world are wrong. 
+
+
+	Var1.png 
+  
+
+	Camera slowly pushes in on his face. He glances briefly back at the map behind him, then returns his gaze to camera with the same knowing half-smile deepening.
+	Use this music from the beginning until: “its wrong”The_Hidden_Ledger.mp3
+
+
+Use this music from “one engineer” until finish:
+The_View_From_Here.mp3
+	2
+	Most maps of the world are wrong. 
+
+
+
+
+	S01-hv3.png  
+	The hand peels the paper continent slowly off the globe, lifting it upward. The brass underneath is exposed as the paper lifts away.
+	Use this music from the beginning until: “its wrong”The_Hidden_Ledger.mp3
+
+
+Use this music from “one engineer” until finish:
+Measuring_the_Wind.mp3
+	3
+	
+
+Most maps of the world are wrong. 
+
+
+	ChatGPT Image May 30, 2026, 10_06_26 PM.png
+  
+
+
+
+	Camera slowly pushes in toward the map, tilting slightly upward as it gets closer. The map subtly sways on its mount. Daylight from the window shifts intensity as if a cloud passes outside.
+	Use this music from the beginning until: “its wrong”The_Weight_of_Seconds.mp3
+Use this music from “one engineer” until finish:
+The_View_From_Here.mp3
+	4
+	Most maps of the world are wrong. 
+	S01-hv1.png
+  
+
+ 
+	Camera slowly slides from the brass globe on the left across to the flat parchment map on the right. The globe rotates just a few degrees.
+
+
+
+
+
+
+	Use this music from the beginning until: “its wrong”The_Weight_of_Seconds.mp3
+Use this music from “one engineer” until finish:
+Measuring_the_Wind.mp3 
+	5
+	Most maps of the world are wrong. 
+	ChatGPT Image May 31, 2026, 06_04_56 PM.pngChatGPT Image May 31, 2026, 06_04_50 PM.png    
+	His hands grip the top edge of the map. He tears it cleanly down the middle over 2 seconds, hands separating outward holding the two halves. Jaw sets, brow furrowed.
+
+
+	Use this music from the beginning until: “its wrong”The_Hidden_Ledger.mp3
+
+
+Use this music from “one engineer” until finish:
+Measuring_the_Wind.mp3 
+	
+
+BODY
+	
+
+	Script
+	Visual
+	Kling PROMPT to test
+	14 Greenlands could fit inside Africa.
+	S01.png  
+	 The hand at the right places one more paper Greenland inside the Africa silhouette. Hand lifts away.
+	On your map they look the same size.
+	S03.png  
+	Camera slowly zooms in on the map. As it zooms, Greenland (top-left) glows softly with a warm light, then Africa (center-right) glows the same way — so the viewer knows exactly which two countries we're comparing. Both glows stay visible at the end of the shot. 
+	Africa is bigger than the U.S., China, and India combined.
+	s04a.png  
+	* The hand at the right finishes placing the last country into the Africa silhouette, sliding India into the empty spot. Hand lifts away.
+* * 
+
+
+
+	On your map, it barely looks bigger than Greenland.
+	  
+S05.png
+	Camera pulls back slowly from tight on Africa to reveal Greenland in the same frame. Both countries glow softly when they enter focus, so the viewer can compare their sizes side by side. 
+	Alaska looks bigger than Mexico. 
+	S06.png  
+	 Camera slowly pushes in on the old map. Alaska in the top-left glows visibly with warm light to identify it and show how oversized it appears on the Mercator.
+	Mexico is bigger.
+	
+
+S07.png  
+	Camera holds still on the two cutouts. Alaska glows visibly first to identify it, then Mexico glows visibly 1 second after. Both glows hold at the end.
+
+
+
+
+	Why? The Earth is round. A map is flat.
+	S01-var5.png  
+	Camera slides from the brass globe on the left across to the flat map on the right. The globe rotates a few degrees.
+
+
+	Try to peel an orange and lay the skin flat.
+	  
+Open in Drive
+	The hands peel the orange in one continuous strip. The peel rotates downward in a helix as the fingers turn the fruit.
+	It doesn't work. Something's gotta stretch.
+	  
+Open in Drive
+	The thumb presses the orange peel flat against the wood. The peel cracks and splits along the curve lines.
+	So every flat map is distorted.
+There's no way around it.
+	  
+S11.png
+	Camera very slowly zooms in on the wall map in the empty classroom.
+	
+
+	
+
+	
+
+	And that map was created in 1569 by a guy named Mercator.
+	S13.png
+  
+
+	 Camera holds wide on the silhouetted figure at the desk. The candle flame flickers. The figure leans slightly forward, working.
+	(silent hold)
+	  
+Open in Drive
+	 Camera slow handheld drift over the shoulder. The quill scratches across the parchment.
+	He was trying to solve the biggest problem of the time.
+	  
+Open in Drive
+	 Camera sweeps slowly down toward the tall ship lost in fog. The ship rocks in the heavy swell. Mist rolls across the water.
+	Ships crossing oceans kept getting lost.
+	  
+Open in Drive
+	Camera holds low on the deck, looking up at the sailor silhouette against grey sky. Rigging sways as the ship pitches. Light rain flecks the frame.
+
+
+	So he created a map where any sailing route was a straight line on paper.
+	  
+Open in Drive
+	Camera pushes in slowly along the line the quill is drawing. The wet ink extends across the parchment as the quill moves.
+	Draw the line, follow it with a compass, arrive at your destination. Genius.
+	  
+
+ChatGPT Image May 31, 2026, 05_08_11 PM.png
+	Camera holds close on the brass compass. The hand at the left rotates the compass to align it with the ink line
+	But to make it work, he had to stretch the countries in the north.
+Europe, Canada, Russia became huge.
+
+
+	  
+Open in Drive
+	Camera locked overhead on the antique map. Europe, Canada, and Russia in the north glow one after another to identify each one as they're being stretched larger.
+
+
+	And shrink the ones in the middle. Africa, Brazil, India became small.
+	  
+Open in Drive
+	 Camera locked overhead on the same map. Africa, Brazil, and India along the equator glow one after another to identify each one as they're being shrunk smaller.
+
+
+	Solved navigation, created a lie about the real size of the world.
+	  
+Open in Drive
+	 Camera pulls back slowly from the brass globe to reveal the flat map next to it on the desk. The globe rotates a few degrees.
+
+
+	
+
+	
+
+	
+
+	A map made for ships.That's what's been on your wall,
+ in your textbooks,
+on your Google,
+	  
+ChatGPT Image May 31, 2026, 10_39_42 PM.png
+	Painel 1 (classroom): The teacher gestures slowly toward the wall map. The students at the desks shift slightly in their seats, attention fixed on the map.
+Painel 2 (bedroom): *The sleeping person breathes gently, chest rising and falling under the blanket. Soft daylight from the window plays subtly across the wall map behind the bed.*
+Painel 3 (laptop): The hands on the keyboard move slightly, one finger scrolls or types. The Google Maps image on the screen subtly shifts as if the user is panning.
+Painel 4 (textbook): The hands holding the textbook tilt the page slightly, a thumb moves to turn the corner. The map illustration on the page catches the warm light.
+
+
+	for 500 years.
+Nobody swapped it out. Nobody questioned it. Because 
+	S14.png  
+	Camera holds locked on the school hallway. A man walks across the frame looking at his watch, never at the wall map. He passes through without stopping.
+
+
+	if something's been there your
+whole life, you just accept it.
+
+
+	S27.png 
+  
+
+	Camera holds on the kid in his bedroom looking out the window, backpack on. The world map poster behind him hangs still.
+	And fans are the same exact story.
+	S16.png
+  
+
+	fan running fast
+	Every fan ever made works one way, sucks air from one side, fires it out the other. 
+	S15.png  
+	fan running fast 
+	 One
+direction, straight at your face. Like a leaf blower pointed right at your bed.
+
+
+	  
+S29.png 
+	The hand at the right blasts the man in the bed with the orange leaf blower. His hair whips back violently. He squints and turns his face away.
+	And for over 100 years, nobody looked at that and said wait, why does the air only go
+one way?
+	S30.png  
+	Camera slowly pushes in on the vintage fan. As the camera approaches, the sepia tones bleed into full color — the old archival look transforms into present day. The blades go from frozen-in-time to spinning at modern speed.
+	Somebody designed it one way to solve one problem and the whole world just accepted
+it for everything.
+But it's wrong.
+	S31.png  
+	Camera does a slow dolly along the shelf in the store aisle. The row of identical white pedestal fans passes by one after another, all the same.
+	One engineer in California didn't accept it.
+	S33.png  
+	 Camera holds on the man walking up the golden California hillside at sunset. Tall grass sways around him. He looks up toward something off-camera.
+	He started looking at how air moves in nature.
+	  
+S34.png
+	Camera stays on the man on the hillside. He stops walking and turns his head slowly to one side, as if noticing the wind for the first time. His eyes scan the trees in the distance.
+	Outside, the air doesn't just go one way.
+	  
+S35.png
+	 Camera holds on the golden hour scene with birch trees. The tall grass in the foreground sways naturally in a breeze coming from multiple directions.
+
+
+	The breeze comes from everywhere. It moves through the trees.
+	  
+S36.png
+	 Camera looks up through the tree canopy. The leaves rustle and sway. The image feels like the air is moving around you.
+	It wraps around you, shifts direction.
+	S37.png  
+	 Camera holds on the man in the tall grass at sunset. The grass moves around him in soft waves, wind coming from multiple directions, brushing past him. His clothing ruffles gently.
+
+
+	It's alive.
+	S37b.png  
+	Close portrait of the man at golden hour. His hair stirs in the breeze. He closes his eyes for 1 second — a quiet moment of recognition, like he's feeling something true for the first time. Then opens them again, calm.
+	And he spent 4 years trying to recreate that. What he built honestly doesn't even feel like a fan anymore. It pulls air in from two directions at the same time and sends it out everywhere at once, like Saturn's rings. And because of the blade shape, the air that comes out doesn't feel mechanical. It feels like a real breeze that wraps around you from every direction.
+The first time you turn it on, this is the part that gets people. It feels like the walls of your room just disappeared. Like you're outside somewhere and this natural breeze is just moving around you. You don't try to fall asleep, you just go. You wake up like wait, I actually feel good. Changes everything after that.
+Below speed 5 you literally won't hear it. Above 5 it makes this soft breeze sound that makes the whole world disappear in a minute. Drop a scent pod in, 10 seconds your room smells like a forest. Pine, cedar, eucalyptus, citronella in summer and bugs disappear. Like bringing nature into your room.
+It was made by the guy who invented the Shark Wheel. Yeah, he literally reinvented the wheel, went on Shark Tank and got a deal with Mark Cuban, and Nick Woodman. They just started selling it to the public and the first 1,000 people get $100 off.
+And honestly, once you feel it, it kind of speaks for itself. Go check it out.
+
+
+	You can use the same visuals here H5_Spin360_Short_SwedishBabies.mp4
+	
+
+	
+
+[7] Editing Rules
+* Each visual clip MUST complement the audio. Never disconnect visual from what's being said.
+* Add captions for entire video
+* Editor must add sound design
+* Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+
+
+ 
+________________
+
+
+[8] Deliverables
+• Versions: 5 total (one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels),
+• Upload Location: Creative Roadmap

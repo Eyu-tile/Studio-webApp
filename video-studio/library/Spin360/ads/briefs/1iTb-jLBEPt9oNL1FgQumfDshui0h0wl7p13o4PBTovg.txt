@@ -1,0 +1,358 @@
+﻿Spin360_DrillHook_NoWalls
+
+
+Brief - Spin360_DrillHook_NoWalls.mp4
+3 ads, one edit. Same drill idea as Spin360_DrillHook_ShapeStory, but with 3 new places and a new story after the hook. The body is a string-out of David from the Inside interview, plus a few lines generated with AI (Seedance) where he never said what we need. Same room as the interview, so real and AI lines match.
+	
+
+It should feel like a real interview, a mini documentary: David on the couch answering questions, and B-roll that shows what he is talking about. The visual ideas below are inspiration, not a rulebook. Use your judgment.
+	Strategy
+# Element
+	Answer
+	Desire
+	"I want to sleep like I used to." He wants his bedroom to finally feel right at night: fresh air, no stuffiness, no fan blasting his face, so he and his wife sleep through and both wake up rested. Underneath: being the guy who found the smart fix for the house, not another gadget.
+	Avatar
+	Men 45–65, homeowners, buying for the bedroom they share with their wife (real buyers: "Got my wife one. She loves it", "I have two… so perfect in the bedroom"). They like knowing how things work and are skeptical of gadgets and price ("pricey, but… worth it"). Behavior: they keep throwing fans at the problem (a box fan pointed at the bed, the ceiling fan, the AC, even "four fans surrounding our bed") and the room still feels stuffy or uneven. Belief to respect: "a fan is a fan, it just blows air at you."
+	Angle
+	A real breeze in the bedroom without opening a window: close your eyes and it feels like the walls are gone, at the temperature of your own home.
+	Mechanism
+	New mechanism (patented): every fan pulls air from the back and blows it out the front; this shape pulls from the top and the bottom and blows it out 360°. That mixes the ceiling air and the floor air into one temperature and turns airflow into a gentle breeze across your whole body. We sell the feeling (no walls, outdoors indoors); the shape is the reason to believe it.
+	Authority
+	Title + experience: the founder who reinvented the wheel on Shark Tank, same shape, holds the patent. Personal experience: he sleeps with it every single night. Shown before the pitch.
+	Awareness
+	Hook: Unaware (pattern interrupt, no product). Body takes him from "my bedroom just feels off" (Problem Aware) to "a fan built differently fixes it" (Solution Aware). The fan market is sophisticated (stage 3–4), so his objection is "how is yours different?" and the shape and the mechanism carry the ad.
+	Emotion
+	Curiosity (what is this guy doing?) → "that's clever" (he feels like the smart buyer who gets the engineering) → wonder and calm (the walls disappear and he finally sleeps).
+	Positioning
+	Different, not "better": not a fan that blows in your face, but a breeze maker that makes the whole room feel like outdoors. Not about heat or cooling, about how the room feels. The enemy is the fan aimed at you.
+	Format
+	Interview / mini documentary. No split screen. David full screen on the couch (wide and close-up), and full-screen B-roll whenever he talks about something we can show.
+	Hooks
+	3 new drill hooks (coffee shop, lake at dawn, backyard hot tub). Same action as ShapeStory: the blade on the drill pulls in steam or mist that is already part of the place.
+	Offer
+	Risk reversal: 30 nights to try it. If it doesn't feel like outside, send it back. No fake scarcity.
+	Production brief
+Format: vertical 9:16, about 1:30. Hook full screen. Then an interview look: David full screen on the couch, switching between a wide shot and a close-up (punch-in) to hide cuts and keep the pace. Full-screen B-roll (no David, his voice over it) whenever he talks about something we can show: the wheel, the airflow, the temperature, the walls opening, the bedroom.
+
+
+Environment (David): the couch in the living room, black shirt, the Spin360 in the background. Inside interview, Frame.io shoot, Aug 2026.
+  
+Source file (real lines): Stringout_Spin360_Interview29Indoors)_Vertical.mp4 (Frame.io, 9:16 Vertical / Stringouts). Drive: Spin360_July2026_Interview2_Inside_Vertical01.mp4. Timecodes below are from this file. The interview was recorded twice: if a take is weak, the same line is about 45:05 later.
+AI lines (Seedance): rows in orange are lines David never said. Cut a 10–15 s clip of him talking from the same file (same couch, light and framing) and use it as the reference in Seedance so he says the new line with his voice. Keep the framing identical so the cut between real and AI is invisible. The wide/close-up switching helps hide it.
+Visual reference: our winning David ad, for the kind of B-roll (Shark Tank, airflow animation, temperature graphic, walls opening): https://www.facebook.com/100081148531982/posts/999154579466151/. Not its layout: this one has no split screen.
+Captions: white, a few words at a time, lower third.
+Visual hooks (3 ads)
+Full screen, real sound, no voice until the last second. In all 3 the steam or mist is already part of the place, so it makes sense that it is there and the blade pulls it in. Same on-screen text on all three. These must feel like real footage someone grabbed on their phone: that is what stops the scroll.
+Ad
+	Visual Inspiration
+	Scene description
+	Hook 1 · Coffee shop
+Spin360_DrillHook_NoWalls_Hook1
+	  
+
+	To generate (Seedance). Busy coffee shop. David at the counter spins the drill next to the espresso machine; the steam from the steam wand bends sideways and gets pulled into the blade. The barista stops and stares, a customer in line laughs. Filmed by someone in the line. Must look organic: like a stranger saw this and filmed it on their phone. Handheld, imperfect framing, real people reacting, real background. Crazy and real at the same time. On-screen text (same in all 3): what is this guy doing 😂 (upper third, first 3 s).
+	Hook 2 · Lake at dawn
+Spin360_DrillHook_NoWalls_Hook2
+	  
+
+	To generate (Seedance). Wooden fishing dock at dawn, thick mist on the water. David spins the drill low over the water; the mist swirls up and gets pulled into the blade. An old fisherman on a bucket turns and watches, puzzled. Filmed from a few steps back. Must look organic: like a stranger saw this and filmed it on their phone. Handheld, imperfect framing, real people reacting, real background. Crazy and real at the same time. On-screen text (same in all 3): what is this guy doing 😂 (upper third, first 3 s).
+	Hook 3 · Backyard hot tub
+Spin360_DrillHook_NoWalls_Hook3
+	  
+
+	To generate (Seedance). Backyard at night, string lights, steam rising off a hot tub. Friends in the tub laugh while David spins the drill above the water and the steam gets pulled into the blade. Filmed by a friend sitting in the tub. Must look organic: like a stranger saw this and filmed it on their phone. Handheld, imperfect framing, real people reacting, real background. Crazy and real at the same time. On-screen text (same in all 3): what is this guy doing 😂 (upper third, first 3 s).
+	Body (same in all 3 ads)
+Section
+	David says (source)
+	Visual Inspiration
+	Visual idea
+	Emotion
+	Shape
+	AI · Seedance
+This is the exact same shape I used to reinvent the wheel.
+	  
+
+  
+
+	Starts as voice-over on the last second of the hook (blade still pulling the smoke), then cut to David full screen on the couch. On "reinvent the wheel": 1–2 s of the Shark Wheel / Shark Tank (Spin360_LiveLonger_HOOK_6.mp4 01:24–01:32).
+	Curiosity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Bridge
+	AI · Seedance
+And now I'm using it to reinvent how a bedroom feels. It's like sleeping outside, but at the temperature of your own home.
+	  
+
+	David full screen, punch-in (close-up) on "sleeping outside". Optional 1 s flash: a bed outdoors under the night sky.
+	Intrigue
+	Mechanism + patent
+	REAL · Inside 00:23:57–00:24:07 + 00:24:19–00:24:30
+Every fan in the world, it sucks from the back and blows out the front. That's just how they work. I suck from the top and the bottom and blow out 360. That is an entirely different way of mixing air. There's no better way to mix an entire room than the way I'm doing it right here. I received the patent to this and that was shocking because how did nobody ever do this before?
+	  
+
+	
+
+David wide. On "I suck from the top and the bottom": full-screen B-roll of the real Spin360 in a bedroom with smoke being pulled in from the top and the bottom and pushed out 360° (the same smoke idea as the hook, now on the real product). On "patent": quick close-up of the patent document or a "U.S. Patent" text.
+	Wow
+	One temperature
+	AI · Seedance
+It pulls in the warm air up by the ceiling and the cooler air down by the floor, so the whole room ends up one temperature. Then it moves across you like a breeze.
+	  
+
+	Full-screen B-roll. Bedroom with a warm color at the ceiling and a cool color at the floor, mixing into one even color, then a person in bed with the sheet moving gently.
+	Clarity
+	No breeze indoors
+	REAL · Inside 00:37:47–00:37:53
+Unless you have a window open and you happen to have a breeze outside, you're not getting a breeze indoors. We bring that breeze indoors.
+	New shot. No reference frame.
+	
+
+B-roll: a closed bedroom window at night, curtains completely still. Then the Spin360 on and the curtain starts moving gently.
+	Recognition
+	No walls
+	REAL · Inside 00:41:11–00:41:26 (start after "Again,")
+If you have this running in a bedroom and you close your eyes, you can almost imagine that your bedroom has no walls and you're outside. It's that good of a replication of what's happening outside, and it is just a game changer in the way you sleep.
+	  
+
+	The signature shot (Seedance): a person asleep in bed, the Spin360 on, and the bedroom walls slowly lift away, revealing trees and the night sky, while the bed stays cozy and warm. Like the winner at 1:29, but slower and longer.
+	Wonder
+	David's proof
+	REAL · Inside 00:39:52–00:40:15
+You wake up more refreshed, and that's not a statement that I can't back up. I sleep with this thing every single night, and I can't stand it if I don't have it. It's changed my life in the sense that I never had this before. I've never had this beautiful in-room experience where not only was I waking up more refreshed, I could tell there was something different about the breeze.
+	  
+
+
+
+	
+
+David close-up (this is personal, keep him on screen most of it). Cut to a calm, dark bedroom with the Spin360 on, then someone waking up rested in the morning light.
+	Trust
+	CTA
+	AI · Seedance
+That's why we let people try it for 30 nights. If it doesn't feel like outside, they just send it back.
+	  
+
+	David full screen, then product hero shot. End card: Try it for 30 nights.
+	Safe, no risk
+	Orange rows = AI (Seedance). White rows = real, cut from the file at the timecode shown. On "Mechanism + patent" there is a cut in the middle (skip 00:24:07–00:24:19); hide it with the B-roll.
+Rules
+* No discounts, no season words (summer, spring...). This ad is not about heat. The offer is the 30-night trial.
+* Generated shots: the Spin360 is already on from the first frame. No scenes of turning it on.
+* Air shots show a gentle breeze, never strong wind.
+* Little acting in generated scenes: people just live in the room, calm and natural.
+What's up to you
+The exact cuts, pace, music and the airflow/temperature graphics.

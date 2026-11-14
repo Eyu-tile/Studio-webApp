@@ -1,0 +1,330 @@
+﻿Spin360_Baby_SIDSNursery — VSL
+
+
+Desire: "I want my baby safe and healthy in the nursery, and I want to sleep with peace of mind."
+
+
+Avatar: Expecting moms (no baby yet) setting up the nursery. That's why the problem scenes show what WILL happen once the baby arrives.
+
+
+Awareness: Unaware. She already fears SIDS, but she has never heard that CO₂ builds up around a baby's face in still air. She thinks the crib, the baby monitor and the AC already have it covered.
+
+
+Angle: The invisible problem (CO₂ sitting around the baby's face) → the Kaiser Permanente study (a fan in the room, 72% lower SIDS risk) → why the AC, purifiers and regular fans don't fix it → Spin360.
+
+
+Mechanism: Spin360 pulls air in from the top and the bottom and moves the air of the whole room, 360°. A soft breeze, like an open window, never a blast in the face.
+
+
+Proof: Coleman-Phox, Odouli & Li, Kaiser Permanente, Archives of Pediatrics & Adolescent Medicine, 2008: fan use linked to a 72% lower SIDS risk.
+
+
+Script (VO)
+Hook:
+
+
+ If you're building a nursery right now, I can almost guarantee you're missing the most important thing. And if you don't have it, I'm not exaggerating, your baby could die.
+You've got the crib. The baby monitor. The blackout curtains. Everything's perfect. So you think your baby's safe.
+But there's something that's going to happen in that crib every single night, and nobody tells you about it.
+Every time your baby breathes out, it's carbon dioxide.  And in a stuffy room, with no air moving, it doesn't go anywhere. It just sits there. Right around their little face.
+So all night long, your baby will be breathing that same air back in. Over and over.
+And they won't be able to tell you. They can't say, "Mom, something's wrong." They'll just squirm, toss and turn, and cry, and you'll have no idea why.
+Researchers believe this is one of the reasons babies die from Sudden Infant Death Syndrome.
+So they asked a simple question: what if we just kept the air moving?
+A team at Kaiser Permanente looked at hundreds of babies. And the ones who slept with a fan in the room had a 72% lower risk of SIDS.
+Seventy-two percent. From one simple change in the nursery.
+But here's the problem. Your AC just cools the air. Your purifier just cleans it. Neither one actually moves the air around your baby's face.
+And a regular fan only blows in one direction. You'd need four of them, pointed every which way, to really get the air in a room moving.
+
+
+That's why Spin360 was created. It's a 360-degree air circulator, made for nurseries.
+It pulls air in from the top and the bottom and gets the air in the whole room moving. All that carbon dioxide sitting around your baby's face just drifts away, so your baby breathes easier, with fresh air all night long.
+And you'll see it on their little face. They wake up calmer, happier, and they stay that way all day.
+Don't worry, it's gentle. No harsh blast of air in their face. Just a soft breeze all through the room. It's made to feel like an open window.
+And that healthier air makes a difference fast. The number one thing parents tell us? Their babies went from sleeping two hours to five. And it's whisper quiet, so it won't wake them.
+
+
+But in the end, here's what really matters: in those first nights, when you get up at 3 a.m. to check on your baby, you'll open the door, peek in, and there they'll be, sound asleep, breathing easy. And you'll go back to bed and actually sleep knowing they're okay.
+
+
+It's built to last over ten years, so it grows with your child. From the nursery all the way to the big-kid room.
+Is it cheap? No. But you just spent hundreds on a crib and a monitor so you could watch your baby breathe. This makes sure the air they're breathing is healthy.
+Now you know. Don't let your baby spend even one night in still air. Finish the nursery before your baby comes home, because the first nights matter the most. Tap the link and get yours.
+Production notes
+Format: Female VO, ~2:30, vertical 9:16. Three hooks with the SAME VO; only the opening visual changes. The body is the same for all three.
+Style: 3D animation with Pixar-quality characters, grounded in reality: real light, real textures, real room scale. The emotion is in the eyes. The problem is intense; the product is calm and clear.
+Visual language: CO₂ = a heavy grey-violet haze that sits still and pools. Fresh air = soft, glowing light-blue ribbons. Problem scenes in cold, dark tones; solution scenes in warm light.
+Images: The images are visual inspiration
+Hooks
+Same VO for all three hooks. Only the opening visual changes.
+#
+	Script
+	Visual Inspiration
+	Scene Description
+	Hook 1
+	If you're building a nursery right now, I can almost guarantee you're missing the most important thing. And if you don't have it, I'm not exaggerating, your baby could die.
+	  
+   
+	Hook 1 — Dramatic irony, two beats. (1) The pregnant mom, happy, folding a tiny onesie in the finished nursery at golden hour; behind her, the empty crib already has a grey haze on the mattress. She doesn't see it. (2) On "your baby could die," the warm light drains to cold, she turns, scared, hand on her belly, and the crib fills with dark haze spilling over the rails. No on-screen text.
+	Hook 2
+	If you're building a nursery right now, I can almost guarantee you're missing the most important thing. And if you don't have it, I'm not exaggerating, your baby could die.
+	  
+   
+	Hook 2 — The face in the haze, two beats. (1) Close-up of the baby asleep on its back in the dark, green monitor light, a thick grey haze around the face, restless. (2) The same baby, now crying and distressed inside the haze, tears, fists up. Opens straight on the problem. No on-screen text.
+	Hook 3
+	If you're building a nursery right now, I can almost guarantee you're missing the most important thing. And if you don't have it, I'm not exaggerating, your baby could die.
+	  
+
+	Hook 3 — The monitor can't see the air. Ceiling-corner angle, like the baby monitor's own view: the baby crying and distressed in the crib while a grey pool of CO₂ fills the crib up to its face. Nobody comes; the green light just blinks. No on-screen text.
+	Body (same for all hooks)
+#
+	Script
+	Visual Inspiration
+	Scene Description
+	1
+	You've got the crib. The baby monitor. The blackout curtains. Everything's perfect. So you think your baby's safe.
+	  
+
+	The pregnant mom stands in the middle of the finished nursery in daylight, proud, hand on her belly. Crib, baby monitor on the wall and blackout curtains all clearly visible. "Everything's perfect." Optional: quick check marks on the crib, the monitor and the curtains.
+	2
+	But there's something that's going to happen in that crib every single night, and nobody tells you about it.
+	  
+
+	Same nursery at night, months later. Blackout curtains closed, deep blue darkness, only the monitor's green dot. The baby asleep, seen through the crib slats. Everything is too still. A first grey wisp rises from the baby's face.
+	3
+	Every time your baby breathes out, it's carbon dioxide. And in a stuffy room, with no air moving, it doesn't go anywhere. It just sits there. Right around their little face.
+	  
+
+	Medical-explainer close-up (same intensity as Charlie's gut-health reference): side profile of the sleeping baby. Each exhale releases a grey cloud that doesn't go away; the breaths stack into a dome around the baby's head. The room air is dead still. Optional on-screen text: CO₂.
+	4
+	So all night long, your baby will be breathing that same air back in. Over and over.
+	  
+
+	The same air, breathed again. A heavy grey cloud sits right above the baby's face and is pulled back in through the nose with every breath instead of drifting away. Restless sleep, brow furrowed.
+	5
+	And they won't be able to tell you. They can't say, "Mom, something's wrong." They'll just squirm, toss and turn, and cry, and you'll have no idea why.
+	  
+
+	The baby cries hard inside the haze, red-faced, fists up, unable to say what's wrong. Mom (after the birth: no belly, grey sleep tee) leans over the crib at 2 a.m., exhausted and scared, searching for the reason. She can't see the haze. The panic on her face is the key.
+	6
+	Researchers believe this is one of the reasons babies die from Sudden Infant Death Syndrome.
+	  
+
+	The darkest frame of the ad. Wide shot from the doorway at 3 a.m.: a low grey haze covers the room up to mattress height, the crib in near-silhouette, the monitor's green light glowing. Silence. Nothing graphic; everything is implied. On-screen text: Sudden Infant Death Syndrome (SIDS).
+	7
+	So they asked a simple question: what if we just kept the air moving?
+	  
+   
+	The turn, two beats. (1) Close on the baby asleep with the grey cloud stuck around its face, restless, the air dead still. (2) Same shot: a breeze of light-blue air comes in from the window and pushes the cloud away from the face; the face clears and relaxes. Hope.
+	8
+	A team at Kaiser Permanente looked at hundreds of babies. And the ones who slept with a fan in the room had a 72% lower risk of SIDS.
+	  
+
+	The study. Two identical full-size nurseries, one above the other, staged like a real test with a researcher observing. Top room: still air, thick grey haze around the baby. Bottom room: a simple fan in the corner, light-blue air circulating, the baby's face clear. On-screen text: Kaiser Permanente · Coleman-Phox et al., 2008 (a real screenshot of the study can be added).
+	9
+	Seventy-two percent. From one simple change in the nursery.
+	  
+
+	The pregnant mom in the rocking chair reading on her phone: eyes wide, hand over her mouth. It clicks. Big on-screen text: 72%.
+	10
+	But here's the problem. Your AC just cools the air. Your purifier just cleans it. Neither one actually moves the air around your baby's face.
+	  
+
+	The wall AC blows cold air only along the ceiling, the purifier glows in the corner, and the grey haze is still untouched around the baby in the crib. Optional: ❌ AC ❌ Purifier.
+	11
+	And a regular fan only blows in one direction. You'd need four of them, pointed every which way, to really get the air in a room moving.
+	  
+
+	Top-down view of the whole room: a regular fan pushes one narrow stripe of air in a single direction, while the rest of the room, crib included, stays covered in still grey haze. It only blows in one spot.
+	11 (b)
+	(continues line 11)
+	  
+
+	Animated top-down view, no people: four regular fans, one in each corner, their airflows joining into one loop around the room, cords all over the floor. It takes four of them to move the air in one room.
+	12
+	That's why Spin360 was created. It's a 360-degree air circulator, made for nurseries.
+	  
+
+	Product reveal. Spin360 standing on the floor by the window, away from the crib, morning light. The pregnant mom kneels next to it, just set it up, pleased. Show the whole product.
+	13
+	It pulls air in from the top and the bottom and gets the air in the whole room moving. All that carbon dioxide sitting around your baby's face just drifts away, so your baby breathes easier, with fresh air all night long.
+	  
+
+	The mechanism. Spin360 in the middle of the nursery, on the rug: soft, natural light-blue air flows out of it in all 360° and slowly turns the air of the whole room, along every wall and through every corner, reaching the crib. Animate the currents gently circling the room.
+	13 (b)
+	And you'll see it on their little face. They wake up calmer, happier, and they stay that way all day.
+	  
+
+	The shot Charlie asked for most: close-up of the baby at the moment of relief. The last grey wisps dissolve into blue air, the face relaxes, a soft breath, almost a smile. Hold 2 s.
+	14
+	Don't worry, it's gentle. No harsh blast of air in their face. Just a soft breeze all through the room. It's made to feel like an open window.
+	  
+
+	Gentle. Close-up of the baby's hair barely moving in the breeze, the sheer curtain swaying behind, Spin360 out of focus in the corner. Morning light. "Like an open window."
+	15
+	And that healthier air makes a difference fast. The number one thing parents tell us? Their babies went from sleeping two hours to five. And it's whisper quiet, so it won't wake them.
+	  
+
+	Mom (after the birth) deeply asleep in her own bed. The monitor on the nightstand shows the baby sleeping calmly; the clock glows in the middle of the night. Note: the monitor screen shows a "Spin360" label — cover or replace it in the edit.
+	16
+	But in the end, here's what really matters: in those first nights, when you get up at 3 a.m. to check on your baby, you'll open the door, peek in, and there they'll be, sound asleep, breathing easy. And you'll go back to bed and actually sleep, knowing they're okay.
+	  
+   
+	The emotional climax, two beats. (1) 3 a.m.: mom opens the nursery door, the breeze moves her hair, relief floods her face, eyes glistening. (2) What she sees: the baby sleeping peacefully, breathing easy, no haze, Spin360 in the background away from the crib. Slow push-in on each.
+	17
+	It's built to last over ten years, so it grows with your child. From the nursery all the way to the big-kid room.
+	  
+
+	Time jump: the same Spin360 in a big-kid room, the child (about 6) asleep in bed. It grows with them. Optional on-screen text: 10+ years.
+	18
+	Is it cheap? No. But you just spent hundreds on a crib and a monitor so you could watch your baby breathe. This makes sure the air they're breathing is healthy.
+	  
+
+	The nursery essentials side by side: the crib with the monitor above it, and Spin360 by the window. The pregnant mom rests her hand on top of the Spin360. As basic as the crib.
+	19
+	Now you know. Don't let your baby spend even one night in still air. Finish the nursery before your baby comes home, because the first nights matter the most. Tap the link and get yours.
+	  
+
+	Closes mirroring the hook: the pregnant mom in the finished nursery at golden hour, next to the crib, hand on her belly, Spin360 running in the corner, curtains moving, light-blue air drifting through the room. Calm and ready. CTA: hold at least 2 s with the product visible.
+	
+
+Spin360_Baby_SIDSNursery_V2 (Claymation) — VSL · Editor Brief
+Format: Female VO, ~2:30, vertical 9:16. Three hooks with the SAME VO; only the opening visual changes. The body is the same for all three.
+Style: Handcrafted claymation / stop-motion look: plasticine characters with visible clay texture and fingerprints, a miniature nursery set with real fabric and wood, warm practical lighting, shallow depth of field. One style from start to finish, no mixing. The baby always has warm, peachy skin (never blue or grey). The Spin360 must keep its real shape and colors.
+Visual language: CO₂ = a heavy grey-violet haze that sits still and pools. Fresh air = soft, glowing light-blue ribbons. Problem scenes in cold, dark tones; solution scenes in warm light.
+Characters: Emma, the pregnant mom (hooks, beginning and end). The same woman as a new mom, no belly, grey sleep tee (lines 5, 15, 16). The baby: 3 months, pale-sage sleeper.
+Fixed rules: The baby is always on its back in a bare crib (fitted sheet only). Spin360 is always the WHITE floor model, on the floor, away from the crib, cord away from the crib. No text inside the images; all text is added in the edit.
+
+
+The ad, end to end: 1) Hook: the perfect nursery already has the problem inside it. 2) Problem: at night, CO₂ sits still around the baby's face, the baby breathes it back in and cries, and mom can't see why. 3) Hope: what if the air kept moving? The study and the 72%, landing on her face. 4) Why what she has doesn't fix it: AC, purifier, a regular fan, four fans. 5) Spin360: the mechanism and the baby's relief. 6) Payoff: 3 a.m., she opens the door and feels the breeze. 7) Close mirrors the hook: the same nursery, now complete.
+Hooks
+Same VO for all three hooks. Only the opening visual changes.
+#
+	Script
+	Visual Inspiration
+	Scene Description
+	Hook 1
+	If you're building a nursery right now, I can almost guarantee you're missing the most important thing. And if you don't have it, I'm not exaggerating, your baby could die.
+	  
+
+	Hook 1 — Dramatic irony. The pregnant mom, happy, folding a tiny onesie in the finished nursery at golden hour. Behind her, the empty crib already has a grey haze sitting on the mattress. She doesn't see it. We do. On "your baby could die," slowly push toward the crib. No on-screen text.
+	Hook 2
+	If you're building a nursery right now, I can almost guarantee you're missing the most important thing. And if you don't have it, I'm not exaggerating, your baby could die.
+	  
+
+	Hook 2 — The face in the haze. Extreme close-up of the baby asleep on its back in the dark, lit only by the green light of the baby monitor. A thick grey haze pools around the nose and mouth; restless sleep, brow knitted. Opens straight on the problem. No on-screen text.
+	Hook 3
+	If you're building a nursery right now, I can almost guarantee you're missing the most important thing. And if you don't have it, I'm not exaggerating, your baby could die.
+	  
+
+	Hook 3 — The monitor can't see the air. Ceiling-corner angle, like the baby monitor's own view: the baby crying and distressed in the crib while a grey pool of CO₂ fills the crib up to its face. Nobody comes; the green light just blinks. No on-screen text.
+	Body (same for all hooks)
+#
+	Script
+	Visual Inspiration
+	Scene Description
+	1
+	You've got the crib. The baby monitor. The blackout curtains. Everything's perfect. So you think your baby's safe.
+	  
+
+	The pregnant mom stands in the middle of the finished nursery in daylight, proud, hand on her belly. Crib, baby monitor on the wall and blackout curtains all clearly visible. "Everything's perfect." Optional: quick check marks on the crib, the monitor and the curtains.
+	2
+	But there's something that's going to happen in that crib every single night, and nobody tells you about it.
+	  
+
+	Same nursery at night, months later. Blackout curtains closed, deep blue darkness, only the monitor's green dot. The baby asleep, seen through the crib slats. Everything is too still. A first grey wisp rises from the baby's face.
+	3
+	Every time your baby breathes out comes carbon dioxide. And in a stuffy room, with no air moving, it doesn't go anywhere. It just sits there. Right around their little face.
+	  
+
+	Medical-explainer close-up (same intensity as Charlie's gut-health reference): side profile of the sleeping baby. Each exhale releases a grey cloud that doesn't go away; the breaths stack into a dome around the baby's head. The room air is dead still. Optional on-screen text: CO₂.
+	4
+	So all night long, your baby will be breathing that same air back in. Over and over.
+	  
+
+	The stale-air loop. Over the crib, the grey haze rises from the baby, curls around and sinks right back onto it, getting denser with every turn. The same air, breathed over and over.
+	5
+	And they won't be able to tell you. They can't say, "Mom, something's wrong." They'll just squirm, toss and turn, and cry, and you'll have no idea why.
+	  
+
+	The baby cries hard inside the haze, red-faced, fists up, unable to say what's wrong. Mom (after the birth: no belly, grey sleep tee) leans over the crib at 2 a.m., exhausted and scared, searching for the reason. She can't see the haze. The panic on her face is the key.
+	6
+	Researchers believe this is one of the reasons babies die from Sudden Infant Death Syndrome.
+	  
+
+	The darkest frame of the ad. Wide shot from the doorway at 3 a.m.: a low grey haze covers the room up to mattress height, the crib in near-silhouette, the monitor's green light glowing. Silence. Nothing graphic; everything is implied. On-screen text: Sudden Infant Death Syndrome (SIDS).
+	7
+	So they asked a simple question: what if we just kept the air moving?
+	  
+
+	The turn. The nursery at night, no one in frame: the window is open, the sheer curtain billows in, moonlight on the floor, and a ribbon of light-blue air flows from the window to the crib. The grey haze starts to move for the first time. Hope.
+	8
+	Researchers at Kaiser Permanente looked at hundreds of babies. And the ones who slept with a fan in the room had a 72% lower risk of SIDS.
+	  
+
+	The study. Two identical full-size nurseries, one above the other, staged like a real test with a researcher observing. Top room: still air, thick grey haze around the baby. Bottom room: a simple fan in the corner, light-blue air circulating, the baby's face clear. On-screen text: Kaiser Permanente · Coleman-Phox et al., 2008 (a real screenshot of the study can be added).
+	9
+	Seventy-two percent. From one change to the nursery.
+	  
+
+	The pregnant mom in the rocking chair reading on her phone: eyes wide, hand over her mouth. It clicks. Big on-screen text: 72%.
+	10
+	But here's the problem. Your AC just cools the air. Your purifier just cleans it. Neither one actually moves the air around your baby's face.
+	  
+
+	The wall AC blows cold air only along the ceiling, the purifier glows in the corner, and the grey haze is still untouched around the baby in the crib. Optional: ❌ AC ❌ Purifier.
+	11
+	And a regular fan only blows in one direction. You'd need four of them, pointed every which way, to really get the air in a room moving.
+	  
+
+	Top-down view of the whole room: a regular fan pushes one narrow stripe of air in a single direction, while the rest of the room, crib included, stays covered in still grey haze. It only blows in one spot.
+	11 (b)
+	(continues line 11)
+	  
+
+	Animated top-down view, no people: four regular fans, one in each corner, their airflows joining into one loop around the room, cords all over the floor. It takes four of them to move the air in one room.
+	12
+	That's why Spin360 was created. It's a 360 air circulator, made for nurseries.
+	  
+
+	Product reveal. Spin360 standing on the floor by the window, away from the crib, morning light. The pregnant mom kneels next to it, just set it up, pleased. Show the whole product.
+	13
+	It pulls air in from the top and the bottom and moves the whole room, so that carbon dioxide doesn't sit on your baby's face anymore. So your baby breathes easier. Fresh, oxygenated air, all night long.
+	  
+
+	The mechanism. Overhead view of the whole room at night: Spin360 in the corner pulls air in at the top and bottom and sends it out 360°, one big current sweeping every wall, every corner and across the crib, lifting the last grey haze off the baby. Animate the blue ribbons circling the room.
+	13 (b)
+	(continues line 13)
+	  
+
+	The shot Charlie asked for most: close-up of the baby at the moment of relief. The last grey wisps dissolve into blue air, the face relaxes, a soft breath, almost a smile. Hold 2 s.
+	14
+	But it's gentle. No strong wind blasting in their face. Just a soft breeze through the whole room. It's made to feel like an open window.
+	  
+
+	Gentle. Close-up of the baby's hair barely moving in the breeze, the sheer curtain swaying behind, Spin360 out of focus in the corner. Morning light. "Like an open window."
+	15
+	And that healthier air makes a difference fast, What parents tell us the most is that their babies went from sleeping two hours to five. And it's whisper quiet, so it won't wake them.
+	  
+
+	Mom (after the birth) deeply asleep in her own bed. The monitor on the nightstand shows the baby sleeping calmly; the clock glows in the middle of the night. Note: the monitor screen shows a "Spin360" label — cover or replace it in the edit.
+	16
+	But in the end, here's what really matters: in those first nights, when you get up at 3 a.m. to check on your baby, you'll open the door, feel that soft breeze, and they'll be right there, sound asleep, breathing easy. And you'll go back to bed and actually sleep too.
+	  
+
+	The emotional climax. 3 a.m.: mom opens the nursery door, the breeze moves her hair, she sees the baby sleeping peacefully, Spin360 running in the corner, away from the crib. Relief on her face. Slow push-in to her face.
+	17
+	It's built to last over ten years, so it grows with your child. From the nursery all the way to the big-kid room.
+	  
+
+	Time jump: the same Spin360 in a big-kid room, the child (about 6) asleep in bed. It grows with them. Optional on-screen text: 10+ years.
+	18
+	Look, it's not cheap. But you just spent hundreds on a crib and a baby monitor. This is what keeps the air they breathe moving.
+	  
+
+	The nursery essentials side by side: the crib with the monitor above it, and Spin360 by the window. The pregnant mom rests her hand on top of the Spin360. As basic as the crib.
+	19
+	Now you know. Don't let your baby spend even one night in still air. Get Spin360 before your baby comes home.
+	  
+
+	Closes mirroring the hook: the pregnant mom in the finished nursery at golden hour, next to the crib, hand on her belly, Spin360 running in the corner, curtains moving, light-blue air drifting through the room. Calm and ready. CTA: hold at least 2 s with the product visible.

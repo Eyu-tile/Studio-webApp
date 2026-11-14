@@ -1,0 +1,407 @@
+{
+ "batch": "batch_017",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_017.out.json",
+ "clips": [
+  {
+   "id": "9d9a4785-9914-44fd-a4a9-bdfc5ae22a3f",
+   "filename": "IMG_3783.mov",
+   "folder": "(unfiled)",
+   "duration_s": 20.78,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9d9a4785-9914-44fd-a4a9-bdfc5ae22a3f_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9d9a4785-9914-44fd-a4a9-bdfc5ae22a3f_2.jpg"
+   ],
+   "bya_description": "A hand uses a remote to operate a pedestal fan in a kitchen.",
+   "bya_tags": [
+    "Fan controls",
+    "Product hero shot",
+    "Turning fan on",
+    "Fan controls",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "36bde50c-43d6-49c6-a02e-b9ae9f125626",
+   "filename": "IMG_2492.MOV",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 20.93,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/36bde50c-43d6-49c6-a02e-b9ae9f125626_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/36bde50c-43d6-49c6-a02e-b9ae9f125626_2.jpg"
+   ],
+   "bya_description": "Medium shot of the children at the table. The girl continues drawing while the boy looks toward the camera and then back at the paper. Then a girl in a green dress draws on a paper roll at a small table while a boy sits nearby. A black tower fan stands next to them in a room with large windows.",
+   "bya_tags": [
+    "Gathering around",
+    "Lifestyle moment",
+    "Playing with kids",
+    "Gathering around",
+    "Lifestyle moment",
+    "Playing with kids",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "3ae65f48-d6b3-4d3c-84cd-56be7c137b6b",
+   "filename": "kids playing uncomfortably.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 20.57,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3ae65f48-d6b3-4d3c-84cd-56be7c137b6b_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3ae65f48-d6b3-4d3c-84cd-56be7c137b6b_2.jpg"
+   ],
+   "bya_description": "A boy sits on a rug in a living room, opening a blue book and flipping through pages while occasionally rubbing his face.",
+   "bya_tags": [
+    "Living room",
+    "Playing with kids",
+    "Relaxing at home",
+    "Living room",
+    "Playing with kids",
+    "Relaxing at home"
+   ],
+   "transcript": [
+    {
+     "start": 5.5,
+     "text": "Okay, a little bit less dramatic. All right, quit fanning and just look like, uh,",
+     "labels": [
+      "Living room",
+      "Relaxing at home",
+      "Playing with kids"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f26df313-d345-4899-80dc-f23ef72804f7",
+   "filename": "open window at night",
+   "folder": "Spin360 - Avery",
+   "duration_s": 20.57,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f26df313-d345-4899-80dc-f23ef72804f7_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f26df313-d345-4899-80dc-f23ef72804f7_2.jpg"
+   ],
+   "bya_description": "A woman in a white t-shirt and pink shorts enters the frame and opens the window sash. Then a dark window at night is framed by navy blue curtains in a bedroom.",
+   "bya_tags": [
+    "Bedroom",
+    "Curtains & windows",
+    "Rubbing face",
+    "Bedroom",
+    "Curtains & windows",
+    "Rubbing face",
+    "Unhappy expression"
+   ]
+  },
+  {
+   "id": "c2b7f7a8-5c4d-4c4e-b4df-9eeeedf1b8d6",
+   "filename": "sitting on sofa relaxed.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 20.33,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c2b7f7a8-5c4d-4c4e-b4df-9eeeedf1b8d6_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c2b7f7a8-5c4d-4c4e-b4df-9eeeedf1b8d6_2.jpg"
+   ],
+   "bya_description": "A woman in a black jumpsuit sits on a grey couch in a sunlit living room. She adjusts her hair and looks around before standing up to leave.",
+   "bya_tags": [
+    "Adjusting hair",
+    "Living room",
+    "Relaxing at home",
+    "Adjusting hair",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "2808d282-fecc-4897-84d1-d342c21c25fd",
+   "filename": "copy_BA91B365-647F-4205-BB76-AB459E1F54DE.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 20.2,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/2808d282-fecc-4897-84d1-d342c21c25fd_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/2808d282-fecc-4897-84d1-d342c21c25fd_2.jpg"
+   ],
+   "bya_description": "Dog rests on a grey sofa near a white pedestal fan.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "4a01bbd5-dc26-43e4-b10a-b15a48c29240",
+   "filename": "Movie night sit down exhale",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 18.34,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4a01bbd5-dc26-43e4-b10a-b15a48c29240_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4a01bbd5-dc26-43e4-b10a-b15a48c29240_2.jpg"
+   ],
+   "bya_description": "A man in a light blue denim shirt and black pants walks toward a couch in a dimly lit living room.",
+   "bya_tags": [
+    "Living room",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "223ffd2e-b7d7-4c1d-ae5a-5e064e966cb4",
+   "filename": "Sleeping peacefully ",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 20.6,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/223ffd2e-b7d7-4c1d-ae5a-5e064e966cb4_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/223ffd2e-b7d7-4c1d-ae5a-5e064e966cb4_2.jpg"
+   ],
+   "bya_description": "A person lies in a bed under white covers in a dark bedroom. They shift their position slightly while sleeping as a tall, dark fan stands on a bedside table in the background.",
+   "bya_tags": [
+    "Bedroom",
+    "Sleeping",
+    "Bedroom",
+    "Sleeping"
+   ]
+  },
+  {
+   "id": "62ba2a6a-8d1c-4553-ac2c-b17a16fbcd74",
+   "filename": "Top and bottom intake",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 19.41,
+   "talking": false,
+   "cuts": [
+    3.3,
+    7.77,
+    14.13
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/62ba2a6a-8d1c-4553-ac2c-b17a16fbcd74_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/62ba2a6a-8d1c-4553-ac2c-b17a16fbcd74_2.jpg"
+   ],
+   "bya_description": "Low-angle shot looking up at the underside of the fan head. The internal blades spin rapidly behind a slatted black plastic casing. Then extreme close-up of a black fan's honeycomb mesh cover. The blades are visibly spinning behind the grill.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Digital display",
+    "Product close-up",
+    "Digital display",
+    "Fan spinning close-up",
+    "Product close-up"
+   ]
+  },
+  {
+   "id": "c5af2921-2191-4ffa-8edd-eeb0427996f5",
+   "filename": "IMG_9719.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 19.78,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c5af2921-2191-4ffa-8edd-eeb0427996f5_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c5af2921-2191-4ffa-8edd-eeb0427996f5_2.jpg"
+   ],
+   "bya_description": "A woman in a plaid shirt and green cargo pants sits on a bed in a green-walled bedroom, unboxing a Spin360 Fan. She opens the cardboard box, removes several instruction manuals and plastic-wrapped components, and holds them up to the camera while facing the camera.",
+   "bya_tags": [
+    "Assembly or setup",
+    "Bedroom",
+    "Home testimonial",
+    "Assembly or setup",
+    "Bedroom",
+    "Home testimonial",
+    "Lifting box",
+    "Removing plastic wrap"
+   ]
+  },
+  {
+   "id": "d986e966-fc33-4973-b5e4-70ded99f25e4",
+   "filename": "IMG_9720.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 20.05,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d986e966-fc33-4973-b5e4-70ded99f25e4_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d986e966-fc33-4973-b5e4-70ded99f25e4_2.jpg"
+   ],
+   "bya_description": "A person's hands reach into a cardboard shipping box to remove the protective cardboard inserts and plastic wrap from a black Spin360 Fan. They lift the fan out of the box, rotating it to show the circular grill and the base while it is still partially covered in plastic film.",
+   "bya_tags": [
+    "Lifting box",
+    "Product in hand",
+    "Removing plastic wrap",
+    "Lifting box",
+    "Product in hand",
+    "Removing plastic wrap",
+    "Unboxing"
+   ]
+  },
+  {
+   "id": "db44e832-d9f9-4109-a99f-3b57bffd39dd",
+   "filename": "IMG_9725.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 17.16,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/db44e832-d9f9-4109-a99f-3b57bffd39dd_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/db44e832-d9f9-4109-a99f-3b57bffd39dd_2.jpg"
+   ],
+   "bya_description": "A black Spin360 Fan stands on a carpeted floor in a living room, positioned next to a brown couch. The camera slowly pans around the fan, showing its cylindrical grill and base while it remains stationary.",
+   "bya_tags": [
+    "Lifestyle moment",
+    "Living room",
+    "Product on surface",
+    "Lifestyle moment",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "3d1337c2-c472-42a1-b3ad-8da4184d7c2f",
+   "filename": "IMG_9729.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 19.91,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3d1337c2-c472-42a1-b3ad-8da4184d7c2f_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3d1337c2-c472-42a1-b3ad-8da4184d7c2f_2.jpg"
+   ],
+   "bya_description": "The camera pans slowly across a bedroom, starting from a bed with a patterned grey and white duvet and moving towards a black Spin360 Fan standing on the carpet. The fan is in operation, with its internal blades spinning behind a silver metal grill. In the background, a green wall features a dark leaf-shaped metal art piece, and a wooden nightstand with a lamp and a framed picture is visible as th",
+   "bya_tags": [
+    "Bedroom",
+    "Device in operation",
+    "Product hero shot",
+    "Bedroom",
+    "Device in operation"
+   ]
+  },
+  {
+   "id": "a03f11ea-0500-4a71-85c2-9a4f29526a39",
+   "filename": "IMG_9748.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 16.32,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a03f11ea-0500-4a71-85c2-9a4f29526a39_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a03f11ea-0500-4a71-85c2-9a4f29526a39_2.jpg"
+   ],
+   "bya_description": "A low-angle close-up shows a dark brown Spin360 Fan standing against a plain wall. A hand with pink nail polish repeatedly places a white tissue against the bottom intake grill of the fan, where the suction holds the tissue in place, demonstrating the airflow intake.",
+   "bya_tags": [
+    "Device in operation",
+    "Result demonstration",
+    "Visible airflow test",
+    "Device in operation",
+    "Result demonstration",
+    "Visible airflow test"
+   ],
+   "transcript": [
+    {
+     "start": 1.1,
+     "text": "Right here. Mommy, thank you, Mommy. You're welcome.",
+     "labels": [
+      "Visible airflow test",
+      "Device in operation",
+      "Result demonstration"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "55969f65-c39f-490a-846c-7b0ff25149e3",
+   "filename": "IMG_9753.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 19.01,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/55969f65-c39f-490a-846c-7b0ff25149e3_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/55969f65-c39f-490a-846c-7b0ff25149e3_2.jpg"
+   ],
+   "bya_description": "A top-down, close-up shot of the Spin360 Fan running on a carpeted floor. The camera slowly moves closer to the black mesh grill, showing the internal blades spinning rapidly. A person's feet with blue nail polish are visible at the bottom of the frame for the first few seconds before the camera zooms in further on the fan's top surface and central hub.",
+   "bya_tags": [
+    "Device in operation",
+    "Fan spinning close-up",
+    "Device in operation",
+    "Fan spinning close-up"
+   ]
+  },
+  {
+   "id": "b343fd03-2c3b-4c8a-82d6-313087581188",
+   "filename": "IMG_9757.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 18.1,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b343fd03-2c3b-4c8a-82d6-313087581188_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b343fd03-2c3b-4c8a-82d6-313087581188_2.jpg"
+   ],
+   "bya_description": "A black Spin360 Fan stands on a patterned rug in a living room. The camera slowly pans around the fan, showing its circular base, tall stand, and the cylindrical head with a mesh top and horizontal grill design. The fan is running, with its internal components visibly spinning behind the grill.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Living room",
+    "Product on surface",
+    "Fan spinning close-up",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "697a541b-c0cd-41fa-a355-a80d78c3ffea",
+   "filename": "IMG_9760.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 20.51,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/697a541b-c0cd-41fa-a355-a80d78c3ffea_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/697a541b-c0cd-41fa-a355-a80d78c3ffea_2.jpg"
+   ],
+   "bya_description": "A woman with long dark hair in a striped t-shirt sits in a living room, holding a large white tower fan. She looks at the camera and faces the camera while gesturing with the fan, which is blowing her hair back to demonstrate its airflow. She occasionally looks at the fan and adjusts her grip on its side.",
+   "bya_tags": [
+    "Feeling the breeze",
+    "Living room",
+    "Product in hand",
+    "Feeling the breeze",
+    "Living room",
+    "Product in hand"
+   ]
+  },
+  {
+   "id": "d53073a7-9337-4a93-9823-075b3ecc7451",
+   "filename": "IMG_9761.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 20.55,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d53073a7-9337-4a93-9823-075b3ecc7451_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d53073a7-9337-4a93-9823-075b3ecc7451_2.jpg"
+   ],
+   "bya_description": "A woman in a striped t-shirt sits on the floor in a living room, faces the camera. To her right, a white box fan is running on a wooden stand, blowing her hair as she gestures toward it and adjusts her hair repeatedly.",
+   "bya_tags": [
+    "Adjusting hair",
+    "Device in operation",
+    "Feeling the breeze",
+    "Adjusting hair",
+    "Device in operation",
+    "Feeling the breeze",
+    "Living room"
+   ]
+  }
+ ]
+}

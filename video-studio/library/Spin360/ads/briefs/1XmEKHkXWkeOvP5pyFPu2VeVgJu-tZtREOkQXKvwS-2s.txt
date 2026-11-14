@@ -1,0 +1,270 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_Eyasu_Sarcastic_V2
+Author: Chris
+Editor: Shiv 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID:Spin360_Eyasu_Sarcastic_V2
+* Ad Type: Iteration
+* Type of Ad: Anti fan, sarcastic 
+* Sizes Needed: 9x16
+* Voiceover: Man (35-65) - Confident Calm  
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+
+
+
+
+________________
+ 
+[2] Direction
+* This is revamping the original sarcastic video to get better results. 
+* Original Ad Link 
+
+
+________________
+ 
+[3] Strategy
+Who is this for [Avatar]: 
+Main Selling Points: 360 degree airflow, feels like a natural breeze, sleep, scent pods 
+Market Awareness: Unaware 
+Desires: Health  
+Angle: 
+ 
+________________
+
+
+[4] Creative Direction
+Angle: 
+* Better use of imagery to create retention throughout the video. 
+* Good Storytelling -> You need to convince people about bad air quality and that the fan is the solution. 
+* VIBE
+* Calm, Smooth and Interesting. A lot of these edits lately have been too fast. 
+
+
+
+
+ 
+________________
+
+
+[5] Script
+
+
+
+ 
+________________
+[6] Shotlist / Storyboard
+
+
+HOOKS
+	HOOK
+	Script
+	Visual
+	Description
+	1
+	“Why does the most expensive fan you will ever see suck?”
+	  
+  
+
+	Hook 1: Woman spraying the fan, into the shot of the fan + animation on top. 
+
+
+Hold the second shot until the narration says “suck”
+	2
+	“Why does the most expensive fan you will ever see suck?”
+	  
+  
+
+	Hook 2: Woman Holding fan blade, into the shot of the fan + animation on top. 
+Hold the second shot until the narration says “suck”
+
+
+	3
+	“Why does the most expensive fan you will ever see suck?”
+	  
+  
+
+	Hook 3: David Pointing, then woman spraying. 
+
+
+Video Link Here 
+
+
+Hold the second shot until the narration says “suck”
+
+
+	4
+	“Why does the most expensive fan you will ever see suck?”
+	  
+  
+
+	Hook 4: Start with the shot of the woman standing and fan changing sizes.  Into fan shot with animation 
+Hold the second shot until the narration says “suck”
+
+
+	5
+	“Why does the most expensive fan you will ever see suck?”
+	  
+  
+
+	Hook 4: Start with the shot of the man standing and fan changing sizes. Into fan shot with animation
+
+
+Hold the second shot until the narration says “suck”
+ 
+	 
+BODY
+	Script
+	Visual
+	Description
+	#4 will actually make you mad 
+	  
+
+	Use this shot to show intrigue, trying to hold attention. 
+	“So we tested this fan and yeah, it’s kind of a problem 
+	
+
+	Sequence from Utah shoot, them relaxing, in front of fan, close up of fan, then a shot of them alseep. 
+
+Trying to show why it’s a problem! Why? Because it’s so good. 
+	“First it creates a smooth breeze from every angle. 
+	
+
+	Shot / animation of the fan spreading air in 360 degrees. 
+	“Not that face slapping blast from old fans” 
+	
+
+	Use real footage of guy getting papers blown off, not AI 
+	“No more wait your turn airflow” 
+	
+
+	Use AI shot Gabriel made of people standing around fan, illustrates it well 
+
+BUT make it desatured (black and white) so it has a negative connotation to it. 
+	“Second it’s so quite you forget it’s even on” 
+	
+
+	Use decibel meter footage “Chris will get this and add LINK 
+	….stale air and bug bites build character. 
+	
+
+	This sequence is OK,  but add a pause in the VO after he says Character, it feels like a run on sentence right now. 
+	“Inventeed the wheel on Shark Tank 
+	
+
+	Show David first, before Mark Cuban, ect. 
+
+Make the audio transition smoother, add some sound effect to smooth it out. 
+	“Now he’s coming for fans” 
+	
+
+	Add some shots (photos) of him working with the manufacturers / prototype images. 
+
+Show that he’s building / designing them. 
+	0:44 
+	
+
+	Show more images of the fan, not David talking here. Utah footage 
+	END 
+	
+
+	Add swoosh sound, add vignette to white backcountry. Try to make it look cooler. 
+
+Example: 
+* Duplicate fan png, add 3D effect, rotate it so it’s like a mirror on the ground / sitting in a reflective pool, then add a blurr effect + lower opacity. 
+* Build a little world. 
+Example 
+  
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	* 	
+
+	
+
+	* 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	 
+________________
+
+
+[7] Editing Rules
+* First 3 seconds must be FAST (no pauses)
+* No dead air in video—unless it's intentional
+* No clip longer than 2 seconds in first 10 seconds
+* Add captions for entire video
+* Each visual clip MUST complement the audio to help the audience understand what is happening
+* Editor must add sound design
+* Use Speed Ramps when needed and Add Blur
+* The mixing demo should be HIGH QUALITY and clearly visible—this is the hero visual
+* Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+* Lifestyle shots should target middle-aged/older women—avoid young, overly trendy aesthetics
+
+
+ 
+________________
+
+
+[8] Deliverables
+• Versions: 7 total (V1-V7, one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels), 4:5 (Feed)
+• File Naming Convention: Spin360_AirMixing_Woman_V1_HOOK1, Spin360_AirMixing_Woman_V1_HOOK2, etc.
+• Upload Location: Creative Roadmap

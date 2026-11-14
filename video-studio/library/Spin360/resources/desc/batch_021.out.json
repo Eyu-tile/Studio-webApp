@@ -1,0 +1,491 @@
+[
+{
+ "id": "15b2b7f0-bbc6-4b4d-b621-c6ff7b429f4a",
+ "kind": "ugc_broll",
+ "summary": "Static wide of Avery reading a green book on her bed in a lamp-lit bedroom with a cat stretched out, white Spin360 standing by the bed; she gets up and walks out at the end.",
+ "people": [{"who": "woman, 30s, long dark brown hair (Avery)", "wardrobe": "white cardigan, black top and pants", "role": "creator"}],
+ "product": {"visible": "full", "colourway": "white", "on": null, "details_seen": ["cage", "display", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "evening", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 20.5, "camera": "static", "framing": "wide", "action": "woman sits cross-legged against headboard reading, cat lies stretched on the grey floral duvet, white unit in corner left of bed", "on_screen_text": "", "audio_hint": ""},
+  {"start": 20.5, "end": 22.7, "camera": "static", "framing": "wide", "action": "she gets off the bed and walks past camera carrying the book", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 1.0, "end": 12.0, "why": "calm cosy reading moment with cat and fan in frame"},
+ "beats": ["lifestyle_reading_relaxing", "pets", "room_aesthetic"],
+ "hook_potential": {"score": 0, "why": "very little happens"},
+ "brand_fit": {"score": 2, "why": "calm cosy evening, but dark navy curtains, ordinary room, fan small in frame"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["woman reading in bed", "cat on bed", "evening bedroom", "lamp light", "white fan by bed", "relaxing night routine"]
+},
+{
+ "id": "4adb063c-634a-479a-baff-df9a1f405b40",
+ "kind": "ugc_broll",
+ "summary": "Avery carries a short white Spin360 into frame against a white wall and playfully turns, tilts and hugs it to show it off.",
+ "people": [{"who": "woman, 30s, long dark brown hair in ponytail (Avery)", "wardrobe": "black strappy jumpsuit, gold necklace and bracelets", "role": "creator"}],
+ "product": {"visible": "hero", "colourway": "white", "on": false, "details_seen": ["cage", "gold halo", "display", "base", "top grille", "yellow warning sticker on pole", "underside of base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.0, "camera": "static", "framing": "medium", "action": "empty white wall by door frame", "on_screen_text": "", "audio_hint": ""},
+  {"start": 4.0, "end": 12.0, "camera": "static", "framing": "medium", "action": "she swings the short white unit into frame, cradles it, tilts it to show cage and display", "on_screen_text": "", "audio_hint": ""},
+  {"start": 12.0, "end": 23.0, "camera": "static", "framing": "medium", "action": "hides face behind it, laughs, shows top grille and black underside of base, presents it front-on", "on_screen_text": "", "audio_hint": ""},
+  {"start": 23.0, "end": 24.8, "camera": "static", "framing": "extreme close", "action": "hand covers the lens, frame goes dark red", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 13.5, "end": 18.0, "why": "fun reveal: product held centre, she laughs and smiles"},
+ "beats": ["product_hero", "reaction_face", "unboxing"],
+ "hook_potential": {"score": 2, "why": "playful 'meet my new fan' reveal, laugh at 14.6s"},
+ "brand_fit": {"score": 1, "why": "plain wall, product shown as short unit and handled like a toy"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "CAUTION", "status_why": "short tabletop Spin360 is the whole subject; yellow warning sticker visible on pole",
+ "tags": ["woman holding fan", "product reveal", "short white unit", "laughing", "hugging fan", "showing base", "white wall"]
+},
+{
+ "id": "ede174d6-e5da-435b-ba5d-fd36a9a2711c",
+ "kind": "ugc_broll",
+ "summary": "Overhead view of a white Spin360 top cap: hands lift the centre lid, open a gold 'Lux' scent pod, drop the yellow pad into the well and close the lid.",
+ "people": [{"who": "woman's hands, rings and gold bracelet", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "partial", "colourway": "white", "on": false, "details_seen": ["top grille", "scent well under lid", "scent pod Lux label", "cage", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "other", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 3.0, "camera": "static", "framing": "close", "action": "top of white unit from above, centre lid closed", "on_screen_text": "", "audio_hint": ""},
+  {"start": 3.0, "end": 8.0, "camera": "static", "framing": "close", "action": "hand removes lid; second hand shows sealed gold Spin360 Lux pod", "on_screen_text": "", "audio_hint": ""},
+  {"start": 8.0, "end": 13.5, "camera": "static", "framing": "close", "action": "peels open pod, takes out yellow scent pad, drops it into the round well", "on_screen_text": "", "audio_hint": ""},
+  {"start": 13.5, "end": 21.5, "camera": "static", "framing": "close", "action": "puts lid back and presses it down", "on_screen_text": "", "audio_hint": ""},
+  {"start": 21.5, "end": 23.4, "camera": "static", "framing": "close", "action": "clean top view, lid closed", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 3.0, "end": 13.5, "why": "full scent pod step: show pod, open, drop pad in"},
+ "beats": ["scent_tray"],
+ "hook_potential": {"score": 1, "why": "clear how-to, satisfying drop-in"},
+ "brand_fit": {"score": 2, "why": "clean white product macro; plain wall and wood floor"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["scent pod drop in", "overhead top view", "lux pod", "yellow scent pad", "remove lid", "hands", "white unit"]
+},
+{
+ "id": "0bdaf38b-f995-4f05-8117-a440a5a29ebd",
+ "kind": "ugc_broll",
+ "summary": "Overhead shot of Avery lying awake in bed under a cream blanket, sighing, hand on forehead and face, unable to sleep.",
+ "people": [{"who": "woman, 30s, long dark brown curly hair (Avery)", "wardrobe": "white t-shirt", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "night", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 6.0, "camera": "static", "framing": "medium", "action": "camera settles; she stares at the ceiling with blanket up to chest", "on_screen_text": "", "audio_hint": ""},
+  {"start": 6.0, "end": 14.0, "camera": "static", "framing": "medium", "action": "arm over head, hand on forehead, sighs, mouth open", "on_screen_text": "", "audio_hint": ""},
+  {"start": 14.0, "end": 23.6, "camera": "static", "framing": "medium", "action": "rubs cheek, rests hand on chest, blank tired stare", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 10.0, "end": 14.0, "why": "clearest frustrated hand-on-forehead stare at ceiling"},
+ "beats": ["hot_sleeper_problem", "sweaty_discomfort", "reaction_face"],
+ "hook_potential": {"score": 2, "why": "relatable 'can't sleep' open"},
+ "brand_fit": {"score": 1, "why": "problem shot, warm dim light"},
+ "quality": {"score": 2, "issues": ["blurry", "shaky"]},
+ "status": "OK", "status_why": "",
+ "tags": ["can't sleep", "staring at ceiling", "woman in bed overhead", "hand on forehead", "insomnia", "hot night", "frustrated"]
+},
+{
+ "id": "5b770329-d719-4655-bf26-7e185772c62a",
+ "kind": "ugc_broll",
+ "summary": "Handheld close-up of hands unscrewing and re-screwing the black Spin360 pole sections into the round base on carpet.",
+ "people": [{"who": "woman's hands, pink nails", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "partial", "colourway": "black", "on": false, "details_seen": ["base", "pole", "threaded pole joint", "white rating label on pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 9.5, "camera": "handheld", "framing": "close", "action": "hands twist the middle pole joint", "on_screen_text": "", "audio_hint": ""},
+  {"start": 9.5, "end": 17.5, "camera": "handheld", "framing": "close", "action": "lifts pole out of base, shows the threaded end and socket in the base", "on_screen_text": "", "audio_hint": ""},
+  {"start": 17.5, "end": 27.3, "camera": "handheld", "framing": "close", "action": "screws pole back into base and tightens upper joint", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 10.4, "end": 19.5, "why": "shows threaded pole going into base"},
+ "beats": ["assembly"],
+ "hook_potential": {"score": 0, "why": "functional how-to only"},
+ "brand_fit": {"score": 1, "why": "carpet, wall outlet and cables in frame"},
+ "quality": {"score": 2, "issues": ["shaky", "vertical crop risk"]},
+ "status": "OK", "status_why": "rating label on pole is unreadable at this size; check for phone/service info before close use",
+ "tags": ["assembly", "screwing pole into base", "black pole", "easy setup", "hands", "carpet floor"]
+},
+{
+ "id": "b9e2bb89-102f-4b9d-8c7a-04c5d2c38c97",
+ "kind": "ugc_broll",
+ "summary": "Static side shot in a dim sage-green bedroom of a woman tossing and turning, kicking off and pulling back a striped duvet.",
+ "people": [{"who": "woman, 30s-40s, brown hair in bun", "wardrobe": "black-white striped tee, grey shorts", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "night", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 29.7, "camera": "static", "framing": "wide", "action": "she lies under duvet, flings it off (5s, 11s, 20s, 23.6s), rolls, rubs face, sprawls on top of sheets", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 3.5, "end": 12.5, "why": "two clear duvet kick-offs and restless rolling"},
+ "beats": ["hot_sleeper_problem", "sweaty_discomfort"],
+ "hook_potential": {"score": 2, "why": "visible tossing/kicking off covers reads instantly as 'too hot to sleep'"},
+ "brand_fit": {"score": 1, "why": "dark, ordinary bedroom, problem shot"},
+ "quality": {"score": 2, "issues": ["dark", "blurry"]},
+ "status": "OK", "status_why": "",
+ "tags": ["tossing and turning", "kicking off duvet", "too hot to sleep", "dark bedroom", "striped duvet", "sage green walls", "restless night"]
+},
+{
+ "id": "c730869f-7203-4f12-a36d-24702f6f76ed",
+ "kind": "ugc_talking_head",
+ "summary": "Vicky opens a plain 'Electric Fans' shipping box on a kitchen island and struggles to get the fan out.",
+ "people": [{"who": "woman, 50s-60s, long wavy silver hair (Vicky)", "wardrobe": "black sleeveless top, gold necklace", "role": "senior"}],
+ "product": {"visible": "glimpse", "colourway": "black", "on": false, "details_seen": ["box/packaging", "top of unit inside box"], "other_fans": ["ceiling fan"], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 10.4, "camera": "static", "framing": "medium", "action": "she opens box flaps, looks inside, tries to lift fan out", "on_screen_text": "box: 'Electric Fans'", "audio_hint": "'Sorry, I can't get it out.'"}
+ ],
+ "best": {"start": 0.0, "end": 6.0, "why": "box opening before the struggle"},
+ "beats": ["unboxing"],
+ "hook_potential": {"score": 0, "why": "outtake-style struggle"},
+ "brand_fit": {"score": 2, "why": "bright modern high-ceiling room, but box is plain cardboard"},
+ "quality": {"score": 2, "issues": []},
+ "status": "CAUTION", "status_why": "ceiling fan visible top-left (other fan); spoken line is an outtake",
+ "tags": ["unboxing", "opening box", "Electric Fans box", "senior woman", "silver hair", "kitchen island"],
+ "takes": [{"start": 0.9, "line": "Sorry, I can't get it out.", "delivery": "laugh", "energy": 1, "framing": "medium", "keep": false}],
+ "best_takes": [],
+ "speaker": {"look": "silver-haired senior woman, black sleeveless top", "setting": "bright open-plan living room, black accent wall, fireplace, wood windows, ceiling fan", "props": "cardboard 'Electric Fans' box"}
+},
+{
+ "id": "ccc4bdca-a2df-4c80-9fdb-f1121050a473",
+ "kind": "ugc_talking_head",
+ "summary": "Vicky leans on top of a black Spin360 and holds a scent pod to camera while delivering three versions of a 'smells like a 5-star hotel' hook.",
+ "people": [{"who": "woman, 50s-60s, long wavy silver hair (Vicky)", "wardrobe": "black short-sleeve top, cream trousers, pink nails", "role": "senior"}],
+ "product": {"visible": "partial", "colourway": "black", "on": null, "details_seen": ["cage", "top cover", "pole", "scent pod"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 33.6, "camera": "static", "framing": "medium", "action": "leans on fan head, holds pod up to lens on each take, smiles", "on_screen_text": "", "audio_hint": "three hook variants"}
+ ],
+ "best": {"start": 0.9, "end": 10.5, "why": "first hook, pod pushed to lens, strong 'holy grail' line"},
+ "beats": ["talking_to_camera", "scent_tray", "product_hero"],
+ "hook_potential": {"score": 3, "why": "'5-star luxury hotel' smell + friends compliment, pod held to lens"},
+ "brand_fit": {"score": 2, "why": "bright white living room; TV and clutter-free but fan cropped"},
+ "quality": {"score": 2, "issues": ["blurry"]},
+ "status": "CAUTION", "status_why": "superlatives: 'my absolute holy grail', 'smell like a 5-star luxury hotel', 'it's the first thing they compliment'",
+ "tags": ["scent pod to camera", "luxury hotel smell", "senior woman", "leaning on fan", "home scent hook", "guests compliment"],
+ "takes": [
+  {"start": 0.9, "line": "This has become my absolute holy grail for making my house smell like a 5-star luxury hotel…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 10.9, "line": "This is my new obsession for making my house smell like a 5-star luxury hotel…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 21.5, "line": "I finally figured out the trick to making my home smell like a 5-star luxury hotel…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.9, 10.9, 21.5],
+ "speaker": {"look": "silver-haired senior woman, black top", "setting": "white living room, fireplace, TV, black built-in shelves", "props": "black Spin360 (leaning on head), scent pod"}
+},
+{
+ "id": "ed08f12d-08b7-4e7a-aaf8-8a861639adf5",
+ "kind": "ai_generated",
+ "summary": "AI-generated brunette in a red cardigan talks to camera in front of a black slat wall, opening with a 'quiet summer evening breeze' hook.",
+ "people": [{"who": "woman, 30s, long brown hair (AI; looks like the Kylie lookalike set-up)", "wardrobe": "red cardigan, white tee", "role": "actor"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 7.3, "camera": "static", "framing": "medium", "action": "seated on cream sofa, speaks and gestures with one hand; black slat wall, gold picture lights, abstract art", "on_screen_text": "", "audio_hint": "summer evening hook"}
+ ],
+ "best": {"start": 0.8, "end": 7.3, "why": "the whole line"},
+ "beats": ["talking_to_camera"],
+ "hook_potential": {"score": 2, "why": "sensory nostalgic opener"},
+ "brand_fit": {"score": 2, "why": "styled modern room; no product"},
+ "quality": {"score": 2, "issues": ["AI artefacts"]},
+ "status": "CAUTION", "status_why": "AI-generated person",
+ "tags": ["AI talking head", "red cardigan", "black slat wall", "summer evening breeze hook", "nostalgic"],
+ "takes": [{"start": 0.8, "line": "You know what, when you're outside on a quiet summer evening…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}],
+ "best_takes": [0.8],
+ "speaker": {"look": "AI brunette, red cardigan over white tee", "setting": "black slat wall, gold picture lights, abstract line art, cream sofa", "props": "none"}
+},
+{
+ "id": "4cffa992-94b9-4da6-8f71-8a332cf3366f",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren, close selfie in front of tall wood-frame windows with forest view, gives two takes of the '7:45 PM and still 90 degrees' hook.",
+ "people": [{"who": "woman, 40s, short blonde hair tucked back (Lauren)", "wardrobe": "brown tank top, gold necklace", "role": "creator"}],
+ "product": {"visible": "glimpse", "colourway": "black", "on": null, "details_seen": ["cage edge"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "evening", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 14.5, "camera": "selfie", "framing": "medium", "action": "take 1, gestures with hands", "on_screen_text": "", "audio_hint": ""},
+  {"start": 14.5, "end": 25.3, "camera": "selfie", "framing": "close", "action": "camera repositioned closer; take 2, smiles at end", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 15.0, "end": 25.3, "why": "closer framing, livelier delivery"},
+ "beats": ["talking_to_camera", "hot_sleeper_problem"],
+ "hook_potential": {"score": 3, "why": "specific time + heat + 'everyone knocked out except me' curiosity"},
+ "brand_fit": {"score": 3, "why": "sunlit room, big windows onto forest and hillside"},
+ "quality": {"score": 3, "issues": []},
+ "status": "CAUTION", "status_why": "sleep claim: 'every single person in this house is knocked out… That is not luck'",
+ "tags": ["hook", "90 degrees outside", "everyone asleep", "forest view windows", "blonde woman", "selfie"],
+ "takes": [
+  {"start": 1.3, "line": "It is 7:45 PM and it is still 90 degrees outside…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 15.0, "line": "It is 7:45 PM and it is still 90 degrees outside…", "delivery": "clean", "energy": 3, "framing": "close", "keep": true}
+ ],
+ "best_takes": [15.0],
+ "speaker": {"look": "short blonde hair, brown tank, gold necklace", "setting": "Lauren's forest-view house, tall wood-framed windows, cream sofa", "props": "none"}
+},
+{
+ "id": "1b333be5-cfc6-48a5-84a5-79887ad8d2b0",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren in a white tank delivers five takes of 'the first thing they notice is the smell', moving around her bright house between cuts.",
+ "people": [{"who": "woman, 40s, short blonde hair (Lauren)", "wardrobe": "white tank top, gold necklace", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 5.4, "camera": "selfie", "framing": "close", "action": "take 1 in front of framed US golf-course map and plant", "on_screen_text": "", "audio_hint": ""},
+  {"start": 5.4, "end": 11.8, "camera": "selfie", "framing": "close", "action": "take 2 by window and brass wall sconce", "on_screen_text": "", "audio_hint": ""},
+  {"start": 11.8, "end": 28.0, "camera": "selfie", "framing": "close", "action": "takes 3-5, map and front door, then window with trees view", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 17.4, "end": 22.8, "why": "brightest window/trees background, relaxed smile"},
+ "beats": ["talking_to_camera"],
+ "hook_potential": {"score": 2, "why": "'first thing they notice is the smell' relatable guest hook"},
+ "brand_fit": {"score": 2, "why": "airy, plants, trees outside; tight framing"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["guests notice smell hook", "home scent", "blonde woman", "white tank", "selfie", "plants"],
+ "takes": [
+  {"start": 0.5, "line": "When a guest walks into your house, the first thing they notice is the smell.", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 6.4, "line": "When a guest walks into your house…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 12.2, "line": "When a guest walks into your house…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 17.4, "line": "When a guest walks into your house…", "delivery": "clean", "energy": 3, "framing": "close", "keep": true},
+  {"start": 22.8, "line": "When a guest walks into your house…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true}
+ ],
+ "best_takes": [17.4],
+ "speaker": {"look": "short blonde hair, white tank, gold necklace", "setting": "Lauren's house: golf-course map, plant, wood door/windows, trees", "props": "none"}
+},
+{
+ "id": "e5602b7b-c700-468b-bc1f-cdf70fd3b5c8",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren in a white tank gives four takes of 'how I make sure my house smells amazing when guests come over' around her bright house.",
+ "people": [{"who": "woman, 40s, short blonde hair (Lauren)", "wardrobe": "white tank top, gold necklace", "role": "creator"}],
+ "product": {"visible": "glimpse", "colourway": "black", "on": null, "details_seen": ["cage edge"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 5.3, "camera": "selfie", "framing": "close", "action": "take 1 by golf-course map and plant", "on_screen_text": "", "audio_hint": ""},
+  {"start": 5.3, "end": 21.2, "camera": "selfie", "framing": "close", "action": "takes 2-3 by window and sconce; fan cage edge at left around 12s; pulls a face very close to lens around 18s", "on_screen_text": "", "audio_hint": ""},
+  {"start": 21.2, "end": 27.3, "camera": "selfie", "framing": "close", "action": "take 4 by window with trees and houses outside", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 22.5, "end": 27.3, "why": "big window, trees view, clean delivery"},
+ "beats": ["talking_to_camera"],
+ "hook_potential": {"score": 2, "why": "clear home-scent promise for guests"},
+ "brand_fit": {"score": 2, "why": "airy, green view; tight selfie"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["house smells amazing hook", "guests coming over", "blonde woman", "white tank", "window trees view"],
+ "takes": [
+  {"start": 0.4, "line": "This is how I make sure my house smells amazing when guests come over.", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 6.3, "line": "This is how I make sure my house smells amazing…", "delivery": "clean", "energy": 3, "framing": "close", "keep": true},
+  {"start": 11.3, "line": "This is how I make sure my house smells amazing…", "delivery": "stumble", "energy": 2, "framing": "close", "keep": false},
+  {"start": 22.5, "line": "This is how I make sure my house smells amazing…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true}
+ ],
+ "best_takes": [22.5],
+ "speaker": {"look": "short blonde hair, white tank, gold necklace", "setting": "Lauren's house: golf-course map, brass sconce, wood windows onto trees", "props": "none"}
+},
+{
+ "id": "0fb7cadb-ca22-4560-bba0-5d22315d3a9d",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren sits on her bed in a leopard dress, black Spin360 behind her, and gives three takes of 'this takes the walls off my house'.",
+ "people": [{"who": "woman, 40s, short blonde hair (Lauren)", "wardrobe": "leopard-print sleeveless dress", "role": "creator"}],
+ "product": {"visible": "partial", "colourway": "black", "on": null, "details_seen": ["cage", "pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.0, "camera": "selfie", "framing": "medium", "action": "her arm blocks the lens while setting up", "on_screen_text": "", "audio_hint": ""},
+  {"start": 4.0, "end": 14.8, "camera": "selfie", "framing": "medium", "action": "seated on striped bed, points up, smiles; black unit and plant behind, wicker chair, hat on wall", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 11.3, "end": 14.8, "why": "smiling, pointing, fan visible behind"},
+ "beats": ["talking_to_camera", "room_aesthetic"],
+ "hook_potential": {"score": 2, "why": "quirky 'takes the walls off my house' line"},
+ "brand_fit": {"score": 2, "why": "light boho bedroom with product in background"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["takes the walls off my house", "blonde woman leopard dress", "sitting on bed", "black fan in background", "boho bedroom"],
+ "takes": [
+  {"start": 0.7, "line": "I love saying this takes the walls off my house.", "delivery": "cut off", "energy": 1, "framing": "medium", "keep": false},
+  {"start": 5.6, "line": "I love saying this takes the walls off my house.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 11.3, "line": "I love saying this takes the walls off my house.", "delivery": "clean", "energy": 3, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [11.3],
+ "speaker": {"look": "short blonde hair, leopard dress", "setting": "Lauren's bedroom: striped bedding, wood door, wicker chair, hat on wall, plant", "props": "black Spin360 behind"}
+},
+{
+ "id": "9f845273-e0cb-42e0-ad04-4d878a7f10d4",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren on her bed in a leopard dress gives three takes of the 'inventor says it'll make you live longer, but he's not allowed to say that' hook.",
+ "people": [{"who": "woman, 40s, short blonde hair (Lauren)", "wardrobe": "leopard-print sleeveless dress", "role": "creator"}],
+ "product": {"visible": "partial", "colourway": "black", "on": null, "details_seen": ["cage", "pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 30.1, "camera": "selfie", "framing": "medium", "action": "seated, animated hand gestures, points back toward fan around 12s", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 11.2, "end": 21.5, "why": "gestures to fan, confident delivery"},
+ "beats": ["talking_to_camera"],
+ "hook_potential": {"score": 3, "why": "forbidden-claim curiosity hook"},
+ "brand_fit": {"score": 2, "why": "light bedroom, product behind"},
+ "quality": {"score": 3, "issues": []},
+ "status": "CAUTION", "status_why": "health/longevity claim: \"it's gonna make you live longer, but he's not allowed to say that for real\"",
+ "tags": ["live longer hook", "inventor claim", "not allowed to say", "blonde woman leopard dress", "bedroom"],
+ "takes": [
+  {"start": 0.3, "line": "The man who invented this fan loves to say it's gonna make you live longer…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 11.2, "line": "The man who invented this fan loves to say it's gonna make you live longer…", "delivery": "clean", "energy": 3, "framing": "medium", "keep": true},
+  {"start": 21.6, "line": "The man who invented this fan loves to say it's going to make you live longer…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [11.2],
+ "speaker": {"look": "short blonde hair, leopard dress", "setting": "Lauren's bedroom: wood door, wicker chair, plant", "props": "black Spin360 behind"}
+},
+{
+ "id": "50a39712-1391-44cd-a40e-a275030c1b94",
+ "kind": "ugc_talking_head",
+ "summary": "Second version of Lauren's 'make you live longer' hook on the bed in a leopard dress, three takes, slightly closer framing.",
+ "people": [{"who": "woman, 40s, short blonde hair (Lauren)", "wardrobe": "leopard-print sleeveless dress", "role": "creator"}],
+ "product": {"visible": "partial", "colourway": "black", "on": null, "details_seen": ["cage", "pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 29.3, "camera": "selfie", "framing": "close", "action": "seated, leans in, expressive hand gestures", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 20.5, "end": 29.3, "why": "tightest, cleanest wording"},
+ "beats": ["talking_to_camera"],
+ "hook_potential": {"score": 3, "why": "forbidden-claim curiosity hook"},
+ "brand_fit": {"score": 2, "why": "light bedroom, product behind"},
+ "quality": {"score": 3, "issues": []},
+ "status": "CAUTION", "status_why": "health/longevity claim: \"it's gonna make you live longer, but he's not allowed to say that for real\"",
+ "tags": ["live longer hook", "inventor claim", "blonde woman leopard dress", "bedroom", "V2"],
+ "takes": [
+  {"start": 0.2, "line": "The man who invented this fan loves to say it's gonna make you live longer… not really allowed…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 10.7, "line": "The man who invented this fan loves to say it's gonna make you live longer…", "delivery": "clean", "energy": 3, "framing": "close", "keep": true},
+  {"start": 20.5, "line": "The man who invented this fan loves to say it's gonna make you live longer…", "delivery": "clean", "energy": 3, "framing": "close", "keep": true}
+ ],
+ "best_takes": [20.5],
+ "speaker": {"look": "short blonde hair, leopard dress", "setting": "Lauren's bedroom: wood door, wicker chair, plant", "props": "black Spin360 behind"}
+},
+{
+ "id": "5b3ded90-6710-4fde-bfa8-2695a75fccd0",
+ "kind": "ugc_talking_head",
+ "summary": "Lauren on her bed in a leopard top, pointing back at the black Spin360, gives four takes of 'wildly different from any other fan I've had'.",
+ "people": [{"who": "woman, 40s, short blonde hair (Lauren)", "wardrobe": "leopard-print sleeveless top", "role": "creator"}],
+ "product": {"visible": "partial", "colourway": "black", "on": null, "details_seen": ["cage", "pole", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 21.3, "camera": "selfie", "framing": "medium", "action": "points over shoulder to fan, finger up, wide-eyed delivery; frame shifts slightly between takes", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 5.9, "end": 11.0, "why": "points up at fan clearly in frame, high energy"},
+ "beats": ["talking_to_camera", "cta_point"],
+ "hook_potential": {"score": 2, "why": "short punchy differentiation line"},
+ "brand_fit": {"score": 2, "why": "light boho bedroom, product behind"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "comparative: \"wildly different from any other fan I've had\"",
+ "tags": ["wildly different fan", "pointing at fan", "blonde woman leopard", "bedroom", "short hook"],
+ "takes": [
+  {"start": 0.9, "line": "This thing is wildly different from any other fan I've had.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 5.9, "line": "This thing is wildly different from any other fan I've had.", "delivery": "clean", "energy": 3, "framing": "medium", "keep": true},
+  {"start": 11.2, "line": "This thing is wildly different from any other fan I've had.", "delivery": "clean", "energy": 3, "framing": "close", "keep": true},
+  {"start": 16.6, "line": "This thing is wildly different from any other fan I've had.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [5.9],
+ "speaker": {"look": "short blonde hair, leopard top", "setting": "Lauren's bedroom: wood door, papasan chair, hat on wall, plant", "props": "black Spin360 behind"}
+},
+{
+ "id": "1c2a67d4-3a6a-4c88-b3fe-280254dcc439",
+ "kind": "ugc_broll",
+ "summary": "Avery in her green kitchen pours iced coffee into a jar, rubs her face in exhaustion and gulps it, then grabs the camera.",
+ "people": [{"who": "woman, 30s, dark hair in bun with scarf (Avery)", "wardrobe": "taupe knit cardigan, black dress", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "kitchen", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 5.0, "camera": "static", "framing": "medium", "action": "she walks back from camera to the counter", "on_screen_text": "", "audio_hint": "off-script chatter"},
+  {"start": 5.0, "end": 20.0, "camera": "static", "framing": "medium", "action": "pours coffee between jars, sad face, hands on cheeks, drinks", "on_screen_text": "", "audio_hint": ""},
+  {"start": 20.0, "end": 24.1, "camera": "handheld", "framing": "wide", "action": "camera picked up, points at ceiling", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 6.0, "end": 19.0, "why": "tired morning coffee pantomime"},
+ "beats": ["hot_sleeper_problem", "reaction_face"],
+ "hook_potential": {"score": 1, "why": "'running on coffee after bad sleep' problem"},
+ "brand_fit": {"score": 1, "why": "ordinary kitchen, no product"},
+ "quality": {"score": 2, "issues": ["shaky"]},
+ "status": "OK", "status_why": "",
+ "tags": ["tired morning", "coffee dependency", "rubbing face", "green kitchen", "drinking coffee", "exhausted"],
+ "takes": [
+  {"start": 0.4, "line": "You just took the ghost.", "delivery": "cut off", "energy": 1, "framing": "medium", "keep": false},
+  {"start": 4.8, "line": "I'm hitting it right there to where you can't see it…", "delivery": "cut off", "energy": 1, "framing": "medium", "keep": false}
+ ],
+ "best_takes": [],
+ "speaker": {"look": "Avery, dark hair in scarf bun, taupe cardigan", "setting": "Avery's green-cabinet kitchen, quartz counter", "props": "mason jars, iced coffee"}
+},
+{
+ "id": "d1c357ec-b3c9-4c18-96ef-2df5519e67a4",
+ "kind": "ugc_broll",
+ "summary": "Avery walks in front of a fiddle-leaf fig carrying a short white Spin360 tilted in her arms, smiles, and walks out.",
+ "people": [{"who": "woman, 30s, dark hair in ponytail (Avery)", "wardrobe": "black strappy jumpsuit", "role": "creator"}],
+ "product": {"visible": "full", "colourway": "white", "on": false, "details_seen": ["cage", "gold halo", "display", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 3.0, "camera": "static", "framing": "medium", "action": "empty: cream wall and fiddle-leaf fig", "on_screen_text": "", "audio_hint": "off-screen chatter"},
+  {"start": 3.0, "end": 10.0, "camera": "static", "framing": "medium", "action": "she carries the short white unit through frame, smiling down at it", "on_screen_text": "", "audio_hint": ""},
+  {"start": 10.0, "end": 13.8, "camera": "static", "framing": "medium", "action": "empty frame again", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 4.0, "end": 9.0, "why": "product carried in, smile"},
+ "beats": ["product_hero"],
+ "hook_potential": {"score": 1, "why": "simple carry-in"},
+ "brand_fit": {"score": 2, "why": "clean wall with big plant, natural light"},
+ "quality": {"score": 2, "issues": []},
+ "status": "CAUTION", "status_why": "short tabletop Spin360 is the subject",
+ "tags": ["carrying fan", "short white unit", "fiddle leaf fig", "walk in", "smiling"],
+ "takes": [{"start": 1.4, "line": "Me too. What? When did you go to the produce thing?", "delivery": "cut off", "energy": 1, "framing": "medium", "keep": false}],
+ "best_takes": [],
+ "speaker": {"look": "Avery, black jumpsuit", "setting": "cream wall, fiddle-leaf fig", "props": "short white Spin360"}
+},
+{
+ "id": "9ad1a047-69d9-4bb1-ae79-a3b4d6f84348",
+ "kind": "ugc_broll",
+ "summary": "Tall white Spin360 in a living room corner; Avery dangles a leopard-print scarf over and around the cage to show the airflow.",
+ "people": [{"who": "woman, 30s, dark hair (Avery)", "wardrobe": "black strappy dress, gold bracelet", "role": "creator"}],
+ "product": {"visible": "full", "colourway": "white", "on": true, "details_seen": ["cage", "gold halo", "display", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 5.0, "camera": "static", "framing": "wide", "action": "full tall white unit standing by louvered door and potted plant", "on_screen_text": "", "audio_hint": ""},
+  {"start": 5.0, "end": 22.4, "camera": "static", "framing": "wide", "action": "she reaches in and holds leopard scarf beside and over the cage; scarf lifts and flutters", "on_screen_text": "", "audio_hint": "'Yes.' at end"}
+ ],
+ "best": {"start": 11.0, "end": 15.0, "why": "scarf lifted over the cage, smiling"},
+ "beats": ["airflow_demo_curtain_or_ribbon", "product_hero"],
+ "hook_potential": {"score": 1, "why": "visual airflow proof but static and small"},
+ "brand_fit": {"score": 2, "why": "clean bright room, wood floor, plant; visible power cable"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["scarf airflow demo", "leopard scarf", "tall white fan", "full product shot", "louvered door", "wood floor"],
+ "takes": [{"start": 21.8, "line": "Yes.", "delivery": "cut off", "energy": 1, "framing": "medium", "keep": false}],
+ "best_takes": [],
+ "speaker": {"look": "Avery, black dress (mostly arm/side in frame)", "setting": "living room corner, louvered door, plant stand", "props": "leopard scarf, white Spin360"}
+},
+{
+ "id": "5debd4f5-5c7d-4230-acd3-286f75456df7",
+ "kind": "ugc_broll",
+ "summary": "Avery steps in front of a louvered door and holds up a white sheet with a large sweat stain, grimacing at it.",
+ "people": [{"who": "woman, 30s, dark hair in ponytail (Avery)", "wardrobe": "navy pyjama top", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.0, "camera": "static", "framing": "medium", "action": "empty: white louvered door, mirror edge, plant", "on_screen_text": "", "audio_hint": "'Turn it up.'"},
+  {"start": 4.0, "end": 15.8, "camera": "static", "framing": "medium", "action": "she holds up dotted white sheet with big grey sweat patch, sniffs then pulls a disgusted face", "on_screen_text": "", "audio_hint": "'Yeah, it looks sweaty.'"}
+ ],
+ "best": {"start": 10.0, "end": 15.8, "why": "clear stain plus disgusted face"},
+ "beats": ["sweaty_discomfort", "hot_sleeper_problem", "reaction_face"],
+ "hook_potential": {"score": 3, "why": "gross, instantly readable night-sweats visual"},
+ "brand_fit": {"score": 1, "why": "problem shot, plain grey room"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["sweaty sheet", "sweat stain", "night sweats", "disgusted face", "holding up blanket", "gross hook"],
+ "takes": [{"start": 0.0, "line": "Turn it up. Yeah, it looks sweaty.", "delivery": "cut off", "energy": 1, "framing": "medium", "keep": false}],
+ "best_takes": [],
+ "speaker": {"look": "Avery, navy pyjamas", "setting": "grey wall, louvered white door, wood mirror, plant", "props": "stained white sheet"}
+},
+{
+ "id": "74c53cb1-9e5b-479c-ac77-4886809bc9ca",
+ "kind": "ugc_talking_head",
+ "summary": "Avery, close in front of a fiddle-leaf fig, delivers three CTA lines recommending the fan as the best home upgrade of the summer.",
+ "people": [{"who": "woman, 30s, dark hair pulled back (Avery)", "wardrobe": "sage grey-green pocket tee, gold necklace", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 28.4, "camera": "static", "framing": "close", "action": "seated, talks to camera; looks down often, points down at 12s", "on_screen_text": "", "audio_hint": "CTA lines"}
+ ],
+ "best": {"start": 0.8, "end": 10.0, "why": "eyes to camera, worth-it upgrade line"},
+ "beats": ["talking_to_camera", "cta_point"],
+ "hook_potential": {"score": 1, "why": "CTA, not a hook"},
+ "brand_fit": {"score": 2, "why": "clean, soft natural light, plant"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "superlative: \"this is the best thing we've added all summer\"; \"home upgrades that are actually worth it\"",
+ "tags": ["CTA", "worth it home upgrade", "recommend", "best thing all summer", "fiddle leaf fig", "Avery talking head"],
+ "takes": [
+  {"start": 0.8, "line": "So if you're looking for home upgrades that are actually worth it, this is the one that I would try.", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 12.7, "line": "This is the one I'd actually recommend.", "delivery": "clean", "energy": 1, "framing": "close", "keep": true},
+  {"start": 20.0, "line": "Follow along because we still have more to do, but for now, this is the best thing we've added all summer.", "delivery": "clean", "energy": 2, "framing": "close", "keep": true}
+ ],
+ "best_takes": [0.8, 12.7, 20.0],
+ "speaker": {"look": "Avery, sage pocket tee, hair back", "setting": "cream wall, fiddle-leaf fig, window light", "props": "none"}
+}
+]

@@ -1,0 +1,174 @@
+﻿Spin360_FeelLikeOpenWindow
+Brief - Spin360_FeelLikeOpenWindow
+
+
+3 ads · same body · 3 visual hooks (first ~3 s). From "We are freakishly fresh" (0:03) on, the three ads are identical: cut the body once and reuse it. All voiceover is David.
+Body edit project: Spin360_Feel_Like_AC_Hook_4.mp4 
+David audio: Stringout
+Ribbons footage (Hook 1): UT April 26 Hooks at 01:04
+David footage: Spin360 LA 26 - David Talking
+Ad type: Iteration · Founder-led · Sizes: 9x16 +· ~52 s
+Strategy
+# Element
+	Answer
+	1 · Desire
+	"I want to sleep through the night without waking up hot." What she's after is fresh air moving over her bed all night, the way it feels when the window is open.
+	2 · Avatar
+	Hot sleepers, more often women, whose bedroom gets warm and stuffy at night. Their fix is to open the window, but they can't keep it open all night because it's cold outside or the street is loud. So they try the AC or the heat settings and still wake up hot. In a customer's words: "My bedroom gets hot and stuffy."
+	3 · Angle
+	Get the open-window feeling in your bedroom all night, with the window shut. All 3 hooks show this one idea.
+	4 · Mechanism
+	One single temperature. Claim: the whole room feels like one fresh, even temperature. Reason: hot air goes up and cool air sinks, and Spin360 pulls the hot air down and the cool air up, so the room becomes one temperature with a soft breeze moving all around it. Show it on screen: ribbons and curtain moving while the window stays shut.
+	5 · Authority
+	David, the inventor, talks from the first line. He explains how it works and says how he sleeps with it. You see the proof (ribbons, curtain, hair moving with the window shut). He only says how it feels and never says it cools the room, so nothing clashes with what she already believes about fans.
+	6 · Awareness
+	Solution aware. She already knows the fix she wants, an open window, and the hook starts right there. The ad then climbs two steps: why Spin360 gives that feeling (one single temperature), then the offer (try it for 30 nights).
+	7 · Emotion
+	Positive, medium energy. Happy surprise first ("wait, the window is shut?"), then calm. Music and pace should feel light and airy, never scary and never hyped.
+	8 · Positioning
+	Different, not better. Enemy: the split room the heater or AC leaves behind, with hot air stuck up top and cool air down low. Spin360 owns "the open-window feeling with the window shut," and you can see it.
+	Production brief
+Voice: David from start to finish. Three lines are made in Seedance 2.5 (David's voice, and David on camera where the shot list says so):
+(1) Hook: "Is it an open window? No. Does it feel like one? Yes."
+(2) "We are freakishly fresh."
+(3) "So if you want amazing sleep all year, try the Spin360 for 30 nights."
+All other lines: David's audio from the stringout.
+David's look: every David shot is in front of an open window: tall white sheer curtains blowing in, soft daylight, green hills outside. Use the image in the 0:03 row as the start frame in Seedance. For the David shots from the edit project, key the blue backdrop and put the same window behind him, so every David shot is in one place.
+The visual idea: the air moves, but the window is shut. Every hook shows the air moving (ribbons, curtain, her hair). The ad ends on the same picture: a bedroom at night, window shut, curtains moving gently.
+The air is a breeze, not wind: curtains and hair move softly, nothing flies around (except the ribbons in Hook 1).
+Rules: no discount and no season words, on screen or in audio. Never say "silent". Spin360 is the only fan on screen. Captions: white words, center, word by word.
+Visual hooks (3 ads)
+Ad
+	Script (VO)
+	Visual Inspiration
+	Scene description
+	Hook 1 · Ribbons
+Spin360_FeelLikeOpenWindow_Hook1
+	[0:00] (David) Is it an open window? No. Does it feel like one? Yes.
+	  
+
+  
+
+	Footage: UT April 26 Hooks, 01:04. She ties ribbons to the Spin360 and they fly with the air. Strong first frame at 0.0 s, no fade in. Captions: Is it an open window? · No. · Does it feel like one? · Yes.
+	Hook 2 · Curtain
+Spin360_FeelLikeOpenWindow_Hook2
+	[0:00] (David) Is it an open window? No. Does it feel like one? Yes.
+	  
+
+  
+
+	Seedance 2.5. Night. Close-up of the window: glass shut, latch locked, the sheer curtain in front of it moving gently. On "No." the camera pulls back and shows the Spin360 glowing blue next to the bed. Same captions.
+	Hook 3 · Window check
+Spin360_FeelLikeOpenWindow_Hook3
+	[0:00] (David) Is it an open window? No. Does it feel like one? Yes.
+	  
+
+  
+
+	Seedance 2.5. Night. A woman (~50, pajamas) feels the breeze and goes to the window to close it. Her hand finds the latch: it is already shut. On "Does it feel like one?" she turns and looks at the Spin360, a few strands of hair moving, small smile. Same captions.
+	All three hooks cut straight into the body at "We are freakishly fresh" (0:03).
+Body / Shot list
+Time
+	Script (VO)
+	Visual Inspiration
+	Scene description
+	0:03
+	We are freakishly fresh.
+	  
+
+	Seedance 2.5 (start frame: this image). David at the table with the Spin360, open window behind him, curtains blowing. Caption: freakishly fresh.
+	0:06
+	When I sleep with this, I feel fantastic.
+	  
+
+	Dark bedroom, Spin360 lit, woman asleep.
+	0:10
+	When you are in a room
+	  
+
+	David, open window behind him.
+	0:11
+	with a regular air conditioner or heater,
+	  
+
+	Wall AC, then a heater.
+	0:15
+	the heat naturally goes up and the cold goes down,
+	  
+
+	3D room animation.
+	0:17
+	and you have a separation between those two things.
+	  
+
+	HOT AIR on top, COLD AIR on the bottom.
+	0:20
+	We're pulling that hotter air down and that cooler air up,
+	  
+
+	Spin360 with arrows pulling hot air down and cool air up.
+	0:24
+	and we're creating one single temperature in the room.
+	  
+
+	The arrows go flat: one temperature.
+	0:27
+	It's just that constant perfection.
+	  
+
+	David, open window behind him.
+	0:29
+	It's that perfect atmosphere all the time.
+	  
+
+	Couple reading in bed.
+	0:32
+	You'd swear the walls were removed
+	  
+
+	The bed and the Spin360 are in the bedroom, but the back wall is gone: the room opens straight onto the beach. White curtains on both sides blowing in.
+	0:35
+	and that I'm just… my bed is outside.
+	  
+
+	Now the whole room is gone: only the bed, on the same beach.
+	0:37
+	It is so wildly different
+	  
+
+	David, open window behind him.
+	0:39
+	from anything else you've ever felt
+	  
+
+	Glamour close-up of the product, blue ring.
+	0:42
+	that it's almost incomparable.
+	  
+
+	Glamour close-up of the product.
+	0:45
+	So if you want amazing sleep all year,
+	  
+
+	Seedance 2.5. David on camera, open window behind him.
+	0:47
+	try the Spin360 for 30 nights.
+	  
+
+	Use this image as it is (slow zoom in). Bedroom at night: the window is shut, the curtains next to it move gently, the Spin360 glows blue, a woman sleeps. End text: Try it for 30 nights.
+	Why each part is there (for the cut)
+Part
+	What it does
+	Hooks (0:00–0:03)
+	Open the big question: if it's not a window, what is it? Each one shows the air moving with the window shut.
+	"Freakishly fresh" (0:03)
+	Answers fast with a person: the inventor. Keeps the question open: how?
+	"Sleep / AC or heater / separation" (0:06–0:20)
+	Opens a second question she feels: why does my room feel stuffy? Hot on top, cold on the bottom.
+	"One single temperature" (0:20–0:27)
+	Pays the "how". Keep the arrows animation tight: this is the reason to believe.
+	"Walls removed / bed outside" (0:32–0:37)
+	Pays the hook: it feels like the window is open.
+	Ending (0:45)
+	Same picture as the hooks: window shut, air moving. Then the 30-night trial.

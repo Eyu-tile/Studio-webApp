@@ -1,0 +1,1233 @@
+{
+ "batch": "batch_027",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_027.out.json",
+ "clips": [
+  {
+   "id": "eab8d55b-3131-48fa-8557-4bda67872732",
+   "filename": "IMG_9747.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 65.9,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/eab8d55b-3131-48fa-8557-4bda67872732_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/eab8d55b-3131-48fa-8557-4bda67872732_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/eab8d55b-3131-48fa-8557-4bda67872732_3.jpg"
+   ],
+   "bya_description": "A close-up shot of the Spin360 Fan standing in a room corner. A hand enters the frame and presses a button on the fan's base unit.",
+   "bya_tags": [
+    "Feeling the breeze",
+    "Visible airflow test",
+    "Digital display",
+    "Digital display",
+    "Fan spinning close-up",
+    "Feeling the breeze",
+    "Product on surface",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "782ac873-fb01-472c-b9a4-3c8553679208",
+   "filename": "IMG_3814.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 115.9,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/782ac873-fb01-472c-b9a4-3c8553679208_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/782ac873-fb01-472c-b9a4-3c8553679208_2.jpg"
+   ],
+   "bya_description": "A man in a red shirt and patterned shorts enters a living room and adjusts a white tower fan.",
+   "bya_tags": [
+    "Living room",
+    "Moving the fan",
+    "Product hero shot",
+    "Fan controls",
+    "Living room",
+    "Moving the fan",
+    "Old fan comparison"
+   ],
+   "transcript": [
+    {
+     "start": 51.1,
+     "text": "You're not allowed to sell Lily as a, like, with your fan. There's no Lily. Okay, she's not\u2014 she's, she's like off. You can't",
+     "labels": [
+      "Product hero shot",
+      "Living room",
+      "Moving the fan",
+      "Fan controls"
+     ]
+    },
+    {
+     "start": 65.3,
+     "text": "just\u2014 can't, um, I don't know what he's",
+     "labels": [
+      "Product hero shot",
+      "Living room",
+      "Moving the fan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "87fecb05-4825-4435-ae1a-2fae5110720b",
+   "filename": "360-1-If-you-sleep-as-20260811-093323.mov",
+   "folder": "360 fan  - Vicky / New talking heads",
+   "duration_s": 121.74,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/87fecb05-4825-4435-ae1a-2fae5110720b_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/87fecb05-4825-4435-ae1a-2fae5110720b_2.jpg"
+   ],
+   "bya_description": "A middle-aged woman with long, wavy grey hair and a white wrap-style top stands in a modern living room. She speaks directly to the camera, gesturing with her hands throughout the entire duration against a background of white shelving with decorative vases.",
+   "bya_tags": [
+    "Talking head",
+    "Direct address",
+    "Home testimonial",
+    "Direct address",
+    "Home testimonial",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.9,
+     "text": "If you sleep as bad as I do in the summer, this thing is worth every single penny.",
+     "labels": [
+      "Hook",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 5.2,
+     "text": "Summer heat just makes it impossible for me to sleep. The older I get, the less patience I have for things that don't work. I'm at the point in my life where I won't put up with a loud fan that rattles all night and blow",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 22.1,
+     "text": "And at my age, a bad night of sleep is not a small thing. You feel it for like 2 days.",
+     "labels": [
+      "Aging and sleep",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 28.7,
+     "text": "Then my daughter sent me the Spin 360. It pulls air from both sides and sends it out in every direction so the whole room gets a\u2014",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 43.6,
+     "text": "then my daughter sent me the Spin 360. It pulls air from both sides and sends it out in every direction so the whole room gets a soft breeze instead of one cold blast at your face.",
+     "labels": [
+      "Product benefit",
+      "Gentle air movement",
+      "Spin 360",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 53.3,
+     "text": "This doesn't feel like a regular fan. It's dead silent on the low speeds, and even if I turn it up, I can barely hear it.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 63.3,
+     "text": "It's dead silent on low speeds, and even if I turn it up, I can barely hear it, which was so important to me because I'm sensitive when it comes to loud noises, especially in my sleep.",
+     "labels": [
+      "Dead silent",
+      "Noise Sensitivity",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 76.8,
+     "text": "There's one button on the remote, and I can reach it from my bed.",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 81.0,
+     "text": "It's light enough to carry around my home and back to the bedroom at night, and it runs on pennies, which matters when the power bill shows up.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 91.1,
+     "text": "It's light enough to carry around my home and back to the bedroom at night, and it runs on pennies, which matters when the power bill shows. I finally sleep through the night again. Honestly, it feels like sleeping with ",
+     "labels": [
+      "Product benefit",
+      "Nostalgic Comfort",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 107.9,
+     "text": "I don't recommend things often, but this thing is awesome.",
+     "labels": [
+      "Personal Suitability",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 115.1,
+     "text": "The first 1,000\u2014 the first 1,000 people get $100 off.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4cf3452-b212-46a6-8f5a-b14886172f64",
+   "filename": "360-1-If-you-sleep-as-20260811-093856.mov",
+   "folder": "360 fan  - Vicky / New talking heads",
+   "duration_s": 122.45,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d4cf3452-b212-46a6-8f5a-b14886172f64_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d4cf3452-b212-46a6-8f5a-b14886172f64_2.jpg"
+   ],
+   "bya_description": "A senior woman with long grey hair in a white wrap top talks to the camera, gesturing with her hands. She stands in a home interior between a white closet and black shelves.",
+   "bya_tags": [
+    "Talking head",
+    "Product benefit",
+    "Failed alternative",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.8,
+     "text": "If you sleep as bad as I do in the summer, this thing is worth every single penny.",
+     "labels": [
+      "Hook",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 5.2,
+     "text": "Summer heat just makes it impossible for me to sleep. The older I get, the less patience I have for things that\u2014 that the older I get, the less patience I have for things that don't work. I'm at the point in my life wher",
+     "labels": [
+      "Personal Struggle",
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 29.3,
+     "text": "Then my daughter sent me the Spin 360. It pulls air from both sides and sends it out in every direction, so the whole room feels like a soft breeze instead of one cold blast into your face.",
+     "labels": [
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 47.6,
+     "text": "This doesn't feel like a regular fan. It's deep silent\u2014 it's dead silent on the low speeds, and even if I turn it up, I can barely hear it, which was so important to me because I'm very sensitive when it comes to loud no",
+     "labels": [
+      "Product benefit",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 71.0,
+     "text": "There's one button on the remote, and I can reach it from bed.",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 76.8,
+     "text": "It's light enough to carry around my home and back to the bedroom at night, and it runs on\u2014 and it runs\u2014 it's light enough to carry up\u2014 it's light enough to carry around my home and back to my bed at night, and it runs o",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 92.0,
+     "text": "I finally sleep through the night again. Honestly, it feels like sleeping with the windows open when I was a kid.",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 103.8,
+     "text": "I don't remember.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 104.9,
+     "text": "I don't recommend things often, but this thing is awesome.",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 110.6,
+     "text": "I don't remember.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 111.6,
+     "text": "I don't recommend things often, but this thing is awesome.",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 115.7,
+     "text": "The first 1,000 people\u2014 the first 1,000 people get $100 off.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e937bab7-4e9a-4d4f-95bb-16832afca048",
+   "filename": "360-2-My-husband-BEGGED-20260811-094115.mov",
+   "folder": "360 fan  - Vicky / New talking heads",
+   "duration_s": 83.43,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e937bab7-4e9a-4d4f-95bb-16832afca048_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e937bab7-4e9a-4d4f-95bb-16832afca048_2.jpg"
+   ],
+   "bya_description": "A middle-aged woman with long grey hair, wearing a white wrap-style top and black pants, stands in a living room and speaks directly to the camera. She gestures frequently with both hands to emphasize her points while standing in front of a white shelving unit with decorative vases.",
+   "bya_tags": [
+    "Talking head",
+    "Gentle air movement",
+    "Direct address",
+    "Direct address",
+    "Home testimonial",
+    "Living room",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.7,
+     "text": "My husband begged for the fan in our room for 3 years, and I said no every single time. I just can't stand air blowing on me, and I can't stand rattling. So nobody was more surprised than when I finally caved.",
+     "labels": [
+      "Hook",
+      "Fan rejection",
+      "Noise Sensitivity",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 14.0,
+     "text": "Because here's what a normal fan\u2014 because here's what a normal fan actually does. It shoots one harsh stream of air at one spot of your body, then it swings away, and you just sit there hot. Waiting for it to come back. ",
+     "labels": [
+      "Failed alternative",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 32.7,
+     "text": "This one doesn't blow at you, it moves all the air in the room at once so the whole room gets cool and you're never sitting in a blast.",
+     "labels": [
+      "Product benefit",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 41.4,
+     "text": "This one, this one doesn't blow at you.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 44.3,
+     "text": "This one doesn't blow at you, it moves all the air in the room at once so the whole room gets cool and you're never sitting in a blast.",
+     "labels": [
+      "Product benefit",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 51.6,
+     "text": "The first time we used it, it was like the whole atmosphere of the room changed. It's so, so different from any other fan I've ever had. It feels like the whole air in your room is moving,",
+     "labels": [
+      "Room transformation",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 66.1,
+     "text": "and it's dead silent. I can barely hear it.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 71.5,
+     "text": "And it's dead silent. I can barely hear it.",
+     "labels": [
+      "Dead silent",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 76,
+     "text": "If you're looking for a fan that'll change the atmosphere of the room, Check out Spin 360.",
+     "labels": [
+      "Offer CTA",
+      "Spin 360",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f13c8967-7bd2-4963-baba-c9f2d6202867",
+   "filename": "360-2-My-husband-BEGGED-20260811-094335.mov",
+   "folder": "360 fan  - Vicky / New talking heads",
+   "duration_s": 88.88,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f13c8967-7bd2-4963-baba-c9f2d6202867_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f13c8967-7bd2-4963-baba-c9f2d6202867_2.jpg"
+   ],
+   "bya_description": "A senior woman with long grey hair speaks to the camera, gesturing with her hands. She stands in a bright room with white shelves, reaching for the lens at the end.",
+   "bya_tags": [
+    "Talking head",
+    "Offer CTA",
+    "Personal Suitability",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.9,
+     "text": "My husband begged for a fan in our room for 3 years, and I said no every single time. I just can't stand air blowing on me, and I can't stand the rattling. So nobody was more surprised than me when I finally caved.",
+     "labels": [
+      "Hook",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 14.7,
+     "text": "I just can't stand air blowing on me, and I can't stand the rattling. So nobody was more surprised than me when I finally caved, because here's what a normal fan\u2014 because here's what a normal fan Because here's what a no",
+     "labels": [
+      "Failed alternative",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 39.2,
+     "text": "This one doesn't blow at you, it moves all the air in the room at once so the whole room\u2014 this one doesn't blow at you, it moves all the way\u2014",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 48.6,
+     "text": "this one doesn't blow at you, it moves all the air in the room at once so So the whole room gets cool and you're never sitting in a blast. The first time we used it, it was like the whole atmosphere of the room changed. ",
+     "labels": [
+      "Product benefit",
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Room transformation"
+     ]
+    },
+    {
+     "start": 74.8,
+     "text": "If you're looking for a fan that'll change the atmosphere of the room, Check out Spin 360.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 81.7,
+     "text": "If you're looking for a fan that'll change the atmosphere of the room, check out Spin 360.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "28fff23d-3871-4ab4-a3e2-766089ecbad4",
+   "filename": "360-3-HOOK-1-This-has-20260811-095713.mov",
+   "folder": "360 fan  - Vicky / New talking heads",
+   "duration_s": 110.39,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/28fff23d-3871-4ab4-a3e2-766089ecbad4_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/28fff23d-3871-4ab4-a3e2-766089ecbad4_2.jpg"
+   ],
+   "bya_description": "A senior woman with long grey hair talks to the camera in a living room. She wears a white wrap top and black pants, gesturing with her hands and briefly leaning forward early in the video.",
+   "bya_tags": [
+    "Talking head",
+    "Hook",
+    "Worth it upgrades",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 1.2,
+     "text": "This has become my absolute holy grail for making my house smell\u2014",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 8.8,
+     "text": "this has become my absolute holy grail for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 22.5,
+     "text": "This is my new obsession for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 32.9,
+     "text": "I finally figured out the trick to making my home smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 43.9,
+     "text": "I used to buy those expensive room sprays, but they have\u2014",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 47.7,
+     "text": "I used to buy those expensive room sprays, but they have such an artificial smell and they literally last for about 3 minutes And candles are beautiful, but they're so expensive and they're honestly a fire hazard.",
+     "labels": [
+      "Failed alternative",
+      "Expensive room sprays",
+      "Fire hazard",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 60.6,
+     "text": "So I switched to the Spin 360. It looks like this beautiful piece of high decor, but it uses something called Active Breeze Diffusion.",
+     "labels": [
+      "Mechanism explainer",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 75.4,
+     "text": "Normal, normal diffusers just drop a mist onto a table and do absolutely nothing for the room. But this is actually a revolutionary silent fan. It pulls in that heavy stale air and silently pushes out a gentle cooling br",
+     "labels": [
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 102.4,
+     "text": "It completely changes the atmosphere of the room in seconds. It takes away that\u2014",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 108.6,
+     "text": "it completely changes the atmosphere in the",
+     "labels": [
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "23e46897-d567-4de6-994f-5f9ce9d466bf",
+   "filename": "360-3-HOOK-1-This-has-20260811-095920.mov",
+   "folder": "360 fan  - Vicky / New talking heads",
+   "duration_s": 119.94,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/23e46897-d567-4de6-994f-5f9ce9d466bf_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/23e46897-d567-4de6-994f-5f9ce9d466bf_2.jpg"
+   ],
+   "bya_description": "Resuming her position, the woman continues talking and gestures with her hands, counting points on her fingers. Then a senior woman with long grey hair talks to the camera in a home setting. She wears a white wrap top and black pants. Then the woman leans forward and reaches her hand toward the camera lens.",
+   "bya_tags": [
+    "Talking head",
+    "Offer CTA",
+    "Hook",
+    "Adjusting hair",
+    "Rubbing face",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.7,
+     "text": "It completely changes the atmosphere in the room in seconds. It takes away that stuffy feeling and makes the whole\u2014 it completely changes the atmosphere of the room in seconds. It takes away that stuffy feeling and makes",
+     "labels": [
+      "Hook",
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 17.2,
+     "text": "There are 3 pods I rotate: Clean Floram Vanilla for every day, Sunlit Citrus when I want the place to feel awake, There are 3 pods I rotate: Clean Floral Vanilla for every day, Sunlit Citrus when I want to\u2014 when I want t",
+     "labels": [
+      "Product benefit",
+      "Talking head",
+      "Scent rotation"
+     ]
+    },
+    {
+     "start": 59.8,
+     "text": "But here's the thing nobody tells you: you stop smelling your own home. Your guests never do. Mine walk in now and ask what smells so good.",
+     "labels": [
+      "Hook",
+      "Talking head",
+      "Scent rotation"
+     ]
+    },
+    {
+     "start": 71.8,
+     "text": "The Spin 360 cools the room and dead quiet, and it envelops\u2014 the Spin 360 The Spin 360 cools the room in dead\u2014 The Spin 360 cools the room, it's dead quiet, and it elevates your entire home. The Spin 360 cools the room, ",
+     "labels": [
+      "Product benefit",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 102.3,
+     "text": "The first 1,000 people get $100 off. So click the link.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 107.1,
+     "text": "The first 1,000 people get $100 off, so click the link below to get yours.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 113.1,
+     "text": "The first 1,000 people get $100 off, so click the link below to get yours.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8cd5326b-235b-465f-94ae-53b37e4223ce",
+   "filename": "360-1-If-you-sleep-as-20260810-104243.mov",
+   "folder": "360 fan  - Vicky / Talking heads",
+   "duration_s": 119.78,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8cd5326b-235b-465f-94ae-53b37e4223ce_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8cd5326b-235b-465f-94ae-53b37e4223ce_2.jpg"
+   ],
+   "bya_description": "A woman with long silver hair speaks to the camera in a living room, standing behind a tall black fan. She gestures to the fan's clear top and a scent pod area before walking closer to reach for the lens.",
+   "bya_tags": [
+    "Talking head",
+    "Product benefit",
+    "Dead silent",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.8,
+     "text": "If you sleep as bad as I do in the summer, this thing is worth every single penny. Summer heat just makes it impossible for me to sleep. The older I get, the less patience I have for things that don't work. I'm at the po",
+     "labels": [
+      "Hook",
+      "Personal Struggle",
+      "Failed alternative",
+      "Worth it upgrades"
+     ]
+    },
+    {
+     "start": 26.8,
+     "text": "Then my daughter sent me the Spin 360. It pulls air from both sides and sends it out in every direction so the whole room gets a soft breeze instead of one cold blast in your face.",
+     "labels": [
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 43.8,
+     "text": "It pulls air from both sides and sends it out in every direction so the whole room gets a soft breeze instead of one cold blast in your face.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 52.1,
+     "text": "This doesn't feel like a regular fan. It's dead silent.",
+     "labels": [
+      "Dead silent",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 55.9,
+     "text": "It's dead silent on low speeds.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 58.2,
+     "text": "It's dead silent on low speeds, and even if I was to turn it up, I can barely hear it, which was so important to me because I'm very sensitive when it comes to loud noises, especially in my sleep.",
+     "labels": [
+      "Dead silent",
+      "Personal Suitability",
+      "Talking head",
+      "Noise Sensitivity"
+     ]
+    },
+    {
+     "start": 69.7,
+     "text": "There's one button on the remote, and I can reach it from my bed.",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 75.9,
+     "text": "It's light enough to carry around my home. And back to the bedroom at night. And it runs on pennies. And it runs on pennies.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 86.8,
+     "text": "It's light enough to carry around my home and back to the bedroom at night, and it runs on pennies, which matters when the power bill shows.",
+     "labels": [
+      "Product benefit",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 94.6,
+     "text": "I finally sleep through the night again. Honestly, I feel like sleeping with the windows open when I was a kid.",
+     "labels": [
+      "Product benefit",
+      "Room transformation",
+      "Talking head",
+      "Nostalgic Comfort"
+     ]
+    },
+    {
+     "start": 101.9,
+     "text": "Honestly, it feels like sleeping with the windows open when I was a kid.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 106.0,
+     "text": "I don't remember things often, but this thing is awesome.",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 110.1,
+     "text": "The first 1,000 people get $100 off.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 114.0,
+     "text": "The first 1,000 people get $100 off.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8b4dc225-8286-4bb2-9216-49372a9e3285",
+   "filename": "360-1-If-you-sleep-as-20260810-112056.mov",
+   "folder": "360 fan  - Vicky / Talking heads",
+   "duration_s": 120.29,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8b4dc225-8286-4bb2-9216-49372a9e3285_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8b4dc225-8286-4bb2-9216-49372a9e3285_2.jpg"
+   ],
+   "bya_description": "Middle-aged woman with long grey hair speaks to camera in a living room. She stands by a silver fan on a pedestal, gesturing and tapping its top.",
+   "bya_tags": [
+    "Talking head",
+    "Fan controls",
+    "Living room",
+    "Fan controls",
+    "Living room",
+    "Product in hand",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 1.0,
+     "text": "If you sleep as bad as I do in the summer, this thing is worth every single penny.",
+     "labels": [
+      "Hook",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 6.0,
+     "text": "Summer heat just makes it impossible\u2014",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 9.5,
+     "text": "summer heat makes it impossible for me to sleep. The older I get, the less patience I have for things that don't work. I'm at the point in my life where I won't put up with a loud fan that rattles all night and blows on ",
+     "labels": [
+      "Personal Struggle",
+      "Failed alternative",
+      "Talking head",
+      "Aging and sleep"
+     ]
+    },
+    {
+     "start": 32.8,
+     "text": "Then my daughter sent me the Spin 360. It pulls air from both sides and sends it out in every direction, so the whole room gets a soft breeze instead of one cold blast in your face.",
+     "labels": [
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 51.3,
+     "text": "This doesn't feel like a regular fan. It's dead silent on the lowest speeds, and even if I was to turn it up, I can barely hear it, which was so important to me because I'm\u2014",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 63.8,
+     "text": "it's dead, it's dead silent on low speeds, and even if I was to turn it up, I can barely hear it, which was so important to me because I'm very sensitive when it comes to loud noises, especially in my sleep.",
+     "labels": [
+      "Dead silent",
+      "Noise Sensitivity",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 77.7,
+     "text": "There's one button on the remote and I can reach it from my bed. It's light enough to carry around my home and back to the bedroom at night, and it runs on pennies, which matters when the power bill shows. I finally slee",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 100.4,
+     "text": "Honestly, it feels like sleeping with the windows open when I was a kid.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 108.0,
+     "text": "Honestly, it feels like sleeping with the windows open when I was a kid. I don't remember things often, but this thing is awesome.",
+     "labels": [
+      "Nostalgic Comfort",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 115.2,
+     "text": "The first 1,000 people get $100 off.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f3d106d1-ec82-438c-ae21-4306d2944232",
+   "filename": "360-2-My-husband-BEGGED-20260810-105334.mov",
+   "folder": "360 fan  - Vicky / Talking heads",
+   "duration_s": 89.23,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f3d106d1-ec82-438c-ae21-4306d2944232_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f3d106d1-ec82-438c-ae21-4306d2944232_2.jpg"
+   ],
+   "bya_description": "A senior woman with white hair talks to the camera in a living room. She stands behind a pedestal fan, gesturing and touching its top.",
+   "bya_tags": [
+    "Talking head",
+    "Gentle air movement",
+    "Living room",
+    "Living room",
+    "Product in hand",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.8,
+     "text": "My husband begged for a fan in our room for 3 years, and I said no every single time.",
+     "labels": [
+      "Hook",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 5.7,
+     "text": "I just can't stand air blowing on me, and I can't stand the rattling. So nobody knew\u2014 so nobody was more surprised than when I finally caved. Because here's what a normal fan actually does: it shoots one harsh stream of ",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 34.4,
+     "text": "This one doesn't blow at you, it moves all around in the air at once so the whole room goes cool and you're never sitting in a blast.",
+     "labels": [
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 46.7,
+     "text": "The first time I used it, it was like the whole atmosphere of the room changed.",
+     "labels": [
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 52.1,
+     "text": "The first time we used it, it was like the whole atmosphere of the room changed. It was so, so different from any other fan I've ever used.",
+     "labels": [
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 65.1,
+     "text": "It feels like the whole air in your room is moving.",
+     "labels": [
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 68.6,
+     "text": "It feels like the whole air in your room is moving, and it's dead silent. I can barely hear it.",
+     "labels": [
+      "Gentle air movement",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 76.2,
+     "text": "If you're looking for a fan that'll If you're looking for a fan that'll change the atmosphere of the room\u2014",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 81.8,
+     "text": "if you're looking for a fan that'll change the atmosphere of the room, check out Spin 360.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "15b713c2-b245-4b02-9735-f1585ed13c14",
+   "filename": "360-2-My-husband-BEGGED-20260810-112312.mov",
+   "folder": "360 fan  - Vicky / Talking heads",
+   "duration_s": 117.21,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/15b713c2-b245-4b02-9735-f1585ed13c14_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/15b713c2-b245-4b02-9735-f1585ed13c14_2.jpg"
+   ],
+   "bya_description": "Senior woman in black stands by a cylindrical fan in a living room, speaking and gesturing.",
+   "bya_tags": [
+    "Talking head",
+    "Dead silent",
+    "Failed alternative",
+    "Living room",
+    "Product in hand",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 1.0,
+     "text": "My husband begged me for a fan in our room for 3 years, and I said no every single time.",
+     "labels": [
+      "Hook",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 5.9,
+     "text": "I can't stand air blowing on me, and I can't stand the rattling, so nobody was surprised\u2014 I can't stand air blowing on me, and I can't stand rattling, so nobody was more surprised than me when I finally caved. Because he",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 49.0,
+     "text": "This one doesn't blow at you. It moves all the air in the room at once. So the whole room gets as cool\u2014 so the whole room gets cool and you're never sitting in a blast. This one, this one doesn't blow at you. It moves al",
+     "labels": [
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 87.6,
+     "text": "The first time we used it, it was the whole\u2014 the first time we used it, it was like the whole atmosphere of the room changed. It's so, so different from any other fan I've ever had. It feels like the whole air in the roo",
+     "labels": [
+      "Room transformation",
+      "Product benefit",
+      "Talking head",
+      "Dead silent"
+     ]
+    },
+    {
+     "start": 110.0,
+     "text": "If you're looking for a fan that'll change the atmosphere of the room, check out Spin 360.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f3083533-44d4-47dd-939f-980a115bb4ba",
+   "filename": "360-3-HOOK-1-This-has-20260810-110424.mov",
+   "folder": "360 fan  - Vicky / Talking heads",
+   "duration_s": 81.05,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f3083533-44d4-47dd-939f-980a115bb4ba_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f3083533-44d4-47dd-939f-980a115bb4ba_2.jpg"
+   ],
+   "bya_description": "A middle-aged woman with long blonde hair speaks to the camera in a living room, standing behind a cylindrical silver fan. She gestures with her hands and touches the top of the fan before walking close and reaching for the lens.",
+   "bya_tags": [
+    "Talking head",
+    "Dead silent",
+    "Friends complimenting home",
+    "Lifestyle moment",
+    "Product in hand",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 1.0,
+     "text": "But this is actually a revolutionary silent fan. It pulls in that heavy, stale air and silently pushes out a gentle cool breeze infused with luxury scent in a complete 360-degree circle. It completely changes the atmosph",
+     "labels": [
+      "Mechanism explainer",
+      "Room transformation",
+      "Gentle air movement",
+      "Dead silent"
+     ]
+    },
+    {
+     "start": 22.9,
+     "text": "There are 3 pods I rotate: Clean Floral Vanilla, for every day, Sunlit Citrus when I want the place to feel awake, and Citrus Sandalwood when people are coming over. That one gets comments every single time.",
+     "labels": [
+      "Scent rotation",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 44.2,
+     "text": "There are 3 pods that rotate: Clean Floral and Vanilla for every day, Sunlit Citrus when I want the place to feel awake, and Citrus Sandalwood when people are coming over. That one gets comments every single time.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 56.4,
+     "text": "Because here's the thing nobody tells you.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 59.0,
+     "text": "Because here's the thing that nobody tells you. You stop smelling your own home, your guests never do. Mine walk in now and ask me, what smells so good?",
+     "labels": [
+      "Hook",
+      "Scent rotation",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 67.9,
+     "text": "The Spin 360 cools the room, it's dead quiet, and it elevates your entire home.",
+     "labels": [
+      "Spin 360",
+      "Dead silent",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 73.5,
+     "text": "The first 1,000 people get $100 off, so click the link below to get yours.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d368b5a6-ad1f-429c-bc50-543497f53d84",
+   "filename": "Main Script V1 (Tip 3 until the end)",
+   "folder": "Spin 360 - Lauren / Script 1",
+   "duration_s": 80.46,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d368b5a6-ad1f-429c-bc50-543497f53d84_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d368b5a6-ad1f-429c-bc50-543497f53d84_2.jpg"
+   ],
+   "bya_description": "The woman sits on a couch and speaks directly to the camera in a medium shot. A tall black air purifier stands behind her against a window. She gestures with her hands, pointing at the device and herself as she talks.",
+   "bya_tags": [
+    "Talking head",
+    "Product benefit",
+    "Toddler sleep aid",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 1.9,
+     "text": "Number 3, this is the one my friends always end up asking me about. My entire life motto is 2 birds, one stone. This thing kills 3.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 11.0,
+     "text": "20 minutes before bedtime, I turn on this fan in the kids' room. Bird one, it cools the whole room. It's a 360 fan, so it blows in every direction at once, so none of my kids have wind blasting in their face all night.",
+     "labels": [
+      "Product benefit",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 24.2,
+     "text": "Bird 2, on the higher speeds, it makes this soft white noise my kids are obsessed with, so the sound machine is officially retired.",
+     "labels": [
+      "Product benefit",
+      "Toddler sleep aid",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 31.9,
+     "text": "Bird 3, I drop a little scent pod in the top and the room smells heavenly. I mean heavenly. Let me tell you, this calms them down and it makes the whole house smell amazing. If you have a toddler, you already know why th",
+     "labels": [
+      "Product benefit",
+      "Room transformation",
+      "Toddler sleep aid",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 53.0,
+     "text": "Tip number 4, the second their lights go off, I set a 10-minute timer and clean the living room\u2014 toys, pillows, counters. When the timer ends, I'm done. And yes, the fan comes downstairs with me. It just picks up and mov",
+     "labels": [
+      "Product benefit",
+      "Personal Suitability",
+      "Home Elevation",
+      "Talking head"
+     ]
+    }
+   ]
+  }
+ ]
+}

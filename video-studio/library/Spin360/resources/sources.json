@@ -1,0 +1,15 @@
+{
+ "Spin360": [
+  {
+   "provider": "buildyourads",
+   "host": "https://buildyourads.com",
+   "workspace": "acme",
+   "ui": "https://bya-web-staging-hf5gidtrvq-uc.a.run.app/w/acme/library",
+   "auth": "API key, Authorization: Bearer (never stored in this repo)",
+   "docs": "https://buildyourads.com/api/v1/docs",
+   "scanned": "2026-11-14",
+   "clips": 779,
+   "folders": 23
+  }
+ ]
+}

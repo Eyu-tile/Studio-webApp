@@ -1,0 +1,359 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_The Porch
+Author: Gabriel
+Editor: Chose
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Sizes Needed: 9x16
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 Video
+
+
+
+
+________________
+
+
+[3] Creative Direction
+Watch:
+Park Dialogue Ad Workflow on Clean 3.0
+You will be using that workflow
+Did Kling 3.0 Omni Finally Solve AI Dialogue? Real-World Stress Test
+Use kling 3.0 account
+Kling AI: Next-Gen AI Video & AI Image Generator
+
+
+Example
+kling_20260628_VIDEO_Cinematic__2128_0.mp4
+
+
+
+
+Spin360_The Porch 
+
+
+________________
+
+
+[4] Script
+
+
+LINDA: ...ohh. Feel that.
+LINDA: ...I could fall asleep right here. Right in this chair.
+LINDA: ...nothing at home ever feels like this.
+CAROL: ...you know it kind of could.
+LINDA: ...what do you mean?
+CAROL: I've got this thing at home now.
+LINDA: ...this thing?
+CAROL: It's a fan. ...sort of. Not a normal one.
+LINDA: Carol, a fan's a fan. They all just blow right at you.
+CAROL: I know. Figured you'd think the same — never even bothered bringing it up. But this one doesn't.
+LINDA: I can't sleep with a thing blowing on me all night. I shut mine off and still wake up stiff — and tired.
+CAROL: Right — but it doesn't blow at you. It never comes straight at you, it just kind of... moves around you. Honestly? It feels just like this. Like the breeze right now.
+LINDA: ...the breeze?
+CAROL: ...yeah. Exactly that.
+LINDA: ...huh.
+CAROL: First night I had it on, I swear, it was like the walls weren't there. Like the bed was just... out here. And I actually slept. Couldn't tell you the last time I just... slept.
+LINDA: ...you know I haven't slept right in years.
+CAROL: I know you haven't. That's why I'm even saying anything.
+LINDA: ...and it's quiet? Because any little rattle and I'm up.
+CAROL: Quietest thing in the house. Low, you don't even know it's on. Turn it up and it's just... shhh. Whole place just feels calm.
+LINDA: ...okay. That I'd like.
+CAROL: Oh — and you'll love this. You drop a little scented thing in it, and the whole place just smells good. Everywhere.
+LINDA: ...okay, you're kind of selling me here.
+CAROL: I'm not trying to. I just— I want you to have one. That's all.
+LINDA: ...and it really feels like this?
+CAROL: ...turn it on the first night. Then you tell me.
+
+
+
+
+
+
+
+
+
+
+	Script 
+	Visual 
+	Description 
+	
+
+LINDA: ...ohh. Feel that.
+LINDA: ...I could fall asleep right here. Right in this chair.
+LINDA: ...nothing at home ever feels like this.
+CAROL: ...you know it kind of could.
+LINDA: ...what do you mean?
+CAROL: I've got this thing at home now.
+LINDA: ...this thing?
+CAROL: It's a fan. ...sort of. Not a normal one.
+LINDA: Carol, a fan's a fan. They all just blow right at you.
+CAROL: I know. Figured you'd think the same — never even bothered bringing it up. But this one doesn't.
+LINDA: I can't sleep with a thing blowing on me all night. I shut mine off and still wake up stiff — and tired.
+
+
+	  
+  
+
+	
+
+
+
+I want this idea to show only conversational conversation here. 
+	CAROL: Right — but it doesn't blow at you. It never comes straight at you, it just kind of... moves around you. Honestly? It feels just like this. Like the breeze right now.
+LINDA: ...the breeze?
+CAROL: ...yeah. Exactly that.
+LINDA: ...huh.
+CAROL: First night I had it on, I swear, it was like the walls weren't there. Like the bed was just... out here. And I actually slept. Couldn't tell you the last time I just... slept.
+LINDA: ...you know I haven't slept right in years.
+CAROL: I know you haven't. That's why I'm even saying anything.
+LINDA: ...and it's quiet? Because any little rattle and I'm up.
+CAROL: Quietest thing in the house. Low, you don't even know it's on. Turn it up and it's just... shhh. Whole place just feels calm.
+LINDA: ...okay. That I'd like.
+CAROL: Oh — and you'll love this. You drop a little scented thing in it, and the whole place just smells good. Everywhere.
+.
+
+
+
+
+
+
+	  
+  
+  
+
+	Shots of the product here
+	LINDA: ...okay, you're kind of selling me here.
+CAROL: I'm not trying to. I just— I want you to have one. That's all.
+LINDA: ...and it really feels like this?
+CAROL: ...turn it on the first night. Then you tell me.
+
+
+
+
+
+
+	  
+
+	
+
+	
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPIN360 — "The Porch"
+Video Prompts · Kling 3.0
+Cinematic two-friend conversation, golden hour, wooden deck of a hillside beach house. 14 clips (~10–12s each) · product B-roll layered on top in editing · breeze always SOFT.
+How to use: the Global Look + Characters block below applies to every clip. Prepend it to each clip's timestamp breakdown when generating — Kling has no memory between generations.
+________________
+
+
+🎨 GLOBAL LOOK + CHARACTERS
+(applies to every clip)
+Cinematic luxury commercial, shot on ARRI Alexa with vintage cinema lenses, shallow depth of field, creamy bokeh. Warm dreamy aspirational aesthetic — the visual language of a high-end fragrance ad or a Nancy Meyers film. Golden hour on the wooden deck of a hillside beach house, late afternoon, ocean far below and green cliffs behind.
+
+
+	
+
+	LIGHTING
+	soft glowing golden-hour sunlight, warm amber key wrapping the subjects, gentle rim light on their hair, subtle controlled lens flare from the low sun, soft halation on highlights — designed, intentional, expensive light.
+	COLOR GRADE
+	warm and filmic, golden highlights, soft teal shadows, gentle contrast, warm healthy skin tones, slightly desaturated and elegant.
+	CAMERA
+	subtle organic movement, slow and deliberate as if on a high-end gimbal; composed framing with layered depth — soft foreground, sharp subject, dreamy ocean-and-cliffs background.
+	TEXTURE
+	fine 35mm film grain, gentle motion blur on moving hair and fabric; cinematic and filmic, never plastic or AI-smooth.
+	BREEZE
+	keep it SOFT and GENTLE: only a light, lazy breeze barely moving a few loose strands of hair, a sheer linen curtain swaying softly and slightly, a potted plant with leaves gently trembling, a calm ocean. Subtle, serene late-afternoon air — NOT windy, NOT strong, no hair flying, no flapping or billowing fabric.
+	CHARACTERS
+* LINDA (about 60) — warm natural woman, silver-grey hair in a soft medium cut with a few fine strands gently drifting, graceful light wrinkles, a gentle tiredness around her eyes that softens as she relaxes, sand-toned neutral linen. Beautiful at her real age, not de-aged, not a model. The guest — the one who hasn't slept well in years.
+* CAROL (about 60) — her lifelong friend, longer loose greyish-blonde hair, sun-warmed skin of someone who lives by the sea, calm rested content face, off-white / cream linen, easy and at home. She owns the house and the fan.
+They sit close on comfortable deck chairs facing the golden ocean, turning to each other as they talk.
+SOUND (every clip) — gentle ocean swell, soft wind, distant birds throughout, intimate and warm. No intrusive music.
+________________
+
+
+CLIP 1 · ~11s
+0–11s
+0.0–4.5s — Opens on a beautifully composed wide shot establishing the hillside deck at golden hour, both women in their chairs, glowing ocean and green cliffs behind, the soft breeze barely moving a few strands of hair and the sheer curtain. LINDA is already speaking from the very first frame, eyes half-closed, savoring the air, as the camera slowly, gracefully pushes in toward her.
+LINDA: (soft, savoring, eyes half-closing as she breathes in) “...ohh. Feel that.”
+4.5–8.0s — Soft close-up on LINDA, drifting, almost talking to herself, sinking deeper into the chair.
+LINDA: (drifting, almost to herself) “...I could fall asleep right here. Right in this chair.”
+8.0–11.0s — Hold on LINDA, wistful, gazing out at the ocean, one fine strand of hair gently drifting across her face. Golden rim light.
+LINDA: (quiet, a little wistful) “...nothing at home ever feels like this.”
+________________
+
+
+CLIP 2 · ~10s
+0–10s
+0.0–3.0s — Soft cut to CAROL beside her, against warm ocean bokeh, a small knowing smile, a soft breeze barely moving a few loose strands of hair.
+CAROL: (light, knowing) “...you know it kind of could.”
+3.0–5.0s — Gentle cut to LINDA turning toward Carol, curious, a soft strand of hair across her face.
+LINDA: “...what do you mean?”
+5.0–8.0s — Back to CAROL, warm, a little understated, a soft shrug like sharing a small secret.
+CAROL: (warm, understated) “I've got this thing at home now.”
+8.0–10.0s — Quick warm reaction on LINDA, gently puzzled.
+LINDA: (mild, curious) “...this thing?”
+________________
+
+
+CLIP 3 · ~10s
+0–10s
+0.0–4.0s — Soft close-up on CAROL, a gentle half-smile, almost hedging, a soft breeze barely moving a few loose strands of hair.
+CAROL: (warm, hedging a little) “It's a fan. ...sort of. Not a normal one.”
+4.0–10.0s — LINDA leans back with a fond, skeptical little laugh, the soft breeze moving a strand of hair.
+LINDA: (warm, skeptical) “Carol, a fan's a fan. They all just blow right at you.”
+________________
+
+
+CLIP 4 · ~10s
+0–10s
+0.0–10.0s — Soft close-up / loose two-shot on CAROL, warm and easy, conceding the point with a little smile before turning it, a soft breeze barely moving a few loose strands of hair. Hold a gentle beat on her at the end.
+CAROL: (warm, easy) “I know. Figured you'd think the same — never even bothered bringing it up. But this one doesn't.”
+________________
+
+
+CLIP 5 · ~11s
+0–11s
+0.0–11.0s — Cut to LINDA, practical, a touch wry, a real lived-in complaint — she lightly touches the back of her neck, the soft breeze moving a strand of hair. Hold a beat on her at the end, waiting for an answer.
+LINDA: (practical, lived-in) “I can't sleep with a thing blowing on me all night. I shut mine off and still wake up stiff — and tired.”
+________________
+
+
+CLIP 6 · ~10s
+0–10s
+0.0–10.0s — Soft close-up / loose two-shot on CAROL, sincere and warm, gesturing gently toward the open air as she searches for the words, a soft breeze barely moving a few loose strands of hair.
+CAROL: (warm, earnest, searching for the words) “Right — but it doesn't blow at you. It never comes straight at you, it just kind of... moves around you.”
+________________
+
+
+CLIP 7 · ~11s
+0–11s
+0.0–4.0s — Still on CAROL, a soft gesture to the air around them, landing the thought, a soft breeze barely moving a few loose strands of hair.
+CAROL: (gentle, certain) “Honestly? It feels just like this. Like the breeze right now.”
+4.0–7.0s — Cut to LINDA, a flicker of recognition, glancing out at the air around them.
+LINDA: (softly, getting it) “...the breeze?”
+7.0–9.0s — Back to CAROL, a warm certain nod, a small smile.
+CAROL: (warm, certain) “...yeah. Exactly that.”
+9.0–11.0s — Soft cut to LINDA, quietly taking it in.
+LINDA: (quiet, thoughtful) “...huh.”
+________________
+
+
+CLIP 8 · ~11s
+0–11s
+0.0–11.0s — Soft close-up on CAROL, warm and a little amazed as she remembers, golden light on her face, the soft breeze moving a strand of hair. LINDA listens beside her.
+CAROL: (warm, remembering) “First night I had it on, I swear, it was like the walls weren't there. Like the bed was just... out here.”
+________________
+
+
+CLIP 9 · ~11s
+0–11s
+0.0–5.0s — Still on CAROL, softer now, letting it trail off gently, a soft breeze barely moving a few loose strands of hair.
+CAROL: (soft, trailing) “And I actually slept. Couldn't tell you the last time I just... slept.”
+5.0–11.0s — Cut to LINDA, a quiet, slightly vulnerable admission, looking out at the ocean.
+LINDA: (quiet, honest) “...you know I haven't slept right in years.”
+________________
+
+
+CLIP 10 · ~10s
+0–10s
+0.0–5.0s — Soft close-up on CAROL, tender, warm, looking at her friend with real affection, a soft breeze barely moving a few loose strands of hair.
+CAROL: (gentle, affectionate) “I know you haven't. That's why I'm even saying anything.”
+5.0–10.0s — Cut to LINDA, still a little guarded, a practical concern surfacing.
+LINDA: (practical, soft) “...and it's quiet? Because any little rattle and I'm up.”
+________________
+
+
+CLIP 11 · ~12s
+0–12s
+0.0–12.0s — Soft close-up / loose two-shot on CAROL, warm and almost soothing as she describes the soft sound, a gentle reassuring smile, a soft breeze barely moving a few loose strands of hair. Hold a calm beat at the end.
+CAROL: (warm, soothing) “Quietest thing in the house. Low, you don't even know it's on. Turn it up and it's just... shhh. Whole place just feels calm.”
+________________
+
+
+CLIP 12 · ~11s
+0–11s
+0.0–3.0s — Soft close-up on LINDA, softening, almost won over, a small nod, a soft breeze barely moving a few loose strands of hair.
+LINDA: (softening, pleased) “...okay. That I'd like.”
+3.0–11.0s — Cut to CAROL, warm and a little delighted, remembering one more thing.
+CAROL: (bright, warm) “Oh — and you'll love this. You drop a little scented thing in it, and the whole place just smells good. Everywhere.”
+________________
+
+
+CLIP 13 · ~11s
+0–11s
+0.0–4.0s — LINDA, a warm laugh, gently teasing her friend, the soft breeze moving a strand of hair.
+LINDA: (laughing, fond) “...okay, you're kind of selling me here.”
+4.0–11.0s — Cut to CAROL, sincere, warm, a little emotional — not selling, just love. A small self-interrupting beat.
+CAROL: (sincere, heartfelt) “I'm not trying to. I just— I want you to have one. That's all.”
+________________
+
+
+CLIP 14 · ~10s
+0–10s
+0.0–4.0s — Cut to LINDA, moved, looking back out at the golden ocean, wistful and hopeful, a soft strand of hair across her face in the gentle breeze.
+LINDA: (soft, wishful) “...and it really feels like this?”
+4.0–10.0s — Back to CAROL, a warm knowing smile, golden light on her face, the soft breeze moving a strand of hair. She holds her friend's eyes, gentle and certain. Hold the final beat.
+CAROL: (smiling, warm) “...turn it on the first night. Then you tell me.”
+
+
+Primary text
+🌬️ Ever feel a breeze so good you wish you could take it home?
+That’s literally this whole ad.
+Linda feels that perfect outside air and says…
+“I could fall asleep right here.”
+And Carol’s like:
+“You kind of can.”
+That’s SPIN360.
+Not a normal fan.
+Not air blasting straight at your face.
+A soft 360° breeze moving around the WHOLE room — gentle, fresh, and almost impossible to explain until you feel it.
+Like your bedroom finally opens up.
+Like your bed is sitting outside on the perfect night.
+🌙 quiet enough for sleep
+😴 soft “shhh” when you turn it up
+🌿 scent pod option so the room smells amazing
+🌬️ air that moves around you, not at you
+✨ makes the whole room feel calmer
+That’s why Carol wanted Linda to try it.
+Not because it’s “a fan.”
+Because it feels like bringing that breeze home.
+Tap Shop Now to feel it for yourself 👇
+
+
+Headline
+Bring That Breeze Home

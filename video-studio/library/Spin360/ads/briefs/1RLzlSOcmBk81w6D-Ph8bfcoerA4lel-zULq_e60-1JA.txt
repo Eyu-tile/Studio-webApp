@@ -1,0 +1,28 @@
+﻿Spin360_BeforeMidnight_POV
+noise.wav
+Watch: Brief  - Spin360_BeforeMidnight_POV
+A vertical ad (9:16), 8 seconds. It is an iteration of our ad Spin360_T3_Before_Midnight_Fan_Sound: same on-screen text, same length, only the fan sound. The only thing that changes is the video. We want a picture that stops the scroll better than the original.
+4 ads, one per video. Same text in all of them; only the video changes.
+Reference
+Original ad (video file): Reference_T3_Before_Midnight_Fan_Sound.mp4
+Original post: facebook.com/…/posts/1098110709570537
+What to keep from it: the exact on-screen text, the same font, size and position, the 8-second length, and only the fan sound (no music, no voice).
+On-screen text (same in every ad, from the first frame)
+POV: you're 58, the 360 fan your daughter sent you is on speed 4, and you're about to fall asleep before midnight for the first time in years
+Videos
+Ad
+	Video
+	Note
+	Spin360_BeforeMidnight_POV_Video1
+	Video1_Snow
+	Snowy night through the window, cozy bed, Spin360 glowing blue. The clip is 15 s: pick the best 8 s.
+	Spin360_BeforeMidnight_POV_Video2
+	Video2_Lake
+	Moonlit lake through the window, the whole Spin360 on the floor. The clip is 15 s: pick the best 8 s.
+	Spin360_BeforeMidnight_POV_Video3
+	Video3_TopDown
+	Camera from above: she lies in bed falling asleep, the Spin360 glowing blue on the floor beside the bed. The clip is 15 s: pick the best 8 s.
+	Spin360_BeforeMidnight_POV_Video4
+	Video4_Selfie
+	She films a quiet selfie in bed, the Spin360 glowing behind her shoulder. The clip is 15 s: pick the calmest 8 s (avoid the parts where she looks back and forth or laughs).
+	All videos are in this folder: Spin360_BeforeMidnight_POV. The videos have no text; put the text in the upper part of the frame, over the dark wall.

@@ -1,0 +1,22 @@
+﻿Spin360_Never_Invented_Before_DrillHook
+Iteration. One version. Our best visual hook (the drill hook from Reinvent_Wheel_SplitScreen_David_V2_Hook_2, 63% hook rate) goes in front of Spin360_Never_Invented_Before_Hook_3 (1:24). No text on screen: the ad's first line already makes the bridge.
+	
+
+The edit
+Time
+	What happens
+	Frames
+	0:00 – ~0:06
+	Drill hook from Reinvent_Wheel_SplitScreen_David_V2_Hook_2 (00:00–00:09.7 in that file). Use the best ~5–6 s: the smoke pulled through the blue blade, people stopping to film. Keep the street sound. No text.
+	  
+   
+	~0:06 → end
+	Spin360_Never_Invented_Before_Hook_3 from 00:00, untouched: Shark Tank, VO "The fact that nobody ever invented this before is shocking. We had so many machines that were so close to this…" over the old prototypes.
+	  
+
+	Why no text
+The drill shows a strange prototype; the very next line ("nobody ever invented this before… so many machines that were so close to this") explains it, over more prototypes. A text on top would repeat the voice.
+Notes
+Same 9:16, captions and end as Hook_3. The only variable we test is the opening.
+What's up to you
+The exact in/out of the drill shot and the cut into Shark Tank.

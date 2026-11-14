@@ -1,0 +1,694 @@
+{
+ "batch": "batch_004",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_004.out.json",
+ "clips": [
+  {
+   "id": "5c3318f2-56f1-43c6-a29d-ba8545292ace",
+   "filename": "IMG_3822.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 4.47,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5c3318f2-56f1-43c6-a29d-ba8545292ace_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan stands in a modern living room with wood-paneled ceilings. The camera slowly zooms in on the fan positioned between a green sofa and a wooden desk.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "e1fba154-9056-4536-970b-eb2d6d3fac4f",
+   "filename": "IMG_3823.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 5.5,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e1fba154-9056-4536-970b-eb2d6d3fac4f_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan stands in a modern living room with wood-paneled ceilings and a teal sofa. The camera slowly zooms in on the product as it sits near a window and a home office desk.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "e4072786-7f79-4c18-a73e-97c3e6a20878",
+   "filename": "IMG_3826.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 6.83,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e4072786-7f79-4c18-a73e-97c3e6a20878_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan with a silver mesh cage rotates its internal blades in a sunlit room. The device stands prominently against a background of light wood furniture and household items.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Living room",
+    "Product hero shot",
+    "Fan spinning close-up",
+    "Living room"
+   ]
+  },
+  {
+   "id": "8581a3ac-cb49-491d-83d0-722cb16c5664",
+   "filename": "IMG_3827.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 7.04,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8581a3ac-cb49-491d-83d0-722cb16c5664_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan with a ribbed cage spins in a bright living room. A white chair and wooden desk sit in the background.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Living room",
+    "Product hero shot",
+    "Fan spinning close-up",
+    "Living room"
+   ]
+  },
+  {
+   "id": "0e561ae6-a88b-428b-a004-5135d108d52d",
+   "filename": "IMG_3833.mov",
+   "folder": "(unfiled)",
+   "duration_s": 4.8,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0e561ae6-a88b-428b-a004-5135d108d52d_1.jpg"
+   ],
+   "bya_description": "A black cylindrical fan with a spinning silver top stands in a bright living room. Windows and a landscape painting appear in the background.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Living room",
+    "Product hero shot",
+    "Fan spinning close-up",
+    "Living room"
+   ]
+  },
+  {
+   "id": "b7c691bf-13f2-4d4b-bf38-e165893fb31f",
+   "filename": "IMG_3838.mov",
+   "folder": "(unfiled)",
+   "duration_s": 3.87,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b7c691bf-13f2-4d4b-bf38-e165893fb31f_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan stands in a living room with large windows overlooking a lake. The device remains stationary against the scenic outdoor backdrop.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "bf847edb-0cd6-4119-805b-3e4e17e5cc8c",
+   "filename": "IMG_3847.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 4.7,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/bf847edb-0cd6-4119-805b-3e4e17e5cc8c_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan stands in a living room. Large glass doors reveal a lake view.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "43ebbd32-22e9-47a8-bccc-a70d8603521e",
+   "filename": "IMG_3848.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 4.13,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/43ebbd32-22e9-47a8-bccc-a70d8603521e_1.jpg"
+   ],
+   "bya_description": "A black bug zapper fan stands in a living room. Glass doors show a lake view.",
+   "bya_tags": [
+    "Living room",
+    "Patio & backyard",
+    "Product hero shot",
+    "Living room",
+    "Patio & backyard",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "8dd03574-bea7-4fa2-88e3-5f08aebc7dfc",
+   "filename": "IMG_3854.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 6.0,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8dd03574-bea7-4fa2-88e3-5f08aebc7dfc_1.jpg"
+   ],
+   "bya_description": "A close-up view shows the top of a black and silver fan device. The internal blades are spinning rapidly behind a protective horizontal grille.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Fan spinning close-up"
+   ]
+  },
+  {
+   "id": "4dbf8c99-672d-46bd-824c-a2d68d0d80b0",
+   "filename": "IMG_3855.mov",
+   "folder": "(unfiled)",
+   "duration_s": 5.3,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4dbf8c99-672d-46bd-824c-a2d68d0d80b0_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan with a rotating silver-slatted head stands in a bright living room.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "aef5dda6-e2a6-4937-a1ea-f0f89fc6a2d9",
+   "filename": "IMG_3857.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 7.0,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/aef5dda6-e2a6-4937-a1ea-f0f89fc6a2d9_1.jpg"
+   ],
+   "bya_description": "A black tower fan with a silver mesh top stands in a living room. The camera tilts up to show the digital display and background fireplace.",
+   "bya_tags": [
+    "Fan controls",
+    "Living room",
+    "Product hero shot",
+    "Fan controls",
+    "Living room"
+   ]
+  },
+  {
+   "id": "e04d0262-42c6-48b3-b402-440393625e38",
+   "filename": "IMG_3858.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 4.57,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e04d0262-42c6-48b3-b402-440393625e38_1.jpg"
+   ],
+   "bya_description": "A hand activates a black fan in a living room, followed by a close-up of the internal blades spinning behind a grille.",
+   "bya_tags": [
+    "Fan controls",
+    "Fan spinning close-up",
+    "Living room",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Living room",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "0774433d-7255-4672-a370-9590b0494ab8",
+   "filename": "IMG_3859.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 5.79,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0774433d-7255-4672-a370-9590b0494ab8_1.jpg"
+   ],
+   "bya_description": "Close-up of fan blades spinning behind a grill in black and white.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Living room",
+    "Product hero shot",
+    "Fan spinning close-up",
+    "Living room"
+   ]
+  },
+  {
+   "id": "ffc8e04f-6eff-46e6-9c97-b3d9c5bcc271",
+   "filename": "IMG_3860.mov",
+   "folder": "(unfiled)",
+   "duration_s": 4.6,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ffc8e04f-6eff-46e6-9c97-b3d9c5bcc271_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan stands in a living room. Its blades spin behind a mesh screen near a window.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Living room",
+    "Product hero shot",
+    "Fan spinning close-up",
+    "Living room"
+   ]
+  },
+  {
+   "id": "75929d49-6b92-4bc1-9d1d-43a25356cef1",
+   "filename": "IMG_3863.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 6.15,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/75929d49-6b92-4bc1-9d1d-43a25356cef1_1.jpg"
+   ],
+   "bya_description": "A floor fan stands in a modern living room with a brick fireplace and large windows. The scene includes a side table and an armchair.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "46f58205-959b-4c3b-bd0c-9c88c843bb37",
+   "filename": "IMG_3864.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 5.52,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/46f58205-959b-4c3b-bd0c-9c88c843bb37_1.jpg"
+   ],
+   "bya_description": "Camera pans across a living room with vaulted ceilings, a brick fireplace, and white furniture. A black pedestal fan stands near large windows overlooking a lake.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "69ecb8da-adb8-44ab-a332-a7342ab00b16",
+   "filename": "IMG_3865.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 4.24,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/69ecb8da-adb8-44ab-a332-a7342ab00b16_1.jpg"
+   ],
+   "bya_description": "Camera pans across a bright living room with a white sofa and brick fireplace, revealing a black pedestal fan by the window.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "fe5feb87-f3e6-44e6-9def-23b879d27aac",
+   "filename": "IMG_3866.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 4.05,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fe5feb87-f3e6-44e6-9def-23b879d27aac_1.jpg"
+   ],
+   "bya_description": "Black floor fan stands in a sunlit living room. Camera pans, showing a sofa and artwork.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "31fbaaed-f669-4498-ab60-197560c85ee3",
+   "filename": "IMG_3869.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 4.27,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/31fbaaed-f669-4498-ab60-197560c85ee3_1.jpg"
+   ],
+   "bya_description": "A camera pans across a living room with wooden beams and a brick fireplace. A white sofa sits on a rug near large windows.",
+   "bya_tags": [
+    "Living room",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "Okay.",
+     "labels": [
+      "Living room",
+      "Relaxing at home"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e5d165de-ca1e-48a4-8657-9dc9f0166581",
+   "filename": "IMG_3871.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 5.93,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e5d165de-ca1e-48a4-8657-9dc9f0166581_1.jpg"
+   ],
+   "bya_description": "Handheld pan across a gravel patio with a lake view and pine trees. A white chair sits near a grey house exterior.",
+   "bya_tags": [
+    "Living room",
+    "Nature montage",
+    "Patio & backyard",
+    "Living room",
+    "Nature montage",
+    "Patio & backyard"
+   ]
+  },
+  {
+   "id": "bb909cc4-e9d7-41a0-8459-7cb51d73d6d6",
+   "filename": "IMG_3872.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 4.85,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/bb909cc4-e9d7-41a0-8459-7cb51d73d6d6_1.jpg"
+   ],
+   "bya_description": "Scenic lake view with trees and a small island. Camera pans left along the shoreline.",
+   "bya_tags": [
+    "Living room",
+    "Nature montage",
+    "Product hero shot",
+    "Living room",
+    "Nature montage",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "4c99c2d4-fa89-4e33-a007-f2a0d40050b4",
+   "filename": "IMG_3873.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 5.08,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4c99c2d4-fa89-4e33-a007-f2a0d40050b4_1.jpg"
+   ],
+   "bya_description": "A handheld camera pans from a wooden balcony overlooking a lake into a living room, focusing on a black cylindrical fan.",
+   "bya_tags": [
+    "Living room",
+    "Nature montage",
+    "Patio & backyard",
+    "Living room",
+    "Nature montage",
+    "Patio & backyard"
+   ]
+  },
+  {
+   "id": "1df18b56-a236-4f45-ba03-c1e546a94d68",
+   "filename": "IMG_3879.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 6.32,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1df18b56-a236-4f45-ba03-c1e546a94d68_1.jpg"
+   ],
+   "bya_description": "Porch view of a lake with trees and a white chair.",
+   "bya_tags": [
+    "Living room",
+    "Nature montage",
+    "Patio & backyard",
+    "Living room",
+    "Nature montage",
+    "Patio & backyard"
+   ]
+  },
+  {
+   "id": "43ce27fb-13f7-4831-8107-03844929401d",
+   "filename": "IMG_3882.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 6.99,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/43ce27fb-13f7-4831-8107-03844929401d_1.jpg"
+   ],
+   "bya_description": "A man sits on a wooden floor next to a large cylindrical fan. The camera pans to show a living room with a fireplace.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "81fc6a83-e76b-47df-a349-192aecf3f56e",
+   "filename": "IMG_3883.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 5.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/81fc6a83-e76b-47df-a349-192aecf3f56e_1.jpg"
+   ],
+   "bya_description": "A young man in a red shirt positions a tall black fan in front of a glass door overlooking a lake. He looks into the camera while adjusting the device's placement.",
+   "bya_tags": [
+    "Moving the fan",
+    "Patio & backyard",
+    "Moving the fan",
+    "Patio & backyard"
+   ]
+  },
+  {
+   "id": "6e2724e3-ff4c-45d4-a77f-5d48e3a31cac",
+   "filename": "IMG_3884.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 7.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6e2724e3-ff4c-45d4-a77f-5d48e3a31cac_1.jpg"
+   ],
+   "bya_description": "A wide view of a bedroom features a large window overlooking a serene lake. A black cylindrical fan stands prominently on the light wood floor beside a bed.",
+   "bya_tags": [
+    "Bedroom",
+    "Curtains & windows",
+    "Product hero shot",
+    "Bedroom",
+    "Curtains & windows"
+   ]
+  },
+  {
+   "id": "0f5c2329-714f-438c-aa18-f2088e9fb367",
+   "filename": "IMG_3885.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 6.8,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0f5c2329-714f-438c-aa18-f2088e9fb367_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan stands near a window overlooking a lake with sailboats. The camera remains static on the scene.",
+   "bya_tags": [
+    "Living room",
+    "Nature montage",
+    "Product hero shot",
+    "Living room",
+    "Nature montage"
+   ]
+  },
+  {
+   "id": "bb7ae5b9-fca5-4995-b8b5-e2604dc43fca",
+   "filename": "IMG_3887.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 5.53,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/bb7ae5b9-fca5-4995-b8b5-e2604dc43fca_1.jpg"
+   ],
+   "bya_description": "A person's feet in socks rest on a quilted bed. A black fan stands before a window showing a lake and trees.",
+   "bya_tags": [
+    "Bedroom",
+    "Curtains & windows",
+    "Product hero shot",
+    "Bedroom",
+    "Curtains & windows",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "8a555352-e466-479e-a836-97699c476fe8",
+   "filename": "IMG_3888.mov",
+   "folder": "(unfiled)",
+   "duration_s": 5.0,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8a555352-e466-479e-a836-97699c476fe8_1.jpg"
+   ],
+   "bya_description": "Wide shot of a bedroom featuring a pedestal fan by a large window overlooking a lake.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Relaxing at home",
+    "Bedroom",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "7f316a14-61ac-4ef9-8f43-2a17d58c18d9",
+   "filename": "IMG_3890.mov",
+   "folder": "(unfiled)",
+   "duration_s": 6.47,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7f316a14-61ac-4ef9-8f43-2a17d58c18d9_1.jpg"
+   ],
+   "bya_description": "A bedroom with wood ceilings and a lake view through a large window. A black pedestal fan sits on the hardwood floor near a bed.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Relaxing at home",
+    "Bedroom",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "7d7810b1-d34d-4575-b1d8-c49af87cee86",
+   "filename": "IMG_3893.mov",
+   "folder": "(unfiled)",
+   "duration_s": 3.77,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7d7810b1-d34d-4575-b1d8-c49af87cee86_1.jpg"
+   ],
+   "bya_description": "A black cylindrical device stands on a tall base in a living room. A scenic lake view is visible through the window behind it.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "59c5e970-188b-4d5f-8f09-1cd26ce4fe55",
+   "filename": "IMG_3897.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 5.3,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/59c5e970-188b-4d5f-8f09-1cd26ce4fe55_1.jpg"
+   ],
+   "bya_description": "A person lies in bed with their legs crossed, looking out a large window at a peaceful lake. The room features a rustic wooden ceiling and a minimalist aesthetic.",
+   "bya_tags": [
+    "Bedroom",
+    "Curtains & windows",
+    "Nature montage",
+    "Bedroom",
+    "Curtains & windows",
+    "Nature montage",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "c3678f80-8dec-4a7e-b06a-7cd0c1070c0a",
+   "filename": "IMG_3898.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 5.8,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c3678f80-8dec-4a7e-b06a-7cd0c1070c0a_1.jpg"
+   ],
+   "bya_description": "A person in pink pajamas flops onto a bed in a wood-paneled bedroom. A black fan stands near a large window overlooking a lake.",
+   "bya_tags": [
+    "Bedroom",
+    "Relaxing at home",
+    "Bedroom",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "8b2a9655-c7b7-403e-9c8a-4aaf0f30ede1",
+   "filename": "IMG_3899.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 5.47,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8b2a9655-c7b7-403e-9c8a-4aaf0f30ede1_1.jpg"
+   ],
+   "bya_description": "A person wearing patterned shorts jumps onto a bed in a rustic bedroom. The camera captures the movement as they land, facing a large window that offers a wide view of a lake and surrounding trees.",
+   "bya_tags": [
+    "Bedroom",
+    "Nature montage",
+    "Relaxing at home",
+    "Bedroom",
+    "Nature montage",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "6f99ddee-3f6e-4ec3-a2d5-0ed126829e8b",
+   "filename": "IMG_3902.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 5.73,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6f99ddee-3f6e-4ec3-a2d5-0ed126829e8b_1.jpg"
+   ],
+   "bya_description": "A black tower fan with a glowing top stands in a bedroom. A large window behind it shows a lake and trees.",
+   "bya_tags": [
+    "Bedroom",
+    "Nature montage",
+    "Product hero shot",
+    "Bedroom",
+    "Nature montage",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "66664c03-7286-4174-afe3-425f9d819354",
+   "filename": "IMG_3903.mov",
+   "folder": "(unfiled)",
+   "duration_s": 5.9,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/66664c03-7286-4174-afe3-425f9d819354_1.jpg"
+   ],
+   "bya_description": "A black floor fan stands in a bedroom with wood floors and a lake view through a large window.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Bedroom"
+   ]
+  }
+ ]
+}

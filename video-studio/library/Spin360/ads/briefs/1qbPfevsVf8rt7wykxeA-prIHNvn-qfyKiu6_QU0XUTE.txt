@@ -1,0 +1,36 @@
+﻿Spin360_ReinventWheel_VO_V1
+Brief - Spin360_ReinventWheel_VO.mp4
+Iteration on our winner. One version. Same edit as Reinvent_Wheel_SplitScreen_David_V2_Hook_2.mp4 (1:49). The only change: a narrator voiceover (ElevenLabs) tells the story instead of David talking on camera. Same story, same footage, same ending.
+  
+          
+How to edit
+Part
+	What happens
+	Voice
+	Generate the voiceover below in ElevenLabs with the voice "Siren - Natural realistic conversational voice" (the same narrator used in Spin360_DrillHook_SwedishBabies): https://elevenlabs.io/voices/eXpIbVcVbLo8ZJQDlDnl (voice ID eXpIbVcVbLo8ZJQDlDnl). Calm, curious storytelling tone. Mute David's voice from the original.
+	Opening
+	Same drill hook as the original (NYC street, smoke pulled through the blade). Add a simple arrow on David on "This is David Patrick."
+	Body
+	Follow the VO with the original footage: Shark Tank clips on the Shark Tank line, prototypes on "prototype after prototype", the mechanism animation and Hotter/Cooler heat map on the airflow part, product B-roll on the noise part.
+	David on camera
+	Since David is no longer speaking, avoid shots where his lips clearly move. Use B-roll, the split-screen top half, slow-motion or cutaways.
+	Ending
+	Real customer comments, as in the original.
+	Voiceover script
+
+
+This is David Patrick. And that strange shape in his drill? He used it to reinvent the wheel.
+He found it in nature. Turned it into a wheel. Spent 10 years building it. Then he walked onto Shark Tank and walked off with a deal from Kevin O'Leary and Mark Cuban.
+But the wheel was just the beginning. Because that shape is everywhere in nature, and it does something strange to air.
+It started with failure. Prototype after prototype. Then, out of all that failure, came something fantastic. A fan.
+Not a fan like yours. It pulls air in from two directions and sends it out like Saturn's rings. The hot air comes down, the cool air goes up, and the whole room settles at one temperature. Everyone in the room feels it at once. No one waits their turn. Nobody had ever made a fan like that before.
+Your fan blows one way and goes wop-wop-wop all night. This one is ultra quiet on settings one to five. And on six through nine, you get that soft shhh kind of noise.
+David calls it the best sleep of his life. You wake up and go, wow, this feels great. Like someone took the walls away.
+Which is why people keep telling him: "I hate fans… but I love yours."
+
+
+Notes
+* Same 9:16, same caption style, same music as the original.
+* The only variable we test is the narrator instead of David.
+What's up to you
+* B-roll choice for each line and the pacing of the cuts.

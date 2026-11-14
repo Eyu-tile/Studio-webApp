@@ -1,0 +1,49 @@
+﻿Spin360_SwedishBabies_AirAroundHook
+What this is: our winning Swedish Babies body with a new hook: the presenter asking "What if it's the air around you?". 3 ads, same body, 3 visual hooks.
+Body: Swedish Babies body (no offer). Use it as it is, from the first frame ("In Sweden, parents put their babies outside to sleep in the snow. On purpose."). Do not change anything in the body.
+Hook audio: TESTIMONIALS_1_1.mp4, 0:20.9–0:32.0 (the presenter's own voice).
+Same hooks as: Size: 9x16 
+Structure
+Part
+	Script
+	Visual Inspiration
+	Scene description
+	Hook
+0:00–0:11
+	(presenter) What if the reason you're not sleeping, not focusing, not fully relaxing, isn't stress or noise or even temperature? What if it's the air around you?
+	  
+
+	One of the 3 visual hooks below.
+	Cut
+0:11
+	No bridge line.
+	  
+
+	Hard cut from "…the air around you?" straight to the first shot of the body (the strollers in the snow). The cut is the bridge.
+	Body
+0:11–end
+	In Sweden, parents put their babies outside to sleep in the snow. On purpose… (to the end of the file)
+	  
+
+	The body file as it is. Same captions style for the hook.
+	Visual hooks (3 ads, same audio)
+Hook
+	Visual Inspiration
+	Scene description
+	Hook 1 · The presenter
+Spin360_SwedishBabies_AirAroundHook_Hook1
+	  
+
+  
+
+	Footage: TESTIMONIALS_1_1 0:20–0:31, as it is. She asks the question on camera on the terrace, next to the Spin360. On "What if it's the air around you?" cut to the Spin360 in the room with the curtains. Reframe to 9:16, her face centered. Strong first frame, no fade in.
+	Hook 2 · Awake at 3 a.m.
+Spin360_SwedishBabies_AirAroundHook_Hook2
+	
+
+	Seedance 2.5 (same shot as Spin360_Air_Around Hook 2). Night. A woman lies awake in bed, eyes open, sheet kicked off. Clock on the nightstand: 3:07. Nothing in the room moves: the curtain hangs dead still. On "What if it's the air around you?" slow push-in on the still curtain.
+	Hook 3 · Crossed out
+Spin360_SwedishBabies_AirAroundHook_Hook3
+	
+
+	Seedance 2.5 (same shot as Spin360_Air_Around Hook 3). Quick cuts that follow the words: woman staring at the ceiling; at her laptop rubbing her eyes; her phone full of work notifications (red X); earplugs on the nightstand (red X); a thermostat (red X). On "What if it's the air around you?": the bedroom, a ribbon on the bedpost hanging dead still.

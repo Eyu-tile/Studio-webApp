@@ -1,0 +1,2259 @@
+[
+ {
+  "id": "eab8d55b-3131-48fa-8557-4bda67872732",
+  "kind": "ugc_broll",
+  "summary": "Black Spin360 in a hallway corner: a hand presses the pole display, then repeatedly holds paper towels over the top grille, which get sucked flat onto the intake.",
+  "people": [
+   {
+    "who": "woman's hand and forearm, pink nails, rings",
+    "wardrobe": "",
+    "role": "hand only"
+   }
+  ],
+  "product": {
+   "visible": "hero",
+   "colourway": "black",
+   "on": true,
+   "details_seen": [
+    "display F1 then F6",
+    "gold halo",
+    "cage",
+    "top mesh intake grille",
+    "centre cap",
+    "pole"
+   ],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "other",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "camera": "handheld",
+    "framing": "medium",
+    "action": "fan head and pole; finger taps the round display (F1 to F6)",
+    "on_screen_text": "",
+    "audio_hint": "fan running"
+   },
+   {
+    "start": 8.0,
+    "end": 24.0,
+    "camera": "handheld",
+    "framing": "medium",
+    "action": "hand drops paper towels above the top; they flutter and get pulled down onto the cap",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 24.0,
+    "end": 65.9,
+    "camera": "handheld",
+    "framing": "medium",
+    "action": "higher angle on the top mesh grille; towels lowered/dangled and sucked flat onto the intake, hand presses and lifts them",
+    "on_screen_text": "",
+    "audio_hint": ""
+   }
+  ],
+  "best": {
+   "start": 49.0,
+   "end": 57.0,
+   "why": "long paper towel dangled and visibly pulled onto the top grille - clear suction demo"
+  },
+  "beats": [
+   "turning_on",
+   "control_display",
+   "airflow_demo_hand",
+   "product_hero"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "paper sticking to the top is a quick visual proof of air intake"
+  },
+  "brand_fit": {
+   "score": 1,
+   "why": "plain grey hallway corner, orange wood trim, carpet; no view"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "vertical crop risk"
+   ]
+  },
+  "status": "OK",
+  "status_why": "",
+  "tags": [
+   "paper towel suction test",
+   "tissue sticks to top",
+   "top intake grille",
+   "pressing display",
+   "F6",
+   "hallway corner",
+   "black unit",
+   "IMG_97xx house"
+  ]
+ },
+ {
+  "id": "782ac873-fb01-472c-b9a4-3c8553679208",
+  "kind": "ugc_broll",
+  "summary": "Lake-house living room by a sliding door: the blond young man removes a white tower fan and replaces it with a black Spin360 (before/after swap), off-camera chatter.",
+  "people": [
+   {
+    "who": "young man, late teens, blond",
+    "wardrobe": "red tee, pink floral shorts, white socks",
+    "role": "actor"
+   }
+  ],
+  "product": {
+   "visible": "full",
+   "colourway": "black",
+   "on": null,
+   "details_seen": [
+    "cage",
+    "base",
+    "pole"
+   ],
+   "other_fans": [
+    "white tower fan"
+   ],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "trees",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 30.0,
+    "camera": "static",
+    "framing": "wide",
+    "action": "white tower fan beside green armchair; man walks in, fiddles with it and carries it away",
+    "on_screen_text": "",
+    "audio_hint": "chatter"
+   },
+   {
+    "start": 30.0,
+    "end": 48.0,
+    "camera": "static",
+    "framing": "wide",
+    "action": "empty spot, then man sets down the black Spin360 and leaves",
+    "on_screen_text": "",
+    "audio_hint": "chatter"
+   },
+   {
+    "start": 48.0,
+    "end": 115.9,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Spin360 stands by sliding door (backlit); man passes behind at ~90s; unit nudged right ~102s",
+    "on_screen_text": "",
+    "audio_hint": "off-camera talk about 'Lily'"
+   }
+  ],
+  "best": {
+   "start": 36.0,
+   "end": 56.0,
+   "why": "empty spot then Spin360 placed where the tower fan stood - before/after swap"
+  },
+  "beats": [
+   "old_fan_annoyance",
+   "before_after",
+   "room_aesthetic"
+  ],
+  "hook_potential": {
+   "score": 1,
+   "why": "swap concept is useful but slow and backlit"
+  },
+  "brand_fit": {
+   "score": 1,
+   "why": "garden/trees through glass door, but dim backlit interior, floor vent grate, cable visible"
+  },
+  "quality": {
+   "score": 1,
+   "issues": [
+    "dark",
+    "blurry"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "other fan shown (white tower fan, problem shot); blurred object across bottom of frame; off-camera chatter names a person ('Lily') - not usable as voice",
+  "tags": [
+   "tower fan swap",
+   "replace old fan",
+   "before after",
+   "lake house",
+   "blond young man red tee",
+   "sliding glass door",
+   "backlit silhouette"
+  ],
+  "takes": [
+   {
+    "start": 51.1,
+    "line": "You're not allowed to sell Lily as a, like,…",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 65.3,
+    "line": "just— can't, um, I don't know what he's…",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   }
+  ],
+  "best_takes": [],
+  "speaker": {
+   "look": "no one speaks to camera; off-camera voices",
+   "setting": "lake-house living room",
+   "props": "tower fan, Spin360"
+  }
+ },
+ {
+  "id": "87fecb05-4825-4435-ae1a-2fae5110720b",
+  "kind": "ugc_talking_head",
+  "summary": "Vicky (silver-haired senior) delivers the 'If you sleep as bad as I do' script to camera in front of white built-in shelves; no product in frame.",
+  "people": [
+   {
+    "who": "woman, 60s, long wavy silver-grey hair (Vicky)",
+    "wardrobe": "white ruched wrap top with drawstring, black pants, pink nails",
+    "role": "senior"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 121.7,
+    "camera": "static",
+    "framing": "medium",
+    "action": "stands, talks to camera with open-hand gestures",
+    "on_screen_text": "",
+    "audio_hint": "VO script #1"
+   }
+  ],
+  "best": {
+   "start": 0.9,
+   "end": 5.0,
+   "why": "clean hook 'If you sleep as bad as I do...'"
+  },
+  "beats": [
+   "talking_to_camera",
+   "hot_sleeper_problem",
+   "noise_problem",
+   "quiet_demo",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "relatable senior sleep hook, warm delivery"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright, clean, airy decor; no product shown"
+  },
+  "quality": {
+   "score": 3,
+   "issues": []
+  },
+  "status": "CAUTION",
+  "status_why": "claims: 'worth every single penny', 'dead silent', 'runs on pennies, which matters when the power bill shows up', 'I finally sleep through the night again', 'first 1,000 people get $100 off'",
+  "tags": [
+   "senior woman talking head",
+   "Vicky white top",
+   "sleep hook",
+   "dead silent",
+   "runs on pennies",
+   "$100 off CTA",
+   "daughter sent me"
+  ],
+  "takes": [
+   {
+    "start": 0.9,
+    "line": "If you sleep as bad as I do in…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 5.2,
+    "line": "Summer heat just makes it impossible for me to…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 22.1,
+    "line": "And at my age, a bad night of sleep…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 28.7,
+    "line": "Then my daughter sent me the Spin 360. It…",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 43.6,
+    "line": "then my daughter sent me the Spin 360. It…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 53.3,
+    "line": "This doesn't feel like a regular fan. It's dead…",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 63.3,
+    "line": "It's dead silent on low speeds, and even if…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 76.8,
+    "line": "There's one button on the remote, and I can…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 81.0,
+    "line": "It's light enough to carry around my home and…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 91.1,
+    "line": "It's light enough to carry around my home and…",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 107.9,
+    "line": "I don't recommend things often, but this thing is…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 115.1,
+    "line": "The first 1,000— the first 1,000 people get $100…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.9,
+   5.2,
+   22.1,
+   43.6,
+   63.3,
+   76.8,
+   81.0,
+   91.1,
+   107.9,
+   115.1
+  ],
+  "speaker": {
+   "look": "silver-haired woman 60s, white wrap top, black pants, standing 3/4 body",
+   "setting": "white built-ins with cream vases, black shelf backs, white door with grey footprint decals, AV box on low shelf",
+   "props": "none - no product in frame"
+  }
+ },
+ {
+  "id": "d4cf3452-b212-46a6-8f5a-b14886172f64",
+  "kind": "ugc_talking_head",
+  "summary": "Second take of Vicky's 'If you sleep as bad as I do' script, same white-top setup, includes the 'windows open when I was a kid' line and a smiling close.",
+  "people": [
+   {
+    "who": "woman, 60s, long wavy silver-grey hair (Vicky)",
+    "wardrobe": "white ruched wrap top with drawstring, black pants, pink nails",
+    "role": "senior"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 122.5,
+    "camera": "static",
+    "framing": "medium",
+    "action": "stands, talks to camera; laughs/smiles at the end (~108-120s)",
+    "on_screen_text": "",
+    "audio_hint": "VO script #1"
+   }
+  ],
+  "best": {
+   "start": 92.0,
+   "end": 103.0,
+   "why": "clean 'I finally sleep through the night again... windows open when I was a kid'"
+  },
+  "beats": [
+   "talking_to_camera",
+   "hot_sleeper_problem",
+   "noise_problem",
+   "sleeping_comfort",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "same hook, clean"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright clean shelves, no product"
+  },
+  "quality": {
+   "score": 3,
+   "issues": []
+  },
+  "status": "CAUTION",
+  "status_why": "claims: 'worth every single penny', 'dead silent on the low speeds', 'runs on pennies', 'I finally sleep through the night again', 'first 1,000 people get $100 off'",
+  "tags": [
+   "senior woman talking head",
+   "Vicky white top",
+   "sleep hook",
+   "windows open when I was a kid",
+   "one button remote",
+   "$100 off CTA"
+  ],
+  "takes": [
+   {
+    "start": 0.8,
+    "line": "If you sleep as bad as I do in…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 5.2,
+    "line": "Summer heat just makes it impossible for me to…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 29.3,
+    "line": "Then my daughter sent me the Spin 360. It…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 47.6,
+    "line": "This doesn't feel like a regular fan. It's deep…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 71.0,
+    "line": "There's one button on the remote, and I can…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 76.8,
+    "line": "It's light enough to carry around my home and…",
+    "delivery": "restart",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 92.0,
+    "line": "I finally sleep through the night again. Honestly, it…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 103.8,
+    "line": "I don't remember.…",
+    "delivery": "stumble",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 104.9,
+    "line": "I don't recommend things often, but this thing is…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 110.6,
+    "line": "I don't remember.…",
+    "delivery": "stumble",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 111.6,
+    "line": "I don't recommend things often, but this thing is…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 115.7,
+    "line": "The first 1,000 people— the first 1,000 people get…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.8,
+   29.3,
+   47.6,
+   71.0,
+   92.0,
+   111.6,
+   115.7
+  ],
+  "speaker": {
+   "look": "silver-haired woman 60s, white wrap top, black pants, standing 3/4 body",
+   "setting": "white built-ins with cream vases, black shelf backs, white door with grey footprint decals, AV box on low shelf",
+   "props": "none - no product in frame"
+  }
+ },
+ {
+  "id": "e937bab7-4e9a-4d4f-95bb-16832afca048",
+  "kind": "ugc_talking_head",
+  "summary": "Vicky delivers the 'My husband begged for a fan' script to camera, white-top setup, no product.",
+  "people": [
+   {
+    "who": "woman, 60s, long wavy silver-grey hair (Vicky)",
+    "wardrobe": "white ruched wrap top with drawstring, black pants, pink nails",
+    "role": "senior"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 83.4,
+    "camera": "static",
+    "framing": "medium",
+    "action": "stands, talks to camera, sweeping hand gestures for 'whole room'",
+    "on_screen_text": "",
+    "audio_hint": "VO script #2"
+   }
+  ],
+  "best": {
+   "start": 0.7,
+   "end": 14.0,
+   "why": "clean full hook 'My husband begged for the fan in our room for 3 years'"
+  },
+  "beats": [
+   "talking_to_camera",
+   "old_fan_annoyance",
+   "noise_problem",
+   "quiet_demo",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 3,
+   "why": "story hook with conflict, delivered cleanly in one go"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright clean shelves, no product"
+  },
+  "quality": {
+   "score": 3,
+   "issues": []
+  },
+  "status": "CAUTION",
+  "status_why": "claims: 'dead silent. I can barely hear it', 'the whole room gets cool'",
+  "tags": [
+   "husband begged",
+   "senior woman talking head",
+   "Vicky white top",
+   "normal fan blasts you",
+   "whole atmosphere changed",
+   "dead silent"
+  ],
+  "takes": [
+   {
+    "start": 0.7,
+    "line": "My husband begged for the fan in our room…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 14.0,
+    "line": "Because here's what a normal fan— because here's what…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 32.7,
+    "line": "This one doesn't blow at you, it moves all…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 41.4,
+    "line": "This one, this one doesn't blow at you.…",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 44.3,
+    "line": "This one doesn't blow at you, it moves all…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 51.6,
+    "line": "The first time we used it, it was like…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 66.1,
+    "line": "and it's dead silent. I can barely hear it.…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 71.5,
+    "line": "And it's dead silent. I can barely hear it.…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 76,
+    "line": "If you're looking for a fan that'll change the…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.7,
+   14.0,
+   44.3,
+   51.6,
+   71.5,
+   76
+  ],
+  "speaker": {
+   "look": "silver-haired woman 60s, white wrap top, black pants, standing 3/4 body",
+   "setting": "white built-ins with cream vases, black shelf backs, white door with grey footprint decals, AV box on low shelf",
+   "props": "none - no product in frame"
+  }
+ },
+ {
+  "id": "f13c8967-7bd2-4963-baba-c9f2d6202867",
+  "kind": "ugc_talking_head",
+  "summary": "Another take of Vicky's 'My husband begged' script, white-top setup, with restarts in the middle section.",
+  "people": [
+   {
+    "who": "woman, 60s, long wavy silver-grey hair (Vicky)",
+    "wardrobe": "white ruched wrap top with drawstring, black pants, pink nails",
+    "role": "senior"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 88.9,
+    "camera": "static",
+    "framing": "medium",
+    "action": "stands, talks to camera with hand gestures",
+    "on_screen_text": "",
+    "audio_hint": "VO script #2"
+   }
+  ],
+  "best": {
+   "start": 0.9,
+   "end": 14.5,
+   "why": "clean hook with 'more surprised than me'"
+  },
+  "beats": [
+   "talking_to_camera",
+   "old_fan_annoyance",
+   "noise_problem",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 3,
+   "why": "clean story hook"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright clean shelves, no product"
+  },
+  "quality": {
+   "score": 3,
+   "issues": []
+  },
+  "status": "OK",
+  "status_why": "",
+  "tags": [
+   "husband begged",
+   "senior woman talking head",
+   "Vicky white top",
+   "check out Spin 360 CTA"
+  ],
+  "takes": [
+   {
+    "start": 0.9,
+    "line": "My husband begged for a fan in our room…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 14.7,
+    "line": "I just can't stand air blowing on me, and…",
+    "delivery": "restart",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 39.2,
+    "line": "This one doesn't blow at you, it moves all…",
+    "delivery": "restart",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 48.6,
+    "line": "this one doesn't blow at you, it moves all…",
+    "delivery": "stumble",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 74.8,
+    "line": "If you're looking for a fan that'll change the…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 81.7,
+    "line": "If you're looking for a fan that'll change the…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.9,
+   48.6,
+   81.7
+  ],
+  "speaker": {
+   "look": "silver-haired woman 60s, white wrap top, black pants, standing 3/4 body",
+   "setting": "white built-ins with cream vases, black shelf backs, white door with grey footprint decals, AV box on low shelf",
+   "props": "none - no product in frame"
+  }
+ },
+ {
+  "id": "28fff23d-3871-4ab4-a3e2-766089ecbad4",
+  "kind": "ugc_talking_head",
+  "summary": "Vicky tries three hook variants for the scent script ('smell like a 5-star luxury hotel') then the room-spray/candle problem and mechanism lines; white-top setup, no product.",
+  "people": [
+   {
+    "who": "woman, 60s, long wavy silver-grey hair (Vicky)",
+    "wardrobe": "white ruched wrap top with drawstring, black pants, pink nails",
+    "role": "senior"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 110.4,
+    "camera": "static",
+    "framing": "medium",
+    "action": "stands, talks to camera; finger-point gestures; touches face at end (~108s)",
+    "on_screen_text": "",
+    "audio_hint": "VO script #3 scent"
+   }
+  ],
+  "best": {
+   "start": 8.8,
+   "end": 22.0,
+   "why": "clean 'holy grail... 5-star luxury hotel' hook"
+  },
+  "beats": [
+   "talking_to_camera",
+   "scent_reaction",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 3,
+   "why": "three alternative scent hooks to A/B"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright clean shelves, no product"
+  },
+  "quality": {
+   "score": 3,
+   "issues": []
+  },
+  "status": "CAUTION",
+  "status_why": "claims: 'smell like a 5-star luxury hotel', candles are 'honestly a fire hazard', 'revolutionary silent fan', 'Active Breeze Diffusion', 'silently pushes out a gentle cooling breeze'",
+  "tags": [
+   "scent hook",
+   "5-star luxury hotel",
+   "holy grail",
+   "room sprays vs candles",
+   "Vicky white top",
+   "senior woman talking head",
+   "hook variants"
+  ],
+  "takes": [
+   {
+    "start": 1.2,
+    "line": "This has become my absolute holy grail for making…",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 8.8,
+    "line": "this has become my absolute holy grail for making…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 22.5,
+    "line": "This is my new obsession for making my house…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 32.9,
+    "line": "I finally figured out the trick to making my…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 43.9,
+    "line": "I used to buy those expensive room sprays, but…",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 47.7,
+    "line": "I used to buy those expensive room sprays, but…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 60.6,
+    "line": "So I switched to the Spin 360. It looks…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 75.4,
+    "line": "Normal, normal diffusers just drop a mist onto a…",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 102.4,
+    "line": "It completely changes the atmosphere of the room in…",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 108.6,
+    "line": "it completely changes the atmosphere in the…",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   }
+  ],
+  "best_takes": [
+   8.8,
+   22.5,
+   32.9,
+   47.7,
+   60.6,
+   75.4
+  ],
+  "speaker": {
+   "look": "silver-haired woman 60s, white wrap top, black pants, standing 3/4 body",
+   "setting": "white built-ins with cream vases, black shelf backs, white door with grey footprint decals, AV box on low shelf",
+   "props": "none - no product in frame"
+  }
+ },
+ {
+  "id": "23e46897-d567-4de6-994f-5f9ce9d466bf",
+  "kind": "ugc_talking_head",
+  "summary": "Continuation of Vicky's scent script: atmosphere line, three scent pods, 'you stop smelling your own home', summary and $100-off CTA; she walks to the camera twice to reset.",
+  "people": [
+   {
+    "who": "woman, 60s, long wavy silver-grey hair (Vicky)",
+    "wardrobe": "white ruched wrap top with drawstring, black pants, pink nails",
+    "role": "senior"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 40.0,
+    "camera": "static",
+    "framing": "medium",
+    "action": "talks, counts pods on fingers",
+    "on_screen_text": "",
+    "audio_hint": "VO"
+   },
+   {
+    "start": 40.0,
+    "end": 46.0,
+    "camera": "static",
+    "framing": "close",
+    "action": "walks up and reaches for camera",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 46.0,
+    "end": 94.0,
+    "camera": "static",
+    "framing": "medium",
+    "action": "talks to camera",
+    "on_screen_text": "",
+    "audio_hint": "VO"
+   },
+   {
+    "start": 94.0,
+    "end": 100.0,
+    "camera": "static",
+    "framing": "close",
+    "action": "reaches arm to camera again",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 100.0,
+    "end": 119.9,
+    "camera": "static",
+    "framing": "medium",
+    "action": "CTA to camera",
+    "on_screen_text": "",
+    "audio_hint": "CTA"
+   }
+  ],
+  "best": {
+   "start": 59.8,
+   "end": 71.0,
+   "why": "clean 'here's the thing nobody tells you: you stop smelling your own home'"
+  },
+  "beats": [
+   "talking_to_camera",
+   "scent_tray",
+   "scent_reaction",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "'thing nobody tells you' line works as a secondary hook"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright clean shelves, no product"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "arm reaching into lens at ~42s and ~96s"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "claims: 'cools the room', 'dead quiet', 'first 1,000 people get $100 off'; scent names said: 'Clean Floral Vanilla', 'Sunlit Citrus'",
+  "tags": [
+   "scent pods",
+   "3 pods I rotate",
+   "guests ask what smells so good",
+   "Vicky white top",
+   "click the link below",
+   "$100 off CTA"
+  ],
+  "takes": [
+   {
+    "start": 0.7,
+    "line": "It completely changes the atmosphere in the room in…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 17.2,
+    "line": "There are 3 pods I rotate: Clean Floram Vanilla…",
+    "delivery": "restart",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 59.8,
+    "line": "But here's the thing nobody tells you: you stop…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 71.8,
+    "line": "The Spin 360 cools the room and dead quiet,…",
+    "delivery": "restart",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 102.3,
+    "line": "The first 1,000 people get $100 off. So click…",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 107.1,
+    "line": "The first 1,000 people get $100 off, so click…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 113.1,
+    "line": "The first 1,000 people get $100 off, so click…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.7,
+   59.8,
+   113.1
+  ],
+  "speaker": {
+   "look": "silver-haired woman 60s, white wrap top, black pants, standing 3/4 body",
+   "setting": "white built-ins with cream vases, black shelf backs, white door with grey footprint decals, AV box on low shelf",
+   "props": "none - no product in frame"
+  }
+ },
+ {
+  "id": "8cd5326b-235b-465f-94ae-53b37e4223ce",
+  "kind": "ugc_talking_head",
+  "summary": "Vicky in black top stands behind a black Spin360 head (scent pod on the top cap) and delivers the 'If you sleep as bad as I do' script.",
+  "people": [
+   {
+    "who": "woman, 60s, long wavy silver-grey hair (Vicky)",
+    "wardrobe": "black fitted top, cream wide-leg trousers, pink nails",
+    "role": "senior"
+   }
+  ],
+  "product": {
+   "visible": "full",
+   "colourway": "black",
+   "on": null,
+   "details_seen": [
+    "cage",
+    "gold halo",
+    "top cap",
+    "scent pod on top cap (gold label)"
+   ],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 119.8,
+    "camera": "static",
+    "framing": "medium",
+    "action": "talks over the fan head, gestures around it, hands rest on cap",
+    "on_screen_text": "",
+    "audio_hint": "VO script #1"
+   }
+  ],
+  "best": {
+   "start": 26.8,
+   "end": 43.0,
+   "why": "clean mechanism line with hands framing the fan"
+  },
+  "beats": [
+   "talking_to_camera",
+   "product_hero",
+   "hot_sleeper_problem",
+   "noise_problem",
+   "quiet_demo",
+   "scent_tray",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "hook delivered with product in frame"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright luxe living room, fan prominent"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "fan head crowds lower frame",
+    "slightly soft"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "claims: 'worth every single penny', 'dead silent on low speeds', 'runs on pennies, which matters when the power bill shows', 'I finally sleep through the night again', 'first 1,000 people get $100 off'",
+  "tags": [
+   "senior woman with fan",
+   "Vicky black top",
+   "scent pod on top",
+   "sleep hook",
+   "runs on pennies",
+   "$100 off"
+  ],
+  "takes": [
+   {
+    "start": 0.8,
+    "line": "If you sleep as bad as I do in…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 26.8,
+    "line": "Then my daughter sent me the Spin 360. It…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 43.8,
+    "line": "It pulls air from both sides and sends it…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 52.1,
+    "line": "This doesn't feel like a regular fan. It's dead…",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 55.9,
+    "line": "It's dead silent on low speeds.…",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 58.2,
+    "line": "It's dead silent on low speeds, and even if…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 69.7,
+    "line": "There's one button on the remote, and I can…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 75.9,
+    "line": "It's light enough to carry around my home. And…",
+    "delivery": "stumble",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 86.8,
+    "line": "It's light enough to carry around my home and…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 94.6,
+    "line": "I finally sleep through the night again. Honestly, I…",
+    "delivery": "stumble",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 101.9,
+    "line": "Honestly, it feels like sleeping with the windows open…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 106.0,
+    "line": "I don't remember things often, but this thing is…",
+    "delivery": "stumble",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 110.1,
+    "line": "The first 1,000 people get $100 off.…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 114.0,
+    "line": "The first 1,000 people get $100 off.…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.8,
+   26.8,
+   58.2,
+   69.7,
+   86.8,
+   101.9,
+   114.0
+  ],
+  "speaker": {
+   "look": "silver-haired woman 60s, black top, cream trousers, standing behind the fan head",
+   "setting": "bright living room, white fireplace surround, black/white shelving with cream vases, footprint-decal door, white carpet",
+   "props": "black Spin360 head in foreground (no pole display seen)"
+  }
+ },
+ {
+  "id": "8b4dc225-8286-4bb2-9216-49372a9e3285",
+  "kind": "ugc_talking_head",
+  "summary": "Wider, soft-focus take of Vicky (black top) beside a black Spin360 delivering the 'If you sleep as bad as I do' script, tapping the top cap.",
+  "people": [
+   {
+    "who": "woman, 60s, long wavy silver-grey hair (Vicky)",
+    "wardrobe": "black fitted top, cream wide-leg trousers, pink nails",
+    "role": "senior"
+   }
+  ],
+  "product": {
+   "visible": "full",
+   "colourway": "black",
+   "on": null,
+   "details_seen": [
+    "cage",
+    "gold halo",
+    "top cap"
+   ],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 119.0,
+    "camera": "static",
+    "framing": "medium",
+    "action": "stands behind fan, hands on cap, gestures",
+    "on_screen_text": "",
+    "audio_hint": "VO script #1"
+   },
+   {
+    "start": 119.0,
+    "end": 120.3,
+    "camera": "static",
+    "framing": "close",
+    "action": "leans into lens to stop recording",
+    "on_screen_text": "",
+    "audio_hint": ""
+   }
+  ],
+  "best": {
+   "start": 32.8,
+   "end": 51.0,
+   "why": "clean mechanism line"
+  },
+  "beats": [
+   "talking_to_camera",
+   "product_hero",
+   "hot_sleeper_problem",
+   "quiet_demo",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 1,
+   "why": "soft focus weakens it"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright luxe living room"
+  },
+  "quality": {
+   "score": 1,
+   "issues": [
+    "blurry"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "soft focus throughout; claims: 'worth every single penny', 'dead silent', 'runs on pennies', 'I finally sleep through the night', '$100 off'",
+  "tags": [
+   "Vicky black top",
+   "senior woman with fan",
+   "soft focus",
+   "sleep hook"
+  ],
+  "takes": [
+   {
+    "start": 1.0,
+    "line": "If you sleep as bad as I do in…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 6.0,
+    "line": "Summer heat just makes it impossible—…",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 9.5,
+    "line": "summer heat makes it impossible for me to sleep.…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 32.8,
+    "line": "Then my daughter sent me the Spin 360. It…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 51.3,
+    "line": "This doesn't feel like a regular fan. It's dead…",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 63.8,
+    "line": "it's dead, it's dead silent on low speeds, and…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 77.7,
+    "line": "There's one button on the remote and I can…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 100.4,
+    "line": "Honestly, it feels like sleeping with the windows open…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 108.0,
+    "line": "Honestly, it feels like sleeping with the windows open…",
+    "delivery": "stumble",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 115.2,
+    "line": "The first 1,000 people get $100 off.…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   1.0,
+   9.5,
+   32.8,
+   63.8,
+   77.7,
+   108.0,
+   115.2
+  ],
+  "speaker": {
+   "look": "silver-haired woman 60s, black top, cream trousers, standing behind the fan head",
+   "setting": "bright living room, white fireplace surround, black/white shelving with cream vases, footprint-decal door, white carpet",
+   "props": "black Spin360 head in foreground (no pole display seen)"
+  }
+ },
+ {
+  "id": "f3d106d1-ec82-438c-ae21-4306d2944232",
+  "kind": "ugc_talking_head",
+  "summary": "Vicky (black top) behind a black Spin360 with a scent pod on top delivers the 'My husband begged' script; slightly soft focus.",
+  "people": [
+   {
+    "who": "woman, 60s, long wavy silver-grey hair (Vicky)",
+    "wardrobe": "black fitted top, cream wide-leg trousers, pink nails",
+    "role": "senior"
+   }
+  ],
+  "product": {
+   "visible": "full",
+   "colourway": "black",
+   "on": null,
+   "details_seen": [
+    "cage",
+    "gold halo",
+    "top cap",
+    "scent pod on top cap"
+   ],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 89.2,
+    "camera": "static",
+    "framing": "medium",
+    "action": "talks over fan head, wide sweeping arm at ~18s, hands rest on cap",
+    "on_screen_text": "",
+    "audio_hint": "VO script #2"
+   }
+  ],
+  "best": {
+   "start": 0.8,
+   "end": 5.7,
+   "why": "clean hook with product in frame"
+  },
+  "beats": [
+   "talking_to_camera",
+   "product_hero",
+   "old_fan_annoyance",
+   "noise_problem",
+   "quiet_demo",
+   "scent_tray",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "story hook, product visible"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright luxe room"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "blurry"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "soft focus; claims: 'dead silent. I can barely hear it', 'the whole room goes cool'",
+  "tags": [
+   "husband begged",
+   "Vicky black top",
+   "scent pod on top",
+   "senior woman with fan"
+  ],
+  "takes": [
+   {
+    "start": 0.8,
+    "line": "My husband begged for a fan in our room…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 5.7,
+    "line": "I just can't stand air blowing on me, and…",
+    "delivery": "stumble",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 34.4,
+    "line": "This one doesn't blow at you, it moves all…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 46.7,
+    "line": "The first time I used it, it was like…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 52.1,
+    "line": "The first time we used it, it was like…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 65.1,
+    "line": "It feels like the whole air in your room…",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 68.6,
+    "line": "It feels like the whole air in your room…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 76.2,
+    "line": "If you're looking for a fan that'll If you're…",
+    "delivery": "restart",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 81.8,
+    "line": "if you're looking for a fan that'll change the…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.8,
+   5.7,
+   34.4,
+   52.1,
+   68.6,
+   81.8
+  ],
+  "speaker": {
+   "look": "silver-haired woman 60s, black top, cream trousers, standing behind the fan head",
+   "setting": "bright living room, white fireplace surround, black/white shelving with cream vases, footprint-decal door, white carpet",
+   "props": "black Spin360 head in foreground (no pole display seen)"
+  }
+ },
+ {
+  "id": "15b713c2-b245-4b02-9735-f1585ed13c14",
+  "kind": "ugc_talking_head",
+  "summary": "Vicky (black top) beside a black Spin360 delivers the 'My husband begged' script with many restarts; walks to the camera mid-clip, sharper focus after ~36s.",
+  "people": [
+   {
+    "who": "woman, 60s, long wavy silver-grey hair (Vicky)",
+    "wardrobe": "black fitted top, cream wide-leg trousers, pink nails",
+    "role": "senior"
+   }
+  ],
+  "product": {
+   "visible": "full",
+   "colourway": "black",
+   "on": null,
+   "details_seen": [
+    "cage",
+    "gold halo",
+    "top cap"
+   ],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 34.0,
+    "camera": "static",
+    "framing": "medium",
+    "action": "talks behind fan, soft focus",
+    "on_screen_text": "",
+    "audio_hint": "VO"
+   },
+   {
+    "start": 34.0,
+    "end": 58.0,
+    "camera": "static",
+    "framing": "medium",
+    "action": "sharper; talks, hands on fan cap",
+    "on_screen_text": "",
+    "audio_hint": "VO"
+   },
+   {
+    "start": 58.0,
+    "end": 82.0,
+    "camera": "static",
+    "framing": "close",
+    "action": "walks to camera, leans in to check, returns",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 82.0,
+    "end": 117.2,
+    "camera": "static",
+    "framing": "medium",
+    "action": "talks with hand on fan; CTA",
+    "on_screen_text": "",
+    "audio_hint": "VO"
+   }
+  ],
+  "best": {
+   "start": 110.0,
+   "end": 117.0,
+   "why": "clean CTA, sharp, hand on product"
+  },
+  "beats": [
+   "talking_to_camera",
+   "product_hero",
+   "old_fan_annoyance",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 1,
+   "why": "hook is soft-focus"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright luxe room"
+  },
+  "quality": {
+   "score": 1,
+   "issues": [
+    "blurry",
+    "walks into lens"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "soft focus first half; claims: 'the whole room gets cool'",
+  "tags": [
+   "husband begged",
+   "Vicky black top",
+   "senior woman with fan",
+   "check out Spin 360"
+  ],
+  "takes": [
+   {
+    "start": 1.0,
+    "line": "My husband begged me for a fan in our…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 5.9,
+    "line": "I can't stand air blowing on me, and I…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 49.0,
+    "line": "This one doesn't blow at you. It moves all…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 87.6,
+    "line": "The first time we used it, it was the…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 110.0,
+    "line": "If you're looking for a fan that'll change the…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   1.0,
+   5.9,
+   49.0,
+   87.6,
+   110.0
+  ],
+  "speaker": {
+   "look": "silver-haired woman 60s, black top, cream trousers, standing behind the fan head",
+   "setting": "bright living room, white fireplace surround, black/white shelving with cream vases, footprint-decal door, white carpet",
+   "props": "black Spin360 head in foreground (no pole display seen)"
+  }
+ },
+ {
+  "id": "f3083533-44d4-47dd-939f-980a115bb4ba",
+  "kind": "ugc_talking_head",
+  "summary": "Vicky (black top) behind a black Spin360 delivers the scent-script mechanism, three pods and CTA lines, holding a scent pod in her hands; soft focus.",
+  "people": [
+   {
+    "who": "woman, 60s, long wavy silver-grey hair (Vicky)",
+    "wardrobe": "black fitted top, cream wide-leg trousers, pink nails",
+    "role": "senior"
+   }
+  ],
+  "product": {
+   "visible": "full",
+   "colourway": "black",
+   "on": null,
+   "details_seen": [
+    "cage",
+    "gold halo",
+    "top cap",
+    "scent pod held in hand",
+    "pod on top cap"
+   ],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 40.0,
+    "camera": "static",
+    "framing": "medium",
+    "action": "talks behind fan, pod on cap",
+    "on_screen_text": "",
+    "audio_hint": "VO"
+   },
+   {
+    "start": 40.0,
+    "end": 46.0,
+    "camera": "static",
+    "framing": "medium",
+    "action": "steps aside out of frame, picks up pod",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 46.0,
+    "end": 81.0,
+    "camera": "static",
+    "framing": "medium",
+    "action": "talks holding a small scent pod",
+    "on_screen_text": "",
+    "audio_hint": "VO pods/CTA"
+   }
+  ],
+  "best": {
+   "start": 22.9,
+   "end": 44.0,
+   "why": "clean three-pods line"
+  },
+  "beats": [
+   "talking_to_camera",
+   "product_hero",
+   "scent_tray",
+   "scent_reaction",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 1,
+   "why": "mid-script lines, soft focus"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright luxe room, pod in hand"
+  },
+  "quality": {
+   "score": 1,
+   "issues": [
+    "blurry"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "soft focus; claims: 'revolutionary silent fan', 'infused with luxury scent in a complete 360-degree circle', 'dead quiet', 'first 1,000 people get $100 off'",
+  "tags": [
+   "scent pods",
+   "Vicky black top",
+   "holding scent pod",
+   "Citrus Sandalwood",
+   "guests ask what smells so good",
+   "$100 off"
+  ],
+  "takes": [
+   {
+    "start": 1.0,
+    "line": "But this is actually a revolutionary silent fan. It…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 22.9,
+    "line": "There are 3 pods I rotate: Clean Floral Vanilla,…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 44.2,
+    "line": "There are 3 pods that rotate: Clean Floral and…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 56.4,
+    "line": "Because here's the thing nobody tells you.…",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 59.0,
+    "line": "Because here's the thing that nobody tells you. You…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 67.9,
+    "line": "The Spin 360 cools the room, it's dead quiet,…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 73.5,
+    "line": "The first 1,000 people get $100 off, so click…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   1.0,
+   22.9,
+   59.0,
+   67.9,
+   73.5
+  ],
+  "speaker": {
+   "look": "silver-haired woman 60s, black top, cream trousers, standing behind the fan head",
+   "setting": "bright living room, white fireplace surround, black/white shelving with cream vases, footprint-decal door, white carpet",
+   "props": "black Spin360 head, small scent pod in hand"
+  }
+ },
+ {
+  "id": "d368b5a6-ad1f-429c-bc50-543497f53d84",
+  "kind": "ugc_talking_head",
+  "summary": "Lauren selfie-talks on a couch in her forest-view cabin with the black Spin360 behind her, covering tip 3 ('2 birds, one stone... kills 3') and tip 4.",
+  "people": [
+   {
+    "who": "woman, 30s-40s, blonde hair pulled back (Lauren)",
+    "wardrobe": "brown cami top, gold necklace",
+    "role": "creator"
+   }
+  ],
+  "product": {
+   "visible": "partial",
+   "colourway": "black",
+   "on": null,
+   "details_seen": [
+    "cage",
+    "gold halo",
+    "top mesh",
+    "pole"
+   ],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "trees",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 80.5,
+    "camera": "selfie",
+    "framing": "close",
+    "action": "talks to camera, gestures; Spin360 head over her shoulder against wood-framed windows and pines",
+    "on_screen_text": "",
+    "audio_hint": "VO tips 3-4"
+   }
+  ],
+  "best": {
+   "start": 1.9,
+   "end": 11.0,
+   "why": "punchy '2 birds, one stone. This thing kills 3' hook"
+  },
+  "beats": [
+   "talking_to_camera",
+   "family_kids",
+   "quiet_demo",
+   "scent_tray",
+   "room_aesthetic"
+  ],
+  "hook_potential": {
+   "score": 3,
+   "why": "'This thing kills 3' is a strong list hook"
+  },
+  "brand_fit": {
+   "score": 3,
+   "why": "sunlit cabin, pine-tree view, product in background"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "handheld selfie wobble",
+    "fan partly cropped"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "kid claims: 'soft white noise my kids are obsessed with, so the sound machine is officially retired', 'this calms them down'; 'it cools the whole room'",
+  "tags": [
+   "Lauren",
+   "cabin forest view",
+   "mom tips",
+   "2 birds one stone",
+   "kids room",
+   "white noise",
+   "scent pod in the top",
+   "selfie talking head"
+  ],
+  "takes": [
+   {
+    "start": 1.9,
+    "line": "Number 3, this is the one my friends always…",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 11.0,
+    "line": "20 minutes before bedtime, I turn on this fan…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 24.2,
+    "line": "Bird 2, on the higher speeds, it makes this…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 31.9,
+    "line": "Bird 3, I drop a little scent pod in…",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 53.0,
+    "line": "Tip number 4, the second their lights go off,…",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   1.9,
+   11.0,
+   24.2,
+   31.9,
+   53.0
+  ],
+  "speaker": {
+   "look": "blonde woman, brown cami, seated on cream couch",
+   "setting": "mountain cabin, wood-framed windows, pine trees",
+   "props": "black Spin360 behind her"
+  }
+ }
+]

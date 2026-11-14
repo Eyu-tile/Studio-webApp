@@ -1,0 +1,263 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_Sleeping_Porch
+Author: Gabriel
+Editor: Chose
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Sizes Needed: 9x16
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 Video
+
+
+
+
+________________
+
+
+[3] Creative Direction
+
+
+
+
+Watch:Avel Cialt Ad Plan, Hooks, Voiceover
+brief vsl.mp4
+
+
+
+
+
+
+Voiceover:
+A calm, warm female documentary narrator. Unhurried. She's telling you something true she finds quietly fascinating — teaching, not selling. Think the register of a nature/history documentary: measured, intimate, a little wonder underneath, never hype, never an ad-read. Age feels 45–60, trustworthy, someone who's earned her calm.
+
+
+
+
+
+
+________________
+
+
+[4] Script
+ A hundred years ago, a lot of American families slept in a room with almost no walls. On purpose.
+Past the bedrooms there'd be a porch closed in with window screen, open to the night air on every side. In summer the whole house slept up there.
+They called it the sleeping porch. For about thirty years it was just part of a normal house. Then it vanished, and most people today have never even heard of it.
+And the part nobody could explain? These families weren't roughing it. They'd screen the whole room in, add storm windows for winter, keep it running all year. They gave up a whole room and couldn't quite say why it worked so well. They just knew they slept better up there. Every time.
+And when people finally figured out why, it wasn't what anyone guessed. It had nothing to do with the cold, or being outside.
+Because here's the strange part, and you already know this about yourself. Nearly everyone who ever lived slept like this. Moving air, open windows, a breeze on your skin, all night. That's the only way anyone slept, for as long as there have been people. The sealed room with the still air is the new thing. That's the experiment. And you've been the test subject your whole life, and nobody ever told you.
+So one man who designs things got obsessed with this. Not with cooling a room down. He wanted the thing the porch gave people, that moving night air, put back into a normal bedroom, walls and all.
+What he built is called the Spin360. Most fans push a hard line of air at one spot. This one pulls it in and sends it out in every direction at once, so it moves around the whole room. And the blade's shaped so what reaches you feels like a breeze. The real kind, that comes at you from every side on a good night.
+The first time it's running, people go quiet. The room stops feeling like a room. You lie there with the air moving over you, lose track of when you drifted off, and wake up rested in a way you'd stopped expecting.
+ It's quiet, too. Under speed five you won't hear it. Past that it's a soft sound, like wind through a tree, the kind that empties your head. Drop a scent pod in and the room smells like a forest, pine or cedar.
+It comes from the guy who reinvented the wheel with the Shark Wheel
+The first thousand people get a hundred dollars off. 
+So that whole mystery — why those families slept so much better with no walls? It was never the porch. It was the moving air, the exact thing your sealed bedroom quietly took from you. 
+The Spin360 puts it back. If your sleep has felt off for years and you never knew why, this might be the reason nobody told you.
+
+
+
+
+[5] Shotlist / Storyboard
+ 
+________________
+
+
+HOOKS VARIATIONS
+	HOOK
+	Script
+	Visual
+	Description
+	1
+	
+
+	  
+  
+
+	
+
+	2
+	A hundred years ago, a lot of American families slept in a room with almost no walls. On purpose
+	
+
+  
+
+	
+
+	3
+	
+
+	
+
+  
+  
+
+	
+
+	4
+	
+
+	  
+
+	
+
+	
+
+
+
+
+
+
+
+	Script 
+	Visual 
+	Description 
+	A hundred years ago, a lot of American families slept in a room with almost no walls. On purpose.
+
+
+ Past the bedrooms there'd be a porch closed in with window screen, open to the night air on every side. In summer the whole house slept up there." 
+	  
+  
+  
+  
+
+	
+
+
+
+This is the opening, and it's all real archival footage of an early-1900s sleeping porch — a screened room at night with an iron bed, moonlight coming through the screens, then wider views of the room and the house from outside. The job here is to make old photographs feel alive without ever feeling like a slideshow: slow, patient camera moves, varied in direction, in a consistent faded documentary grade with film grain. These are horizontal photos going into a vertical frame, so work into a vertical slice of each image or build depth with a parallax move whatever reads best. The one moment to protect is the pause on "On purpose": hold on a still frame there and let the sound fall away, so those two words land in near-silence before we move on. 
+	They called it the sleeping porch. For about thirty years it was just part of a normal house. Then it vanished, and most people today have never even heard of it. And the part nobody could explain? These families weren't roughing it. They'd screen the whole room in, add storm windows for winter, keep it running all year. They gave up a whole room and couldn't quite say why it worked so well. They just knew they slept better up there. Every time. 
+	  
+  
+  
+  
+  
+  
+
+	This stretch names the sleeping porch, shows it was an ordinary part of a normal house, and then opens the mystery — comfortable, cared-for rooms that people went to real trouble over, for a reason nobody could explain. Visually it moves from a "normal house" image into quiet, intimate details: clean linens, a made bed, a screen breathing in a breeze, an empty porch at dusk. Two bits of craft matter here. First, sell "it vanished" by draining the warmth out of the image — let it cool and desaturate rather than cutting. Second, this is the calmest, most patient part of the film, so let the shots breathe: slow moves, held long. Where no real archival photo fits a beat, lean on generic atmosphere rather than faking a historical photo. Keep everything in one consistent archival look so it all feels like the same world. 
+	And when people finally figured out why, it wasn't what anyone guessed. It had nothing to do with the cold, or being outside. Because here's the strange part, and you already know this about yourself. Nearly everyone who ever lived slept like this. Moving air, open windows, a breeze on your skin, all night… The sealed room with the still air is the new thing. That's the experiment. And you've been the test subject your whole life, and nobody ever told you. 
+	  
+  
+  
+  
+  
+
+	This is the turn — the most important part of the first half — and the visual should travel with it. It starts in the faded archive (a still old photo, very quiet), moves into timeless, universal images of moving air (a curtain lifting at an open window, wind over a field of grass at dusk), and then shifts into a still, sealed, modern bedroom with dead air. Build that as one smooth progression, not separate looks — the world literally warms and then goes cold and modern as we go. Give the moving-air section floating, drifting camera that feels like the air itself, then lock the camera off hard on the modern stillness so it feels wrong on purpose. This is also where the music does its one big build, so leave the visuals simple and let them ride under it. 
+	
+
+	  
+  
+
+	This is the bridge into the product, so it stays in the story world but leans forward. Show david — hands sketching, a workbench, materials, a shape being worked out — and the look gets warmer and more concrete here as we leave the dreamy archive behind. The key shot is the last one: a sheer curtain lifting in the night air, framed so the movement of the air is the main thing happening. That motion is your bridge — you'll cut on it straight into the first product shot, where the porch's moving air becomes the fan's. Leave clean handles around that curtain movement so the cut can land on the motion, not on a frozen frame. 
+	What he built is called the Spin360. Most fans push a hard line of air at one spot. This one pulls it in and sends it out in every direction at once, so it moves around the whole room. And the blade's shaped so what reaches you feels like a breeze. The real kind, that comes at you from every side on a good night. 
+	  
+  
+  
+
+
+
+	This is the moment the product finally appears, more than a minute and a half in, so it has to feel like relief, not a sales spike. Come out of the curtain match-cut into a warm, real modern bedroom at night with the Spin360 running — real footage, calm light, the fan simply belonging in the room. As the voice explains how it works, show the air behavior with a clean motion-graphics layer over the real footage: air pulled in and sent out in every direction, reaching the whole room, then a soft close shot of it moving something real (a curtain, fabric). The one hard rule: the air must always read as movement and whole-room coverage, never as cooling or cold — no blue "cold" tint, no frost, nothing about temperature. This is the film's biggest sound moment too: let the old room-tone bloom into the fan's soft air. 
+	The first time it's running, people go quiet. The room stops feeling like a room. You lie there with the air moving over you, lose track of when you drifted off, and wake up rested in a way you'd stopped expecting. 
+	
+
+	This sells the result, not the object  a woman in the avatar's range settling into rest in a warm bedroom, the air moving over her, then paying it off with a real morning wake-up in soft light: calm, restored. Keep the same room and person from night to morning so it feels continuous. The register is quiet comfort and relief — the payoff is "rested," so land it on the waking. 
+	It's quiet, too. Under speed five you won't hear it. Past that it's a soft sound, like wind through a tree, the kind that empties your head. Drop in a scent pod and the room softens, like a garden breathing at night.
+	  
+  
+  
+
+	
+
+	It comes from the guy who reinvented the wheel with the Shark Wheel. The first thousand people get a hundred dollars off.
+	  
+  
+
+	
+
+	So that whole mystery, why those families slept so much better with no walls? It was never the porch. It was the moving air, the exact thing your sealed bedroom quietly took from you. The Spin360 puts it back. If your sleep has felt off for years and you never knew why, this might be the reason nobody told you. 
+	  
+  
+  
+  
+
+	The close answers the mystery from the very first frame, so it's a callback: return for one beat to that opening archival porch image, then dissolve — on the movement of the air again — from the old porch into the modern room with the Spin360 running, so the porch and the fan become literally the same shot. Land on peace: the calm restored room, or someone asleep in the moving air. The most important line in the whole film is "It was the moving air" — cut to near-silence there and let it own the frame. Hold the final image a beat longer than feels necessary, then out. Keep it air-movement to the end, never temperature. 
+	
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THREE CUES 
+make three cues and place them. This gives the film its designed dynamics without relying on the edit alone.
+CUE 1 — "The Story" (under 0:07–0:48, warm and patient)
+Ambient cinematic underscore, warm, slow, patient, barely-there. Soft sustained pads and a faint low string drone, a feeling of gentle nostalgia and calm, felt more than heard. No drums, no percussion, no melody hook, no bright tones. Spacious and quiet, designed to sit under a documentary narrator. Instrumental only, no vocals.
+CUE 2 — "The Turn" (under 0:56–1:37, the one big rise)
+Ambient cinematic underscore that slowly rises and builds emotional warmth over about forty seconds, from quiet and intimate to full and enveloping, then holding — never crashing, no drop, no big drum hit. Warm strings and swelling pads, a growing sense of realization and quiet awe. No percussion, no melody-forward hook, no vocals. Emotional but restrained. Instrumental only.
+CUE 3 — "The Product / Close" (under 1:37–3:02, warm relief then peace)
+Warm, gentle, resolved cinematic underscore, a feeling of relief and rest and quiet homecoming. Soft warm pads, tender sparse piano, a calm enveloping tone. Slow, unhurried, settling toward peace and stillness by the end. No drums, no percussion, no melody hook, no vocals. Intimate and restful. Instrumental only.
+________________
+PLACEMENT MAP (where music lives and where it dies)
+0:00–0:07  Hook        — NO music. Just air + crickets. (Silence on "On purpose.")
+0:07–0:48  Story       — Cue 1 enters low, felt not heard.
+0:48–0:56  Deferral    — MUSIC OUT. Air only. The second silence.
+0:56–1:37  Turn+Bridge — Cue 2 enters and rises; peaks on "test subject"; holds.
+1:37       Reveal      — the BLOOM (mostly a sound-design swell of the air; music warms under it).
+1:37–2:40  Product     — Cue 3, warm and low; thin it under "you won't hear it" (2:16).
+2:40–2:47  Close setup — music thinning toward silence.
+2:47       The answer  — NEAR-SILENCE on "It was the moving air." Then a single warm note.
+2:54–3:02  Last image  — one warm tonal note carries out under the air. Hold, then end.
+
+
+Primary text
+🌙 Your bedroom might be the weird part.
+Not the porch.
+Not the open windows.
+Not the people sleeping with almost no walls 100 years ago.
+The weird part is that we all got used to sleeping in sealed rooms with still air…
+and nobody really questioned it.
+SPIN360 was built around the feeling your room is missing:
+moving air.
+Soft.
+Quiet.
+All around you.
+Not a blast.
+Not cold air.
+More like the room finally started breathing again.
+🌬️ soft 360° breeze
+😴 made for bedtime
+🔇 quiet enough for sleep
+🌿 scent pod option
+🏡 makes closed rooms feel open
+The porch is gone.
+The breeze doesn’t have to be.
+Tap Shop Now to feel it 👇
+Headline:
+Your Bedroom Is The Experiment

@@ -1,0 +1,370 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_GunnaDie_VSL
+Author: Chris
+Editor:
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_GunnaDie_VSL
+* Ad Type: Iteration
+* Type of Ad: Founder-led
+* Sizes Needed: 9x16, 4x5
+* Voiceover: David - Stringout 
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 LA ‘26 - David Talking 
+________________
+ 
+[3] DIRECTION
+
+
+WATCH THIS FIRST 
+
+
+1. Edit to this stringout: Spin360_GunnaDie_VSL_Hook_1.mp4
+   1. Hook 2: Stringout w/ more AI clips GunnaDie_VSL_2.mp4
+2. Footage: 
+   1. Swedish Babies Section: Swedish Babies 
+   2. Open Air Schools Section: Open Air Schools
+3. Asset Library (for AI Image Gen) 
+   1. Gunna Die VSL 
+4. DON’T EDIT PACING OR AUDIO - IT IS LOCKED 
+
+
+
+
+ 
+ 
+________________
+[8] Shotlist / Storyboard
+
+
+HOOKS
+	#
+	Script 
+	Visual 
+	Description 
+	1
+	
+
+If you don’t buy our fan, you’re going to die sooner. 
+	  
+
+	Hook 1: David Talking 
+	2
+	If you don’t buy our fan, you’re going to die sooner. 
+	  
+
+	AI PROMPT: Spin360_GunnaDie_VSL| Ad Brief 
+
+
+I made video already: 
+
+
+hf_20260604_230444_6a58e5b3-6fe2-496e-8db5-bf83df7b4d9e.mp4
+
+hf_20260604_230444_6a58e5b3-6fe2-496e-8db5-bf83df7b4d9e.mp4
+	3
+	If you don’t buy our fan, you’re going to die sooner. 
+	
+
+	Gunna_Die_Hook_3.mp4
+	4
+	If you don’t buy our fan, you’re going to die sooner. 
+	
+
+	GunnaDie_Hook_4.mp4
+	5
+	If you don’t buy our fan, you’re going to die sooner.
+	
+
+	GunnaDie_Hook_5.mp4
+	6 
+	If you don’t buy our fan, you’re going to die sooner. 
+
+
+Of Course I cant say that 
+	  
+
+	USE THIS STRINGOUT - he has extra line in here 
+
+
+GunnaDie_VSL.mp4
+	7
+	If you don’t buy our fan, you’re going to die sooner. 
+
+
+Of Course I cant say that 
+	
+
+	hf_20260604_230444_6a58e5b3-6fe2-496e-8db5-bf83df7b4d9e.mp4
+
+
+USE THIS STRINGOUT - he has extra line in here 
+
+
+Hooks six, seven, and eight do not follow directions. You should not be cutting the string out that I gave you.
+	8
+	If you don’t buy our fan, you’re going to die sooner. 
+
+
+Of Course I cant say that
+	
+
+	GunnaDie_Hook_5.mp4
+
+
+Cut back to David saying “of course I can’t say that for real” 
+	
+
+
+
+BODY 
+	Script (VO) 
+	Visuals 
+	Editor Notes
+	Shark Tank inventor and founder of Spin360. 
+	
+
+	Create a Shark Tank Sequence based on footage we have. 
+	Now, that's a pretty big claim.
+	
+
+	Come up with filler image here or stay on Shark Tank clips 
+	But then I found a study that honestly stopped me in my tracks. 
+	  
+  
+
+	Images for AI Prompt: 
+* Clip 1: Woman Sitting at her computer, the Article Title needs to be on computer screen. 
+   * Slight dolly in 
+   * Dark Office, warm lighting 
+* Clip 2: Close Up Of Eye w/ reflection of article from computer. 
+   * Eye Blinks 
+
+
+Need to Generate AI Video 
+	Researchers found that 
+	  
+
+	Already in Video. 
+
+
+* Cup to Article Screenshot 
+	babies sleeping in rooms with a fan had dramatically lower rates 
+	
+
+	Need to Generate AI Video
+	of sudden infant death syndrome.
+	  
+
+	Need to get this shot from Shiv 
+
+Clip: Mother clothing the window POV of baby sleeping 
+	Not 5%, not 10%, more than 70% lower.
+	  
+
+	I want you to do you best to try and animate these statistics. 
+
+Ideas: Start with 100 gray humans, then they fill in red as the percent goes up. Text should animate in with scaling up or 3D Axis turn in. 
+
+Strategy: to animate humans. Use a mask of the 70% humans image, then use keyframes to animate the mask (showing more red people) 
+	So why was that?
+	  
+  
+
+	Need to Generate AI Video
+
+
+Cut back to Woman doing the research. 
+
+
+Can use one or two clips depending on pacing. 
+	The researchers didn't think it was the fan itself. They thought it was the air.
+	
+
+	Clip 1: hf_20260604_225840_5ea4c40d-494b-44b2-a73e-f684474e8eb9.mp4
+	And that's when a strange pattern started showing up everywhere.
+	  
+
+	hf_20260604_232518_c52fee97-8377-4e3d-9903-fd31ddfce140.mp4
+
+
+
+
+
+
+
+
+	I found things like open-air schools in the early 1900s.
+	  
+  
+
+	Clip 1: 1900s_OutDoor_School_Teacher_Hook.mp4
+
+
+Clip 2: Either generate other clips of kids learning / playing in open-air schools or get this from Shiv when he uploads 
+	Parents in Sweden who have their babies sleep outside.
+	  
+<Example 
+	Create Sequence from these clips 
+
+
+Swedish Babies  
+	and ancient Japanese forest hospitals where patients heal in fresh, moving air. 
+	  
+  
+<Example 
+	Need to Generate AI Video 
+	For hundreds of years, doctors, parents, and researchers kept stumbling onto the same idea. 
+	
+
+	Need to Generate AI Video 
+
+
+Use best judgement based on example images to create a sequence here. 
+	Humans seem to do better when air keeps moving. 
+	
+
+	Need to Generate AI Video 
+
+
+Use best judgement based on example images to create a sequence here. 
+	PRODUCT SECTION
+	So when I came across David, who had spent four years obsessed with this exact problem, I paid attention.
+
+
+	  
+  
+  
+
+
+
+
+
+	This section you can edit like the other Spin360 Videos. 
+
+
+	What he built is honestly hard to explain until you feel it.
+	  
+
+	UTAH Selects 
+
+
+UT__April_Selects_2.mp4
+	it pulls that cool air from the floor and the warm stale air from the ceiling and sends it out in every direction all at once 
+	  
+
+	
+
+	like a breeze that wraps around you from every direction on a perfect cool night
+	
+
+	
+
+	the first time i slept with it it felt like
+	
+
+	kling_20260505_作品_She_stays__6058_0.mp4
+	the walls of my bedroom just weren't there anymore and i actually woke up cold in the middle of the summer
+	
+
+	035a87bdbd34f4b2efd4b8f69e6af4d6.mp4
+	on the lower settings i don't hear it at all just fresh air moving through my room all night
+	
+
+	Sleep_Hook_1.mp4
+	Then you drop in a scent pod, and 10 seconds later, your whole room smells like a forest. 
+	
+
+	Clip 1: Scent_Pod_Case_1.mov
+
+
+	Pine, eucalyptus, cedar, and in the summer, you can use citronella to keep bugs away. 
+	
+
+	Clip 2: Timestamp 0:00 - 0:05 - Show sequence Spin360_iPhone_CloseUp_Selects_1.mp4
+Clip 3: 
+Spin360_iPhone_CloseUp_Selects_1.mp4
+* Timestamp 1:01 - 1:07 
+	It's that same amazing airflow humans have been trying to replicate for thousands of years. 
+	
+
+	Sequence: 
+* Kids running outside on school ground 
+* Babies Sleeping in Sweden 
+* People relaxing in Japanese forest 
+
+
+	It's called the Spin 360,
+	
+
+	HERO PRODUCT SHOT
+* Choose from Shots we have 
+* IDeally from UT__April_Selects_2.mp4        
+
+
+	and they're offering $110 off, this summer only.
+	  
+
+	UT_April_Hooks.mp4
+	But it's literally been sold out for months, so get it while you can.
+	
+
+	IMG_6701.MOV
+	
+
+ 
+________________
+
+
+[11] Deliverables
+8 Hooks 9x16 
+VINTAGE NURSERY — SYMMETRICAL FILM SEQUENCE
+Duration: 8–12 seconds
+Aspect Ratio: 9:16 Vertical
+Visual Style:
+Photorealistic vintage hospital nursery from the late 1950s to early 1960s. Perfectly symmetrical composition. Warm pastel color palette with peach-pink doors, mint-green trim, soft cream walls, pale blue accents, and subtle checkerboard flooring. Bright, optimistic atmosphere. The room feels clean, safe, and joyful.
+Film Look:
+Shot on vintage 16mm film. Natural film grain throughout. Slight halation around practical lights. Gentle gate weave. Soft highlight bloom. Rich but natural color saturation. Warm golden exposure. No modern digital sharpness.
+Camera:
+Slow centered dolly push-in down the middle aisle of the nursery. Camera remains perfectly level and symmetrical. Very subtle movement only.
+Scene:
+Rows of newborn babies sleeping peacefully in clear hospital bassinets on both sides of the aisle. Every baby is calm and sleeping comfortably. Soft pastel blankets in pink, blue, cream, and mint. Tiny breathing movements visible. A few blankets rise and fall gently with the babies' breathing.
+Environment:
+Warm afternoon sunlight filtering through side windows. Practical ceiling lights glowing softly overhead. Fresh flowers on side tables. Vintage nursery décor. Everything organized and immaculate.
+Motion:
+* Slow forward camera push.
+* Gentle sleeping movements from babies.
+* Slight movement of curtain fabric near windows.
+* Tiny dust particles floating through warm light beams.
+* Soft reflections moving across bassinet glass.
+* Nothing rushed or dramatic.
+Mood:
+Whimsical, heartwarming, nostalgic, comforting, optimistic. The feeling should be that everything is going well in the hospital. The nursery feels peaceful, safe, and full of life.
+Color Grade:
+Warm Kodak 16mm aesthetic. Golden highlights. Soft pastel saturation. Creamy skin tones. Slight fade in blacks. Rich warmth without looking orange.
+Negative Prompts:
+No crying babies.
+No doctors walking through frame.
+No parents visible.
+No text overlays.
+No logos.
+No modern equipment.
+No horror atmosphere.
+No excessive camera shake.
+No AI-looking faces.
+No exaggerated cartoon styling.
+No hyper-sharp digital look.
+Quality Target:
+Photorealistic cinematic footage, authentic film texture, premium commercial quality, believable real-world nursery environment.

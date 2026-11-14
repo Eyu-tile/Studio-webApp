@@ -1,0 +1,343 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_DontHaveAC?
+Author: Chris
+Editor: N/A 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_DontHaveAC?
+* Ad Type: Explainer Ad 
+* Type of Ad: Problem Aware -> Product Aware 
+* Sizes Needed: 9x16
+* Voiceover: Man - Confident Calm  
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+
+
+
+
+________________
+ 
+[2] Direction
+* Create the Hooks + Script VO using https://fish.audio/app/ or something similar. 
+   * The voice should be a calm, woman voice, 35-65 YO 
+   * The narration needs to sound super realistic and have good pacing. Double check the audio to make it sound natural. 
+   * In https://fish.audio/app/, you can type [emphasis] or [pause] before or after words to help with the pacing. Try this. 
+* Imagery (videos) must match the audio, no random shots. 
+* Example Videos: 
+   * TikTok 1 
+   * TikTok 2 
+
+
+
+
+________________
+ 
+[3] Strategy
+Who is this for [Avatar]: 
+Main Selling Points: 360 degree airflow, feels like a natural breeze, sleep, scent pods 
+Market Awareness: Problem Aware 
+Desires: Health  
+Angle: This replaces AC + helps you sleep. 
+ 
+________________
+
+
+[4] Creative Direction
+
+
+ 
+________________
+
+
+[5] Script
+
+Hook 1: "Tired of waking up in a pool of sweat? If you don’t have AC and need cold air in your room to sleep? This is for you.”
+
+
+Hook 2: "I didn’t think I could replace AC... until I found this” 
+
+
+Hook 3: “"Sleeping cool without AC is possible. You just gotta try this.” 
+
+
+Hook 4: "My landlord won't fix my AC, so I tried this instead"
+Hook 5: “Don't have AC and need cold air in your room to sleep? This is for you.”
+The breeze is so natural, you'll probably wake up shivering.
+Unlike other fans, it cools your room by actually mixing the cold air near the floor and the hot air near the ceiling, then spreads it out in a super relaxing, 360-degree breeze.
+All of the air is moving, not just one spot. 
+People say it makes their room feel alive.
+It's really more like an AC and noise machine than a fan.
+At levels 1-5, it's nearly silent. 
+Levels 6-9 offer beautiful white noise and a strong cool breeze—even on the hottest days.
+$110 off, this spring only.
+Stay cool this summer with the Spin360.
+
+
+
+
+ 
+________________
+[6] Shotlist / Storyboard
+
+
+Hooks
+	#
+	Script 
+	Visual 
+	Description 
+	1
+	"Tired of waking up in a pool of sweat? 
+
+
+If you don’t have AC and need cold air in your room to sleep? This is for you.”
+
+
+	  
+
+	https://drive.google.com/file/d/1nE_i3MVtMi5DCkRc2y5fr0fXWL93C-Dh/view?usp=drive_link
+
+
+Sound Effects: 
+* Subtle White Noise 
+* Subtle Birds Chirping 
+* Needs to feel relaxing 
+
+
+Text On Screen: 
+* Copy format of the TikTok videos
+
+
+Pacing 
+* Should be at least 3-4 seconds of this clip 
+
+
+
+
+	2
+	"I didn’t think I could replace AC... until I found this” 
+	  
+
+	https://drive.google.com/file/d/1Ivp7REqULTHdYrfwPWnZa-keibd1B7LG/view?usp=drive_link
+
+
+Sound Effects: 
+* Subtle White Noise 
+* Subtle Birds Chirping 
+* Needs to feel relaxing 
+
+
+Text On Screen: 
+* Copy format of the TikTok videos
+
+
+Pacing 
+* Should be at least 3-4 seconds of this clip 
+	3
+	“"Sleeping cool without AC is possible. You just gotta try this.” 
+	  
+
+	https://drive.google.com/file/d/1C_mmJUt9myTNP_oKaCuQZFZtr97L6_cS/view?usp=drive_link
+Sound Effects: 
+* Subtle White Noise 
+* Subtle Birds Chirping 
+* Needs to feel relaxing 
+
+
+Text On Screen: 
+* Copy format of the TikTok videos
+
+
+Pacing 
+* Should be at least 3-4 seconds of this clip 
+	4
+	 "My landlord won't fix my AC, so I tried this instead"
+
+
+	  
+
+	https://drive.google.com/file/d/1Ivp7REqULTHdYrfwPWnZa-keibd1B7LG/view?usp=drive_link
+Sound Effects: 
+* Subtle White Noise 
+* Subtle Birds Chirping 
+* Needs to feel relaxing 
+
+
+Text On Screen: 
+* Copy format of the TikTok videos
+
+
+Pacing 
+* Should be at least 3-4 seconds of this clip 
+	5
+	“Don't have AC and need cold air in your room to sleep? This is for you.”
+
+
+	  
+
+	https://drive.google.com/file/d/1Ivp7REqULTHdYrfwPWnZa-keibd1B7LG/view?usp=drive_link
+Text On Screen: 
+* Copy format of the TikTok videos
+
+
+Pacing 
+* Should be at least 3-4 seconds of this clip 
+	
+
+
+
+	Script 
+	Visual 
+	Description 
+	The breeze is so natural, you'll probably wake up shivering.
+	
+
+	
+
+	Unlike other fans, it cools your room by actually mixing the cold air near the floor and the hot air near the ceiling, then spreads it out in a super relaxing, 360-degree breeze.
+
+
+	  
+
+	
+
+	All of the air is moving, not just one spot.
+	
+
+	
+
+	People say it makes their room feel alive.
+
+
+	
+
+	
+
+	It's really more like an AC and noise machine than a fan.
+
+
+	
+
+	
+
+	At levels 1-5, it's nearly silent. 
+Levels 6-9 offer beautiful white noise and a strong cool breeze—even on the hottest days.
+
+
+	
+
+	Use decibel display shots 
+	$110 off, this spring only.
+
+
+	
+
+	
+
+	Stay cool this summer with the Spin360.
+	
+
+	
+
+	
+
+ 
+________________
+
+
+[7] Editing Rules
+* First 3 seconds must be FAST (no pauses)
+* No dead air in video—unless it's intentional
+* No clip longer than 2 seconds in first 10 seconds
+* Add captions for entire video
+* Each visual clip MUST complement the audio to help the audience understand what is happening
+* Editor must add sound design
+
+
+
+
+________________
+
+
+[8] Deliverables
+* Five Hooks 
+* Uploaded in Correct Place on Creative Sheet 
+   * Spin360_DontHaveAC?_Hook_1
+   * Spin360_DontHaveAC?_Hook_2
+   * Spin360_DontHaveAC?_Hook_3
+   * Spin360_DontHaveAC?_Hook_4
+   * Spin360_DontHaveAC?_Hook_5
+
+
+
+
+Draft 1: 
+
+What is one thing that every human wants 
+
+
+Good Sleep
+
+Sleep is a $585 billion dollar industry. 
+
+
+It even has it’s own name, the “sleep economy” 
+
+
+From random supplements to Jet Cooled Beds 
+
+
+Thousands of products that promise that sought after shut-eye 
+
+
+So why do so many people struggle to get good sleep? 
+
+It comes down to how we evolved as a species. 
+
+
+Our ancestors spent thousands of years living in nature 
+
+
+Sleeping with open moving air 
+
+
+And since the industrial revolution technology has rapidly increased. 
+
+We live in major cities with bad air, starting at our screens, away from nature. 
+
+
+For context, it took 2.4 million years for humans to master fire 
+
+
+66 years to go from the the frist airplane to men on the moon. 
+
+
+And 40 years from the first cell phone, to today’s AI Boom. 
+
+
+Our bodies haven’t evolved fast enough for our current environment. 
+
+
+NEED A GOOD TRANSITION HERE about how airflow is the fix 
+
+
+So we set out to re-design airflow from the ground up. 
+
+
+The goal was to mimic that amazing breeze found in nature
+
+
+And bring it into your home. 
+
+
+The result is the most relaxing, natural feeling airflow

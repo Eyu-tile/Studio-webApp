@@ -1,0 +1,135 @@
+﻿Spin360_DrillHook_SpeakingFreely
+Brief - Spin360_DrillHook_SpeakingFreely.mp4
+
+
+3 ads, one edit. Same body in all three; only the hook changes. The body is David's real interview (green sweatshirt, 2 cameras) plus 2 short AI lines of David. Winter ad: the house is shut, the air sits still, and the Spin360 makes one perfect atmosphere in the room.
+	
+
+Something new visually: the temperature you can see. We've shown the air with smoke. This one shows the temperature: a thermal-camera bedroom, hot red ceiling and cold blue floor, that turns into one even color when the Spin360 runs. And David is in a new winter room (snow outside the window), not the old background. Inspiration, not a rulebook. Use your judgment.
+	Strategy
+# Element
+	Answer
+	Desire
+	"I want my bedroom to feel just right." All winter the house is shut and the bedroom never feels right. They want one even, fresh, perfect atmosphere in the room and to wake up in a better mood.
+	Avatar
+	Homeowners 45–65 (buyers are mostly women 45–65) sharing a closed bedroom in winter: windows and doors shut, the air just sits there. Curious about how things work (they stop for the guy with the drill). Belief to respect: "a fan is a summer thing". We never say "fan in winter"; we sell the atmosphere.
+	Angle
+	One reason to buy: in a shut winter bedroom nothing moves the air, so the warm air stays at the ceiling and the cold air stays at the floor. The Spin360 pulls the warm air down and the cool air up and makes one single temperature: a perfect atmosphere all the time.
+	Mechanism
+	A regular fan blows one way. This shape (the same shape as the Shark Wheel) sucks air in from the top and the bottom at the same time and sends it out like Saturn's rings, so it pulls the warm air down from the ceiling and the cool air up from the floor and mixes the whole room.
+	Proof
+	The thermal camera (red ceiling + blue floor turns into one even color), the smoke test (in from top and bottom, out like Saturn's rings), and David's own experience.
+	Authority
+	David Patrick, the inventor who reinvented the wheel (Shark Wheel). He says it in the first line.
+	Awareness
+	Hook: Unaware (what is this guy doing?). Body: from "my room never feels right in winter" (Problem Aware) to "this one makes the whole room one temperature" (Product Aware).
+	Emotion
+	Curiosity (the drill), a laugh (the worst propeller), "oh, that's how it works", recognition (the shut winter house), calm (one perfect atmosphere), then want.
+	Format
+	Drill hook, then a real interview string-out of David (green sweatshirt interview, 2 cameras) + 2 short AI lines of David. Visual idea for this one: the temperature you can see (thermal camera) and a winter room behind David.
+	Hooks
+	3 drill hooks in real winter public places with steam or smoke already in the scene, filmed like a stranger caught it on their phone: a Chicago Christmas market, a ski lodge fire pit, a New York bus stop on a freezing morning. Same on-screen text on all three.
+	Offer
+	No discount and no sales line in the voice. End card only: "Try it for 30 nights."
+	Production brief
+Format: vertical 9:16, about 1:20.
+Source files (Drive): folder · 0509 (1).mp4 = camera A (front) · 38.mp4 = camera B (side). Same take on both cameras, already 9:16. Timecodes are from camera A (± 0.5 s); camera B is in sync within a few frames.
+New background (all David shots): keep David exactly as he is (face, hair, mustache, green sweatshirt, same angles), and replace only the background with AI: a cozy living room in winter, a big window behind him with snow falling outside, warm lamp light. The product does not need to be in the shot. No lit fireplace. Test first on 10 s ("worst propeller", 3:04–3:16) and send it to Gabriel before doing the rest. If the hair or the mustache edges look fake, stop and tell us.
+AI lines (2 sections, ~30 s): David generated in the same new winter room, same framing as camera A, with his voice cloned from his real audio in these files. Tone, pace and room sound must match the real parts, or people will notice right away. Split into short takes (≤ 15 s). If an AI take doesn't look or sound real, don't use it.
+Captions: white, a few words at a time, lower third.
+Visual hooks (3 ads)
+Full screen, real sound, no talking. Same on-screen text on all three: what is this guy doing 😂
+Ad
+	Visual Inspiration
+	Scene description
+	Hook 1 · Chicago Christmas market
+Spin360_DrillHook_SpeakingFreely_Hook1
+	  
+
+	New shot to create. Outdoor Christmas market at night, snow on the ground, wooden stalls with string lights, a hot cider stall with thick steam. David holds the drill with the blade spinning and the cider steam bends sideways into the blade. People in coats and beanies laugh and point, one films. Must look real and organic: like a stranger saw this in public and filmed it on their phone. Handheld, imperfect framing, real people reacting naturally, real background, real winter (snow, breath fog, coats). On-screen text: what is this guy doing 😂 (upper third, first 3 s). No talking, real sound. David's first line starts right after.
+	Hook 2 · Ski lodge fire pit
+Spin360_DrillHook_SpeakingFreely_Hook2
+	  
+
+	New shot to create. Outside a ski lodge, snowy evening, skiers around an outdoor fire pit. David holds the drill by the fire and the smoke bends into the blade. The skiers look up and laugh. Snow falling. Must look real and organic: like a stranger saw this in public and filmed it on their phone. Handheld, imperfect framing, real people reacting naturally, real background, real winter (snow, breath fog, coats). On-screen text: what is this guy doing 😂 (upper third, first 3 s). No talking, real sound. David's first line starts right after.
+	Hook 3 · New York bus stop, freezing morning
+Spin360_DrillHook_SpeakingFreely_Hook3
+	  
+
+	New shot to create. NYC sidewalk on a freezing morning, people at a bus stop with their breath fogging, white steam rising from a street steam vent. David holds the drill and the vent steam bends into the blade. Commuters stare and laugh. Must look real and organic: like a stranger saw this in public and filmed it on their phone. Handheld, imperfect framing, real people reacting naturally, real background, real winter (snow, breath fog, coats). On-screen text: what is this guy doing 😂 (upper third, first 3 s). No talking, real sound. David's first line starts right after.
+	Body (same in all 3 ads)
+Section
+	What he says (source)
+	Visual Inspiration
+	Visual idea
+	Emotion
+	Who he is
+	CAM A/B 2:38.4–2:43.9 (cut the "And") + 7:56.5–8:02.1 + 2:50.3–2:55.7 + 2:59.4–3:16.2
+I'm generally known as the guy who reinvented the wheel because of the shark wheel. I was never an inventor. I stumbled into a shape that was based on nature. And then finding out that I could turn it into a fan was an unbelievable journey. I looked at this thing originally thinking I had a propeller or something like that. And when we first tested it, it was the worst propeller on God's green earth. It was terrible. And out of terrible came fantastic, as weird as that sounds.
+	  
+
+  
+
+  
+
+  
+
+  
+
+	David on screen in the new winter room (see Production). 4 pieces from different moments: switch camera A/B at every cut so the jumps don't show. Inserts: Shark Wheel rolling, then a match cut wheel → fan blade on "a shape that was based on nature / turn it into a fan". On "worst propeller": quick fun animation of a little boat with the blade spinning in circles. Hard cut on "It was terrible."
+	Curiosity, laugh
+	What it does
+	CAM A 3:27.3–3:42.5 (one continuous take)
+But then when you suddenly realized what it was doing, we have a product that is utterly unique. It sucks from the top and the bottom and blows out like Saturn's rings. Nobody has ever created a product like that before.
+	  
+
+  
+
+	Smoke test on the Spin360 (already on): smoke goes in from the top and the bottom at the same time and comes out in a flat ring, like Saturn's rings. Simple arrow animation if it helps. Back to David on "Nobody has ever created a product like that before."
+	Aha
+	Winter
+	AI LINE (David, new winter room)
+And winter is when you need it most. Everything gets shut. The windows, the doors. Nothing is moving the air.
+	  
+
+  
+
+	David (AI) for the first sentence, then: a house at night in the snow with every window and door shut, and inside the bedroom a beam of lamp light with dust hanging perfectly still on "Nothing is moving the air."
+	Recognition
+	One temperature
+	AI LINE (David, new winter room)
+So the warm air stays up by the ceiling, and the cold air stays down by the floor. When the Spin360 is running, we're pulling that hotter air down and that cooler air up, and we're creating one single temperature in the room. Not a hot and a cold zone. One single temperature in the entire room. It's just that constant perfection. It's that perfect atmosphere, all the time.
+	  
+
+  
+
+	The temperature you can see: the bedroom through a thermal camera. "Warm air stays up by the ceiling" = red/orange at the top, "cold air down by the floor" = blue at the bottom. On "when the Spin360 is running" the product is on and the colors slowly blend until the whole room is one even color, synced to "hotter air down… cooler air up". On "perfect atmosphere": a calm bedroom, snow outside the window. David (AI) on screen for 1–2 lines.
+	Aha, calm
+	The feeling
+	CAM A/B 5:08.3–5:12.2 (cut "Because") + 6:24.4–6:28.5 + 6:30.0–6:44.1
+It doesn't feel like a fan. It feels like a breeze. When you sit in stagnant air, you know it. It stinks. But when air is moving, especially in a natural way, there's something about it that is just refreshing. And when you get that for eight hours while you're sleeping, you end up coming out with a different mood.
+	  
+
+  
+
+  
+
+	David on screen for "It doesn't feel like a fan. It feels like a breeze." Then a sheer curtain moving very gently in the bedroom at night, and on "eight hours… different mood": a woman waking up rested on a snowy winter morning.
+	Calm, want+
+	End card
+	TEXT ONLY
+Try it for 30 nights.
+	  
+
+	Product on in a calm winter bedroom, snow on the window. End card text: Try it for 30 nights.
+	Safe
+	Real lines are cut from the files at the timecodes shown. Only the two "AI LINE" sections are new.
+Rules
+* This ad is about one perfect temperature, not about heating or cooling. No heater, no "warms the room", no "cools you down".
+* Never say or write "fan in winter". We sell the atmosphere.
+* No discounts and no sales line in the voice. The offer is only on the end card.
+* New shots: the Spin360 is already on from the first frame. Air moves as a gentle breeze, never strong wind.
+* Thermal camera: no real brand logos on the screen (no FLIR etc.).
+* Hooks must look real. If a new hook doesn't look real, don't use it.
+What's up to you
+Exact cuts, pace, music, the animation style, the smoke and thermal shots, and how long David stays on screen.

@@ -1,0 +1,132 @@
+﻿Spin360 - The Guest Room (AI Music Video)
+[1] Overview
+
+
+Ad ID
+	Spin360_Freddy_TheGuestRoom_AIMusicVideo_V1
+	Ad Type
+	AI Music Video (Pixar-style sung narrative)
+	Type of Ad
+	Net New
+	Sizes Needed
+	9x16, 4x5
+	Voiceover
+	AI song: male lead vocal, warm indie-folk lullaby that grows warmer act by act. All lyrics below are final. Sung lines carry the melody, spoken lines sit on the instrumental.
+	Creative Roadmap Link
+	
+
+	Assets
+	Net New
+	Performance Goal
+	20-30-second hold and 50 percent+ watch time on a 3:25 runtime; wins the male persona pocket the Sweden ad does not reach
+	Reference Videos
+	Quasi collagen mask music video (structure reference): https://app.trendtrack.io/share/ads/quasi-489MwK -
+	[2] Concept
+
+
+Who it's for (Persona)
+	P1 Quiet Sleep Seeker, male pocket: married man 35-55 sleeping hot in summer. Secondary: any couple drifting into separate rooms when it gets hot.
+	Angle
+	Sleep divorce. The hot, loud, still bedroom is quietly costing couples the same bed. The fan is the thing that brings her back.
+	Awareness stage
+	Unaware / Problem aware (story-led, product deferred to 2:10)
+	Concept description
+	Quasi-style AI animated sung narrative, 3:25. Private-wound hook (her text), drift into the guest room, wise neighbor explains it is the air (Sweden callback), cute blob physics scene, demo night, full-circle chorus flip: she sleeps better when I'm GONE becomes when I'm HOME.
+	Key USPs
+	Cools the whole room to one temperature (approved claim). Freakishly quiet. Nothing to point, nothing to fight over. Whole-room breeze.
+	Hypothesis
+	The long-form sung-story format (proven by Quasi in skincare) transplanted to fans holds 3+ minute watch time and reaches men through the marriage stakes, where the Sweden ad reaches mothers.
+	Format
+	AI Music Video. Song via AI music tool. Visuals: character sheets first, then start+end keyframes per scene, animated frame-to-frame.
+	[3] Characters + Sets (generate these FIRST)
+STYLE BASE (prefix every image generation with this): 3D animated still in the style of a modern Pixar-Disney family film. Soft rounded character features, expressive oversized eyes, warm subsurface skin, cinematic volumetric lighting, shallow depth of field, rich color grade, high detail render, vertical 9:16 frame. No text in image. Consistent character appearance across all frames.
+
+
+Character / Set
+	Generation prompt
+	[MARK] The husband
+	Mid 40s American dad, short brown hair thinning slightly at the crown, light stubble, gentle tired eyes with soft shadows under them, slightly heavyset build, gray t-shirt and navy plaid pajama pants. Warm, sympathetic, everyman face. Generate a front, 3/4 and profile character sheet first, then reuse.
+	[SARAH] The wife
+	Mid 40s woman, shoulder-length auburn hair in a loose bun, soft freckles, kind but weary expression, oversized cream sleep shirt and light blue pajama shorts. Pretty in a real, unglamorous way. Character sheet: front, 3/4, profile.
+	[RUTH] Neighbor
+	Early 70s woman, silver bob, bright knowing eyes behind thin gold glasses, floral summer blouse, holding a glass of lemonade. Radiates warm mischief. The wise-elder of the story.
+	[GENE] Neighbor
+	Early 70s man, bald with a neat white beard, faded Hawaiian shirt, BBQ tongs in hand, easy grin. Background warmth, few lines.
+	[BEDROOM] Master bedroom set
+	Suburban master bedroom: queen bed with rumpled white and blue linens, warm wood nightstands, alarm clock glowing 2:14, one window with sheer curtains, an old beige pedestal fan in the corner pointed at one side of the bed. Summer night, warm amber gloom, faint heat shimmer near the ceiling.
+	[GUESTROOM] Guest room set
+	Smaller neat room down the hall: daybed with a quilt, single warm lamp, a few storage boxes in the corner, cooler blue-toned night light. Feels tidy, slightly lonely.
+	[BACKYARD] BBQ set
+	Suburban backyard at golden hour: smoking charcoal grill, string lights coming on, picket fence, picnic table with lemonade pitcher, July 4th bunting. Warm nostalgic light.
+	[BLOBS] Air-blob style
+	Cross-section dollhouse view of the master bedroom. Heat rendered as plump grumpy RED blobs with sleepy cartoon faces bouncing lazily at the ceiling; cool air as calm BLUE blobs dozing on the floor. Cute, round, Pixar-short energy. The Spin360 makes them waltz in red-blue pairs in a gentle spiral until the room settles into one soft lavender tone.
+	[PRODUCT] Spin360
+	IMPORTANT: generate from the real product photos in the Creative Assets Library as image reference so geometry, proportions and color are accurate. Render it integrated into the Pixar style but instantly recognizable. It must look premium and decor-like, never toy-like.
+	[4] Scenes: Lyrics + Start/End Frame Prompts
+
+
+Beat / Time
+	Lyrics (SUNG / SPOKEN)
+	Start frame prompt
+	End frame prompt
+	1. HOOK
+0:00-0:14
+	SUNG: My wife left the bedroom, now she sleeps alone. “She sleeps better when I'm gone”. That's what my wife texted her sister on Tuesday night. I was lying right next to her. She thought I was asleep. Truth is, nobody sleeps in that room.
+	STYLE + [BEDROOM] + [MARK] + [SARAH]: Wide night shot. Sarah asleep facing away on the far edge of the bed. Mark on his back, eyes open, staring at the ceiling. Her phone glows face-up on the nightstand between them.
+	STYLE + [MARK]: Macro over-shoulder on the glowing phone screen, a chat thread visible (blurred except one bubble), Mark's tired eyes lit blue in the dark behind it.
+	2. THE ROOM
+0:14-0:30
+	SUNG: It's July in our bedroom, must be 85 tonight. The air in here just sits there, it barely feels alive. I run hot, she runs cold, the old fan picks a side. Wop wop wop all night long, pointed at my side.
+	STYLE + [BEDROOM]: Wide amber-toned room, visible heat shimmer at the ceiling, the old pedestal fan oscillating, its breeze ruffling ONLY Sarah's side of the bed.
+	STYLE + [BEDROOM] + [MARK]: Mark kicking the sheet off, sweat sheen on his forehead, fan in background still pointed away from him.
+	3. THE WAR
+0:30-0:48
+	SUNG: I flip my pillow over, chasing something cool. She's rolled up on the edge like we're breaking some old rule. Two people in one bed, awake and all alone. Staring at the ceiling of a house we own.
+	STYLE + [MARK]: Close-up, hands mid pillow-flip, determined tired face, warm dark room.
+	STYLE + [BEDROOM] + [MARK] + [SARAH]: Top-down shot of the bed. Both lying awake back to back, a visible gap of empty mattress between them, moonlight stripe down the middle like a dividing line.
+	4. THE DRIFT
+0:48-1:05
+	SUNG
+: One night in June she took her pillow to the guest room. Just tonight, she said. You’re like a human oven.
+SUNG: Tonight became a week, a week became July. Her toothbrush moved on down the hall, we never said goodbye. Now goodnight is something that we say out in the hall.
+	STYLE + [SARAH]: Sarah in the hallway at night, pillow under her arm, looking back apologetically. Behind her the warm orange bedroom, ahead the cool blue guest room doorway.
+	STYLE: Bathroom counter macro. A cup that held two toothbrushes now holds one. The second sits alone on a folded towel, packed to move.
+	5. CHORUS
+1:05-1:15
+	SUNG (full melody): She sleeps better when I'm gone. She sleeps better on her own. And I'd give anything to prove her wrong.
+	STYLE: Dollhouse cutaway of the whole house at night. Mark in the master bedroom, Sarah in the guest room, both tiny in their separate beds, both staring at their ceilings.
+	STYLE: Same cutaway, both have rolled away from the wall that separates them, lights out, two blue rooms in one dark house.
+	6. THE WISE ONES
+1:15-1:40
+	SPOKEN: Fourth of July, the neighbors' backyard. Ruth and Gene. Married 34 years. I don't know why I told Gene. Maybe the beer. He didn't laugh.
+SUNG (RUTH): You know what they do in Sweden? They put their babies outside to nap in the snow. And those babies sleep twice as long. It was never the cold, honey. It's the air. Air that doesn't move is dead nobody can sleep in. Your bedroom isn't broken. It's just still.
+	STYLE + [BACKYARD] + [MARK] + [GENE] + [RUTH]: Golden hour. Gene at the grill, Mark mid-confession holding a beer, Ruth turning toward him with a knowing smile, string lights starting to glow.
+	STYLE: Micro-flashback inside Ruth's story: snowy Scandinavian street, a row of prams parked outside a cozy cafe window, bundled babies asleep, breath mist in the cold air. One snowflake landing on a blanket.
+	7. MECHANISM A
+1:40-1:55
+	SUNG: Hot air lives at the ceiling, cold air on the floor. They've never once been introduced, that's physics, nothing more. Every fan I ever owned just shoves one angry gust.
+	STYLE + [BLOBS]: Cross-section bedroom. Grumpy red blobs bouncing lazily at the ceiling, sleepy blue blobs dozing on the floor, total segregation.
+	STYLE + [BLOBS]: The old pedestal fan blasting a single rude red gust ripping across one pillow at head height while the rest of the room stays static.
+	8. MECHANISM B
+1:55-2:10
+	SUNG: But this one gets the whole room dancing. One room. One temperature. A breeze that don't pick sides.
+	STYLE + [BLOBS] + [PRODUCT]: The Spin360 glowing softly in the corner, the first gentle spiral beginning, red and blue blobs looking at each other with curiosity.
+	STYLE + [BLOBS]: Red and blue blobs waltzing in pairs in a slow spiral filling the whole room, the room settled into one soft lavender tone, both pillows in the gentle current.
+	9. DEMO NIGHT
+2:10-2:40
+	SUNG: The box showed up on a Thursday. She watched me set it up from the doorway. Didn't say anything.
+SUNG: That night the curtains breathed, the room made up its mind. The wop wop wop was gone, just shhh, the quiet kind. I slept like I was outside, first time in a year. Woke up before the alarm and just lay there. Nowhere else I'd rather be.
+	STYLE + [BEDROOM] + [MARK] + [SARAH] + [PRODUCT]: Mark kneeling by the unboxed Spin360, Sarah watching from the doorway, arms crossed, skeptical but curious.
+	STYLE + [BEDROOM] + [MARK] + [PRODUCT]: Night wide. Sheer curtains breathing gently, Mark asleep flat and still with a relaxed face, the fan glowing dim in the corner. The room reads cooler, bluer, calm.
+	10. THE RETURN
+2:40-3:05
+	SPOKEN: Sunday night she showed up in the doorway with her pillow under her arm. She said: is it always this cool in here now?
+SUNG (chorus flip): She sleeps better when I'm home. She sleeps better, not alone. It took a breeze to bring her back where she belongs.
+	STYLE + [BEDROOM] + [SARAH]: Sarah in the bedroom doorway at night, pillow under her arm, half-smile, hair moving a little in the gentle room air.
+	STYLE + [BEDROOM] + [MARK] + [SARAH] + [PRODUCT]: Both asleep back to back under the covers, no gap in the middle, fan glowing softly in the corner, the whole frame at peace.
+	11. CTA
+3:05-3:25
+	SPOKEN: The fan is called Spin360. It cools the whole room, it's freakishly quiet, and nobody has to fight over where it points.
+SPOKEN (soft): Link's below, if someone you love knows the guest room a little too well.
+	STYLE + [BEDROOM] + [PRODUCT]: Clean hero of the Spin360 in the tidy moonlit bedroom corner, premium and decor-like.
+	STYLE + [BEDROOM] + [MARK] + [SARAH] + [PRODUCT]: Same hero frame, couple asleep in soft focus behind it, top third of frame kept clear for CTA text overlay in the edit.

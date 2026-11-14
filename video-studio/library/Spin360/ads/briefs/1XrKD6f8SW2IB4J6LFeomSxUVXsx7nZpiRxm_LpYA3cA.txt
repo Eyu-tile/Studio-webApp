@@ -1,0 +1,204 @@
+﻿Brand: Spin360 Ad ID: 
+Spin360_AD_ScamBabies 
+Author: Gabriel
+
+
+
+
+AD BRIEF
+	[1] CREATIVE DIRECTION
+
+
+WatchSpin360_Ad_Blueprint.mp4
+
+
+Reference video: Swedish Babies ad + UGC_DavidScamConfession 
+
+
+Spin360_UnAware_SwedishBabie_V2_Hook_1.mp4
+Inspiration - Spin360_UGC_DavidScamConfession_Hook3.mp4
+
+
+Use this shots try to use the Swedish Babies ad structure Baby no texts
+
+
+
+
+
+
+
+
+The idea: The ScamConfession structure applied to the Swedish Babies story. David opens over the video's first scenes warning you NOT to fall for it — it's a scam. Then he retells the video's story (babies, the air, your sealed bedroom, the fan that feels like outside moving air)... confirms every word of it is true ("that's my fan — I built that thing")... and confesses the real scam: calling this thing a "fan." A fan blows air at your face. His pushes it — soft, from every direction, like wind. You sleep like a Swedish baby, without the snow. Reverse CTA: "Do not buy this. ...I'm kidding. Buy it."
+
+
+Why this works: the account's two best engines in one piece — the Swedish Babies story (top seller) + the Scam confession structure (highest-ROAS device). The "scam" framing keeps the viewer hunting for the lie through the entire story; the confession pays it off with the product.
+
+
+Format: the winning Scam layout — b-roll from the Swedish Babies ad fills the frame, David cutout PiP bottom-left talking the whole time, continuous captions. David goes FULL FRAME on exactly one stretch: the confession block ("So what's the scam?..."), then the final wide. ~88s, 9:16.
+
+
+Audio: David's voice is the ONLY voice — the reference video's audio is never used. Its scenes are reused as silent b-roll. No claims are inherited from the original ad's soundtrack.
+
+
+The burned-in captions: the reference scenes carry the original ad's own captions ("In Sweden", "on purpose", etc.). They STAY — they're proof that "the video" David is talking about actually exists. David's spoken captions live in a distinct style so the two text layers never blur.
+
+
+Tone: the Scam register — playful warning, storyteller through the middle, honest confession at the turn, friend at the close.
+
+
+How to read the storyboard: the visuals are the Swedish Babies ad's own scenes, re-cut to follow David's narration. The VISUAL IDEA column names the scene from the reference video; timings follow the VO. Battle plan, not a cage.
+
+
+MUSIC: the account's Scam recipe — music from frame zero, light and curious under the story · warms on "Then it says somebody built a fan..." · CUTS on "So what's the scam?" (the confession plays close and dry) · returns warm for "Do not buy this... I'm kidding" · resolves on the wide. Duck for the shhh if used.
+
+
+CAPTIONS + TEXT: continuous spoken captions (David's layer, distinct style) · the reference video's burned-in captions stay · red caps anchors fired on their lines: "THIS IS A SCAM" (hook) · "IT'S THE AIR" · "THAT'S WHERE YOU'RE TRYING TO SLEEP" · "THAT'S MY FAN" · "PUSHING, NOT BLOWING" · "...I'M KIDDING. BUY IT."
+[2] THE HOOKS — pick per variant
+All three hooks play over the SAME two opening scenes of the reference video, in order: (1) the parent holding the bundled baby in the snow — "In Sweden" caption visible → (2) the sunglasses baby lying on its back in the snow — "on purpose" caption visible. The original burned-in captions stay. Only David's line changes.
+
+
+Hook
+	Visual
+	DAVID (PiP over the two baby scenes)
+	DAVID'S LINE
+	Hook1
+	  
+  
+
+	Pointing back at the video.  
+	"Hey guys — don't fall for this video. This is a scam. Let me explain."
+	Hook2
+	  
+  
+
+	Hand up — stop gesture.
+  
+
+	"Whatever you do... do NOT believe this video. It's a scam. Let me explain."
+	Hook3
+	  
+  
+
+	Knowing look to the lens.
+  
+
+	"See this video? I know what's behind it... and it's a scam. Let me explain."
+	[3] SCRIPT (body — identical for all hooks)
+"Okay. So the video says that in Sweden, parents put their babies outside to nap. In the winter. On purpose. And that the babies sleep BETTER out there.
+
+
+Then it says the reason isn't the cold — it's the air. Outside, the air's always moving. There's always a breeze doing something.
+
+
+And then the video gets personal. It goes: now think about your bedroom. Windows shut... door closed... that air hasn't moved since last night. And THAT'S where you're trying to sleep.
+
+
+Then it says somebody built a fan that feels like that outside moving air. It pulls air in from above and below... and sends it out 360. And it doesn't feel mechanical at all — because of the blade shape, it feels like a soft breeze. Like a window's open. Silence when you want it... that clean, steady shhh when you need it. You can even drop a scent pod in it.
+
+
+And it says people who hate fans LOVE this one. That they walk into the room and go, '...is there a window open?'
+
+
+Which — yeah. That's all true. The babies? Real. Look it up after this. And the fan... that's my fan. I built that thing.
+
+
+So what's the scam? The scam is calling it a fan. That's the lie — it's right there in the name. 'Cause a fan blows air AT your face — chops it up and fires it at you. That's the whole job. Mine doesn't do that. We're pushing the air at you — soft, from every direction, like wind does. That's why you sleep like a Swedish baby... without the snow. So we call it a fan... and you find out the rest at home. That's the scam. I'm basically confessing here.
+
+
+Don't fall for it. Please. Do not buy this. ...I'm kidding. Buy it. It's called the Spin360 — link's below. And seriously: go look up the Swedish babies. That part blew my mind too."
+[4] STORYBOARD — the body, mapped to the reference video's scenes
+David is in his PiP corner in every segment unless marked FULL FRAME. All b-roll = scenes from the Swedish Babies ad, muted. The two hook scenes (bundled baby + sunglasses baby) are NOT reused in the body — it starts on the stroller scenes.
+
+
+SEG
+	VISUAL IDEA (from the reference video)
+	DAVID
+	VOICE
+	THE STORY (~12s)
+	  
+  
+The stroller scenes: the snow-covered stroller outside the red house · the row of strollers along the cafe wall · the lone stroller with no parents in sight · the baby asleep in the orange sleeping bag with snow falling.
+	Storyteller — relaxed, half-smile at the babies.
+
+
+  
+
+	"Okay. So the video says that in Sweden, parents put their babies outside to nap. In the winter. On purpose. And that the babies sleep BETTER out there."
+	THE REASON (~8s)
+	The bundled warm baby asleep (green sleeping bag, white hat) · then the outdoor air scenes: snow falling on the house, trees moving in the wind.
+	Leans in slightly on "it's the air."
+	"Then it says the reason isn't the cold — it's the air. Outside, the air's always moving. There's always a breeze doing something."
+	GETS PERSONAL (~10s)
+	The indoor turn: the woman shutting the windows · the restless woman in bed · the sealed-room shots (fogged window, closed blinds). Anchor "THAT'S WHERE YOU'RE TRYING TO SLEEP."
+	Points at the lens on "your bedroom."
+	"And then the video gets personal. It goes: now think about your bedroom. Windows shut... door closed... that air hasn't moved since last night. And THAT'S where you're trying to sleep."
+	THE FAN (~16s)
+	The product stretch: the CGI airflow (arrows in from top/bottom, out 360) · the real unit running with the clear blades · the woman reading in the quiet room · the dial/display · the scent pod dropping in.
+	Narrates over it, easy pace — no selling energy yet.
+	"Then it says somebody built a fan that feels like that outside moving air. It pulls air in from above and below... and sends it out 360. And it doesn't feel mechanical at all — because of the blade shape, it feels like a soft breeze. Like a window's open. Silence when you want it... that clean, steady shhh when you need it. You can even drop a scent pod in it."
+	THE PROOF LINE (~7s)
+	The sleep payoff scenes: the couple asleep, the woman waking up rested. Anchor "...IS THERE A WINDOW OPEN?"
+	Small shrug — reporting, not claiming.
+	"And it says people who hate fans LOVE this one. That they walk into the room and go, '...is there a window open?'"
+	THE TURN (~9s)
+	Back to one baby scene ("the babies? Real.") → then THE REVEAL: the inventor scenes from the video — his face, the drill with the gold blade. Anchor "THAT'S MY FAN."
+	The gear shift: quiet, direct. A beat before "that's my fan."
+	"Which — yeah. That's all true. The babies? Real. Look it up after this. And the fan... that's my fan. I built that thing."
+	THE CONFESSION (~22s)
+	DAVID FULL FRAME — the whole confession, no b-roll. On "pushing the air at you": the hand gesture, open palm, slow. Anchor "PUSHING, NOT BLOWING."
+	The Scam confession register: honest, amused underneath. Music is OUT — dry and close.
+	"So what's the scam? The scam is calling it a fan. That's the lie — it's right there in the name. 'Cause a fan blows air AT your face — chops it up and fires it at you. That's the whole job. Mine doesn't do that. We're pushing the air at you — soft, from every direction, like wind does. That's why you sleep like a Swedish baby... without the snow. So we call it a fan... and you find out the rest at home. That's the scam. I'm basically confessing here."
+	CLOSE (~10s)
+	David full frame through "Buy it." → final wide: the product running in the calm bedroom. Logo 1s. Anchor "...I'M KIDDING. BUY IT."
+	The reverse CTA with the grin. "Blew my mind too" — genuine.
+	"Don't fall for it. Please. Do not buy this. ...I'm kidding. Buy it. It's called the Spin360 — link's below. And seriously: go look up the Swedish babies. That part blew my mind too."
+	PRODUCTION NOTES
+ITEM
+	SPEC
+	Layout
+	9:16. Swedish Babies b-roll full frame (muted) · David cutout PiP bottom-left · FULL FRAME only on the confession and close.
+	Burned-in captions
+	The reference scenes' original captions stay on screen. David's caption layer in a distinct style — two text layers, never blurring.
+	The hook scenes
+	The two opening scenes (bundled baby "In Sweden" + sunglasses baby "on purpose") belong to the HOOK only — the body starts on the strollers and never reuses them.
+	The reveal
+	The inventor scenes from the reference video (his face + the gold blade drill) are SAVED for "that's my fan" — never shown earlier. That's the proof beat.
+	
+
+
+
+Primary Text:
+🚨 This ad starts with babies sleeping outside in the snow.
+So yeah.
+You’d think that’s the scam.
+David says it isn’t.
+The babies are real.
+The weird part is why they sleep better out there.
+It’s not the cold.
+It’s the air.
+Outside, air keeps moving.
+Inside your bedroom?
+Window shut.
+Door closed.
+Air just sitting there all night.
+That’s the part David got obsessed with.
+So he built a fan that feels more like outside air.
+Except that’s where the scam is.
+Calling it a fan.
+Because “fan” makes you picture some little machine in the corner blasting air at your face.
+SPIN360 doesn’t really feel like that.
+It’s more like:
+🌬️ soft 360° breeze around the room
+🪟 feels like someone cracked a window open
+🔇 quiet when you want quiet
+💤 clean, steady shhh when you want sound
+🌿 scent pod option
+🏝️ outside-air feeling, without the snow
+That’s why people walk into the room and don’t say “nice fan.”
+They look for the window.
+So yeah.
+You think you’re buying a fan…
+then you get it home and realize the fan part was barely the point.
+Tap Shop Now and see what he means 👇
+Headline:
+Watch Him Call It A Scam

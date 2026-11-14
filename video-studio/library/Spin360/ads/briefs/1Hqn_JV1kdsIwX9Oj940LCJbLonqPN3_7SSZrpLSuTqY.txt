@@ -1,0 +1,255 @@
+﻿Creative direction:
+Watch: 2026-09-01 19-16-49.mp4
+Use this audio but you can do adjustments using seedance 2.5
+VO Spin360_WhiteNoise_For_Your_Skin.MP3
+
+
+
+
+Inspiration of the script: https://www.instagram.com/reels/DceiXoJNVq5/
+
+
+
+
+Script:
+Hooks:
+Why does white noise help us sleep?
+Every night, millions of people give their ears white noise. Nobody ever thought to give it to their skin.
+If white noise makes your bedroom sound calmer... what makes your bedroom feel calmer?
+
+
+
+
+Body:
+Think about it. People put on white noise, rain sounds, all kinds of sleep sounds every single night... and somehow, it just makes it easier to fall asleep.
+The reason is actually pretty simple. Instead of every little noise standing out — a car outside, someone walking through the house, the AC kicking on — you give your ears one steady background sound that helps everything else fade into it.
+After a while, the whole room just sounds calmer.
+But here's the part I never really thought about.
+Why do we only do that for our ears?
+Because when you're lying in bed, your skin is experiencing the room too.
+So what would white noise for your skin feel like?
+You've probably already felt it.
+Think about sleeping with a window cracked open on one of those perfect nights. The air isn't blasting at you. It's just... moving around the room. Soft, steady, natural.
+You feel it, but after a while, the whole room just feels more comfortable.
+That's what Spin360 was built to create.
+It creates that steady white noise people already love sleeping with — except it's not coming from an app or a speaker. It's happening right there in the room, while Spin360 creates this soft, natural movement of air around the whole room at the same time.
+So you're not just changing what your bedroom sounds like. You're changing what it feels like to be in it.
+You know that feeling when the room is just right? There's this steady sound in the background, the air feels fresh, there's a soft breeze moving around you... and you can just settle in.
+That's the feeling Spin360 was designed around.
+And there's even a scent pod built in, so while you're winding down, you can add another layer to the atmosphere and make the room smell as good as it feels.
+And none of this happened by accident.
+The blade was designed to push the air instead of chopping through it like a typical fan blade. That's what helps create that smoother, more natural movement of air — along with that steady white noise.
+That’s what David Patrick — the inventor behind Shark Wheel, who you may have seen on Shark Tank — spent four years developing.
+Not just something that moves air. Something designed around one simple idea:
+Making the room around you more comfortable when it's time to sleep.
+White noise you can hear... and white noise you can feel.
+And right now, Spin360 is $189 — before the price goes back to $299.
+So if you want your bedroom to feel like a more comfortable place to fall asleep in, click below and get yours.
+
+
+
+
+
+
+
+
+
+
+IMPORTANT — This is a path, not a cage.
+This brief is not meant to be followed by the book. It was created as inspiration based on the script and the ideas behind it, just to give you a clear direction to start from.
+Use whatever helps, ignore whatever doesn’t, and feel completely free to take a different approach if you think you can make the edit stronger. The goal is for this to help you find your own ideas — not limit them.
+
+
+
+
+Spin360 — White Noise for Your Skin
+EDITING BRIEF
+1. Idea
+The ad starts as sleep content, not as a fan ad. We explain why white noise makes the sound environment feel calmer, then extend the same idea to the skin: what would “white noise for your skin” feel like? The answer is a soft, natural movement of air around the whole room — like sleeping with a window cracked open on a perfect night. Spin360 is revealed as the product built to create that experience.
+The emotional destination: “I want my bedroom to feel like that when I go to sleep.”
+Editing priorities
+* Sell the feeling before the mechanism. Make the viewer feel the room before explaining the blade.
+* Keep the first section organic and educational. Do not make the opening look like a product commercial.
+* Use sensory visuals: sound, skin, curtains, bedding, air movement, winding down, settling into bed.
+* Product reveal should feel like the answer to the idea — not a random sponsor cut.
+* Keep on-screen text minimal. Use it only to reinforce the key idea, not to subtitle every sentence.
+* Sound design supports the VO; it never competes with it.
+2. Hook Variants
+Build three separate hook versions. Each should feel like a different creative entry into the same body. The VO is already recorded, so cut by the exact spoken line and use the matching recorded hook/bridge take where available.
+Variant
+	VO Hook
+	Visual Direction
+	Body / Bridge Note
+	A — Educational
+	Why does white noise help us sleep?
+	Open like organic sleep content: person in bed, phone / white-noise app, rain sound visual, calm bedroom. Avoid Spin360 in the hook. Optional text: “WHY DOES WHITE NOISE HELP US SLEEP?”
+	Use the full master body. Keep “Why do we only do that for our ears?” as the rehook.
+	B — Pattern Interrupt
+	Every night, millions of people give their ears white noise. Nobody ever thought to give it to their skin.
+	Start on ear / sleep sound source, then cut to skin, arm on bedding, hair or curtain moving gently. Make the “skin” reveal visually surprising. Optional text: “WHITE NOISE FOR YOUR SKIN?”
+	Do not repeat the same ear→skin idea if a dedicated bridge take exists. Use the matching recorded bridge. If only one master body exists, prioritize natural audio over a forced cut.
+	C — Sound vs Feel
+	If white noise makes your bedroom sound calmer... what makes your bedroom feel calmer?
+	Visually contrast sound vs feeling: sleep sound / white noise first, then skin, curtain, bedding, soft room movement. Optional text: “SOUND CALMER.” → “FEEL CALMER?”
+	Keep the transition into the skin/window section fast. Use the matching recorded bridge if supplied.
+	________________
+
+
+3. Master Body — Edit by VO Phrase
+
+
+VO Cue
+	Visual Direction
+	Editor Note / Text
+	Think about it. People put on white noise, rain sounds, all kinds of sleep sounds every single night... and somehow, it just makes it easier to fall asleep.
+	Familiar sleep ritual montage: phone playing white noise / rain sounds, sleep sound app, person setting phone down, getting comfortable in bed. Keep it real and recognizable.
+	Organic content feel. No product yet.
+	The reason is actually pretty simple. Instead of every little noise standing out — a car outside, someone walking through the house, the AC kicking on — you give your ears one steady background sound that helps everything else fade into it.
+	Show the little noises one by one: car outside, footsteps / movement in the house, AC turning on. Then let a steady background sound take over and visually reduce the prominence of those distractions.
+	Use subtle SFX under VO: car, footsteps, AC. Then blend them down under a steady bed of white noise.
+	After a while, the whole room just sounds calmer.
+	Slow the edit slightly. Show a calm bedroom and someone relaxed in bed. Let this line land before the next idea.
+	Key transition: SOUND → FEEL.
+	But here's the part I never really thought about. Why do we only do that for our ears? Because when you're lying in bed, your skin is experiencing the room too. So what would white noise for your skin feel like?
+	Move visually from the ear / sound source to the body: exposed arm, face on pillow, skin, bedding, still air around the sleeper. The viewer should start thinking about the room physically.
+	Optional text only on the final question: “WHITE NOISE FOR YOUR SKIN?”
+	You've probably already felt it. Think about sleeping with a window cracked open on one of those perfect nights. The air isn't blasting at you. It's just... moving around the room. Soft, steady, natural.
+	Beautiful open-window sleep scene. Window slightly cracked. Curtain, bedding edge, hair or plant leaves move very gently. The room should feel alive, not windy.
+	Make the viewer feel the breeze. No aggressive wind. No product yet.
+	You feel it, but after a while, the whole room just feels more comfortable.
+	Comfort payoff: person settles into pillow / bed, calm body language, soft room movement continues.
+	Let this breathe. This is the main desire.
+	That's what Spin360 was built to create.
+	First clean product reveal. Show Spin360 naturally placed in a beautiful bedroom. The reveal should feel like the answer to the open-window analogy.
+	Hero reveal. Product stays stationary.
+	It creates that steady white noise people already love sleeping with — except it's not coming from an app or a speaker. It's happening right there in the room, while Spin360 creates this soft, natural movement of air around the whole room at the same time.
+	Show the sound source moving from app/speaker concept to the actual product in the room. Pair product footage with subtle movement across different parts of the bedroom: curtain, bedding, hair, clothing. The room itself should look like it is gently moving.
+	Core idea: HEAR IT + FEEL IT. Do not use technical airflow graphics yet.
+	So you're not just changing what your bedroom sounds like. You're changing what it feels like to be in it.
+	Use a sensory before/after or a clean visual transformation: same bedroom goes from visually still/dead to soft movement and a more inviting atmosphere.
+	Keep it elegant. Avoid cheesy split-screen if a continuous transformation works better.
+	You know that feeling when the room is just right? There's this steady sound in the background, the air feels fresh, there's a soft breeze moving around you... and you can just settle in.
+	Pure benefit visualization: getting into bed, lights dimming, pillow, bedding, calm face, soft curtain movement, product present naturally in the room. Focus on the feeling, not feature demonstration.
+	Goal: “I want my room to feel like that tonight.”
+	That's the feeling Spin360 was designed around.
+	Clean product-in-bedroom shot. Keep the environment as important as the product.
+	No new claim. Let the line reinforce the emotional idea.
+	And there's even a scent pod built in, so while you're winding down, you can add another layer to the atmosphere and make the room smell as good as it feels.
+	Close-up of scent pod being inserted / used, then return to the relaxing bedroom. Show it as a bonus layer to the environment, not as the main feature.
+	No visible fake scent clouds.
+	And none of this happened by accident.
+	Brief rehook. Shift pace / visual language slightly to signal that we are about to explain why the product feels different.
+	Bridge from BENEFIT → REASON WHY.
+	The blade was designed to push the air instead of chopping through it like a typical fan blade. That's what helps create that smoother, more natural movement of air — along with that steady white noise.
+	Now show the mechanism: macro blade footage, close detail of the product, blade movement. A very simple graphic is okay if needed, but keep it visual and easy to understand.
+	Keep mechanism simple. Do not turn this into an engineering explainer.
+	That’s what David Patrick — the inventor behind Shark Wheel, who you may have seen on Shark Tank — spent four years developing.
+	Show David Patrick, then quick credibility support: Shark Wheel imagery / approved Shark Tank reference or asset if available. Return quickly to Spin360 / development imagery.
+	Authority should read instantly: INVENTOR OF SHARK WHEEL / SHARK TANK.
+	Not just something that moves air. Something designed around one simple idea: Making the room around you more comfortable when it's time to sleep.
+	Return to the bedroom and the sleeper. The emotional climax should be the room experience — not the blade or inventor.
+	Optional hero text: “A MORE COMFORTABLE ROOM TO FALL ASLEEP IN.”
+	White noise you can hear... and white noise you can feel.
+	Two sensory beats, then product hero: sound / ear → breeze / skin → Spin360 in the bedroom.
+	Use strongest typography here only: “WHITE NOISE YOU CAN HEAR.” / “WHITE NOISE YOU CAN FEEL.”
+	And right now, Spin360 is $189 — before the price goes back to $299. So if you want your bedroom to feel like a more comfortable place to fall asleep in, click below and get yours.
+	Clean offer/end card integrated with the same bedroom. Show Spin360 clearly, price clearly, then CTA. End on the lifestyle room if possible rather than a sterile cutout.
+	On-screen: “NOW $189” + “GET SPIN360”. Keep $299 secondary.
+	________________
+
+
+4. Visual & Editing Rules
+Rule
+	What It Means
+	Make it sensory, not technical.
+	The viewer should feel the bedroom through the edit. Use the mechanism only after the desire is established.
+	Keep airflow soft and natural.
+	Curtains, bedding, hair and plants should move gently. Avoid aggressive wind or anything that looks like a blast.
+	Keep the product behavior realistic.
+	Spin360 should remain stationary. Do not make it oscillate. Do not use smoke or mist as a lifestyle airflow effect.
+	Bedroom first.
+	This creative is about making the bedroom more comfortable to fall asleep in. Avoid drifting into living-room / whole-house use cases.
+	Minimal on-screen text.
+	Use text only for the major ideas: hook, “white noise for your skin,” authority, core payoff, offer and CTA.
+	Sound design stays underneath.
+	Use subtle room noise, white noise, rain/night air and transition SFX where helpful, but the VO must always remain clear and dominant.
+	5. Asset Checklist
+* Provided male VO — final recorded audio
+* White noise / rain / sleep-sound phone or app visuals
+* Night bedroom lifestyle footage
+* Open-window / curtain / bedding / gentle air-movement visuals
+* Spin360 clean bedroom hero footage
+* Spin360 operating in-room footage
+* Scent pod close-up / usage footage
+* Blade macro / mechanism footage
+* David Patrick footage or stills
+* Shark Wheel credibility asset
+* Approved Shark Tank reference/asset, if available for use
+* Offer/end-card product image and price treatment
+6. Final Editor Check
+☐  Does the opening feel like useful sleep content rather than an ad?
+☐  Is “white noise for your skin” immediately understandable through the visuals?
+☐  Does the open-window section actually feel soft, steady and natural?
+☐  Does the product reveal feel like the answer to the idea?
+☐  Are we selling the room feeling before explaining the blade?
+☐  Is David’s authority clear in one quick beat?
+☐  Is the core takeaway obvious: a more comfortable room to fall asleep in?
+☐  Is the $189 offer clear and the CTA easy to act on?
+☐  Is the VO always the dominant audio layer?
+☐  Are all product shots realistic and consistent with the actual Spin360?
+
+
+Spin360_WhiteNoise_For_Your_Skin
+1 · The eight elements
+1 — Desire
+Surface desire: "I want my bedroom to feel better to sleep in."
+Core Desire: Comfort.
+________________
+
+
+2 — Avatar
+Primary: broad. Anyone who has ever cared how their bedroom feels at night. No demographic lock 
+The only thing she needs to bring: she knows what white noise is. Not that she uses it — that she understands why people do. That's near-universal, and it costs us nothing at the top of the funnel.
+Experiences / behaviors:
+* Understands the idea that one steady background sound makes a room easier to sleep in. She may run it every night, she may have tried it once, she may have only heard people talk about it. All three qualify.
+* Has one remembered night of a window cracked open, a porch, a breeze — air moving without being aimed at her.
+
+
+Core Avatar Insight:
+She already understands why steady sound makes a room easier to sleep in. Nobody ever applied that same idea to the air she's lying in.
+________________
+
+
+3 — Angle
+Still air makes the bedroom feel less comfortable.
+________________
+4 — Mechanism
+Spin360 pulls air in from above and below and sends it outward in 360°, and the unique blade shape gives the airflow a softer, more natural feel — a gentle breeze moving around the whole room instead of a stream hitting one spot.
+The same blade produces the sound. A blade that pushes air rather than chopping through it makes a broader, steadier noise with no chop in it. One mechanism, two outputs: the sound she already falls asleep to, and the movement she's never had.
+________________
+
+
+5 — Authority
+In order of appearance: (1) white noise itself — the entire world already does this for the ears, which is borrowed authority with no seller behind it; (2) her own memory of the window night, which makes her the witness; (3) David Patrick, the inventor behind Shark Wheel, seen on Shark Tank, four years on this blade. No authority figure on screen — the ad earns authority by explaining.
+________________
+
+
+6 — Awareness
+True Unaware. She doesn't know she has an air problem. The ad teaches it by borrowing a belief she already holds about her ears and moving it to her skin — white noise is the on-ramp, not her awareness level.
+
+
+________________
+
+
+7 — Emotion
+Opens — curiosity: positive valence, mid intensity. A question about something she already does every night.
+Mid — self-recognition: slightly negative, mid intensity. Her room is the half-solved room. Discomfort, not fear.
+Ends — comfort: positive, mid intensity. The feeling from the window night, on purpose, every night.
+________________
+
+
+8 — Positioning
+ENEMY
+Still air in a closed room — and the two dials everyone reaches for that treat the wrong variable: the thermostat, which only changes a number, and the fan, which throws a hard stream at one spot.
+FIRST AND ONLY
+Not a quieter fan and not a better sound machine: the only thing that gives a room white noise you can hear and white noise you can feel, from one blade.

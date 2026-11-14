@@ -1,0 +1,164 @@
+﻿Spin360_DrillHook_Dropbox
+
+
+
+
+Brief - Spin360_DrillHook_SwedishBabies.mp4
+
+
+
+
+3 ads, one edit. Same body in all three; only the hook changes. The body is all real: David's own lines from the Dropbox interview, his brand video and two real customers. No new voice-over.
+	
+
+Something new visually: the air you can see. We've done split screen, interview mini-docs and voice-over over B-roll. This one is different: the hook shows the air being pulled in, and the whole body keeps showing the air (smoke, mist, arrows) every time David talks about it. Inspiration, not a rulebook. Use your judgment.
+	Strategy
+# Element
+	Answer
+	Desire
+	"I want to sleep like I used to." Fresh, moving air at night, like sleeping outside, so they wake up rested instead of stuffy and tired, with no fan blasting them in the face.
+	Avatar
+	Homeowners 45–65 sharing a closed bedroom. Curious about how things work (they stop for the guy with the drill) and skeptical of gadgets. Behavior: they already tried a box fan, the ceiling fan, the AC, and the room still feels stuffy. Belief to respect: "a fan is a fan, it just blows air at you."
+	Angle
+	One reason to buy: the guy who reinvented the wheel turned "the worst propeller ever" into something that pulls air from the floor and the ceiling at the same time and mixes the whole room, so the first night feels like sleeping outside.
+	Mechanism
+	A regular propeller sucks air in one way and sends it right back out. This shape sucks air in from both directions (the coldest air at the floor and the hottest air at the ceiling) and sends it out like Saturn's rings, so the breeze hits your whole body. The hook shows it: the smoke gets pulled in.
+	Proof
+	The smoke pulled in on camera, David's first night ("I thought I was outside"), his friends' texts ("best night's sleep ever"), two real customers, and the interviewer refusing to give hers back.
+	Authority
+	David Patrick, the inventor who reinvented the wheel. He says it himself in the first line, before any product talk.
+	Awareness
+	Hook: Unaware (what is this guy doing?). The body takes them from "my bedroom just feels stuffy" (Problem Aware) to "this fan mixes the whole room like outside" (Product Aware). Sophisticated market: the shape and the smoke answer "how is yours different?".
+	Emotion
+	Curiosity (the smoke), a laugh (the boat), "oh, that's how it works", wonder (the walls are gone), trust (real people), then want (he can't live without it).
+	Format
+	Drill hook, then a real interview string-out of David (no new voice-over). Visual idea for this one: the air you can see. Every time he talks about air, we show the air (smoke, mist, arrows).
+	Hooks
+	3 drill hooks in new real public places with smoke already in the scene, filmed like a stranger caught it on their phone: an Austin BBQ line, an LA night market, a Little Havana domino table. Same on-screen text on all three.
+	Offer
+	No discount and no sales line in the voice. End card only: "Try it for 30 nights."
+	Production brief
+Format: vertical 9:16, about 2:00.
+Source files (Dropbox): TESTIMONIALS_1_1.mp4 (brand video) · Interview Final render-4K.mov · TESTIMONIALS.mp4 (customers). Timecodes are from these files (± 0.5 s).
+Interview: 16:9 4K with 3 angles (David close, wide with the interviewer, interviewer close). Crop to 9:16 per shot.
+Layout: mostly full-screen visuals with David's voice over them. Put David on screen on the strong lines (marked in the table). If you can cut him out cleanly, you can also place him small over the visuals, creator style, but only if it looks clean.
+Captions: white, a few words at a time, lower third.
+Visual hooks (3 ads)
+Full screen, real sound, no talking. Same on-screen text on all three: is this man vacuuming the air?? 😂
+Ad
+	Visual Inspiration
+	Scene description
+	Hook 1 · Austin BBQ line
+Spin360_DrillHook_Dropbox_Hook1
+	  
+
+	New shot to create. Austin, Texas, daytime. A long line of people outside a barbecue joint, a big smoker on the curb puffing smoke across the sidewalk. David walks up with the drill and the smoker smoke gets pulled sideways into the blade. People in line turn around, laugh, one films. Must look real and organic: like a stranger saw this in public and filmed it on their phone. Handheld, imperfect framing, real people around reacting naturally, real background. On-screen text: is this man vacuuming the air?? 😂 (upper third, first 3 s). No talking, real sound. David's first line starts right after.
+	Hook 2 · LA night market
+Spin360_DrillHook_Dropbox_Hook2
+	  
+
+	New shot to create. Los Angeles night market: crowded food stalls, string lights, a cook tossing a flaming wok with thick smoke. David stands next to the stall and the wok smoke bends into the blade. The cook stops and stares, the crowd laughs and points. Must look real and organic: like a stranger saw this in public and filmed it on their phone. Handheld, imperfect framing, real people around reacting naturally, real background. On-screen text: is this man vacuuming the air?? 😂 (upper third, first 3 s). No talking, real sound. David's first line starts right after.
+	Hook 3 · Little Havana, Miami
+Spin360_DrillHook_Dropbox_Hook3
+	  
+
+	New shot to create. Little Havana, Miami, daytime: older men (55–70) at an outdoor domino table in front of a cigar shop, smoking cigars. David stands by the table and the cigar smoke gets pulled into the blade. The men look up, one laughs holding his cigar. Must look real and organic: like a stranger saw this in public and filmed it on their phone. Handheld, imperfect framing, real people around reacting naturally, real background. On-screen text: i\\ (upper third, first 3 s). No talking, real sound. David's first line starts right after.
+	Body (same in all 3 ads)
+Section
+	What they say (source)
+	Visual Inspiration
+	Visual idea
+	Emotion
+	Bridge
+	BRAND VIDEO 0:00.2–0:13.6
+I invented a new kind of wheel that was faster, smoother, lasted longer, and was much safer. And the shape that I used to reinvent the wheel is the exact same shape that I've used to reinvent the fan.
+	  
+
+  
+
+  
+
+
+
+  
+
+	David (close, from this file) on "I invented a new kind of wheel", then the wheels rolling. On "reinvent the fan": match cut, the wheel turns into the fan blade (same shape).
+	Curiosity
+	Worst propeller
+	INTERVIEW 3:52.5–4:08.5
+So the fan was one of those things where we tried it out as a propeller and it was absolutely horrible. It was the worst propeller ever. We put it on the back of a boat and the back of the boat spun around the front. It was terrible.
+	  
+
+	Animation, fun and quick: a little boat with the blade on the back spinning in circles in the water. Hard cut on "It was terrible."
+	Laugh
+	Both directions
+	INTERVIEW 4:24.8–4:41.5 + 4:49.6–4:52.1
+But then we found out what it was doing. It wasn't working like a propeller. A regular propeller sucks the air in one way and sends it right back out. Ours was sucking in both directions, not going this way and back. It was coming in towards each other and we didn't know where it was going. And then we figured out it was going out like Saturn's rings. … This one does everything all at once.
+	  
+
+	The air you can see: smoke test on the Spin360 (already on): smoke goes in from the top and the bottom at the same time and comes out in a flat ring, like Saturn's rings. Simple animation overlay: a regular propeller "in → out" vs ours "in from both sides → out 360°".
+	Aha
+	Floor + ceiling
+	INTERVIEW 12:07.9–12:19.3 (cut BEFORE "which was strangely cold")
+And that's when we realized it was pulling the air from the ground. The air on the ground is the coldest air in the room. You got a ceiling fan, that's the hottest air in the room pushing down. So we were getting a mix of both.
+	  
+
+	Animation: side view of a bedroom. Blue layer at the floor ("coldest air"), red layer at the ceiling ("hottest air"), the Spin360 in the middle pulls both in and the room turns into one even, neutral color. Don't make it look like it cools the room.
+	Aha
+	The mix
+	INTERVIEW 14:45.2–14:52.4
+I love the way this feels, but it's the mix of the room and the breeze that gives you that amazing sleeping experience.
+	  
+
+	A calm bedroom at night, the Spin360 on, a sheer curtain moving gently. David on screen for a second if you want.
+	Calm
+	First night
+	INTERVIEW 13:17.0–13:24.9 + 13:30.5–13:36.9 + 13:45.7–13:49.0
+First night with it, I woke up halfway through the night and literally thought the walls were gone. I'm still half asleep. I thought I was outside. … And I'm like, oh my God, it feels like a breeze because it's hitting my toes. It's hitting my knees. It's hitting my chest. … And I realized, gosh, I slept really well.
+	  
+
+  
+
+  
+
+	POV from the bed at night: the bedroom walls slowly fade away to an open night sky, the bed stays. Then 3 quick shots synced to the words: the breeze moving the sheet at the toes, the knees, the chest. End on David (close) for "I slept really well."
+	Wonder
+	Friends
+	INTERVIEW 15:42.1–15:44.7 + 15:51.0–16:00.7
+All of my friends that first got the first ones… And then the very next day, all caps, text message, OMG, best night's sleep ever. I didn't say nothing to him about it. Best night's sleep ever.
+	  
+
+	Big kinetic typography in all caps: OMG. BEST NIGHT'S SLEEP EVER. hitting the screen with each word. Text on screen, not a fake phone screenshot.
+	Proof
+	Customers
+	TESTIMONIALS 0:12.3–0:14.2 + 2:24.2–2:29.2
+I haven't slept this good in years. / I don't know how to explain it, but I just know that when it's running, I just feel calm and I feel better.
+	  
+
+  
+
+	The two real customers, full screen, back to back.
+	Trust
+	Can't live without it
+	INTERVIEW 14:57.7–15:03.8
+I can't live without this thing. … If I had to sleep in a room without it now, oh, that's going to suck.
+	  
+
+	David, close-up, full screen. First time we stay on his face.
+	Want
+	Keeping mine
+	INTERVIEW 17:33.2–17:39.7
+Sleep with it for three days and then try and return it. There's just no chance. — (interviewer) Well, I'm not returning mine. I'm keeping mine.
+	  
+
+  
+
+	Wide shot with David and the interviewer, then her close-up laughing on "I'm keeping mine."
+	Smile
+	End card
+	TEXT ONLY
+Try it for 30 nights.
+	  
+
+	Product on in a calm bedroom. End card text: Try it for 30 nights.
+	Safe

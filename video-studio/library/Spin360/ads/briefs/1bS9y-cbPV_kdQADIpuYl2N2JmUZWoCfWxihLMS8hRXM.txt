@@ -1,0 +1,59 @@
+﻿Spin360_LeavingEverythingSale
+4 ads, about 10 s each. Same text and same music in all 4. Only the scene changes: she is always running out of something to go buy it, always in winter. Format from the reference ad (same as Spin360_CrazySaleWinter).
+	
+
+On-screen text (all 4): Leaving everything BC Spin360 is on sale RN!
+	Strategy
+# Element
+	Answer
+	Why this ad
+	People who already know the Spin360 need a push, not an explanation. Same format as our creator ad (watch it) and Spin360_CrazySaleWinter: one person, the Spin360 site scrolling behind, one line of text, music. New line and new scenes so it tests as a new ad.
+	What it's about
+	The sale is on, so she drops whatever she's doing and runs to get one. The text says it and the picture shows it: she is leaving the gym, the groceries, the ski slope, the party.
+	How we make it
+	Green screen style like the reference: the person in front, a screen recording of the Spin360 site scrolling behind, the text on top. About 10 s, vertical 9:16, no voice.
+	Sub-avatar
+	People who have seen our ads or visited the site and haven't bought yet (bottom of funnel).
+	Awareness
+	Most aware. They know the product. The job is a reason to buy now.
+	Angle
+	It's on sale right now, so don't miss it.
+	Emotion
+	Fun and a little FOMO. Light.
+	Offer
+	The current sale, shown on the site in the background. No end date on screen unless the sale really has one.
+	Production brief
+Format: vertical 9:16, about 10 s, no voice. Like the reference: the person in front, a screen recording of the Spin360 site scrolling slowly behind (product page, the sale banner visible), the text in big white letters with a black outline over the middle.
+Music: one upbeat track, the same in all 4 (a different track from CrazySaleWinter, so it does not feel like the same ad).
+The scenes: Phone selfie while she runs, candid and a bit shaky, like the reference. Not an ad. Winter in every scene.
+Variations (4 ads)
+Ad
+	Visual inspiration
+	On-screen text
+	Scene
+	V1 · Leaving the gym
+Spin360_LeavingEverythingSale_V1
+	  
+
+	Leaving everything BC Spin360 is on sale RN!
+	Selfie while running out of the gym into the snowy parking lot at dusk, coat thrown over her workout clothes, gym bag bouncing, out of breath.
+	V2 · Leaving the groceries
+Spin360_LeavingEverythingSale_V2
+	  
+
+	Leaving everything BC Spin360 is on sale RN!
+	Selfie while running across a snowy supermarket parking lot. Her half-full cart is left behind her. Scarf flying, breath in the cold air.
+	V3 · Leaving the ski slope
+Spin360_LeavingEverythingSale_V3
+	  
+
+	Leaving everything BC Spin360 is on sale RN!
+	Selfie while hurrying off the slope in ski boots, skis on her shoulder, goggles up, the chairlift and snowy mountain behind her.
+	V4 · Leaving the holiday party
+Spin360_LeavingEverythingSale_V4
+	  
+
+	Leaving everything BC Spin360 is on sale RN!
+	Selfie while rushing out of a holiday party at night in a Christmas sweater, coat half on, the house with Christmas lights and people in the window behind her.
+	What's up to you
+The exact shots, real vs generated, the music, how the site scrolls. Keep the text as written and the same in all 4.

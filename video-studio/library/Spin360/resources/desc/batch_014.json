@@ -1,0 +1,384 @@
+{
+ "batch": "batch_014",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_014.out.json",
+ "clips": [
+  {
+   "id": "e3184d23-853c-44d0-97a8-77858ff37d72",
+   "filename": "IMG_3788.mov",
+   "folder": "(unfiled)",
+   "duration_s": 14.54,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e3184d23-853c-44d0-97a8-77858ff37d72_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e3184d23-853c-44d0-97a8-77858ff37d72_2.jpg"
+   ],
+   "bya_description": "A black fan stands in a sunlit room while a man sits at a table. The camera pulls back to reveal a window view of a lake.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "3e08a6ac-2159-4142-97a2-118e67a72f7d",
+   "filename": "IMG_3812.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 14.2,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3e08a6ac-2159-4142-97a2-118e67a72f7d_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3e08a6ac-2159-4142-97a2-118e67a72f7d_2.jpg"
+   ],
+   "bya_description": "Close-up of a black fan with horizontal slats spinning against a wooden wall with a calendar.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Relaxing at home",
+    "Fan spinning close-up",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "4c43c268-69ec-4773-8220-2e4bbfe23e63",
+   "filename": "IMG_3824.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 16.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4c43c268-69ec-4773-8220-2e4bbfe23e63_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4c43c268-69ec-4773-8220-2e4bbfe23e63_2.jpg"
+   ],
+   "bya_description": "Wide living room shot with a sofa and wooden ceiling. A black fan sits near a desk.",
+   "bya_tags": [
+    "Product hero shot",
+    "Fan spinning close-up",
+    "Home office",
+    "Fan spinning close-up",
+    "Home office",
+    "Living room"
+   ]
+  },
+  {
+   "id": "0f52f8d2-0dec-47d9-a7b3-29090eef97a0",
+   "filename": "IMG_3839.mov",
+   "folder": "(unfiled)",
+   "duration_s": 14.4,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0f52f8d2-0dec-47d9-a7b3-29090eef97a0_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0f52f8d2-0dec-47d9-a7b3-29090eef97a0_2.jpg"
+   ],
+   "bya_description": "A black fan with a wire mesh cage spins in a living room. A large window behind it shows a lake and trees.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Living room",
+    "Product hero shot",
+    "Fan spinning close-up",
+    "Living room"
+   ]
+  },
+  {
+   "id": "6f63c12d-a2dc-42f4-b243-623f838dc3f1",
+   "filename": "IMG_3841.mov",
+   "folder": "(unfiled)",
+   "duration_s": 15.47,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6f63c12d-a2dc-42f4-b243-623f838dc3f1_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6f63c12d-a2dc-42f4-b243-623f838dc3f1_2.jpg"
+   ],
+   "bya_description": "Black bug zapper fan stands by a window. A trapped insect sparks and smokes within the electrified grid.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Turning fan on",
+    "Living room",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "a3f3f309-063c-4903-9907-f3f13a27a1ad",
+   "filename": "IMG_3867.mov",
+   "folder": "(unfiled)",
+   "duration_s": 16.08,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a3f3f309-063c-4903-9907-f3f13a27a1ad_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a3f3f309-063c-4903-9907-f3f13a27a1ad_2.jpg"
+   ],
+   "bya_description": "A wide pan of a bright living room with a white sofa, brick fireplace, and wooden floors.",
+   "bya_tags": [
+    "Living room",
+    "Curtains & windows",
+    "Relaxing at home",
+    "Curtains & windows",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "8b7b905e-89ac-4cb5-89cc-850a4322cf00",
+   "filename": "IMG_3889.mov",
+   "folder": "(unfiled)",
+   "duration_s": 14.4,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8b7b905e-89ac-4cb5-89cc-850a4322cf00_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8b7b905e-89ac-4cb5-89cc-850a4322cf00_2.jpg"
+   ],
+   "bya_description": "A black floor fan stands in a bedroom by a window with a lake view. The fan cage rotates while a bed is visible in the foreground.",
+   "bya_tags": [
+    "Bedroom",
+    "Curtains & windows",
+    "Product hero shot",
+    "Bedroom",
+    "Curtains & windows"
+   ]
+  },
+  {
+   "id": "8c210549-8525-4c41-b4bc-95a2d9e1bfcf",
+   "filename": "IMG_8023.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 14.52,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8c210549-8525-4c41-b4bc-95a2d9e1bfcf_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8c210549-8525-4c41-b4bc-95a2d9e1bfcf_2.jpg"
+   ],
+   "bya_description": "A woman with grey hair unboxes a cylindrical fan from a cardboard box on a kitchen counter.",
+   "bya_tags": [
+    "Product in hand",
+    "Product on surface",
+    "Unboxing",
+    "Product in hand",
+    "Product on surface",
+    "Unboxing"
+   ]
+  },
+  {
+   "id": "c83c3870-07ef-4537-918f-3638329313c1",
+   "filename": "IMG_8040.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 15.28,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c83c3870-07ef-4537-918f-3638329313c1_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c83c3870-07ef-4537-918f-3638329313c1_2.jpg"
+   ],
+   "bya_description": "A ceiling fan spins in a bedroom with a made bed and window. The camera pans slowly across the room.",
+   "bya_tags": [
+    "Bedroom",
+    "Lifestyle moment",
+    "Product hero shot",
+    "Bedroom",
+    "Lifestyle moment"
+   ]
+  },
+  {
+   "id": "a110af4d-8439-4b67-9eb8-ff02206688bd",
+   "filename": "IMG_8067.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 15.91,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a110af4d-8439-4b67-9eb8-ff02206688bd_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a110af4d-8439-4b67-9eb8-ff02206688bd_2.jpg"
+   ],
+   "bya_description": "Hands with pink polish open a clear container to reveal a yellow scent pod. An air purifier sits in the background.",
+   "bya_tags": [
+    "Air purifier top",
+    "Product in hand",
+    "Scent pod drop",
+    "Air purifier top",
+    "Product in hand",
+    "Scent pod drop"
+   ],
+   "transcript": [
+    {
+     "start": 4.1,
+     "text": "Put it on. Does it go on? There you go. Okay.",
+     "labels": [
+      "Scent pod drop",
+      "Air purifier top"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "36d8332e-1f35-40da-8e7a-ff773a88810c",
+   "filename": "IMG_8071.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 14.67,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/36d8332e-1f35-40da-8e7a-ff773a88810c_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/36d8332e-1f35-40da-8e7a-ff773a88810c_2.jpg"
+   ],
+   "bya_description": "A senior woman with long grey hair inserts a pink scent pod into the top of a black tower fan. She then bends down to gesture at the fan's base before standing back up in a white-walled room.",
+   "bya_tags": [
+    "Air purifier top",
+    "Feeling the breeze",
+    "Product in hand",
+    "Air purifier top",
+    "Feeling the breeze",
+    "Product in hand",
+    "Scent pod drop"
+   ]
+  },
+  {
+   "id": "ac1bb00a-c7de-41d1-9ab5-8e1320bdb003",
+   "filename": "IMG_8098.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 14.54,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ac1bb00a-c7de-41d1-9ab5-8e1320bdb003_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ac1bb00a-c7de-41d1-9ab5-8e1320bdb003_2.jpg"
+   ],
+   "bya_description": "A woman with long grey hair sits in a white tufted armchair, flipping through a large book. Her hair blows in a steady breeze as she occasionally brushes it back from her face.",
+   "bya_tags": [
+    "Feeling the breeze",
+    "Living room",
+    "Relaxing at home",
+    "Feeling the breeze",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "4e84448f-bb32-4355-b028-25f66f6101dd",
+   "filename": "IMG_8099.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 13.92,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4e84448f-bb32-4355-b028-25f66f6101dd_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4e84448f-bb32-4355-b028-25f66f6101dd_2.jpg"
+   ],
+   "bya_description": "A senior woman with grey hair reads a large book while seated in a white armchair. A white fan in the foreground blows air, causing her hair to move.",
+   "bya_tags": [
+    "Feeling the breeze",
+    "Living room",
+    "Relaxing at home",
+    "Feeling the breeze",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "da2dc6c8-6d09-49f0-9731-ea6e1169dcbe",
+   "filename": ".05, hands by fan, creator in frame",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 16.64,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/da2dc6c8-6d09-49f0-9731-ea6e1169dcbe_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/da2dc6c8-6d09-49f0-9731-ea6e1169dcbe_2.jpg"
+   ],
+   "bya_description": "A woman in athletic wear walks to a black pedestal fan in a living room. She touches the top, looks up to feel the air, and walks away.",
+   "bya_tags": [
+    "Air purifier top",
+    "Feeling the breeze",
+    "Lifestyle moment",
+    "Air purifier top",
+    "Feeling the breeze",
+    "Lifestyle moment",
+    "Living room"
+   ]
+  },
+  {
+   "id": "354338b2-68e6-41ec-b205-6f4747352ec0",
+   "filename": "Normal framing, creator in frame, hands by fan",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 14.47,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/354338b2-68e6-41ec-b205-6f4747352ec0_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/354338b2-68e6-41ec-b205-6f4747352ec0_2.jpg"
+   ],
+   "bya_description": "A woman in a white sports bra and grey shorts walks across a sunlit living room towards a black pedestal fan. Large windows in the background show a forest landscape.",
+   "bya_tags": [
+    "Living room",
+    "Lifestyle moment",
+    "Fan controls",
+    "Fan controls",
+    "Lifestyle moment",
+    "Living room",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "54cce7eb-63b7-4c0e-bc51-038333515cd7",
+   "filename": "opening door/window",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 16.33,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/54cce7eb-63b7-4c0e-bc51-038333515cd7_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/54cce7eb-63b7-4c0e-bc51-038333515cd7_2.jpg"
+   ],
+   "bya_description": "A static view of a modern home entryway featuring a large potted plant in a clay pot, a wooden bench, and a framed map on the wall.",
+   "bya_tags": [
+    "Living room",
+    "Lifestyle moment",
+    "Patio & backyard",
+    "Lifestyle moment",
+    "Living room",
+    "Patio & backyard"
+   ]
+  },
+  {
+   "id": "7e334fa2-1a24-4ddb-9bcc-d0e985ccda0c",
+   "filename": "Opening window",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 17,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7e334fa2-1a24-4ddb-9bcc-d0e985ccda0c_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7e334fa2-1a24-4ddb-9bcc-d0e985ccda0c_2.jpg"
+   ],
+   "bya_description": "A woman in a brown tank top and grey shorts enters a room from the left, passing a louvered door. She walks to a wooden-framed window and opens it. Below the window is a white wall-mounted air conditioning unit. She then walks out of the frame to the right.",
+   "bya_tags": [
+    "Walking through door",
+    "Walking through door"
+   ]
+  },
+  {
+   "id": "fc431ebe-f1f7-4715-a905-8d66ace0cb00",
+   "filename": "Plugging in wall 2",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 16.77,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fc431ebe-f1f7-4715-a905-8d66ace0cb00_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fc431ebe-f1f7-4715-a905-8d66ace0cb00_2.jpg"
+   ],
+   "bya_description": "A hand repeatedly plugs and unplugs a black power adapter into a white wall outlet using rapid jump cuts.",
+   "bya_tags": [
+    "Showing fan base",
+    "Product in hand",
+    "Product in hand",
+    "Showing fan base"
+   ]
+  }
+ ]
+}

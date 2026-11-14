@@ -1,0 +1,83 @@
+﻿Spin360_FanSleepers_POV
+Watch: Brief - Spin360_FanSleepers_POV
+A 45-second vertical ad (9:16) with no voiceover. The story is told only with on-screen text and sound.
+3 ads, one edit. All three have the same on-screen text and the same body. Only the hook visual (the first 12 s) changes. See the table under "Hooks: 3 visual variations (same text)".
+Inspiration
+https://www.instagram.com/reel/DKAxdg6g_nx/
+@humordarius, "POV: you can't sleep without the fan being on", about 1M views.
+What to take from it: the mechanism. The fan sound stops and he wakes up instantly. It is shot like a phone sitting on the nightstand, the camera does not move, and one line of text stays on screen. It is one of 11 viral fan-sleeper reels we studied. Most of them open with a "this is me" line like this one, and people answer it in the comments.
+
+
+https://www.instagram.com/reels/DdHrpDSORux/
+
+
+
+
+Hook footage (already made)
+https://drive.google.com/file/d/1Ild-OOmIIe9EtsAyiLeZBN46cNgYsTdG/view
+File: Spin360_FanSleepers_POV_hook_footage.mp4 (12 s, 9:16).
+This is 0–12 s. Use it as it is, with its own sound (the fan dies and she wakes up), and put the hook text over it.
+Hooks: 3 visual variations (same text)
+Each hook makes a separate ad. The on-screen text is the same in all three, and from 0:12 on the video is identical.
+Hook
+	Who & look
+	Shot
+	What happens (0–4 s, 4–12 s)
+	Status
+	Hook1 (V1)
+	Woman in bed. The footage we already have.
+	As in the file: https://drive.google.com/file/d/1Ild-OOmIIe9EtsAyiLeZBN46cNgYsTdG/view
+Dark bedroom, fan at the edge of the frame.
+	0–4 s: she sleeps, the fan runs.
+4–12 s: the fan dies and she wakes up.
+	Ready
+	Hook2 (V2)
+	Man, as close to the original reel as you can get: young Black man, early 20s, short hair, small stud earring.
+	Copy the original: phone very close to his face, frame a little tilted, his face in the lower half of the frame and the dark room above it (room for the text). Head on the pillow. Face only. No fan in the frame. No wind in his hair. Less dark than V1: still a bedroom at night, but his face is easy to read.
+	0–4 s: asleep, eyes closed, the fan hum is steady.
+4–12 s: the fan sound stops dead. His eyes open at once. He doesn't sit up: he lifts his head a little toward the phone and stares into the lens, confused, listening to the silence. (In the original he talks; ours has no voice.)
+	Editor generates (prompt below)
+	Hook3 (V3)
+	Woman, about 35–40, American, hair spread on the pillow. A variation, not a copy of the original.
+	Face only. No fan in the frame. No wind in her hair. Not too dark: soft, warm light from a lamp just out of frame. Two changes from the original: the camera is a bit higher, looking slightly down at her, and the frame is straight (not tilted).
+	0–4 s: asleep on her side, the fan hum is steady.
+4–12 s: the fan sound stops dead. Her eyes open at once. She doesn't move her body; after a second she slowly turns her head toward where the sound came from (out of frame) and stays there, listening. She never looks at the camera.
+	Editor generates (prompt below)
+	In all three:
+* The fan sound is on, then stops suddenly. The silence is what wakes them up.
+* On-screen text, 0–4 s: POV: you can't sleep without the fan on
+* After the hook, the body is the same.
+How to generate V2 and V3
+Paste each prompt into your AI video tool. Use 12 s (or your tool's max, at least 8 s). If the fan doesn't stop at 4 s in the result, cut the fan sound there in the edit. If a fan or moving hair shows up, generate again.
+V2 (man, like the original):
+Vertical 9:16 video, 12 seconds, one continuous take, no cuts. Shot on a phone propped on the nightstand right next to the bed, very close to his face, the frame slightly tilted. A young Black American man in his early 20s, short hair, small stud earring, is asleep with his head on a pillow, eyes closed. Only his face and the pillow are in the frame: his face fills the lower half and the dark bedroom wall is above him. Low night light, like a dim lamp in the hallway: the room is dark, but his face is clearly lit and easy to read, not black. The only sound is a steady fan hum. The air is still: his hair does not move, no wind. At 4 seconds the fan sound cuts off completely and the room goes silent. His eyes open instantly. He does not sit up; he lifts his head slightly toward the camera and stares straight into the lens, confused, listening to the silence, until the end. No fan anywhere in the frame. No talking, no music, no text, no captions. The camera does not move.
+V3 (woman, a variation):
+Vertical 9:16 video, 12 seconds, one continuous take, no cuts. Shot on a phone resting on the nightstand, a little higher than the bed, looking slightly down at her face. The frame is straight. An American woman, about 35 to 40, is asleep on her side, eyes closed, hair spread on a white pillow. Only her face and the pillow are in the frame. Warm, low light from a bedside lamp just out of frame: a bedroom at night, but her face is soft, clear and easy to read, not dark. The only sound is a steady fan hum. The air is still: her hair does not move, no wind. At 4 seconds the fan sound stops dead and the room goes silent. Her eyes open at once. She does not move her body; after a second she slowly turns her head toward the side of the room where the sound came from (out of frame) and stays there, listening. She never looks at the camera. No fan anywhere in the frame. No talking, no music, no text, no captions. The camera does not move.
+The idea
+She can't sleep without a fan on, and it is for the sound, not the air. In the hook the fan dies, and the silence wakes her up. When it gets cold she doesn't turn it off: she turns it to the wall and keeps it on just for the sound. Then it starts to rattle. So she buys another one, and another. All of them were built to cool a room, not to put her to sleep. Then we cut to Spin360 in a warm, calm bedroom: it sits on the floor next to her bed and makes a deep, steady hum night after night. There is no wind in her face, just a soft breeze moving around the room. We close on the 30-night trial.
+The main moment is the sound switch in the middle (around 0:28). The rattling fan cuts off and the steady Spin360 hum comes in. Everything before it feels cold and annoying, and everything after it feels warm and calm. Build the edit around that moment.
+On-screen text
+The lines in order, one at a time. The times are approximate.
+* 0:00–0:04 · POV: you can't sleep without the fan on
+* 0:04–0:09 · no text (the fan dies, she wakes up)
+* 0:09–0:12 · The silence is too loud.
+* 0:12–0:15 · Too cold? You turn it to the wall.
+* 0:15–0:18 · You just need that sound.
+* 0:18–0:21 · Until it starts to rattle.
+* 0:21–0:24 · So you buy another one. And another.
+* 0:24–0:26 · They were all built to cool a room.
+* 0:26–0:28 · Not to put you to sleep.
+* 0:28–0:31 · Spin360. Built for the sound you sleep to.
+* 0:31–0:34 · A deep, steady hum. Night after night.
+* 0:34–0:37 · Real fan sound. Not a phone loop.
+* 0:37–0:39 · No wind in your face.
+* 0:39–0:41 · Just a soft breeze around the room.
+* 0:41–0:43 · Try it for 30 nights.
+* 0:43–0:45 · Doesn't replace your fans? Send it back.
+What's up to you
+Visuals, cuts, pacing and sound design are up to you. Use whatever footage tells the story best. Only a few things are fixed:
+* No voiceover.
+* 45 seconds max.
+* Spin360 only shows up after the switch, and always on the floor, never on furniture.
+* Spin360's air is a soft breeze: it never blows hard in her face.
+* Text is white and easy to read with the sound off.

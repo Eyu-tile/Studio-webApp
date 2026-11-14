@@ -1,0 +1,443 @@
+{
+ "batch": "batch_018",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_018.out.json",
+ "clips": [
+  {
+   "id": "4f9ee570-b614-4361-8abb-c897630b3e4f",
+   "filename": "IMG_3828.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 21.67,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4f9ee570-b614-4361-8abb-c897630b3e4f_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4f9ee570-b614-4361-8abb-c897630b3e4f_2.jpg"
+   ],
+   "bya_description": "A black pedestal fan stands on a light-colored rug in a living room. The camera zooms in toward the device.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Fan spinning close-up",
+    "Fan spinning close-up",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "c74217a9-8425-4f7a-837e-38444e53cafd",
+   "filename": "IMG_8045.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 22.79,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c74217a9-8425-4f7a-837e-38444e53cafd_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c74217a9-8425-4f7a-837e-38444e53cafd_2.jpg"
+   ],
+   "bya_description": "A hand taps the stem display, cycling the fan speed from F1 to F6. Then the fan runs at speed F6 with a blue light ring active.",
+   "bya_tags": [
+    "Fan controls",
+    "Product in hand",
+    "Product on surface",
+    "Blue light ambiance",
+    "Cycling light colors",
+    "Fan controls",
+    "Power indicator light",
+    "Product in hand"
+   ],
+   "transcript": [
+    {
+     "start": 2.6,
+     "text": "Ready? Mm-hmm. You didn't change the color, right?",
+     "labels": [
+      "Fan controls",
+      "Product in hand",
+      "Product on surface"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a7be3589-fe76-4b00-af6c-8fc1d5674268",
+   "filename": "Sticky note (this thing changed the)",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 22.83,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a7be3589-fe76-4b00-af6c-8fc1d5674268_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a7be3589-fe76-4b00-af6c-8fc1d5674268_2.jpg"
+   ],
+   "bya_description": "Hand peels and replaces a sticky note on a cylindrical fan. Note text claims atmosphere change.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Product on surface",
+    "Living room",
+    "Peeling note",
+    "Product close-up",
+    "Product in hand",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "010e2756-b1fe-495a-bc46-e6eabf5a867d",
+   "filename": "Tossing turning bed 2",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 21.36,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/010e2756-b1fe-495a-bc46-e6eabf5a867d_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/010e2756-b1fe-495a-bc46-e6eabf5a867d_2.jpg"
+   ],
+   "bya_description": "A woman in a grey t-shirt tosses and turns restlessly in a minimalist bedroom. She pulls a blanket over herself, sits up to rub her eyes in frustration, and walks out of the frame.",
+   "bya_tags": [
+    "Bedroom",
+    "Rubbing face",
+    "Tossing & turning",
+    "Bedroom",
+    "Rubbing face",
+    "Tossing & turning",
+    "Unhappy expression"
+   ]
+  },
+  {
+   "id": "cb7ca4d5-d236-485b-874e-172a73fcc8da",
+   "filename": "using remote",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 22.13,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/cb7ca4d5-d236-485b-874e-172a73fcc8da_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/cb7ca4d5-d236-485b-874e-172a73fcc8da_2.jpg"
+   ],
+   "bya_description": "A hand uses a remote to control a black pedestal fan in a bedroom. The fan's light ring changes as different buttons are pressed.",
+   "bya_tags": [
+    "Bedroom",
+    "Digital display",
+    "Fan controls",
+    "Bedroom",
+    "Digital display",
+    "Fan controls",
+    "Product on surface",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "8ce16b51-e5ca-4462-9453-ce3b7292307b",
+   "filename": "360 in action.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 22.1,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8ce16b51-e5ca-4462-9453-ce3b7292307b_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8ce16b51-e5ca-4462-9453-ce3b7292307b_2.jpg"
+   ],
+   "bya_description": "Woman in a black jumpsuit walks past a green kitchen counter.",
+   "bya_tags": [
+    "Lifestyle moment",
+    "Product hero shot",
+    "Product on surface",
+    "Lifestyle moment",
+    "Product on surface",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "dfa5f541-4283-419e-85f3-23fc117f2b1e",
+   "filename": "360 on counter.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 21.83,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/dfa5f541-4283-419e-85f3-23fc117f2b1e_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/dfa5f541-4283-419e-85f3-23fc117f2b1e_2.jpg"
+   ],
+   "bya_description": "A white bladeless fan sits on a kitchen counter. The camera pans right to reveal light green cabinets and a living room with a brick fireplace.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Product on surface",
+    "Living room",
+    "Product on surface"
+   ],
+   "transcript": [
+    {
+     "start": 0.8,
+     "text": "I don't smell anything. I think you can see what's inside here.",
+     "labels": [
+      "Product benefit",
+      "Product on surface",
+      "Living room",
+      "Product hero shot"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0e6feb26-174f-4c1c-a45e-662e0855ebc1",
+   "filename": "curtains closed.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 21.37,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0e6feb26-174f-4c1c-a45e-662e0855ebc1_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0e6feb26-174f-4c1c-a45e-662e0855ebc1_2.jpg"
+   ],
+   "bya_description": "Woman in a pink dress pulls blue curtains closed across the window. Then static wide shot of a window with white trim and blue curtains.",
+   "bya_tags": [
+    "Bedroom",
+    "Curtains & windows",
+    "Unhappy expression",
+    "Bedroom",
+    "Curtains & windows",
+    "Unhappy expression"
+   ]
+  },
+  {
+   "id": "a66b862b-ba30-4c24-9b3e-5b42ee608cb7",
+   "filename": "scent pod drop in 1.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 21.5,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a66b862b-ba30-4c24-9b3e-5b42ee608cb7_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a66b862b-ba30-4c24-9b3e-5b42ee608cb7_2.jpg"
+   ],
+   "bya_description": "A hand with a ring holds a small, round scent pod labeled 'spin 360 Lux' in front of a white pedestal fan. The background is a living room with wooden floors. Then close-up of the hand opening the clear plastic lid of the scent pod. Then the lid is fully open, revealing a white circular pad inside the pod. The hand holds the pod steady. Then the hand removes the white pad to reveal a bright yellow",
+   "bya_tags": [
+    "Product close-up",
+    "Product hero shot",
+    "Product in hand",
+    "Product close-up",
+    "Product in hand",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "fb7db022-cf3e-4c9d-9559-835d60a343f7",
+   "filename": "tossing and turning.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 22.42,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fb7db022-cf3e-4c9d-9559-835d60a343f7_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fb7db022-cf3e-4c9d-9559-835d60a343f7_2.jpg"
+   ],
+   "bya_description": "A woman in a white shirt tosses restlessly in bed under a grey blanket. She throws the covers off and lies on her back in a dim bedroom.",
+   "bya_tags": [
+    "Bedroom",
+    "Tossing & turning",
+    "Unhappy expression",
+    "Bedroom",
+    "Tossing & turning",
+    "Unhappy expression"
+   ]
+  },
+  {
+   "id": "d4181c32-785c-499b-834d-bfaea1fda293",
+   "filename": "In quiet room",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 22.04,
+   "talking": false,
+   "cuts": [
+    4.6,
+    8.4,
+    11.87,
+    15.43
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d4181c32-785c-499b-834d-bfaea1fda293_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d4181c32-785c-499b-834d-bfaea1fda293_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d4181c32-785c-499b-834d-bfaea1fda293_3.jpg"
+   ],
+   "bya_description": "A tall, cylindrical fan with a glowing light ring stands in a dimly lit living room next to a large wall clock and a wooden cabinet. The camera pans slightly to the right, showing a television screen displaying a landscape.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Digital display",
+    "Digital display",
+    "Living room",
+    "Product close-up",
+    "Product on surface",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "24a7d952-0225-4bb4-a408-78eaf3a37e15",
+   "filename": "Tossing and turning in bed",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 21.94,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/24a7d952-0225-4bb4-a408-78eaf3a37e15_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/24a7d952-0225-4bb4-a408-78eaf3a37e15_2.jpg"
+   ],
+   "bya_description": "A man in a white t-shirt and grey shorts tosses and turns restlessly in a bed with white linens. The room is dimly lit, and he repeatedly kicks his legs and adjusts the duvet while appearing unable to find a comfortable sleeping position.",
+   "bya_tags": [
+    "Bedroom",
+    "Sleeping",
+    "Tossing & turning",
+    "Bedroom",
+    "Sleeping",
+    "Tossing & turning"
+   ]
+  },
+  {
+   "id": "1c25ee33-391f-47c6-b971-7270828bbbb6",
+   "filename": "IMG_9739.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 22.61,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1c25ee33-391f-47c6-b971-7270828bbbb6_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1c25ee33-391f-47c6-b971-7270828bbbb6_2.jpg"
+   ],
+   "bya_description": "A woman's hand with pink manicured nails and a diamond ring waves back and forth in front of the grill of a black and gold tower fan. The fan is running, and the hand moves from the top to the bottom of the circular grill to demonstrate the airflow. The fan is positioned in a living room with a framed geometric art piece on the wall behind it.",
+   "bya_tags": [
+    "Device in operation",
+    "Feeling the breeze",
+    "Living room",
+    "Device in operation",
+    "Feeling the breeze",
+    "Living room"
+   ],
+   "transcript": [
+    {
+     "start": 7.9,
+     "text": "Mom. Mom. Mom. Mom. Mom. Mom. Mom. Mom.",
+     "labels": [
+      "Feeling the breeze",
+      "Device in operation",
+      "Living room"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c20d7f5a-70d1-474f-882b-be06296a61e8",
+   "filename": "IMG_9768.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 20.11,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c20d7f5a-70d1-474f-882b-be06296a61e8_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c20d7f5a-70d1-474f-882b-be06296a61e8_2.jpg"
+   ],
+   "bya_description": "A woman in a striped t-shirt and grey shorts stands in a bedroom, holding up a large grey sheet and faces the camera. She repeatedly stretches the fabric and points to its texture while gesturing with her other hand.",
+   "bya_tags": [
+    "Bedroom",
+    "Direct address",
+    "Home testimonial",
+    "Bedroom",
+    "Direct address",
+    "Home testimonial",
+    "Stretching fabric"
+   ]
+  },
+  {
+   "id": "e2b02c11-037e-4d69-814d-f0eda9b5be5b",
+   "filename": "IMG_9771.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 12.17,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e2b02c11-037e-4d69-814d-f0eda9b5be5b_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e2b02c11-037e-4d69-814d-f0eda9b5be5b_2.jpg"
+   ],
+   "bya_description": "A woman in a striped t-shirt is lying in bed under a patterned duvet in a bedroom with green walls. She wakes up, sits up on the edge of the bed, stretches her arms wide, yawns, and rubs her eyes with both hands.",
+   "bya_tags": [
+    "Bedroom",
+    "Rubbing face",
+    "Waking rested",
+    "Bedroom",
+    "Rubbing face",
+    "Waking rested"
+   ]
+  },
+  {
+   "id": "c5d20f9b-c363-4e64-8007-fa3b1533285c",
+   "filename": "IMG_9772.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 9.87,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c5d20f9b-c363-4e64-8007-fa3b1533285c_1.jpg"
+   ],
+   "bya_description": "A woman in a green t-shirt and grey shorts walks through a doorway into a carpeted room. She stops, looks around the room with a neutral expression, and then walks out of the frame to the left.",
+   "bya_tags": [
+    "Bedroom",
+    "Walking through door",
+    "Bedroom",
+    "Walking through door"
+   ]
+  },
+  {
+   "id": "7fe1ab0d-dfd9-42dc-ba5b-5379d3affcc8",
+   "filename": "IMG_9773.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 10.24,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7fe1ab0d-dfd9-42dc-ba5b-5379d3affcc8_1.jpg"
+   ],
+   "bya_description": "A woman in a green t-shirt and light blue shorts walks through a doorway into a room with beige carpet and light green walls. She stops, faces the camera, and faces the camera while gesturing with her hands before walking past the camera to the right.",
+   "bya_tags": [
+    "Lifestyle moment",
+    "Walking through door",
+    "Lifestyle moment",
+    "Walking through door"
+   ]
+  },
+  {
+   "id": "edf505b2-0fa7-41bd-826b-56393c418d2d",
+   "filename": "IMG_9775.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 21.6,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/edf505b2-0fa7-41bd-826b-56393c418d2d_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/edf505b2-0fa7-41bd-826b-56393c418d2d_2.jpg"
+   ],
+   "bya_description": "A middle-aged woman in a green t-shirt sits on a brown leather couch, reading a book. To her right, a Spin360 Fan is running on its floor stand. The room is a living room with framed family photos on the wall and a large indoor plant in the background.",
+   "bya_tags": [
+    "Device in operation",
+    "Living room",
+    "Relaxing at home",
+    "Device in operation",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "9c56ea3b-6d7c-460f-bc5a-07cdc345e31d",
+   "filename": "IMG_9776.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 8.09,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9c56ea3b-6d7c-460f-bc5a-07cdc345e31d_1.jpg"
+   ],
+   "bya_description": "A woman in a tan tank top and black pants stands on a porch, knocking on a dark brown front door with glass panes. She then reaches for the handle, opens the door, and walks inside the house.",
+   "bya_tags": [
+    "Walking through door",
+    "Walking through door"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+[
+ {
+  "id": "667aff4e-f958-42dc-b959-ecc26b700fb7",
+  "kind": "ai_generated",
+  "summary": "Vertical high-angle locked shot of a luxe living room where a short tabletop Spin360 on the coffee table emits animated pink/blue airflow cone then white swirling air rings around a relaxing couple; 12 s animation plays twice.",
+  "people": [
+   {"who": "man, lying on sofa, seen from above", "wardrobe": "dark top", "role": "actor"},
+   {"who": "woman, blonde, in armchair", "wardrobe": "light loungewear", "role": "actor"}
+  ],
+  "product": {"visible": "partial", "colourway": "unclear", "on": true, "details_seen": ["cage", "base", "short tabletop unit"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 1.0, "camera": "static", "framing": "wide", "action": "establishing: couple relaxing, small unit on coffee table, sheer curtains, vaulted ceiling", "on_screen_text": "", "audio_hint": ""},
+   {"start": 1.0, "end": 5.0, "camera": "static", "framing": "wide", "action": "unit glows blue at base, pink cone of airflow graphics rises from top", "on_screen_text": "", "audio_hint": ""},
+   {"start": 5.0, "end": 12.2, "camera": "static", "framing": "wide", "action": "white translucent air rings sweep 360 around the room past the couple, then fade", "on_screen_text": "", "audio_hint": ""},
+   {"start": 12.2, "end": 24.3, "camera": "static", "framing": "wide", "action": "exact repeat of the 0-12 s animation (loop)", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 5.0, "end": 10.5, "why": "360 air rings visibly wrap the whole room and both people - explains 360 airflow at a glance"},
+  "beats": ["airflow_demo_curtain_or_ribbon", "room_aesthetic", "lifestyle_reading_relaxing", "product_hero"],
+  "hook_potential": {"score": 2, "why": "visual 'air fills the whole room' explainer; product tiny in frame"},
+  "brand_fit": {"score": 3, "why": "luxe airy living room, sheer curtains, sunlit, calm"},
+  "quality": {"score": 2, "issues": ["AI artefacts", "vertical crop risk"]},
+  "status": "CAUTION",
+  "status_why": "CGI/AI airflow graphics; product is the short tabletop unit, tiny in frame. Same scene as 'Air Mix Loop' (horizontal version).",
+  "tags": ["airflow graphics", "360 air rings", "couple relaxing living room", "top-down wide", "tabletop unit on coffee table", "loop", "vertical"]
+ },
+ {
+  "id": "9c94ad67-bb9f-4eb6-9052-7ec06b71952a",
+  "kind": "ai_generated",
+  "summary": "Horizontal version of the same luxe living-room airflow animation: short tabletop Spin360 on the coffee table shoots a pink/blue airflow cone then white 360 air rings around a relaxing couple; 12 s loop played twice.",
+  "people": [
+   {"who": "man, lying on sofa, seen from above", "wardrobe": "dark top", "role": "actor"},
+   {"who": "woman, blonde, in armchair", "wardrobe": "light loungewear", "role": "actor"}
+  ],
+  "product": {"visible": "partial", "colourway": "unclear", "on": true, "details_seen": ["cage", "base", "short tabletop unit"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 1.0, "camera": "static", "framing": "wide", "action": "establishing high angle: couple, sofas, TV over fireplace, floor-to-ceiling sheer curtains", "on_screen_text": "", "audio_hint": ""},
+   {"start": 1.0, "end": 5.0, "camera": "static", "framing": "wide", "action": "blue glow at unit base, pink airflow cone rises from top", "on_screen_text": "", "audio_hint": ""},
+   {"start": 5.0, "end": 12.2, "camera": "static", "framing": "wide", "action": "white air rings spiral outward through the room past both people, fade", "on_screen_text": "", "audio_hint": ""},
+   {"start": 12.2, "end": 24.3, "camera": "static", "framing": "wide", "action": "repeat of the animation (loop)", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 5.0, "end": 10.5, "why": "air rings fill the room around the couple; horizontal frame shows full room"},
+  "beats": ["airflow_demo_curtain_or_ribbon", "room_aesthetic", "lifestyle_reading_relaxing", "product_hero"],
+  "hook_potential": {"score": 2, "why": "clear '360 airflow fills the room' visual; product small"},
+  "brand_fit": {"score": 3, "why": "luxe, airy, sunlit, sheer curtains, calm couple"},
+  "quality": {"score": 2, "issues": ["AI artefacts"]},
+  "status": "CAUTION",
+  "status_why": "CGI/AI airflow graphics; short tabletop unit as the product. Duplicate scene of 13.mp4 (vertical).",
+  "tags": ["airflow graphics", "360 air rings", "couple relaxing living room", "high angle wide", "tabletop unit", "loop", "horizontal"]
+ },
+ {
+  "id": "4c3337ff-2e91-40fd-9e7d-dca6645d1575",
+  "kind": "ugc_broll",
+  "summary": "Handheld close/medium of a running black Spin360 head on its pole in a lake-house sunroom, with the white-haired senior man sitting at a wooden table soft in the background.",
+  "people": [
+   {"who": "senior man, white hair, glasses", "wardrobe": "cream short-sleeve shirt, khaki shorts", "role": "senior"}
+  ],
+  "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["cage", "gold halo", "pole"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 7.0, "camera": "handheld", "framing": "close", "action": "camera settles on spinning cage head; terracotta tile floor, wooden table and chairs, trees through windows", "on_screen_text": "", "audio_hint": "off-camera 'Yeah, it's really nice.' at 0 s"},
+   {"start": 7.0, "end": 21.0, "camera": "handheld", "framing": "close", "action": "slow drift right: fan head in focus, senior man seated at table behind, relaxed", "on_screen_text": "", "audio_hint": ""},
+   {"start": 21.0, "end": 28.1, "camera": "handheld", "framing": "close", "action": "drift back left; man's arm on table, fan keeps spinning", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 8.4, "end": 15.0, "why": "fan head sharp with senior man relaxing behind; calm, real-home feel"},
+  "beats": ["product_hero", "lifestyle_reading_relaxing", "room_aesthetic"],
+  "hook_potential": {"score": 1, "why": "calm hero b-roll, no action"},
+  "brand_fit": {"score": 2, "why": "bright sunroom with trees, but ordinary tile and furniture"},
+  "quality": {"score": 2, "issues": ["shaky"]},
+  "status": "OK",
+  "status_why": "",
+  "tags": ["black fan spinning close-up", "senior man at table", "lake house sunroom", "tile floor", "shallow focus"],
+  "takes": [
+   {"start": 0.0, "line": "Yeah, it's really nice.", "delivery": "clean", "energy": 1, "framing": "close", "keep": false}
+  ],
+  "best_takes": [],
+  "speaker": {"look": "off-camera voice (not visibly speaking)", "setting": "lake-house sunroom", "props": "black Spin360"}
+ },
+ {
+  "id": "1192ba91-5047-4d74-a147-f1f8ff0f8cad",
+  "kind": "ugc_broll",
+  "summary": "POV: a hand holds the black remote in front of a black Spin360 in the lake-house sunroom, presses power and speed buttons while the pole display steps up from F1 to F3.",
+  "people": [
+   {"who": "man's hand", "wardrobe": "", "role": "hand only"},
+   {"who": "person in blue, background, blurred", "wardrobe": "blue", "role": "actor"}
+  ],
+  "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["display F1", "display F3", "cage", "gold halo", "base", "remote"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 13.0, "camera": "POV", "framing": "medium", "action": "hand holds remote toward full fan (head, pole, base), presses buttons; display lights", "on_screen_text": "", "audio_hint": ""},
+   {"start": 13.0, "end": 15.5, "camera": "tilt", "framing": "close", "action": "camera tilts down from cage to pole display showing F1", "on_screen_text": "", "audio_hint": ""},
+   {"start": 15.5, "end": 25.9, "camera": "POV", "framing": "close", "action": "thumb presses + on remote; display changes F1 to F3; underside of head above", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 16.0, "end": 20.0, "why": "remote press and display clearly stepping F1 to F3"},
+  "beats": ["turning_on", "control_display"],
+  "hook_potential": {"score": 1, "why": "functional control demo"},
+  "brand_fit": {"score": 1, "why": "ordinary sunroom, cluttered background, harsh window light"},
+  "quality": {"score": 2, "issues": ["overexposed", "shaky"]},
+  "status": "OK",
+  "status_why": "",
+  "tags": ["remote control", "pressing speed button", "display F1 F3", "POV hand", "black unit full height", "lake house sunroom"]
+ },
+ {
+  "id": "475faa0b-2fc2-4425-a761-b8fa47b3e837",
+  "kind": "ugc_broll",
+  "summary": "Close handheld of a hand fitting the clear curved scent tray onto the side of a black Spin360 cage, taking it off and refitting it several times, against wood-panel wall with a July 2026 calendar.",
+  "people": [
+   {"who": "adult hand/forearm with red-and-white wristbands", "wardrobe": "", "role": "hand only"}
+  ],
+  "product": {"visible": "partial", "colourway": "black", "on": false, "details_seen": ["scent tray", "cage", "gold halo"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 8.5, "camera": "handheld", "framing": "close", "action": "hand brings clear curved tray to cage side and clicks it on", "on_screen_text": "", "audio_hint": ""},
+   {"start": 8.5, "end": 11.0, "camera": "handheld", "framing": "close", "action": "tray seated flush on cage, hand away", "on_screen_text": "", "audio_hint": "off-camera chatter about a photo with sailboats from 7.8 s"},
+   {"start": 11.0, "end": 22.5, "camera": "handheld", "framing": "close", "action": "tray removed and refitted again; wristbands prominent", "on_screen_text": "", "audio_hint": ""},
+   {"start": 22.5, "end": 23.5, "camera": "handheld", "framing": "close", "action": "tray pulled off, camera whips away (blur)", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 1.1, "end": 4.5, "why": "clear view of tray sliding onto cage side"},
+  "beats": ["scent_tray"],
+  "hook_potential": {"score": 1, "why": "how-to detail shot"},
+  "brand_fit": {"score": 1, "why": "plain wood paneling, calendar, wristbands distract"},
+  "quality": {"score": 2, "issues": ["shaky", "blurry"]},
+  "status": "OK",
+  "status_why": "Wristbands carry small text/logo (unreadable) - check if used large. Background audio is unrelated chatter.",
+  "tags": ["scent tray attach", "clear curved tray", "hand clicks tray on cage", "black unit close-up", "wristband", "calendar July 2026"],
+  "takes": [
+   {"start": 7.8, "line": "So before it starts pouring rain, take a picture…", "delivery": "clean", "energy": 1, "framing": "close", "keep": false}
+  ],
+  "best_takes": [],
+  "speaker": {"look": "off-camera voice, unrelated to product", "setting": "lake house", "props": "scent tray"}
+ },
+ {
+  "id": "aa3fb875-a43d-4a51-9526-98321ee26762",
+  "kind": "ugc_broll",
+  "summary": "Handheld walk: a hand slides open a glass door showing a black Spin360 in the lake-house living room, camera walks out onto the deck with a lake and pine view, then back in to the fan in the glass corner room.",
+  "people": [
+   {"who": "hand", "wardrobe": "", "role": "hand only"}
+  ],
+  "product": {"visible": "full", "colourway": "black", "on": null, "details_seen": ["cage", "base", "pole"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "lake", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 3.5, "camera": "handheld", "framing": "wide", "action": "through glass: fan beside lamp table in living room; hand slides door open", "on_screen_text": "", "audio_hint": ""},
+   {"start": 3.5, "end": 6.0, "camera": "pan", "framing": "wide", "action": "fast whip out onto deck (motion blur)", "on_screen_text": "", "audio_hint": ""},
+   {"start": 6.0, "end": 10.5, "camera": "handheld", "framing": "wide", "action": "deck steps, gravel path, tall pines, lake beyond, overcast", "on_screen_text": "", "audio_hint": ""},
+   {"start": 10.5, "end": 13.5, "camera": "pan", "framing": "wide", "action": "turn back to see fan inside glass corner room", "on_screen_text": "", "audio_hint": ""},
+   {"start": 13.5, "end": 21.0, "camera": "handheld", "framing": "wide", "action": "lake view from deck through trees", "on_screen_text": "", "audio_hint": ""},
+   {"start": 21.0, "end": 23.7, "camera": "pan", "framing": "wide", "action": "pan into glass corner room: black fan on wood floor, lake behind windows", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 22.0, "end": 23.7, "why": "black fan in glass corner room with lake and trees behind"},
+  "beats": ["room_aesthetic", "outdoor_patio", "product_hero"],
+  "hook_potential": {"score": 1, "why": "scenic but slow, product small"},
+  "brand_fit": {"score": 2, "why": "lake and pine view, open door; overcast and dated interior"},
+  "quality": {"score": 1, "issues": ["shaky", "blurry"]},
+  "status": "OK",
+  "status_why": "",
+  "tags": ["sliding door open", "lake view deck", "pine trees", "black fan glass corner room", "walk-through", "overcast"]
+ },
+ {
+  "id": "8a9f00f6-bac1-45d6-a9f0-656aea8724f7",
+  "kind": "ugc_broll",
+  "summary": "Black Spin360 beside a bed in a lake-view bedroom, then a slow handheld close-up of the spinning cage with sailboats on the lake behind.",
+  "people": [],
+  "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["display F1", "cage", "gold halo", "base"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "lake", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 5.8, "camera": "handheld", "framing": "wide", "action": "fan next to bed with leaf-print duvet, big window onto lake and trees, wood ceiling", "on_screen_text": "", "audio_hint": ""},
+   {"start": 5.8, "end": 6.3, "camera": "pan", "framing": "medium", "action": "camera moves in past window frame", "on_screen_text": "", "audio_hint": ""},
+   {"start": 6.3, "end": 25.1, "camera": "handheld", "framing": "close", "action": "close on spinning cage head, display F1 on pole, sailboats on lake, diamond window decals", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 14.8, "end": 20.0, "why": "cage fills frame, spinning slats, white sailboats on lake behind"},
+  "beats": ["product_hero", "room_aesthetic"],
+  "hook_potential": {"score": 2, "why": "attractive hero close-up with lake and sailboats"},
+  "brand_fit": {"score": 3, "why": "lake view, sailboats, trees, bright and calm"},
+  "quality": {"score": 2, "issues": ["shaky"]},
+  "status": "OK",
+  "status_why": "Power cord visible in the wide.",
+  "tags": ["black fan by bed", "lake view bedroom", "sailboats", "cage close-up spinning", "display F1", "window decals"]
+ },
+ {
+  "id": "833942a6-9f6e-4a57-92b5-8ce522c381f7",
+  "kind": "product_only",
+  "summary": "A man's hand turns and rotates a purple 3D-printed flower-shaped prototype fan blade against a teal backdrop.",
+  "people": [
+   {"who": "man, older hands, dark sleeve", "wardrobe": "black long sleeve", "role": "hand only"}
+  ],
+  "product": {"visible": "none", "colourway": "none", "on": false, "details_seen": ["purple flower blade prototype"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "studio", "time": "unclear", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 3.5, "camera": "static", "framing": "close", "action": "hand holds purple petal blade by its hub, turns it", "on_screen_text": "", "audio_hint": ""},
+   {"start": 3.5, "end": 19.0, "camera": "static", "framing": "close", "action": "blade gripped from above, rotated slowly to show curved petals", "on_screen_text": "", "audio_hint": "off-camera 'Yep, keep going, keep rotating it.' at 7.7 s"},
+   {"start": 19.0, "end": 25.6, "camera": "static", "framing": "close", "action": "second hand appears; blade held face-on showing 7-8 swept petals, spins slightly", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 20.4, "end": 23.0, "why": "blade face-on, full swirl shape clear"},
+  "beats": [],
+  "hook_potential": {"score": 1, "why": "curious shape for an inventor/origin story"},
+  "brand_fit": {"score": 1, "why": "studio prototype, not the retail look"},
+  "quality": {"score": 2, "issues": []},
+  "status": "CAUTION",
+  "status_why": "Early prototype part (purple flower blade) - not retail. Off-camera direction in audio.",
+  "tags": ["purple prototype blade", "flower blade", "inventor hands", "teal backdrop", "origin story", "3D print"],
+  "takes": [
+   {"start": 7.7, "line": "Yep, keep going, keep rotating it.", "delivery": "clean", "energy": 1, "framing": "close", "keep": false}
+  ],
+  "best_takes": [],
+  "speaker": {"look": "off-camera director voice", "setting": "studio, teal backdrop", "props": "purple prototype blade"}
+ },
+ {
+  "id": "6db654dc-741b-44ec-804f-ff824f33eacd",
+  "kind": "ugc_broll",
+  "summary": "Nursery UGC with mum voice-over: hand picks up white remote and turns on a white Spin360 (blue ring), baby sleeping in crib, sheer curtains, fan hero shots in a neutral nursery.",
+  "people": [
+   {"who": "woman's hands, rings", "wardrobe": "", "role": "hand only"},
+   {"who": "newborn baby asleep, swaddled", "wardrobe": "white knit", "role": "child"}
+  ],
+  "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["blue ring", "display", "cage", "gold halo", "base", "white remote"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "nursery", "time": "day", "light": "bright natural", "view": "city", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 1.07, "camera": "handheld", "framing": "close", "action": "hand picks up white remote from white dresser", "on_screen_text": "", "audio_hint": "VO hook 'New moms…'"},
+   {"start": 1.07, "end": 5.3, "camera": "POV", "framing": "medium", "action": "remote pointed at white fan, button pressed, blue ring lights", "on_screen_text": "", "audio_hint": ""},
+   {"start": 5.3, "end": 7.83, "camera": "handheld", "framing": "close", "action": "sheer curtains at window, top of crib with sleeping baby", "on_screen_text": "", "audio_hint": ""},
+   {"start": 7.83, "end": 14.67, "camera": "push in", "framing": "wide", "action": "fan on round rug in nursery: crib, rocking chair, dresser, teddy bears; push in to head", "on_screen_text": "", "audio_hint": ""},
+   {"start": 14.67, "end": 17.57, "camera": "static", "framing": "medium", "action": "newborn asleep in white crib, mobile, giraffe plush toys", "on_screen_text": "", "audio_hint": "'soft and natural airflow'"},
+   {"start": 17.57, "end": 20.57, "camera": "handheld", "framing": "close", "action": "close on fan head and blue ring", "on_screen_text": "", "audio_hint": ""},
+   {"start": 20.57, "end": 23.8, "camera": "static", "framing": "close", "action": "sheer curtains in front of window, slight movement", "on_screen_text": "", "audio_hint": "'gentle breeze'"},
+   {"start": 23.8, "end": 26.93, "camera": "handheld", "framing": "close", "action": "close on fan head, display", "on_screen_text": "", "audio_hint": "'soft white noise'"},
+   {"start": 26.93, "end": 29.8, "camera": "pull out", "framing": "wide", "action": "wide nursery with fan centred on rug", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 14.67, "end": 17.57, "why": "sleeping newborn in crib - strongest emotional shot"},
+  "beats": ["turning_on", "control_display", "family_kids", "sleeping_comfort", "airflow_demo_curtain_or_ribbon", "room_aesthetic", "product_hero", "quiet_demo"],
+  "hook_potential": {"score": 3, "why": "'New moms, this is one thing I wish I added to the nursery sooner' + sleeping baby"},
+  "brand_fit": {"score": 3, "why": "airy neutral nursery, sheer curtains, soft daylight"},
+  "quality": {"score": 2, "issues": ["AI artefacts"]},
+  "status": "CAUTION",
+  "status_why": "Baby claims: 'My baby used to wake up so easily, every little sound', 'it changed how comfortable the room feels', 'I turn it up for soft white noise'. Possibly AI-generated (display glyph unreadable, very clean look) - unclear.",
+  "tags": ["nursery", "newborn sleeping crib", "white fan blue ring", "white remote", "new moms hook", "sheer curtains", "teddy bears", "voice-over"],
+  "takes": [
+   {"start": 0.0, "line": "New moms, this is one thing I wish I added to the nursery sooner…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+   {"start": 3.8, "line": "…used to wake up so easily, every little sound…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+   {"start": 9.4, "line": "we added this fan to the nursery, and honestly, it changed how comfortable…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+   {"start": 14.9, "line": "The first thing I noticed was how soft and natural the airflow feels…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+   {"start": 23.8, "line": "I want a little background sound, I turn it up for soft white noise…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true}
+  ],
+  "best_takes": ["0.0", "3.8", "9.4", "14.9", "23.8"],
+  "speaker": {"look": "off-camera female VO (only hands seen)", "setting": "neutral nursery, crib, dresser, rocking chair", "props": "white Spin360, white remote"}
+ },
+ {
+  "id": "7226d640-d9ac-4a48-adb0-fea87a5393da",
+  "kind": "ai_generated",
+  "summary": "Likely AI: a baby in a cream robe and bow hat sleeps on a big bed with a white Spin360 (blue ring) by the window; close-ups of baby face and feet, ending on sheer curtains blowing in sunlight.",
+  "people": [
+   {"who": "baby asleep", "wardrobe": "cream fleece robe, bow hat, socks", "role": "child"}
+  ],
+  "product": {"visible": "full", "colourway": "white", "on": true, "details_seen": ["blue ring", "display", "cage", "gold halo"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "city", "curtains_moving": true, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 3.73, "camera": "static", "framing": "wide", "action": "baby asleep on cream ribbed duvet, flower pillow; white fan by window and palm", "on_screen_text": "", "audio_hint": ""},
+   {"start": 3.73, "end": 8.23, "camera": "push in", "framing": "close", "action": "close on sleeping baby face, fist, bow hat", "on_screen_text": "", "audio_hint": ""},
+   {"start": 8.23, "end": 11.23, "camera": "static", "framing": "medium", "action": "white fan head and blue ring with palm behind", "on_screen_text": "", "audio_hint": ""},
+   {"start": 11.23, "end": 12.93, "camera": "static", "framing": "wide", "action": "fan by window, baby on bed", "on_screen_text": "", "audio_hint": ""},
+   {"start": 12.93, "end": 21.63, "camera": "pan", "framing": "close", "action": "baby feet on fluffy blanket, pan up body to face", "on_screen_text": "", "audio_hint": ""},
+   {"start": 21.63, "end": 29.0, "camera": "pull out", "framing": "wide", "action": "wide: baby asleep, white fan by sunlit window", "on_screen_text": "", "audio_hint": ""},
+   {"start": 29.0, "end": 30.1, "camera": "static", "framing": "medium", "action": "sheer curtains billowing in golden light", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 22.8, "end": 27.0, "why": "baby asleep with white fan running by the window in warm sun"},
+  "beats": ["sleeping_comfort", "family_kids", "product_hero", "room_aesthetic", "airflow_demo_curtain_or_ribbon"],
+  "hook_potential": {"score": 2, "why": "cute sleeping baby, cosy textures"},
+  "brand_fit": {"score": 3, "why": "warm sunlit, sheer curtains, soft neutral luxe textures"},
+  "quality": {"score": 2, "issues": ["AI artefacts"]},
+  "status": "CAUTION",
+  "status_why": "Looks AI-generated (baby, too-perfect textures). Baby with fan = baby-claim context. No tower fan seen (BYA wrong).",
+  "tags": ["baby asleep on bed", "baby feet", "white fan blue ring", "curtains billowing", "golden hour", "palm plant", "cosy"]
+ }
+]

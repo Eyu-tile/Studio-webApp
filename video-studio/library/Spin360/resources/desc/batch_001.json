@@ -1,0 +1,728 @@
+{
+ "batch": "batch_001",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_001.out.json",
+ "clips": [
+  {
+   "id": "d312004b-7e62-4261-98f9-bde4546821d8",
+   "filename": "7.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 3.34,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d312004b-7e62-4261-98f9-bde4546821d8_1.jpg"
+   ],
+   "bya_description": "A man and woman sit on a wooden deck overlooking a dense pine forest. A white fan sits on a small table between their outdoor armchairs.",
+   "bya_tags": [
+    "Gathering around",
+    "Patio & backyard",
+    "Patio evening",
+    "Gathering around",
+    "Patio & backyard",
+    "Patio evening",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "64c9dca4-ab41-4f97-9a92-ae4de4a08d43",
+   "filename": "Airflow_Explanation_Hook_2.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 3.67,
+   "talking": false,
+   "cuts": [
+    0.03
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/64c9dca4-ab41-4f97-9a92-ae4de4a08d43_1.jpg"
+   ],
+   "bya_description": "A man in a red t-shirt gestures toward a white cylindrical fan in a workshop setting while speaking to the camera.",
+   "bya_tags": [
+    "David to camera",
+    "Hook",
+    "Old fan comparison",
+    "Old fan comparison"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "As everybody knows, our fan is not like a regular fan.",
+     "labels": [
+      "Hook",
+      "David to camera",
+      "Old fan comparison"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "548703e6-349c-4c5e-bdee-d9f380c2bdc3",
+   "filename": "Apartment_Hook_3.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 3.31,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/548703e6-349c-4c5e-bdee-d9f380c2bdc3_1.jpg"
+   ],
+   "bya_description": "A person kneeling on a patterned rug assembles a white tower fan by attaching the pole to the base and then placing the fan head on top.",
+   "bya_tags": [
+    "Living room",
+    "Moving the fan",
+    "Unboxing",
+    "Living room",
+    "Moving the fan",
+    "Unboxing"
+   ]
+  },
+  {
+   "id": "9bead99c-d37b-46af-b988-09f0bba3675e",
+   "filename": "AtFirst_ButThen_Hook_5.mov",
+   "folder": "(unfiled)",
+   "duration_s": 2.62,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9bead99c-d37b-46af-b988-09f0bba3675e_1.jpg"
+   ],
+   "bya_description": "A bald man in a maroon shirt stands in a living room beside a white pedestal fan. He gestures toward the device while looking at the camera with a pool visible in the background.",
+   "bya_tags": [
+    "Creator narration",
+    "David to camera",
+    "Hook",
+    "Living room"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "Dang, a fan that actually spreads air in all directions.",
+     "labels": [
+      "Hook",
+      "David to camera",
+      "Living room",
+      "Creator narration"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "95acc0a9-763d-440a-9974-11bb6690eebb",
+   "filename": "hf_1.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 2.56,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/95acc0a9-763d-440a-9974-11bb6690eebb_1.jpg"
+   ],
+   "bya_description": "A woman rests in bed beside a white pedestal fan emitting a blue light. A warm lamp glows on a nightstand in the background.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Sleeping",
+    "Bedroom",
+    "Sleeping"
+   ]
+  },
+  {
+   "id": "85a8d326-7f24-4fb5-a844-7706a94f4f42",
+   "filename": "hf_2.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 1.94,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/85a8d326-7f24-4fb5-a844-7706a94f4f42_1.jpg"
+   ],
+   "bya_description": "A woman sleeps peacefully in bed. A cylindrical fan with a purple glow sits on the nightstand nearby.",
+   "bya_tags": [
+    "Bedroom",
+    "Sleeping",
+    "Bedroom",
+    "Sleeping"
+   ]
+  },
+  {
+   "id": "e62dce74-7fcd-4cbf-8e50-c72f020148e8",
+   "filename": "hook1.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 3.11,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e62dce74-7fcd-4cbf-8e50-c72f020148e8_1.jpg"
+   ],
+   "bya_description": "A woman in a tan cardigan sits on a rug next to a white fan in a living room. She looks at the device and then smiles at the camera.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "db33e65d-497b-42bd-a487-b4e5bd62c282",
+   "filename": "hook2.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 3.6,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/db33e65d-497b-42bd-a487-b4e5bd62c282_1.jpg"
+   ],
+   "bya_description": "A woman in a beige cardigan stands in a living room by a glowing white fan. She looks at the device then smiles at the camera.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "f1bdb9b1-fe57-47c9-8a8c-f85e052d187d",
+   "filename": "IMG_3791.mov",
+   "folder": "(unfiled)",
+   "duration_s": 3.67,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f1bdb9b1-fe57-47c9-8a8c-f85e052d187d_1.jpg"
+   ],
+   "bya_description": "A black cylindrical fan sits on a counter in a kitchen while a person in a blue apron moves in the background.",
+   "bya_tags": [
+    "Product hero shot",
+    "Relaxing at home",
+    "Relaxing at home"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "Yeah. Oh yeah, no, I",
+     "labels": [
+      "Relaxing at home",
+      "Product hero shot"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4cc0cc39-5113-40da-889e-7fc024bd3cff",
+   "filename": "IMG_3807.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 3.13,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4cc0cc39-5113-40da-889e-7fc024bd3cff_1.jpg"
+   ],
+   "bya_description": "A hand presses a button on a remote to activate a black pedestal fan. The fan stands on a brown tiled floor in a home setting.",
+   "bya_tags": [
+    "Fan controls",
+    "Product hero shot",
+    "Turning fan on",
+    "Fan controls",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "3fb83e2f-697e-4a49-a805-70c00130baff",
+   "filename": "IMG_3816.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 3.03,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3fb83e2f-697e-4a49-a805-70c00130baff_1.jpg"
+   ],
+   "bya_description": "A low-angle shot shows a black pedestal fan with a clear, ribbed top. It stands indoors near a large window with a view of trees.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "5e6ce70b-895f-4335-986a-0333cbe6e3ca",
+   "filename": "IMG_3840.mov",
+   "folder": "(unfiled)",
+   "duration_s": 1.93,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5e6ce70b-895f-4335-986a-0333cbe6e3ca_1.jpg"
+   ],
+   "bya_description": "A black bug-repelling fan stands in a modern living room. Large windows behind it show a scenic lake view.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "16a57c78-0f69-4a99-87b0-0110dda39156",
+   "filename": "IMG_3842.mov",
+   "folder": "(unfiled)",
+   "duration_s": 1.23,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/16a57c78-0f69-4a99-87b0-0110dda39156_1.jpg"
+   ],
+   "bya_description": "Close-up of a black cylindrical device with horizontal grills. Blurred outdoor background visible through a window.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Product hero shot",
+    "Fan spinning close-up"
+   ]
+  },
+  {
+   "id": "1ede35d4-98d5-489e-b522-9f0a3bab010c",
+   "filename": "IMG_3844.mov",
+   "folder": "(unfiled)",
+   "duration_s": 2.77,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1ede35d4-98d5-489e-b522-9f0a3bab010c_1.jpg"
+   ],
+   "bya_description": "A close-up of a black bug zapper fan by a window. The background shows trees through glass.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Patio & backyard",
+    "Fan spinning close-up",
+    "Patio & backyard"
+   ]
+  },
+  {
+   "id": "703b7b56-db15-43a4-a4eb-e0cb1bb4d0d5",
+   "filename": "IMG_3845.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 2.7,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/703b7b56-db15-43a4-a4eb-e0cb1bb4d0d5_1.jpg"
+   ],
+   "bya_description": "A black floor fan stands in a living room by large windows overlooking a lake.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "caa04a99-b963-4963-9701-9da64b6bf125",
+   "filename": "IMG_3856.mov",
+   "folder": "(unfiled)",
+   "duration_s": 2.67,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/caa04a99-b963-4963-9701-9da64b6bf125_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan with a silver top cage stands in a living room. The internal blades spin while a digital display on the stand shows 'F6'.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Living room",
+    "Product hero shot",
+    "Fan spinning close-up",
+    "Living room",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "b6c31a78-c05e-43a7-a573-3b588a34512e",
+   "filename": "IMG_3862.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 2,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b6c31a78-c05e-43a7-a573-3b588a34512e_1.jpg"
+   ],
+   "bya_description": "A black pedestal device stands in a modern living room with large windows overlooking a lake. A green cushion sits on the floor nearby.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "9a2d9474-4f83-4e5d-a26f-20bc8f4e7cdd",
+   "filename": "IMG_3870.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 2.7,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9a2d9474-4f83-4e5d-a26f-20bc8f4e7cdd_1.jpg"
+   ],
+   "bya_description": "Wide shot of a bright living room with vaulted ceilings and wood beams.",
+   "bya_tags": [
+    "Creator narration",
+    "Hook",
+    "Living room",
+    "Living room",
+    "Relaxing at home"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "It is a common retreat that's even",
+     "labels": [
+      "Relaxing at home",
+      "Living room",
+      "Creator narration",
+      "Hook"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b2963666-4f1a-4afb-ac15-1d483ec2e415",
+   "filename": "IMG_3894.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 3.5,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b2963666-4f1a-4afb-ac15-1d483ec2e415_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan stands in the center of a bedroom with light wood floors and a vaulted wooden ceiling. To the right is a bed with white bedding, and to the left is a television near a window.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Bedroom"
+   ]
+  },
+  {
+   "id": "4ae3f9f6-6b83-4be1-981d-b464a19e85eb",
+   "filename": "IMG_3895.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 2.87,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4ae3f9f6-6b83-4be1-981d-b464a19e85eb_1.jpg"
+   ],
+   "bya_description": "A black fan on a tall stand occupies the foreground of a sunlit bedroom. A bed with a black frame and patterned linens sits in the background.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Bedroom"
+   ]
+  },
+  {
+   "id": "9e002a2f-1f13-4605-97f3-451b6418f042",
+   "filename": "IMG_3905.mov",
+   "folder": "(unfiled)",
+   "duration_s": 2.54,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9e002a2f-1f13-4605-97f3-451b6418f042_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan stands in a bedroom beside a bed near a large window overlooking a lake.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Product hero shot",
+    "Bedroom"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "Trying to keep",
+     "labels": [
+      "Bedroom",
+      "Product hero shot",
+      "Creator narration"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "00cda604-383b-46c1-a506-a26f665b0203",
+   "filename": "IMG_3907.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 2.63,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/00cda604-383b-46c1-a506-a26f665b0203_1.jpg"
+   ],
+   "bya_description": "A black fan stands on a wood floor in a bedroom. The camera pans across a bed toward a large window overlooking a lake.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Bedroom"
+   ]
+  },
+  {
+   "id": "f6e8ff95-6c84-4182-b8e4-1458d3f75f0f",
+   "filename": "IMG_3908.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 3.53,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f6e8ff95-6c84-4182-b8e4-1458d3f75f0f_1.jpg"
+   ],
+   "bya_description": "Camera enters bedroom from hallway, showing a glowing fan device near a bed with a lake view.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Bedroom"
+   ]
+  },
+  {
+   "id": "4395b6db-d404-4381-976c-8efd0446a3b0",
+   "filename": "IMG_3913.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 2.4,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4395b6db-d404-4381-976c-8efd0446a3b0_1.jpg"
+   ],
+   "bya_description": "Wide shot of a bedroom featuring vaulted wood ceilings, a bed with a patterned duvet, and a black cylindrical fan.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Bedroom"
+   ]
+  },
+  {
+   "id": "6bec68e3-1c44-4d64-9d66-bd59ebebd26b",
+   "filename": "Prototype_Design_9x16.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 2.99,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6bec68e3-1c44-4d64-9d66-bd59ebebd26b_1.jpg"
+   ],
+   "bya_description": "3D render of a spinning black fan with a glowing green core against a white background.",
+   "bya_tags": [
+    "3D render",
+    "Fan spinning close-up",
+    "3D render",
+    "Fan spinning close-up"
+   ]
+  },
+  {
+   "id": "8f0738e0-cde9-4f5a-b6c3-28e86e559f81",
+   "filename": "Shiv - AF1.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 2.82,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8f0738e0-cde9-4f5a-b6c3-28e86e559f81_1.jpg"
+   ],
+   "bya_description": "A black fan with a metal cage sits on a wooden table. Blue CGI arrows show air intake from the sides.",
+   "bya_tags": [
+    "Airflow graphics",
+    "Product hero shot",
+    "Airflow graphics"
+   ]
+  },
+  {
+   "id": "ed1992ac-dd8c-46c5-85d1-e43080d3ee7c",
+   "filename": "Shiv - AF3.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 3.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ed1992ac-dd8c-46c5-85d1-e43080d3ee7c_1.jpg"
+   ],
+   "bya_description": "A black fan spins on a wooden table. Animated teal rings visualize airflow around the device.",
+   "bya_tags": [
+    "Airflow graphics",
+    "Fan spinning close-up",
+    "Product hero shot",
+    "Airflow graphics",
+    "Fan spinning close-up"
+   ]
+  },
+  {
+   "id": "0de08788-f140-4159-bd80-9fd1f6be9538",
+   "filename": "Shiv - AF4.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 2.28,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0de08788-f140-4159-bd80-9fd1f6be9538_1.jpg"
+   ],
+   "bya_description": "A black fan sits on a white pedestal table on a wooden deck. An outdoor sofa and pine trees are visible in the background.",
+   "bya_tags": [
+    "Patio & backyard",
+    "Product hero shot",
+    "Patio & backyard"
+   ]
+  },
+  {
+   "id": "9462db76-4963-4d16-aeb9-2b9fb3ab838a",
+   "filename": "Shiv - AF5.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 2.33,
+   "talking": false,
+   "cuts": [
+    1.25
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9462db76-4963-4d16-aeb9-2b9fb3ab838a_1.jpg"
+   ],
+   "bya_description": "A white fan with a digital display cuts to a blonde woman in pajamas closing her eyes and smiling.",
+   "bya_tags": [
+    "Bedroom",
+    "Fan spinning close-up",
+    "Feeling the breeze",
+    "Bedroom",
+    "Fan spinning close-up",
+    "Feeling the breeze"
+   ]
+  },
+  {
+   "id": "07cf2857-0431-4485-818a-94c384affbd4",
+   "filename": "Shiv - AF6.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 3.48,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/07cf2857-0431-4485-818a-94c384affbd4_1.jpg"
+   ],
+   "bya_description": "A black and silver fan sits on a wooden table in a bright living room. Blue CGI arrows show air being drawn into the device from above and below.",
+   "bya_tags": [
+    "Airflow graphics",
+    "Living room",
+    "Product hero shot",
+    "Airflow graphics",
+    "Living room"
+   ]
+  },
+  {
+   "id": "b925d99f-c367-4c5e-8e8c-59301b614daf",
+   "filename": "Sucks_NoAudio_Hook.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 3.71,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b925d99f-c367-4c5e-8e8c-59301b614daf_1.jpg"
+   ],
+   "bya_description": "A man points to the top and base of a white cylindrical fan with a silver cage. He stands in a studio setting.",
+   "bya_tags": [
+    "David to camera",
+    "Fan controls",
+    "Inventor at work",
+    "Fan controls",
+    "Inventor at work"
+   ]
+  },
+  {
+   "id": "2632dc66-6f9e-45c6-bc40-523b3b83fe6d",
+   "filename": "IMG_8052.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 1.87,
+   "talking": false,
+   "cuts": [
+    1.62,
+    1.71
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/2632dc66-6f9e-45c6-bc40-523b3b83fe6d_1.jpg"
+   ],
+   "bya_description": "A dark, out-of-focus frame transitions from deep red to black. No subjects or objects are visible.",
+   "bya_tags": [
+    "Dark transition",
+    "Dark transition"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "Like this, and then",
+     "labels": [
+      "Dark transition"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2697ac3-a618-416d-a3c9-274a71af64e3",
+   "filename": "IMG_8055.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 1.76,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d2697ac3-a618-416d-a3c9-274a71af64e3_1.jpg"
+   ],
+   "bya_description": "A handheld camera moves from a high-angle view of white chairs with gold legs on a tiled floor down to a person's foot in a black sandal on a white rug.",
+   "bya_tags": [
+    "Lifestyle moment",
+    "Lifestyle moment"
+   ]
+  },
+  {
+   "id": "ceece992-8ce0-4ca0-8b2c-4aca13ebcfbb",
+   "filename": "IMG_8059.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 2.28,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ceece992-8ce0-4ca0-8b2c-4aca13ebcfbb_1.jpg"
+   ],
+   "bya_description": "A senior woman with grey hair reads a book while seated in a black leather armchair. A tall black fan stands beside her in a bright living room.",
+   "bya_tags": [
+    "Living room",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "2882c9f0-413e-4183-a639-0abeaa959d32",
+   "filename": "IMG_8081.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 7.79,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/2882c9f0-413e-4183-a639-0abeaa959d32_1.jpg"
+   ],
+   "bya_description": "A senior woman tosses and turns in bed next to a black tower fan with a blue light ring.",
+   "bya_tags": [
+    "Bedroom",
+    "Blue light ambiance",
+    "Tossing & turning",
+    "Bedroom",
+    "Blue light ambiance",
+    "Tossing & turning"
+   ]
+  },
+  {
+   "id": "5701f911-3ad3-49ad-b61b-c56ee31c6dd8",
+   "filename": "showing scent pod on totp",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 1.73,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5701f911-3ad3-49ad-b61b-c56ee31c6dd8_1.jpg"
+   ],
+   "bya_description": "A close-up of a black cylindrical fan with a mesh top and clear ribbed sides on a wooden stool. A tan hat hangs on the wall behind it.",
+   "bya_tags": [
+    "Air purifier top",
+    "Product close-up",
+    "Product on surface",
+    "Air purifier top",
+    "Product close-up",
+    "Product on surface"
+   ]
+  }
+ ]
+}

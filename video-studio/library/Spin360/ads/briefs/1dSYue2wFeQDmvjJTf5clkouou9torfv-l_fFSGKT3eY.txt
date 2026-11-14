@@ -1,0 +1,116 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_ShapeVSL_Clipped
+Author: Chris
+Editor: N/A 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_ShapeVSL_Clipped
+* Ad Type: Iteration
+* Type of Ad: Sarcastic Hook
+* Sizes Needed: 9x16
+* Voiceover: Man (35-65) - Confident Calm  
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+
+
+
+
+________________
+ 
+[2] Direction
+* Revise this video, and have it start at 0:04 when David says “When we say something is based on nature” 
+
+
+Please revise this video with the following changes:
+Main Structure
+* Start the video at 0:04, when David says: “When we say something is based on nature…”
+* Create 4 hook options of your choice
+* At least 1 hook must be David talking
+Edit Notes
+* David talking hook should run at least 3 seconds before cutting to the Fibonacci sequence clip
+* Cut back to David when he says: “Every single thing in nature moves in a…”
+   * Remove the clip of the girl in the woods
+* Remove the line/clip: “So we redesigned the fan around this concept”
+   * This introduces the fan too early — keep viewers curious longer
+* Fix the transition around: “You end up with the right idea”
+   * His voice sounds weird here, something isn’t working 
+* Add a slight pause before: “This is the most effective way”
+   * Right now it feels too jumbled
+* Remove the section from the current 0:34–0:43
+
+
+*   
+
+
+
+Draft 1: 
+
+What is one thing that every human wants 
+
+
+Good Sleep
+
+Sleep is a $585 billion dollar industry. 
+
+
+It even has it’s own name, the “sleep economy” 
+
+
+From random supplements to Jet Cooled Beds 
+
+
+Thousands of products that promise that sought after shut-eye 
+
+
+So why do so many people struggle to get good sleep? 
+
+It comes down to how we evolved as a species. 
+
+
+Our ancestors spent thousands of years living in nature 
+
+
+Sleeping with open moving air 
+
+
+And since the industrial revolution technology has rapidly increased. 
+
+We live in major cities with bad air, starting at our screens, away from nature. 
+
+
+For context, it took 2.4 million years for humans to master fire 
+
+
+66 years to go from the the frist airplane to men on the moon. 
+
+
+And 40 years from the first cell phone, to today’s AI Boom. 
+
+
+Our bodies haven’t evolved fast enough for our current environment. 
+
+
+NEED A GOOD TRANSITION HERE about how airflow is the fix 
+
+
+So we set out to re-design airflow from the ground up. 
+
+
+The goal was to mimic that amazing breeze found in nature
+
+
+And bring it into your home. 
+
+
+The result is the most relaxing, natural feeling airflow

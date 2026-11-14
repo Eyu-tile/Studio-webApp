@@ -1,0 +1,24 @@
+﻿Spin360_RacingThoughts_BallTrick
+Ads (12): 4 source clips × 3 on-screen text hooks — Spin360_RacingThoughts_BallTrick_Body1_Hook1/2/3 (bright bedroom), _Body2_Hook1/2/3 (brick loft), _Body3_Hook1/2/3 (loft v3) and _Body4_Hook1/2/3 (loft v4, roller shade). Only the opening text changes between hooks.
+Exports (9:16 · 720p · H.264):
+Body1 (12 s): Hook1 · Hook2 · Hook3
+Body2 (16.4 s): Hook1 · Hook2 · Hook3
+Body3 (16.7 s): Hook1 · Hook2 · Hook3
+Body4 (17 s): Hook1 · Hook2 · Hook3
+Source clips
+Body1: Seedance 2.5 (job 1251681d-47ef-4800-9f95-e295e17a6bc5), 10 s, no voiceover. She tosses a tennis ball; it flips the light switch, closes the curtain, lands by the phone on the nightstand, and rolls to the base of the Spin360. Then she's asleep with the Spin360 beside the bed (5–10 s, static shot). Nothing cut.
+Body2: Seedance 2.5 (job a87cf0bb-bd95-4128-be35-92831e96dafa), brick loft, 15 s. Starts at 0.6 s (first 0.6 s cut). Ball off the light switch (lamp goes off), hits the curtain, knocks the phone over (it stays lit), the door closes, the ball rolls to the base of the Spin360; she's asleep from ~8.2 s to the end.
+Body3: Seedance 2.5 (v3, final scene edited to a single Spin360), brick loft, 14.7 s, nothing cut. Ball off the switch (lamp off), the curtain closes, the phone drops and goes dark, the door closes, the ball rolls to the base of the Spin360 (~7.7 s); she is asleep from ~8.5 s.
+Body4: Seedance 2.5 (v4), brick loft with a roller shade, single Spin360, 15 s, nothing cut (starts with her sitting up, ball in hand). Lamp off, shade comes down, phone, door, ball rolls to the base; wide shot of her asleep from ~9.3 s.
+Edit (same in all 3 hooks of each body)
+Audio: Body1 and Body2 keep the clip's own sound (ball hits, room tone) until the ball reaches the base of the Spin360 (Body1 4.6 s · Body2 7.0 s); from there a steady white-noise bed takes over (SNOOZ sample, fade in 0.3 s, fade out 0.5 s at the end), with the original sound 12 dB lower underneath. Body3 and Body4 use the clip's own sound throughout; the last 2 s of room tone repeat under the end card. No music.
+Text 1 (hook): Body1 0–5 s · Body2 0–8.2 s · Body3 0–8.5 s · Body4 0–9.3 s. Fixed, upper center, white, bold caption font, light shadow. In on frame 1, no animation.
+* Hook1: How I turn my brain off at night 🧠
+* Hook2: Racing thoughts? Here's how I turn my brain off at night.
+* Hook3: My bedtime routine when my brain won't shut off 😴
+Text 2: from the end of Text 1 to the end of the clip. Same position and style, over her sleeping: One steady sound. Brain finally quiet.
+End card (2 s): last frame frozen, with "Spin360" / "White noise + a gentle breeze" / "30 nights risk-free". No logo. In Body3, Text 2 and the end card sit on the right half of the frame so they don't cover the Spin360.
+Not sped up, no other text.
+What we're testing
+A no-VO trick-shot clip with 3 on-screen text hooks: does a 10-second curiosity hook stop the scroll for the racing-thoughts avatar (women 30–55 with racing thoughts at bedtime)? Four versions of the clip × 3 hooks. Hook awareness: Problem Aware · Core: Product Aware · Angle: Turn your brain off at night.
+Lander: https://spin360fan.com/pages/better-sleep · Page: Sleep Better Daily (https://www.facebook.com/profile.php?id=61594533876073)

@@ -1,0 +1,290 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_ThisFanSucks_David_Long
+Author: Chris
+Editor: Shiv 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_ThisFanSucks_David_Long
+* Ad Type: Iteration
+* Type of Ad: Sarcastic Hook
+* Sizes Needed: 9x16
+* Voiceover: Man (35-65) - Confident Calm  
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+
+
+
+
+________________
+ 
+[2] Direction
+* Edit to THIS STRINGOUT [LINK] - Hook 2 
+* Edit to THIS STRINGOUT [LINK] - Hook 1
+
+
+________________
+ 
+[3] Strategy
+Who is this for [Avatar]: 
+Main Selling Points: 360 degree airflow, feels like a natural breeze, sleep, scent pods 
+Market Awareness: Product Aware
+Desires: Health  
+Angle: 
+ 
+________________
+
+
+[4] Creative Direction
+
+
+I’ve edited the stringout and Hook 2. And have given instructions in the Scripting Section. Please choose clips to clearly show what he is talking about. Smooth. Calm. Peaceful. 
+
+
+Angle: 
+* Good Storytelling -> You need to convince people about bad air quality and that the fan is the solution. 
+* VIBE
+* Calm, Smooth and Interesting. A lot of these edits lately have been too fast. 
+
+
+HOOKS: 
+* I want this type of text on screen for the hook. 
+*      * The effect is likely a drop shadow / glow on the text. 
+   * Animate them, smooth and concise. 
+
+
+
+
+ 
+________________
+
+
+[5] Script
+
+
+
+ 
+________________
+[6] Shotlist / Storyboard
+
+
+HOOKS
+	HOOK
+	Script
+	Visual
+	Description
+	1
+	“I invented a fan that sucks” 
+	  
+
+	David talking, to David laughing 
+
+
+   * Edit to THIS STRINGOUT [LINK] - Hook 2 
+	2
+	“I invented a fan that sucks” 
+	  
+
+	Woman Spray, to David Laughing 
+I’ve done this one for you, the others need to look close to this good. 
+
+Use this Stringout (Hook 2) for the proper timeline. The Cadence on Hook 1 is probably too fast. Feel the difference. 
+   * Edit to THIS STRINGOUT [LINK] - Hook 2 
+	3
+	“I invented a fan that sucks” 
+	  
+
+	Holding Fan Blade
+
+Fan Blade Clip is in Hooks Folder. 
+	4
+	“I invented a fan that sucks” 
+	  
+
+	Holding Fan Blade (purple)
+Fan Blade Clip is in Hooks Folder. 
+	5
+	“I invented a fan that sucks”
+	  
+
+	Holding Fan Blade (different angle), 
+
+Fan Blade Clip is in Hooks Folder. 
+	6
+	“I invented a fan that sucks”
+	  
+
+	Prototype clip
+	7
+	“I invented a fan that sucks”
+	  
+
+	Prototype clip 2
+	8
+	“I invented a fan that sucks”
+	  
+
+	Man spraying clip (In Utah HOOKS)
+	9
+	“I invented a fan that sucks”
+	  
+
+	This HOOK, 
+	 
+BODY
+	Script
+	Visual
+	Description
+	
+
+	  
+
+	Clip clearly showing double suck 
+	
+
+	
+
+	Calm Relaxing Shots 
+	
+
+	
+
+	Show Harmonic Fan Animation = Bad noises! 
+	
+
+	
+
+	Show Close up of changing Fan settings
+
+Utah Selects 
+
+Then Decibel Clips LINK HERE 
+	
+
+	
+
+	Sleeping Sequence, Ending with Bed Outside Clip 
+	
+
+	
+
+	Scent Pod Clips 
+	
+
+	
+
+	Show Beautiful Product Shots 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	   * 	
+
+	
+
+	   * 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	 
+________________
+
+
+[7] Editing Rules
+   * First 3 seconds must be FAST (no pauses)
+   * No dead air in video—unless it's intentional
+   * No clip longer than 2 seconds in first 10 seconds
+   * Add captions for entire video
+   * Each visual clip MUST complement the audio to help the audience understand what is happening
+   * Editor must add sound design
+   * Use Speed Ramps when needed and Add Blur
+   * The mixing demo should be HIGH QUALITY and clearly visible—this is the hero visual
+   * Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+   * Lifestyle shots should target middle-aged/older women—avoid young, overly trendy aesthetics
+
+
+ 
+________________
+
+
+[8] Deliverables
+• Versions: 7 total (V1-V7, one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels), 4:5 (Feed)
+• File Naming Convention: Spin360_AirMixing_Woman_V1_HOOK1, Spin360_AirMixing_Woman_V1_HOOK2, etc.
+• Upload Location: Creative Roadmap

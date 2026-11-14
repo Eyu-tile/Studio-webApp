@@ -1,0 +1,217 @@
+﻿Spin360_Baby_StudyFirst - Script & Visual Brief
+Desire: "I want my baby safe and healthy in the nursery, and I want peace of mind."
+
+
+Avatar: Expecting moms and parents setting up the nursery.
+
+
+Awareness: SIDS fear is fully aware. The fan study and the still-air / rebreathing mechanism are unaware. She believes her AC or air purifier is enough.
+
+
+Angle: Open with the study: one study linked a fan in the baby's room to a 72% lower SIDS risk. Then why (still air around the face), why AC, purifiers and regular fans don't solve it, and then Spin360, made for nurseries.
+
+
+Mechanism: Spin360 pulls air in from the top and the bottom and gently mixes the whole room, 360 degrees. Soft, natural breeze, never a blast in the face.
+
+
+Proof: Coleman-Phox, Odouli & Li, Archives of Pediatrics & Adolescent Medicine, 2008 (PubMed 18838649): fan use linked to a 72% lower SIDS risk. Made for babies, built to last 10+ years.
+
+
+
+
+Script (VO)
+Hook:
+
+
+ One study linked having a fan in the baby's room to a 72% lower risk of Sudden Infant Death Syndrome.
+
+
+ Babies breathe out CO₂ all night. In still air, it can linger around their face. Breathing it back in is one theory researchers have about what causes  SIDS.
+
+
+
+
+So what if there was a way to solve it?
+
+
+What if just moving air, like having a window open, solved it?
+
+
+
+
+So researchers studied it, and found you can reduce the risk of SIDS by 72%, simply by having moving air.
+
+
+But here’s the thing
+
+
+AC and purifiers don't mix the room.
+
+
+So someone built a product that actually simulates what those researchers found.  A device made for nurseries: a 360 air circulator.
+
+
+
+
+It pulls air from the top and the bottom and gently mixes the whole room - removing the CO₂. from their face and giving oxygenated air, so your baby breathes fresh, moving air all night.
+
+
+But here’s the thing. No other “fan” can do this. They can’t properly circulate air - a regular fan would need 4 fans pointing in multiple directions to simulate this airflow.
+
+
+The only device that does this is the spin360.
+
+
+Not only the airflow, but it doesn't give a harsh blast of air to your baby like a regular fan, which is unhealthy for their skin and their lungs.
+
+
+It's whisper quiet, so it won't wake them.
+
+
+Deeper sleep for your baby. Peace of mind for you.
+
+
+Plus, being built to last more than 10 years, you can keep your child growing up in healthy, clean air and set them up for a healthy life. It’s not just babies that need quality air.
+
+
+
+
+Now you know. You can reduce your child’s risk of SIDS by up to 90% by adding this to their room. Yeah , it’s expensive. But if you don’t get this, what WILL you add to their room?
+
+
+Make sure your child is set up for a healthy, happy life, and don’t wait another day to get this.
+
+
+Hooks
+Same VO for all 4 hooks. Only the opening visual changes. No text on screen.
+Hook1
+#
+	Line
+	Visual Inspiration
+	Note
+	1
+	One study linked having a fan in the baby's room to a 72% lower risk of Sudden Infant Death Syndrome.
+
+
+	  
+[Visual style: real footage into AI animation] Opens on real black & white baby-monitor footage of the nursery at night, baby asleep on its back in the crib. The camera pushes into the monitor screen and it turns into the realistic 3D animation: a big circle zoom on the baby's face, blue CO₂ mist coming out with every breath and pooling around the nose and mouth.
+
+
+	
+
+	Hook2
+#
+	Line
+	Visual Inspiration
+	Note
+	1
+	One study linked having a fan in the baby's room to a 72% lower risk of Sudden Infant Death Syndrome.
+
+
+	  
+
+[Visual style: real baby-monitor footage, black & white night vision] Top-corner monitor view of the nursery: baby asleep on its back in the crib, Spin360 standing in the room. Feels like a real parent's monitor screen, not an ad.
+	Real, filmed-on-a-phone feel.
+	Hook3
+#
+	Line
+	Visual Inspiration
+	Note
+	1
+	One study linked having a fan in the baby's room to a 72% lower risk of Sudden Infant Death Syndrome.
+	
+
+  
+[Visual style: AI animation, realistic 3D medical] Extreme close-up inside the crib. The camera follows the blue CO₂ mist as it leaves the baby's nose, rises a little, stops in the still air, and gets pulled right back in with the next breath. The baby shifts and fusses in its sleep, uncomfortable.
+	
+
+	Hook4
+#
+	Line
+	Visual Inspiration
+	Note
+	1
+	One study linked having a fan in the baby's room to a 72% lower risk of Sudden Infant Death Syndrome.
+	  
+
+[Visual style: real study screenshot into AI animation] Real screen recording of the PubMed page (Coleman-Phox et al., 2008, "Use of a fan during sleep and the risk of SIDS"). A highlighter runs over the 72% result. The camera dives into the page and lands inside the 3D animated nursery: baby asleep, blue CO₂ pooling around the face.
+	Editor uses a real screenshot: https://pubmed.ncbi.nlm.nih.gov/18838649/ . No fake documents.
+	Body (same for all hooks)
+#
+	Line
+	Visual
+	Note
+	1
+	Babies breathe out CO₂ all night. In still air, it can linger around their face. Breathing it back in is one theory researchers have about what causes SIDS.
+	  
+
+  
+
+AI ANIMATION, realistic 3D medical style (same feel as Charlie's gut-health reference: https://next.frame.io/share/7d660217-6b70-426d-abe5-e9a153692ec4/view/a702bd39-3f9a-4014-8616-8222ded77754). Close-up of the baby sleeping on its back. A big circle zoom on the face: with every breath, a blue CO₂ mist comes out and pools around the nose and mouth.
+	
+
+	2
+	So what if there was a way to solve it?
+
+
+What if just moving air, like having a window open, solved it?
+	  
+
+Same animation: a window opens, a soft current of air comes in and sweeps the blue CO₂ away from the face. The baby's breathing relaxes.
+	
+
+	3
+	So researchers studied it, and found you can reduce the risk of SIDS by 72%, simply by having moving air.
+
+
+But here’s the thing
+
+
+AC and purifiers don't mix the room.
+	Big '72%' graphic over the nursery. Then a 3D cutaway of the room: the AC only cools the air near the ceiling, the air purifier only pulls in the air right next to it, and the blue CO₂ stays pooled around the crib, untouched. Red ❌ on the AC and on the purifier.
+	
+
+	4
+	So someone built a product that actually simulates what those researchers found.  A device made for nurseries: a 360 air circulator.
+	A realistic 3D render of Spin360 (big floor model, exact real shape) appears in the same animated nursery. Label: 360 AIR CIRCULATOR. This is where the product enters.
+	
+
+	5
+	It pulls air from the top and the bottom and gently mixes the whole room - removing the CO₂. from their face and giving oxygenated air, so your baby breathes fresh, moving air all night.
+	Mechanism animation: air is pulled into the top and the bottom of Spin360 and sent out in a 360° ring that sweeps the whole room. Inside the circle zoom, the blue CO₂ lifts off the baby's face and disperses. Clear air around the face.
+	
+
+	6
+	But here’s the thing. No other “fan” can do this. They can’t properly circulate air - a regular fan would need 4 fans pointing in multiple directions to simulate this airflow. 
+	A regular box fan shoots one jet at one spot and just pushes the blue CO₂ around without clearing it. Then 4 fans appear, one in each corner (2 up high), and only then the room actually mixes. Text: A REGULAR FAN WOULD NEED 4 OF THESE.
+	
+
+	7
+	The only device that does this is the spin360.
+
+
+Not only the airflow, but it doesn't give a harsh blast of air to your baby like a regular fan, which is unhealthy for their skin and their lungs.
+
+
+It's whisper quiet, so it won't wake them.
+	Spin360 alone does what the 4 fans did: the soft ring of air mixes the whole room and the CO₂ clears off the face. Quick split: a regular fan's jet hitting the baby's face (red) vs Spin360's soft ring of air (green). Whisper quiet: the baby stays asleep.
+	
+
+	8
+	Deeper sleep for your baby. Peace of mind for you.
+	Same animated nursery: the baby sleeping deeply, chest rising slowly, clear air around the face. Cut to mom asleep in her own bed, calm.
+	
+
+	9
+	Plus, being built to last more than 10 years, you can keep your child growing up in healthy, clean air and set them up for a healthy life. It’s not just babies that need quality air.
+	Animation in the same room: the child grows up (toddler, then kid), Spin360 always in the corner, the soft ring of air still moving. The child looks healthy and happy.
+	
+
+	10
+	Now you know. You can reduce your child’s risk of SIDS by up to 90% by adding this to their room. Yeah, it’s expensive. But if you don’t get this, what WILL you add to their room.
+	Big number graphic over the nursery. Then the parents walk into the animated nursery with the baby in the car seat, Spin360 already running.
+	
+
+	11
+	Make sure your child is set up for a healthy, happy life, and don’t wait another day to get this.
+	Hero shot, same 3D style: the nursery at night, baby asleep, Spin360 running with the soft ring of air visible. Text: GET SPIN360 FOR YOUR NURSERY.

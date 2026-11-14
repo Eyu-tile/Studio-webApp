@@ -1,0 +1,339 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_Everyone_Feels
+Author: Chris
+Editor: N/A 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_Everyone_Feels
+* Ad Type: Iteration
+* Type of Ad: Sarcastic Hook
+* Sizes Needed: 9x16
+* Voiceover: Man (35-65) - Confident Calm  
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+
+
+
+
+________________
+ 
+[2] Direction
+* Revise this video, and have it start at 0:50 where David says
+   * “This is something that everybody gets to feel all the time” 
+* Same video, revamp the hooks + export into Creative Sheet 
+
+
+
+
+________________
+ 
+[3] Strategy
+Who is this for [Avatar]: 
+Main Selling Points: 360 degree airflow, feels like a natural breeze, sleep, scent pods 
+Market Awareness: Unaware 
+Desires: Health  
+Angle: 
+ 
+________________
+
+
+[4] Creative Direction
+
+
+
+
+
+
+ 
+________________
+
+
+[5] Script
+
+ 
+________________
+[6] Shotlist / Storyboard
+
+
+HOOKS
+	#
+	Script 
+	Visual 
+	Description 
+	1
+	“This is something that everybody gets to feel all the time” 
+
+
+	  
+
+	Not this text, but same design 
+
+
+1. Text Design 
+2. Use rectangle + mask to darken bottom so text can be read easier 
+3. Add slight blurr to edges (adjustment layer (inverted) + mask) 
+4. Vignette 
+	2
+	“This is something that everybody gets to feel all the time” 
+
+
+	  
+
+	* 	3
+	“This is something that everybody gets to feel all the time” 
+	  
+
+	
+
+	4
+	“This is something that everybody gets to feel all the time” 
+
+
+	  
+
+	
+
+	5
+	“This is something that everybody gets to feel all the time” 
+	  
+
+	Using some editing techniques to make this one pop more 
+* Play with the color
+* Blurr the background 
+* Maybe use an arrow 
+* Ect. 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+ 
+________________
+
+
+[7] Editing Rules
+* First 3 seconds must be FAST (no pauses)
+* No dead air in video—unless it's intentional
+* No clip longer than 2 seconds in first 10 seconds
+* Add captions for entire video
+* Each visual clip MUST complement the audio to help the audience understand what is happening
+* Editor must add sound design
+* Use Speed Ramps when needed and Add Blur
+* The mixing demo should be HIGH QUALITY and clearly visible—this is the hero visual
+* Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+* Lifestyle shots should target middle-aged/older women—avoid young, overly trendy aesthetics
+
+
+ 
+________________
+
+
+[8] Deliverables
+• Versions: 7 total (V1-V7, one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels), 4:5 (Feed)
+• File Naming Convention: Spin360_AirMixing_Woman_V1_HOOK1, Spin360_AirMixing_Woman_V1_HOOK2, etc.
+• Upload Location: Creative Roadmap
+
+
+Draft 1: 
+
+What is one thing that every human wants 
+
+
+Good Sleep
+
+Sleep is a $585 billion dollar industry. 
+
+
+It even has it’s own name, the “sleep economy” 
+
+
+From random supplements to Jet Cooled Beds 
+
+
+Thousands of products that promise that sought after shut-eye 
+
+
+So why do so many people struggle to get good sleep? 
+
+It comes down to how we evolved as a species. 
+
+
+Our ancestors spent thousands of years living in nature 
+
+
+Sleeping with open moving air 
+
+
+And since the industrial revolution technology has rapidly increased. 
+
+We live in major cities with bad air, starting at our screens, away from nature. 
+
+
+For context, it took 2.4 million years for humans to master fire 
+
+
+66 years to go from the the frist airplane to men on the moon. 
+
+
+And 40 years from the first cell phone, to today’s AI Boom. 
+
+
+Our bodies haven’t evolved fast enough for our current environment. 
+
+
+NEED A GOOD TRANSITION HERE about how airflow is the fix 
+
+
+So we set out to re-design airflow from the ground up. 
+
+
+The goal was to mimic that amazing breeze found in nature
+
+
+And bring it into your home. 
+
+
+The result is the most relaxing, natural feeling airflow

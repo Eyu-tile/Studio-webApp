@@ -1,0 +1,439 @@
+[
+{
+ "id": "70e8e4a6-1cf5-45a2-be57-b185e258f60f",
+ "kind": "ai_generated",
+ "summary": "AI UGC: hand points at a short tabletop white Spin360 on a nightstand, brunette woman feels the breeze on her face, sheer curtains sway, pan to rumpled bed.",
+ "people": [{"who": "woman, late 20s, long dark brown hair", "wardrobe": "grey tank top", "role": "actor"}],
+ "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display (blank)", "base", "short tabletop unit"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "night", "light": "warm lamp", "view": "none", "curtains_moving": true, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 3.9, "camera": "handheld", "framing": "medium", "action": "finger points at short white fan on nightstand beside lamp, push in", "on_screen_text": "", "audio_hint": "VO: I thought this was just a fan, but it feels like I brought Hawaii into my bedroom"},
+  {"start": 3.9, "end": 8.7, "camera": "selfie", "framing": "close", "action": "woman leans face to cage, hand by cheek, eyes close enjoying breeze", "on_screen_text": "", "audio_hint": "VO: the air feels softer, like a real breeze"},
+  {"start": 8.7, "end": 11.9, "camera": "static", "framing": "medium", "action": "sheer curtains drift over night window, bed in foreground", "on_screen_text": "", "audio_hint": "VO: doesn't blast your face"},
+  {"start": 11.9, "end": 15.1, "camera": "pan", "framing": "medium", "action": "fan on nightstand, pan to messy bed with pillows", "on_screen_text": "", "audio_hint": "VO: I fall asleep so much faster"}
+ ],
+ "best": {"start": 4.0, "end": 8.5, "why": "woman visibly enjoying breeze on face, close and emotive"},
+ "beats": ["airflow_demo_hand", "airflow_demo_curtain_or_ribbon", "reaction_face", "product_hero", "sleeping_comfort", "room_aesthetic"],
+ "hook_potential": {"score": 2, "why": "pointing reveal + 'Hawaii in my bedroom' line"},
+ "brand_fit": {"score": 2, "why": "moving sheer curtains, cosy but dim lamp-lit room"},
+ "quality": {"score": 2, "issues": ["AI artefacts", "dark"]},
+ "status": "CAUTION", "status_why": "AI-generated; short tabletop unit is the subject",
+ "tags": ["short tabletop fan", "woman feels breeze on face", "sheer curtains moving at night", "nightstand fan", "AI UGC bedroom"],
+ "takes": [
+  {"start": 0.0, "line": "I thought this was just a fan, but it feels like I brought Hawaii…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 3.3, "line": "I don't know exactly what they did, but the air feels softer…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 8.5, "line": "It doesn't blast your face, it just makes the whole bedroom…", "delivery": "clean", "energy": 1, "framing": "medium", "keep": true},
+  {"start": 12.5, "line": "Honestly, I fall asleep so much faster with this thing on.", "delivery": "clean", "energy": 1, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.0, 3.3, 8.5, 12.5],
+ "speaker": {"look": "VO, woman seen 4-9s (long dark hair, grey tank)", "setting": "lamp-lit bedroom", "props": "short white fan on nightstand"}
+},
+{
+ "id": "d1aafac6-a18e-43a7-8fef-c0401ade2d35",
+ "kind": "ai_generated",
+ "summary": "AI UGC: woman in plaid pyjamas reacts with surprise to a short tabletop white Spin360 on a dresser, hand feels air, curtains sway, fan on nightstand by bed.",
+ "people": [{"who": "woman, 30s, dark hair in bun", "wardrobe": "beige plaid pyjamas", "role": "actor"}],
+ "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display (blank)", "base", "short tabletop unit"], "other_fans": ["ceiling fan (background)"], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "night", "light": "warm lamp", "view": "none", "curtains_moving": true, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.3, "camera": "handheld", "framing": "medium", "action": "woman walks up, mouth open in surprise, points at short fan on wooden dresser", "on_screen_text": "", "audio_hint": "VO: brought Hawaii into my bedroom"},
+  {"start": 4.3, "end": 8.0, "camera": "handheld", "framing": "close", "action": "POV hand held in front of fan cage feeling air", "on_screen_text": "", "audio_hint": "VO: air feels softer"},
+  {"start": 8.0, "end": 12.1, "camera": "static", "framing": "wide", "action": "floor-length sheer curtains swaying in front of window", "on_screen_text": "", "audio_hint": "VO: doesn't blast your face"},
+  {"start": 12.1, "end": 15.1, "camera": "pan", "framing": "medium", "action": "fan on nightstand under lamp, pan to bed with knit throw", "on_screen_text": "", "audio_hint": "VO: fall asleep so much faster"}
+ ],
+ "best": {"start": 1.0, "end": 4.2, "why": "big surprised reaction pointing at fan"},
+ "beats": ["reaction_face", "airflow_demo_hand", "airflow_demo_curtain_or_ribbon", "product_hero", "sleeping_comfort", "room_aesthetic"],
+ "hook_potential": {"score": 3, "why": "wide-eyed surprise reaction is a strong opener"},
+ "brand_fit": {"score": 2, "why": "sheer curtains moving, but dim lamp-lit room"},
+ "quality": {"score": 2, "issues": ["AI artefacts", "dark"]},
+ "status": "CAUTION", "status_why": "AI-generated; short tabletop unit; ceiling fan visible in background",
+ "tags": ["surprised woman pyjamas", "points at fan", "short tabletop fan", "hand feels air", "sheer curtains swaying", "AI UGC"],
+ "takes": [
+  {"start": 0.0, "line": "I thought this was just a fan, but it feels like I brought Hawaii…", "delivery": "clean", "energy": 3, "framing": "medium", "keep": true},
+  {"start": 4.2, "line": "I don't know exactly what they did, but the air feels softer…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 8.2, "line": "It doesn't blast your face… I fall asleep so much faster…", "delivery": "clean", "energy": 1, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.0, 4.2, 8.2],
+ "speaker": {"look": "VO; woman in plaid pyjamas on screen 0-4s", "setting": "bedroom at night", "props": "short white fan on dresser"}
+},
+{
+ "id": "f48b4dc2-346a-4c16-a3ba-01707d887c53",
+ "kind": "ai_generated",
+ "summary": "AI UGC POV: door opens on a tall white Spin360 by a bed and palm, hand gestures around the glowing cage, pan across bed, return to fan.",
+ "people": [{"who": "woman (hand only, ring)", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display (icon)", "base", "blue glow inside cage"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "evening", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 9.7, "camera": "handheld", "framing": "medium", "action": "door opens, POV walks to tall fan beside palm, push in to cage, hand waves at airflow", "on_screen_text": "", "audio_hint": "VO: wasn't expecting this… the fan doesn't even rotate"},
+  {"start": 9.7, "end": 12.5, "camera": "pan", "framing": "medium", "action": "fan beside palm then pan across white bed", "on_screen_text": "", "audio_hint": "VO: cool fresh air everywhere"},
+  {"start": 12.5, "end": 15.1, "camera": "handheld", "framing": "medium", "action": "fan with palm, hand gestures toward it", "on_screen_text": "", "audio_hint": "VO: closest thing to air conditioning"}
+ ],
+ "best": {"start": 2.0, "end": 6.0, "why": "push in to glowing cage with hand demo"},
+ "beats": ["product_hero", "airflow_demo_hand", "room_aesthetic"],
+ "hook_potential": {"score": 2, "why": "door-open reveal of fan"},
+ "brand_fit": {"score": 1, "why": "dim purple-tinted room, dark furniture"},
+ "quality": {"score": 2, "issues": ["AI artefacts", "dark"]},
+ "status": "CAUTION", "status_why": "AI-generated",
+ "tags": ["door opens reveal", "POV walk to fan", "tall white fan palm plant", "hand feels airflow", "blue glow cage"],
+ "takes": [
+  {"start": 0.0, "line": "Okay, I honestly wasn't expecting this…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 4.5, "line": "…the fan doesn't even rotate, it stays completely still…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 12.2, "line": "…closest thing to air conditioning I've ever felt from a fan.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.0, 4.5, 12.2],
+ "speaker": {"look": "VO, off camera (hand only)", "setting": "bedroom with palm", "props": "tall white fan"}
+},
+{
+ "id": "75b973e1-af53-4a28-834d-80e3831e69cf",
+ "kind": "ai_generated",
+ "summary": "AI UGC POV: finger points through a doorway at a tall white Spin360, close on display and blue ring with hand feeling air, then fan in a different brighter bedroom.",
+ "people": [{"who": "woman (hand only)", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display (icon)", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 3.8, "camera": "handheld", "framing": "wide", "action": "finger points through doorway, POV walks toward tall white fan by bed", "on_screen_text": "", "audio_hint": "VO: brought Hawaii into my bedroom"},
+  {"start": 3.8, "end": 12.4, "camera": "handheld", "framing": "close", "action": "close on cage, ring and display; fingers touch ring then hand feels air at cage", "on_screen_text": "", "audio_hint": "VO: air feels softer… doesn't blast your face"},
+  {"start": 12.4, "end": 15.1, "camera": "handheld", "framing": "medium", "action": "fan beside bed in a different room with wooden headboard, hand in frame", "on_screen_text": "", "audio_hint": "VO: fall asleep so much faster"}
+ ],
+ "best": {"start": 4.0, "end": 8.0, "why": "clean close on display, ring and cage with hand"},
+ "beats": ["product_hero", "control_display", "airflow_demo_hand"],
+ "hook_potential": {"score": 2, "why": "pointing doorway reveal"},
+ "brand_fit": {"score": 1, "why": "ordinary bedroom, mixed light"},
+ "quality": {"score": 2, "issues": ["AI artefacts"]},
+ "status": "CAUTION", "status_why": "AI-generated; room changes between shots",
+ "tags": ["finger points at fan", "doorway reveal", "display close-up", "touch control ring", "hand feels air"],
+ "takes": [
+  {"start": 0.0, "line": "I thought this was just a fan, but it feels like I brought Hawaii…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 3.2, "line": "I don't know exactly what they did… doesn't blast your face…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 11.1, "line": "…feel cooler and fresher. Honestly, I fall asleep so much faster…", "delivery": "clean", "energy": 1, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.0, 3.2, 11.1],
+ "speaker": {"look": "VO, off camera", "setting": "bedroom", "props": "tall white fan"}
+},
+{
+ "id": "d5fd9c43-50bf-41ea-86c2-20de19863617",
+ "kind": "ai_generated",
+ "summary": "AI UGC: door opens onto a bright bedroom with a short tabletop white Spin360 on a wooden stool; push in and hands feel the airflow.",
+ "people": [{"who": "woman (hands only, rings)", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display (blank)", "base", "short tabletop unit"], "other_fans": ["ceiling fan (background, first second)"], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.0, "camera": "push in", "framing": "wide", "action": "door opens, camera moves to short fan on stool by bed and armchair", "on_screen_text": "", "audio_hint": "VO: brought Hawaii into my bedroom"},
+  {"start": 4.0, "end": 15.1, "camera": "handheld", "framing": "medium", "action": "fan centred against sheer-curtained window; hands wave in front of cage feeling air", "on_screen_text": "", "audio_hint": "VO: air feels softer… fall asleep faster"}
+ ],
+ "best": {"start": 2.0, "end": 6.0, "why": "bright airy push-in to fan"},
+ "beats": ["product_hero", "airflow_demo_hand", "room_aesthetic"],
+ "hook_potential": {"score": 1, "why": "door reveal, little action"},
+ "brand_fit": {"score": 3, "why": "bright sunlit room, sheer white curtains, light decor"},
+ "quality": {"score": 2, "issues": ["AI artefacts"]},
+ "status": "CAUTION", "status_why": "AI-generated; short tabletop unit is the subject",
+ "tags": ["short tabletop fan on stool", "bright bedroom", "sheer curtains window", "hands feel air", "door reveal"],
+ "takes": [
+  {"start": 0.0, "line": "I thought this was just a fan, but it feels like I brought Hawaii…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 3.4, "line": "I don't know exactly what they did… doesn't blast your face,", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 9.3, "line": "it just makes the whole bedroom feel cooler… fall asleep faster", "delivery": "clean", "energy": 1, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.0, 3.4, 9.3],
+ "speaker": {"look": "VO, off camera", "setting": "bright bedroom", "props": "short white fan on stool"}
+},
+{
+ "id": "48b9c190-4f7e-401d-8f8b-25b84657c111",
+ "kind": "ai_generated",
+ "summary": "AI UGC POV: door opens on a tall white Spin360 next to a palm and bed, push in to the glowing cage, hand waves through airflow.",
+ "people": [{"who": "woman (hand only)", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display (icon)", "base", "blue glow inside cage"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "evening", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.0, "camera": "push in", "framing": "wide", "action": "finger points, door opens, POV walks to tall fan beside palm", "on_screen_text": "", "audio_hint": "VO: brought Hawaii into my bedroom"},
+  {"start": 4.0, "end": 15.1, "camera": "handheld", "framing": "close", "action": "close on cage with blue glow; hand waves beside it feeling air", "on_screen_text": "", "audio_hint": "VO: air feels softer… fall asleep faster"}
+ ],
+ "best": {"start": 4.0, "end": 8.0, "why": "close cage with glow and hand demo"},
+ "beats": ["product_hero", "airflow_demo_hand"],
+ "hook_potential": {"score": 1, "why": "standard reveal"},
+ "brand_fit": {"score": 1, "why": "dim room, dark furniture"},
+ "quality": {"score": 2, "issues": ["AI artefacts", "dark"]},
+ "status": "CAUTION", "status_why": "AI-generated; duplicate of b013ea5c",
+ "tags": ["door reveal", "tall white fan palm", "hand feels air", "cage close-up glow", "duplicate clip"],
+ "takes": [
+  {"start": 0.0, "line": "I thought this was just a fan, but it feels like I brought Hawaii…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 3.3, "line": "I don't know exactly what they did… cooler and fresher.", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 10.9, "line": "Honestly, I fall asleep so much faster with this thing on.", "delivery": "clean", "energy": 1, "framing": "close", "keep": true}
+ ],
+ "best_takes": [0.0, 3.3, 10.9],
+ "speaker": {"look": "VO, off camera", "setting": "bedroom with palm", "props": "tall white fan"}
+},
+{
+ "id": "b013ea5c-f6b5-403e-a1a7-b083f4db0c26",
+ "kind": "ai_generated",
+ "summary": "AI UGC POV (same visuals as 48b9c190): door opens on a tall white Spin360 by a palm, push in to the glowing cage, hand waves through airflow.",
+ "people": [{"who": "woman (hand only)", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display (icon)", "base", "blue glow inside cage"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "evening", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.0, "camera": "push in", "framing": "wide", "action": "finger points, door opens, POV walks to tall fan beside palm", "on_screen_text": "", "audio_hint": "VO: brought Hawaii into my bedroom"},
+  {"start": 4.0, "end": 15.1, "camera": "handheld", "framing": "close", "action": "close on cage with blue glow; hand waves beside it feeling air", "on_screen_text": "", "audio_hint": "VO: air feels softer… fall asleep faster"}
+ ],
+ "best": {"start": 4.0, "end": 8.0, "why": "close cage with glow and hand demo"},
+ "beats": ["product_hero", "airflow_demo_hand"],
+ "hook_potential": {"score": 1, "why": "standard reveal"},
+ "brand_fit": {"score": 1, "why": "dim room, dark furniture"},
+ "quality": {"score": 2, "issues": ["AI artefacts", "dark"]},
+ "status": "CAUTION", "status_why": "AI-generated; duplicate of 48b9c190",
+ "tags": ["door reveal", "tall white fan palm", "hand feels air", "cage close-up glow", "duplicate clip"],
+ "takes": [
+  {"start": 0.0, "line": "I thought this was just a fan, but it feels like I brought Hawaii…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 3.3, "line": "I don't know exactly what they did… cooler and fresher.", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 10.9, "line": "Honestly, I fall asleep so much faster with this thing on.", "delivery": "clean", "energy": 1, "framing": "close", "keep": true}
+ ],
+ "best_takes": [0.0, 3.3, 10.9],
+ "speaker": {"look": "VO, off camera", "setting": "bedroom with palm", "props": "tall white fan"}
+},
+{
+ "id": "24acae00-9d9a-4d0d-b2da-e36b6e2f9855",
+ "kind": "ai_generated",
+ "summary": "AI product shot: tall white Spin360 glowing in a dim nursery with a wooden crib behind, slow subtle push.",
+ "people": [],
+ "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display (icon)", "blades visible"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "nursery", "time": "night", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 14.1, "camera": "push in", "framing": "medium", "action": "fan head, glowing ring and display in front of crib, gentle drift", "on_screen_text": "", "audio_hint": "VO: 5 reasons moms won't do baby bedtime without this fan anymore"}
+ ],
+ "best": {"start": 6.0, "end": 10.0, "why": "fan fills frame, ring and display bright"},
+ "beats": ["product_hero", "family_kids", "control_display"],
+ "hook_potential": {"score": 2, "why": "'5 reasons moms' listicle hook over nursery"},
+ "brand_fit": {"score": 1, "why": "dark nursery, moody"},
+ "quality": {"score": 2, "issues": ["AI artefacts", "dark"]},
+ "status": "CAUTION", "status_why": "AI-generated; baby claim in VO ('5 reasons moms won't do baby bedtime without this fan')",
+ "tags": ["nursery fan", "crib background", "night glow", "baby bedtime", "5 reasons moms"],
+ "takes": [
+  {"start": 0.0, "line": "5 reasons moms won't do baby bedtime without this fan anymore.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 5.5, "line": "5 reasons moms are loving this fan for their babies.", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.0, 5.5],
+ "speaker": {"look": "VO, off camera", "setting": "nursery", "props": "tall white fan, crib"}
+},
+{
+ "id": "9f45676a-4cd5-4613-99aa-d7bcd77d03f9",
+ "kind": "ai_generated",
+ "summary": "AI UGC: tall white Spin360 beside a bed where someone sleeps under covers; push in, hand feels air, hand pats the cosy bedding.",
+ "people": [{"who": "woman (hand only, ring, beaded bracelets)", "wardrobe": "", "role": "hand only"}, {"who": "sleeper hidden under covers", "wardrobe": "", "role": "actor"}],
+ "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["gold halo", "cage", "display (blank)", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "evening", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 9.0, "camera": "push in", "framing": "medium", "action": "tall fan by bed with sleeper, push in to cage, hand feels air", "on_screen_text": "", "audio_hint": "VO: brought Hawaii… air feels softer"},
+  {"start": 9.0, "end": 11.5, "camera": "handheld", "framing": "close", "action": "hand rests on duvet over sleeping person", "on_screen_text": "", "audio_hint": "VO: cooler and fresher"},
+  {"start": 11.5, "end": 15.1, "camera": "pan", "framing": "medium", "action": "pan across bed with ribbed cream blanket and pillows", "on_screen_text": "", "audio_hint": "VO: fall asleep so much faster"}
+ ],
+ "best": {"start": 3.0, "end": 8.0, "why": "close on cage with hand feeling air beside sleeper"},
+ "beats": ["product_hero", "airflow_demo_hand", "sleeping_comfort"],
+ "hook_potential": {"score": 1, "why": "calm, no strong opener"},
+ "brand_fit": {"score": 2, "why": "cosy bedding, but dim"},
+ "quality": {"score": 2, "issues": ["AI artefacts", "dark"]},
+ "status": "CAUTION", "status_why": "AI-generated",
+ "tags": ["fan beside sleeping person", "hand feels air", "cosy ribbed blanket", "bedside fan night"],
+ "takes": [
+  {"start": 0.0, "line": "I thought this was just a fan, but it feels like I brought Hawaii…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 3.3, "line": "I don't know exactly what they did, but the air feels softer…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 7.6, "line": "It doesn't blast your face…", "delivery": "clean", "energy": 1, "framing": "close", "keep": true},
+  {"start": 11.3, "line": "Honestly, I fall asleep so much faster with this thing on.", "delivery": "clean", "energy": 1, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.0, 3.3, 7.6, 11.3],
+ "speaker": {"look": "VO, off camera", "setting": "bedroom", "props": "tall white fan"}
+},
+{
+ "id": "f58cddd3-c881-4f6f-89a9-1656586c3d32",
+ "kind": "ai_generated",
+ "summary": "AI UGC: tall white Spin360 by a bed and palm in dim purple light, hand feels air at the cage, then hand strokes a fluffy pillow and sheets.",
+ "people": [{"who": "woman (hand only)", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display (blank)", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "night", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 3.4, "camera": "static", "framing": "wide", "action": "tall fan beside bed and palm, glowing ring", "on_screen_text": "", "audio_hint": "VO: brought Hawaii into my bedroom"},
+  {"start": 3.4, "end": 8.4, "camera": "handheld", "framing": "close", "action": "close on cage, open hand feels air under it", "on_screen_text": "", "audio_hint": "VO: air feels softer"},
+  {"start": 8.4, "end": 15.1, "camera": "handheld", "framing": "close", "action": "fan beside bed, then hand strokes fluffy white pillow and sheets", "on_screen_text": "", "audio_hint": "VO: fall asleep so much faster"}
+ ],
+ "best": {"start": 3.5, "end": 8.0, "why": "clean hand airflow demo under cage"},
+ "beats": ["product_hero", "airflow_demo_hand", "sleeping_comfort"],
+ "hook_potential": {"score": 1, "why": "static opener"},
+ "brand_fit": {"score": 1, "why": "dark purple-tinted room"},
+ "quality": {"score": 2, "issues": ["AI artefacts", "dark"]},
+ "status": "CAUTION", "status_why": "AI-generated",
+ "tags": ["hand under fan cage", "fluffy pillow touch", "bedside fan palm", "night bedroom"],
+ "takes": [
+  {"start": 0.0, "line": "I thought this was just a fan, but it feels like I brought Hawaii…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 3.3, "line": "I don't know exactly what they did, but the air feels softer…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 8.2, "line": "It doesn't blast your face… fall asleep so much faster…", "delivery": "clean", "energy": 1, "framing": "close", "keep": true}
+ ],
+ "best_takes": [0.0, 3.3, 8.2],
+ "speaker": {"look": "VO, off camera", "setting": "bedroom with palm", "props": "tall white fan"}
+},
+{
+ "id": "dfd60f32-ec69-4492-a203-6e8dee0c0b90",
+ "kind": "ai_generated",
+ "summary": "AI UGC: tall white Spin360 glowing before a lamp, hand feels air through the cage, wide of fan by bed, hand pats pillow and duvet.",
+ "people": [{"who": "woman (hand only)", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display (icon)", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "night", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 3.8, "camera": "static", "framing": "close", "action": "fan head, ring and display backlit by lamp", "on_screen_text": "", "audio_hint": "VO: brought Hawaii into my bedroom"},
+  {"start": 3.8, "end": 8.8, "camera": "handheld", "framing": "close", "action": "spread hand held in front of cage feeling air", "on_screen_text": "", "audio_hint": "VO: air feels softer"},
+  {"start": 8.8, "end": 15.1, "camera": "handheld", "framing": "medium", "action": "wide of fan by wooden bed, hand pats fluffy pillow and smooths duvet", "on_screen_text": "", "audio_hint": "VO: fall asleep so much faster"}
+ ],
+ "best": {"start": 0.0, "end": 3.8, "why": "moody hero of glowing ring and display"},
+ "beats": ["product_hero", "airflow_demo_hand", "control_display", "sleeping_comfort"],
+ "hook_potential": {"score": 1, "why": "calm"},
+ "brand_fit": {"score": 2, "why": "warm cosy lamp-lit, simple decor"},
+ "quality": {"score": 2, "issues": ["AI artefacts", "dark"]},
+ "status": "CAUTION", "status_why": "AI-generated",
+ "tags": ["glowing fan at night", "hand feels air", "pats pillow", "cosy bedroom lamp"],
+ "takes": [
+  {"start": 0.0, "line": "I thought this was just a fan, but it feels like I brought Hawaii…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 3.2, "line": "I don't know exactly what they did, but the air feels softer…", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 8.8, "line": "It doesn't blast your face… fall asleep so much faster…", "delivery": "clean", "energy": 1, "framing": "medium", "keep": true}
+ ],
+ "best_takes": [0.0, 3.2, 8.8],
+ "speaker": {"look": "VO, off camera", "setting": "bedroom", "props": "tall white fan"}
+},
+{
+ "id": "9fb0aad3-d399-4ab2-8999-a838d915352f",
+ "kind": "ai_generated",
+ "summary": "AI UGC: tall black Spin360 beside a hotel-style bed, hand feels the airflow, fan near pillows, hand squeezes the soft duvet.",
+ "people": [{"who": "woman (hand only)", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["gold halo", "cage", "display (lit)", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "night", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.0, "camera": "static", "framing": "wide", "action": "full black fan beside white bed on patterned rug", "on_screen_text": "", "audio_hint": "VO: brought Hawaii into my bedroom"},
+  {"start": 4.0, "end": 8.9, "camera": "handheld", "framing": "close", "action": "hand waves and cups air at cage", "on_screen_text": "", "audio_hint": "VO: air feels softer"},
+  {"start": 8.9, "end": 10.3, "camera": "handheld", "framing": "medium", "action": "fan head beside bed and lamp", "on_screen_text": "", "audio_hint": ""},
+  {"start": 10.3, "end": 15.1, "camera": "handheld", "framing": "close", "action": "pillows, hand presses and pinches duvet", "on_screen_text": "", "audio_hint": "VO: fall asleep so much faster"}
+ ],
+ "best": {"start": 0.0, "end": 4.0, "why": "full-length black unit by bed"},
+ "beats": ["product_hero", "airflow_demo_hand", "sleeping_comfort"],
+ "hook_potential": {"score": 1, "why": "calm"},
+ "brand_fit": {"score": 2, "why": "crisp white bedding, warm lamps"},
+ "quality": {"score": 2, "issues": ["AI artefacts"]},
+ "status": "CAUTION", "status_why": "AI-generated",
+ "tags": ["black fan by bed", "hotel bedroom", "hand feels air", "soft duvet squeeze"],
+ "takes": [
+  {"start": 0.0, "line": "I thought this was just a fan, but it feels like I brought Hawaii…", "delivery": "clean", "energy": 2, "framing": "medium", "keep": true},
+  {"start": 3.4, "line": "I don't know exactly what they did… cooler and fresher.", "delivery": "clean", "energy": 2, "framing": "close", "keep": true},
+  {"start": 11.2, "line": "Honestly, I fall asleep so much faster with this thing on.", "delivery": "clean", "energy": 1, "framing": "close", "keep": true}
+ ],
+ "best_takes": [0.0, 3.4, 11.2],
+ "speaker": {"look": "VO, off camera", "setting": "hotel-style bedroom", "props": "tall black fan"}
+},
+{
+ "id": "a3676b0c-2c6e-4a5a-ae96-ab7719c9fc42",
+ "kind": "ai_generated",
+ "summary": "AI: baby in a cream fleece robe sleeps on a sunlit bed with a tall white Spin360 by the window; close on baby, fan medium, baby's feet.",
+ "people": [{"who": "baby, infant", "wardrobe": "cream fleece robe and bow hat", "role": "child"}],
+ "product": {"visible": "full", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display (icon)"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "unclear", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 3.7, "camera": "static", "framing": "wide", "action": "baby asleep on textured cream bed, fan by palm and sheer curtains in background", "on_screen_text": "", "audio_hint": ""},
+  {"start": 3.7, "end": 8.2, "camera": "static", "framing": "close", "action": "sleeping baby's face and fist in fleece robe", "on_screen_text": "", "audio_hint": ""},
+  {"start": 8.2, "end": 11.2, "camera": "static", "framing": "medium", "action": "fan head with ring and display beside palm", "on_screen_text": "", "audio_hint": ""},
+  {"start": 11.2, "end": 12.9, "camera": "static", "framing": "wide", "action": "baby asleep, fan in background", "on_screen_text": "", "audio_hint": ""},
+  {"start": 12.9, "end": 15.1, "camera": "static", "framing": "close", "action": "baby's bare feet on plush blanket", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 3.7, "end": 8.2, "why": "warm sunlit close of peaceful sleeping baby"},
+ "beats": ["sleeping_comfort", "family_kids", "product_hero", "room_aesthetic"],
+ "hook_potential": {"score": 2, "why": "peaceful baby is emotive"},
+ "brand_fit": {"score": 3, "why": "sunlit, sheer curtains, soft cream luxe textures"},
+ "quality": {"score": 2, "issues": ["AI artefacts"]},
+ "status": "CAUTION", "status_why": "AI-generated baby; avoid implied baby-safety claims",
+ "tags": ["sleeping baby", "baby feet", "sunlit cream bedroom", "fan by window palm", "nursery calm"]
+},
+{
+ "id": "b0e89018-7f54-406f-99ba-e2c3c501bf1a",
+ "kind": "ai_generated",
+ "summary": "AI: slow orbit around a tall white Spin360 (display F1) beside a bed where a woman sleeps peacefully at dusk.",
+ "people": [{"who": "woman, 30s, Black, dark curly hair", "wardrobe": "", "role": "actor"}],
+ "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display F1", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "evening", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 15.1, "camera": "orbit", "framing": "medium", "action": "camera circles fan from front to side revealing woman asleep in white bedding, back to fan", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 7.0, "end": 11.0, "why": "clear view of woman sleeping with fan beside"},
+ "beats": ["sleeping_comfort", "product_hero", "control_display"],
+ "hook_potential": {"score": 1, "why": "calm sleep shot"},
+ "brand_fit": {"score": 2, "why": "quiet, white bedding, blue dusk light"},
+ "quality": {"score": 2, "issues": ["AI artefacts", "dark"]},
+ "status": "CAUTION", "status_why": "AI-generated",
+ "tags": ["woman sleeping", "orbit around fan", "display F1", "bedside fan night", "white bedding"]
+},
+{
+ "id": "a77bf1ee-4fec-464b-972e-b68d94ecef43",
+ "kind": "ai_generated",
+ "summary": "AI: blond toddler in a beige onesie laughs up at a tall white Spin360 as the breeze lifts his hair in a sunny living room.",
+ "people": [{"who": "toddler, ~1 year, blond", "wardrobe": "beige zip onesie", "role": "child"}],
+ "product": {"visible": "partial", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "display"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "unclear", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 15.1, "camera": "static", "framing": "medium", "action": "toddler gazes up at fan head, hair blowing upward, giggling with hands raised", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 6.0, "end": 10.0, "why": "biggest laughs with hair blowing"},
+ "beats": ["airflow_demo_hair", "family_kids", "reaction_face"],
+ "hook_potential": {"score": 3, "why": "laughing toddler with hair blown up is a scroll-stopper"},
+ "brand_fit": {"score": 2, "why": "sunlit warm home, slightly busy background with toys"},
+ "quality": {"score": 3, "issues": []},
+ "status": "CAUTION", "status_why": "AI-generated child",
+ "tags": ["toddler laughing", "hair blowing", "baby looks up at fan", "sunny living room", "kid delight"]
+},
+{
+ "id": "90e6a13b-a6ce-46d6-986b-bdbbd31ea0d2",
+ "kind": "ugc_broll",
+ "summary": "Lake house: low-angle static of a tall black Spin360 head in the foreground with the white-haired senior man seated at a table behind, big windows onto trees.",
+ "people": [{"who": "senior man, white hair", "wardrobe": "white shirt, khaki shorts", "role": "senior"}, {"who": "person, partly seen", "wardrobe": "blue top", "role": "actor"}],
+ "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["gold halo", "cage"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "kitchen", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 16.7, "camera": "handheld", "framing": "medium", "action": "fan head sharp in foreground, slight drift; senior man sits at wooden table out of focus behind", "on_screen_text": "", "audio_hint": "off-camera banter about not wanting to be in the shot (unusable)"}
+ ],
+ "best": {"start": 12.0, "end": 16.5, "why": "steady, fan sharp against tree-view windows"},
+ "beats": ["product_hero", "room_aesthetic", "lifestyle_reading_relaxing"],
+ "hook_potential": {"score": 0, "why": "static b-roll"},
+ "brand_fit": {"score": 2, "why": "bright, tree view through windows; rustic wood"},
+ "quality": {"score": 2, "issues": ["blurry"]},
+ "status": "OK", "status_why": "",
+ "tags": ["black fan foreground", "lake house dining room", "senior man at table", "tree view windows", "tile floor"]
+},
+{
+ "id": "1653c205-b439-4a7f-bdd7-3c6a3b706ae2",
+ "kind": "ugc_broll",
+ "summary": "Lake house kitchen: white-haired senior man sits at the wooden table, glances and smiles at camera; black Spin360 only a small background glimpse.",
+ "people": [{"who": "senior man, white hair, glasses", "wardrobe": "white shirt, watch", "role": "senior"}],
+ "product": {"visible": "glimpse", "colourway": "black", "on": null, "details_seen": ["cage"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "kitchen", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "cluttered"},
+ "shots": [
+  {"start": 0.0, "end": 14.8, "camera": "static", "framing": "wide", "action": "man seated at table looking across room, smiles at camera around 3-5s, then out of frame edge", "on_screen_text": "", "audio_hint": "man: I'm only looking at the fan… the star of the show"}
+ ],
+ "best": {"start": 3.0, "end": 5.5, "why": "senior man smiles at camera"},
+ "beats": ["lifestyle_reading_relaxing", "reaction_face"],
+ "hook_potential": {"score": 0, "why": "nothing happens"},
+ "brand_fit": {"score": 1, "why": "busy rustic kitchen, fan barely visible"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["senior man kitchen table", "lake house kitchen", "rustic wood cabinets", "man smiles"]
+},
+{
+ "id": "b88da5bf-428b-4797-9fd8-966274781a3b",
+ "kind": "ugc_broll",
+ "summary": "Lake house kitchen: senior man at table, camera zooms past clasped hands to a black Spin360 in the background by the ovens, then man leans over and stands up.",
+ "people": [{"who": "senior man, white hair, glasses", "wardrobe": "white shirt, black watch", "role": "senior"}],
+ "product": {"visible": "partial", "colourway": "black", "on": true, "details_seen": ["cage", "gold halo"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "kitchen", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "cluttered"},
+ "shots": [
+  {"start": 0.0, "end": 4.0, "camera": "static", "framing": "wide", "action": "man rubs face, rests arms on table", "on_screen_text": "", "audio_hint": "chatter"},
+  {"start": 4.0, "end": 12.5, "camera": "push in", "framing": "medium", "action": "zoomed view: clasped hands in blurred foreground, black fan head in focus by ovens", "on_screen_text": "", "audio_hint": "man planning shot: 'with the fan going… we can have Lily in the shot'"},
+  {"start": 12.5, "end": 17.5, "camera": "static", "framing": "medium", "action": "man leans forward on table and stands, blocking frame", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 7.0, "end": 11.5, "why": "fan in focus behind relaxed hands on table"},
+ "beats": ["lifestyle_reading_relaxing", "room_aesthetic"],
+ "hook_potential": {"score": 0, "why": "behind-the-scenes chatter"},
+ "brand_fit": {"score": 1, "why": "busy rustic kitchen"},
+ "quality": {"score": 1, "issues": ["blurry"]},
+ "status": "OK", "status_why": "",
+ "tags": ["black fan in kitchen background", "clasped hands table", "senior man stands up", "lake house kitchen", "behind the scenes"]
+}
+]

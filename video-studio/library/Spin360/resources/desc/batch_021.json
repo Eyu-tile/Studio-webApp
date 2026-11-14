@@ -1,0 +1,785 @@
+{
+ "batch": "batch_021",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_021.out.json",
+ "clips": [
+  {
+   "id": "15b2b7f0-bbc6-4b4d-b621-c6ff7b429f4a",
+   "filename": "comfortable evening.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 22.68,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/15b2b7f0-bbc6-4b4d-b621-c6ff7b429f4a_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/15b2b7f0-bbc6-4b4d-b621-c6ff7b429f4a_2.jpg"
+   ],
+   "bya_description": "A woman in a white sweater sits on a bed looking at a tablet with a cat nearby. A white tower fan stands to the left before she walks away.",
+   "bya_tags": [
+    "Bedroom",
+    "Relaxing at home",
+    "Bedroom",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "4adb063c-634a-479a-baff-df9a1f405b40",
+   "filename": "product reveal.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 24.77,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4adb063c-634a-479a-baff-df9a1f405b40_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4adb063c-634a-479a-baff-df9a1f405b40_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4adb063c-634a-479a-baff-df9a1f405b40_3.jpg"
+   ],
+   "bya_description": "A static shot of a plain white wall next to a door frame.",
+   "bya_tags": [
+    "Moving the fan",
+    "Product in hand",
+    "Moving the fan",
+    "Product in hand"
+   ]
+  },
+  {
+   "id": "ede174d6-e5da-435b-ba5d-fd36a9a2711c",
+   "filename": "scent pod drop in 5.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 23.4,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ede174d6-e5da-435b-ba5d-fd36a9a2711c_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ede174d6-e5da-435b-ba5d-fd36a9a2711c_2.jpg"
+   ],
+   "bya_description": "Overhead view of a white fan on a wood floor. A hand reaches in and removes the center circular lid.",
+   "bya_tags": [
+    "Product close-up",
+    "Product on surface",
+    "Product in hand",
+    "Product close-up",
+    "Product in hand",
+    "Product on surface",
+    "Scent pod drop"
+   ]
+  },
+  {
+   "id": "0bdaf38b-f995-4f05-8117-a440a5a29ebd",
+   "filename": "staring at ceiling.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 23.61,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0bdaf38b-f995-4f05-8117-a440a5a29ebd_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0bdaf38b-f995-4f05-8117-a440a5a29ebd_2.jpg"
+   ],
+   "bya_description": "Woman tosses and turns restlessly in bed, touching her face and forehead with a frustrated expression.",
+   "bya_tags": [
+    "Bedroom",
+    "Tossing & turning",
+    "Unhappy expression",
+    "Bedroom",
+    "Tossing & turning",
+    "Unhappy expression"
+   ]
+  },
+  {
+   "id": "5b770329-d719-4655-bf26-7e185772c62a",
+   "filename": "IMG_9749.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 27.29,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5b770329-d719-4655-bf26-7e185772c62a_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5b770329-d719-4655-bf26-7e185772c62a_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5b770329-d719-4655-bf26-7e185772c62a_3.jpg"
+   ],
+   "bya_description": "A woman's hands demonstrate the assembly of a black tower fan on a carpeted floor. She first twists the middle section of the pole to tighten it, then lifts the entire upper assembly to show the threaded base before screwing it into the circular floor stand. The camera follows the movement handheld, focusing on the connection points of the black plastic components.",
+   "bya_tags": [
+    "Assembly or setup",
+    "Product in hand",
+    "Showing fan base",
+    "Assembly or setup",
+    "Product in hand",
+    "Showing fan base"
+   ]
+  },
+  {
+   "id": "b9e2bb89-102f-4b9d-8c7a-04c5d2c38c97",
+   "filename": "IMG_9770.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 29.69,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b9e2bb89-102f-4b9d-8c7a-04c5d2c38c97_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b9e2bb89-102f-4b9d-8c7a-04c5d2c38c97_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b9e2bb89-102f-4b9d-8c7a-04c5d2c38c97_3.jpg"
+   ],
+   "bya_description": "A woman in a striped shirt and grey shorts tosses and turns restlessly on a bed in a dimly lit bedroom. She repeatedly pulls a striped duvet over herself and then kicks it off, adjusting her position and rubbing her face in frustration throughout the shot.",
+   "bya_tags": [
+    "Bedroom",
+    "Tossing & turning",
+    "Bedroom",
+    "Tossing & turning"
+   ]
+  },
+  {
+   "id": "c730869f-7203-4f12-a36d-24702f6f76ed",
+   "filename": "IMG_8015.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 10.39,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c730869f-7203-4f12-a36d-24702f6f76ed_1.jpg"
+   ],
+   "bya_description": "A middle-aged woman with long grey hair opens a cardboard box labeled \"Electric Fans\" in a bright living room. She smiles and talks to the camera while looking inside the package.",
+   "bya_tags": [
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.9,
+     "text": "Sorry, I can't get it out.",
+     "labels": [
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ccc4bdca-a2df-4c80-9fdb-f1121050a473",
+   "filename": "360-3-HOOK-1-This-has-20260810-110120.mov",
+   "folder": "360 fan  - Vicky / Talking heads",
+   "duration_s": 33.62,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ccc4bdca-a2df-4c80-9fdb-f1121050a473_1.jpg"
+   ],
+   "bya_description": "A blonde woman in a black top leans on a metallic fan in a living room, holding a scent pod to the camera while talking.",
+   "bya_tags": [
+    "Friends complimenting home",
+    "Hook",
+    "Personal Suitability",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.9,
+     "text": "This has become my absolute holy grail for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Product benefit",
+      "Worth it upgrades",
+      "Personal Suitability"
+     ]
+    },
+    {
+     "start": 10.9,
+     "text": "This is my new obsession for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Product benefit",
+      "Worth it upgrades",
+      "Personal Suitability"
+     ]
+    },
+    {
+     "start": 21.5,
+     "text": "I finally figured out the trick to making my home smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Product benefit",
+      "Worth it upgrades",
+      "Personal Suitability"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ed08f12d-08b7-4e7a-aaf8-8a861639adf5",
+   "filename": "omni-2026-08-30-ed0aafc9.mp4",
+   "folder": "AI generated",
+   "duration_s": 7.34,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ed08f12d-08b7-4e7a-aaf8-8a861639adf5_1.jpg"
+   ],
+   "bya_description": "A woman with long brown hair, wearing a red cardigan over a white t-shirt, sits in a living room and speaks directly to the camera while gesturing with her hands.",
+   "bya_tags": [
+    "Gentle air movement",
+    "Hook",
+    "Nostalgic Comfort",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.8,
+     "text": "You know what, when you're outside on a quiet summer evening and the air is just moving enough that your whole body kind of just relaxes?",
+     "labels": [
+      "Hook",
+      "Gentle air movement",
+      "Nostalgic Comfort",
+      "Sleeping outside feeling"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4cffa992-94b9-4da6-8f71-8a332cf3366f",
+   "filename": "Hook 3",
+   "folder": "Spin 360 - Lauren / Script 1",
+   "duration_s": 25.28,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4cffa992-94b9-4da6-8f71-8a332cf3366f_1.jpg"
+   ],
+   "bya_description": "A blonde woman in a brown tank top speaks to the camera in a sunlit room with large windows. She gestures with her hands and adjusts the camera angle midway through her address.",
+   "bya_tags": [
+    "Hook",
+    "Intense cooling sensation",
+    "Talking head",
+    "Direct address",
+    "Home testimonial",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 1.3,
+     "text": "It is 7:45 PM and it is still 90 degrees outside and every single person in this house is knocked out except me. That is not luck, okay?",
+     "labels": [
+      "Hook",
+      "Intense cooling sensation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 15.0,
+     "text": "It is 7:45 PM and it is still 90 degrees outside and every single person in this house is knocked out except me. That is not luck, okay?",
+     "labels": [
+      "Hook",
+      "Intense cooling sensation",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1b333be5-cfc6-48a5-84a5-79887ad8d2b0",
+   "filename": "Hook 1",
+   "folder": "Spin 360 - Lauren / Script 2",
+   "duration_s": 28.03,
+   "talking": true,
+   "cuts": [
+    5.43,
+    11.8
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1b333be5-cfc6-48a5-84a5-79887ad8d2b0_1.jpg"
+   ],
+   "bya_description": "Blonde woman in a white tank top speaks to the camera in a bright room, gesturing near a plant and window.",
+   "bya_tags": [
+    "Guest First Impressions",
+    "Hook",
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.5,
+     "text": "When a guest walks into your house, the first thing they notice is the smell.",
+     "labels": [
+      "Hook",
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 6.4,
+     "text": "When a guest walks into your house, the first thing they notice is the smell.",
+     "labels": [
+      "Hook",
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 12.2,
+     "text": "When a guest walks into your house, the first thing they notice is the smell.",
+     "labels": [
+      "Hook",
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 17.4,
+     "text": "When a guest walks into your house, the first thing they notice is the smell.",
+     "labels": [
+      "Hook",
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 22.8,
+     "text": "When a guest walks into your house, the first thing they notice is the smell.",
+     "labels": [
+      "Hook",
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e5602b7b-c700-468b-bc1f-cdf70fd3b5c8",
+   "filename": "Hook 3",
+   "folder": "Spin 360 - Lauren / Script 2",
+   "duration_s": 27.31,
+   "talking": true,
+   "cuts": [
+    5.3,
+    21.17
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e5602b7b-c700-468b-bc1f-cdf70fd3b5c8_1.jpg"
+   ],
+   "bya_description": "A blonde woman in a white tank top talks directly to the camera in a bright room. She gestures frequently toward her neck and shoulder while standing near large windows.",
+   "bya_tags": [
+    "Guest First Impressions",
+    "Hook",
+    "Talking head",
+    "Direct address",
+    "Home testimonial",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.4,
+     "text": "This is how I make sure my house smells amazing when guests come over.",
+     "labels": [
+      "Hook",
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 6.3,
+     "text": "This is how I make sure my house smells amazing when guests come over.",
+     "labels": [
+      "Hook",
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 11.3,
+     "text": "This is how I make sure my house smells amazing when guests come over.",
+     "labels": [
+      "Hook",
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 22.5,
+     "text": "This is how I make sure my house smells amazing when guests come over.",
+     "labels": [
+      "Hook",
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0fb7cadb-ca22-4560-bba0-5d22315d3a9d",
+   "filename": "Hook 1",
+   "folder": "Spin 360 - Lauren / Script 3",
+   "duration_s": 14.85,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0fb7cadb-ca22-4560-bba0-5d22315d3a9d_1.jpg"
+   ],
+   "bya_description": "A blonde woman in a leopard print dress sits on a bed in a bright bedroom and speaks directly to the camera. She uses expressive hand gestures and briefly touches her hair.",
+   "bya_tags": [
+    "Home Elevation",
+    "Hook",
+    "Takes Walls Off",
+    "Bedroom",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.7,
+     "text": "I love saying this takes the walls off my house.",
+     "labels": [
+      "Hook",
+      "Home Elevation",
+      "Talking head",
+      "Takes Walls Off"
+     ]
+    },
+    {
+     "start": 5.6,
+     "text": "I love saying this takes the walls off my house.",
+     "labels": [
+      "Hook",
+      "Home Elevation",
+      "Talking head",
+      "Takes Walls Off"
+     ]
+    },
+    {
+     "start": 11.3,
+     "text": "I love saying this takes the walls off my house.",
+     "labels": [
+      "Hook",
+      "Home Elevation",
+      "Talking head",
+      "Takes Walls Off"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9f845273-e0cb-42e0-ad04-4d878a7f10d4",
+   "filename": "Hook 2",
+   "folder": "Spin 360 - Lauren / Script 3",
+   "duration_s": 30.12,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9f845273-e0cb-42e0-ad04-4d878a7f10d4_1.jpg"
+   ],
+   "bya_description": "A blonde woman in a leopard print dress sits on a bed and speaks directly to the camera. She uses frequent hand gestures and points while talking in a bedroom setting.",
+   "bya_tags": [
+    "Hook",
+    "Longevity Claim",
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.3,
+     "text": "The man who invented this fan loves to say it's gonna make you live longer, but he's not allowed to say that for real, and neither am I. But let me tell you what I can say, okay?",
+     "labels": [
+      "Hook",
+      "Talking head",
+      "Longevity Claim"
+     ]
+    },
+    {
+     "start": 11.2,
+     "text": "The man who invented this fan loves to say it's gonna make you live longer, but he's not allowed to say that for real, and neither am I. But let me tell you what I can say, okay?",
+     "labels": [
+      "Hook",
+      "Talking head",
+      "Longevity Claim"
+     ]
+    },
+    {
+     "start": 21.6,
+     "text": "The man who invented this fan loves to say it's going to make you live longer, but he's not allowed to say that for real. Neither am I. But let me tell you what I can say, okay?",
+     "labels": [
+      "Hook",
+      "Talking head",
+      "Longevity Claim"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "50a39712-1391-44cd-a40e-a275030c1b94",
+   "filename": "hook 2 x V2",
+   "folder": "Spin 360 - Lauren / Script 3",
+   "duration_s": 29.28,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/50a39712-1391-44cd-a40e-a275030c1b94_1.jpg"
+   ],
+   "bya_description": "Woman in leopard dress speaks to camera from a bed, gesturing to a fan and touching her face.",
+   "bya_tags": [
+    "Hook",
+    "Longevity Claim",
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.2,
+     "text": "The man who invented this fan loves to say it's gonna make you live longer, but he's not really allowed to say that for real, and neither am I. But let me tell you what I can say, okay?",
+     "labels": [
+      "Hook",
+      "Longevity Claim",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 10.7,
+     "text": "The man who invented this fan loves to say it's gonna make you live longer, but he's not allowed to say that for real, and neither am I. But let me tell you what I can say.",
+     "labels": [
+      "Hook",
+      "Longevity Claim",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 20.5,
+     "text": "The man who invented this fan loves to say it's gonna make you live longer, but he's not allowed to say that for real, and neither am I. But let me tell you what I can say.",
+     "labels": [
+      "Hook",
+      "Longevity Claim",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5b3ded90-6710-4fde-bfa8-2695a75fccd0",
+   "filename": "IMG_1726 2.mov",
+   "folder": "Spin 360 - Lauren / Script 3",
+   "duration_s": 21.28,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5b3ded90-6710-4fde-bfa8-2695a75fccd0_1.jpg"
+   ],
+   "bya_description": "Blonde woman in leopard tank top talks to camera from a bed, gesturing toward a pedestal fan in a bedroom.",
+   "bya_tags": [
+    "Hook",
+    "Product benefit",
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.9,
+     "text": "This thing is wildly different from any other fan I've had.",
+     "labels": [
+      "Hook",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 5.9,
+     "text": "This thing is wildly different from any other fan I've had.",
+     "labels": [
+      "Hook",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 11.2,
+     "text": "This thing is wildly different from any other fan I've had.",
+     "labels": [
+      "Hook",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 16.6,
+     "text": "This thing is wildly different from any other fan I've had.",
+     "labels": [
+      "Hook",
+      "Product benefit",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1c2a67d4-3a6a-4c88-b3fe-280254dcc439",
+   "filename": "coffee dependency",
+   "folder": "Spin360 - Avery",
+   "duration_s": 24.05,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1c2a67d4-3a6a-4c88-b3fe-280254dcc439_1.jpg"
+   ],
+   "bya_description": "Woman in a kitchen talks to the camera while mixing liquids in jars. She rubs her face in exhaustion, drinks the mixture, and reaches for the lens.",
+   "bya_tags": [
+    "Mixing and drinking",
+    "Lifestyle moment",
+    "Product in hand",
+    "Lifestyle moment",
+    "Mixing and drinking",
+    "Product in hand",
+    "Rubbing face",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.4,
+     "text": "You just took the ghost.",
+     "labels": [
+      "Talking head",
+      "Mixing and drinking"
+     ]
+    },
+    {
+     "start": 4.8,
+     "text": "I'm hitting it right there to where you can't see it so I can pick it up.",
+     "labels": [
+      "Talking head",
+      "Mixing and drinking"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d1c357ec-b3c9-4c18-96ef-2df5519e67a4",
+   "filename": "holding fan.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 13.8,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d1c357ec-b3c9-4c18-96ef-2df5519e67a4_1.jpg"
+   ],
+   "bya_description": "A woman in a black tank top enters holding a white pedestal fan and smiles while talking to the camera.",
+   "bya_tags": [
+    "Air purifier top",
+    "Lifestyle moment",
+    "Product close-up",
+    "Air purifier top",
+    "Lifestyle moment",
+    "Product close-up",
+    "Product in hand",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 1.4,
+     "text": "Me too. What? When did you go to the produce thing?",
+     "labels": [
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9ad1a047-69d9-4bb1-ae79-a3b4d6f84348",
+   "filename": "ribbon around fan.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 22.4,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9ad1a047-69d9-4bb1-ae79-a3b4d6f84348_1.jpg"
+   ],
+   "bya_description": "A woman in a black dress waves a leopard-print ribbon over a white pedestal air purifier to demonstrate airflow. She taps the top controls and speaks to the camera in a living room.",
+   "bya_tags": [
+    "Air purifier top",
+    "Fan controls",
+    "Feeling the breeze",
+    "Air purifier top",
+    "Fan controls",
+    "Feeling the breeze",
+    "Living room",
+    "Product on surface"
+   ],
+   "transcript": [
+    {
+     "start": 21.8,
+     "text": "Yes.",
+     "labels": [
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5debd4f5-5c7d-4230-acd3-286f75456df7",
+   "filename": "sweaty/wet blanket.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 15.83,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5debd4f5-5c7d-4230-acd3-286f75456df7_1.jpg"
+   ],
+   "bya_description": "A woman in navy pajamas enters and displays a stained white blanket, speaking to the camera with disgust. Then static shot of a white louvered door in a grey room with a potted plant.",
+   "bya_tags": [
+    "Bedroom",
+    "Showing stained blanket",
+    "Unhappy expression",
+    "Bedroom",
+    "Showing stained blanket",
+    "Talking head",
+    "Unhappy expression"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "Turn it up. Yeah, it looks sweaty.",
+     "labels": [
+      "Talking head",
+      "Bedroom",
+      "Unhappy expression",
+      "Showing stained blanket"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "74c53cb1-9e5b-479c-ac77-4886809bc9ca",
+   "filename": "script 1 cta.MOV",
+   "folder": "Spin360 - Avery / scripts",
+   "duration_s": 28.37,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/74c53cb1-9e5b-479c-ac77-4886809bc9ca_1.jpg"
+   ],
+   "bya_description": "Woman in a grey t-shirt speaks to camera in a home setting with a large plant, gesturing and pointing down.",
+   "bya_tags": [
+    "Talking head",
+    "Hook",
+    "Personal Suitability",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.8,
+     "text": "So if you're looking for home upgrades that are actually worth it, this is the one that I would try.",
+     "labels": [
+      "Hook",
+      "Personal Suitability",
+      "Talking head",
+      "Worth it upgrades"
+     ]
+    },
+    {
+     "start": 12.7,
+     "text": "This is the one I'd actually recommend.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 20.0,
+     "text": "Follow along because we still have more to do, but for now, this is the best thing we've added all summer.",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    }
+   ]
+  }
+ ]
+}

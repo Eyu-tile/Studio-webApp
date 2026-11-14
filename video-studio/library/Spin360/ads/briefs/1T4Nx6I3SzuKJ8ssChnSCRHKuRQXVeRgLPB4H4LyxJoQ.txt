@@ -1,0 +1,132 @@
+﻿Spin360_BabyDriving_HonestReview
+
+
+Brief - Spin360_BabyDriving_HonestReview.mp4
+
+
+hf_20261028_185835_49490dc8-7922-4a8a-a72f-30f495ff4ed1.mp4
+Chunks (Seedance prompts): second tab of this Doc,
+
+
+Product reference: SPIN360_FLOOR · SPIN360_BLADE · Real bedroom footage: UGC library
+Ad type: Ideation · AI baby, honest review · Camera: one phone on the windshield, facing him, car moving · Size: 9x16 · · 1 ad, one spoken hook.
+The idea: a real-looking AI baby sits behind the wheel of a family SUV and gives an honest review to a phone stuck on the windshield, like a guy talking to a friend. His room was shut all night and he was breathing his own air back; Grandpa brings the Spin360; he falls asleep without noticing, and so does Mom. The adult watching has the same room. No hook says he is driving: the picture says it.
+	Text Hooks (captions on the hook)
+ THAT'S THE PROBLEM. 
+Hook
+Ad
+	He says (0–5 s)
+	Scene
+	Hook 1
+Spin360_BabyDriving_HonestReview_Hook1
+	You shut the bedroom door to sleep better. That's the problem. Yeah, I'm a baby. Listen.
+	Straight into the lens, deadpan. Caption: That's the problem.
+	The baby and the frame (same in every shot): one phone stuck to the inside of the windshield, lens on him, the car moving. This one image is the reference for the look; the rest is yours.
+  
+
+The hook cuts straight into the body: “My room was shut all night…”
+Body
+My room was shut all night. Door closed, window closed. The air just sat there, and every breath I let out came right back at my face. So I'd wake up. And Mom would wake up. Same deal in her room, by the way. Door shut, window shut. By seven she's on her third coffee and the car keys are in the fridge.
+Then Grandpa walks in with this fan. Spin360. Mom goes, "Dad. It's not even hot." He goes, "It's not for the heat. It's for the air." And he turns it on.
+Okay. First thing: it doesn't blow at you. At all. The air just moves around the whole room. Soft. Like somebody cracked a window, except the window's shut.
+Second thing: that air I was breathing back in? Gone. All night the air around my face keeps moving, so it's fresh air every breath, not my own.
+And that's when it happened. I didn't make it to the end of my bottle. I didn't fight it, I didn't notice it. I was just… out. And I stayed out.
+Next morning, I woke up like a guy coming back from a cruise. No crying, no rubbing my eyes. Just up.
+And it's not only me. Mom stole it. Put it next to her bed. Now she turns the light off and she's gone. Yesterday she finished a whole sentence.
+So yeah. The air moves. You sleep. Try it for 30 nights. If you don't love how you wake up, send it back. Okay. Mom's waiting.
+Strategy
+# Element
+	Answer
+	1 · Desire
+	Fall asleep without noticing and wake up actually rested.
+	2 · Avatar
+	Adults 30–60 who shut the bedroom door and windows to sleep and wake up tired anyway. Moms are in it, but this is not a baby product: the baby is the narrator, the sale is to the adult.
+	3 · Angle
+	In a closed room you breathe your own air all night. The Spin360 keeps the air around you moving, with nothing blowing in your face, so you drift off without noticing.
+	4 · Mechanism
+	It doesn't blow at you; it moves the air around the whole room, so every breath is fresh air, not your own. Said in the baby's words, never the spec sheet.
+	5 · Authority
+	None claimed. Grandpa brings the fan, the baby reports what happened. No studies, no testimonials.
+	6 · Awareness
+	Hook: problem unaware (the shut door is the problem). Body: product aware. The belief "a fan is for heat" is said out loud by Mom and answered by Grandpa.
+	7 · Emotion
+	Amusement first (a baby giving a car review), then relief: he falls asleep without noticing, Mom finishes a sentence. Calm, dry, warm. No hype.
+	8 · Positioning
+	Enemy: the closed bedroom and the regular fan that blows in your face. Spin360 moves the air around the whole room, soft, like a cracked window with the window shut.
+	
+
+Chunks — Spin360_BabyDriving_HonestReview
+Seedance 2.5, one prompt per chunk, dialogue exactly as written. One hook, four chunks, about 84 s in total. He talks fast: the times are set at about 220 words per minute, so each chunk is spoken continuously with no dead air.
+Chunk 1 — 22s
+Generate a photorealistic live-action vertical 9:16 video, 22 seconds, one continuous car review filmed by one phone on the windshield facing the driver, edited like a car vlog: hard cuts between a medium frame and a tight frame from that same camera, same performance, same moment, same car. The dialogue is spoken fast and continuously and fills the whole 22 seconds.
+CHARACTER:
+A real American baby boy, about eleven months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He sits in the driver's seat of an ordinary American family SUV, propped up on a booster cushion so his head clears the steering wheel, both small hands resting on the wheel, and talks to the phone mounted on the inside of the windshield like a guy recording an honest review for a friend. A baby bottle of milk sits in the cup holder. He looks like a real baby filmed on a phone, not a doll, not CGI, not a cartoon.
+LOCATION:
+Inside the SUV, daytime, a slow, calm drive through an ordinary American suburban street: houses, trees and parked cars pass slowly outside the windows. Natural daylight through the windshield. The car moves slowly and smoothly the whole time; nothing dangerous happens.
+LOOK:
+Authentic phone footage from one phone mounted on the inside of the windshield, lens facing him, like a car vlog: we see him from the front, the steering wheel in front of him, the seats and the rear window behind him, and the street sliding past the windows because the car is moving. Natural exposure, no color grading, real skin texture, slight lens softness, light shake from the road, soft reflections on the windshield. The camera never moves. There are only two framings, both from that same windshield point: a medium frame (him, the wheel, the seats, the rear window) and a tighter frame on his face. The camera sits at his eye level.
+VOICE AND PERFORMANCE:
+Spoken language: American English. His voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, calm and honest, like a guy giving a review to a friend. He talks fast, around 220 words per minute, the way a guy talks when he is telling a friend something he already knows by heart: sentences run straight into each other, no gaps between them, no pause to let a line sink in. Do not speak slowly. Do not over-enunciate. Do not sound like a narrator, an announcer or a salesman. The only pauses are the ones written in the dialogue below. Realistic lip sync adapted to a baby's mouth, small natural facial reactions, quick glances at the road and back to the lens, his hands turning the wheel slightly as he drives. Gestures stay small and occasional; his hands mostly stay on the wheel.
+EMOTIONAL ARC:
+Calm and matter-of-fact from the first word, like a guy filing a complaint about a hotel. The opening line lands deadpan, straight into the lens; "Yeah, I'm a baby. Listen." is tossed off, not a joke he waits on, and he goes straight into the room without a breath. The description of the room is a fast list of facts. "Car keys in the fridge" is said flat, with a tiny one-shoulder shrug.
+SHOTS AND DIALOGUE, say exactly:
+0-4s: Windshield camera, medium frame, the baby centered behind the wheel, looking straight into the lens. He says: {You shut the bedroom door to sleep better. That's the problem.} A tiny beat. {Yeah, I'm a baby. Listen.}
+4-11s: Windshield camera, medium frame; he glances at the road and back to the lens, no pause after "Listen." He says: {My room was shut all night. Door closed, window closed. The air just sat there, and every breath I let out came right back at my face.}
+11-17s: Windshield camera, tight frame on his face. He says: {So I'd wake up. And Mom would wake up. Same deal in her room, by the way. Door shut, window shut.}
+17-22s: Windshield camera, medium frame; a tiny one-hand shrug off the wheel on "fridge". He says: {By seven she's on her third coffee and the car keys are in the fridge.}
+No captions. No on-screen text. No logos. No background music, keep the car and road sound.
+Chunk 2 — 20s
+Generate a photorealistic live-action vertical 9:16 video, 20 seconds, one continuous car review filmed by one phone on the windshield facing the driver, edited like a car vlog: hard cuts between a medium frame and a tight frame from that same camera, same performance, same moment, same car. The dialogue is spoken fast and continuously and fills the whole 20 seconds.
+CHARACTER:
+A real American baby boy, about eleven months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He sits in the driver's seat of an ordinary American family SUV, propped up on a booster cushion so his head clears the steering wheel, both small hands resting on the wheel, and talks to the phone mounted on the inside of the windshield like a guy recording an honest review for a friend. A baby bottle of milk sits in the cup holder. He looks like a real baby filmed on a phone, not a doll, not CGI, not a cartoon.
+LOCATION:
+Inside the SUV, daytime, a slow, calm drive through an ordinary American suburban street: houses, trees and parked cars pass slowly outside the windows. Natural daylight through the windshield. The car moves slowly and smoothly the whole time; nothing dangerous happens.
+LOOK:
+Authentic phone footage from one phone mounted on the inside of the windshield, lens facing him, like a car vlog: we see him from the front, the steering wheel in front of him, the seats and the rear window behind him, and the street sliding past the windows because the car is moving. Natural exposure, no color grading, real skin texture, slight lens softness, light shake from the road, soft reflections on the windshield. The camera never moves. There are only two framings, both from that same windshield point: a medium frame (him, the wheel, the seats, the rear window) and a tighter frame on his face. The camera sits at his eye level.
+VOICE AND PERFORMANCE:
+Spoken language: American English. His voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, calm and honest, like a guy giving a review to a friend. He talks fast, around 220 words per minute, the way a guy talks when he is telling a friend something he already knows by heart: sentences run straight into each other, no gaps between them, no pause to let a line sink in. Do not speak slowly. Do not over-enunciate. Do not sound like a narrator, an announcer or a salesman. The only pauses are the ones written in the dialogue below. Realistic lip sync adapted to a baby's mouth, small natural facial reactions, quick glances at the road and back to the lens, his hands turning the wheel slightly as he drives. Gestures stay small and occasional; his hands mostly stay on the wheel.
+EMOTIONAL ARC:
+Storytelling, fast. He does Mom's exasperated voice a little higher, then Grandpa's calm, gravelly old-man voice, without slowing down for either. "And he turns it on" is said simply. "At all." is flat and sure, like settling an argument. The line about the window is almost fond.
+SHOTS AND DIALOGUE, say exactly:
+0-9s: Windshield camera, medium frame. On "this fan" he glances up at the rearview mirror, then back to the lens. He says: {Then Grandpa walks in with this fan. Spin three-sixty. Mom goes, "Dad. It's not even hot." He goes, "It's not for the heat. It's for the air." And he turns it on.}
+9-10s: Windshield camera, medium frame; he looks at the road for one second, one small nod. No line.
+10-16s: Windshield camera, tight frame, back to the lens. He says: {Okay. First thing: it doesn't blow at you. At all. The air just moves around the whole room.}
+16-20s: Windshield camera, medium frame; one small hand lifts off the wheel and draws a slow circle in the air. He says: {Soft. Like somebody cracked a window, except the window's shut.}
+No captions. No on-screen text. No logos. No background music, keep the car and road sound.
+Chunk 3 — 23s
+Generate a photorealistic live-action vertical 9:16 video, 23 seconds, one continuous car review filmed by one phone on the windshield facing the driver, edited like a car vlog: hard cuts between a medium frame and a tight frame from that same camera, same performance, same moment, same car. The dialogue is spoken fast and continuously and fills the whole 23 seconds.
+CHARACTER:
+A real American baby boy, about eleven months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He sits in the driver's seat of an ordinary American family SUV, propped up on a booster cushion so his head clears the steering wheel, both small hands resting on the wheel, and talks to the phone mounted on the inside of the windshield like a guy recording an honest review for a friend. A baby bottle of milk sits in the cup holder. He looks like a real baby filmed on a phone, not a doll, not CGI, not a cartoon.
+LOCATION:
+Inside the SUV, daytime, a slow, calm drive through an ordinary American suburban street: houses, trees and parked cars pass slowly outside the windows. Natural daylight through the windshield. The car moves slowly and smoothly the whole time; nothing dangerous happens.
+LOOK:
+Authentic phone footage from one phone mounted on the inside of the windshield, lens facing him, like a car vlog: we see him from the front, the steering wheel in front of him, the seats and the rear window behind him, and the street sliding past the windows because the car is moving. Natural exposure, no color grading, real skin texture, slight lens softness, light shake from the road, soft reflections on the windshield. The camera never moves. There are only two framings, both from that same windshield point: a medium frame (him, the wheel, the seats, the rear window) and a tighter frame on his face. The camera sits at his eye level.
+VOICE AND PERFORMANCE:
+Spoken language: American English. His voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, calm and honest, like a guy giving a review to a friend. He talks fast, around 220 words per minute, the way a guy talks when he is telling a friend something he already knows by heart: sentences run straight into each other, no gaps between them, no pause to let a line sink in. Do not speak slowly. Do not over-enunciate. Do not sound like a narrator, an announcer or a salesman. The only pauses are the ones written in the dialogue below. Realistic lip sync adapted to a baby's mouth, small natural facial reactions, quick glances at the road and back to the lens, his hands turning the wheel slightly as he drives. Gestures stay small and occasional; his hands mostly stay on the wheel.
+EMOTIONAL ARC:
+Confessional, still fast. "Gone." lands like a verdict with no pause after it. On "I was just... out" his eyelids get heavy, his head tilts slowly toward the wheel and his voice drops almost to a mumble; that is the one place he slows down. Then his eyes snap open for "And I stayed out." The cruise line is a little smug.
+SHOTS AND DIALOGUE, say exactly:
+0-8s: Windshield camera, medium frame. He says: {Second thing: that air I was breathing back in? Gone. All night the air around my face keeps moving, so it's fresh air every breath, not my own.}
+8-15s: Windshield camera, tight frame; eyelids heavy, head tilting slowly toward the wheel, voice dropping on the last three words. He says: {And that's when it happened. I didn't make it to the end of my bottle. I didn't fight it, I didn't notice it. I was just... out.}
+15-17s: Windshield camera, tight frame; eyes snap open, back to the lens. He says: {And I stayed out.}
+17-23s: Windshield camera, medium frame, a little smug, one eyebrow up. He says: {Next morning, I woke up like a guy coming back from a cruise. No crying, no rubbing my eyes. Just up.}
+No captions. No on-screen text. No logos. No background music, keep the car and road sound.
+Chunk 4 — 19s
+Generate a photorealistic live-action vertical 9:16 video, 19 seconds, one continuous car review filmed by one phone on the windshield facing the driver, edited like a car vlog: hard cuts between a medium frame and a tight frame from that same camera, same performance, same moment, same car. The dialogue is spoken fast and continuously and fills the whole 19 seconds.
+CHARACTER:
+A real American baby boy, about eleven months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He sits in the driver's seat of an ordinary American family SUV, propped up on a booster cushion so his head clears the steering wheel, both small hands resting on the wheel, and talks to the phone mounted on the inside of the windshield like a guy recording an honest review for a friend. A baby bottle of milk sits in the cup holder. He looks like a real baby filmed on a phone, not a doll, not CGI, not a cartoon.
+LOCATION:
+Inside the SUV, daytime, a slow, calm drive through an ordinary American suburban street: houses, trees and parked cars pass slowly outside the windows. Natural daylight through the windshield. The car moves slowly and smoothly the whole time; nothing dangerous happens.
+LOOK:
+Authentic phone footage from one phone mounted on the inside of the windshield, lens facing him, like a car vlog: we see him from the front, the steering wheel in front of him, the seats and the rear window behind him, and the street sliding past the windows because the car is moving. Natural exposure, no color grading, real skin texture, slight lens softness, light shake from the road, soft reflections on the windshield. The camera never moves. There are only two framings, both from that same windshield point: a medium frame (him, the wheel, the seats, the rear window) and a tighter frame on his face. The camera sits at his eye level.
+VOICE AND PERFORMANCE:
+Spoken language: American English. His voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, calm and honest, like a guy giving a review to a friend. He talks fast, around 220 words per minute, the way a guy talks when he is telling a friend something he already knows by heart: sentences run straight into each other, no gaps between them, no pause to let a line sink in. Do not speak slowly. Do not over-enunciate. Do not sound like a narrator, an announcer or a salesman. The only pauses are the ones written in the dialogue below. Realistic lip sync adapted to a baby's mouth, small natural facial reactions, quick glances at the road and back to the lens, his hands turning the wheel slightly as he drives. Gestures stay small and occasional; his hands mostly stay on the wheel.
+EMOTIONAL ARC:
+Mock outrage on "Mom stole it", then warm. "Finished a whole sentence" is dry. The closing lines stay in his own voice, honest, fast, no selling, never an announcer. "Okay. Mom's waiting." is a shrug as the car rolls into the driveway.
+SHOTS AND DIALOGUE, say exactly:
+0-4s: Windshield camera, medium frame; mock outrage, eyebrows up. He says: {And it's not only me. Mom stole it. Put it next to her bed.}
+4-5s: Windshield camera, medium frame; he looks at the road and shakes his head once. No line.
+5-10s: Windshield camera, tight frame, back to the lens, dry. He says: {Now she turns the light off and she's gone. Yesterday she finished a whole sentence.}
+10-17s: Windshield camera, medium frame; the car slows and turns into a driveway, a house visible through the windshield. He says: {So yeah. The air moves. You sleep. Try it for thirty nights. If you don't love how you wake up, send it back.}
+17-19s: Windshield camera, tight frame; he looks through the windshield at the house, then back at the lens with a small shrug. He says: {Okay. Mom's waiting.}
+No captions. No on-screen text. No logos. No background music, keep the car and road sound.

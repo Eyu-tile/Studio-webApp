@@ -1,0 +1,207 @@
+[
+ {
+  "id": "f8c5247a-ddda-4ebe-8057-299c1a30381e",
+  "kind": "ugc_broll",
+  "summary": "Static wide shot of Lauren's sunlit forest-view living room with the black Spin360 by tall windows; she walks in with a mug, sits in a white bubble chair, sips and gestures toward the fan, then leaves.",
+  "people": [{"who": "woman, 30s, blonde hair in bun (Lauren)", "wardrobe": "brown tank top, blue-grey bike shorts", "role": "creator"}],
+  "product": {"visible": "partial", "colourway": "black", "on": null, "details_seen": ["cage", "base"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 3.5, "camera": "static", "framing": "wide", "action": "Lauren's head leans through frame close to lens after setting camera", "on_screen_text": "", "audio_hint": ""},
+   {"start": 3.5, "end": 15.0, "camera": "static", "framing": "wide", "action": "empty room: black Spin360 by window, bubble chair, oval wood coffee table, plant", "on_screen_text": "", "audio_hint": ""},
+   {"start": 15.0, "end": 21.5, "camera": "static", "framing": "wide", "action": "Lauren walks in holding mug, looks up/around as if smelling air, steps toward chair", "on_screen_text": "", "audio_hint": ""},
+   {"start": 21.5, "end": 29.5, "camera": "static", "framing": "wide", "action": "sits in bubble chair beside fan, sips mug, reaches/waves hand toward fan, relaxes", "on_screen_text": "", "audio_hint": ""},
+   {"start": 29.5, "end": 37.9, "camera": "static", "framing": "wide", "action": "gets up and exits; empty room; she returns close to lens to stop camera", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 21.5, "end": 28.5, "why": "seated relaxing with mug next to fan in airy forest-view room"},
+  "beats": ["room_aesthetic", "lifestyle_reading_relaxing", "scent_reaction", "airflow_demo_hand"],
+  "hook_potential": {"score": 1, "why": "calm, small figure in wide frame"},
+  "brand_fit": {"score": 3, "why": "sunlit, tall windows onto trees, clean luxe decor"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "",
+  "tags": ["woman with coffee mug relaxing", "bubble chair", "forest view windows", "black fan by window", "smelling the air", "empty room establishing"]
+ },
+ {
+  "id": "efa965f9-94d0-4f4c-9053-1e8ef44b2418",
+  "kind": "ugc_broll",
+  "summary": "Static shot of Lauren getting into an unmade bed and tossing and turning restlessly, then getting up and walking out; no fan visible.",
+  "people": [{"who": "woman, 30s, blonde hair in bun (Lauren)", "wardrobe": "grey tank top, beige wide-leg linen pants", "role": "creator"}],
+  "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+  "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 3.5, "camera": "static", "framing": "wide", "action": "climbs into bed, flings duvet", "on_screen_text": "", "audio_hint": ""},
+   {"start": 3.5, "end": 31.5, "camera": "static", "framing": "wide", "action": "tosses and turns, kicks off duvet, rolls onto stomach, hands on forehead, lies on back", "on_screen_text": "", "audio_hint": ""},
+   {"start": 31.5, "end": 35.2, "camera": "static", "framing": "wide", "action": "sits up on bed edge, gets up and walks toward camera; empty bed", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 6.0, "end": 16.0, "why": "clear restless tossing, kicking off the duvet, hand to forehead"},
+  "beats": ["hot_sleeper_problem", "sweaty_discomfort"],
+  "hook_potential": {"score": 2, "why": "relatable can't-sleep problem shot"},
+  "brand_fit": {"score": 2, "why": "light neutral boho bedroom, unmade bed by design"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "",
+  "tags": ["tossing and turning", "can't sleep hot", "kicking off duvet", "woman in bed daytime", "rattan mirror bedroom", "hand on forehead frustrated"]
+ },
+ {
+  "id": "d20b49f5-01da-496c-9d7f-e250b5e37bb7",
+  "kind": "ugc_broll",
+  "summary": "Static wide of Lauren flopping onto a bed in a bright window bedroom, tossing restlessly, then sitting on the edge looking hot and frustrated, fanning her chest and walking out; no fan visible.",
+  "people": [{"who": "woman, 30s, blonde hair in bun (Lauren)", "wardrobe": "taupe tee, dark grey bike shorts", "role": "creator"}],
+  "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+  "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 4.5, "camera": "static", "framing": "wide", "action": "walks in and climbs onto bed", "on_screen_text": "", "audio_hint": ""},
+   {"start": 4.5, "end": 22.5, "camera": "static", "framing": "wide", "action": "lies face down, rolls, arms over head, restless on top of covers", "on_screen_text": "", "audio_hint": ""},
+   {"start": 22.5, "end": 29.5, "camera": "static", "framing": "wide", "action": "sits on bed edge, head in hand, pulls shirt off chest, frustrated", "on_screen_text": "", "audio_hint": ""},
+   {"start": 29.5, "end": 34.4, "camera": "static", "framing": "wide", "action": "stands, hand on chest, walks toward camera; empty bed", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 23.0, "end": 29.5, "why": "sitting on bed edge, head in hand and tugging sweaty shirt - clearest hot/sweaty emotion"},
+  "beats": ["hot_sleeper_problem", "sweaty_discomfort"],
+  "hook_potential": {"score": 2, "why": "readable sweaty, frustrated body language"},
+  "brand_fit": {"score": 2, "why": "bright, window onto greenery, simple decor"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "",
+  "tags": ["too hot to sleep", "sweaty shirt", "woman sits on edge of bed frustrated", "head in hands", "tossing on top of covers", "window greenery bedroom"]
+ },
+ {
+  "id": "88e62d36-7b50-493d-97e9-467f1d98c31d",
+  "kind": "ugc_broll",
+  "summary": "White Spin360 by a window with navy curtains is switched on at the pole display, then a hand holds a phone decibel-meter app reading roughly 50-61 dB beside the running fan.",
+  "people": [{"who": "woman (hand/arm only)", "wardrobe": "", "role": "hand only"}],
+  "product": {"visible": "full", "colourway": "white", "on": true, "details_seen": ["cage", "gold halo", "display", "pole"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 2.5, "camera": "handheld", "framing": "medium", "action": "hand presses the round pole display to turn fan on", "on_screen_text": "", "audio_hint": "fan noise"},
+   {"start": 2.5, "end": 15.5, "camera": "handheld", "framing": "medium", "action": "phone with decibel meter app held beside fan head, reading 50-61", "on_screen_text": "app: decibel meter 50-61", "audio_hint": "fan noise"},
+   {"start": 15.5, "end": 31.4, "camera": "handheld", "framing": "close", "action": "phone held closer to camera, reading 56-61 dB, fan behind", "on_screen_text": "app: decibel meter 56-61", "audio_hint": "fan noise"}
+  ],
+  "best": {"start": 17.0, "end": 23.0, "why": "phone reading large and legible with fan head behind"},
+  "beats": ["turning_on", "control_display", "quiet_demo"],
+  "hook_potential": {"score": 2, "why": "proof-style noise test is a strong mid-ad beat"},
+  "brand_fit": {"score": 2, "why": "sunny window, trees, but dark curtains and cord visible"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "CAUTION", "status_why": "Implicit quietness claim: decibel app shows ~50-61 dB readings; verify before using as a 'quiet' claim. Third-party app UI on screen.",
+  "tags": ["decibel meter app", "noise test", "how loud is it", "phone next to fan", "white fan by window", "pressing power button"]
+ },
+ {
+  "id": "8c78efd5-7d31-4846-ac31-97aeb4406630",
+  "kind": "ugc_broll",
+  "summary": "Problem skit: a long-haired brunette sits on a bedroom rug trying to read a magazine while a black tower fan blasts her hair into her face and flutters the pages.",
+  "people": [{"who": "woman, 30s, very long brown hair (Avery)", "wardrobe": "lilac short-sleeve dress, gold bracelet", "role": "creator"}],
+  "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": ["black tower fan"], "other_brands": []},
+  "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 4.0, "camera": "static", "framing": "medium", "action": "black tower fan by window; she walks in and sits on rug", "on_screen_text": "", "audio_hint": "fan hum"},
+   {"start": 4.0, "end": 27.0, "camera": "static", "framing": "medium", "action": "reads magazine, hair blows into face, she pushes it back repeatedly, annoyed looks, pages flutter", "on_screen_text": "", "audio_hint": ""},
+   {"start": 27.0, "end": 34.5, "camera": "static", "framing": "medium", "action": "keeps reading with irritated expression", "on_screen_text": "", "audio_hint": ""},
+   {"start": 34.5, "end": 36.9, "camera": "static", "framing": "close", "action": "gets up and reaches to camera to stop", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 12.0, "end": 22.0, "why": "hair whipping over face while she struggles to read - clearest old-fan annoyance"},
+  "beats": ["old_fan_annoyance", "airflow_demo_hair", "before_after"],
+  "hook_potential": {"score": 2, "why": "funny, relatable hair-in-face frustration"},
+  "brand_fit": {"score": 1, "why": "problem shot with competitor-style tower fan; bright window"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "CAUTION", "status_why": "Other fan shown (black tower fan) - problem shot only.",
+  "tags": ["hair blowing in face", "old tower fan annoying", "reading magazine on floor", "pages flapping", "before shot", "woman pushes hair back"]
+ },
+ {
+  "id": "c3b05ab4-ac64-4f5c-8357-703731630e00",
+  "kind": "ugc_broll",
+  "summary": "Static shot of a brunette in a black jumpsuit sitting in a patterned armchair reading next to a white Spin360, then getting up and leaving.",
+  "people": [{"who": "woman, 30s, long dark hair in braid (Avery)", "wardrobe": "black sleeveless jumpsuit, gold bracelet", "role": "creator"}],
+  "product": {"visible": "full", "colourway": "white", "on": null, "details_seen": ["cage", "gold halo", "display", "base"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 3.0, "camera": "static", "framing": "medium", "action": "walks in holding book and sits in armchair beside fan", "on_screen_text": "", "audio_hint": ""},
+   {"start": 3.0, "end": 33.5, "camera": "static", "framing": "medium", "action": "reads book legs crossed, adjusts pillow, settles in", "on_screen_text": "", "audio_hint": ""},
+   {"start": 33.5, "end": 36.7, "camera": "static", "framing": "medium", "action": "stands and walks out toward camera", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 18.5, "end": 27.0, "why": "calm settled reading with full white unit in frame"},
+  "beats": ["lifestyle_reading_relaxing", "room_aesthetic"],
+  "hook_potential": {"score": 1, "why": "calm, little action"},
+  "brand_fit": {"score": 2, "why": "tidy corner, soft green wall, painting; no window, slightly flat light"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "",
+  "tags": ["woman reading in armchair", "white fan beside chair", "cozy reading corner", "barefoot relaxing", "black jumpsuit"]
+ },
+ {
+  "id": "248d7ca7-0771-4bcb-9f5c-6771b422b009",
+  "kind": "product_only",
+  "summary": "Close-up of the white Spin360's perforated top cap: hand lifts the round lid, opens a gold 'spin 360 Lux' scent pod, peels the pad and drops it into the well, then closes the lid.",
+  "people": [{"who": "woman (hands only), gold ring", "wardrobe": "", "role": "hand only"}],
+  "product": {"visible": "partial", "colourway": "white", "on": null, "details_seen": ["scent tray", "top cap lid", "scent pod packaging"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "other", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 7.5, "camera": "static", "framing": "close", "action": "hand shows sealed gold Lux scent pod, then removes top-cap lid", "on_screen_text": "", "audio_hint": ""},
+   {"start": 7.5, "end": 17.9, "camera": "static", "framing": "close", "action": "peels pod open, removes gold scent pad, places it in the well", "on_screen_text": "", "audio_hint": ""},
+   {"start": 17.9, "end": 25.0, "camera": "static", "framing": "close", "action": "replaces lid on top cap", "on_screen_text": "", "audio_hint": ""},
+   {"start": 25.0, "end": 35.4, "camera": "static", "framing": "close", "action": "shows empty pod with hinged lid and the sealed pod label again; closed cap", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 3.0, "end": 22.5, "why": "full scent-pod load sequence: label, open, drop pad, close lid"},
+  "beats": ["scent_tray"],
+  "hook_potential": {"score": 1, "why": "useful how-to, not a hook"},
+  "brand_fit": {"score": 2, "why": "clean white macro, plain grey wall"},
+  "quality": {"score": 3, "issues": []},
+  "status": "OK", "status_why": "",
+  "tags": ["scent pod", "dropping scent pad in top", "spin 360 Lux label", "top cap lid", "how to add scent", "macro hands"]
+ },
+ {
+  "id": "5d92bf1d-d21c-4e1c-8674-6dcd3e0481bd",
+  "kind": "product_only",
+  "summary": "Static medium shot of the full white Spin360 head and pole against a plain wall while a hand turns it on and taps the round display from F1 up to F6.",
+  "people": [{"who": "woman (arm only), gold bracelets", "wardrobe": "", "role": "hand only"}],
+  "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["display F1-F6", "gold halo", "cage"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "other", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 3.5, "camera": "static", "framing": "medium", "action": "hand presses display to switch on (F1)", "on_screen_text": "", "audio_hint": ""},
+   {"start": 3.5, "end": 9.0, "camera": "static", "framing": "medium", "action": "fan running at F1, no hand", "on_screen_text": "", "audio_hint": ""},
+   {"start": 9.0, "end": 33.5, "camera": "static", "framing": "medium", "action": "hand taps display stepping speed F1, F2, F3 ... F6", "on_screen_text": "", "audio_hint": ""},
+   {"start": 33.5, "end": 36.6, "camera": "static", "framing": "medium", "action": "hand withdraws, running at F6", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 9.0, "end": 18.0, "why": "clean product hero with visible speed steps on display"},
+  "beats": ["turning_on", "control_display", "product_hero"],
+  "hook_potential": {"score": 1, "why": "demo, not a hook"},
+  "brand_fit": {"score": 2, "why": "clean but plain wall, outlet visible, flat light"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "",
+  "tags": ["speed settings F1 to F6", "tapping display", "white fan hero", "turning fan on", "control panel demo"]
+ },
+ {
+  "id": "04290545-664e-45f7-80be-c30193f99bcb",
+  "kind": "product_only",
+  "summary": "Close static shot of the white Spin360 head and display; a hand steps speed F1 to F6, blades visibly spin faster through the clear cage, then it is set back to F1.",
+  "people": [{"who": "woman (hand only), ring", "wardrobe": "", "role": "hand only"}],
+  "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["display F1-F6", "Spin360 logo on display", "gold halo", "cage", "blades spinning"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "other", "time": "unclear", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 3.0, "camera": "static", "framing": "close", "action": "fan at F1, blades turning slowly behind clear slats", "on_screen_text": "", "audio_hint": ""},
+   {"start": 3.0, "end": 22.0, "camera": "static", "framing": "close", "action": "hand taps display up F2, F3, F4, F5, F6; blade motion speeds up", "on_screen_text": "", "audio_hint": "fan getting louder"},
+   {"start": 22.0, "end": 29.0, "camera": "static", "framing": "close", "action": "running at F6, no hand", "on_screen_text": "", "audio_hint": ""},
+   {"start": 29.0, "end": 38.6, "camera": "static", "framing": "close", "action": "finger presses display back to F1; runs at F1", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 9.5, "end": 21.5, "why": "close cage detail with gold halo and display changing speeds"},
+  "beats": ["control_display", "product_hero"],
+  "hook_potential": {"score": 1, "why": "detail demo"},
+  "brand_fit": {"score": 2, "why": "nice close detail of cage and gold ring; dim yellowish wall, outlet visible"},
+  "quality": {"score": 2, "issues": ["dark"]},
+  "status": "OK", "status_why": "",
+  "tags": ["close up cage", "blades spinning", "speed F1 to F6", "display with logo", "gold halo ring close", "white fan detail"]
+ },
+ {
+  "id": "caa82603-c0da-40f3-9662-126ed89697b5",
+  "kind": "ugc_broll",
+  "summary": "Static night shot of floral-print curtains swaying gently beside an open window, lit by purple ambient light with warm orange glow outside; no fan visible.",
+  "people": [],
+  "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+  "setting": {"room": "bedroom", "time": "night", "light": "dim", "view": "unclear", "curtains_moving": true, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 42.2, "camera": "static", "framing": "medium", "action": "blue-on-white floral curtains sway slightly in breeze at window; purple light, orange glow beyond", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 8.0, "end": 16.0, "why": "most visible curtain movement"},
+  "beats": ["airflow_demo_curtain_or_ribbon", "room_aesthetic"],
+  "hook_potential": {"score": 0, "why": "slow, dark ambient insert"},
+  "brand_fit": {"score": 1, "why": "curtains moving fits breeze idea but dark purple-tinted night look is off-brand"},
+  "quality": {"score": 1, "issues": ["dark"]},
+  "status": "OK", "status_why": "",
+  "tags": ["curtains swaying at night", "open window breeze", "purple mood light", "floral curtains", "night ambience insert"]
+ }
+]

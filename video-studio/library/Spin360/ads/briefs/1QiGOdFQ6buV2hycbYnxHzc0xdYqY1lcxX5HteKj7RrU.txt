@@ -1,0 +1,352 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_UnAware_NASASleep
+Author: Gabriel
+Editor: Shiv 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_UnAware_NASASleep 
+* Ad Type: Ideation
+* Type of Ad: Unaware VSL / AI VO-led 
+* Sizes Needed: 9x16
+* Voiceover: Female AI  — warm, conversational, intimate-but-confident. Not advertising voice. A friend telling you something she discovered.  
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 Video
+
+
+
+
+
+
+________________
+ 
+[2] Strategy
+Who is this for: 
+
+
+ Primary: Women 35–65, wellness/sleep-conscious, values sensory experience at home, buys premium, not looking for a fan.
+
+
+ Secondary: Men 35–55, practical/curious, enters through the NASA hook and the mechanism, converts through founder credibility.
+
+
+Main Selling Points: Natural breeze, 360 degree airflow, Quiet , scent pods 
+Market Awareness: Unaware 
+Desires: Comfort  
+Angle: NASA sleep discovery 
+ 
+________________
+
+
+[3] Creative Direction
+Watch that first: 2026-05-08 11-06-20.mp42026-05-08 11-24-35.mp4
+
+
+I like this workflow for voiceover even the cinematic idea for we implement in our ad: How I Actually Make AI Voice Sound Real
+NOTE: The editor has creative freedom to interpret these guidelines. This is not a rigid checklist — it's the visual logic of the ad. If you find a better solution that keeps the cinematic level and the narrative, go for it.
+CONTENT reference — this is what we're showing: Chris Hadfield "Sleeping in Space" — real ISS sleep pod footage, astronaut bedtime routine, the actual environment we're recreating. https://www.youtube.com/watch?v=UyFYgeE32f0
+INSTRUCTIONS TO COPY AND PASTE INTO YOUR AI CHAT  FOR YOUR GENERATION:
+All AI-generated images and footage for this ad must be photorealistic and cinematic. If it looks like AI, it doesn't work. The standard is: if someone sees it in their feed, they think a production company spent serious money filming this. It should feel like both a high-budget film and a real documentary at the same time — so polished it looks expensive, so realistic it looks true. That combination is what makes people stop and pay attention. Push for maximum realism — real skin texture, natural lighting, no plastic look, no AI glow.
+Cinema, not PowerPoint. Don't just generate one completely different  image per sentence. Build continuous environments where the story lives. Same space, Same characters, multiple angles, multiple cuts. The environment narrates — not the other way around. If you remove the audio and the viewer still understands what's happening, that's cinema.
+Kuleshov: astronaut's face → CO2 cloud forming → back to face with discomfort expression. The viewer connects cause and effect without needing text to explain it.
+Two visual worlds with their own color. ISS = cold blue, harsh artificial light, claustrophobic. Earth/nature = warm golden, soft light, open. The contrast between the two tells the story before the audio does.
+The ISS → Earth transition needs to be a MOMENT. Not a hard cut. Slow dissolve or match cut — like a close-up of the astronaut's face in the sleep pod dissolves into the woman's face sleeping in her bedroom. Same framing, two worlds.
+
+
+
+
+
+
+ 
+________________
+
+
+[4] Script
+
+Hooks: 
+The most advanced bedroom ever built is floating 250 miles above Earth. And the people inside it can't sleep.
+There's a bedroom that cost 150 billion dollars to build. And the people sleeping in it still can't get through the night.  
+The most advanced machine ever built still can't solve one basic human problem. Sleep. 
+Body:
+The most advanced bedroom ever built is floating 250 miles above Earth. And the people inside it can't sleep.
+
+
+So on the ISS astronauts kept waking up with headaches. Every morning. Foggy, exhausted. Sleeping pills became the second most used drug up there. They tried everything and nothing worked.
+Then one sleep researcher figured it out. In zero gravity air doesn't move. So the CO2 you breathe out just sits there. Right in front of your face. You're literally sleeping in a little cloud of your own breath all night.
+So NASA puts a tiny fan in every sleep pod. Just enough to move air across their face. A little breeze. And that was it. Headaches gone. Sleep got way deeper.
+Now here's where it gets interesting. Back on Earth gravity takes care of the CO2 thing sure. But the air in your bedroom barely moves. Like at all. All night. And your body wasn't designed for that. We were built to sleep outside. In forests. On beaches. Places where the air is always doing something. That's when we sleep the deepest. Always have.
+So someone spent four years trying to figure out how to recreate that. And what they came up with is kind of nuts. It pulls air in from above and below at the same time mixes everything together and pushes it out in every direction. Like Saturn's rings. Same temperature everywhere. Air always moving always fresh. It doesn't blast you it just moves around you.
+And when you feel it — okay this is the part that gets people — it feels like the walls of your room just aren't there anymore. Like your bed is on a beach in Hawaii and there's this perfect breeze coming off the water. You close your eyes and you don't even mean to fall asleep but you just do. And you wake up actually rested. Once you feel it you're kind of hooked honestly.
+Below speed five? Dead silent. Doesn't even show up on a decibel meter. Above five it makes this really beautiful white noise. Not like a regular fan. More like this natural shhhh that just makes everything else disappear. It was made for sleep. That was the whole point.
+Then there's the scent pods which honestly might be my favorite part. You drop one in and like ten seconds later your whole room smells like a forest. Pine cedar eucalyptus. Put citronella in? Bugs gone. It's basically a scent system that happens to also be a fan.
+It was made by the guy who invented the Shark Wheel. Like literally reinvented the wheel. Went on Shark Tank got a deal with Mark Cuban Kevin O'Leary and Nick Woodman. And now he made this. First thousand people get a hundred bucks off. Honestly just go try it. You're gonna be obsessed.
+
+
+ 
+________________
+[5] Shotlist / Storyboard
+
+
+HOOKS
+	HOOK
+	Script
+	Visual
+	Description
+	1
+	The most advanced bedroom ever built is floating 250 miles above Earth
+
+
+  And the people inside it can't sleep.
+	  
+
+  
+
+	Wide ISS in space → camera pushes in → enters station → ends on astronaut's face in sleep pod. One continuous shot, outside to inside.
+
+
+	2
+	The most advanced bedroom ever built is floating 250 miles above Earth
+
+
+  And the people inside it can't sleep.
+	  
+  
+
+
+
+	Starts tight on face, can't tell where he is. Zoom out reveals he's in a phone booth in space. 
+	3
+	The most advanced bedroom ever built is floating 250 miles above Earth
+
+
+  And the people inside it can't sleep.
+	
+
+
+
+  
+  
+  
+
+	First frame on the ground looking up.  And then going up  UNTIL Last frame arriving at ISS. Then hard cut to astronaut close-up. Two scenes. 
+	4
+	There's a bedroom that cost 150 billion dollars to build. And the people sleeping in it still can't get through the night. 
+	  
+  
+
+  
+
+	These ones you can generate better ones. This is the idea that we aim for. 
+	5
+	The most advanced machine ever built still can't solve one basic human problem. Sleep. 
+	
+
+	Here I want you try to make your own idea but always use image 2 from gpt
+	6
+	
+
+	
+
+	
+
+	7
+	
+
+	
+
+	
+
+	8
+	
+
+	
+
+	
+
+	9
+	
+
+	
+
+	
+
+	
+
+BODY
+	Script
+	Visual
+	Description
+	So on the ISS astronauts kept waking up with headaches. Every morning. Foggy, exhausted. Sleeping pills became the second most used drug up there. They tried everything and nothing worked.
+Then this one sleep researcher figured it out. In zero gravity air doesn't move. So the CO2 you breathe out just sits there. Right in front of your face. You're literally sleeping in a little cloud of your own breath all night.
+So NASA puts a tiny fan in every sleep pod. Just enough to move air across their face. A little breeze. And that was it. Headaches gone. Sleep got way deeper.
+Now here's where it gets interesting. Back on Earth gravity takes care of the CO2 thing sure. But the air in your bedroom barely moves. Like at all. All night. And your body wasn't designed for that. We were built to sleep outside. In forests. On beaches. Places where the air is always doing something. That's when we sleep the deepest. Always have.
+
+
+	
+
+	Basically here I want you to go through GPT and to generate images for using AI based on that idea that I sent you. 
+
+
+	So someone spent four years trying to figure out how to recreate that. And what they came up with is kind of nuts. It pulls air in from above and below at the same time mixes everything together and pushes it out in every direction. Like Saturn's rings. Same temperature everywhere. Air always moving always fresh. It doesn't blast you it just moves around you.
+And when you feel it — okay this is the part that gets people — it feels like the walls of your room just aren't there anymore. Like your bed is on a beach in Hawaii and there's this perfect breeze coming off the water. You close your eyes and you don't even mean to fall asleep but you just do. And you wake up actually rested. Once you feel it you're kind of hooked honestly.
+Below speed five? Dead silent. Doesn't even show up on a decibel meter. Above five it makes this really beautiful white noise. Not like a regular fan. More like this natural shhhh that just makes everything else disappear. It was made for sleep. That was the whole point.
+Then there's the scent pods which honestly might be my favorite part. You drop one in and like ten seconds later your whole room smells like a forest. Pine cedar eucalyptus. Put citronella in? Bugs gone. It's basically a scent system that happens to also be a fan.
+It was made by the guy who invented the Shark Wheel. Like literally reinvented the wheel. Went on Shark Tank got a deal with Mark Cuban Kevin O'Leary and Nick Woodman. And now he made this. First thousand people get a hundred bucks off. Honestly just go try it. You're gonna be obsessed.
+	
+
+	And then here you're going to use the shots of the product and B-ROLLS
+
+
+Don't need to be too crazy to show the product. We need to match what is the idea of the voice that is saying.
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	[7] Editing Rules
+* Color grading: ISS = cold blue. Nature/bedroom = warm golden. Consistent throughout.
+* Each visual clip MUST complement the audio. Never disconnect visual from what's being said.
+* Add captions for entire video
+* Editor must add sound design
+* Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+
+
+ 
+________________
+
+
+[8] Deliverables
+• Versions: 5 total (one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels),
+• File Naming Convention: Spin360_UnAware_NASASleep_HOOK1, Spin360_UnAware_NASASleep_HOOK2, etc.
+• Upload Location: Creative Roadmap
+
+
+
+
+Feedback nasa+ brief new ad.mp4 
+Notes that i say in the video.mp4 
+Files used 
+Notes that i say in the video.mp4

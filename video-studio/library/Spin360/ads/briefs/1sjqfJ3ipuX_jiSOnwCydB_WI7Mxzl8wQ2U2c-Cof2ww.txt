@@ -1,0 +1,299 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_FanFromFuture_David 
+Author: Chris
+Editor: 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_FanFromFuture_David_Hook_1
+* Ad Type: Iteration
+* Type of Ad: Dramatic Hook 
+* Sizes Needed: 9x16
+* Voiceover: Man (35-65) - Confident Calm  
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+
+
+
+
+________________
+ 
+[2] Direction
+* EDIT TO THIS STRING OUT [LINK] 
+* Example Ad:
+   * https://drive.google.com/file/d/1SDK0Krp3vzFqWxK-bFAvflNSAVqaQnNy/view?usp=sharing
+
+
+________________
+ 
+[3] Strategy
+Who is this for [Avatar]: 
+Main Selling Points: 360 degree airflow, feels like a natural breeze, sleep, scent pods 
+Market Awareness: Product Aware
+Desires: Health  
+Angle: 
+ 
+________________
+
+
+[4] Creative Direction
+
+
+Stringout 
+* The string out (storyline) has been edited. Complete the video by adding the correct clips, sound effects and graphics. 
+* I’ve given general direction on clips I want in the Scripting Section, it’s your job to fill in the rest. 
+* Taken Inspiration from Shiv 7.1 
+
+
+Angle: 
+* Good Storytelling -> You need to convince people about bad air quality and that the fan is the solution. 
+* Key Points 
+   * 360 Airflow 
+   * Mixes Hot + Cold air for one temperature 
+   * Doesn’t create a harmonic 
+   * Super quiet 
+   * Great Sleeping 
+VIBE
+* Calm, Smooth and Interesting. A lot of these edits lately have been too fast. 
+
+
+HOOKS: 
+* I want this type of text on screen for the hook. 
+*      * The effect is likely a drop shadow / glow on the text. 
+   * Animate them, smooth and concise. 
+
+
+
+
+ 
+________________
+
+
+[5] Script
+
+
+
+ 
+________________
+[6] Shotlist / Storyboard
+
+
+HOOKS
+	HOOK
+	Script
+	Visual
+	Description
+	1
+	“This fan is from the future”
+	  
+
+	Use the clip of David talking that is already in the stringout. 
+	2
+	
+
+	  
+
+	Holding Fan Blade, Cut’s to David Laughing. 
+
+Fan Blade Clip is in Hooks Folder. 
+	3
+	
+
+	  
+
+	Woman Resting On Fan 
+	4
+	
+
+	  
+
+	Holding Fan Blade (different angle), Cut’s to David Laughing. 
+
+Fan Blade Clip is in Hooks Folder. 
+	5
+	
+
+	  
+
+	Hands near fan 
+Location: Utah April ‘26 Selects 
+	6
+	
+
+	  
+
+	Fan Changing Sizes 
+Location: Utah April ‘26 Hooks
+	7
+	
+
+	  
+
+	Man spraying clip
+Location: Utah April ‘26 Hooks 
+	
+
+	
+
+	
+
+	
+
+	 
+BODY
+	Script
+	Visual
+	Description
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	0:25 
+	  
+
+	Shot of David working on his invention 
+	0:30 
+	
+
+	Relaxing Breeze sequence, not just one random clip. 
+	0:37 - 0:47 
+	
+
+	Strong Sequence of Showing 
+
+   1. Traditional Fans Only Blow In One Direction 
+   2. Harmonic (can we create another AI clip that is 9x16?) 
+   3. People disliking harmonic / looking stressed. 
+	0:50-56 
+	  
+
+	Incorporate the Decibel Test videos
+You’ll probably need to be creative with some animations so people can see the numbers.  
+
+
+	
+
+	
+
+	
+
+	0:57 
+“That wonderful pure shhhh”
+	
+
+	Show very relaxing shots of people near fan, sleeping, relaxing. Show how comforting it is. 
+	1:15
+“And people they’re loving it”  
+	
+
+	Show review screenshots, slowly so they can read them” 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	   * 	
+
+	
+
+	   * 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	 
+________________
+
+
+[7] Editing Rules
+   * First 3 seconds must be FAST (no pauses)
+   * No dead air in video—unless it's intentional
+   * No clip longer than 2 seconds in first 10 seconds
+   * Add captions for entire video
+   * Each visual clip MUST complement the audio to help the audience understand what is happening
+   * Editor must add sound design
+   * Use Speed Ramps when needed and Add Blur
+   * The mixing demo should be HIGH QUALITY and clearly visible—this is the hero visual
+   * Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+   * Lifestyle shots should target middle-aged/older women—avoid young, overly trendy aesthetics
+
+
+ 
+________________
+
+
+[8] Deliverables
+• Versions: 7 total (V1-V7, one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels), 4:5 (Feed)
+• File Naming Convention: Spin360_AirMixing_Woman_V1_HOOK1, Spin360_AirMixing_Woman_V1_HOOK2, etc.
+• Upload Location: Creative Roadmap

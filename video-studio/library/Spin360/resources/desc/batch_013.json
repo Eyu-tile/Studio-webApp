@@ -1,0 +1,827 @@
+{
+ "batch": "batch_013",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_013.out.json",
+ "clips": [
+  {
+   "id": "70e8e4a6-1cf5-45a2-be57-b185e258f60f",
+   "filename": "hf_20260613_211047_d86f71e6-8439-47da-aec3-0ba548af8d45 (3).mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.07,
+   "talking": false,
+   "cuts": [
+    3.92,
+    8.71,
+    11.88
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/70e8e4a6-1cf5-45a2-be57-b185e258f60f_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/70e8e4a6-1cf5-45a2-be57-b185e258f60f_2.jpg"
+   ],
+   "bya_description": "A hand points to a white circular fan on a nightstand.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Creator narration",
+    "Bedroom",
+    "Curtains & windows",
+    "Feeling the breeze"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I thought this was just a fan, but it feels like I brought Hawaii into my bedroom.",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 3.3,
+     "text": "I don't know exactly what they did, but the air feels softer, like a real breeze moving through the room.",
+     "labels": [
+      "Creator narration",
+      "Feeling the breeze",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 8.5,
+     "text": "It doesn't blast your face, it just makes the whole bedroom feel cooler and fresher.",
+     "labels": [
+      "Curtains & windows",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 12.5,
+     "text": "Honestly, I fall asleep so much faster with this thing on.",
+     "labels": [
+      "Sleep benefit",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d1aafac6-a18e-43a7-8fef-c0401ade2d35",
+   "filename": "hf_20260613_212639_6a0823a7-10ef-4b27-919e-a89009681837.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.09,
+   "talking": false,
+   "cuts": [
+    4.25,
+    7.96,
+    12.08
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d1aafac6-a18e-43a7-8fef-c0401ade2d35_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d1aafac6-a18e-43a7-8fef-c0401ade2d35_2.jpg"
+   ],
+   "bya_description": "A woman in plaid pajamas walks into a bedroom and looks surprised at a white cylindrical fan on a nightstand.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Curtains & windows",
+    "Bedroom",
+    "Curtains & windows",
+    "Feeling the breeze"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I thought this was just a fan, but it feels like I brought Hawaii into my bedroom.",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 4.2,
+     "text": "I don't know exactly what they did, but the air feels softer, like a real breeze moving through the room.",
+     "labels": [
+      "Feeling the breeze",
+      "Curtains & windows"
+     ]
+    },
+    {
+     "start": 8.2,
+     "text": "It doesn't blast your face, it just makes the whole bedroom feel cooler and fresher. Honestly, I fall asleep so much faster with this thing on.",
+     "labels": [
+      "Sleep benefit",
+      "Product hero shot",
+      "Bedroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f48b4dc2-346a-4c16-a3ba-01707d887c53",
+   "filename": "hf_20260614_235642_c2ae73b1-3bc9-4604-ac83-a96a0d135f06 (2).mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.07,
+   "talking": false,
+   "cuts": [
+    9.71,
+    12.46
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f48b4dc2-346a-4c16-a3ba-01707d887c53_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f48b4dc2-346a-4c16-a3ba-01707d887c53_2.jpg"
+   ],
+   "bya_description": "A hand opens a door to a bedroom where a white pedestal fan with a blue light stands near a bed.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Creator narration",
+    "Bedroom",
+    "Feeling the breeze"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "Okay, I honestly wasn't expecting this. I thought it was just another fan, but this thing makes the entire room feel cooler. And look",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 4.5,
+     "text": "at this, the fan doesn't even rotate, it stays completely still, but somehow the air spreads throughout the whole room instead of just blowing in one direction. So you feel that cool fresh air everywhere, not just direct",
+     "labels": [
+      "Mechanism explainer",
+      "Feeling the breeze",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 12.2,
+     "text": "of the fan. Honestly, it's the closest thing to air conditioning I've ever felt from a fan.",
+     "labels": [
+      "Bedroom",
+      "Product hero shot"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "75b973e1-af53-4a28-834d-80e3831e69cf",
+   "filename": "hf_20260615_002951_bbc3828a-de22-47ff-9f36-7ea659de2603.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.07,
+   "talking": false,
+   "cuts": [
+    3.79,
+    12.38
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/75b973e1-af53-4a28-834d-80e3831e69cf_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/75b973e1-af53-4a28-834d-80e3831e69cf_2.jpg"
+   ],
+   "bya_description": "A hand points toward a white pedestal fan in a bedroom. The camera moves closer to the device, which features a glowing blue light.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Product hero shot",
+    "Bedroom",
+    "Feeling the breeze"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I thought this was just a fan, but it feels like I brought Hawaii into my bedroom.",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 3.2,
+     "text": "I don't know exactly what they did, but the air feels softer, like a real breeze moving through the room. It doesn't blast your face, it just makes the whole bedroom",
+     "labels": [
+      "Creator narration",
+      "Feeling the breeze",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 11.1,
+     "text": "feel cooler and fresher. Honestly, I fall asleep so much faster with this thing on.",
+     "labels": [
+      "Creator narration",
+      "Sleep benefit",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5fd9c43-50bf-41ea-86c2-20de19863617",
+   "filename": "hf_20260615_020141_e960387e-a8d4-4212-a9c0-46769877ddda.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d5fd9c43-50bf-41ea-86c2-20de19863617_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d5fd9c43-50bf-41ea-86c2-20de19863617_2.jpg"
+   ],
+   "bya_description": "A person walks through a doorway into a bedroom where a white circular fan is positioned on a small wooden stool.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Feeling the breeze",
+    "Bedroom",
+    "Feeling the breeze"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I thought this was just a fan, but it feels like I brought Hawaii into my bedroom.",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 3.4,
+     "text": "I don't know exactly what they did, but the air feels softer, like a real breeze moving through the room. It doesn't blast your face,",
+     "labels": [
+      "Creator narration",
+      "Bedroom",
+      "Feeling the breeze"
+     ]
+    },
+    {
+     "start": 9.3,
+     "text": "it just makes the whole bedroom feel cooler and fresher. Honestly, I fall asleep so much faster with this thing on.",
+     "labels": [
+      "Creator narration",
+      "Sleep benefit",
+      "Bedroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "48b9c190-4f7e-401d-8f8b-25b84657c111",
+   "filename": "hf_20260615_021211_3ab65870-8d98-4eae-a477-04e0f3637384 (3)(1).mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.09,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/48b9c190-4f7e-401d-8f8b-25b84657c111_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/48b9c190-4f7e-401d-8f8b-25b84657c111_2.jpg"
+   ],
+   "bya_description": "A hand points toward a white pedestal fan standing in a bedroom next to a large potted plant and a bed.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Product hero shot",
+    "Bedroom",
+    "Fan spinning close-up"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I thought this was just a fan, but it feels like I brought Hawaii into my bedroom.",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 3.3,
+     "text": "I don't know exactly what they did, but the air feels softer, like a real breeze moving through the room. It doesn't blast your face, it just makes the whole bedroom feel cooler and fresher.",
+     "labels": [
+      "Creator narration",
+      "Mechanism explainer",
+      "Bedroom",
+      "Fan spinning close-up"
+     ]
+    },
+    {
+     "start": 10.9,
+     "text": "Honestly, I fall asleep so much faster with this thing on.",
+     "labels": [
+      "Sleep benefit",
+      "Creator narration",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b013ea5c-f6b5-403e-a1a7-b083f4db0c26",
+   "filename": "hf_20260615_021211_3ab65870-8d98-4eae-a477-04e0f3637384 (3).mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.09,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b013ea5c-f6b5-403e-a1a7-b083f4db0c26_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b013ea5c-f6b5-403e-a1a7-b083f4db0c26_2.jpg"
+   ],
+   "bya_description": "A hand points toward a white pedestal fan in a bedroom. The camera moves closer to the device.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Feeling the breeze",
+    "Bedroom",
+    "Feeling the breeze"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I thought this was just a fan, but it feels like I brought Hawaii into my bedroom.",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 3.3,
+     "text": "I don't know exactly what they did, but the air feels softer, like a real breeze moving through the room. It doesn't blast your face, it just makes the whole bedroom feel cooler and fresher.",
+     "labels": [
+      "Creator narration",
+      "Feeling the breeze",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 10.9,
+     "text": "Honestly, I fall asleep so much faster with this thing on.",
+     "labels": [
+      "Sleep benefit",
+      "Creator narration",
+      "Bedroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "24acae00-9d9a-4d0d-b2da-e36b6e2f9855",
+   "filename": "hf_20260620_232640_337e6408-d95f-4c2d-8109-eb70604f6ee3.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 14.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/24acae00-9d9a-4d0d-b2da-e36b6e2f9855_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/24acae00-9d9a-4d0d-b2da-e36b6e2f9855_2.jpg"
+   ],
+   "bya_description": "A white pedestal fan with a glowing blue light ring stands in a dimly lit nursery. A wooden baby crib is visible in the background.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Fan controls",
+    "Bedroom",
+    "Fan controls",
+    "Turning fan on"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "5 reasons moms won't do baby bedtime without this fan anymore.",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Product hero shot",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 5.5,
+     "text": "5 reasons moms are loving this fan for their babies.",
+     "labels": [
+      "Sleep benefit",
+      "Creator narration",
+      "Product hero shot",
+      "Bedroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9f45676a-4cd5-4613-99aa-d7bcd77d03f9",
+   "filename": "hf_20260621_230031_6d557362-d3fc-4878-b231-eb1438c829e8.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.09,
+   "talking": false,
+   "cuts": [
+    11.46
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9f45676a-4cd5-4613-99aa-d7bcd77d03f9_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9f45676a-4cd5-4613-99aa-d7bcd77d03f9_2.jpg"
+   ],
+   "bya_description": "White pedestal fan in bedroom; zoom on clear ribbed head.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Feeling the breeze",
+    "Bedroom",
+    "Feeling the breeze"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I thought this was just a fan, but it feels like I brought Hawaii into my bedroom.",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Product hero shot",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 3.3,
+     "text": "I don't know exactly what they did, but the air feels softer, like a real breeze moving through the room.",
+     "labels": [
+      "Creator narration",
+      "Feeling the breeze",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 7.6,
+     "text": "It doesn't blast your face, it just makes the whole bedroom feel cooler and fresher.",
+     "labels": [
+      "Creator narration",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 11.3,
+     "text": "Honestly, I fall asleep so much faster with this thing on.",
+     "labels": [
+      "Sleep benefit",
+      "Creator narration",
+      "Bedroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f58cddd3-c881-4f6f-89a9-1656586c3d32",
+   "filename": "hf_20260621_231128_9ec07dad-3562-4835-a5dd-c1b8b8ff9b45.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.09,
+   "talking": false,
+   "cuts": [
+    3.38,
+    8.42
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f58cddd3-c881-4f6f-89a9-1656586c3d32_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f58cddd3-c881-4f6f-89a9-1656586c3d32_2.jpg"
+   ],
+   "bya_description": "A white pedestal fan with a blue light ring stands in a bedroom next to a bed and a palm plant.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Feeling the breeze",
+    "Bedroom",
+    "Feeling the breeze"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I thought this was just a fan, but it feels like I brought Hawaii into my bedroom.",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 3.3,
+     "text": "I don't know exactly what they did, but the air feels softer, like a real breeze moving through the room.",
+     "labels": [
+      "Feeling the breeze",
+      "Creator narration",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 8.2,
+     "text": "It doesn't blast your face, it just makes the whole bedroom feel cooler and fresher. Honestly, I fall asleep so much faster with this thing on.",
+     "labels": [
+      "Sleep benefit",
+      "Creator narration",
+      "Bedroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dfd60f32-ec69-4492-a203-6e8dee0c0b90",
+   "filename": "hf_20260621_231630_fc603439-6bd4-4525-a327-6b0e52ee137e.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.07,
+   "talking": false,
+   "cuts": [
+    3.79,
+    8.75
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/dfd60f32-ec69-4492-a203-6e8dee0c0b90_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/dfd60f32-ec69-4492-a203-6e8dee0c0b90_2.jpg"
+   ],
+   "bya_description": "Close-up of a white fan with a blue light in a bedroom.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Feeling the breeze",
+    "Bedroom",
+    "Feeling the breeze"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I thought this was just a fan, but it feels like I brought Hawaii into my bedroom.",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Product hero shot",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 3.2,
+     "text": "I don't know exactly what they did, but the air feels softer, like a real breeze moving through the room.",
+     "labels": [
+      "Feeling the breeze",
+      "Creator narration",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 8.8,
+     "text": "It doesn't blast your face, it just makes the whole bedroom feel cooler and fresher. Honestly, I fall asleep so much faster with this thing on.",
+     "labels": [
+      "Sleep benefit",
+      "Creator narration",
+      "Bedroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9fb0aad3-d399-4ab2-8999-a838d915352f",
+   "filename": "hf_20260621_233710_348516c0-7ee9-4359-84b3-72eea025a216.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.07,
+   "talking": false,
+   "cuts": [
+    4.04,
+    8.92,
+    10.29
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9fb0aad3-d399-4ab2-8999-a838d915352f_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9fb0aad3-d399-4ab2-8999-a838d915352f_2.jpg"
+   ],
+   "bya_description": "Black floor fan stands in a bedroom beside a white bed.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Feeling the breeze",
+    "Bedroom",
+    "Feeling the breeze"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I thought this was just a fan, but it feels like I brought Hawaii into my bedroom.",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 3.4,
+     "text": "I don't know exactly what they did, but the air feels softer, like a real breeze moving through the room. It doesn't blast your face, it just makes the whole bedroom feel cooler and fresher.",
+     "labels": [
+      "Feeling the breeze",
+      "Creator narration",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 11.2,
+     "text": "Honestly, I fall asleep so much faster with this thing on.",
+     "labels": [
+      "Sleep benefit",
+      "Creator narration",
+      "Bedroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a3676b0c-2c6e-4a5a-ae96-ab7719c9fc42",
+   "filename": "hf_20260626_162115_ab5401fe-7f72-458d-b66f-f8832e33751f (1).mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.07,
+   "talking": false,
+   "cuts": [
+    3.71,
+    8.21,
+    11.21,
+    12.92
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a3676b0c-2c6e-4a5a-ae96-ab7719c9fc42_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a3676b0c-2c6e-4a5a-ae96-ab7719c9fc42_2.jpg"
+   ],
+   "bya_description": "Wide shot of a baby sleeping on a bed next to a white fan in a bright room.",
+   "bya_tags": [
+    "Sleeping",
+    "Bedroom",
+    "Fan spinning close-up",
+    "Bedroom",
+    "Fan spinning close-up",
+    "Sleeping",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "b0e89018-7f54-406f-99ba-e2c3c501bf1a",
+   "filename": "hf_20260704_000805_fd056209-7867-41cf-a91e-5babcdee216c (1).mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b0e89018-7f54-406f-99ba-e2c3c501bf1a_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b0e89018-7f54-406f-99ba-e2c3c501bf1a_2.jpg"
+   ],
+   "bya_description": "A white pedestal fan with a blue light ring oscillates in a bedroom while a woman sleeps.",
+   "bya_tags": [
+    "Bedroom",
+    "Sleeping",
+    "Fan controls",
+    "Bedroom",
+    "Fan controls",
+    "Sleeping"
+   ]
+  },
+  {
+   "id": "a77bf1ee-4fec-464b-972e-b68d94ecef43",
+   "filename": "hf_20260704_184840_1483aee3-b9e8-42e6-bc22-340f469f44d4.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 15.09,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a77bf1ee-4fec-464b-972e-b68d94ecef43_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a77bf1ee-4fec-464b-972e-b68d94ecef43_2.jpg"
+   ],
+   "bya_description": "A baby in a beige onesie stands near a white tower fan. The child's hair blows in the breeze as they look up at the device.",
+   "bya_tags": [
+    "Feeling the breeze",
+    "Living room",
+    "Feeling the breeze",
+    "Living room"
+   ]
+  },
+  {
+   "id": "90e6a13b-a6ce-46d6-986b-bdbbd31ea0d2",
+   "filename": "IMG_3778.mov",
+   "folder": "(unfiled)",
+   "duration_s": 16.68,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/90e6a13b-a6ce-46d6-986b-bdbbd31ea0d2_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/90e6a13b-a6ce-46d6-986b-bdbbd31ea0d2_2.jpg"
+   ],
+   "bya_description": "A black bug zapper stands on a patio. A person in blue sits in the background.",
+   "bya_tags": [
+    "Bug repellent beat",
+    "Patio evening",
+    "Product hero shot",
+    "Patio evening"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "No, you're not. With my\u2014 you're not. I'm not in it.",
+     "labels": [
+      "Product hero shot",
+      "Patio evening",
+      "Bug repellent beat"
+     ]
+    },
+    {
+     "start": 6.2,
+     "text": "Is it okay if you're blurry in it? Um, well, I'm not with this skateboard. My best. I have to look my best.",
+     "labels": [
+      "Product hero shot",
+      "Patio evening",
+      "Bug repellent beat"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1653c205-b439-4a7f-bdd7-3c6a3b706ae2",
+   "filename": "IMG_3780.mov",
+   "folder": "(unfiled)",
+   "duration_s": 14.81,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1653c205-b439-4a7f-bdd7-3c6a3b706ae2_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1653c205-b439-4a7f-bdd7-3c6a3b706ae2_2.jpg"
+   ],
+   "bya_description": "A senior man sits at a wooden table looking at a fan in the background.",
+   "bya_tags": [
+    "Living room",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "You're\u2014 I'm only looking at the fan. Good.",
+     "labels": [
+      "Relaxing at home",
+      "Living room"
+     ]
+    },
+    {
+     "start": 7.7,
+     "text": "That's the fan. Is, is the, the, the, the star of the show.",
+     "labels": [
+      "Relaxing at home",
+      "Living room"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b88da5bf-428b-4797-9fd8-966274781a3b",
+   "filename": "IMG_3781.mov",
+   "folder": "(unfiled)",
+   "duration_s": 17.47,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b88da5bf-428b-4797-9fd8-966274781a3b_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b88da5bf-428b-4797-9fd8-966274781a3b_2.jpg"
+   ],
+   "bya_description": "A senior man and woman sit at a wooden table in a rustic kitchen. A black pedestal fan stands in the background.",
+   "bya_tags": [
+    "Gathering around",
+    "Relaxing at home",
+    "Creator narration",
+    "Gathering around",
+    "Relaxing at home"
+   ],
+   "transcript": [
+    {
+     "start": 4.4,
+     "text": "I would think one with the fan going, if the two of us crashed out on the couches, that could be\u2014 that would be a really good shot.",
+     "labels": [
+      "Relaxing at home",
+      "Gathering around",
+      "Creator narration"
+     ]
+    },
+    {
+     "start": 11.0,
+     "text": "And Lily's there. Oh, look at that, we can have Lily in the shot too.",
+     "labels": [
+      "Relaxing at home",
+      "Gathering around",
+      "Creator narration"
+     ]
+    }
+   ]
+  }
+ ]
+}

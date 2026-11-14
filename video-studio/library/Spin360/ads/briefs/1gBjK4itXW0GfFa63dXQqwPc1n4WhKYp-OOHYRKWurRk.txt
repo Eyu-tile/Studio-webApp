@@ -1,0 +1,133 @@
+﻿Spin360_DrillHook_PrototypeTest
+
+
+Brief - Spin360_DrillHook_PrototypeTest.mp4
+3 ads, one edit. Same body in all three; only the hook (full screen, first seconds) changes. The body is a voice-over string-out of David: real lines cut from the Comments/QA shoot, plus 3 short lines made with AI (his voice only, over B-roll, no lip-sync needed).
+	
+
+Inspiration, not a rulebook. Watch the reference ad first: Same idea (David's voice explaining the mechanism and the proof, short and direct), but we don't show comments. The visual ideas below are suggestions. Use your judgment.
+	Strategy
+# Element
+	Answer
+	Desire
+	"I want to sleep like I used to." He wants his bedroom to finally feel right at night: fresh air, no stuffiness, no fan blasting his face, so he and his wife sleep through and both wake up rested. Underneath: being the guy who found the smart fix for the house, not another gadget.
+	Avatar
+	Men 45–65, homeowners, buying for the bedroom they share with their wife (real buyers: "Got my wife one. She loves it", "I have two… so perfect in the bedroom"). They like knowing how things work and are skeptical of gadgets and price ("pricey, but… worth it"). Behavior: they keep throwing fans at the problem (a box fan pointed at the bed, the ceiling fan, the AC, even "four fans surrounding our bed") and the room still feels stuffy or uneven. Belief to respect: "a fan is a fan, it just blows air at you."
+	Angle
+	Proof it works: three thermometers, top 78° and bottom 71°; with Spin360 on, all three read 73°. One temperature with a real breeze, so the bedroom finally feels like outside, at the temperature of your own home.
+	Mechanism
+	New mechanism (patented with all claims): you don't point it at you, you point it up. It pulls air in from the top and the bottom and blows it out 360°, so ceiling air and floor air mix into one temperature with a gentle breeze. Transparency: the first prototype "was garbage" until they found this.
+	Proof
+	Falsifiable proof (can be checked): David's real temperature test, 78° at the top and 71° at the bottom, then 73° on all three gauges, plus the patent granted with all claims.
+	Authority
+	Title + transparency: the founder who reinvented the wheel on Shark Tank, the patent with all claims, and honesty about the prototype that failed. Shown before the pitch.
+	Awareness
+	Hook: Unaware (pattern interrupt, no product). Body takes him from "my bedroom just feels off" (Problem Aware) to "a fan built differently fixes it" (Solution Aware). The fan market is sophisticated (stage 3–4), so his objection is "how is yours different?" and the mechanism and the 3-gauge proof carry the ad.
+	Emotion
+	Curiosity (what is this guy doing?) → "that's clever" (he feels like the smart buyer who gets the engineering) → conviction (the numbers) → calm (sleeping outside, at home temperature).
+	Format
+	Voice-over string-out of David from the Comments/QA shoot, like our "Founder reacts to comments" ad (reference below), but we do NOT show or read comments. Mostly full-screen B-roll with his voice; David on screen when it helps.
+	Hooks
+	3 drill hooks in realistic public places (another city street, a stadium tailgate, a street fair), filmed like a stranger caught it on their phone.
+	Offer
+	Risk reversal: 30 nights to try it. If you don't love it, send it back. No fake scarcity.
+	Production brief
+Format: vertical 9:16, about 1:45. Hook full screen. Then mostly full-screen B-roll with David's voice over it; show David on screen (from the same file) when there is no better visual.
+Source file (real lines): 
+Stringout_Spin260_Comments-QA_Vertical.mp4
+AI lines: the orange rows are lines David never said. Make them with his voice (clone from this file) and put them over B-roll, so no lip-sync is needed.
+Prototype footage: Spin360 prototypes folder (photos and videos 2021–2023).
+Other B-roll reference: our winning David ad (https://www.facebook.com/100081148531982/posts/999154579466151/) for the Shark Tank, airflow, temperature and walls-opening shots.
+Captions: white, a few words at a time, lower third.
+Visual hooks (3 ads)
+Full screen, real sound. In all 3 the smoke or steam is already part of the place and there are real people around, so it feels like something that really happened and someone filmed it. Same on-screen text on all three. David's voice starts on the last second of the hook.
+Ad
+	Visual Inspiration
+	Scene description
+	Hook 1 · City sidewalk (day)
+Spin360_DrillHook_PrototypeTest_Hook1
+	  
+
+	To generate (Seedance). Same idea as our New York hook (Hook4_NYC_Sidewalk.mp4), but another city and in daylight: a busy downtown sidewalk, steam coming out of a street steam pipe. David spins the drill next to it and the steam gets pulled into the blade. Pedestrians with coffee slow down and look. Filmed by a passerby. Must look real and organic: like a stranger saw this in public and filmed it on their phone. Handheld, imperfect framing, real people around reacting naturally, real background. Crazy and real at the same time, never AI-looking. On-screen text (same in all 3): what is this guy doing 😂 (upper third, first 3 s).
+	Hook 2 · Stadium tailgate
+Spin360_DrillHook_PrototypeTest_Hook2
+	  
+
+	To generate (Seedance). Stadium parking lot before a game: trucks with tailgates down, tents, coolers, people in jerseys. Smoke from a charcoal grill gets pulled sideways into the blade. The guys around the grill laugh, point and film. Filmed by a friend in the group. No team logos. Must look real and organic: like a stranger saw this in public and filmed it on their phone. Handheld, imperfect framing, real people around reacting naturally, real background. Crazy and real at the same time, never AI-looking. On-screen text (same in all 3): what is this guy doing 😂 (upper third, first 3 s).
+	Hook 3 · Street fair
+Spin360_DrillHook_PrototypeTest_Hook3
+	  
+
+	To generate (Seedance). Small-town street fair in daytime: a kettle corn stand with a big steaming kettle and a line of people. The steam and smoke from the kettle get pulled into the blade; the vendor stops stirring and stares, people in line laugh. Filmed by someone in the line. Must look real and organic: like a stranger saw this in public and filmed it on their phone. Handheld, imperfect framing, real people around reacting naturally, real background. Crazy and real at the same time, never AI-looking. On-screen text (same in all 3): what is this guy doing 😂 (upper third, first 3 s).
+	Body (same in all 3 ads)
+Section
+	David says (source)
+	Visual Inspiration
+	Visual idea
+	Emotion
+	Inventor
+	REAL 00:12:31–00:12:42
+So I'm an inventor, and I'm an inventor who's really good at finding the use case for something that somebody would have thrown away.
+	  
+
+  
+
+	Cut from the hook (blade still pulling the smoke) to David on Shark Tank with the wheel (Spin360_LiveLonger_HOOK_6.mp4 01:24–01:32), then the Shark Wheel rolling.
+	Curiosity
+	Prototype
+	REAL 00:12:42–00:12:58
+Personally, when we first tried our fan, it was garbage. It was like, this is the worst fan in the world. We didn't understand what it was doing. And then when we found its use case, we were like, oh wait a minute, you don't point it at you, you point it up in the air, and it sucks and blows out a totally different way.
+	  
+
+  
+
+  
+
+  
+
+	Real prototype shots from this folder (photos + videos from 2021–2023: first blades, cardboard cages, 3D prints, early cages). Your pick, fast cuts. There are also videos there (e.g. 20210919_115439.mp4, 20210919_115512.mp4, 20211020_113348.mp4): use them if they show the prototypes spinning. On "point it up in the air… sucks and blows out": airflow animation or smoke being pulled into the real Spin360 from the top and the bottom and pushed out 360°.
+	Intrigue
+	Patent
+	REAL 00:13:24–00:13:33 + 00:13:37–00:13:43
+I find that absolutely shocking that something as simple as taking what people are fanning themselves with and spinning it in a circle… That's all I did. It's like the most obvious thing, and yet I was granted the patent with all claims.
+	  
+
+  
+
+	Someone fanning themselves with a magazine, then a simple graphic of that same motion turning into a circle (the blade spinning). On "patent": close-up of the patent document or "U.S. Patent" text. Cut in the middle (skip 00:13:33–00:13:37).
+	Wow
+	Atmosphere
+	REAL 00:23:12–00:23:31 
+As you use this, you start to realize that it's giving you this quality of a breeze and an atmosphere that you positively are not going to get from a fan. I am not a wah-wah-wah fan. I am an air circulator. I am a breeze maker. That's what I do. I'm outdoors brought indoors.
+	  
+
+	A calm bedroom at night with the Spin360 on, a sheer curtain and a plant moving gently. On "outdoors brought indoors": the room softly fades into an outdoor scene.
+	Calm
+	The test
+	REAL 00:20:41–00:21:04
+If you put a temperature gauge high, a temperature gauge in the middle and a temperature gauge low, the bottom one will read the coldest, the highest one will read the highest. In a real example that we've already done, the high temperature was 78, the low temperature was 71. When they turned the fan on, all three gauges went to 73. All three. So top, middle and high were all the exact same temperature.
+	  
+
+	The proof, make it clear: three thermometers on a bedroom wall (high, middle, low) reading 78° / 75° / 71°. Spin360 turns on (already in frame) and all three roll to 73°. Can be combined with a heat map: red at the ceiling, blue at the floor, everything turning one even color.
+	Proof
+	One temperature
+	AI · voice only
+So now the whole room is one temperature, and you've got this gentle breeze moving across you. It's like sleeping outside, but at the temperature of your own home.
+	  
+
+	Person asleep in bed, the Spin360 on; the bedroom walls slowly lift away to trees and the night sky, the bed stays cozy and warm.
+	Wonder
+	Sleep
+	AI · voice only
+I sleep with it every single night. I wake up and I go, wow, I actually slept.
+	
+
+	Morning light, someone waking up rested next to the Spin360. Or David on screen if you prefer.
+	Relief
+	CTA
+	AI · voice only
+So try it for 30 nights. If you don't love it, just send it back. That's how sure I am.
+	
+
+	Product hero shot. End card: Try it for 30 nights.
+	Safe, no risk

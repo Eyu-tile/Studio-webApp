@@ -1,0 +1,116 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_AtFirst_ButThen_V2_Female
+Author: Chris
+Editor: Haseeb
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID:Spin360_AtFirst_ButThen_V2_Female
+* Ad Type: Iteration
+* Type of Ad: UGC Style
+* Sizes Needed: 9x16, 4x5
+* Voiceover: David - Stringout 
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 LA ‘26 - David Talking 
+________________
+ 
+[3] DIRECTION
+We're recreating the "At First, But Then" V1 video with a female voiceover.
+
+
+This video should feel platform-native and easy to understand.
+
+Message Chris if you have questions.
+
+
+Directions: 
+1. Create AI-generated voice over using this voice.
+   1. Send voice over to Chris before you start editing.
+2. Edit the new video to the script, focusing more on images of women.
+3. Edit four different hooks based on the visuals provided
+   1. You'll need to regenerate Hook 1 using AI.
+4. Choose correct music, add text on screen, and CTA at the end.
+
+
+ 
+ 
+________________
+[3] SCRIPT
+At first I was like, wait — a fan that spreads air in all directions?
+But then I realized I almost made a big mistake.
+And it's not because it was designed by a Shark Tank inventor. 
+
+Or because it actually circulates the air and makes my AC work more efficiently. 
+
+It's also not because it runs so quietly on low, and then gives you a soothing white noise on high. 
+
+And it's honestly not even the scent pod you can drop in — though that's become my favorite part.
+I almost made a mistake because I nearly paid $299 for this. It's currently $189 — that's over a hundred dollars off. I don't know how long that lasts, so if you still see a link down here, I'd grab it sooner rather than later.
+
+
+________________
+
+
+[8] Shotlist / Storyboard
+
+
+HOOKS
+	#
+	Script 
+	Visual 
+	Description 
+	1
+	At first I was like, wait — a fan that spreads air in all directions?
+
+
+	  
+
+	We create this shot with the woman from the April Utah Selects videos.
+
+
+Apil '26 Utah
+
+
+	2
+	At first I was like, wait — a fan that spreads air in all directions?
+	
+
+	hf_20260613_201536_5c1957e1-72f5-41e8-84f1-c25db1067d2b.mp4
+
+
+HOOK 
+	3
+	At first I was like, wait — a fan that spreads air in all directions?
+	
+
+	hf_20260614_013550_e468489f-93af-47e6-8254-fdad466adae1.mp4
+
+
+HOOK
+	4
+	At first I was like, wait — a fan that spreads air in all directions?
+	
+
+	HOOK 
+hf_20260605_212938_d059d1c2-aa6a-4f93-af02-76d2b652d31a.mp4
+	
+
+
+
+ 
+________________
+
+
+[11] Deliverables
+4 Hooks 9x16

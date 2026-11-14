@@ -1,0 +1,181 @@
+﻿Spin360_Baby_BabyProofYourAir - Script & Visual Brief
+
+
+
+
+Brief - Spin360_Baby_BabyProofYourAir
+
+
+Desire: "I want to know I've baby-proofed everything, so nothing in that nursery can hurt my baby."
+
+
+
+
+Awareness: Unaware of the problem. She thinks the nursery is already safe.
+
+
+Angle: She baby-proofed the whole house but not the air. The nursery air sits still all night, and the carbon dioxide her baby breathes out pools around his face. 
+
+
+Mechanism: Still nursery air lets the carbon dioxide the baby breathes out pool around his face. 
+Spin360 pulls air in from the top and bottom and mixes it all around the room, so there's no pool of carbon dioxide by the crib.
+
+
+Proof: A study of almost 500 babies: a fan running in the room was associated with a 72% lower risk of SIDS.
+
+
+Format: AI visual story with a female VO talking mom-to-mom ("you"), no on-camera narrator. Realistic AI,  Warm, calm and firm voice, no dark dramatic music. 4 hook variations, about 1:35 of VO.
+Look: Bright, colorful and vibrant, never dark or gloomy AI realism. Day scenes warm and bright; the problem (carbon dioxide) always the same glowing blue. The mom is pregnant in the hook montage and appears with her newborn in every scene after the hook.
+
+
+
+
+Script
+Hook text: YOU BABY-PROOFED EVERYTHING. EXCEPT THIS.
+
+
+You baby-proofed every outlet, every cabinet, every sharp corner.
+But you didn't baby-proof the air.
+And right now, your baby's nursery isn't safe.
+Here's how you fix it. It's called Spin360.
+With it in the nursery, your baby breathes fresh air all night.
+Falls asleep calmer.
+You stop checking the baby monitor every five minutes.
+And you finally know that room is safe.
+Here's why it matters.
+Every breath your baby breathes out has carbon dioxide in it. Close the door, and it just sits there. Right around their face.
+They're literally sleeping in a pool of carbon dioxide.
+Your lungs can handle that. Their tiny lungs are still developing.
+One study of almost 500 babies found that having a fan running in the room was associated with a 72% lower risk of SIDS.
+But a regular fan just blasts one spot, and the rest of the room stays still. Spin360 pulls air in from the top and the bottom and mixes it all around the room. No more pool of carbon dioxide around their face. Just a soft, relaxing breeze that helps your baby drift off and sleep better. Like sleeping with the window open.
+And it's not just for the first year. Your kid should sleep in moving air until they leave for college.
+Outlet covers. Check. Stair gate. Check. The air. Check.
+Every night you wait is another night your baby sleeps in a pool of carbon dioxide.
+Finish baby-proofing your nursery. Tap below and get Spin360.
+
+
+
+
+
+
+Hooks
+Text on screen for all hooks: YOU BABY-PROOFED EVERYTHING. EXCEPT THIS.
+#
+	Line
+	Visual Inspiration
+	Note
+	1
+	You baby-proofed every outlet, every cabinet, every sharp corner. But you didn't baby-proof the air.
+	  
+  
+
+
+
+
+
+Over-the-top baby-proofing: a perfect-looking pregnant mom in a gorgeous home where EVERYTHING is foam-padded: walls, table, lamp, even the dog in a padded suit. Hard cut, weeks later, night: her newborn asleep in the crib, a glowing blue fog over his face, moving with each breath
+	Extreme baby-proofing. Start here: the "ridiculous", "nuts" hook 
+	2
+	You baby-proofed every outlet, every cabinet, every sharp corner. But you didn't baby-proof the air.
+	  
+
+  
+Fast montage in daylight: the pregnant mom snaps on an outlet cover, a cabinet lock, a corner guard, a stair gate, each with a satisfying click. Hard cut, weeks later, night: her newborn asleep in the crib, a glowing blue fog over his face, moving with each breath
+	Blue fog. Extra test, the safest version. One beat per item
+	3
+	You baby-proofed every outlet, every cabinet, every sharp corner. But you didn't baby-proof the air.
+	  
+
+  
+A digital "safety scanner" sweeps the nursery; each hazard (outlet, corner, stairs) flashes green with a check mark. It reaches the air over the crib, where the newborn is asleep: screen turns red, alarm, "NOT BABY-PROOFED"
+	Safety scanner. Extra test, the "insane animation" style 
+	4
+	You baby-proofed every outlet, every cabinet, every sharp corner. But you didn't baby-proof the air.
+	  
+Extreme close-up at night: the newborn asleep in the crib, a glowing blue cloud hanging over his face. With every breath in, the blue is drawn into his tiny nose and mouth; with every breath out, more blue joins the cloud. Camera slowly pulls back to reveal the cloud filling the crib
+	Baby inhaling.  Realistic blue CO2, 
+	Body
+#
+	Line
+	Visual
+	Note
+	1
+	And right now, your baby's nursery isn't safe.
+	Slow push-in on the crib at night: a faint blue haze hangs just above the sleeping baby
+	Echo of the hook's blue, subtler
+	2
+	Here's how you fix it. It's called Spin360.
+	The mom, newborn on her chest, places the Spin360 in the corner of the nursery and turns it on. Clean product shot
+	Real product photo composited in post. Text: SPIN360
+	3
+	With it in the nursery, your baby breathes fresh air all night.
+	Warm soft light, the baby sound asleep, the curtain moving gently, Spin360 in the background
+	Product composited, soft air lines only
+	4
+	Falls asleep calmer.
+	She lays the baby down and his eyes close within seconds
+	Can be a time-lapse
+	5
+	You stop checking the baby monitor every five minutes.
+	Quick cuts: her hand grabbing the monitor again and again at night. Then the monitor resting on the nightstand while she sleeps
+	The "before" cuts must be fast
+	6
+	And you finally know that room is safe.
+	She stands in the nursery doorway, smiles at the sleeping baby, and switches off the light
+	Warm, peaceful. Closes the benefits
+	7
+	Here's why it matters.
+	Camera slowly pushes into the crib; the light shifts to cool blue
+	Transition into the explanation. No Spin360 in frame (7–12)
+	8
+	Every breath your baby breathes out has carbon dioxide in it. Close the door, and it just sits there. Right around their face.
+	Close-up of the sleeping baby: every exhale releases a small blue cloud that stays hanging around his face. The nursery door closes in the background
+	Visual effect. Reuse the 2to5Hours shot only if the baby, crib and bedding match; otherwise regenerate with this ad's baby reference
+	9
+	They're literally sleeping in a pool of carbon dioxide.
+	Camera pulls back: the blue cloud fills the crib like a pool, the baby lying inside it
+  
+
+	Key shot,Text: SLEEPING IN A POOL OF CARBON DIOXIDE. Same crib as body 14
+	10
+	Your lungs can handle that. Their tiny lungs are still developing.
+	  
+Side by side: the mom's chest rising slowly as she sleeps / the baby's tiny chest rising fast under the blue haze
+	Contrast adult vs baby. Keep it simple
+	11
+	One study of almost 500 babies found that having a fan running in the room was associated with a 72% lower risk of SIDS.
+	Graphic: about 500 baby icons, then a big 72%
+	Graphic made by the editor. Text: FAN USE ASSOCIATED WITH 72% LOWER SIDS RISK, small source: Kaiser Permanente, 2008
+	12
+	But a regular fan just blasts one spot, and the rest of the room stays still.
+	A regular fan shooting a straight blast at the crib, the blue cloud still sitting in the rest of the room
+	Editor adds a red arrow on the blast and a red X. Text: ❌ REGULAR FAN
+	13
+	Spin360 pulls air in from the top and the bottom and mixes it all around the room.
+	Air flows into the top and bottom of the Spin360 and out in a ring around the room, like Saturn's rings  
+	Visual effect. Product composited with its real shape and stays still; only the air moves
+	14
+	No more pool of carbon dioxide around their face.
+	Top-down view: the ring of air sweeps the room and the blue pool in the crib breaks up and disappears
+	Visual effect. Payoff of the key shot, same crib as body 9
+	15
+	Just a soft, relaxing breeze that helps your baby drift off and sleep better. Like sleeping with the window open.
+	The baby takes a deep breath and smiles in his sleep; the curtain moves as if the window were open
+	Warm light
+	16
+	And it's not just for the first year. Your kid should sleep in moving air until they leave for college.
+	  
+Fast montage, same bedroom growing up: toddler asleep, kid in a big-kid bed, teenager asleep, Spin360 in the corner every time. Ends with the teen carrying boxes out the door
+	Light, fun beat. About 1 second per age
+	17
+	Outlet covers. Check. Stair gate. Check. The air. Check.
+	New close-ups: an outlet cover, then a stair gate (and, after Hook 1, a foam-padded corner), each with a green check. The last check lands on the Spin360 running in the nursery
+	Works with every hook. Same "click" sound as the hook
+	18
+	Every night you wait is another night your baby sleeps in a pool of carbon dioxide.
+	Quick flash back to the blue pool shot, darker
+	Reuse body 9
+	19
+	Finish baby-proofing your nursery. Tap below and get Spin360.
+	Hero shot: Spin360 in the finished, beautiful nursery, baby asleep in the crib
+	Real product photo. Text: GET SPIN360 FOR YOUR NURSERY

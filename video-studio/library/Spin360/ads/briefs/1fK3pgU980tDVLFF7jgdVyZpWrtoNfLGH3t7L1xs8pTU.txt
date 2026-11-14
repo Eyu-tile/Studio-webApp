@@ -1,0 +1,119 @@
+﻿Spin360_David_ColdBreeze
+
+
+Brief - Spin360_David_ColdBreeze.mp4
+3 ads, one edit, about 43 s. Only the hook changes; the body and CTA are the same in all 3. The images are inspiration for the idea of each shot, not a storyboard.
+	
+
+The idea: "Why would I buy a fan for the winter?" David answers it himself: you still want the breeze, you just don't want a cold blast in your face. The Spin360 points up, not at you, so the air keeps moving and nothing blows cold on you.
+	Strategy
+# Element
+	Answer
+	Why this ad
+	People who already know the Spin360 still ask the same thing: why would I buy a fan for the winter? David answers it himself, on the podcast, in one line: you still want the breeze, you just don't want a cold blast in your face. This ad turns that real answer into a short bottom-of-funnel video.
+	What it's about
+	In winter you still want the air moving around you, just not a cold blast in your face. The Spin360 gives you the breeze without the blast.
+	How we make it
+	About 43 s, vertical 9:16. One setting for David: the podcast set. His real answer from the podcast carries the ad. Anything David says that isn't in the podcast footage is generated with AI in his voice and look, on the same podcast set. The customer is real footage.
+	Desire
+	"I want to feel like I have a fan on but without the wind commitment." (real fan sleeper on Reddit, r/no)
+	Sub-avatar
+	Fan sleepers who keep the fan on all year, and in winter turn it to the wall so it doesn't freeze them out. That is their most repeated behavior ("I point it at the wall"), and cold is the number one reason they turn it away.
+	Angle
+	Winter breeze without the cold blast.
+	Awareness
+	They know the product or the category. The doubt is the season. The ad answers the objection and ends on the offer.
+	Belief
+	"A fan in winter = cold air blowing on me." We keep their belief that a breeze feels good and remove the cold blast: you point it up, not at you.
+	Mechanism
+	You don't point the Spin360 at you. You point it up in the air, and it pulls in and blows out a different way, so the air moves around the whole room and nothing blows cold on you.
+	Authority / proof
+	David Patrick, the inventor, answering on camera. People who don't know him need to see who he is the first time he shows up (lower third, see the production brief). Plus a real customer who runs it all year round.
+	Emotion
+	Doubt (a fan, in winter?) → recognition (yeah, I do like a breeze) → relief (no cold blast) → trust (a real customer uses it all year).
+	Positioning
+	Not a fan you point at yourself. A breeze that moves around the room.
+	Objections
+	"It will make me cold" → nothing blows cold on you. "Why in winter?" → you still like the breeze. "What if I don't like it?" → 30 nights to try it.
+	Hooks
+	3 real hooks, all ending on the same question: "Why would I buy a fan for the winter?" H1 the question alone, H2 David first, H3 a customer first. Same body and CTA in all 3.
+	Offer
+	30 nights to try it. No discount, no price.
+	Production brief
+Format: vertical 9:16, about 43 s. Captions on.
+One setting for David: the podcast set (outdoors by the pool, two chairs, the interviewer on the left, David on the right, two Spin360s behind them). His real lines come from the podcast stringout (Stringout_Spin360_Podcast-QA_Vertical.mp4, Frame.io; the session was filmed 3 times, take 2 starts at +00:21:07 and take 3 at +00:43:22, so pick the best read). Every David line marked AI is generated in his voice and look, on that same set.
+Who David is: the first time David shows up, put a lower third on screen: "David Patrick · Inventor of the Spin360 · Reinvented the wheel on Shark Tank". The script never says who he is, so the authority has to come from the screen.
+Customer: always the real footage (TESTIMONIALS.mp4, Dropbox SPIN360 2026). Never generated.
+Captions: white, a few words at a time. Each hook has its own on-screen line (in the table). The hook text has to make sense with the sound off.
+The podcast set looks like summer (outdoors, sunny, by the pool). That's fine for David talking, but every winter moment in the ad (the hook question, the blanket, the night) comes from winter B-roll, not from the set.
+Don't show a regular fan anywhere. Show the Spin360, David, or a cozy winter vibe shot.
+Hooks (3 ads)
+Ad
+	VO
+	On screen
+	Visual inspiration
+	Source / visual idea
+	H1 · The question
+Spin360_David_ColdBreeze_Hook1
+	Why would I buy a fan for the winter?
+	A fan in winter? Here's why.
+	  
+
+	AUDIO REAL: the question from the podcast (Stringout_Spin360_Podcast-QA_Vertical.mp4, 00:08:59–00:09:06, take 1; it sounds like the interviewer asking, check the video). PICTURE: winter B-roll, not the podcast. A snowy night, someone tucked under a thick blanket, the Spin360 running next to the bed. The viewer should see the paradox (a fan, in winter?) even with the sound off. Cut to David on the podcast only when he starts answering ("Okay, when you talk about summer...").
+	H2 · David first
+Spin360_David_ColdBreeze_Hook2
+	I'm meant to run 24/7 because I'm that gentle breeze that isn't bothering you. … Why would I buy a fan for the winter?
+	Runs 24/7. Even in winter?
+	  
+
+	REAL: David on the podcast (Stringout_Spin360_Podcast-QA_Vertical.mp4, 00:09:51–00:09:56). Punch in on David so it isn't the wide shot of both chairs. Then the question (00:08:59) over the same winter B-roll as H1 (snowy night, blanket, Spin360 by the bed).
+	H3 · Customer first
+Spin360_David_ColdBreeze_Hook3
+	I run this during the summer. I run this during the winter. I actually run it all year round. … Why would I buy a fan for the winter?
+	He runs it all year round.
+	  
+
+	REAL: the dad holding his baby (TESTIMONIALS.mp4, 02:02–02:07). Then the question (00:08:59) over the same winter B-roll as H1. In this cut, row 6 of the body uses a different customer line (see row 6).
+	Body (same in all 3 ads)
+Highlighted lines = AI (David's voice and look, generated on the podcast set). Everything else is real footage.
+Section
+	VO
+	Visual inspiration
+	Source / visual idea
+	1 · The answer
+	Okay, when you talk about summer and you talk about a fan, that breeze is the thing that you want. Are you going to tell me that during the winter time you don't ever want to feel a breeze? Yeah, you do. You like having breeze.
+	  
+
+	REAL. David on the podcast (Stringout_Spin360_Podcast-QA_Vertical.mp4, 00:09:06–00:09:19). Cut right after "You like having breeze." (he goes on with "You just don't want a cold breeze", which we replace in row 2).
+	2 · No cold blast
+	You just don't want a cold blast in your face.
+	  
+
+	AI, David's voice. Cover it with B-roll so the switch from real to AI doesn't show: someone tucked under a thick blanket on a cold night, snow outside. No regular fans on screen.
+	3 · The difference
+	And that's the difference with the Spin360.
+	  
+
+	AI, David on the podcast set. Then the first clean look at the Spin360 in a cozy winter room.
+	4 · Point it up
+	You don't point it at you. You point it up in the air, and it sucks and blows out a totally different way.
+	  
+
+	AI, David on the podcast set (these are his own words from another interview, regenerated here so the setting stays the same). He points up with his hand, then cut to the Spin360 next to a bed.
+	5 · The breeze, all night
+	So the air keeps moving all around the room, but nothing's blowing cold on you. You stay under your blanket and you still get that breeze.
+	  
+
+	AI voice over B-roll: a bedroom at night, snow outside, the curtain moving a little, someone asleep under the blanket, relaxed.
+	6 · A real customer
+	I run this during the summer. I run this during the winter. I actually run it all year round. I just like the way it mixes the air. It gives me a wonderful breeze in the house.
+	  
+
+	REAL. The dad holding his baby (TESTIMONIALS.mp4, 02:02–02:11). In the H3 cut, use instead: "Not only can you use a Spin 360 during the hot days of the month, but you can also use it in the wintertime just to get a nice breeze." (TESTIMONIALS.mp4, 00:59–01:07; check who is on screen).
+	7 · CTA
+	Try it for 30 nights. If you don't love it, just send it back.
+	  
+
+	AI, David on the podcast set. End card: "Try it for 30 nights".
+	What's up to you
+The B-roll, transitions, music and how long each cut holds.

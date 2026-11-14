@@ -1,0 +1,204 @@
+[
+ {
+  "id": "1af64583-a3fa-45a5-80a6-cf227650f22b",
+  "kind": "ugc_broll",
+  "summary": "White Spin360 in a bright kitchen while an arm holds a phone decibel meter beside the head (readings ~35-44 dB) and taps the pole display to change speed.",
+  "people": [{"who": "person with dark curly hair, only arm/silhouette seen", "wardrobe": "dark long sleeve", "role": "hand only"}],
+  "product": {"visible": "full", "colourway": "white", "on": true, "details_seen": ["display F1-F3", "gold halo", "cage"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "kitchen", "time": "day", "light": "bright natural", "view": "unclear", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 2.1, "camera": "static", "framing": "medium", "action": "white fan head and pole in front of kitchen window, fan running", "on_screen_text": "", "audio_hint": "fan noise"},
+   {"start": 2.1, "end": 2.2, "camera": "static", "framing": "medium", "action": "dark object/flash crosses frame (glitch)", "on_screen_text": "", "audio_hint": ""},
+   {"start": 2.2, "end": 55.7, "camera": "static", "framing": "medium", "action": "person crouches in from left, holds phone decibel app next to cage (35.3-44.2 dB, one 54.4 spike at 35s when touching pole), taps display to step speed F1->F2->F3", "on_screen_text": "phone shows dB numbers", "audio_hint": "fan noise for decibel test"}
+  ],
+  "best": {"start": 14.0, "end": 27.0, "why": "steady phone reading ~35-40 dB next to the running fan, clean quiet-proof shot"},
+  "beats": ["quiet_demo", "control_display", "turning_on", "product_hero"],
+  "hook_potential": {"score": 2, "why": "live decibel number on a phone is a concrete quiet proof"},
+  "brand_fit": {"score": 2, "why": "bright airy kitchen with window, white unit; arm in dark clothing is a bit heavy"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "Shows measured dB readings (35-44 dB, spike 54.4) - any 'quiet'/dB claim built on this should match the numbers shown.",
+  "tags": ["decibel test", "phone sound meter next to fan", "white unit kitchen", "quiet fan proof", "tapping display speed", "white Spin360 by window"]
+ },
+ {
+  "id": "40422da0-3157-411a-a94f-0a870f809a8c",
+  "kind": "ugc_broll",
+  "summary": "Handheld shot of a black Spin360 by a sliding glass door onto a green garden, then a closer look at the spinning head with display at F9.",
+  "people": [],
+  "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["display F9", "gold halo", "cage", "base"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 16.0, "camera": "handheld", "framing": "wide", "action": "full fan beside olive-green armchair in front of glass door to garden, blades spinning", "on_screen_text": "", "audio_hint": ""},
+   {"start": 16.0, "end": 51.4, "camera": "handheld", "framing": "medium", "action": "camera moves closer to head and pole, cage spinning, display reads F9", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 25.0, "end": 37.0, "why": "steady medium of spinning head, gold halo and F9 display against garden"},
+  "beats": ["product_hero", "control_display", "room_aesthetic"],
+  "hook_potential": {"score": 1, "why": "plain product b-roll, no action"},
+  "brand_fit": {"score": 2, "why": "glass door onto greenery, natural light; ordinary room"},
+  "quality": {"score": 2, "issues": ["vertical crop risk", "background blown out at times"]},
+  "status": "OK", "status_why": "No remote/hand visible despite BYA description.",
+  "tags": ["black unit by glass door", "F9 display", "fan spinning garden view", "green armchair", "handheld product b-roll"]
+ },
+ {
+  "id": "1e92e7b3-6ee5-41eb-a363-490d4a44429d",
+  "kind": "ugc_broll",
+  "summary": "POV of crossed legs in pink floral shorts and argyle socks resting on a sofa, black Spin360 in front; a remote turns it on and the blue ring lights.",
+  "people": [{"who": "man (POV legs), likely lake-house blond man", "wardrobe": "pink floral shorts, white/purple argyle socks", "role": "actor"}, {"who": "older person at desk in background", "wardrobe": "light top", "role": "senior"}],
+  "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "box/packaging"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "cluttered"},
+  "shots": [
+   {"start": 0.0, "end": 33.0, "camera": "POV", "framing": "wide", "action": "legs crossed on sofa arm, fan in front of wooden desk area under beamed ceiling, legs shift", "on_screen_text": "", "audio_hint": ""},
+   {"start": 33.0, "end": 35.0, "camera": "POV", "framing": "wide", "action": "hand with black remote enters bottom left", "on_screen_text": "", "audio_hint": "remote beep?"},
+   {"start": 35.0, "end": 46.7, "camera": "POV", "framing": "wide", "action": "blue LED ring on pole now lit, fan running, person working at desk in background", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 32.0, "end": 40.0, "why": "remote press then blue ring lights - relaxed turn-on moment"},
+  "beats": ["turning_on", "lifestyle_reading_relaxing", "control_display"],
+  "hook_potential": {"score": 1, "why": "relatable feet-up POV but busy background"},
+  "brand_fit": {"score": 1, "why": "beamed cabin room but cluttered desk/shelves behind fan"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "Background person and desk clutter; no logos readable.",
+  "tags": ["feet up on sofa POV", "remote turns fan on", "blue ring lights up", "argyle socks", "pink floral shorts", "lake house black unit"]
+ },
+ {
+  "id": "1b9c4263-eff2-4071-b3de-2e9361022092",
+  "kind": "ugc_broll",
+  "summary": "Low bed-level camera on a black Spin360 against a large landscape print; blond young man in red Under Armour tee poses and peers around the fan, with finger-over-lens and blurry segments.",
+  "people": [{"who": "young blond man, 20s", "wardrobe": "red Under Armour tee, pink floral shorts, white socks", "role": "actor"}],
+  "product": {"visible": "full", "colourway": "black", "on": null, "details_seen": ["cage", "base"], "other_fans": [], "other_brands": ["Under Armour (small chest logo)"]},
+  "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 0.6, "camera": "handheld", "framing": "wide", "action": "tilted view of fan from bed", "on_screen_text": "", "audio_hint": ""},
+   {"start": 0.6, "end": 1.4, "camera": "handheld", "framing": "extreme close", "action": "finger covers lens (red)", "on_screen_text": "", "audio_hint": ""},
+   {"start": 1.4, "end": 8.4, "camera": "static", "framing": "wide", "action": "low angle fan on pole over blanket, landscape print behind", "on_screen_text": "", "audio_hint": ""},
+   {"start": 8.4, "end": 16.0, "camera": "handheld", "framing": "extreme close", "action": "fingers and hand over lens, blurry", "on_screen_text": "", "audio_hint": ""},
+   {"start": 16.0, "end": 49.5, "camera": "static", "framing": "wide", "action": "man walks in, stands behind fan arms out, leans hands-on-knees, peeks around head, gestures to camera", "on_screen_text": "", "audio_hint": ""},
+   {"start": 49.5, "end": 51.2, "camera": "handheld", "framing": "extreme close", "action": "lens covered/blurred pink", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 25.5, "end": 35.0, "why": "man leans and peers curiously at fan head, playful skit moment"},
+  "beats": ["product_hero", "reaction_face"],
+  "hook_potential": {"score": 1, "why": "playful posing could be a skit, but no clear story"},
+  "brand_fit": {"score": 1, "why": "clean wall and landscape art, but goofy low angle and blanket foreground"},
+  "quality": {"score": 1, "issues": ["blurry", "shaky", "vertical crop risk"]},
+  "status": "CAUTION", "status_why": "Under Armour logo on tee; finger-over-lens/blurry segments 0.6-1.4, 8.4-16, 49.5-end.",
+  "tags": ["blond man red tee", "peeking around fan", "low angle from bed", "landscape painting wall", "lake house black unit", "hands on knees"]
+ },
+ {
+  "id": "1b10a088-9d29-44ca-8743-99c13ee8cbc0",
+  "kind": "ugc_broll",
+  "summary": "Silver-haired woman (Vicky) unboxes a Spin360 on a long kitchen counter: opens 'Gentle Breeze / 360° airflow' box, lifts out pulp tray of wrapped parts and the bagged fan head.",
+  "people": [{"who": "woman, 50s-60s, long silver-grey wavy hair", "wardrobe": "black sleeveless top, beige trousers, barefoot", "role": "creator"}],
+  "product": {"visible": "partial", "colourway": "black", "on": false, "details_seen": ["box/packaging", "cage"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "kitchen", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 9.0, "camera": "static", "framing": "wide", "action": "opens flaps of printed box on counter", "on_screen_text": "", "audio_hint": ""},
+   {"start": 9.0, "end": 22.0, "camera": "static", "framing": "wide", "action": "lifts pulp tray with bagged parts out, smiles, turns box", "on_screen_text": "box print: 360° AIRFLOW, Gentle Breeze", "audio_hint": ""},
+   {"start": 22.0, "end": 46.5, "camera": "static", "framing": "wide", "action": "reaches into box, pulls out plastic-wrapped fan head and sets it on counter", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 8.0, "end": 14.0, "why": "lifts tray from box with a smile, clear unboxing beat"},
+  "beats": ["unboxing"],
+  "hook_potential": {"score": 1, "why": "standard unboxing, long and slow"},
+  "brand_fit": {"score": 2, "why": "bright vaulted room, big windows, plant, pool glimpse outside"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "",
+  "tags": ["Vicky unboxing", "silver-haired woman", "box Gentle Breeze 360 airflow", "pulp tray parts", "wrapped fan head", "kitchen counter unboxing", "pool outside window"]
+ },
+ {
+  "id": "ace3862c-8666-4e9c-b54a-c04719efa42f",
+  "kind": "ugc_broll",
+  "summary": "Black Spin360 head by a pine-framed window with forest view; a hand taps the pole display repeatedly, stepping speed numbers up while the blades spin.",
+  "people": [{"who": "woman's arm", "wardrobe": "bare arm", "role": "hand only"}],
+  "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["display F1-F9", "gold halo", "cage"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 59.6, "camera": "static", "framing": "medium", "action": "hand enters right, taps display several times (5s, 10s, 20s, 30s, 37s, 45s, 55s); speed digits change 1->3->4->5->6->8; blades spin", "on_screen_text": "", "audio_hint": "button beeps likely"}
+  ],
+  "best": {"start": 28.0, "end": 41.0, "why": "taps show display stepping 3-4-5-6 with forest window behind"},
+  "beats": ["control_display", "turning_on", "product_hero", "room_aesthetic"],
+  "hook_potential": {"score": 1, "why": "clear control demo but slow"},
+  "brand_fit": {"score": 3, "why": "cabin pine window, trees and mountain view, sunlit"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "",
+  "tags": ["Lauren cabin", "tapping display speed", "speed numbers changing", "fan by forest window", "black unit close", "touch control"]
+ },
+ {
+  "id": "b94769ce-0bba-45b6-a65e-d8c04225af72",
+  "kind": "ugc_broll",
+  "summary": "Handheld close-ups of the black Spin360 head spinning by a pine-framed window, pulling out to a wide of the unit beside a cream cloud chair, then macro passes over the cage and gold halo.",
+  "people": [],
+  "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["gold halo", "cage", "base", "top cap"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 8.0, "camera": "handheld", "framing": "close", "action": "fan head spinning against pine window frame and trees", "on_screen_text": "", "audio_hint": ""},
+   {"start": 8.0, "end": 18.0, "camera": "push in", "framing": "extreme close", "action": "close on cage slats, blades blurred inside", "on_screen_text": "", "audio_hint": ""},
+   {"start": 18.0, "end": 25.0, "camera": "pull out", "framing": "wide", "action": "full unit in window corner next to cream cloud chair, mountain view; high angle onto top cap", "on_screen_text": "", "audio_hint": ""},
+   {"start": 25.0, "end": 42.0, "camera": "orbit", "framing": "medium", "action": "circles head with mountain/trees behind", "on_screen_text": "", "audio_hint": ""},
+   {"start": 42.0, "end": 57.3, "camera": "handheld", "framing": "macro", "action": "macro sweep along slats and gold halo ring", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 19.0, "end": 24.0, "why": "wide of full unit by cloud chair and mountain window, then top-cap reveal"},
+  "beats": ["product_hero", "room_aesthetic"],
+  "hook_potential": {"score": 1, "why": "beauty b-roll, no action"},
+  "brand_fit": {"score": 3, "why": "luxe cabin, trees and mountains, sunlit, clean decor"},
+  "quality": {"score": 2, "issues": ["shaky", "blurry", "vertical crop risk"]},
+  "status": "OK", "status_why": "",
+  "tags": ["Lauren cabin", "macro cage slats", "gold halo close-up", "fan by mountain window", "cloud chair", "top cap view", "spinning blades close"]
+ },
+ {
+  "id": "f22c37c1-226a-4dcc-b5eb-9a17ef1b96dd",
+  "kind": "ugc_broll",
+  "summary": "Blonde woman walks into a pine-ceiling bedroom with a hillside view, sits on the bed and lowers motorised blinds with a remote; then sets up a black Spin360 by the bed, pulling a paper insert out of the cage as the room goes dim.",
+  "people": [{"who": "woman, 40s, blonde hair in bun (Lauren)", "wardrobe": "dark racerback tank, dark bike shorts", "role": "creator"}],
+  "product": {"visible": "full", "colourway": "black", "on": null, "details_seen": ["cage", "top cap", "paper insert in cage"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "bedroom", "time": "day", "light": "mixed", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 34.0, "camera": "static", "framing": "wide", "action": "woman enters, walks to window, sits on bed edge and points remote; honeycomb blind lowers over hillside view; she walks out", "on_screen_text": "", "audio_hint": "blind motor"},
+   {"start": 34.0, "end": 36.0, "camera": "handheld", "framing": "wide", "action": "camera repositioned to bedside", "on_screen_text": "", "audio_hint": ""},
+   {"start": 36.0, "end": 48.2, "camera": "static", "framing": "medium", "action": "fan beside bed with paper card inside cage; woman leans in, removes it, adjusts pole, exits; room darkens", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 10.0, "end": 24.0, "why": "blind lowering over hillside view - bedtime wind-down setup"},
+  "beats": ["room_aesthetic", "hot_sleeper_problem", "assembly"],
+  "hook_potential": {"score": 1, "why": "evening wind-down mood but slow; fan only at end"},
+  "brand_fit": {"score": 2, "why": "pine ceiling, hillside view, calm; fan part dim and rushed"},
+  "quality": {"score": 2, "issues": ["blurry", "dark", "vertical crop risk"]},
+  "status": "OK", "status_why": "Fan still has a paper insert in cage at 36-40s (unretail look); avoid that part for hero.",
+  "tags": ["Lauren bedroom", "closing blinds remote", "honeycomb blinds", "hillside view bedroom", "fan by bed", "removing insert from cage", "room getting dark"]
+ },
+ {
+  "id": "eed94b67-793e-4087-9294-af0d9a6649fc",
+  "kind": "ugc_broll",
+  "summary": "Motorised honeycomb blind slowly rises in a pine-panelled nook, revealing a sunny meadow, trees and mountain; no Spin360 in shot.",
+  "people": [],
+  "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": ["ceiling fan (glimpse at 0s)"], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 6.0, "camera": "push in", "framing": "wide", "action": "wide of pine bench nook with kids' table and fiddle-leaf plant, ceiling fan blade top right; camera moves in on window", "on_screen_text": "", "audio_hint": ""},
+   {"start": 6.0, "end": 63.6, "camera": "static", "framing": "medium", "action": "blind lifts from sill to top, revealing meadow then mountain and blue sky", "on_screen_text": "", "audio_hint": "blind motor"}
+  ],
+  "best": {"start": 45.0, "end": 63.6, "why": "final reveal of mountain and sky through big window"},
+  "beats": ["room_aesthetic", "waking_refreshed"],
+  "hook_potential": {"score": 1, "why": "morning reveal transition"},
+  "brand_fit": {"score": 3, "why": "sunlit cabin, mountain and tree view, clean wood"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "CAUTION", "status_why": "Ceiling fan (other fan) visible in first ~2s; trim to after 3s. No product.",
+  "tags": ["blinds opening", "morning reveal", "mountain view window", "Lauren cabin", "pine bench nook", "no product"]
+ },
+ {
+  "id": "f1025fd8-04ff-4f5a-be4d-1d586980a678",
+  "kind": "ugc_broll",
+  "summary": "Bright cabin living room: blonde woman walks in with a mug and book, curls up in a cream cloud chair next to a black Spin360 by tall windows and reads, then gets up and leaves.",
+  "people": [{"who": "woman, 40s, blonde hair in bun (Lauren)", "wardrobe": "dark brown tank, denim/grey shorts", "role": "creator"}],
+  "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["cage", "base"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 2.0, "camera": "static", "framing": "wide", "action": "her face passes close in front of lens", "on_screen_text": "", "audio_hint": ""},
+   {"start": 2.0, "end": 44.0, "camera": "static", "framing": "wide", "action": "she walks in with mug and book, sits in cloud chair beside fan, sips and reads", "on_screen_text": "", "audio_hint": ""},
+   {"start": 44.0, "end": 49.0, "camera": "static", "framing": "wide", "action": "she stands and walks toward camera", "on_screen_text": "", "audio_hint": ""},
+   {"start": 49.0, "end": 51.1, "camera": "handheld", "framing": "wide", "action": "camera swings to entry hall", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 13.0, "end": 30.0, "why": "relaxed reading in cloud chair next to fan, airy room with tall windows"},
+  "beats": ["lifestyle_reading_relaxing", "room_aesthetic"],
+  "hook_potential": {"score": 1, "why": "calm lifestyle, fan small in frame"},
+  "brand_fit": {"score": 3, "why": "airy luxe cabin, tall windows, trees, sunlit, minimal decor"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "",
+  "tags": ["woman reading book", "cloud chair", "coffee mug", "Lauren cabin living room", "fan beside chair", "relaxing by window"]
+ }
+]

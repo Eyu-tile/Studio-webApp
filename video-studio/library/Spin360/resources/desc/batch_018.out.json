@@ -1,0 +1,369 @@
+[
+{
+ "id": "4f9ee570-b614-4361-8abb-c897630b3e4f",
+ "kind": "product_only",
+ "summary": "Handheld push-in and pull-out on a tall black Spin360 standing on a pale rug in a large, bright, traditional living room.",
+ "people": [],
+ "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["cage", "base", "display (unlit/unclear)"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 7.2, "camera": "push in", "framing": "medium", "action": "camera moves closer to the fan head, blades spinning behind clear slats", "on_screen_text": "", "audio_hint": ""},
+  {"start": 7.2, "end": 21.7, "camera": "pull out", "framing": "wide", "action": "camera pulls back and arcs slightly left, revealing cream sofa, glass coffee table, framed prints", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 12.0, "end": 18.0, "why": "steady full-length unit in elegant bright room"},
+ "beats": ["product_hero", "room_aesthetic"],
+ "hook_potential": {"score": 1, "why": "clean but static product reveal"},
+ "brand_fit": {"score": 3, "why": "bright, airy, high-end living room with cream sofa and vaulted ceiling"},
+ "quality": {"score": 2, "issues": ["shaky"]},
+ "status": "OK", "status_why": "",
+ "tags": ["tall black fan in living room", "luxury living room", "glass coffee table", "push in on fan", "fan on rug", "cream sofa"]
+},
+{
+ "id": "c74217a9-8425-4f7a-837e-38444e53cafd",
+ "kind": "ugc_broll",
+ "summary": "Close-up of a short black Spin360 on a stone counter as a senior woman's hand taps the pole display (F6) and cycles the LED ring blue, red, green, off and back to blue.",
+ "people": [{"who": "older woman, hand only (pink nails)", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "partial", "colourway": "black", "on": true, "details_seen": ["display F6", "blue ring", "red ring", "green ring", "cage", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 8.0, "camera": "static", "framing": "close", "action": "finger taps display repeatedly, display reads F6, ring blue", "on_screen_text": "", "audio_hint": "off-camera chatter"},
+  {"start": 8.0, "end": 13.5, "camera": "static", "framing": "close", "action": "hand away, fan running with blue ring and F6", "on_screen_text": "", "audio_hint": ""},
+  {"start": 13.5, "end": 22.8, "camera": "static", "framing": "close", "action": "finger presses display; ring turns red, then green, then off, then back to blue", "on_screen_text": "", "audio_hint": "\"You didn't change the color, right?\""}
+ ],
+ "best": {"start": 14.0, "end": 19.0, "why": "LED ring colour changes red to green on touch"},
+ "beats": ["control_display", "turning_on"],
+ "hook_potential": {"score": 1, "why": "colour change is a small visual payoff"},
+ "brand_fit": {"score": 1, "why": "plain counter close-up, short unit"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "CAUTION", "status_why": "short tabletop unit is the whole subject; ring shows red/green colours; off-camera chatter",
+ "tags": ["finger taps display", "F6 display", "LED ring changes colour", "red ring", "green ring", "short tabletop fan", "senior hand", "Vicky"],
+ "takes": [{"start": 2.6, "line": "Ready? Mm-hmm. You didn't change the color, right?", "delivery": "clean", "energy": 1, "framing": "close", "keep": false}],
+ "best_takes": [],
+ "speaker": {"look": "off-camera voices only", "setting": "stone counter, beige wall", "props": "short black Spin360"}
+},
+{
+ "id": "a7be3589-fe76-4b00-af6c-8fc1d5674268",
+ "kind": "ugc_broll",
+ "summary": "A hand sticks a handwritten note reading 'This thing changes the whole atmosphere of the room!!!' onto a black Spin360 by a pine-trimmed window with forest view, then the camera orbits the unit.",
+ "people": [{"who": "woman, hand only", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["gold halo", "cage", "top scent lid/knob", "perforated top", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.5, "camera": "handheld", "framing": "close", "action": "hand holds kraft sticky note to camera, then presses it onto the cage", "on_screen_text": "This thing changes the whole atmosphere of the room!!! (handwritten note)", "audio_hint": ""},
+  {"start": 4.5, "end": 22.8, "camera": "orbit", "framing": "medium", "action": "camera pulls back and pushes in repeatedly around the fan with note attached, pine trees through window", "on_screen_text": "same note on the fan", "audio_hint": ""}
+ ],
+ "best": {"start": 0.0, "end": 4.5, "why": "note reveal and placement, readable text"},
+ "beats": ["product_hero", "room_aesthetic", "cta_point"],
+ "hook_potential": {"score": 2, "why": "handwritten testimonial note is a strong text-on-object hook"},
+ "brand_fit": {"score": 3, "why": "sunlit cabin corner with forest view, boucle chair"},
+ "quality": {"score": 2, "issues": ["baked-in text", "shaky"]},
+ "status": "OK", "status_why": "claim on note is soft ('changes the whole atmosphere')",
+ "tags": ["sticky note on fan", "handwritten note", "this thing changes the whole atmosphere", "forest view window", "Lauren cabin", "gold halo close-up", "boucle chair"]
+},
+{
+ "id": "010e2756-b1fe-495a-bc46-e6eabf5a867d",
+ "kind": "ugc_broll",
+ "summary": "Blonde woman in a grey tee tosses and turns on a bed, pulls the duvet on and off, then sits up, rubs her face in frustration and walks out of frame.",
+ "people": [{"who": "woman, 40s, blonde hair tied back", "wardrobe": "grey t-shirt, black trousers, barefoot", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 14.5, "camera": "static", "framing": "wide", "action": "woman rolls, flails, kicks legs, pulls striped duvet on then off", "on_screen_text": "", "audio_hint": ""},
+  {"start": 14.5, "end": 21.4, "camera": "static", "framing": "wide", "action": "sits up on bed edge, rubs face with both hands, gets up and walks out toward camera", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 15.5, "end": 19.5, "why": "frustrated sit-up and face rub reads clearly"},
+ "beats": ["hot_sleeper_problem", "sweaty_discomfort"],
+ "hook_potential": {"score": 2, "why": "relatable restless-sleep problem"},
+ "brand_fit": {"score": 2, "why": "clean boho bedroom, rattan mirror, but daytime light"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["woman tossing and turning", "can't sleep", "kicks off duvet", "rubs face frustrated", "gets out of bed", "rattan mirror bedroom", "Lauren"]
+},
+{
+ "id": "cb7ca4d5-d236-485b-874e-172a73fcc8da",
+ "kind": "ugc_broll",
+ "summary": "POV from a bed: a hand points a black remote at a Spin360 by a monstera plant and pine door, pressing buttons.",
+ "people": [{"who": "woman, hand only", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "partial", "colourway": "black", "on": true, "details_seen": ["remote control", "cage", "gold halo", "display (small, unclear)"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 22.1, "camera": "POV", "framing": "medium", "action": "hand holds remote in foreground, presses power/mode buttons; fan out of focus behind", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 14.0, "end": 18.0, "why": "remote and fan both clear in frame"},
+ "beats": ["control_display", "turning_on"],
+ "hook_potential": {"score": 1, "why": "simple convenience demo"},
+ "brand_fit": {"score": 2, "why": "light airy bedroom with plant and wood door"},
+ "quality": {"score": 2, "issues": ["shaky"]},
+ "status": "OK", "status_why": "",
+ "tags": ["remote control", "control fan from bed", "POV remote", "monstera plant", "felt hat on wall", "Lauren"]
+},
+{
+ "id": "8ce16b51-e5ca-4462-9453-ce3b7292307b",
+ "kind": "ugc_broll",
+ "summary": "Brunette mum in a black jumpsuit moves around a green kitchen counter and scrolls her phone while a short white Spin360 runs on the counter; kids play in the background.",
+ "people": [{"who": "woman, 30s, long curly brown hair", "wardrobe": "black sleeveless jumpsuit", "role": "creator"}, {"who": "boys in background, one in blue cap", "wardrobe": "", "role": "child"}],
+ "product": {"visible": "partial", "colourway": "white", "on": true, "details_seen": ["cage", "display", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "kitchen", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 13.5, "camera": "static", "framing": "medium", "action": "woman walks in and out of frame, often blocking the fan", "on_screen_text": "", "audio_hint": ""},
+  {"start": 13.5, "end": 22.1, "camera": "static", "framing": "medium", "action": "woman stands at counter beside fan scrolling phone, then walks out", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 15.0, "end": 19.0, "why": "woman relaxed at counter beside running fan"},
+ "beats": ["lifestyle_reading_relaxing", "family_kids"],
+ "hook_potential": {"score": 0, "why": "mundane, subject mostly back to camera"},
+ "brand_fit": {"score": 2, "why": "bright kitchen with tree view, but busy"},
+ "quality": {"score": 1, "issues": ["vertical crop risk"]},
+ "status": "CAUTION", "status_why": "short tabletop white unit; product often blocked",
+ "tags": ["woman on phone in kitchen", "green kitchen cabinets", "short white fan on counter", "kids in background", "Avery"]
+},
+{
+ "id": "dfa5f541-4283-419e-85f3-23fc117f2b1e",
+ "kind": "product_only",
+ "summary": "Short white Spin360 on a kitchen counter; camera drifts back to show green cabinets and a living room with a brick fireplace wall.",
+ "people": [],
+ "product": {"visible": "full", "colourway": "white", "on": true, "details_seen": ["cage", "display", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "kitchen", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 5.5, "camera": "pull out", "framing": "medium", "action": "camera pulls back and down from the fan revealing green cabinets", "on_screen_text": "", "audio_hint": "off-camera: \"I don't smell anything...\""},
+  {"start": 5.5, "end": 21.8, "camera": "handheld", "framing": "wide", "action": "near-static wide of fan on counter, brick fireplace and sofa behind", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 7.0, "end": 12.0, "why": "steady wide of unit in bright open-plan room"},
+ "beats": ["product_hero", "room_aesthetic"],
+ "hook_potential": {"score": 0, "why": "static, unit small in frame"},
+ "brand_fit": {"score": 2, "why": "bright, vaulted open-plan, but ordinary"},
+ "quality": {"score": 2, "issues": []},
+ "status": "CAUTION", "status_why": "short tabletop unit is the whole subject; audio says \"I don't smell anything\" (negative about scent)",
+ "tags": ["short white fan on counter", "green kitchen", "brick fireplace", "open plan living room", "Avery"],
+ "takes": [{"start": 0.8, "line": "I don't smell anything. I think you can see what's inside here.", "delivery": "clean", "energy": 1, "framing": "medium", "keep": false}],
+ "best_takes": [],
+ "speaker": {"look": "off-camera voice", "setting": "kitchen counter, green cabinets", "props": "short white Spin360"}
+},
+{
+ "id": "0e6feb26-174f-4c1c-a45e-662e0855ebc1",
+ "kind": "ugc_broll",
+ "summary": "Brunette woman in a pink dress pulls navy blackout curtains shut over a sunny window, then stands hot and fanning herself, wipes her brow and walks off as a child runs in.",
+ "people": [{"who": "woman, 30s, brown hair in ponytail", "wardrobe": "pink short-sleeve dress", "role": "creator"}, {"who": "small child, blond (briefly, edge of frame)", "wardrobe": "", "role": "child"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": ["black tower fan"], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "mixed", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 11.5, "camera": "static", "framing": "wide", "action": "woman walks to window and draws navy curtains closed, room darkens", "on_screen_text": "", "audio_hint": ""},
+  {"start": 11.5, "end": 17.5, "camera": "static", "framing": "wide", "action": "fans face with hand, hand on hip, wipes forehead, looks exhausted", "on_screen_text": "", "audio_hint": ""},
+  {"start": 17.5, "end": 21.4, "camera": "static", "framing": "wide", "action": "walks out, child passes, empty curtain wall", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 12.0, "end": 16.5, "why": "clear 'too hot' reaction: fanning face, wiping brow"},
+ "beats": ["hot_sleeper_problem", "sweaty_discomfort", "old_fan_annoyance"],
+ "hook_potential": {"score": 2, "why": "relatable heat frustration"},
+ "brand_fit": {"score": 1, "why": "dark heavy curtains, ordinary bedroom"},
+ "quality": {"score": 2, "issues": []},
+ "status": "CAUTION", "status_why": "black tower fan visible at right edge (problem shot only)",
+ "tags": ["closing blackout curtains", "woman fans face with hand", "too hot", "wipes forehead", "pink dress", "black tower fan", "Avery"]
+},
+{
+ "id": "a66b862b-ba30-4c24-9b3e-5b42ee608cb7",
+ "kind": "ugc_broll",
+ "summary": "Hand holds a gold-labelled 'Spin360 Lux' scent pod in front of a white Spin360, flips open the hinged clear lid, lifts the white pad to show a yellow scent disc, and closes it.",
+ "people": [{"who": "woman, hand only (silver rings)", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "partial", "colourway": "white", "on": false, "details_seen": ["scent pod 'spin 360 Lux'", "cage", "base", "display"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 8.0, "camera": "handheld", "framing": "close", "action": "hand turns sealed scent pod showing gold Spin360 Lux label, fan blurred behind", "on_screen_text": "", "audio_hint": ""},
+  {"start": 8.0, "end": 16.0, "camera": "handheld", "framing": "close", "action": "opens hinged lid, white pad inside, removes pad to reveal yellow disc", "on_screen_text": "", "audio_hint": ""},
+  {"start": 16.0, "end": 21.5, "camera": "handheld", "framing": "close", "action": "closes pod, reopens, then hand leaves; fan alone", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 0.0, "end": 5.0, "why": "branded scent pod label sharp with fan behind"},
+ "beats": ["scent_tray"],
+ "hook_potential": {"score": 1, "why": "branded accessory close-up"},
+ "brand_fit": {"score": 2, "why": "clean gold label, plain wall background"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["scent pod close-up", "Spin360 Lux scent pod", "opening scent pod", "yellow scent disc", "white fan background", "Avery"]
+},
+{
+ "id": "fb7db022-cf3e-4c9d-9559-835d60a343f7",
+ "kind": "ugc_broll",
+ "summary": "Brunette woman in a white tee restlessly turns in bed under a grey floral comforter at dusk, kicks the covers off and lies on her back.",
+ "people": [{"who": "woman, 30s, brown hair", "wardrobe": "white t-shirt, pink shorts", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "evening", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 8.0, "camera": "static", "framing": "medium", "action": "tosses and turns under comforter", "on_screen_text": "", "audio_hint": ""},
+  {"start": 8.0, "end": 22.4, "camera": "static", "framing": "medium", "action": "pushes comforter down, arms behind head, tosses it fully off", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 19.0, "end": 22.4, "why": "kicks the covers off, clear hot-sleeper action"},
+ "beats": ["hot_sleeper_problem", "sweaty_discomfort"],
+ "hook_potential": {"score": 2, "why": "relatable night-heat problem"},
+ "brand_fit": {"score": 1, "why": "dim, ordinary bedroom"},
+ "quality": {"score": 2, "issues": ["dark"]},
+ "status": "OK", "status_why": "",
+ "tags": ["woman tossing and turning", "kicks off comforter", "hot at night", "tufted headboard", "Avery"]
+},
+{
+ "id": "d4181c32-785c-499b-834d-bfaea1fda293",
+ "kind": "product_only",
+ "summary": "Five evening shots of a tall black Spin360 with lit display beside a big red wall clock and caged floor lamp in a warm-lit living room with wood sideboard and TV.",
+ "people": [],
+ "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["display lit", "cage", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "evening", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "cluttered"},
+ "shots": [
+  {"start": 0.0, "end": 4.6, "camera": "handheld", "framing": "medium", "action": "fan beside red clock, floor lamp and painting", "on_screen_text": "", "audio_hint": ""},
+  {"start": 4.6, "end": 8.4, "camera": "handheld", "framing": "medium", "action": "tighter angle on fan, clock and lamp, display glowing", "on_screen_text": "", "audio_hint": ""},
+  {"start": 8.4, "end": 11.87, "camera": "handheld", "framing": "medium", "action": "fan next to sideboard and dark TV", "on_screen_text": "", "audio_hint": ""},
+  {"start": 11.87, "end": 15.43, "camera": "static", "framing": "wide", "action": "wide room with fluffy pouf, armchair, fan in corner, TV off", "on_screen_text": "", "audio_hint": ""},
+  {"start": 15.43, "end": 22.0, "camera": "pan", "framing": "wide", "action": "same wide, TV shows dark landscape painting, slow pan right", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 4.6, "end": 8.4, "why": "fan with lit display framed by clock and warm lamp"},
+ "beats": ["product_hero", "quiet_demo", "room_aesthetic"],
+ "hook_potential": {"score": 0, "why": "static, dim ambience"},
+ "brand_fit": {"score": 1, "why": "warm and cosy but dim and busy decor"},
+ "quality": {"score": 2, "issues": ["dark"]},
+ "status": "OK", "status_why": "",
+ "tags": ["fan in evening living room", "warm lamp light", "red wall clock", "fan by TV", "quiet room", "lit display", "Michael"]
+},
+{
+ "id": "24a7d952-0225-4bb4-a408-78eaf3a37e15",
+ "kind": "ugc_broll",
+ "summary": "High-angle dark shot of a young man in a white tee and shorts tossing and turning under a white sheet on a large bed.",
+ "people": [{"who": "man, 20s-30s, short dark hair", "wardrobe": "white t-shirt, grey shorts", "role": "actor"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "night", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 21.9, "camera": "static", "framing": "wide", "action": "man kicks legs, rolls, pulls sheet over himself and off repeatedly", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 2.0, "end": 7.0, "why": "most movement, legs kicking sheet"},
+ "beats": ["hot_sleeper_problem", "sweaty_discomfort"],
+ "hook_potential": {"score": 1, "why": "relatable but very dark"},
+ "brand_fit": {"score": 1, "why": "dark, plain room"},
+ "quality": {"score": 1, "issues": ["dark"]},
+ "status": "OK", "status_why": "",
+ "tags": ["man tossing and turning", "can't sleep night", "kicking sheets", "dark bedroom overhead", "Michael"]
+},
+{
+ "id": "1c25ee33-391f-47c6-b971-7270828bbbb6",
+ "kind": "ugc_broll",
+ "summary": "Woman's hand with pink nails and diamond ring passes in front of the cage of a running black Spin360 to feel the airflow.",
+ "people": [{"who": "woman, hand only (pink nails, diamond ring)", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "partial", "colourway": "black", "on": true, "details_seen": ["gold halo", "cage", "top scent lid/knob", "perforated top"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 22.6, "camera": "handheld", "framing": "close", "action": "hand hovers and sweeps around the cage, palm flat to feel breeze; camera drifts around the head", "on_screen_text": "", "audio_hint": "child calling 'Mom' repeatedly off-camera"}
+ ],
+ "best": {"start": 8.0, "end": 11.0, "why": "hand flat on cage, gold halo and blades sharp"},
+ "beats": ["airflow_demo_hand", "product_hero"],
+ "hook_potential": {"score": 1, "why": "clear airflow demo, close detail"},
+ "brand_fit": {"score": 2, "why": "clean detail shot, plain grey wall"},
+ "quality": {"score": 2, "issues": ["shaky"]},
+ "status": "OK", "status_why": "audio has child shouting 'Mom' - use muted",
+ "tags": ["hand feels breeze", "airflow demo hand", "gold halo close-up", "manicured hand", "diamond ring", "IMG_97xx house"]
+},
+{
+ "id": "c20d7f5a-70d1-474f-882b-be06296a61e8",
+ "kind": "ugc_broll",
+ "summary": "Dark-haired woman in a striped tee pulls a grey sheet off her bed and holds it up to show sweat stains, pointing at them with a grimace.",
+ "people": [{"who": "woman, 40s, dark hair in top bun", "wardrobe": "black-white striped tee, grey shorts", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "cluttered"},
+ "shots": [
+  {"start": 0.0, "end": 2.5, "camera": "static", "framing": "medium", "action": "pulls sheet up off the bed", "on_screen_text": "", "audio_hint": ""},
+  {"start": 2.5, "end": 19.5, "camera": "static", "framing": "medium", "action": "holds sheet up to camera, shows sweat marks, sniffs, pulls face, points at stains", "on_screen_text": "", "audio_hint": ""},
+  {"start": 19.5, "end": 20.1, "camera": "static", "framing": "medium", "action": "drops sheet, shrugs with hands up", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 3.5, "end": 6.0, "why": "shocked face behind sweat-stained sheet"},
+ "beats": ["sweaty_discomfort", "hot_sleeper_problem", "reaction_face"],
+ "hook_potential": {"score": 3, "why": "gross-out sweaty sheet is a scroll-stopping problem hook"},
+ "brand_fit": {"score": 1, "why": "busy walls, messy bed"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["sweaty sheets", "sweat stains on sheet", "woman holds up sheet", "gross face", "night sweats", "sage green bedroom", "IMG_97xx house"]
+},
+{
+ "id": "e2b02c11-037e-4d69-814d-f0eda9b5be5b",
+ "kind": "ugc_broll",
+ "summary": "Woman in striped tee throws off a patterned duvet, sits on the bed edge, stretches and yawns, rubs her eyes and looks tired.",
+ "people": [{"who": "woman, 40s, dark hair in top bun", "wardrobe": "black-white striped tee, shorts", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 5.0, "camera": "static", "framing": "wide", "action": "kicks off duvet and sits up on bed edge", "on_screen_text": "", "audio_hint": ""},
+  {"start": 5.0, "end": 12.2, "camera": "static", "framing": "medium", "action": "big stretch and yawn, rubs eyes with both hands, slumps looking tired", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 5.5, "end": 10.5, "why": "stretch, yawn and eye-rub in one take"},
+ "beats": ["waking_refreshed", "hot_sleeper_problem", "reaction_face"],
+ "hook_potential": {"score": 1, "why": "can read as groggy (problem) or wake-up (solution)"},
+ "brand_fit": {"score": 2, "why": "sage-green bedroom, natural light"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "wall sign 'together' visible, no names",
+ "tags": ["woman wakes up", "stretch and yawn", "rubs eyes", "tired morning", "sits on edge of bed", "IMG_97xx house"]
+},
+{
+ "id": "c5d20f9b-c363-4e64-8007-fa3b1533285c",
+ "kind": "ugc_broll",
+ "summary": "Woman in an olive 'light' tee walks through a doorway into a carpeted bedroom, stands looking around neutrally, then exits left.",
+ "people": [{"who": "woman, 40s, dark hair in top bun", "wardrobe": "olive graphic tee ('light'), light blue shorts, barefoot", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 9.9, "camera": "static", "framing": "wide", "action": "enters through door, stops centre, glances around, walks out left", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 3.0, "end": 8.0, "why": "standing still, neutral look into room"},
+ "beats": [],
+ "hook_potential": {"score": 0, "why": "no action"},
+ "brand_fit": {"score": 1, "why": "plain carpeted room"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["woman walks into room", "enters bedroom", "looks around", "sage green walls", "IMG_97xx house"]
+},
+{
+ "id": "7fe1ab0d-dfd9-42dc-ba5b-5379d3affcc8",
+ "kind": "ugc_broll",
+ "summary": "Same woman in olive tee walks in through a doorway, stops facing camera with a slight smile as if feeling the air, then walks past camera right.",
+ "people": [{"who": "woman, 40s, dark hair in top bun", "wardrobe": "olive graphic tee ('light'), light blue shorts, barefoot", "role": "creator"}, {"who": "small child in background hallway", "wardrobe": "", "role": "child"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 10.2, "camera": "static", "framing": "wide", "action": "walks in, pauses facing camera, eyes close briefly, smiles, walks past right", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 6.0, "end": 9.0, "why": "relieved smile, could pair with fan cut"},
+ "beats": ["reaction_face"],
+ "hook_potential": {"score": 1, "why": "pleasant relief reaction"},
+ "brand_fit": {"score": 1, "why": "plain carpeted room"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["woman walks into room", "relieved smile", "feels cool air", "enters bedroom", "IMG_97xx house"]
+},
+{
+ "id": "edf505b2-0fa7-41bd-826b-56393c418d2d",
+ "kind": "ugc_broll",
+ "summary": "Woman in olive tee reads a book on a brown sofa while a black Spin360 runs right beside her.",
+ "people": [{"who": "woman, 40s, dark hair in top bun", "wardrobe": "olive graphic tee", "role": "creator"}],
+ "product": {"visible": "partial", "colourway": "black", "on": true, "details_seen": ["cage", "gold halo", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "cluttered"},
+ "shots": [
+  {"start": 0.0, "end": 21.6, "camera": "static", "framing": "medium", "action": "woman reads, turns pages; fan head spins beside her", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 2.0, "end": 7.0, "why": "calm reading with fan in frame"},
+ "beats": ["lifestyle_reading_relaxing"],
+ "hook_potential": {"score": 0, "why": "static, low energy"},
+ "brand_fit": {"score": 1, "why": "dated decor, framed family portraits"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "framed family portraits (children) on wall",
+ "tags": ["woman reading on sofa", "fan beside sofa", "relaxing with fan", "brown sofa", "family photos wall", "IMG_97xx house"]
+},
+{
+ "id": "9c56ea3b-6d7c-460f-bc5a-07cdc345e31d",
+ "kind": "ugc_broll",
+ "summary": "Woman in a tan tank top knocks on a dark front door with glass panes, opens it and walks inside.",
+ "people": [{"who": "woman, 40s, dark hair in bun", "wardrobe": "tan tank top, black trousers, barefoot", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "outdoors", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 8.1, "camera": "static", "framing": "medium", "action": "knocks on door, waits, opens it and steps in", "on_screen_text": "", "audio_hint": "knocking"}
+ ],
+ "best": {"start": 5.0, "end": 8.1, "why": "door opens, entering home"},
+ "beats": [],
+ "hook_potential": {"score": 0, "why": "generic transition"},
+ "brand_fit": {"score": 1, "why": "ordinary porch"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "'Welcome' door sign, no names visible",
+ "tags": ["woman knocks on door", "front porch", "enters house", "coming home", "IMG_97xx house"]
+}
+]

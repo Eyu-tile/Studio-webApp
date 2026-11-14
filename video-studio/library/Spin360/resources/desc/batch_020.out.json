@@ -1,0 +1,212 @@
+[
+ {
+  "id": "afff427d-3be5-4218-8688-5d23376fee38",
+  "kind": "ugc_broll",
+  "summary": "POV: a hand presses buttons on a portable AC unit, changing the set temp (60 -> 64/65 -> back to 60), next to a white oscillating pedestal fan in the cabin by the glass door.",
+  "people": [{"who": "woman, hand and bare legs/feet only", "wardrobe": "teal shorts", "role": "hand only"}],
+  "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [],
+              "other_fans": ["portable AC unit (white/silver, display 60-65)", "white oscillating pedestal fan"], "other_brands": ["small logo on AC front (unclear, not prominent)"]},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 2.0, "camera": "handheld", "framing": "medium", "action": "white pedestal fan and portable AC by glass door, knotty-pine walls, slate floor", "on_screen_text": "", "audio_hint": "AC hum"},
+   {"start": 2.0, "end": 14.0, "camera": "handheld", "framing": "close", "action": "finger presses AC control panel; display 60 then 64, 65", "on_screen_text": "", "audio_hint": "button beeps"},
+   {"start": 14.0, "end": 18.5, "camera": "POV", "framing": "medium", "action": "top-down POV, bare legs, finger presses temp down 65 -> 62 -> 60", "on_screen_text": "", "audio_hint": ""},
+   {"start": 18.5, "end": 24.1, "camera": "handheld", "framing": "medium", "action": "camera pulls back to show AC and white pedestal fan together", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 2.0, "end": 8.0, "why": "clear close-up of finger cranking the AC thermostat - 'old way' cooling problem shot"},
+  "beats": ["old_fan_annoyance", "before_after"],
+  "hook_potential": {"score": 1, "why": "relatable 'blasting the AC' moment, but visually plain"},
+  "brand_fit": {"score": 1, "why": "competing appliances only; cabin light is nice"},
+  "quality": {"score": 2, "issues": ["shaky"]},
+  "status": "CAUTION", "status_why": "other cooling appliances shown (portable AC + white pedestal fan); problem shot only",
+  "tags": ["portable AC thermostat", "finger pressing AC buttons", "turning AC down to 60", "white pedestal fan", "energy bill problem", "Lauren cabin"]
+ },
+ {
+  "id": "71c6f1df-c57d-456f-ae62-a606ba98b687",
+  "kind": "ugc_broll",
+  "summary": "A brown wavy glass candle on a round oak table is lit with a long lighter; later Lauren sits down, blows it out and smoke drifts up, with a forest window behind.",
+  "people": [{"who": "woman, 40s, blonde hair up (Lauren)", "wardrobe": "white linen shirt over taupe tank, beige linen pants, gold bracelet", "role": "creator"}],
+  "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 7.2, "camera": "static", "framing": "close", "action": "long black lighter lights candle wick; flame settles; chunky knit throw on sofa behind", "on_screen_text": "", "audio_hint": "lighter click"},
+   {"start": 7.2, "end": 17.0, "camera": "static", "framing": "close", "action": "reframed: candle burning, knit throw and pine-tree window behind", "on_screen_text": "", "audio_hint": ""},
+   {"start": 17.0, "end": 21.6, "camera": "static", "framing": "medium", "action": "Lauren walks in, sits, leans in and blows candle out", "on_screen_text": "", "audio_hint": "blow"},
+   {"start": 21.6, "end": 25.8, "camera": "static", "framing": "close", "action": "she leaves; smoke curls from the snuffed wick", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 19.0, "end": 25.0, "why": "blowing out the candle + smoke wisp: 'ditch candles, use scent pods' transition"},
+  "beats": ["room_aesthetic", "lifestyle_reading_relaxing", "before_after"],
+  "hook_potential": {"score": 1, "why": "blow-out + smoke is a decent 'stop using candles' opener"},
+  "brand_fit": {"score": 3, "why": "airy cabin, knit throw, forest window, soft daylight"},
+  "quality": {"score": 3, "issues": []},
+  "status": "OK", "status_why": "",
+  "tags": ["candle lit with lighter", "blowing out candle", "candle smoke", "candle alternative", "scent comparison", "knit throw", "forest window", "Lauren white linen shirt"]
+ },
+ {
+  "id": "5a60fb78-33c3-4122-a297-ac32e3312809",
+  "kind": "ugc_broll",
+  "summary": "Static wide of Lauren's vaulted bedroom with a black Spin360 by a plant; she walks in, stands in front of it gesturing, then sits on the bed edge and looks back at the fan.",
+  "people": [{"who": "woman, 40s, blonde hair up (Lauren)", "wardrobe": "long black-and-white print halter maxi dress, barefoot", "role": "creator"}],
+  "product": {"visible": "full", "colourway": "black", "on": null, "details_seen": ["cage", "gold halo", "base"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 3.3, "camera": "static", "framing": "wide", "action": "empty bedroom: striped bed foreground, black Spin360 beside monstera, papasan chair, wood door", "on_screen_text": "", "audio_hint": ""},
+   {"start": 3.3, "end": 8.0, "camera": "static", "framing": "wide", "action": "Lauren crosses frame to the door and out", "on_screen_text": "", "audio_hint": ""},
+   {"start": 8.0, "end": 12.7, "camera": "static", "framing": "wide", "action": "she walks back in beside the fan, gestures with hands as if talking", "on_screen_text": "", "audio_hint": "possible speech"},
+   {"start": 12.7, "end": 20.5, "camera": "static", "framing": "wide", "action": "sits on bed edge, turns to look at the fan, hand on hair, smiles", "on_screen_text": "", "audio_hint": ""},
+   {"start": 20.5, "end": 25.0, "camera": "static", "framing": "wide", "action": "gets up and exits; empty room again", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 13.0, "end": 19.0, "why": "relaxed seated moment with the fan in a styled bedroom"},
+  "beats": ["room_aesthetic", "product_hero", "lifestyle_reading_relaxing"],
+  "hook_potential": {"score": 1, "why": "calm lifestyle wide, no strong action"},
+  "brand_fit": {"score": 3, "why": "airy vaulted bedroom, wood ceiling, plants, neutral linens"},
+  "quality": {"score": 3, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "",
+  "tags": ["black fan in bedroom", "woman sits on bed", "maxi dress", "monstera plant", "papasan chair", "vaulted wood ceiling", "Lauren bedroom", "empty room plate"]
+ },
+ {
+  "id": "c6ebb330-0211-4690-9922-8bfb703dfdaf",
+  "kind": "ugc_broll",
+  "summary": "Two takes of Lauren walking to a window in a carpeted game room with a foosball table, opening it, and walking back out.",
+  "people": [{"who": "woman, 40s, blonde hair up (Lauren)", "wardrobe": "brown racerback tank, teal bike shorts, barefoot", "role": "creator"}],
+  "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+  "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 10.2, "camera": "static", "framing": "wide", "action": "take 1: walks from camera to window, leans and pushes it open, turns and walks back past camera smiling", "on_screen_text": "", "audio_hint": ""},
+   {"start": 10.2, "end": 20.1, "camera": "static", "framing": "wide", "action": "take 2: walks to window again, opens it, exits right", "on_screen_text": "", "audio_hint": ""},
+   {"start": 20.1, "end": 23.9, "camera": "handheld", "framing": "wide", "action": "empty room, then camera grabbed (blur)", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 12.5, "end": 19.0, "why": "cleaner take 2: walk-in and window opening from behind"},
+  "beats": ["hot_sleeper_problem", "sweaty_discomfort"],
+  "hook_potential": {"score": 1, "why": "'opening the window to get air' problem setup, low drama"},
+  "brand_fit": {"score": 1, "why": "plain carpeted game room, foosball table; tree view small"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "",
+  "tags": ["opening window", "woman opens window for air", "foosball table", "game room", "trying to cool down", "Lauren workout outfit"]
+ },
+ {
+  "id": "b063dadd-d19d-4993-8391-a36e3b9956d7",
+  "kind": "ugc_broll",
+  "summary": "Overhead POV of three Spin360 scent pods on a striped cloth; hands pick up the gold 'Lux' pod, open the hinged lid, peel the seal and lift out the yellow gel scent disc.",
+  "people": [{"who": "woman's hands, pink manicure, gold rings", "wardrobe": "", "role": "hand only"}],
+  "product": {"visible": "partial", "colourway": "none", "on": null, "details_seen": ["scent pods (gold Lux, green Clean, dark Fresh)", "hinged clear lid", "yellow gel scent disc"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 3.0, "camera": "POV", "framing": "close", "action": "three pods (dark, gold, green) on white/brown striped cloth", "on_screen_text": "", "audio_hint": ""},
+   {"start": 3.0, "end": 9.0, "camera": "POV", "framing": "close", "action": "hands pick up gold 'spin 360 Lux' pod, show label", "on_screen_text": "", "audio_hint": ""},
+   {"start": 9.0, "end": 18.0, "camera": "POV", "framing": "close", "action": "flip open hinged lid, peel seal, reveal yellow gel disc", "on_screen_text": "", "audio_hint": "peel"},
+   {"start": 18.0, "end": 25.2, "camera": "POV", "framing": "close", "action": "lift out the yellow gel disc, hold it up; pods back on cloth", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 9.0, "end": 17.0, "why": "open lid + peel reveals glowing yellow gel - satisfying scent-pod reveal"},
+  "beats": ["scent_tray", "unboxing"],
+  "hook_potential": {"score": 2, "why": "ASMR-style peel and gel reveal"},
+  "brand_fit": {"score": 2, "why": "clean neutral linen, soft daylight; plain table-top"},
+  "quality": {"score": 3, "issues": []},
+  "status": "OK", "status_why": "",
+  "tags": ["scent pods", "Lux scent pod gold label", "peeling seal", "yellow gel scent disc", "three scent pods", "POV hands", "pod lineup Fresh Clean Lux"]
+ },
+ {
+  "id": "53595d55-ac14-44b9-8b09-8248a2d5e6a9",
+  "kind": "product_only",
+  "summary": "Handheld tilt down a black Spin360 by the cabin window; a hand wakes the display (Spin360 logo + F1) and steps through speeds F3, F6, then the camera pulls back to hero the head against a forest view.",
+  "people": [{"who": "woman's hand", "wardrobe": "", "role": "hand only"}],
+  "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["display F1", "display F3", "display F6", "Spin360 logo on display", "cage", "gold halo", "base"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 3.0, "camera": "tilt", "framing": "close", "action": "from clear ribbed cage, tilt down the black pole", "on_screen_text": "", "audio_hint": ""},
+   {"start": 3.0, "end": 9.5, "camera": "handheld", "framing": "close", "action": "hand touches round display: lights with Spin360 logo, F1 -> F3 -> F6", "on_screen_text": "", "audio_hint": "beeps"},
+   {"start": 9.5, "end": 10.5, "camera": "tilt", "framing": "close", "action": "tilt up from display to head", "on_screen_text": "", "audio_hint": ""},
+   {"start": 10.5, "end": 28.4, "camera": "handheld", "framing": "medium", "action": "fan head and pole against pine-forest window, camera drifts in and out", "on_screen_text": "", "audio_hint": "airflow"}
+  ],
+  "best": {"start": 3.5, "end": 9.0, "why": "crisp display close-up stepping F1 -> F3 -> F6 with logo"},
+  "beats": ["turning_on", "control_display", "product_hero"],
+  "hook_potential": {"score": 1, "why": "useful feature b-roll, not a hook"},
+  "brand_fit": {"score": 3, "why": "black unit, gold halo, sunlit forest window"},
+  "quality": {"score": 2, "issues": ["shaky", "blurry"]},
+  "status": "OK", "status_why": "",
+  "tags": ["touch display", "speed F1 F3 F6", "Spin360 logo display", "turning fan on", "black fan by window", "forest view", "gold halo close-up", "Lauren cabin"]
+ },
+ {
+  "id": "62ee3a82-afea-414a-a9d8-a2be07178628",
+  "kind": "ugc_broll",
+  "summary": "Static wide of a bright entryway; Lauren goes downstairs, comes back up with a mug, recoils at a smell, waves it away from her nose and holds her forehead walking toward camera.",
+  "people": [{"who": "woman, 40s, blonde hair up (Lauren)", "wardrobe": "brown racerback tank, teal bike shorts, barefoot", "role": "creator"}],
+  "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": ["Nike swoosh on sneakers on floor (small)", "'United States Golf Courses' map poster"]},
+  "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 8.0, "camera": "static", "framing": "wide", "action": "empty entryway: wood door, bench, golf map, shoes on floor, stair rail", "on_screen_text": "", "audio_hint": ""},
+   {"start": 8.0, "end": 14.0, "camera": "static", "framing": "wide", "action": "Lauren walks past camera and down the stairs", "on_screen_text": "", "audio_hint": ""},
+   {"start": 14.0, "end": 22.5, "camera": "static", "framing": "wide", "action": "returns with mug, yawns/recoils, fans hand at nose, hunches", "on_screen_text": "", "audio_hint": ""},
+   {"start": 22.5, "end": 27.6, "camera": "static", "framing": "medium", "action": "walks to camera grimacing, hand on forehead, exits; empty entry", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 16.0, "end": 25.0, "why": "clear 'ugh, stale smell' reaction with hand-wave and forehead touch"},
+  "beats": ["reaction_face", "sweaty_discomfort"],
+  "hook_potential": {"score": 2, "why": "comic smelly-house reaction works as a problem hook"},
+  "brand_fit": {"score": 1, "why": "tidy but shoes cluttered on floor, no product"},
+  "quality": {"score": 3, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "small Nike logo on floor sneakers - avoid close crops",
+  "tags": ["smelly air reaction", "woman waves away smell", "stale house smell", "coffee mug", "entryway", "hand on forehead", "Lauren workout outfit"]
+ },
+ {
+  "id": "93bf0015-d40b-484f-8cbd-6d09d169f6bd",
+  "kind": "ugc_broll",
+  "summary": "Handheld: a hand sticks, peels and re-sticks a handwritten kraft sticky note 'BEST Fan of 2026' on the cage of a black Spin360 by the forest window, ending on a wide.",
+  "people": [{"who": "woman's hand, pink nails, gold ring", "wardrobe": "", "role": "hand only"}],
+  "product": {"visible": "hero", "colourway": "black", "on": null, "details_seen": ["cage", "gold halo", "base", "top cap grille"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 5.0, "camera": "handheld", "framing": "close", "action": "hand presses note 'BEST Fan of 2026' onto cage, smooths it", "on_screen_text": "handwritten note: BEST Fan of 2026", "audio_hint": ""},
+   {"start": 5.0, "end": 11.0, "camera": "handheld", "framing": "medium", "action": "note on fan, then peeled off toward camera", "on_screen_text": "BEST Fan of 2026", "audio_hint": ""},
+   {"start": 11.0, "end": 18.5, "camera": "handheld", "framing": "close", "action": "note held to lens, then re-stuck on cage", "on_screen_text": "BEST Fan of 2026", "audio_hint": ""},
+   {"start": 18.5, "end": 24.1, "camera": "handheld", "framing": "medium", "action": "pull back: fan with note against pine forest and boulder view", "on_screen_text": "BEST Fan of 2026", "audio_hint": ""}
+  ],
+  "best": {"start": 0.0, "end": 5.0, "why": "sticky-note claim placed on the cage - instant hook"},
+  "beats": ["product_hero", "cta_point"],
+  "hook_potential": {"score": 3, "why": "handwritten 'BEST Fan of 2026' is a ready-made scroll stopper"},
+  "brand_fit": {"score": 3, "why": "black unit, forest window, bright"},
+  "quality": {"score": 2, "issues": ["shaky", "baked-in text"]},
+  "status": "CAUTION", "status_why": "superlative claim on prop: \"BEST Fan of 2026\"",
+  "tags": ["sticky note", "BEST Fan of 2026", "handwritten note on fan", "peeling note", "black fan forest window", "award claim", "Lauren cabin"]
+ },
+ {
+  "id": "3d0b640a-34b9-4323-b7ce-109baf49ba82",
+  "kind": "ugc_broll",
+  "summary": "Avery in a black jumpsuit walks in and dangles a patterned silk scarf beside a white Spin360 against a plain blue wall to show airflow; the scarf sways only slightly.",
+  "people": [{"who": "woman, 30s, long dark-brown ponytail (Avery)", "wardrobe": "black spaghetti-strap jumpsuit, barefoot", "role": "creator"}],
+  "product": {"visible": "full", "colourway": "white", "on": true, "details_seen": ["cage", "display", "base"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 3.0, "camera": "static", "framing": "wide", "action": "Avery enters from louvered door with silk scarf", "on_screen_text": "", "audio_hint": ""},
+   {"start": 3.0, "end": 25.0, "camera": "static", "framing": "wide", "action": "holds scarf at fan's side at several heights; scarf drifts gently toward/away", "on_screen_text": "", "audio_hint": ""},
+   {"start": 25.0, "end": 27.2, "camera": "static", "framing": "wide", "action": "she smiles and walks out with scarf", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 9.0, "end": 14.0, "why": "scarf held out at head height shows most movement"},
+  "beats": ["airflow_demo_curtain_or_ribbon"],
+  "hook_potential": {"score": 0, "why": "airflow effect barely visible, wide and static"},
+  "brand_fit": {"score": 1, "why": "bare wall, ordinary room, flat light"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK", "status_why": "",
+  "tags": ["silk scarf airflow test", "white fan blue wall", "Avery black jumpsuit", "airflow visualisation", "weak airflow look"]
+ },
+ {
+  "id": "4c80314e-5542-4398-a55f-462ba42ac9d2",
+  "kind": "product_only",
+  "summary": "Close static on a white Spin360 head: a hand brings paper towel under the head and the bottom intake sucks it up and holds it in place hands-free.",
+  "people": [{"who": "woman's hand, rings", "wardrobe": "", "role": "hand only"}],
+  "product": {"visible": "hero", "colourway": "white", "on": true, "details_seen": ["cage", "gold halo", "display (dark)", "bottom intake vents"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 9.0, "camera": "static", "framing": "medium", "action": "hand holds paper towel near pole/display; it flutters and drops", "on_screen_text": "", "audio_hint": ""},
+   {"start": 9.0, "end": 16.5, "camera": "static", "framing": "medium", "action": "paper raised to underside of head; sucks up flat against intake", "on_screen_text": "", "audio_hint": ""},
+   {"start": 16.5, "end": 22.5, "camera": "static", "framing": "medium", "action": "hand pulls paper down, lets go, it snaps back to intake and hangs", "on_screen_text": "", "audio_hint": ""},
+   {"start": 22.5, "end": 29.3, "camera": "static", "framing": "medium", "action": "fresh sheet held up, sticks under head hands-free, hand points at it", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 22.5, "end": 29.0, "why": "paper sucked onto intake and stays put with no hand - clear suction proof"},
+  "beats": ["airflow_demo_hand", "product_hero"],
+  "hook_potential": {"score": 2, "why": "surprising 'it holds the paper' suction trick"},
+  "brand_fit": {"score": 2, "why": "clean white unit, gold halo; plain grey wall"},
+  "quality": {"score": 3, "issues": []},
+  "status": "OK", "status_why": "",
+  "tags": ["bottom intake suction", "paper towel test", "paper stuck to fan", "white fan close-up", "gold halo", "airflow proof", "Avery"]
+ }
+]

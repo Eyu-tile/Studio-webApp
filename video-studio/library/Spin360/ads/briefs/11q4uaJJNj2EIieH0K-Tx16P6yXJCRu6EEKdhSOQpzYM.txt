@@ -1,0 +1,249 @@
+﻿Spin360_RacingThoughts_Song
+Song: Spin360_RacingThoughts_Song (3:00 → trim the first 1.6 s, final ≈2:58).
+3 ads, same song, same body. Only the first ~7 seconds of picture change (3 visual hooks: A Megaphone, B Meters, C Neon). Cut the body once and reuse it. Images in the Visual Inspiration column are inspiration, not final frames.
+Strategy
+# Element
+	Answer
+	1 · Desire
+	"I want my brain to actually relax when I go to bed." Not knocked out — relieved. Real sleep, wake up feeling like a person again, patience for the people she loves.
+	2 · Avatar
+	Experiences: "tired but wired" — exhausted, but the second her head hits the pillow her brain switches on: tomorrow's to-dos, work, conversations, something awkward from years ago. Behaviors: sleep apps, podcasts, a fan even in winter. Emotions: exhausted, frustrated, quietly blaming herself. Cast: a woman ~38 (the singer's voice is early 30s) and her husband.
+	3 · Angle
+	Quiet room, loud brain. It's not you, it's the quiet: in dead silence your own thoughts become the loudest thing in the room.
+	4 · Mechanism
+	One steady sound for your mind, a soft breeze for your body. The brain needs one steady sound to hold on to. Apps loop, podcasts pull you in, a regular fan blasts air at you. Spin360 makes real white noise that never changes, and was made to send a soft breeze around the room that never hits your face.
+	5 · Authority
+	Researchers at Harvard (the "would rather take a shock than sit alone with their thoughts" study, Science 2014) · thousands of people sleeping with it · reviews · 30-night trial.
+	6 · Awareness
+	Problem aware: she knows her brain won't shut off; she doesn't know the silence is part of why. Many are already solution aware (apps, podcasts, fans) — the song handles that with "they're on the right track, but…".
+	7 · Emotion
+	Opens: negative and funny ("that's me"). Middle: frustration → guilt (next day) → relief ("it's not you") → "I've tried everything" → hope at the product. Ends: calm, happy, singalong. The song gets brighter the moment the product appears.
+	8 · Positioning
+	Enemy: the dead-silent bedroom while your brain is still running — and the things that don't fix it (looping apps, podcasts, a fan blasting air). Spin360: real white noise + a soft breeze around the room.
+	Production brief
+Format: AI singing ad (the whole ad is the song). Trim the first 1.6 s of the song file so her voice starts at 0:00; final length ≈ 2:58. All timecodes below are after the trim. 3 ads = the same song and body with 3 different visual hooks (first ~7 s). From "Head hits the pillow…" on, the three ads are identical.
+Look: 3D animation in the style of a Pixar movie for the whole ad. Vertical 9:16. Lyrics on screen word by word (bold uppercase, the sung word highlighted), plus a few on-screen text lines marked in the scene descriptions.
+The big idea — LOUD vs QUIET: her thoughts are a character: THE BRAIN, a small pink cartoon brain with a megaphone. Before the product: dark, cold blue light, tight framing, the Brain screaming, thoughts filling the room. After the product: warm amber light, open framing, a soft breeze, the Brain holding on to one steady line of sound and finally falling asleep. The flip happens on the instrumental break (1:18–1:26), which is where Spin360 appears.
+Motifs that tie every scene together (no random shots): (1) the Brain — megaphone → lowers it → holds the steady line → asleep hugging a tiny pillow; (2) the color — cold blue → warm amber; (3) mirrors — 3 coffees → 1 coffee, the clock at 1:07 AM → the clock barely moved, the face blasted by a fan → her calm face with a breeze, the overhead shot packed with thoughts → the same shot empty and calm, "QUIET ROOM. LOUD BRAIN." → "STEADY SOUND. QUIET BRAIN."
+Cast & set (same in every scene): SHE (~38, brown messy bun, grey sleep t-shirt, plaid pajama pants), HIM (her husband, dark hair, stubble, navy t-shirt, asleep and snoring while she's awake), THE BRAIN, one bedroom. Character sheet below.
+Product: Spin360, white floor model only (reference: FLOOR_0.1.jpg). Always on the floor next to her side of the bed, never on furniture. The air is a breeze, not wind: a couple of strands of hair and the curtain hem move, nothing more. Regular-fan scenes show OTHER people only, generic fans, no brands. No app or podcast logos.
+Music: the song is the only audio. There is no hard stop: the song has an ~8 s instrumental break at 1:18–1:26 — that is the product reveal. Optional light sound design only (megaphone squeal, snore, clock ticks), never over the vocal.
+Research proof: at "Researchers at Harvard…", put a real screenshot of the study page over the scene (Science, 2014, "Just think: The challenges of the disengaged mind," Wilson et al.). Do not invent a card.
+  
+
+	Visual hooks (3 ads)
+Ad
+	Lyric (song)
+	Visual Inspiration
+	Scene description
+	VH-A Megaphone
+Spin360_RacingThoughts_Song_Hook1
+	[0:00] The quieter the room, the louder your brain,
+[0:03] Tired but wired, and it's at it again.
+	  
+
+  
+
+	Comedy / character. On-screen text: QUIET ROOM. LOUD BRAIN. Dark quiet bedroom: her head drops on the pillow and THE BRAIN instantly pops up next to her face screaming into a red megaphone (HA1). Close-up: her eyes snap wide open while her husband snores peacefully beside her (HA2). Strong first frame at 0.0 s, no fade in.
+	VH-B Meters
+Spin360_RacingThoughts_Song_Hook2
+	[0:00] The quieter the room, the louder your brain,
+[0:03] Tired but wired, and it's at it again.
+	  
+
+  
+
+	Information / literal. On-screen text: QUIET ROOM. LOUD BRAIN. Two volume meters float over the bed: ROOM drops to zero while BRAIN shoots up into the red (HB1; labels and animation added in edit). Her eyes snap open in the red glow (HB2). Must read in half a second with the sound off.
+	VH-C Neon
+Spin360_RacingThoughts_Song_Hook3
+	[0:00] The quieter the room, the louder your brain,
+[0:03] Tired but wired, and it's at it again.
+	  
+
+  
+
+	Visual surprise. On-screen text: QUIET ROOM. LOUD BRAIN. She clicks off the lamp (HC1) and the instant the room goes dark, her thoughts light up above the bed like a giant neon sign (HC2). She pulls the pillow toward her face.
+	All three visual hooks cut straight into the body at "Head hits the pillow…" (0:07).
+Body
+Section
+	Lyric (song)
+	Visual Inspiration
+	Scene description
+	Emotion
+	Verse 1
+	[0:07] Head hits the pillow, and here comes the list,
+	  
+
+	THE BRAIN pulls an endless paper list out of thin air; it unrolls off the bed and across the floor. She stares at it, wide awake.
+	"That's me."
+	Verse 1
+	[0:11] Tomorrow's to-dos and the stuff that you missed,
+	  
+
+	Close on the list: to-dos, checked and unchecked, a red FORGOT stamp. The Brain holds it up to her face.
+	Recognition.
+	Verse 1
+	[0:16] Then work rolls in, replayin' what they said,
+	  
+
+	A small TV on the nightstand replays a meeting, her boss mid-sentence, on loop. The Brain hits rewind on a remote.
+	Recognition.
+	Verse 1
+	[0:20] And that awkward thing from oh-eight in your head.
+	  
+
+	The Brain pushes a VHS tape labeled 2008 into the TV: younger her frozen in an awkward moment at a party. In bed, she cringes with her whole face.
+	Laugh. Big comedy beat.
+	Chorus
+	[0:24] Quiet room, loud brain,
+Lyin' there, runnin' it all again,
+	  
+
+	Overhead shot straight down on the bed: she lies wide awake while the list, the TV and the 2008 tape circle around her like a carousel. Husband asleep. On-screen: QUIET ROOM. LOUD BRAIN.
+	Pressure.
+	Chorus
+	[0:28] Two hours a night, that's fourteen a week,
+	  
+
+	Alarm clock on the nightstand flips fast to 1:07 AM; her open eyes behind it.
+	Pressure.
+	Chorus
+	[0:31] That's two whole nights you never got to sleep.
+	  
+
+	A wall calendar: the Brain crosses out two whole nights with a red marker. On-screen: 14 HOURS A WEEK.
+	Shock.
+	Verse 2
+	[0:33] Next day you're snappin' at the people you love,
+	  
+
+	Morning kitchen, flat grey daylight: she snaps at her husband; he freezes, mug in hand.
+	Guilt.
+	Verse 2
+	[0:37] Can't think straight, and three coffees ain't enough.
+	  
+
+	Office: she slumps at her desk, eyes heavy; three empty coffee cups line up in front of her (land one cup per beat on "three").
+	Exhaustion.
+	Spoken
+	[0:41] It's not you. It's the quiet.
+	  
+
+	The band drops. Back in the dark bedroom, slow push-in on her face. The Brain goes still for the first time.
+	Relief from blame.
+	Spoken
+	[0:43] Researchers at Harvard found one in four women would rather take an electric shock than sit alone with their thoughts.
+	  
+
+	A simple white lab: a woman alone at a table with a big red SHOCK button; she presses it, tiny comic zap. Real study screenshot slides in over the scene (Science, 2014). On-screen: 1 IN 4 WOMEN.
+	Surprise. Authority.
+	Spoken
+	[0:50] In dead silence, your own thoughts become the loudest thing in the room.
+	  
+
+	Her bedroom completely packed with giant glowing thought-objects (clock, list, TV, tape, envelope) pressing against the walls; she's tiny in the middle of the bed, the Brain shouting. The LOUD peak of the ad.
+	Overwhelm.
+	Verse 3
+	[0:55] You tried a sleep app, it loops, and you're back in your head,
+	  
+
+	Phone on her pillow plays a sound wave that repeats with a visible seam; on the loop point she jolts awake. No app logos.
+	"I've tried everything."
+	Verse 3
+	[1:01] You tried a podcast, now you're listenin' instead,
+	  
+
+	She sits up with earbuds in, laughing, wide awake; the Brain next to her eating popcorn.
+	Funny, frustrated.
+	Verse 3
+	[1:05] So many people sleep with a fan, even when it's freezin',
+They're on the right track, the noise is the reason,
+	  
+
+	OTHER people, never her: a guy in a beanie buried under three blankets, a box fan running, frost on the window. On-screen: THE NOISE IS THE REASON.
+	Validation.
+	Verse 3
+	[1:10] But a fan just blasts air in your face all night,
+It was built to blow wind, not to quiet your mind.
+	  
+
+	Another person (not her): a grandpa with a pedestal fan blasting straight at his face, hair flying, squinting, holding the blanket up like a shield. The only place in the ad with real wind.
+	Discomfort, comedy.
+	THE TURN
+	[1:18–1:26] (instrumental break)
+	  
+
+	Hard cut to near black. Silence on screen. Then, on the floor next to her side of the bed, the Spin360 display lights up — the only light in the room. Slow push-in; warm light starts spreading. On-screen: SPIN360. THE most important shot: hold it.
+	Hope.
+	Verse 4
+	[1:26] That's why Spin three-sixty was made for nights like these,
+	  
+
+	Wide warm shot: her bedroom in amber light, she sits in bed smiling, Spin360 on the floor beside the bed. Hero shot, premium.
+	Hope.
+	Verse 4
+	[1:31] Real white noise that puts your mind at ease,
+One steady sound that never changes on you,
+	  
+
+	Soft sound ripples flow out of the Spin360 and wash over the room; the Brain lowers the megaphone (on "ease"). The ripples settle into one smooth, flat line.
+	Wonder.
+	Verse 4
+	[1:39] So your brain's got somethin' to hold on to.
+	  
+
+	The Brain grabs the steady line of light like a handrail and relaxes, eyes half closed. Key metaphor: hold it.
+	Relief.
+	Verse 5
+	[1:43] It was made to send a soft breeze 'round the room,
+It never hits your face, it just drifts on through.
+	  
+
+	Tiny air particles drift around the whole room, the curtain hem sways softly. Close on her calm sleeping face: only a couple of strands at her temple drift. Mirror of the blasted face at 1:10.
+	Calm.
+	Proof
+	[1:52] Thousands of people fall asleep to it every night, and the reviews keep saying the same thing: it drowns out the mental chatter.
+	  
+
+	Camera pulls out through the window to a quiet street of warm bedroom windows (B22), then real UGC selfie footage, not AI: a quick mosaic of real customer/creator selfies with their Spin360 (reference: Erin's selfie, B-roll clip 35; clips 8 and 17), review snippets on screen in edit. This line may change before launch.
+	Trust.
+	Verse 6
+	[2:01] Twenty minutes in, the replay's done,
+No list, no replay, no oh-eight, not one.
+	  
+
+	The TV switches off, the 2008 tape ejects, the list rolls itself up — one object per "no". The Brain yawns.
+	Release.
+	Final Chorus
+	[2:10] Steady sound, quiet brain,
+Lyin' there, not runnin' it all again,
+You're out before the first hour's through,
+Your last thought? You don't have a clue.
+	  
+
+	She sleeps with a tiny smile, husband beside her, the Brain asleep hugging a tiny pillow, Spin360 glowing on the floor. Same overhead angle as 0:24, now empty and calm; the clock barely moved. On-screen: STEADY SOUND. QUIET BRAIN.
+	Peace. Biggest singalong.
+	Verse 7
+	[2:18] Next morning, you're laughin' with the people you love,
+Head's clear, and one coffee's enough.
+	  
+
+	Same kitchen as 0:33, now warm golden sunlight: she laughs with her husband. One coffee cup on the table (mirror of the three cups).
+	Joy.
+	Close
+	[2:26] Your room's gonna go quiet again tonight.
+What's your brain gonna hear: your to-do list, or one steady sound?
+It works out to about fifty cents a night.
+That's less than one coffee a week.
+	  
+
+	Evening, lamp on. Split screen: the unrolled list (left) vs the steady line from Spin360 (right). Then product hero on the bedroom floor next to one coffee cup. On-screen: ABOUT 50¢ A NIGHT.
+	The choice. Easy decision.
+	CTA
+	[2:40] Try Spin three-sixty for thirty nights.
+If you're not falling asleep easier, send it back.
+Tap the link. (outro to 2:58)
+	  
+
+	She switches it on and lies down; lights off, the display glows. End card: Spin360 centered on the floor. On-screen: 30 NIGHTS — RISK-FREE · TAP THE LINK. Hold until the song ends on soft white noise.
+	Calm resolution.

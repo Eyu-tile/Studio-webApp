@@ -1,0 +1,183 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_AD_ThermostatFight_NatureWalk 
+Author: Gabriel
+Editor: Choose
+
+
+AD BRIEF
+	
+
+[1] Creative Direction
+Workflow that you will be using: Seedance workflow3-Step Workflow To Make Ultra-Realistic AI Ads
+
+
+Watch :2026-07-10 21-35-39.mp4
+
+
+Watch: Spin360_Modular_Edit.mp4
+
+
+Inspiration: fb-829845356262860-fddc25c148-1-video (2).mp4
+
+
+
+
+
+
+Who the avatar is:
+ A husband who naturally sleeps hot while his wife sleeps cold. He is tired of the nightly thermostat negotiation, but he does not want a solution that makes her uncomfortable. He is practical, skeptical of gimmicks, and responds better to a clear mechanical explanation than to emotional selling. What he wants is simple: enough airflow to sleep cool, while she stays warm under the blankets, without either of them touching the thermostat. That is exactly the outcome Spin360 is designed to create.
+The idea: The inventor walks through nature and explains, in plain words, why couples never win the thermostat fight — and why a natural breeze does. The location is not decoration: the product's whole promise is "bringing the outside in," so David stands inside the result. The wind touching his face on camera IS the product demo. No competitor can film that.
+Why it's built this way: This ad talks to a smart, skeptical husband. So it never pushes — David says upfront he won't give the hard sell, and then simply teaches something true: hot air rises, cold air sinks, your bedroom is 2 rooms stacked, and the thermostat is reading the hallway. The viewer can verify every line in his own house tonight. Once he accepts that, the product is just the logical answer — and the breeze is the twist that ends the fight: it cools the hot sleeper on top of the covers, while she stays warm under three blankets. Same room, two comfortable people.
+The editing logic: Two worlds only. World 1 is the trail — one continuous walk, same outfit throughout, hard cuts between open locations (ONNO style)[a], This is the inspiration fb-829845356262860-fddc25c148-1-video (2).mp4  wind always visible, no music. World 2 is one bedroom at night — it only appears at 0:46, when the product appears for the first time, and that's also when the only music bed enters. The body has just 3 short inserts total (bedroom thermal, hallway thermostat, and the bedroom sequence), because David's presence is the authenticity — the less editing you feel, the less it feels like an ad. The bedroom sequence plays the whole night in 5 shots, ending on morning light and him waking up rested: cause and effect with no words. Then one hard cut back to the trail, and he closes the conversation sitting on a log — soft CTA, no push, matching the "sells itself" promise from the start.
+Hooks: 3 interchangeable openings on the same body — David-only walking (primary), the 2am thermostat sneak in security-cam style, and the thermal-image "personal furnace." They test presence vs. camouflage vs. spectacle; everything after 0:09 is identical.
+
+
+
+
+
+
+________________
+
+
+[2] Script
+"Your wife sleeps under 3 blankets. You're on top of the covers, sweating. Nobody ever told you why that fight never ends. So let me.
+I'm David Patrick. I design products for a living. I'm not gonna give you the hard sell here — this thing kinda sells itself. Just walk with me.
+Hot air rises, cold air sinks. Right? So your bedroom's actually 2 rooms — warm one at the ceiling, cold one at the floor. And your thermostat's not even in there. It's in the hallway, reading the hallway. You two are fighting over a number the room can't even hear.
+Out here it's different. The air just... keeps moving. So that's what I built. It pulls the warm air down, the cool air up, spins it all the way around — one temperature, with a little natural breeze left over. Feels like this. And a breeze cools you on top of the covers — while she stays warm under three blankets.
+And look — I spent 4 years on this, and I designed the whole thing around one thing: sleeping. Below speed 5, you can barely hear the thing. Above that, you get this perfect white noise. Either way, you just... forget it's there. You close your eyes and you're gone. And 'cause the air keeps moving, you're breathing fresher air all night — man, I wake up actually rested. Four years in — it still gets me.
+So... she keeps her number on the wall. You get the breeze. It's called the Spin360 — link's down below if you wanna see it."
+________________
+
+
+"Alternate hooks (they replace the first paragraph):" 
+Hook 2: "Somebody in your house sneaks over to the thermostat at 2am. It's you... or it's her. And nobody ever told you why no number ever settles it. So let me."
+Hook 3: "She calls you her personal furnace. Which is great... in January. But it's July, you're sweating on top of the covers, and she's STILL under 3 blankets. Lemme tell you why."
+
+
+
+
+
+
+[3] Storyboard
+Spin360_Termostato_Founder_NatureWalK · 1 body + 3 interchangeable hooks · ~78s · Avatar: Thermostat Couple (hot-side husband POV)
+3 HOOKS (interchangeable — 0:00–0:09)
+TIME
+	SEG / HOOK
+	VISUAL
+	AUDIO
+	VOICE
+	0:00–0:09
+	HOOK 1 — DAVID ONLY (primary)
+	Continuous take, no cuts. David walking on an open trail at golden hour, wind visibly moving trees and shirt. Black lav mic in right hand, chest height. Camera facing him, gimbal with slight sway, eyes into the lens.
+	Voice + natural ambience, low wind on mic.
+	“Your wife sleeps under 3 blankets. You're on top of the covers, sweating. Nobody ever told you why that fight never ends. So let me.”
+	
+
+	
+
+	
+
+	
+
+	
+
+	0:00–0:04
+	HOOK 2 — THE 2AM SNEAK
+	Security-camera/night-vision look: high corner angle of hallway, grainy, “2:04 AM” timestamp blinking. Figure in pajamas crosses, stops at thermostat, changes it, glances over shoulder.
+	Quiet house at night, one button click. VO over.
+	“Somebody in your house sneaks over to the thermostat at 2am.”
+	0:04–0:09
+	HOOK 2 (cont.)
+	Hard cut: David on the trail, walking, half-smile on the first line.
+	Trail ambience.
+	“It's you... or it's her. And nobody ever told you why no number ever settles it. So let me.”
+	
+
+	
+
+	
+
+	
+
+	
+
+	0:00–0:04
+	HOOK 3 — THERMAL
+	Thermal image of a couple in bed, top-down: him glowing orange/red on top of the duvet; her body comfortably insulated beneath cooler-looking blankets. 
+	Faint ambient hum. VO over.
+	“She calls you her personal furnace.”
+	0:04–0:09
+	HOOK 3 (cont.)
+	Hard cut: David on trail; on “But it's July” he opens his arm toward the bright surroundings.
+	Trail ambience.
+	“Which is great... in January. But it's July, you're sweating on top of the covers, and she's STILL under 3 blankets. Lemme tell you why.”
+	BODY (0:09–1:17 — same for all 3 hooks)
+TIME
+	SEG 
+	VISUAL
+	AUDIO
+	VOICE
+	0:09–0:16
+	SEG 2 — FOUNDER
+	Hard cut. Overlook/open field. David standing still, medium shot, into the lens. On last line, turns and walks out of frame; camera follows half a second.
+	Open-air ambience, wind present.
+	“I'm David Patrick. I design products for a living. I'm not gonna give you the hard sell here — this thing kinda sells itself. Just walk with me.”
+	0:16–0:31
+	SEG 3 — THE PHYSICS
+	Hard cut. Denser woods, camera tracking the walk. Hand rises on “hot air rises,” drops on “cold air sinks.” On “warm one at the ceiling, cold one at the floor”: 2s INSERT — vertical thermal image of a bedroom, orange ceiling, blue floor (same language as Hook 3). On “It's in the hallway, reading the hallway”: 1.5s INSERT — lit thermostat in an empty dim hallway. Back to David walking.
+	Footsteps, ambience.
+	“Hot air rises, cold air sinks. Right? So your bedroom's actually 2 rooms — warm one at the ceiling, cold one at the floor. And your thermostat's not even in there. It's in the hallway, reading the hallway. You two are fighting over a number the room can't even hear.”
+	0:31–0:46
+	SEG 4 — THE BREEZE
+	Hard cut. Clearing/ridge with strong visible wind. David arrives and STOPS. Slow push-in during the mechanism. On “Feels like this”: closes his eyes half a second, raises his hand feeling the air, wind in shirt and hair.
+	Wind in the foreground.
+	“Out here it's different. The air just... keeps moving. So that's what I built. It pulls the warm air down, the cool air up, spins it all the way around — one temperature, with a little natural breeze left over. Feels like this. And a breeze cools you on top of the covers — while she stays warm under three blankets.”
+
+
+	0:46–0:52
+	SEG 5 — THE SLEEP (shot 1)
+	Cut to bedroom, night, low warm light. Wide: Spin360 in the corner, running, curtain breathing softly — first appearance of the product.
+	Subtle emotional music bed enters (track V5). Soft fan shhh.
+	“And look — I spent 4 years on this, and I designed the whole thing around one thing: sleeping.”
+	0:52–0:57
+	SEG 5 (shot 2)
+	Close-up: DAVID'S hand turns the dial from 4 to 6 (shoot on bedroom day — founder's hand puts ownership back on the product).
+	Dial click.
+	“Below speed 5, you can barely hear the thing. Above that, you get this perfect white noise.”
+	0:57–1:01
+	SEG 5 (shot 3)
+	The bed: her sleeping warmly under 3 blankets, him sleeping comfortably on top of the duvet with the breeze subtly moving across him. Same bed, same thermostat setting, both comfortable.
+	Music bed.
+	“Either way, you just... forget it's there. You close your eyes and you're gone.”
+	1:01–1:04
+	SEG 5 (shot 4)
+	Dust particles in the low light / curtain moving.
+	Music bed.
+	“And 'cause the air keeps moving, you're breathing fresher air all night —”
+	1:04–1:07
+	SEG 5 (shot 5)
+	Morning, same bedroom, daylight: him waking up calm.
+	Music bed.
+	“man, I wake up actually rested. Four years in — it still gets me.”
+	1:07–1:17
+	SEG 6 — CLOSE
+	Hard cut back to the trail. David on a log, single static shot, wrapping-up posture. On “link's down below,” casual chin nod downward. End on Spin360 logo, 1 second.
+	Music exits on the cut; voice + ambience only.
+	“So... she keeps her number on the wall. You get the breeze. It's called the Spin360 — link's down below if you wanna see it.”
+	PRODUCTION NOTES
+ITEM
+	SPEC
+	Wardrobe
+	Same outfit in every trail scene.
+	Bedroom shoot day (single)
+	Bed from both sides (shots 3 & 5) · Hook 2 hallway · David's hand on dial · curtain · morning shot.
+	AI generations
+	Couple thermal (Hook 3) · vertical bedroom thermal (SEG 3).
+	Free future variation
+	Body without SEG 3 inserts (editor leaves them out).
+	Note for AI David
+	This is a spoken piece, not sacred text — stumbles and reordering are welcome. Non-negotiable: the full SEG 3 chain (hot air rises → 2 stacked rooms → thermostat in the hallway).
+	
+
+[a]This is the inspiration https://drive.google.com/file/d/10G2IQziExkUdw1Jsx9t1zeqp7e02bi-5/view?usp=sharing

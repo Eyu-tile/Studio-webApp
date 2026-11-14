@@ -1,0 +1,129 @@
+﻿Spin360_FeelCalm
+Brief - Spin360_FeelCalm.mp4
+
+
+3 ads · same body · 3 visual hooks. Real footage only, no voiceover: our customers and David (the inventor) from the interview. Only the last line (CTA) is new, made with Seedance 2.5.
+Material: Dropbox folder · TESTIMONIALS.mp4 · Interview Final render-4K.mov
+Ad type: Ideation · Testimonials + founder · Size: 9x16 · ~50 s
+
+
+Here is some files that you can use but still needs some adjustments in the sound for example 
+Cut sheet (Doc): Spin360 - Feel Calm - v1 - CUT SHEET
+* Final cut: Spin360 - Feel Calm - v1.mp4
+* Version with 2s handles: Spin360 - Feel Calm - v1 - 2s handles.mp4
+
+
+
+
+Strategy
+# Element
+	Answer
+	1 · Desire
+	"I want to sleep deep and feel calm at night."
+	2 · Avatar
+	Women who love air moving in the room but can't stand a fan blowing on them. In a customer's words: "I have ALWAYS found fans to be wonderful to hear and terrible to be near! […] My eyes dry out, my hair blows all over." David hears it all the time: "I hate it when a fan is pointed right at me."
+	3 · Angle
+	It feels like a real breeze, not a fan. The calm and sleep lines are its payoff.
+	4 · Mechanism
+	New mechanism (the world's first 360-degree fan): the air goes out all around the room instead of one stream straight at you, so it touches your whole body like a breeze: "it's hitting my toes. It's hitting my knees. It's hitting my chest. […] That's what a breeze does." Customer proof: "you can feel the air movement in the room, but it's not directly blowing on you."
+	5 · Authority
+	David Patrick, the inventor: he made it, the strongest level of authority. Put his name and "Inventor of Spin360" on screen the first time he appears (0:05), because the script never says it. He repeats, word for word, what women tell him about fans, so she feels understood. Real customers on camera add to it. All of this comes before the product is named.
+	6 · Awareness
+	Product aware. She knows fans and hates the feel of one blowing on her. The hook hides the product to open a question (she feels calm and can't say why): that is a hidden product, not an unaware ad. The body says why fans fail her (pointed right at you) and why this one is different (air all around, like a breeze). The product is named only near the end.
+	7 · Emotion
+	Positive, low intensity: calm and relief. Curiosity first ("what is running?"), then relief when David explains it. Soft music, slow pace, no hype. If it feels flat, the first iteration is to raise the intensity.
+	8 · Positioning
+	Enemy: the fan that pushes one stream of air straight at you. Spin360 is different, not "better": the air goes all around the room, not at you. That's the part we own.
+	Production brief
+Audio: all lines are the real audio from the two files, cut at the times in the table. A "[…]" in a line means: cut that piece out and join the rest. Leave short natural pauses, don't rush the customers.
+CTA: Seedance 2.5, David on camera (use the 0:05 row image as the start frame, same blue shirt and chair as the interview).
+Rules: no discount and no season words. Never say "silent". Spin360 is the only fan on screen. Captions: white words, center, word by word.
+Visual hooks (3 ads, same hook audio)
+Hook audio for all 3: TESTIMONIALS 2:29.0–2:33.9, "I don't know how to explain it, but when it's running, I just feel calm and I feel better."
+Ad
+	Visual Inspiration
+	Scene description
+	Hook 1 · The customer
+Spin360_FeelCalm_Hook1
+	  
+
+	Footage: TESTIMONIALS 2:29.0–2:33.9, as it is. Reframe to 9:16, her face centered. Strong first frame, no fade in. Caption: I don't know how to explain it.
+	Hook 2 · Window shut
+Spin360_FeelCalm_Hook2
+	  
+
+	 Bedroom at night, the window is shut, but the curtain next to it moves gently. A woman sleeps calm, a few strands of hair moving. Slow push-in. Same caption.
+	Hook 3 · Walls gone
+Spin360_FeelCalm_Hook3
+	  
+
+	A woman asleep in bed, the Spin360 next to it. The walls of the bedroom slowly fade away and the bed is in an open field, grass moving. Same caption.
+	All three hooks cut straight into the body at David: "Women will constantly come up to me…"
+Script / Shot list
+Time
+	Script
+	Visual Inspiration
+	Scene description
+	0:00
+	(Customer) "I don't know how to explain it, but when it's running, I just feel calm and I feel better."
+	  
+
+	One of the 3 visual hooks above.
+	0:05
+	(David) "Women will constantly come up to me and say, I can't stand the way a fan feels on me. I hate it when a fan is pointed right at me. […] But I love yours."
+	  
+
+	On screen the first time he appears: David Patrick, Inventor of Spin360. Interview 12:34.0–12:41.7, then 12:43.0–12:44.1 (cut out "I don't like that"). Caption: I can't stand the way a fan feels on me.
+	0:14
+	(David) "This just doesn't feel like a fan."
+	  
+
+	Interview 12:54.4–12:56.1.
+	0:16
+	(David) "First night with it, I woke up halfway through the night and literally thought the walls were gone. […]"
+	  
+
+	Interview 13:17.0–13:21.9.
+	0:21
+	(David) "I thought I was outside."
+	  
+
+	Interview 13:23.6–13:24.9 (audio). Picture: this image, the bed in the bedroom with the back wall gone, open to the beach (slow zoom in).
+	0:23
+	(David) "It feels like a breeze, because it's hitting my toes, it's hitting my knees, it's hitting my chest. […] That's what a breeze does."
+	  
+
+	Interview 13:31.5–13:37.0, then 13:37.8–13:38.9. Start the cut on "it feels like a breeze" (drop "oh my God" if it sounds better).
+	0:30
+	(Customer) "You can feel the air movement in the room, but it's not directly blowing on you."
+	  
+
+	TESTIMONIALS 0:57.3–1:01.5.
+	0:34
+	(Customer) "I haven't slept this good in years."
+	  
+
+	TESTIMONIALS 0:11.7–0:13.9.
+	0:37
+	(Customer) "The Spin 360 makes me feel at peace when I turn it on."
+	  
+
+	TESTIMONIALS 3:56.6–4:00.1. First time the product is named.
+	0:41
+	(David) "Sleep with it for 30 nights. And if you don't love it, just send it back."
+	  
+
+	Seedance 2.5. David on camera, same look as the interview. End text: Try it for 30 nights.
+	Why each part is there (for the cut)
+Part
+	What it does
+	Hook (0:00)
+	Opens the question: what is running, and why does she feel calm? She can't explain it. The ad will.
+	"I can't stand a fan on me" (0:05)
+	Tells her right away who this is for. Opens a new question: why do they love his?
+	"Walls were gone / outside" (0:14–0:23)
+	Answers with a feeling: it doesn't feel like a fan, it feels like being outside.
+	"Toes, knees, chest" (0:23)
+	The reason to believe: the air touches your whole body, like a breeze.
+	Customers (0:30–0:41)
+	Proof from real people. The last line ("at peace") closes the hook ("I feel calm").

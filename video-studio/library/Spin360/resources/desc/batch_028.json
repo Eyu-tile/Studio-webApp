@@ -1,0 +1,628 @@
+{
+ "batch": "batch_028",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_028.out.json",
+ "clips": [
+  {
+   "id": "e92f0fc0-625c-4f0b-b8ad-8c75d9c5cfb4",
+   "filename": "IMG_3835.mov",
+   "folder": "(unfiled)",
+   "duration_s": 128.15,
+   "talking": false,
+   "cuts": [
+    0.87,
+    127.33
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e92f0fc0-625c-4f0b-b8ad-8c75d9c5cfb4_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e92f0fc0-625c-4f0b-b8ad-8c75d9c5cfb4_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e92f0fc0-625c-4f0b-b8ad-8c75d9c5cfb4_3.jpg"
+   ],
+   "bya_description": "A black pedestal fan stands in a room. Camera pans up the device.",
+   "bya_tags": [
+    "Feeling the breeze",
+    "Fan controls",
+    "Living room",
+    "Fan controls",
+    "Feeling the breeze",
+    "Living room"
+   ]
+  },
+  {
+   "id": "dd07fb72-aadf-49fb-b53f-27c2e410970a",
+   "filename": "UT_April_FanCleaning.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 127.23,
+   "talking": false,
+   "cuts": [
+    12.18,
+    20.69,
+    29.2,
+    33.91,
+    82.46,
+    85.46,
+    90.47,
+    99.47,
+    106.48,
+    112.45,
+    118.12,
+    118.16
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/dd07fb72-aadf-49fb-b53f-27c2e410970a_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/dd07fb72-aadf-49fb-b53f-27c2e410970a_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/dd07fb72-aadf-49fb-b53f-27c2e410970a_3.jpg"
+   ],
+   "bya_description": "Hands assemble clear fan blades.",
+   "bya_tags": [
+    "Living room",
+    "Fan spinning close-up",
+    "Fan spinning close-up",
+    "Living room"
+   ]
+  },
+  {
+   "id": "5e177d55-a849-45b7-8891-3e30a572ed8a",
+   "filename": "UT_April_Hooks.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 267.63,
+   "talking": false,
+   "cuts": [
+    5.51,
+    12.86,
+    19.65,
+    29.28,
+    41.01,
+    51.97,
+    71.19,
+    84.7,
+    99.72,
+    104.72,
+    110.73,
+    121.24,
+    138.75,
+    156.27,
+    163.78,
+    176.21,
+    183.88,
+    196.98,
+    203.99,
+    233.23,
+    237.85,
+    242.66,
+    249.08,
+    253.09,
+    262.1
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5e177d55-a849-45b7-8891-3e30a572ed8a_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5e177d55-a849-45b7-8891-3e30a572ed8a_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5e177d55-a849-45b7-8891-3e30a572ed8a_3.jpg"
+   ],
+   "bya_description": "A woman in a grey top holds a clear, star-shaped plastic piece and extends it toward the camera.",
+   "bya_tags": [
+    "Visible airflow test",
+    "Relaxing at home",
+    "Fan controls",
+    "Fan controls",
+    "Feeling the breeze",
+    "Relaxing at home",
+    "Visible airflow test"
+   ]
+  },
+  {
+   "id": "e66e6682-dada-47bd-a13c-ddad3a038678",
+   "filename": "UT_April_Hooks_1.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 267.63,
+   "talking": false,
+   "cuts": [
+    5.51,
+    12.86,
+    19.65,
+    29.28,
+    41.01,
+    51.97,
+    71.19,
+    84.7,
+    99.72,
+    104.72,
+    110.73,
+    121.24,
+    138.75,
+    156.27,
+    163.78,
+    176.21,
+    183.88,
+    196.98,
+    203.99,
+    233.23,
+    237.85,
+    242.66,
+    249.08,
+    253.09,
+    262.1
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e66e6682-dada-47bd-a13c-ddad3a038678_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e66e6682-dada-47bd-a13c-ddad3a038678_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e66e6682-dada-47bd-a13c-ddad3a038678_3.jpg"
+   ],
+   "bya_description": "A woman in a grey shirt holds a transparent star-shaped tool in front of her chest.",
+   "bya_tags": [
+    "Visible airflow test",
+    "Product hero shot",
+    "Feeling the breeze",
+    "Feeling the breeze",
+    "Relaxing at home",
+    "Visible airflow test"
+   ]
+  },
+  {
+   "id": "aa3127f6-4163-41d1-8c04-19672bb5cf66",
+   "filename": "B-roll 1 x V2",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 144.22,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/aa3127f6-4163-41d1-8c04-19672bb5cf66_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/aa3127f6-4163-41d1-8c04-19672bb5cf66_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/aa3127f6-4163-41d1-8c04-19672bb5cf66_3.jpg"
+   ],
+   "bya_description": "A woman in a brown tank top unboxes a large fan on a white table. She removes the manual, poles, and small parts.",
+   "bya_tags": [
+    "Direct address",
+    "Home testimonial",
+    "Unboxing",
+    "Direct address",
+    "Home testimonial",
+    "Lifting box",
+    "Product in hand",
+    "Removing plastic wrap"
+   ]
+  },
+  {
+   "id": "1def2845-2208-495d-abb6-5eddc7670c7f",
+   "filename": "Speed ramp noise vs outside noise",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 151.95,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1def2845-2208-495d-abb6-5eddc7670c7f_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1def2845-2208-495d-abb6-5eddc7670c7f_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1def2845-2208-495d-abb6-5eddc7670c7f_3.jpg"
+   ],
+   "bya_description": "A tall black tower fan stands next to a window in a dark room. The fan's circular vent is visible at the top.",
+   "bya_tags": [
+    "Blue light ambiance",
+    "Product on surface",
+    "Digital display",
+    "Blue light ambiance",
+    "Digital display",
+    "Fan spinning close-up",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "02117bc9-031c-4135-ba82-5056531b44f6",
+   "filename": "Unboxing",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 176.12,
+   "talking": false,
+   "cuts": [
+    6.0,
+    27.1,
+    30.47,
+    132.9
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/02117bc9-031c-4135-ba82-5056531b44f6_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/02117bc9-031c-4135-ba82-5056531b44f6_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/02117bc9-031c-4135-ba82-5056531b44f6_3.jpg"
+   ],
+   "bya_description": "A person uses a red utility knife to cut the packing tape on the top of the cardboard box. They then pull the flaps open to reveal a black inner box. Then a person's hand slides a large brown cardboard box across a grey wood-textured floor. The box features a line drawing of a pedestal fan and the text 'Electric Fans'.",
+   "bya_tags": [
+    "Unboxing",
+    "Fan controls",
+    "Lifting box",
+    "Fan controls",
+    "Lifting box",
+    "Product close-up",
+    "Product in hand",
+    "Unboxing"
+   ]
+  },
+  {
+   "id": "533a5d6b-b89d-40cf-a354-4a93717ef624",
+   "filename": "360-3-HOOK-1-This-has-20260811-094859.mov",
+   "folder": "360 fan  - Vicky / New talking heads",
+   "duration_s": 187.77,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/533a5d6b-b89d-40cf-a354-4a93717ef624_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/533a5d6b-b89d-40cf-a354-4a93717ef624_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/533a5d6b-b89d-40cf-a354-4a93717ef624_3.jpg"
+   ],
+   "bya_description": "A middle-aged woman with long, wavy silver hair stands in a living room, speaking directly to the camera. She wears a white wrap-style top and black pants, gesturing with her hands throughout the video. Behind her is a white built-in shelving unit with decorative vases and a louvered door with grey footprint decals.",
+   "bya_tags": [
+    "Talking head",
+    "Direct address",
+    "Home testimonial",
+    "Direct address",
+    "Home testimonial",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.7,
+     "text": "This has become my absolute holy grail for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 11.3,
+     "text": "This is my new obsession for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 24.3,
+     "text": "I finally figured out the trick to making my home smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "10-second hack",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 36.8,
+     "text": "I used to buy those expensive room sprays, but they have such an artificial smell and they literally last for about 3 minutes. And candles are beautiful, but they get so expensive and they're honestly a fire hazard.",
+     "labels": [
+      "Failed alternative",
+      "Expensive room sprays",
+      "Fire hazard",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 55.6,
+     "text": "So I switched to the Spin 360. It looks like a beautiful piece of high-end decor, but it uses something called Active Breeze Diffusion.",
+     "labels": [
+      "Mechanism explainer",
+      "Spin 360",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 66.4,
+     "text": "Normal diffusers just drop mist onto a table and do absolutely nothing for the room, but this is actually a revolutionary silent fan. It pulls that heavy stale air and silently pushes out a gentle cooling breeze infused ",
+     "labels": [
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 96.7,
+     "text": "It completely changes the atmosphere of the room in seconds. It takes away that stuffy feeling and makes the whole space feel fresh and open.",
+     "labels": [
+      "Product benefit",
+      "Room transformation",
+      "Takes Walls Off",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 105.6,
+     "text": "It completely changes the atmosphere of the room in seconds. It takes away that stuffy feeling and makes the whole space feel fresh and open.",
+     "labels": [
+      "Product benefit",
+      "Room transformation",
+      "Takes Walls Off",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 115.8,
+     "text": "There are 3 pods I rotate: Clean Floral and Vanilla for every day, Sunlit Citrus when I want the place to feel awake, and Citrus Sandalwood when people are coming over. That one gets comments every single time.",
+     "labels": [
+      "Scent rotation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 132.2,
+     "text": "Because here's the thing nobody tells you. You stop smelling your own home. Your guests never do. Mine walk in now and ask, what smells so good?",
+     "labels": [
+      "Guest First Impressions",
+      "Scent rotation",
+      "Talking head",
+      "Nose Blindness Solution"
+     ]
+    },
+    {
+     "start": 147.5,
+     "text": "Because here's the thing nobody tells you. You stop smelling your own home. Your guests never do. Mine walk in and ask, what smells so, so good?",
+     "labels": [
+      "Guest First Impressions",
+      "Scent rotation",
+      "Talking head",
+      "Nose Blindness Solution"
+     ]
+    },
+    {
+     "start": 161.2,
+     "text": "Because here's the thing nobody tells you. You stop smelling your own home. Your guests never do. Mine walk in now and ask, what smells so good? The Spin 360 cools the room in dead quiet, and it elevates your entire home",
+     "labels": [
+      "Guest First Impressions",
+      "Scent rotation",
+      "Dead silent",
+      "Home Elevation"
+     ]
+    },
+    {
+     "start": 176.5,
+     "text": "The first 1,000 people get $100 off.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 180.2,
+     "text": "The first 1,000 people get $100 off, so click the link below to get yours.",
+     "labels": [
+      "Offer CTA",
+      "Spin 360",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7075b419-51d9-48fb-85bc-41039ba69753",
+   "filename": "360-3-HOOK-1-This-has-20260811-095421.mov",
+   "folder": "360 fan  - Vicky / New talking heads",
+   "duration_s": 159.66,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7075b419-51d9-48fb-85bc-41039ba69753_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7075b419-51d9-48fb-85bc-41039ba69753_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7075b419-51d9-48fb-85bc-41039ba69753_3.jpg"
+   ],
+   "bya_description": "A woman with long grey hair and a white wrap top stands in a room, speaking directly to the camera. She gestures with her hands against a background of a white wall and a shelf with decorative vases.",
+   "bya_tags": [
+    "Talking head",
+    "Living room",
+    "Friends complimenting home",
+    "Living room",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.9,
+     "text": "This has become my absolute holy grail for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 13.8,
+     "text": "This is my new obsession for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 27.5,
+     "text": "I finally figured out the trick to making my home smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 43.3,
+     "text": "I used to buy those expensive room sprays, but they have such an artificial smell that they literally last for about 3 minutes. And candles are beautiful, but they get so expensive and they're honestly a fire hazard.",
+     "labels": [
+      "Failed alternative",
+      "Expensive room sprays",
+      "Fire hazard",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 58.8,
+     "text": "So I switched to the Spin 360. It looks like a beautiful piece of high-end decor, but it uses something called Active Breeze Diffusion. Normal diffusers just drop mist onto a table and do absolutely nothing for the room.",
+     "labels": [
+      "Mechanism explainer",
+      "Spin 360",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 78.0,
+     "text": "But this is actually a revolutionary silent fan. It pulls in that heavy stale air and silently pushes out a gentle cool cooling\u2014 it pulls in that heavy stale air and silently pushes out a gentle cooling breeze infused wi",
+     "labels": [
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 107.4,
+     "text": "There are 3 pods I rotate: Clean Floral and Vanilla for every day, Sunlit Citrus when I want my place to feel awake, and and citrus sandalwood when people are coming over. That one gets comments every single time because",
+     "labels": [
+      "Scent rotation",
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 146.1,
+     "text": "The Spin 360 cools the room, it's dead quiet, and it elevates your entire home.",
+     "labels": [
+      "Dead silent",
+      "Home Elevation",
+      "Spin 360",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 152.1,
+     "text": "The first 1,000 people get $100 off, so click the link below to get yours.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6cecf1b9-c9d4-4f3f-a468-406ac572629c",
+   "filename": "360-3-HOOK-1-This-has-20260810-110852.mov",
+   "folder": "360 fan  - Vicky / Talking heads",
+   "duration_s": 159.66,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6cecf1b9-c9d4-4f3f-a468-406ac572629c_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6cecf1b9-c9d4-4f3f-a468-406ac572629c_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6cecf1b9-c9d4-4f3f-a468-406ac572629c_3.jpg"
+   ],
+   "bya_description": "A senior woman talks to the camera in a living room while holding a scent pod. She shows the pod to the lens and gestures toward a metallic fan.",
+   "bya_tags": [
+    "Talking head",
+    "Living room",
+    "Product hero shot",
+    "Living room",
+    "Product in hand",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 1.0,
+     "text": "This has become my absolute holy grail for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 12.8,
+     "text": "This is my new obsession for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 23.0,
+     "text": "I finally figured out the trick to making my home smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 36.1,
+     "text": "I used to buy those expensive room sprays, but they have such an artificial smell and they literally last for about 3 minutes. And candles are beautiful, but they get so expensive and they honestly are a fire hazard.",
+     "labels": [
+      "Failed alternative",
+      "Expensive room sprays",
+      "Fire hazard",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 52.0,
+     "text": "So I switched to the So I switched to the Spin 360. It looks like a beautiful high\u2014",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 58.0,
+     "text": "so I switched to the Spin 360. It looks like a beautiful high-end decor, but it uses something called Active Breeze Diffusion. Normal diffusers just drop mist onto a table and do absolutely nothing for the room.",
+     "labels": [
+      "Spin 360",
+      "Mechanism explainer",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 73.4,
+     "text": "Normal diffusers just drop mist onto a table and do absolutely nothing for the room, but this is actually a revolutionary silent fan. It pulls in that heavy, stale air and silently pushes out a gentle, cool breeze infuse",
+     "labels": [
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 93.7,
+     "text": "It completely changes the atmosphere of the room in seconds. It takes away that stuffy feeling and makes the whole space feel fresh and open.",
+     "labels": [
+      "Room transformation",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 106.0,
+     "text": "There are 3 pods on rotate Clean Floral and Vanilla for every day, Sunlit Citrus when I want the place to feel awake, and Citrus Sandalwood\u2014 and Citrus Sandalwood when people are coming over. That one gets comments every",
+     "labels": [
+      "Scent rotation",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 129.0,
+     "text": "Because here's the thing nobody tells you: you stop smelling your own home and Your guests never do. Mine walk in now and ask, what smells so good?",
+     "labels": [
+      "Scent rotation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 143.3,
+     "text": "The 360 cools and spins the room. It's dead quiet and it elevates your entire home.",
+     "labels": [
+      "Dead silent",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 152.3,
+     "text": "The first 1,000 people get $100 off, so click the link below to get yours.",
+     "labels": [
+      "Offer CTA",
+      "Spin 360",
+      "Talking head"
+     ]
+    }
+   ]
+  }
+ ]
+}

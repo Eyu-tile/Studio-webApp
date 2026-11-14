@@ -1,0 +1,238 @@
+﻿Brand: Spin360
+ Ad ID: Spin360_AD_NonNegotiableScam_DavidUGC 
+Author: Gabriel Editor
+
+
+AD BRIEF
+	[1] Creative Direction
+WatchSpin360_Ad_Briefing.mp4
+Watch: How Does an Editor Think and Feel?
+  
+
+Seedance workflow one example of the workflowSpin360_UGC_DavidScamConfession_Hook3.mp4
+The plan exists so you can depart from it. Find the happy accidents. The storyboard is your map (not a cage) — if you see a better road, take it. 
+Format — THE WINNING LAYOUT (copy the running ScamConfession): The B-ROLL fills the entire vertical frame — real bedrooms, the couple, the product, natural light. DAVID is a cutout picture-in-picture anchored bottom-left: chest-up, background removed, reacting and pointing at what the scene shows. BIG red ALL-CAPS anchors drop in the upper-middle on the key lines. Continuous spoken captions run throughout (account caption style) — a sound-off viewer must follow 100% of the argument. David goes FULL FRAME on exactly three beats — the confession, the wave gesture, the close. Full frame is punctuation, not default.
+
+
+How to read the storyboard: timings are approximate — the voice-over recording sets the real clock. The VISUAL column describes the IDEA each stretch needs to communicate, with example scenes; the editor picks or generates footage that carries that idea. Only the items marked ⚓ NON-NEGOTIABLE are fixed: hit those exactly. Red anchors and music changes are tied to SPOKEN LINES, not to timestamps.
+
+
+Who the avatar is: The fan-dependent husband. He has slept with a fan every night of his adult life — he needs the moving air on his body AND the real fan sound, both, or he doesn't sleep. Next to him: a wife who hates the fan — the stream hitting her face, and the wop-wop-wop of the blades. He has tried every position in the room. Both concluded it's unsolvable. This ad tells him he was right — and hands him the one exception.
+
+
+Every b-roll scene is the COUPLE's world — their bed, their room, their war, their peace. The scene identifies the buyer before David says a word.
+
+
+The idea: David opens by accusing his own ad of being a scam, recites the claims like charges, confesses they're all true, and then reveals the real scam: the word "fan" — because with a fan, somebody in that bed always had to lose. The mechanism (blades that push instead of chop) resolves both of her objections — the wind on her skin AND the sound — with one physical fact.
+
+
+The structure (5 movements): Accusation → Claims-as-charges → Confession ("that's all true") → The real scam + the physics → Reverse-CTA close. Two open loops carry retention: the scam loop (opened at the hook, paid on "the scam is the word fan") and the sound loop ("I'll get to that" → paid on "Told you I'd get to it").
+
+
+EMOTIONAL ARC & PACING MAP: Total ≈ 1:45–2:00, set by the VO. The ad breathes in waves — fast where he's listing, slow where he's landing.
+
+
+1. HOOK — CONSPIRATORIAL. Serious, near-whisper warning. Red anchor within the first second.
+2. CLAIMS — PROSECUTOR RHYTHM. Faster, list cadence, slightly skeptical. B-roll switches per claim.
+3. CONFESSION — THE BREAK. Full stop, FULL FRAME, half-smile, quiet pride. The music turns with him.
+4. THE SCAM + THE WAR — BAR PROFESSOR → FRUSTRATION SPRINT. Slow thesis, then the fastest cutting in the ad. Hard stop on "somebody."
+5. THE MECHANISM — INVENTOR CALM. Slowest stretch. The wave gesture FULL FRAME. "Window's open" = soft.
+6. THE SOUND — PLAYFUL → REVERENT. He performs the wop-wop; the real audio takes over.
+7. CLOSE — DEADPAN → TENDERNESS. Joke straight-faced, smile on "I'm kidding", last line soft over the final wide.
+
+
+MUSIC PLAN :
+
+
+* From the first word: tense-curious minimal pulse (subtle plucks/tick), low under voice. (Suno/Lyria: "minimal tense curious pulse, subtle plucks, sparse, modern, low intensity, ad-safe, no drop".)
+* ⚓ On "Which — yeah. That's all true." — THE MUSIC TURNS: tension resolves into a warm minimal acoustic/ambient bed. The score flips from "warning" to "truth" with him.
+* Under the war sprint ("You point it at yourself..." → "...somebody"): light tick percussion joins, quickening. Cuts dead on "somebody."
+* On "Mine doesn't point": the bed opens up — warmest stretch, relief arriving.
+* ⚓ During the sound beat ("Oh — and the sound" → "...taking the wind for it"): MUSIC DUCKS TO NEAR-ZERO. The real audio owns it: wop-wop → silence → shhh. The duck is what makes the real audio hit.
+* From "So yeah" to end: bed resolves on the final wide. No tail over the logo.
+* Variation: continuous warm bed from the start.
+
+
+⚓ SOUND DESIGN (non-negotiable assets): Real conventional-fan wop-wop 2s (on "That wop... wop... wop") · real Spin360 shhh at speed 6+ 2s (on "that clean, steady shhh") · one dial click (on "Below speed five"). Close-mic'd, clean.
+
+
+CAPTIONS + TEXT SYSTEM (two layers):
+
+
+* Layer 1 — SPOKEN CAPTIONS, CONTINUOUS: every word, account style, whole ad.
+* Layer 2 — RED CAPS ANCHORS (big, red, all-caps, white stroke, upper-middle, one at a time) — each fires ON its line:
+   * On "It's a scam" (first second) → "IT'S A SCAM"
+   * On "doesn't get hit by it" → "RUNS ALL NIGHT. SHE'S FINE."
+   * On "nothing's pointed at her" → "NOTHING'S POINTED AT HER"
+   * On the window line → "...IS THERE A WINDOW OPEN?"
+   * On "That's all true" → "IT'S ALL TRUE"
+   * On "the word 'fan'" → "THE SCAM IS THE WORD 'FAN'"
+   * On "every fan points" → "EVERY FAN POINTS"
+   * On "Mine doesn't point" → "MINE DOESN'T"
+   * On "they push it" → "THEY PUSH THE AIR"
+   * On the wop-wop → "WOP WOP WOP" (shakes with the audio)
+   * On "without her taking the wind" → "YOUR SHHH. NOT ON HER."
+   * On "she doesn't even move" → "SHE DOESN'T EVEN MOVE"
+[2] Script
+"Hey guys — if you sleep with a fan... next to someone who hates it... do not fall for this video. It's a scam. Let me explain.
+
+
+Okay. So the video says there's a fan you can run all night... and the person next to you doesn't get hit by it. Not once.
+
+
+It says you still get your air. Moving on your body, all night. You still get your sound — a real fan, not some app... except it's not the sound she hates. I'll get to that. And she's two feet away... and nothing's pointed at her.
+
+
+It even says she ends up liking it. That people who hate fans walk into the room and go, "...is there a window open?"
+
+
+Which — yeah. That's all true. Every word of it. That's my fan. I hear "I can't stand fans, but I love yours" constantly. Constantly.
+
+
+So what's the scam? Okay. Here's the scam. The scam is the word "fan". Because with a fan — your whole life — somebody had to lose. Right? You point it at yourself — and she's catching that blast. Right in the face. All night. You point it at the wall — now you're the one up all night. You've done that math a hundred times. One side. The other side. Tilt it up. Tilt it down. There's no spot that works. And you know why? Because every fan points. That's the whole machine. It shoots the air in one hard line... and the line's gotta land on somebody.
+
+
+Mine doesn't point. It pulls air in from the top and the bottom, and sends it out everywhere at once. So the whole room just... has a breeze in it. You're in it. She's in it. Nobody's in front of it — there is no front.
+
+
+And the reason it feels like a breeze — and not like a fan — is the blades. They don't chop the air at you... they push it. Like when you wave your hand — that's a push. That's how wind moves outside. And on her skin? It feels like the window's open.
+
+
+Oh — and the sound. Told you I'd get to it. 'Cause maybe she hates that too, right? That wop... wop... wop. Well — that's the sound of blades chopping the air. And mine don't chop. Remember? They push. So that sound just... isn't in there. Below speed five, you get nothing. Silence. Above five, it's just air — that clean, steady shhh. The real version of what the apps are trying to fake. Your shhh... without her taking the wind for it.
+
+
+So yeah. Don't fall for it. Keep pointing it at the wall. ...I'm kidding. It's called the Spin360 — link's down below if you wanna see it. And tonight, you turn it on... and she doesn't even move. That's the whole thing, man. That's it."
+
+
+Alternate hooks (they replace the first paragraph):
+
+
+Hook B: "There's a video going around saying somebody finally built a fan for couples. That's a scam. And I should know — I made it."
+
+
+Hook C (engagement play — prioritize in round 2): "Do not show this video to your wife. It's a scam — and she's gonna fall for it. ...Actually, you know what? Show her. She should see this."
+[3] Storyboard — VISUAL IDEAS PER SEGMENT
+Timings approximate — the VO sets the clock. The VISUAL IDEA column says what the stretch must communicate; example scenes are suggestions, the editor finds or generates footage that carries the idea. ⚓ = fixed, hit exactly.
+HOOKS (~0:00–0:08)
+SEG / HOOK
+	VISUAL IDEA
+	AUDIO
+	DELIVERY
+	VOICE
+	HOOK A — THE WARNING (primary)
+	The idea: the fan war in one image. A couple's bedroom at night where the viewer instantly reads the conflict — a fan aimed across the bed, her turned away shielding herself, him awake. Any scene that says "two people, one fan, somebody's losing" works. David PiP pointing up at it. ⚓ Red anchor "IT'S A SCAM" within the first second.
+	Music bed in with the first word — tense pulse, low.
+	Conspiratorial, serious — a friend warning you.
+	"Hey guys — if you sleep with a fan... next to someone who hates it... do not fall for this video. It's a scam. Let me explain."
+	HOOK B — FAN FOR COUPLES
+	The idea: the impossible peace. A couple asleep together, product softly present. On "I made it", David points at himself, tiny grin.
+	Same bed.
+	Deadpan → grin only on "I made it."
+	"There's a video going around saying somebody finally built a fan for couples. That's a scam. And I should know — I made it."
+	HOOK C — DON'T SHOW YOUR WIFE
+	The idea: a secret about her. Her side of the bed, peaceful. David PiP leaning in like a secret, straightening on the reversal. Anchor "DON'T SHOW YOUR WIFE" → "...SHOW HER."
+	Same bed.
+	Hushed warning → open reversal, half-smile.
+	"Do not show this video to your wife. It's a scam — and she's gonna fall for it. ...Actually, you know what? Show her. She should see this."
+	BODY (same for all hooks)
+SEG
+	VISUAL IDEA
+	AUDIO
+	DELIVERY
+	VOICE
+	SEG 2 — CHARGE #1 (~6s)
+	The idea: the machine runs, she's untouched. Their bedroom at night with the product working — and her sleeping undisturbed. Scenes like: curtain breathing softly, her face calm in low light.
+	Tense pulse, low.
+	Prosecutor rhythm — brisk, faintly skeptical. "Not once." = punch.
+	"Okay. So the video says there's a fan you can run all night... and the person next to you doesn't get hit by it. Not once."
+	SEG 3 — CHARGES #2 & #3 (~16s)
+	The idea: HIS two needs delivered, HER stillness two feet away. One image per claim: air visibly moving over him asleep (chest, arm, sheet edge) · something that says "real sound" (the dial, a soft soundwave) · her side completely still — hair, blanket, nothing stirring. On "I'll get to that": David raises one finger to lens. ⚓ Anchor "NOTHING'S POINTED AT HER" on the line.
+	Tense pulse.
+	List cadence, slightly faster. The aside drops register — quick, promising.
+	"It says you still get your air. Moving on your body, all night. You still get your sound — a real fan, not some app... except it's not the sound she hates. I'll get to that. And she's two feet away... and nothing's pointed at her."
+	SEG 4 — CHARGE #4 (~6s)
+	The idea: the disbeliever walks in and likes it. Someone (her) entering the room and reacting puzzled-pleased — the "wait, is a window open?" face.
+	Tense pulse, last stretch.
+	Slight amusement — the charge sounds absurd.
+	"It even says she ends up liking it. That people who hate fans walk into the room and go, '...is there a window open?'"
+	SEG 5 — THE CONFESSION (~12s)
+	⚓ DAVID FULL FRAME — first time he owns the whole screen. No b-roll; his face carries it. Slow push-in. Chest tap on "That's my fan." Real pause between the two "Constantly." Anchor "IT'S ALL TRUE" on the line.
+	⚓ THE MUSIC TURNS on "Which — yeah."
+	THE BREAK. Pace drops hard. Half-smile. Quiet pride.
+	"Which — yeah. That's all true. Every word of it. That's my fan. I hear 'I can't stand fans, but I love yours' constantly. Constantly."
+	SEG 6 — THE REAL SCAM (~8s)
+	The idea: the ordinary fan as the villain. A generic fan spinning, close and slightly menacing, in their room. Anchor "THE SCAM IS THE WORD 'FAN'" on the line.
+	Warm bed, low.
+	Slow, deliberate, bar-professor. Every word placed.
+	"So what's the scam? Okay. Here's the scam. The scam is the word 'fan'. Because with a fan — your whole life — somebody had to lose. Right?"
+	SEG 7 — THE WAR (sprint) (~14s)
+	The idea: the impossible geometry, lived. Fast cuts of the nightly ritual — the fan aimed at her and her shielding; the fan at the wall and him staring at the ceiling; a hand repositioning it again and again (sides, tilts). Build the trapped feeling with pace. On "every fan points": one strong image of the single line of air crossing the bed (a thin animated line works). ⚓ Anchor "EVERY FAN POINTS" on the thesis.
+	Light tick percussion quickening. Fan hum under it. Everything cuts dead on "somebody."
+	FRUSTRATION SPRINT — fastest pace in the ad. Full stop before "And you know why?" — thesis lands hard and slow.
+	"You point it at yourself — and she's catching that blast. Right in the face. All night. You point it at the wall — now you're the one up all night. You've done that math a hundred times. One side. The other side. Tilt it up. Tilt it down. There's no spot that works. And you know why? Because every fan points. That's the whole machine. It shoots the air in one hard line... and the line's gotta land on somebody."
+	SEG 8 — MINE DOESN'T POINT (~12s)
+	The idea: air everywhere, aimed at nobody. The product as hero + any visual that sells 360° outward flow (smoke, arrows, particles pulled top-and-bottom and released all around) + the couple both settled inside that moving air. ⚓ Anchor "MINE DOESN'T" on the line.
+	The bed opens up — warmest stretch. Soft product hum.
+	INVENTOR CALM. Slowest pace. "You're in it. She's in it." gentle, rhythmic.
+	"Mine doesn't point. It pulls air in from the top and the bottom, and sends it out everywhere at once. So the whole room just... has a breeze in it. You're in it. She's in it. Nobody's in front of it — there is no front."
+	SEG 9 — THE BLADES (the gesture) (~14s)
+	The idea: push, not chop — shown by a human hand. A glimpse of the blade's wide face, then ⚓ DAVID FULL FRAME performing the signature move: waving his open hand at the lens, slow and big, on "that's a push." Then anything that says natural wind (curtain, trees) and her sleeping calm — a strand of hair barely drifting. Anchor "THEY PUSH THE AIR" on the line.
+	Warm bed low. Soft natural wind under the nature shot.
+	Didactic and warm — his favorite subject. "Window's open" = soft, tender.
+	"And the reason it feels like a breeze — and not like a fan — is the blades. They don't chop the air at you... they push it. Like when you wave your hand — that's a push. That's how wind moves outside. And on her skin? It feels like the window's open."
+	SEG 10 — THE SOUND (payoff) (~16s)
+	The idea: the villain sound vs. ours — heard, not described. An old fan chopping — ⚓ REAL WOP-WOP AUDIO — with the anchor "WOP WOP WOP" shaking; David mouths along, having fun. A quick flash of his wave gesture on "Remember? They push." Then the contrast: stillness/silence for speeds 1–5 → ⚓ REAL SHHH AUDIO for 6+, any soft visual of sound-as-air. Anchor "YOUR SHHH. NOT ON HER." on the line.
+	⚓ MUSIC DUCKS TO NEAR-ZERO — the real audio owns this section.
+	PLAYFUL on the wop-wop → REVERENT on the shhh.
+	"Oh — and the sound. Told you I'd get to it. 'Cause maybe she hates that too, right? That wop... wop... wop. Well — that's the sound of blades chopping the air. And mine don't chop. Remember? They push. So that sound just... isn't in there. Below speed five, you get nothing. Silence. Above five, it's just air — that clean, steady shhh. The real version of what the apps are trying to fake. Your shhh... without her taking the wind for it."
+	SEG 11 — CLOSE (~13s)
+	⚓ DAVID FULL FRAME deadpan through the joke; smile cracks on "I'm kidding"; product name lower third + chin nod on "link's down below." Then the idea: the night where nothing happens — final wide of their bedroom, both asleep, product in the corner, her completely still. Anchor "SHE DOESN'T EVEN MOVE" on the line. Hold, then logo, clean.
+	Bed resolves on the wide. Faint product shhh. No music over logo.
+	DEADPAN → smile → last line soft, like a secret. Then the shrug.
+	"So yeah. Don't fall for it. Keep pointing it at the wall. ...I'm kidding. It's called the Spin360 — link's down below if you wanna see it. And tonight, you turn it on... and she doesn't even move. That's the whole thing, man. That's it."
+	PRODUCTION NOTES
+ITEM
+	SPEC
+	Layout
+	9:16. Couple-world b-roll fills the frame; David cutout PiP bottom-left (chest-up, background removed). ⚓ FULL FRAME on exactly three beats: SEG 5 confession · SEG 9 gesture · SEG 11 close.
+	Captions
+	⚓ Continuous spoken captions, account style, entire ad. Red anchors are punctuation on top, never a replacement.
+	Text anchors
+	Big red all-caps, white stroke, upper-middle, one at a time — each fires ON its spoken line (full list in Creative Direction). First one within the first second.
+	Shot sourcing
+	The VISUAL IDEA column is the contract; the example scenes are suggestions. Find or generate footage that carries the idea — realism first, imperfect framing welcome. Every scene = the couple's world.
+	⚓ The gesture
+	SEG 9 hand-wave = the signature shot, FULL FRAME, big and slow. Flashed briefly as the callback in SEG 10.
+	⚓ Audio assets
+	Real conventional-fan wop-wop 2s · real Spin360 shhh at speed 6+ 2s · one dial click. Close-mic'd, clean.
+	Music
+	From frame zero (ScamConfession recipe), changes tied to lines: tense pulse → ⚓ turns warm on "Which — yeah" → percussion under the war → opens on "Mine doesn't point" → ⚓ ducks near-zero through the sound beat → resolves on the final wide. Lyria/Suno. Variation: continuous warm bed.
+	AI generations
+	The war-in-one-image hook frame · couple inside soft air · her still-side shots · war ritual beats · her doorway reaction.
+	Note for AI David
+	Spoken piece — stumbles and small reorders welcome. ⚓ Non-negotiable anchors: the full chop→push chain with the wave gesture · "Remember? They push." as callback · both "Constantly." with a real pause · the wop-wop performed with the mouth before the real audio · the final line soft. Follow the DELIVERY column per segment.
+	Launch package
+	Ship the ~2:00 master AND the ~60s cutdown (SEG 6→11 with Hook A) in the same batch.
+	
+
+Primary Text:
+😴 If the fan is non-negotiable for you…
+you already know the math.
+Point it at yourself?
+She gets blasted. 🌬️
+Point it at the wall?
+Now you’re awake.
+Try a fan app?
+Fake sound. No air.
+That’s why this fight never really had a solution.
+Every fan points.
+SPIN360 doesn’t.
+It pulls air from the top and bottom, then sends a soft 360° breeze around the whole room.
+So you still get the moving air.
+You still get the real shhhh.
+But there’s no hard stream landing on her face all night.
+Which is kind of the whole problem.
+Solved.
+Tap Shop Now and try the fan that doesn’t point 👇
+Headline:
+Try The Fan That Doesn’t Point

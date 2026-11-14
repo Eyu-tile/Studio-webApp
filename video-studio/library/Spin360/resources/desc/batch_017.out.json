@@ -1,0 +1,362 @@
+[
+{
+ "id": "9d9a4785-9914-44fd-a4a9-bdfc5ae22a3f",
+ "kind": "ugc_broll",
+ "summary": "POV hand holds a small black Spin360 remote and presses buttons, with a black Spin360 standing blurred behind in a rustic kitchen; ends with a quick move to the fan head.",
+ "people": [{"who": "adult, forearm with small tattoo", "wardrobe": "unclear", "role": "hand only"}],
+ "product": {"visible": "full", "colourway": "black", "on": null,
+  "details_seen": ["remote control", "cage", "gold halo", "base", "white tape/label on pole"],
+  "other_fans": [], "other_brands": []},
+ "setting": {"room": "kitchen", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "cluttered"},
+ "shots": [
+  {"start": 0.0, "end": 15.5, "camera": "POV", "framing": "close", "action": "hand holds black remote (power + up/down buttons) in focus, thumb presses buttons; fan blurred in background", "on_screen_text": "", "audio_hint": ""},
+  {"start": 15.5, "end": 18.0, "camera": "handheld", "framing": "medium", "action": "focus pulls to fan, camera swings toward it, motion blur", "on_screen_text": "", "audio_hint": ""},
+  {"start": 18.0, "end": 20.78, "camera": "handheld", "framing": "medium", "action": "fan head and pole in focus beside tiled kitchen counter, remote at bottom of frame", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 7.0, "end": 12.0, "why": "remote sharp and centred, thumb pressing buttons"},
+ "beats": ["turning_on", "control_display"],
+ "hook_potential": {"score": 1, "why": "clear remote-control detail but plain"},
+ "brand_fit": {"score": 1, "why": "dated busy kitchen, terracotta tiles"},
+ "quality": {"score": 2, "issues": ["blurry"]},
+ "status": "OK", "status_why": "",
+ "tags": ["remote control", "pressing remote button", "POV remote", "black Spin360 kitchen", "tiled floor", "tattooed wrist"]
+},
+{
+ "id": "36bde50c-43d6-49c6-a02e-b9ae9f125626",
+ "kind": "ugc_broll",
+ "summary": "Two small kids draw on a paper roll at a little table in Lauren's mountain-view sunroom while a tall black Spin360 stands by the window behind them.",
+ "people": [
+  {"who": "girl, ~5, blonde braids", "wardrobe": "green floral sundress", "role": "child"},
+  {"who": "boy, ~3, blond", "wardrobe": "navy striped tee, brown shorts", "role": "child"}
+ ],
+ "product": {"visible": "partial", "colourway": "black", "on": null, "details_seen": ["cage", "pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 11.5, "camera": "handheld", "framing": "wide", "action": "girl draws, boy sits on teal scooter at table; fan in background by window with hills/pines", "on_screen_text": "", "audio_hint": ""},
+  {"start": 11.5, "end": 20.93, "camera": "handheld", "framing": "medium", "action": "slightly closer; girl keeps drawing with paints, boy looks around", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 2.0, "end": 8.0, "why": "both kids, fan and mountain view all clear"},
+ "beats": ["family_kids", "room_aesthetic"],
+ "hook_potential": {"score": 1, "why": "calm lifestyle, no action"},
+ "brand_fit": {"score": 3, "why": "airy sunroom, big window onto mountains and pines"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "BYA says tower fan; it is the black Spin360",
+ "tags": ["kids drawing", "children at table", "mountain view", "sunroom", "Lauren", "black Spin360 by window", "scooter"]
+},
+{
+ "id": "3ae65f48-d6b3-4d3c-84cd-56be7c137b6b",
+ "kind": "ugc_broll",
+ "summary": "Boy sits on a living-room rug flipping a photo book, acting hot: fanning with the book, rubbing his face and brow.",
+ "people": [{"who": "boy, ~8, light brown hair", "wardrobe": "grey long-sleeve hoodie, khaki shorts", "role": "child"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.5, "camera": "handheld", "framing": "medium", "action": "boy fans himself with blue book/tablet case", "on_screen_text": "", "audio_hint": "parent directing off camera"},
+  {"start": 4.5, "end": 12.0, "camera": "handheld", "framing": "medium", "action": "boy wipes forehead, rubs eyes, looks uncomfortable over book", "on_screen_text": "", "audio_hint": "'a little bit less dramatic... quit fanning'"},
+  {"start": 12.0, "end": 20.57, "camera": "handheld", "framing": "medium", "action": "boy flips pages calmly, camera drifts closer", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 5.0, "end": 11.5, "why": "boy rubbing sweaty face, clear hot-kid look"},
+ "beats": ["sweaty_discomfort", "hot_sleeper_problem", "family_kids"],
+ "hook_potential": {"score": 2, "why": "relatable hot kid problem"},
+ "brand_fit": {"score": 1, "why": "ordinary room, kid barefoot on rug"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "off-camera direction audio; use muted",
+ "takes": [{"start": 5.5, "line": "Okay, a little bit less dramatic. All right, quit fanning…", "delivery": "cut off", "energy": 1, "framing": "medium", "keep": false}],
+ "best_takes": [],
+ "speaker": {"look": "off-camera parent (not seen)", "setting": "Avery living room, brick wall, glass doors", "props": "photo book"},
+ "tags": ["hot kid", "boy rubbing face", "kid fanning himself", "Avery", "boy on rug", "sweaty child"]
+},
+{
+ "id": "f26df313-d345-4899-80dc-f23ef72804f7",
+ "kind": "ugc_broll",
+ "summary": "At night a woman in pyjamas pushes up a bedroom window, then stands hot and fanning herself, pushing her hair off her face.",
+ "people": [{"who": "woman, 30s, long dark wavy hair", "wardrobe": "white tee, pink floral pyjama shorts", "role": "actor"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "night", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 2.0, "camera": "static", "framing": "medium", "action": "dark sash window with navy curtains, empty", "on_screen_text": "", "audio_hint": ""},
+  {"start": 2.0, "end": 6.0, "camera": "static", "framing": "medium", "action": "woman walks in, pushes window sash up", "on_screen_text": "", "audio_hint": ""},
+  {"start": 6.0, "end": 18.5, "camera": "static", "framing": "medium", "action": "she fans herself, pushes hair back, flaps hands, leans to window, sighs", "on_screen_text": "", "audio_hint": ""},
+  {"start": 18.5, "end": 20.57, "camera": "static", "framing": "medium", "action": "walks to camera and reaches to stop recording; hand covers lens", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 6.0, "end": 12.0, "why": "clear hot-at-night discomfort by open window"},
+ "beats": ["hot_sleeper_problem", "sweaty_discomfort"],
+ "hook_potential": {"score": 2, "why": "relatable 'too hot to sleep' opener"},
+ "brand_fit": {"score": 1, "why": "dim night room, plain"},
+ "quality": {"score": 2, "issues": ["dark"]},
+ "status": "OK", "status_why": "trim end (hand over lens from 19s)",
+ "tags": ["opening window at night", "too hot to sleep", "woman fanning herself", "pyjamas", "Avery", "navy curtains", "hot bedroom"]
+},
+{
+ "id": "c2b7f7a8-5c4d-4c4e-b4df-9eeeedf1b8d6",
+ "kind": "ugc_broll",
+ "summary": "Woman in a black jumpsuit sits down on a grey sofa in a bright sunroom, leans back relaxed, touches her hair, then gets up and leaves.",
+ "people": [{"who": "woman, 30s, dark hair in ponytail", "wardrobe": "black sleeveless jumpsuit, barefoot", "role": "actor"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 3.0, "camera": "static", "framing": "wide", "action": "empty sofa, woman walks in and sits", "on_screen_text": "", "audio_hint": ""},
+  {"start": 3.0, "end": 17.5, "camera": "static", "framing": "wide", "action": "she reclines, arm on sofa back, smiles, adjusts hair, relaxed", "on_screen_text": "", "audio_hint": ""},
+  {"start": 17.5, "end": 20.33, "camera": "static", "framing": "wide", "action": "stands up and walks out of frame", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 4.0, "end": 10.0, "why": "relaxed smile on sofa, green tree view behind"},
+ "beats": ["lifestyle_reading_relaxing"],
+ "hook_potential": {"score": 0, "why": "no action, no product"},
+ "brand_fit": {"score": 2, "why": "bright, windows on trees, tidy; fan not in shot"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["woman relaxing on sofa", "sunroom", "tree view", "black jumpsuit", "Avery", "after shot relaxed"]
+},
+{
+ "id": "2808d282-fecc-4897-84d1-d342c21c25fd",
+ "kind": "ugc_broll",
+ "summary": "Brindle dog lies on a dark grey sofa while a white Spin360 stands by sheer curtains at a French window behind.",
+ "people": [],
+ "product": {"visible": "partial", "colourway": "white", "on": null, "details_seen": ["cage", "pole", "display"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 12.5, "camera": "handheld", "framing": "wide", "action": "dog resting on sofa, fan in background by window; slow drift", "on_screen_text": "", "audio_hint": ""},
+  {"start": 12.5, "end": 20.2, "camera": "handheld", "framing": "wide", "action": "camera lowers and pulls back; exposure flickers bright/dark; dog lays head down", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 5.0, "end": 11.0, "why": "dog and white fan both clear, sheer curtains"},
+ "beats": ["pets", "room_aesthetic"],
+ "hook_potential": {"score": 1, "why": "cute dog but static"},
+ "brand_fit": {"score": 2, "why": "sheer curtains and light walls, but dim sofa side"},
+ "quality": {"score": 2, "issues": ["dark", "vertical crop risk"]},
+ "status": "OK", "status_why": "framed family photo on wall in some frames",
+ "tags": ["dog on sofa", "pet relaxing", "white Spin360", "sheer curtains", "Kylie", "French window"]
+},
+{
+ "id": "4a01bbd5-dc26-43e4-b10a-b15a48c29240",
+ "kind": "ugc_broll",
+ "summary": "Man walks in and drops onto a sofa in a warm lamp-lit living room, exhales, settles back smiling, then picks up a bowl of popcorn.",
+ "people": [{"who": "man, 30s, dark short hair", "wardrobe": "light-blue short-sleeve denim shirt, black trousers", "role": "actor"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "evening", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 3.0, "camera": "static", "framing": "medium", "action": "man walks in and sits down on beige sofa", "on_screen_text": "", "audio_hint": ""},
+  {"start": 3.0, "end": 14.5, "camera": "static", "framing": "medium", "action": "leans back, smiles, exhales, relaxed", "on_screen_text": "", "audio_hint": "exhale"},
+  {"start": 14.5, "end": 18.34, "camera": "static", "framing": "medium", "action": "reaches down, lifts popcorn bowl, eats", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 3.0, "end": 8.0, "why": "relieved smile settling into sofa"},
+ "beats": ["lifestyle_reading_relaxing", "reaction_face"],
+ "hook_potential": {"score": 1, "why": "nice relief moment, no product"},
+ "brand_fit": {"score": 1, "why": "dim purple/orange lamp light"},
+ "quality": {"score": 2, "issues": ["dark"]},
+ "status": "OK", "status_why": "",
+ "tags": ["movie night", "man sits on couch", "popcorn", "exhale relief", "Michael", "evening living room"]
+},
+{
+ "id": "223ffd2e-b7d7-4c1d-ae5a-5e064e966cb4",
+ "kind": "ugc_broll",
+ "summary": "Locked-off dark shot of a man asleep under a white duvet, a tall black Spin360 standing beside the bed.",
+ "people": [{"who": "man, 30s, dark hair (Michael)", "wardrobe": "under duvet", "role": "actor"}],
+ "product": {"visible": "partial", "colourway": "black", "on": null, "details_seen": ["cage", "pole", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "night", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 20.6, "camera": "static", "framing": "wide", "action": "man sleeps on his side, barely moves; fan at bedside left; red/white checked rug", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 0.0, "end": 5.0, "why": "any segment; peaceful sleep with fan by bed"},
+ "beats": ["sleeping_comfort"],
+ "hook_potential": {"score": 0, "why": "static, dark"},
+ "brand_fit": {"score": 1, "why": "calm but very dark and grey"},
+ "quality": {"score": 1, "issues": ["dark"]},
+ "status": "OK", "status_why": "",
+ "tags": ["man sleeping", "fan next to bed", "night bedroom", "Michael", "peaceful sleep", "black Spin360 bedside"]
+},
+{
+ "id": "62ba2a6a-8d1c-4553-ac2c-b17a16fbcd74",
+ "kind": "product_only",
+ "summary": "Macro product details of a black Spin360: hex-mesh top intake, underside intake vents, pole display reading F9 with Spin360 logo, and the head with gold halo.",
+ "people": [],
+ "product": {"visible": "hero", "colourway": "black", "on": true,
+  "details_seen": ["display F9", "Spin360 logo on display", "gold halo", "cage", "top hex-mesh intake", "bottom intake vents"],
+  "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "unclear", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 3.3, "camera": "push in", "framing": "macro", "action": "top hex mesh and centre cap, blades visible spinning beneath", "on_screen_text": "", "audio_hint": ""},
+  {"start": 3.3, "end": 7.77, "camera": "handheld", "framing": "extreme close", "action": "low angle up at underside intake vents around pole", "on_screen_text": "", "audio_hint": ""},
+  {"start": 7.77, "end": 14.13, "camera": "tilt", "framing": "extreme close", "action": "display shows 'Spin360' and F9, tilt up to underside intake", "on_screen_text": "", "audio_hint": ""},
+  {"start": 14.13, "end": 19.41, "camera": "push in", "framing": "close", "action": "head with clear slat cage and gold halo, push in to top mesh", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 7.77, "end": 9.5, "why": "crisp display with Spin360 logo and F9"},
+ "beats": ["control_display", "product_hero"],
+ "hook_potential": {"score": 2, "why": "slick tech macro, logo on display"},
+ "brand_fit": {"score": 2, "why": "premium detail, warm interior"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["top and bottom intake", "display F9", "Spin360 logo", "hex mesh macro", "gold halo", "Michael", "product detail"]
+},
+{
+ "id": "c5af2921-2191-4ffa-8edd-eeb0427996f5",
+ "kind": "ugc_broll",
+ "summary": "Woman unboxes a Spin360 on a bed in a sage-green bedroom, opening the 'Gentle Breeze / 360° airflow' box and lifting out plastic-wrapped parts, smiling.",
+ "people": [{"who": "woman, 30s-40s, brown hair in ponytail", "wardrobe": "pink/orange plaid shirt, sage cargo pants", "role": "creator"}],
+ "product": {"visible": "partial", "colourway": "black", "on": false, "details_seen": ["box/packaging"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 5.0, "camera": "static", "framing": "medium", "action": "opens box flaps, reaches in", "on_screen_text": "", "audio_hint": ""},
+  {"start": 5.0, "end": 19.78, "camera": "static", "framing": "medium", "action": "pulls out manual and wrapped parts, holds them up smiling", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 9.0, "end": 14.0, "why": "lifting wrapped part out, box branding visible, smiling"},
+ "beats": ["unboxing"],
+ "hook_potential": {"score": 1, "why": "standard unboxing, side-on"},
+ "brand_fit": {"score": 1, "why": "plain ordinary bedroom"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["unboxing", "Gentle Breeze box", "360 airflow box", "woman opening box", "sage green bedroom", "B roll IMG_97xx"]
+},
+{
+ "id": "d986e966-fc33-4973-b5e4-70ded99f25e4",
+ "kind": "ugc_broll",
+ "summary": "Hands lift the pulp-tray insert off and pull the black Spin360 head out of its plastic bag, turning it to show cage, gold halo, underside and top mesh.",
+ "people": [{"who": "woman, pink nails", "wardrobe": "unclear", "role": "hand only"}],
+ "product": {"visible": "hero", "colourway": "black", "on": false, "details_seen": ["box/packaging", "cage", "gold halo", "top hex-mesh", "bottom intake", "label on cage"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 5.5, "camera": "static", "framing": "close", "action": "open box, hands remove pulp-fibre insert", "on_screen_text": "", "audio_hint": ""},
+  {"start": 5.5, "end": 12.0, "camera": "static", "framing": "close", "action": "pull plastic bag off fan head", "on_screen_text": "", "audio_hint": ""},
+  {"start": 12.0, "end": 20.05, "camera": "static", "framing": "close", "action": "lift and rotate head showing cage, gold halo, top mesh; info label still on cage", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 17.5, "end": 20.0, "why": "unwrapped head shown with gold halo and top mesh"},
+ "beats": ["unboxing", "product_hero"],
+ "hook_potential": {"score": 2, "why": "satisfying unwrap reveal"},
+ "brand_fit": {"score": 2, "why": "clean, bright, but cardboard clutter"},
+ "quality": {"score": 2, "issues": ["blurry"]},
+ "status": "OK", "status_why": "",
+ "tags": ["unboxing", "removing plastic", "pulp insert", "fan head reveal", "gold halo", "hands only", "B roll IMG_97xx"]
+},
+{
+ "id": "db44e832-d9f9-4109-a99f-3b57bffd39dd",
+ "kind": "ugc_broll",
+ "summary": "Slow handheld drift around a tall black Spin360 standing on carpet beside a brown sofa, wall of framed family photos behind.",
+ "people": [],
+ "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["cage", "gold halo", "display", "base", "pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "cluttered"},
+ "shots": [
+  {"start": 0.0, "end": 17.16, "camera": "orbit", "framing": "wide", "action": "camera arcs slowly around full fan; blades faintly visible turning; plug and cable on wall", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 6.0, "end": 10.0, "why": "full fan with olive plant in background, fewer photos"},
+ "beats": ["product_hero"],
+ "hook_potential": {"score": 0, "why": "plain"},
+ "brand_fit": {"score": 1, "why": "dated brown sofa, busy photo wall"},
+ "quality": {"score": 2, "issues": []},
+ "status": "CAUTION", "status_why": "wall of framed family/children portraits (personal)",
+ "tags": ["full fan orbit", "black Spin360 living room", "brown sofa", "carpet", "family photos wall", "B roll IMG_97xx"]
+},
+{
+ "id": "3d1337c2-c472-42a1-b3ad-8da4184d7c2f",
+ "kind": "ugc_broll",
+ "summary": "Handheld move past a bed and recliner toward a black Spin360 standing in a sage-green bedroom, ending close on the head; yellow sticker on pole.",
+ "people": [],
+ "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["cage", "gold halo", "base", "yellow sticker on pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 9.0, "camera": "pan", "framing": "wide", "action": "past patterned duvet, fan by green wall under leaf metal art", "on_screen_text": "", "audio_hint": ""},
+  {"start": 9.0, "end": 19.91, "camera": "push in", "framing": "medium", "action": "moves over armchair toward fan head, bedside lamp/nightstand behind", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 15.0, "end": 19.0, "why": "fan head large and sharp in bedroom"},
+ "beats": ["room_aesthetic", "product_hero"],
+ "hook_potential": {"score": 0, "why": "plain move"},
+ "brand_fit": {"score": 1, "why": "ordinary bedroom, carpet, recliner in frame"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "yellow sticker on pole visible",
+ "tags": ["black Spin360 bedroom", "sage green wall", "leaf wall art", "yellow sticker", "push in to fan", "B roll IMG_97xx"]
+},
+{
+ "id": "a03f11ea-0500-4a71-85c2-9a4f29526a39",
+ "kind": "ugc_broll",
+ "summary": "Close low-angle on the underside of a running black Spin360: a hand holds a paper napkin to the bottom intake and the suction holds it in place.",
+ "people": [{"who": "woman, pink nails, ring", "wardrobe": "unclear", "role": "hand only"}],
+ "product": {"visible": "partial", "colourway": "black", "on": true, "details_seen": ["bottom intake", "cage", "gold halo", "display (off/unlit)"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 2.0, "camera": "static", "framing": "close", "action": "underside of head and pole", "on_screen_text": "", "audio_hint": "child: 'Mommy, thank you'"},
+  {"start": 2.0, "end": 16.32, "camera": "static", "framing": "close", "action": "hand places napkin under intake; it sticks; repeated several times", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 13.5, "end": 16.3, "why": "napkin released and held by suction cleanly"},
+ "beats": ["airflow_demo_hand"],
+ "hook_potential": {"score": 2, "why": "visual proof of bottom-intake suction"},
+ "brand_fit": {"score": 2, "why": "clean neutral background, product close"},
+ "quality": {"score": 3, "issues": []},
+ "status": "OK", "status_why": "child voice on audio; use muted",
+ "takes": [{"start": 1.1, "line": "Right here. Mommy, thank you, Mommy…", "delivery": "cut off", "energy": 1, "framing": "close", "keep": false}],
+ "best_takes": [],
+ "speaker": {"look": "off-camera child and mum (not seen)", "setting": "plain grey wall", "props": "paper napkin"},
+ "tags": ["napkin suction test", "bottom intake", "tissue stuck to fan", "airflow proof", "B roll IMG_97xx"]
+},
+{
+ "id": "55969f65-c39f-490a-846c-7b0ff25149e3",
+ "kind": "ugc_broll",
+ "summary": "Top-down look into a running black Spin360's hex-mesh top intake, bare feet with blue toenails below, pushing in to macro on the spinning blades and back out.",
+ "people": [{"who": "woman, feet only, blue nail polish", "wardrobe": "unclear", "role": "hand only"}],
+ "product": {"visible": "partial", "colourway": "black", "on": true, "details_seen": ["top hex-mesh intake", "centre cap", "blades spinning"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 5.0, "camera": "POV", "framing": "close", "action": "looking down at fan top, feet on carpet below", "on_screen_text": "", "audio_hint": ""},
+  {"start": 5.0, "end": 14.5, "camera": "push in", "framing": "macro", "action": "close on mesh, blades turning, camera wanders", "on_screen_text": "", "audio_hint": ""},
+  {"start": 14.5, "end": 19.01, "camera": "pull out", "framing": "close", "action": "back out to full top with feet", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 6.0, "end": 8.0, "why": "centred mesh macro with blades visible"},
+ "beats": ["product_hero"],
+ "hook_potential": {"score": 1, "why": "texture shot only"},
+ "brand_fit": {"score": 1, "why": "bare feet and carpet in frame"},
+ "quality": {"score": 2, "issues": ["blurry", "shaky"]},
+ "status": "OK", "status_why": "",
+ "tags": ["top intake macro", "hex mesh", "blades spinning", "bare feet", "top-down fan", "B roll IMG_97xx"]
+},
+{
+ "id": "b343fd03-2c3b-4c8a-82d6-313087581188",
+ "kind": "ugc_broll",
+ "summary": "High-angle handheld orbit around a black Spin360 on a patterned rug, showing top mesh, clear slat cage, gold halo and round base.",
+ "people": [],
+ "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["cage", "gold halo", "top hex-mesh", "base", "display lit (yellow-green)"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 18.1, "camera": "orbit", "framing": "medium", "action": "camera circles above fan; pole looks short from this angle; power cable visible on rug", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 6.0, "end": 9.0, "why": "head large and clear, halo and mesh visible"},
+ "beats": ["product_hero"],
+ "hook_potential": {"score": 1, "why": "product detail orbit"},
+ "brand_fit": {"score": 1, "why": "busy patterned rug, cable visible"},
+ "quality": {"score": 2, "issues": ["blurry"]},
+ "status": "OK", "status_why": "unit height unclear (high angle may hide a short pole)",
+ "tags": ["fan orbit", "top view", "gold halo", "patterned rug", "black Spin360", "B roll IMG_97xx"]
+},
+{
+ "id": "697a541b-c0cd-41fa-a355-a80d78c3ffea",
+ "kind": "ugc_broll",
+ "summary": "Woman holds a white box fan close to her face, hair blowing, squinting and enduring it - an old-fan problem skit.",
+ "people": [{"who": "woman, 30s-40s, long brown hair", "wardrobe": "brown/white striped tee, light shorts", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": ["white box fan"], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 20.51, "camera": "static", "framing": "close", "action": "she holds box fan, hair streaming back, smiles wryly, glances at it", "on_screen_text": "", "audio_hint": "fan noise"}
+ ],
+ "best": {"start": 2.0, "end": 7.0, "why": "hair blown hard, awkward face"},
+ "beats": ["old_fan_annoyance", "airflow_demo_hair"],
+ "hook_potential": {"score": 2, "why": "funny 'old fan in your face' problem visual"},
+ "brand_fit": {"score": 1, "why": "dated brick fireplace room"},
+ "quality": {"score": 2, "issues": []},
+ "status": "CAUTION", "status_why": "other fan (white box fan) - problem shot only; BYA calls it tower fan",
+ "tags": ["box fan in face", "hair blowing", "old fan problem", "woman holding fan", "striped tee", "B roll IMG_97xx"]
+},
+{
+ "id": "d53073a7-9337-4a93-9823-075b3ecc7451",
+ "kind": "ugc_broll",
+ "summary": "Woman sits on the floor beside a white box fan on a stand; her hair keeps blowing into her face and she pushes it away, annoyed, facepalms.",
+ "people": [{"who": "woman, 30s-40s, long brown hair", "wardrobe": "brown/white striped tee, light shorts", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": ["white box fan"], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 20.55, "camera": "static", "framing": "medium", "action": "hair blown over face, she pushes it back, shrugs, waves hand, facepalm at 16-17s", "on_screen_text": "", "audio_hint": "fan noise"}
+ ],
+ "best": {"start": 13.0, "end": 18.0, "why": "hair in face, shrug then facepalm"},
+ "beats": ["old_fan_annoyance", "airflow_demo_hair", "reaction_face"],
+ "hook_potential": {"score": 3, "why": "clear relatable frustration with old fan"},
+ "brand_fit": {"score": 1, "why": "dated brick fireplace room"},
+ "quality": {"score": 2, "issues": []},
+ "status": "CAUTION", "status_why": "other fan (white box fan) - problem shot only",
+ "tags": ["hair blowing in face", "box fan annoyance", "facepalm", "old fan problem", "frustrated woman", "B roll IMG_97xx"]
+}
+]

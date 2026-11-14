@@ -1,0 +1,606 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_Sleep_Industry_VSL
+Author: Chris
+Editor: N/A 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_Sleep_Industry_VSL
+* Ad Type: VSL
+* Type of Ad: Intrigue 
+* Sizes Needed: 9x16
+* Voiceover: Woman - Confident Calm  
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+
+
+
+
+________________
+ 
+[2] Direction
+
+
+
+
+
+
+________________
+ 
+[3] Strategy
+Who is this for [Avatar]: 
+Main Selling Points: 360 degree airflow, feels like a natural breeze, sleep, scent pods 
+Market Awareness: Unaware 
+Desires: Health  
+Angle: 
+ 
+________________
+
+
+[4] Creative Direction
+Example Videos 
+* The Conscious Bar Short 
+   * Key Points: 
+      * Great editing + storytelling pacing 
+* Too Little vs. Too Much Sleep
+   * Great Hook 
+   * Good storytelling 
+   * Can copy her sleeping shots 
+* AI UGC Example 
+
+
+This is a storytelling/VSL-style ad centered around the idea that the sleep industry has focused on the wrong solution for bad sleep.
+Core message:
+* Human biology has not adapted to modern technology/lifestyles
+* Since the industrial revolution, technology has advanced faster than our bodies can adapt
+* Deep sleep requires the body to cool down 1–2 degrees
+* This happens naturally through air moving across the skin
+* Most sleep products solve the wrong problem
+* Spin360 is positioned as a more natural airflow solution
+The ad should feel:
+* Thoughtful
+* Elevated
+* Calm
+* Educational
+* Slightly cinematic
+Keep the focus on the viewer and their experience, not on us/the brand.
+________________
+
+
+🎯 Opening / Hook Direction
+The opening should feel:
+* Slow
+* Relaxing
+* Emotional
+* Reflective
+We’re inviting viewers to remember:
+“The best sleep of your life…”
+Examples:
+* Under the stars
+* Grandparents’ cabin
+* Breezy summer evening
+Some hooks should use:
+* AI UGC narrator on bottom
+* Supporting visuals above (split-screen storytelling style)
+Follow the hook directions already outlined in the brief.
+________________
+
+
+🎥 Visual Direction
+Ancient Ancestors / Nature
+Do NOT use cheap-looking AI clips.
+Use:
+* Real archival-style images
+* High-quality cinematic visuals
+* Subtle Ken Burns movement
+* If AI is used, it must look extremely realistic/stylized intentionally
+________________
+
+
+Technology / Industrial Revolution Section
+This section should accelerate in pacing.
+Show:
+* Industrial revolution
+* Airplanes → moon landing
+* Phones → AI
+* Cities
+* Pollution
+* Screens
+* Humans trapped indoors
+Goal:
+Create the feeling of:
+“Modern life disconnected us from natural living.”
+Fast-paced visual storytelling works well here.
+________________
+
+
+Sleep / Cooling Explanation
+When discussing:
+“Your body must cool down 1–2 degrees for deep sleep”
+Use visuals like:
+* Infrared body visuals
+* Side-by-side sleeping comparisons
+* AI-generated thermal visuals if high quality
+This section should feel scientific + visually clear.
+________________
+
+
+Product / Fan Section
+Once we introduce Spin360:
+* Focus on airflow
+* Breeze simulation
+* Relaxation
+* Better sleep
+* Air mixing
+Use visuals we already have:
+* Product footage
+* Prototype footage
+* Airflow demonstrations
+* Nature comparisons
+________________
+
+
+Product PNG / Motion Graphics
+For competitor/sleep product sections:
+* Remove white backgrounds from product PNGs
+* Float products in space
+* Animate/swipe them in cleanly
+* Keep visuals engaging but readable
+________________
+
+
+Narrator / Social Proof Section
+When reading comments/testimonials:
+* Have narrator physically looking at phone and reading comments if possible
+* Make this feel natural and believable
+________________
+
+
+Overall Editing Notes
+* Start calm and immersive
+* Increase pacing during technology/industry storytelling
+* Return to calm/relief during product section
+* Maintain premium, natural aesthetic throughout
+* Avoid cheap-looking AI at all costs
+ 
+________________
+
+
+[5] Script
+
+Picture the best sleep of your life. 
+Where was it? 
+Under the stars? Your grandparents' cabin? A breezy summer evening? 
+So sleep is a $585 billion dollar industry. 
+From endless supplements to jet-cooled beds, there’s thousands of products that all promise that sought-after shut-eye.
+So why do we still struggle with sleep?
+It comes down to how we evolved as a species.
+Our ancestors spent millions of years living in nature. Sleeping in open, moving air. 
+Then the industrial revolution happened, and technology took off.
+We moved into cities, started staring at screens, and sealed ourselves indoors, away from nature. 
+Essentially, our biology just didn’t catch up. 
+And the part most people don't know:
+To enter deep sleep, your body actually has to cool down by one or two degrees. 
+And the way that happens is air moving across your skin.
+Stagnant, indoor air is the variable the entire sleep economy has skipped. 
+So we asked ourselves, what if we redesigned the airflow in your room? 
+Any try to mimic that amazing breeze found in nature. 
+Would it help you sleep? Would it be more relaxing? 
+After four years of design, and endless prototypes, we  came up with the Spin360.
+Technically, it's a fan.
+But nobody calls it that after the first night.
+People say things like:
+"It feels like the walls of my bedroom were removed”
+"Super quiet, amazing air circulation"
+"The best sleep I've gotten in years, and I usually hate fans” 
+What’s so unique is that 
+the Spin360 pulls air up from above and below and breathes it out in a soft 360 degree ring around the whole room.
+The entire room moves. Not just one spot. 
+So there’s no dead zones. No chop. No annoying fan sound. 
+Just incredible, relaxing airflow. 
+So you can sleep like you're outside. Without leaving your bed.
+This spring only, we’re offering $110 dollars off the Spin360.
+Just in time for summer. Check it out in the link below. 
+
+
+ 
+________________
+[6] Shotlist / Storyboard
+
+
+Hooks
+	#
+	Script 
+	Visual 
+	Description 
+	1
+	Picture the best sleep of your life. 
+Where was it? 
+	  
+
+	Bed In Water. 
+
+
+* Ultra realistic 
+* Bed floating in the water, real textures on pillows, blankets, water glistening, ect. 
+* Realistic evening lighting 
+* Add sound effects to make it more realistic 
+
+
+Below -> AI UGC 
+	2
+	Picture the best sleep of your life. 
+Where was it? 
+	  
+
+	Bed In Water. 
+
+
+* Ultra realistic 
+* Bed floating in the water, real textures on pillows, blankets, water glistening, ect. 
+* Realistic evening lighting 
+* Add sound effects to make it more realistic 
+	3
+	Picture the best sleep of your life. 
+Where was it? 
+	  
+
+	Sitting in hammock after sunset. 
+
+* The tent has light on at the start of a clip, then light turns off halfway through. 
+* AI Generated - Prompt must indicate it needs to feel ultra realistic. 
+* Lighting: silhouette, deep sunset, 
+Below -> AI UGC 
+	4
+	Picture the best sleep of your life. 
+Where was it? 
+	  
+
+	Tender Under The Stars: 
+
+* Tent has light on at the start of a clip, then light turns off halfway through. 
+* AI Generated - Prompt must indicate it needs to feel ultra realistic. Realistic moonlight, mountain silhouette in background, blue hour, ect. 
+	5
+	Picture the best sleep of your life. 
+Where was it? 
+	  
+
+	Hook Reference: https://www.tiktok.com/@cozycabinrelax/video/7395574749239282961
+OR 
+
+https://www.tiktok.com/@cozycabinrelax/video/7395574749239282961
+What: Beautiful beds on the side of a clip. This AI shot needs to feel real! 
+	6
+	Picture the best sleep of your life. 
+Where was it? 
+	   
+	https://www.tiktok.com/@gracebuxtonfinds/video/7437311684869377322?q=sleep&t=1778708872105
+A nice relaxing clip of someone crawling into bed like this. 
+
+
+Below -> AI UGC 
+	7
+	Picture the best sleep of your life. 
+Where was it? 
+	  
+
+	Video Link: https://drive.google.com/file/d/16oR_iUMrW9J9HR1QpPzdF0FOOyoP7wPc/view?usp=drive_link
+
+
+* Proven Hook that is working 
+
+
+	
+
+
+
+	Script 
+	Visual 
+	Description 
+	Under the stars? 
+	  
+
+	Narrator on the bottom 
+Video on the top. 
+	Your grandparents' cabin? 
+	  
+
+	Narrator on the bottom 
+Video on the top. 
+	A breezy summer evening? 
+	  
+
+	Narrator on the bottom 
+Video on the top. 
+	So sleep is a $585 billion dollar industry.
+	  
+
+	This type of storytelling
+* Big text for text on screen 
+* Add a sleep (ZZZZ) png / icon to illustrate sleep 
+
+
+	From endless supplements to jet-cooled beds, there’s thousands of products 
+
+
+	  
+
+  
+  
+  
+
+	This type of storytelling
+
+
+* Add images that pop up (animated) 
+* Remove white background on products (Figma Tool) or background remove tool, or mask 
+* If you have to use a full image, use this photo background 
+   * https://drive.google.com/file/d/1cfBWeCMNkH7aoo08Vf6Lj2cgfVAH07Tz/view?usp=drive_link
+* 	that all promise that sought-after shut-eye.
+	
+
+	Shot of someone sleeping peacefully 
+	So why do we still struggle with sleep?
+	
+
+	Could use shots from here or other clips 
+https://drive.google.com/drive/folders/1iqIISDx0ulyFQzq9zmerpamqhHBdEjs6?usp=drive_link
+
+
+	It comes down to how we evolved as a species.
+
+
+	
+
+	
+
+	Our ancestors spent millions of years living in nature. Sleeping in open, moving air. 
+
+
+	  
+  
+
+	I want either realistic AI images, or get real images from the internet of ancient human civilizations 
+	Then the industrial revolution happened, and technology took off.
+	  
+
+	I want real images from the industrial revolution 
+Example: https://www.youtube.com/watch?v=9xf1Lsy4CZ8
+Then go into:
+* Moon Landing Footage
+   * https://www.youtube.com/shorts/F513Z7rWY8c
+   * * AI 
+   * Find Shots of AI (Claude logo, ChatGPT), ect 
+	We moved into cities, started staring at screens, and sealed ourselves indoors, away from nature. 
+
+
+	
+
+	Pull from stock footage 
+https://drive.google.com/drive/folders/1lG3lQ5i1tzzUv4JRiN_OKzMtoX6Tixpa?usp=drive_link
+* Drone Shots of Cities 
+* Pollution 
+* Stale Air 
+* Working 
+	And the part most people don't know:
+	  
+
+	Cut back to narrator / host 
+	To enter deep sleep, your body actually has to cool down by one or two degrees. 
+
+
+	  
+  
+
+	Show a infrared temp video of the body cooling down while sleeping 
+	And the way that happens is air moving across your skin.
+
+
+	
+
+	
+
+	Stagnant, indoor air is the variable the entire sleep economy has skipped. 
+	
+
+	
+
+	So we asked ourselves, what if we redesigned the airflow in your room? 
+
+
+	
+
+	
+
+	Any try to mimic that amazing breeze found in nature.
+	
+
+	Shot of fan blowing plant
+* Utah Selects or Sleep videos 
+	Would it help you sleep? Would it be more relaxing? 
+
+
+	
+
+	Shots of relaxing while sleeping 
+	After four years of design, and endless prototypes, we  came up with the Spin360.
+
+
+	  
+  
+  
+
+	Sequence of David designing 
+* Prototypes 
+* Holding blades
+* Him drawing 
+* Ect. 
+	we  came up with the Spin360.
+
+
+	
+
+	
+
+	Technically, it's a fan.
+But nobody calls it that after the first night.
+	
+
+	
+
+	People say things like:
+	  
+
+	I’d love to have her read comments from her phone if that is possible. 
+
+Or at least pick up her phone and be start to read it, like she’s reading comments.
+
+Then cut to images of “walls were removed, ect” 
+	"It feels like the walls of my bedroom were removed”
+"Super quiet, amazing air circulation"
+"The best sleep I've gotten in years, and I usually hate fans” 
+	
+
+	
+
+	What’s so unique is that 
+
+
+	  
+
+	
+
+	the Spin360 pulls air up from above and below and breathes it out in a soft 360 degree ring around the whole room.
+	
+
+	
+
+	The entire room moves. Not just one spot. 
+	
+
+	
+
+	So there’s no dead zones. No chop. No annoying fan sound. 
+	
+
+	
+
+	Just incredible, relaxing airflow. 
+
+
+	
+
+	
+
+	So you can sleep like you're outside. Without leaving your bed.
+
+
+	
+
+	
+
+	This spring only, we’re offering $110 dollars off the Spin360.
+Just in time for summer. Check it out in the link below. 
+	
+
+	CTA 
+	
+
+ 
+________________
+
+
+[7] Editing Rules
+* First 3 seconds must be FAST (no pauses)
+* No dead air in video—unless it's intentional
+* No clip longer than 2 seconds in first 10 seconds
+* Add captions for entire video
+* Each visual clip MUST complement the audio to help the audience understand what is happening
+* Editor must add sound design
+* Use Speed Ramps when needed and Add Blur
+* The mixing demo should be HIGH QUALITY and clearly visible—this is the hero visual
+* Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+* Lifestyle shots should target middle-aged/older women—avoid young, overly trendy aesthetics
+
+
+ 
+________________
+
+
+[8] Deliverables
+
+
+
+
+
+
+Draft 1: 
+
+What is one thing that every human wants 
+
+
+Good Sleep
+
+Sleep is a $585 billion dollar industry. 
+
+
+It even has it’s own name, the “sleep economy” 
+
+
+From random supplements to Jet Cooled Beds 
+
+
+Thousands of products that promise that sought after shut-eye 
+
+
+So why do so many people struggle to get good sleep? 
+
+It comes down to how we evolved as a species. 
+
+
+Our ancestors spent thousands of years living in nature 
+
+
+Sleeping with open moving air 
+
+
+And since the industrial revolution technology has rapidly increased. 
+
+We live in major cities with bad air, starting at our screens, away from nature. 
+
+
+For context, it took 2.4 million years for humans to master fire 
+
+
+66 years to go from the the frist airplane to men on the moon. 
+
+
+And 40 years from the first cell phone, to today’s AI Boom. 
+
+
+Our bodies haven’t evolved fast enough for our current environment. 
+
+
+NEED A GOOD TRANSITION HERE about how airflow is the fix 
+
+
+So we set out to re-design airflow from the ground up. 
+
+
+The goal was to mimic that amazing breeze found in nature
+
+
+And bring it into your home. 
+
+
+The result is the most relaxing, natural feeling airflow

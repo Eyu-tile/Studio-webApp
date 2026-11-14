@@ -1,0 +1,160 @@
+﻿Spin360_DrillHook_ShapeStory
+
+
+Brief - Spin360_DrillHook_ShapeStory.mp4
+
+
+ 
+
+
+3 ads, one edit. Same body in all three; only the hook (full screen, 0–8 s) changes. The body is a string-out of David: real lines cut from the Inside interview, plus a few lines generated with AI (Seedance) where he never said what we need. Everything happens in the same room as the Inside interview, so real and AI lines match.
+	
+
+This is inspiration, not a rulebook. Watch the reference ad first and get the idea: David telling his story, with visuals that show what he is saying. The images, layouts and visual ideas below are just to explain what we have in mind. You don't need to follow them shot by shot, and it doesn't need to be split screen all the time. Use your judgment on what makes the edit better.
+	Strategy
+# Element
+	Answer
+	Desire
+	"I want to sleep like I used to." He wants his bedroom to finally feel right at night: fresh air, no stuffiness, no fan blasting his face, so he and his wife sleep through and both wake up rested. Underneath: being the guy who found the smart fix for the house, not another gadget.
+	Avatar
+	Men 45–65, homeowners, buying for the bedroom they share with their wife (real buyers: "Got my wife one. She loves it", "I have two… so perfect in the bedroom"). They like knowing how things work and are skeptical of gadgets and price ("pricey, but… worth it"). Behavior: they keep throwing fans at the problem (a box fan pointed at the bed, the ceiling fan, the AC, even "four fans surrounding our bed") and the room still feels stuffy or uneven. Belief to respect: "a fan is a fan, it just blows air at you."
+	Angle
+	The same shape that reinvented the wheel makes the whole room one temperature with a real breeze, so the bedroom feels like sleeping outside, at the temperature of your own home. One reason to buy: smarter engineering, not more air.
+	Mechanism
+	New mechanism (patented): every fan pulls air from the back and blows it out the front; this shape pulls from the top and the bottom and pushes it out 360°. That mixes the ceiling air and the floor air into one temperature and turns airflow into a gentle breeze instead of a blast. We sell the feeling (outdoors, indoors); the shape is the reason to believe it.
+	Authority
+	Title + experience: the founder who reinvented the wheel and made a deal with Mark Cuban on Shark Tank, using the same shape he has had for 20 years. Plus the patent. Shown before any pitch.
+	Awareness
+	Hook: Unaware (pattern interrupt, no product). Body takes him from "my bedroom just feels off" (Problem Aware) to "a fan built differently fixes it" (Solution Aware). The fan market is sophisticated (stage 3–4), so his objection is "how is yours different?" and the shape and the mechanism carry the ad.
+	Emotion
+	Curiosity (what is this guy doing?) → "that's clever" (he feels like the smart buyer who gets the engineering) → relief and calm (the bedroom feels like outside).
+	Positioning
+	Different, not "better": not a fan that blows in your face or a ceiling fan pushing hot air down, but a breeze maker for the whole room. The enemy is the fan aimed at you.
+	Format
+	Founder string-out modeled on our winning David ad (reference below): real story → how it works → benefits. Hook in full screen; then split screen in the beginning (bridge and story) and full screen B-roll from about the middle on (benefits), like the winner.
+	Hooks
+	3 visual hooks of the drill prototype, same action, different places. Same body in all three.
+	Offer
+	Risk reversal: 30 nights to try it. If you don't love it, send it back. No fake scarcity.
+	Production brief
+Format: vertical 9:16, about 1:30. Hook in full screen. Like the winning ad: the beginning (bridge and story) is mostly split screen (visual on top, David at the bottom); from about the middle on (how it works and the benefits) it is mostly full screen B-roll without David, with his voice over it. Bring David back on screen when it helps. Your call.
+Environment (wherever David appears): David on the couch in the living room, black shirt, the Spin360 in the background. This is the Inside interview from the Frame.io shoot (Aug 2026).
+  
+
+
+
+Source file (real lines): Stringout_Spin360_Interview29Indoors)_Vertical.mp4 (Frame.io, Aug 2026 shoot, folder 9:16 Vertical / Stringouts). Same audio as Stringout_Sprin360_Interview2-Inside.mp4 (horizontal). All timecodes below are from this file. The interview was recorded twice: if a take is weak, the same line is again about 45:05 later (e.g. 00:39:33 → 01:24:37).
+AI lines (Seedance): the rows marked AI are lines David never said in this file. Cut a 10–15 s clip of him talking from the same file (same couch, same light, same framing) and use it as the reference in Seedance to make him say the new line, with his voice. Keep the framing identical so the cut between real and AI is invisible. In the split screen he is small, which helps hide it.
+Visual reference (top half): our winning David ad: https://www.facebook.com/100081148531982/posts/999154579466151/. Same kind of visuals: Shark Tank, the wheel, airflow animation, the Hotter/Cooler graphic, the walls opening to the outdoors. The mock-ups in the tables = top half from that ad + David in our environment at the bottom.
+Example of a split moment (mock-up): a visual on top (frame from the winning ad) and David in OUR environment at the bottom (the Inside couch). Use it where it helps, not in every shot.
+  
+Mix of shots, like the winner: some moments are split (David at the bottom), some are a full-screen visual with no David (his voice keeps going over it), and some are David in full screen. The table below suggests one of the three for each line, just as a guide.
+Captions: white, a few words at a time, centered between the two halves, like the winner.
+Visual hooks (3 ads)
+Full screen, no voice, real sound. We chose the 3 hooks: in all of them the smoke is already part of the place (street steam, grill smoke, campfire smoke), so it makes sense that it is there and the blade pulls it in. Same on-screen text on all three: what is this guy doing 😂 (upper third, first 3 s). Each hook cuts straight into David: "What happens if I 3D print this thing…".
+Ad
+	Visual Inspiration
+	Scene description
+	Hook 1 · New York sidewalk (ready)
+Spin360_DrillHook_ShapeStory_Hook1
+	  
+
+	Ready, use as is: Hook4_NYC_Sidewalk.mp4. David on a New York sidewalk; the steam from the street drifts in and gets pulled into the blade. Handheld passerby, people just look. On-screen text (same in all 3): what is this guy doing 😂 (upper third, first 3 s).
+	Hook 2 · Street food fair (to generate)
+Spin360_DrillHook_ShapeStory_Hook2
+	  
+
+	To generate (Seedance, same standard as Hook 1). Busy street food fair, food trucks in a row. David stands next to a food truck grill; the grill smoke drifts sideways and gets pulled into the blade. Handheld passerby, people glance and keep walking, nobody else films. The smoke is already part of the place, like the NYC steam. On-screen text (same in all 3): what is this guy doing 😂 (upper third, first 3 s).
+	Hook 3 · Campfire (to generate)
+Spin360_DrillHook_ShapeStory_Hook3
+	  
+
+	To generate (Seedance, same standard). Campground at dusk, friends around a campfire in camping chairs. David holds the drill by the fire; the campfire smoke bends and gets pulled into the blade. Handheld, the friends just look, curious and amused. On-screen text (same in all 3): what is this guy doing 😂 (upper third, first 3 s).
+	Body (same in all 3 ads)
+Section
+	David says (source)
+	Visual Inspiration
+	Visual idea
+	Emotion
+	Bridge
+	REAL · Inside 00:13:57–00:14:05
+What happens if I 3D print this thing and put it on a drill and turn it? And then you find out what happens, you know, like, wow, this didn't do what I thought it was going to do at all.
+	  
+
+	SPLIT. Visual idea: close-up of the blade on the drill, spinning, the smoke being pulled in (from the hook footage).
+	Curiosity
+	Story
+	AI · Seedance
+I've had this shape for twenty years. I used it to reinvent the wheel. I took it on Shark Tank and made a deal with Mark Cuban.
+	  
+
+  
+
+  
+
+	SPLIT. Visual idea: like the winner: a sketch of the shape, the Shark Wheel rolling, then 1–2 s of Shark Tank (Spin360_LiveLonger_HOOK_6.mp4 01:24–01:32).
+	Trust
+	How it works
+	AI · Seedance
+So I wanted to see what it would do with air. It pulled the air in from the top and the bottom and pushed it out in every direction.
+	  
+
+	FULL SCREEN visual (no David). Visual idea: airflow animation over a real room: air going into the Spin360 from the top and the bottom and out 360°, like the winner at 0:44.
+	Wow
+	One temperature
+	AI · Seedance
+It brings the warm air down from the ceiling and the cool air up from the floor, so the whole room ends up one temperature. And it sends it across you like a real breeze.
+	  
+
+	FULL SCREEN visual (no David). Visual idea: bedroom with the "Hotter / Cooler" graphic (warm at the ceiling, cool at the floor) mixing into one color, then the Spin360 running. Same idea as the winner at 0:48–0:55.
+	Clarity
+	Outdoor feel
+	REAL · Inside 00:40:49–00:41:00
+It's mixing the temperature top and bottom. Everything about it feels like an outdoor experience. The biggest part of that is I'm being hit with a gentle breeze that I barely noticed, but it's there.
+	  
+
+	FULL SCREEN visual (no David). Visual idea: calm room with the Spin360 on, a curtain or hair moving gently.
+	Comfort
+	No walls
+	REAL · Inside 00:39:33–00:39:40
+You'd swear your walls were lifted up and your bed is sitting outside. It's that natural breeze across your entire body.
+	  
+
+	FULL SCREEN visual (no David). Visual idea: the bedroom walls open up to the outdoors (trees, night sky), like the winner at 1:29.
+	Wonder
+	Indoor temperature
+	AI · Seedance
+Like sleeping outside, but at the temperature of your own home.
+	  
+
+	David full screen. Visual idea: David says it straight to us, then cut to the bed outdoors, cozy blanket, the person relaxed, then back inside the bedroom.
+	Comfort
+	Fresh air
+	REAL · Inside 00:27:20–00:27:32
+And when air is very well-mixed, it doesn't feel stagnant, it doesn't feel stuffy, it just feels fresh. And that's what we do. We bring a freshness to the air that no other fan can touch.
+	New shot. No reference frame.
+	FULL SCREEN visual (no David). Visual idea: closed bedroom that feels fresh: soft daylight, sheer curtain moving gently, the Spin360 on.
+	Fresh
+	Sleep
+	REAL · Inside 00:41:00–00:41:11
+When I don't have this running, it is not what I want. When it's running, I get an absolute perfect night's sleep, because it's simulating outdoors indoors.
+	  
+
+	FULL SCREEN visual (no David). Visual idea: deep sleep in a dark bedroom, the Spin360 glowing softly.
+	Calm
+	Better day
+	REAL · Inside 00:44:46–00:44:59
+This is going to make you have a better day because you had a better night. That's what we do. We improve your nighttime sleep in a way you just don't notice it until you don't have it. And then you realize, wow, this is really changing things.
+	  
+
+	
+
+	Relief
+	CTA
+	AI · Seedance
+Try it for 30 nights. If you don't love it, just send it back.
+	  
+
+	FULL SCREEN visual (no David). Visual idea: product hero shot. End card: Try it for 30 nights.
+	Safe, no risk
+	Orange rows = AI (Seedance). White rows = real, cut from the file at the timecode shown. On "Outdoor feel", the line before it in the file is about oxygen: start the cut exactly at "It's mixing the temperature".

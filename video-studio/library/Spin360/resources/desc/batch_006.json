@@ -1,0 +1,773 @@
+{
+ "batch": "batch_006",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_006.out.json",
+ "clips": [
+  {
+   "id": "ab5fc49d-935a-4de3-abef-674db2ed9f30",
+   "filename": ".05 bedroom",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 6.67,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ab5fc49d-935a-4de3-abef-674db2ed9f30_1.jpg"
+   ],
+   "bya_description": "A wide shot of a bright bedroom with a large bed featuring striped bedding and decorative wall hangings. A wooden ceiling with a black fan and a papasan chair are visible in the background.",
+   "bya_tags": [
+    "Bedroom",
+    "Bedroom"
+   ]
+  },
+  {
+   "id": "3e368457-d074-41e1-ae55-86e50ba25126",
+   "filename": ".05 frame POV",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 4.7,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3e368457-d074-41e1-ae55-86e50ba25126_1.jpg"
+   ],
+   "bya_description": "Camera pans across a modern living room with large windows overlooking a forest. A tall black fan stands beside a white fluffy chair and a wooden coffee table.",
+   "bya_tags": [
+    "Living room",
+    "Product on surface",
+    "Relaxing at home",
+    "Living room",
+    "Product on surface",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "b80e810f-6eb9-4e32-8498-35dd04cb12e2",
+   "filename": "Plugging in wall",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 6.33,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b80e810f-6eb9-4e32-8498-35dd04cb12e2_1.jpg"
+   ],
+   "bya_description": "A black tower fan stands on a wooden floor next to a white beanbag chair and large windows.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Product on surface",
+    "Living room",
+    "Product on surface",
+    "Showing fan base"
+   ]
+  },
+  {
+   "id": "4f547f03-2868-4caa-a575-ad019e386988",
+   "filename": "360 hero shot.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 4.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4f547f03-2868-4caa-a575-ad019e386988_1.jpg"
+   ],
+   "bya_description": "White pedestal fan with a ribbed transparent top stands on a wooden floor. The digital display on the stem is lit.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Product on surface",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "67d3b73e-50ed-4c97-b5dd-49a6fb6c4dc9",
+   "filename": "360 in kitchen.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 1.47,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/67d3b73e-50ed-4c97-b5dd-49a6fb6c4dc9_1.jpg"
+   ],
+   "bya_description": "White pedestal fan stands on a tiled kitchen floor against green cabinets.",
+   "bya_tags": [
+    "Product on surface",
+    "Product on surface"
+   ],
+   "transcript": [
+    {
+     "start": 0.1,
+     "text": "Well,",
+     "labels": [
+      "Product on surface"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ab462f04-832f-4d5c-811d-7c1813cadf4c",
+   "filename": "360 in kitchen.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 2.27,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ab462f04-832f-4d5c-811d-7c1813cadf4c_1.jpg"
+   ],
+   "bya_description": "A white pedestal fan stands on a tiled kitchen floor. The handheld camera moves closer to the device.",
+   "bya_tags": [
+    "Product hero shot"
+   ]
+  },
+  {
+   "id": "a991e8ce-3c45-42f9-a764-4b8c42f484cd",
+   "filename": "360 on counter 2.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.1,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a991e8ce-3c45-42f9-a764-4b8c42f484cd_1.jpg"
+   ],
+   "bya_description": "A white tabletop fan with a clear ribbed body sits on a white kitchen counter. Light green cabinets and a window are visible in the background.",
+   "bya_tags": [
+    "Product on surface",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "e10ea34d-829b-4b7c-b05b-913dc3c2b9da",
+   "filename": "360 volume.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 4.93,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e10ea34d-829b-4b7c-b05b-913dc3c2b9da_1.jpg"
+   ],
+   "bya_description": "A white pedestal fan with clear horizontal slats and a gold-rimmed top sits stationary on a wooden floor against a neutral wall.",
+   "bya_tags": [
+    "Product close-up",
+    "Product hero shot",
+    "Product on surface",
+    "Product close-up",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "96ad8df0-e542-446e-85dc-fb11e8bac5a4",
+   "filename": "360 wide shot",
+   "folder": "Spin360 - Avery",
+   "duration_s": 2.8,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/96ad8df0-e542-446e-85dc-fb11e8bac5a4_1.jpg"
+   ],
+   "bya_description": "Handheld camera moves forward through a wooden-floored hallway, passing a white pedestal fan on the right.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Product on surface",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "7e1a9598-27a1-4de8-a145-138ae0b15630",
+   "filename": "360.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7e1a9598-27a1-4de8-a145-138ae0b15630_1.jpg"
+   ],
+   "bya_description": "Handheld close-up of a white fan with a clear slatted cage and gold trim. The camera moves around the device in a home interior.",
+   "bya_tags": [
+    "Product close-up",
+    "Product on surface",
+    "Product close-up",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "1bf50c19-ce8b-49db-b761-780a34814215",
+   "filename": "ac unit running.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.87,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1bf50c19-ce8b-49db-b761-780a34814215_1.jpg"
+   ],
+   "bya_description": "Handheld shot of a wooden floor and vent next to a window. A car drives past a rocky garden outside.",
+   "bya_tags": [
+    "Living room",
+    "Patio & backyard",
+    "Living room",
+    "Patio & backyard"
+   ],
+   "transcript": [
+    {
+     "start": 0.0,
+     "text": "\uc548\ub155\ud558\uc138\uc694.",
+     "labels": [
+      "Living room",
+      "Patio & backyard"
+     ]
+    },
+    {
+     "start": 1.4,
+     "text": "\uc5ec\ub7ec\ubd84 \uc548\ub155\ud558\uc138\uc694",
+     "labels": [
+      "Living room",
+      "Patio & backyard"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "11513baa-3789-4bfd-bb64-1a43c42a9e40",
+   "filename": "afternoon hot room.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 3.2,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/11513baa-3789-4bfd-bb64-1a43c42a9e40_1.jpg"
+   ],
+   "bya_description": "A toddler sits on a living room rug with a toy while another person lies nearby.",
+   "bya_tags": [
+    "Hook",
+    "Living room",
+    "Product benefit",
+    "Living room",
+    "Relaxing at home"
+   ],
+   "transcript": [
+    {
+     "start": 0.3,
+     "text": "This is your bliss, is your bliss.",
+     "labels": [
+      "Hook",
+      "Product benefit",
+      "Living room",
+      "Relaxing at home"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7c728aee-490a-451e-8c9d-b073a2e223c1",
+   "filename": "afternoon sun baking room.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 3.4,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7c728aee-490a-451e-8c9d-b073a2e223c1_1.jpg"
+   ],
+   "bya_description": "A wide pan across a living room shows a large beige sectional sofa with blue and patterned pillows. The room features vaulted ceilings with dark wood beams and large windows.",
+   "bya_tags": [
+    "Living room",
+    "Personal Suitability",
+    "Product benefit",
+    "Living room"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "This is for me.",
+     "labels": [
+      "Product benefit",
+      "Living room",
+      "Personal Suitability"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2cdc937d-526d-4121-bdca-7e923e299879",
+   "filename": "bedroom.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 2.93,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/2cdc937d-526d-4121-bdca-7e923e299879_1.jpg"
+   ],
+   "bya_description": "Pan across a bedroom showing a bed with grey bedding, blue curtains, and a nightstand lamp.",
+   "bya_tags": [
+    "Bedroom",
+    "Curtains & windows",
+    "Bedroom",
+    "Curtains & windows"
+   ],
+   "transcript": [
+    {
+     "start": 0.0,
+     "text": "Whoa! Hi!",
+     "labels": [
+      "Bedroom",
+      "Curtains & windows"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7017bbed-d6ed-4f33-a033-ca69610ef12e",
+   "filename": "cat by fan.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.74,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7017bbed-d6ed-4f33-a033-ca69610ef12e_1.jpg"
+   ],
+   "bya_description": "A tabby cat rests on a grey floral bedspread beside a white pedestal fan. A bedside lamp provides warm ambient light in the bedroom.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Product on surface",
+    "Bedroom",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "1ac0904d-ae2a-41be-b89e-34546bdcc13a",
+   "filename": "ceiling fan",
+   "folder": "Spin360 - Avery",
+   "duration_s": 6.93,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1ac0904d-ae2a-41be-b89e-34546bdcc13a_1.jpg"
+   ],
+   "bya_description": "Close-up of the spinning ceiling fan. The camera is positioned closer to the brass motor and glass light shades. Then a gold and white ceiling fan spins against a textured ceiling. Fishing nets hang on the walls in the lower corners of the frame.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Fan spinning close-up"
+   ]
+  },
+  {
+   "id": "2a94ce68-56eb-401a-a36d-a22ed73a5702",
+   "filename": "ceiling fan2",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.17,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/2a94ce68-56eb-401a-a36d-a22ed73a5702_1.jpg"
+   ],
+   "bya_description": "Gold ceiling fan with frosted shades spins against a white textured ceiling.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Fan spinning close-up"
+   ]
+  },
+  {
+   "id": "14b65ba9-4ff3-41f6-ad90-3a941e2bc098",
+   "filename": "checking thermostat annoyed 3",
+   "folder": "Spin360 - Avery",
+   "duration_s": 4.13,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/14b65ba9-4ff3-41f6-ad90-3a941e2bc098_1.jpg"
+   ],
+   "bya_description": "Close-up of a white SimpleComfort thermostat on a wall. The display reads 80 SET. Then Tighter close-up of the thermostat on the wall. Then extreme close-up of the display. The reading switches from 80 SET to 74 ROOM.",
+   "bya_tags": [
+    "AC & thermostat",
+    "AC & thermostat"
+   ]
+  },
+  {
+   "id": "979b026a-fb93-4047-9903-3e2db4ddcc44",
+   "filename": "family movie night.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 2.23,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/979b026a-fb93-4047-9903-3e2db4ddcc44_1.jpg"
+   ],
+   "bya_description": "Three young boys cheer and clap while sitting on a couch. A white pedestal fan stands in the foreground of the living room.",
+   "bya_tags": [
+    "Children cheering",
+    "Gathering around",
+    "Lifestyle moment",
+    "Children cheering",
+    "Gathering around",
+    "Lifestyle moment",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "f954fbe6-be5f-4bd0-973f-2182a300929a",
+   "filename": "fan in kitchen",
+   "folder": "Spin360 - Avery",
+   "duration_s": 4.43,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f954fbe6-be5f-4bd0-973f-2182a300929a_1.jpg"
+   ],
+   "bya_description": "A white pedestal fan with a clear, ribbed cylindrical head stands on a tiled floor. The camera pans slightly, showing a digital display on the stem in a kitchen setting.",
+   "bya_tags": [
+    "Product hero shot",
+    "Product on surface",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "1920c585-7431-4f81-b2f3-3e235f205994",
+   "filename": "fan in living room.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 1.73,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1920c585-7431-4f81-b2f3-3e235f205994_1.jpg"
+   ],
+   "bya_description": "A white pedestal fan stands on a beige carpet next to a large sectional sofa with blue and patterned pillows. The camera pans left across the living room, showing a window with bright natural light in the background.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Product on surface",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "696f0ce9-4519-46c9-b5aa-870ca95a4c5b",
+   "filename": "fan in living room.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.33,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/696f0ce9-4519-46c9-b5aa-870ca95a4c5b_1.jpg"
+   ],
+   "bya_description": "The camera pans from a beige sectional sofa toward a white pedestal fan in a bright living room. The fan stands on a rug near large windows, showing a digital display on its stem.",
+   "bya_tags": [
+    "Air purifier top",
+    "Living room",
+    "Product on surface",
+    "Air purifier top",
+    "Living room",
+    "Product on surface"
+   ],
+   "transcript": [
+    {
+     "start": 1.6,
+     "text": "Friend. Friend,",
+     "labels": [
+      "Living room",
+      "Product on surface",
+      "Air purifier top"
+     ]
+    },
+    {
+     "start": 3.4,
+     "text": "friend!",
+     "labels": [
+      "Living room",
+      "Product on surface",
+      "Air purifier top"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6fe5b045-5727-4e8e-8d15-759018077abb",
+   "filename": "feeling air from 360",
+   "folder": "Spin360 - Avery",
+   "duration_s": 9.13,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6fe5b045-5727-4e8e-8d15-759018077abb_1.jpg"
+   ],
+   "bya_description": "A woman's hand rests on the clear, ribbed top of a white tower fan. The fan's digital display shows 'F6' against a home background.",
+   "bya_tags": [
+    "Air purifier top",
+    "Feeling the breeze",
+    "Living room",
+    "Air purifier top",
+    "Feeling the breeze",
+    "Living room",
+    "Product in hand"
+   ]
+  },
+  {
+   "id": "524c35ad-e1fe-4126-8f24-d9ddec8a7126",
+   "filename": "hero shot.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 4.26,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/524c35ad-e1fe-4126-8f24-d9ddec8a7126_1.jpg"
+   ],
+   "bya_description": "A white pedestal fan stands on a wooden floor in a living room. The camera pans slowly to the left, revealing a wooden console table with woven baskets and a large abstract painting in the background.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Product on surface",
+    "Living room",
+    "Product on surface"
+   ],
+   "transcript": [
+    {
+     "start": 1.2,
+     "text": "Hello, hello, hello.",
+     "labels": [
+      "Product hero shot",
+      "Living room",
+      "Product on surface"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c9302120-038a-4879-8195-107e3e2464f2",
+   "filename": "hero shot.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 3.33,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c9302120-038a-4879-8195-107e3e2464f2_1.jpg"
+   ],
+   "bya_description": "White pedestal fan stands on a rug in a living room. Digital display shows 'F3' as camera moves closer.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "73904925-986c-4917-9ab8-8ade4ec4847a",
+   "filename": "kid sleeping.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 6.76,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/73904925-986c-4917-9ab8-8ade4ec4847a_1.jpg"
+   ],
+   "bya_description": "A child sleeps in bed next to a white fan with a blue light ring on a nightstand.",
+   "bya_tags": [
+    "Bedroom",
+    "Blue light ambiance",
+    "Product on surface",
+    "Bedroom",
+    "Blue light ambiance",
+    "Product on surface",
+    "Sleeping"
+   ]
+  },
+  {
+   "id": "1dd9d797-427e-4538-8a4d-a2c36cd98662",
+   "filename": "kids playing uncomrtably 2.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 4.17,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1dd9d797-427e-4538-8a4d-a2c36cd98662_1.jpg"
+   ],
+   "bya_description": "A young boy lies on a patterned rug, opening and looking into a blue zippered pouch with star patterns before bringing it to his face.",
+   "bya_tags": [
+    "Playing with kids",
+    "Product in hand",
+    "Relaxing at home",
+    "Playing with kids",
+    "Product in hand",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "3f7a666f-5e58-4bd7-b773-0480a3060762",
+   "filename": "kids sleeping comfortably",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.8,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3f7a666f-5e58-4bd7-b773-0480a3060762_1.jpg"
+   ],
+   "bya_description": "A toddler sleeps soundly under a white textured blanket on a bed with floral pillows. Handheld high-angle shot.",
+   "bya_tags": [
+    "Bedroom",
+    "Sleeping",
+    "Bedroom",
+    "Sleeping"
+   ]
+  },
+  {
+   "id": "0935d423-9d01-4000-8a31-2c4fcd73aa2d",
+   "filename": "kitchen to living room.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 2,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0935d423-9d01-4000-8a31-2c4fcd73aa2d_1.jpg"
+   ],
+   "bya_description": "Handheld pan across a living room featuring a stone fireplace, wicker chairs, and a vaulted wood-beam ceiling.",
+   "bya_tags": [
+    "Living room",
+    "Living room"
+   ]
+  },
+  {
+   "id": "e3eeebaf-42a0-4cc1-a62f-51f0c096a396",
+   "filename": "living room.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 2.27,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e3eeebaf-42a0-4cc1-a62f-51f0c096a396_1.jpg"
+   ],
+   "bya_description": "A handheld camera pans across a sunlit living room, showing a large grey sectional sofa with patterned pillows in front of large windows. The pan continues across a patterned area rug on a light wood floor.",
+   "bya_tags": [
+    "Living room",
+    "Living room"
+   ]
+  },
+  {
+   "id": "5b1f705a-fe34-44c5-8f0d-0a2b5e8d3e2f",
+   "filename": "movie night ",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.83,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5b1f705a-fe34-44c5-8f0d-0a2b5e8d3e2f_1.jpg"
+   ],
+   "bya_description": "Three children cheer excitedly on a couch behind a white pedestal fan in a living room.",
+   "bya_tags": [
+    "Children cheering",
+    "Gathering around",
+    "Lifestyle moment",
+    "Children cheering",
+    "Gathering around",
+    "Lifestyle moment",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "65503655-4c90-48a8-8b6f-510546caebb1",
+   "filename": "plugging in.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 3.6,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/65503655-4c90-48a8-8b6f-510546caebb1_1.jpg"
+   ],
+   "bya_description": "A hand plugs a white rectangular power adapter into the bottom socket of a white wall outlet. Then the white power adapter is plugged into the wall outlet, with a small green light glowing on its bottom edge.",
+   "bya_tags": [
+    "Power indicator light",
+    "Product close-up",
+    "Product in hand",
+    "Power indicator light",
+    "Product close-up",
+    "Product in hand",
+    "Turning fan on"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I'll break it and then I'll just\u2014 and then I'll go",
+     "labels": [
+      "Product in hand",
+      "Turning fan on",
+      "Product close-up",
+      "Power indicator light"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8108aec9-39d3-4f02-8b65-eab609fc4751",
+   "filename": "plugging in.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 4,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8108aec9-39d3-4f02-8b65-eab609fc4751_1.jpg"
+   ],
+   "bya_description": "A hand plugs a white square device into a wall outlet. A green indicator light glows on top of the unit.",
+   "bya_tags": [
+    "Lifestyle moment",
+    "Power indicator light",
+    "Product in hand",
+    "Lifestyle moment",
+    "Power indicator light",
+    "Product in hand"
+   ]
+  },
+  {
+   "id": "3d07fe04-6dbe-487c-a8eb-e88c08bd7841",
+   "filename": "post it on fan.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 4.4,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3d07fe04-6dbe-487c-a8eb-e88c08bd7841_1.jpg"
+   ],
+   "bya_description": "A hand holds a yellow sticky note reading 'BEST FAN OF 2026' against the top of a white pedestal fan in a living room.",
+   "bya_tags": [
+    "Living room",
+    "Product in hand",
+    "Living room",
+    "Product in hand"
+   ]
+  },
+  {
+   "id": "bf54273b-0aca-4be8-9132-9a6d45420810",
+   "filename": "post it on fan.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 4.5,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/bf54273b-0aca-4be8-9132-9a6d45420810_1.jpg"
+   ],
+   "bya_description": "A hand peels a yellow sticky note reading 'BEST FAN OF 2024' from the grill of a white pedestal fan.",
+   "bya_tags": [
+    "Living room",
+    "Product close-up",
+    "Peeling note",
+    "Living room",
+    "Peeling note",
+    "Product close-up"
+   ]
+  },
+  {
+   "id": "f8d7b513-6c2f-4995-8696-ea79c4f54050",
+   "filename": "post it on fan.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.27,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f8d7b513-6c2f-4995-8696-ea79c4f54050_1.jpg"
+   ],
+   "bya_description": "A white pedestal fan with a 'BEST FAN OF 2026' sticky note stands in a living room. The camera zooms in slightly.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Product on surface",
+    "Living room",
+    "Product on surface"
+   ]
+  }
+ ]
+}
