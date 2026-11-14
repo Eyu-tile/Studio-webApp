@@ -16,19 +16,25 @@ Sounds come from a library of real recordings, matched by filename keywords:
   vs sfx apply out/draft.mp4 --plan work/sfx_plan.json -o out/draft_sfx.mp4 --stem out/sfx_stem.wav
   vs sfx merge work/edl.json --plan work/sfx_plan.json -o work/edl.sfx.json   (EDL `sfx` entries for vs render)
   vs sfx library                                                    what's available, by category
+  vs sfx analyse <files|dirs>                                       onset, peak, hit level, length of each sound
   vs sfx bank --from earshot                                        render earshot's sound bank into library/assets/sfx/earshot
 """
 import argparse
+import array
+import hashlib
 import html
 import json
+import math
 import os
 import re
+import shutil
 import subprocess
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from vs_common import cut_points, die, fmt_ts, load_json, need, probe, run, save_json, timeline  # noqa: E402
+from vs_common import (cut_points, die, fmt_ts, load_json, need, probe, run, save_json, sfx_chain,  # noqa: E402
+                       timeline)
 
 AUDIO_EXT = {".mp3", ".wav", ".m4a", ".aac", ".flac", ".aiff", ".aif", ".ogg", ".opus"}
 # category -> filename keywords (first match wins, so order specific -> generic)
@@ -44,33 +50,72 @@ CATEGORIES = {  # first match wins: specific before generic. Matched on the cue 
                "disconnect", "scratch", "cancel", "delete", "refund"],
     "chime": ["chime", "ding", "bell", "notification", "success", "sparkle", "shimmer", "magic", "complete",
               "confirmation", "achievement", "reward", "level-up", "bonus", "badge", "streak", "purchase", "checkout",
-              "unlock", "receive", "send", "question", "bong", "glass", "wake", "connect", "coupon", "info", "mention"],
+              "unlock", "receive", "send", "question", "bong", "ping", "glass", "wake", "connect", "coupon", "info", "mention"],
     "pop": ["pop", "bubble", "blip", "pluck", "hover", "focus", "reaction", "add-to-cart", "paste", "copy"],
     "click": ["click", "tap", "tick", "ui", "button", "toggle", "switch", "mouse", "key", "select", "press", "check",
               "back", "forward", "scroll", "play", "pause", "release", "deselect", "volume", "reorder", "start"],
     "swell": ["swell", "reverse", "reverse-cymbal", "suck", "inhale", "sleep", "whoom"],
     "paper": ["paper", "page", "flip", "rustle"],
 }
-# what each moment wants: (category preference list, gain dB, lead seconds before the frame)
+# What each moment wants: (category preference list, level dB).
+# level: dB relative to a normalised hit (the sound's loudest 50 ms brought to REF_HIT_DB), so 0 dB is about as loud as
+# a dialogue peak, -10 dB sits clearly under it. Every file is measured, so a quiet chime and a slammed impact land
+# at the level the cue asks for instead of differing by 30 dB.
+# Which point of a sound lands on the frame depends on the sound:
+#   "crest" = its loudest moment: a whoosh passes the cut there, a riser or swell tops out on the reveal;
+#   "hit"   = where its loud part arrives (first 50 ms within 3 dB of the loudest): an impact with a pre-swell or a
+#             silent lead-in hits on the frame, a sustained boom starts on it;
+#   "onset" = where it starts sounding: clicks, pops, chimes, typing and glitches start on the action.
+ANCHOR = {"whoosh": "crest", "swell": "crest", "riser": "crest", "impact": "hit"}
+ANCHOR_KEY = {"onset": "onset", "hit": "hit_t", "crest": "crest_t"}
 CUE = {
-    "transition-fast": (["whoosh", "swell"], -8, 0.12),
-    "transition-soft": (["swell", "whoosh"], -14, 0.25),
-    "transition-dip": (["impact", "swell"], -10, 0.0),
-    "cut-section": (["whoosh", "impact"], -12, 0.08),
-    "cut": (["click", "pop"], -18, 0.0),
-    "text": (["pop", "click"], -12, 0.0),
-    "text-big": (["impact", "pop"], -10, 0.0),
-    "overlay": (["whoosh", "pop"], -12, 0.1),
-    "logo": (["chime", "impact"], -10, 0.0),
-    "chart": (["click", "pop"], -14, 0.0),
-    "image": (["swell", "whoosh"], -16, 0.2),
-    "scene": (["whoosh", "click"], -14, 0.08),
-    "beat": (["impact"], -9, 0.0),
-    "type": (["type", "click"], -16, 0.0),
-    "camera": (["camera", "click"], -12, 0.0),
+    "transition-fast": (["whoosh", "swell"], -8),
+    "transition-soft": (["swell", "whoosh"], -14),
+    "transition-dip": (["impact", "swell"], -10),
+    "transition-glitch": (["glitch", "whoosh"], -12),
+    "cut-section": (["whoosh", "impact"], -12),
+    "cut": (["click", "pop"], -18),
+    "text": (["pop", "click"], -12),
+    "text-big": (["impact", "pop"], -10),
+    "overlay": (["whoosh", "pop"], -12),
+    "logo": (["chime", "impact"], -10),
+    "chart": (["click", "pop"], -14),
+    "image": (["swell", "whoosh"], -16),
+    "scene": (["whoosh", "click"], -14),
+    "beat": (["impact"], -9),
+    "type": (["type", "click"], -16),
+    "camera": (["camera", "click"], -12),
+    "riser": (["riser", "swell"], -14),
+}
+REF_HIT_DB = -12.0      # a normalised sound's loudest 50 ms RMS, in dBFS
+MAX_BOOST_DB = 18.0     # never lift a near-silent file more than this (it would lift its noise too)
+PEAK_CEIL_DB = -1.0     # a placed sound's sample peak never exceeds this
+# Taste presets: how dense, how loud, extra layers. Explicit flags win over the preset.
+STYLES = {
+    "talking-head": {"min_gap": 5.0, "every_cut": False, "gain_offset": -2, "risers": False, "speech_duck": 8,
+                     "drop_over_speech": ["cut", "scene", "chart", "type"]},
+    "tutorial": {"min_gap": 1.5, "every_cut": False, "gain_offset": -2, "risers": False, "speech_duck": 8,
+                 "drop_over_speech": ["cut", "scene"]},
+    "ugc-ad": {"min_gap": 0.8, "every_cut": True, "gain_offset": 0, "risers": False, "speech_duck": 6,
+               "drop_over_speech": ["cut"]},
+    "montage": {"min_gap": 0.5, "every_cut": True, "gain_offset": 0, "risers": True, "speech_duck": 6,
+                "drop_over_speech": []},
+    "launch": {"min_gap": 0.25, "every_cut": True, "gain_offset": 2, "risers": True, "speech_duck": 6,
+               "drop_over_speech": []},
 }
 FAST_TR = {"whip", "whip-left", "whip-right", "slideleft", "slideright", "slideup", "slidedown", "smoothleft",
-           "smoothright", "wipeleft", "wiperight", "wipeup", "wipedown", "zoomin", "pixelize", "hblur", "radial"}
+           "smoothright", "wipeleft", "wiperight", "wipeup", "wipedown", "zoomin", "hblur", "radial"}
+GLITCH_TR = {"pixelize", "glitch"}
+
+
+def tr_pan(ttype):
+    """Pan a transition whoosh the way the picture moves: content leaving to the left sounds on the left."""
+    t = ttype.lower()
+    if t in ("whip", "whip-left") or t.endswith("left"):
+        return -0.4
+    if t == "whip-right" or t.endswith("right"):
+        return 0.4
+    return 0.0
 
 
 def plugin_root():
@@ -126,8 +171,10 @@ def moments_from_edl(edl, every_cut):
         t = it["out_start"] + it["overlap"] / 2
         if tr:
             ttype = tr.get("type", "fade") if isinstance(tr, dict) else "fade"
-            cue = "transition-fast" if ttype in FAST_TR else ("transition-dip" if "dip" in ttype or ttype.startswith("fade") and "black" in ttype else "transition-soft")
-            out.append({"t": t, "cue": cue, "why": f"{ttype} into shot {k + 1}"})
+            cue = ("transition-glitch" if ttype in GLITCH_TR else "transition-fast" if ttype in FAST_TR
+                   else "transition-dip" if "dip" in ttype or ttype.startswith("fade") and "black" in ttype
+                   else "transition-soft")
+            out.append({"t": t, "cue": cue, "why": f"{ttype} into shot {k + 1}", "pan": tr_pan(ttype)})
         elif it["src"] != tl[k - 1]["src"]:
             out.append({"t": t, "cue": "cut-section", "why": f"cut to {Path(it['src']).name} (shot {k + 1})"})
         elif every_cut:
@@ -208,7 +255,121 @@ def moments_from_video(video, threshold):
     return [{"t": float(x), "cue": "scene", "why": "scene change"} for x in re.findall(r"pts_time:([\d.]+)", p.stderr)]
 
 
+def cache_path():
+    return Path(os.environ.get("XDG_CACHE_HOME", Path.home() / ".cache")) / "video-studio" / "sfx_analysis_v3.json"
+
+
+def _measure(path):
+    """Decode to 16 kHz mono and read the envelope in 10 ms windows."""
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-i", str(path), "-ac", "1", "-ar", "16000", "-f", "s16le", "-"],
+                         capture_output=True).stdout
+    a = array.array("h", raw)
+    if sys.byteorder == "big":
+        a.byteswap()
+    win = 160
+    rms = [math.sqrt(sum(x * x for x in a[i:i + win]) / max(len(a[i:i + win]), 1)) for i in range(0, len(a), win)]
+    if not rms or max(rms) == 0:
+        return None
+    peak = max(abs(x) for x in a)
+    hit = [math.sqrt(sum(r * r for r in rms[i:i + 5]) / len(rms[i:i + 5])) for i in range(len(rms))]  # 50 ms RMS
+    hi = max(range(len(hit)), key=hit.__getitem__)
+    arrive = next(i for i, h in enumerate(hit) if h >= hit[hi] * 0.708)  # first 50 ms within 3 dB of the loudest
+    top = max(rms)
+    onset = next(i for i, r in enumerate(rms) if r >= top * 0.1)  # first window within 20 dB of the loudest
+    db = lambda v: round(20 * math.log10(max(v, 1) / 32768), 1)  # noqa: E731
+    return {"duration": round(len(a) / 16000, 3), "onset": round(onset * 0.01, 3),
+            "hit_t": round(min(arrive + 2, len(rms) - 1) * 0.01, 3),   # where the loud part arrives
+            "crest_t": round(min(hi + 2, len(rms) - 1) * 0.01, 3),     # centre of the loudest 50 ms
+            "hit_db": db(hit[hi]), "peak_db": db(peak)}
+
+
+def analyse(paths):
+    """Onset, peak time, loudest-50 ms level and sample peak for each sound (cached by path, size and mtime)."""
+    cp = cache_path()
+    try:
+        cache = json.loads(cp.read_text())
+    except (OSError, ValueError):
+        cache = {}
+    out, dirty = {}, False
+    for f in paths:
+        try:
+            st = os.stat(f)
+        except OSError:
+            continue
+        key = hashlib.sha1(f"{Path(f).resolve()}|{st.st_size}|{int(st.st_mtime)}".encode()).hexdigest()
+        if key not in cache:
+            cache[key], dirty = _measure(f), True
+        out[f] = cache[key]
+    if dirty:
+        cp.parent.mkdir(parents=True, exist_ok=True)
+        cp.write_text(json.dumps(cache))
+    return out
+
+
+def norm_gain(m):
+    """dB that brings a sound's loudest 50 ms to REF_HIT_DB, without lifting noise too far or clipping."""
+    if not m:
+        return 0.0
+    return round(min(max(REF_HIT_DB - m["hit_db"], -30.0), MAX_BOOST_DB), 1)
+
+
+def place(m, frame_t, anchor, level, max_tail, max_head=None):
+    """Timing fields for one cue: the anchor point of the sound lands on frame_t; head and tail are capped."""
+    off = m[ANCHOR_KEY[anchor]] if m else 0.0
+    start = max(off - max_head, 0.0) if max_head is not None else 0.0  # a long build-up starts part-way in
+    at = frame_t - (off - start)
+    if at < 0:  # the sound would start before the video: drop more of its head instead of sliding it late
+        start, at = start - at, 0.0
+    cue = {"at": round(at, 3), "in": round(start, 3) if start else 0}
+    if start and off - start > 0.05:
+        cue["fade_in"] = round(min(0.15, (off - start) / 2), 3)
+    if m:
+        dur = min(m["duration"] - start, off - start + max_tail)
+        if dur < m["duration"] - start - 0.01:
+            cue.update(dur=round(dur, 3), fade_out=round(min(0.25, dur / 3), 3))
+        norm = norm_gain(m)
+        gain = min(norm + level, PEAK_CEIL_DB - m["peak_db"])
+        cue.update(norm_db=norm, gain_db=round(gain, 1))
+    else:
+        cue["gain_db"] = level
+    return cue
+
+
+def speech_spans(path):
+    """Word spans [(s, e)] from a vs transcribe JSON of the edit itself (output time, e.g. of out/draft.mp4)."""
+    words = load_json(path).get("words", [])
+    return [(float(w["s"]), float(w["e"])) for w in words if "s" in w and "e" in w]
+
+
+def over_speech(t, spans, pad=0.08):
+    return any(s - pad <= t <= e + pad for s, e in spans)
+
+
+def pick(lib, cats, used, prefer):
+    for c in cats:
+        files = lib.get(c)
+        if not files:
+            continue
+        if prefer:  # e.g. --prefer cinematic,studio: those styles/packs first
+            pref = [w.strip().lower() for w in prefer.split(",")]
+            files = [f for f in files if any(w in f.lower() for w in pref)] or files
+        i = used.get(c, 0)
+        used[c] = i + 1  # rotate so the same sound doesn't repeat
+        return c, files[i % len(files)]
+    return cats[0], None
+
+
+def resolve_style(a):
+    st = STYLES.get(a.style or "", {})
+    defaults = {"min_gap": 0.35, "every_cut": False, "gain_offset": 0.0, "risers": False, "speech_duck": 6.0,
+                "drop_over_speech": []}
+    for k, v in defaults.items():
+        if getattr(a, k, None) is None:
+            setattr(a, k, st.get(k, v))
+
+
 def cmd_plan(a):
+    resolve_style(a)
     moments = []
     if a.edl:
         moments += moments_from_edl(load_json(a.edl), a.every_cut)
@@ -221,9 +382,12 @@ def cmd_plan(a):
     if not moments:
         die("no moments found: pass --edl, --hyperframes, --video and/or --beats")
     moments.sort(key=lambda m: m["t"])
+    spans = speech_spans(a.words) if a.words else []
+    if spans and a.drop_over_speech:
+        moments = [m for m in moments if not (m["cue"] in a.drop_over_speech and over_speech(m["t"], spans))]
     # De-clutter: keep the more important cue when two land within min-gap.
-    rank = ["logo", "text-big", "transition-fast", "transition-dip", "beat", "cut-section", "overlay", "chart",
-            "transition-soft", "image", "camera", "type", "text", "scene", "cut"]
+    rank = ["logo", "text-big", "transition-fast", "transition-glitch", "transition-dip", "beat", "cut-section",
+            "overlay", "chart", "transition-soft", "image", "camera", "type", "text", "scene", "cut"]
     kept = []
     for m in moments:
         if kept and m["t"] - kept[-1]["t"] < a.min_gap:
@@ -232,31 +396,73 @@ def cmd_plan(a):
             continue
         kept.append(m)
     lib = library(a.library, a.project_dir)
-    used = {}
-    plan = []
-    for m in kept:
-        cats, gain, lead = CUE[m["cue"]]
-        choice = None
-        for c in cats:
-            if lib.get(c):
-                files = lib[c]
-                if a.prefer:  # e.g. --prefer cinematic,studio: those styles/packs first
-                    pref = [w.strip().lower() for w in a.prefer.split(",")]
-                    hits = [f for f in files if any(w in f.lower() for w in pref)]
-                    files = hits or files
-                i = used.get(c, 0)
-                choice, used[c] = files[i % len(files)], i + 1  # rotate so the same sound doesn't repeat
-                break
-        plan.append({"at": round(max(m["t"] - lead, 0), 3), "frame_t": round(m["t"], 3), "cue": m["cue"],
-                     "category": c if choice else cats[0], "file": choice, "gain_db": gain + a.gain_offset,
-                     "why": m["why"]})
+    meas = analyse([f for fs in lib.values() for f in fs]) if shutil.which("ffmpeg") else {}
+    used, plan = {}, []
+    for i, m in enumerate(kept):
+        cats, level = CUE[m["cue"]]
+        cat, choice = pick(lib, cats, used, a.prefer)
+        anchor = ANCHOR.get(cat, "onset")
+        level += a.gain_offset
+        speech = bool(spans) and over_speech(m["t"], spans)
+        if speech:
+            level -= a.speech_duck
+        cue = {"frame_t": round(m["t"], 3), "cue": m["cue"], "category": cat, "file": choice, "anchor": anchor,
+               "level_db": level}
+        cue.update(place(meas.get(choice), m["t"], anchor, level, a.max_tail, a.max_head)
+                   if choice else {"at": m["t"], "gain_db": level})
+        if m.get("pan"):
+            cue["pan"] = m["pan"]
+        if speech:
+            cue["over_speech"] = True
+        cue["why"] = m["why"] + (" (over speech: lowered)" if speech else "")
+        plan.append(cue)
+        # A riser builds into the big reveals when there is room before them.
+        if a.risers and m["cue"] in ("logo", "text-big"):
+            prev = kept[i - 1]["t"] + 0.3 if i else 0.0
+            last_riser = max((p["frame_t"] for p in plan if p["cue"] == "riser"), default=-99)
+            room = min(m["t"] - prev, 4.0)
+            if room >= 1.0 and m["t"] - last_riser >= 6.0:
+                rcat, rfile = pick(lib, CUE["riser"][0], used, a.prefer)
+                if rfile:
+                    rm = meas.get(rfile)
+                    ranchor = ANCHOR.get(rcat, "crest")
+                    crest = rm[ANCHOR_KEY[ranchor]] if rm else room
+                    build = min(room, crest)
+                    r = {"frame_t": round(m["t"], 3), "cue": "riser", "category": rcat, "file": rfile, "anchor": ranchor,
+                         "level_db": CUE["riser"][1] + a.gain_offset}
+                    r.update(place(rm, m["t"], ranchor, r["level_db"], 0.12, build))
+                    if rm and crest > build:  # start part-way into the build so it fits the room
+                        r["in"] = round(crest - build, 3)
+                        r["at"] = round(m["t"] - build, 3)
+                        r["dur"] = round(build + 0.12, 3)
+                        r["fade_out"] = 0.08
+                    r["fade_in"] = round(min(0.4, build / 3), 3)
+                    r["why"] = f"builds {build:.1f} s into {m['cue']} at {fmt_ts(m['t'])}"
+                    plan.append(r)
+    plan.sort(key=lambda p: p["at"])
+    # A tail gets out of the way of the next hit: it fades out as the next cue's frame arrives (risers overlap on purpose).
+    hits = [p for p in plan if p["cue"] != "riser" and p.get("file")]
+    for cur, nxt in zip(hits, hits[1:]):
+        m = meas.get(cur["file"])
+        if not m or nxt["frame_t"] <= cur["frame_t"]:
+            continue
+        rest = cur.get("dur") or m["duration"] - cur.get("in", 0)
+        room = nxt["frame_t"] + 0.05 - cur["at"]
+        if room < rest - 0.01:
+            cur["dur"] = round(max(room, 0.1), 3)
+            cur["fade_out"] = round(min(0.2, cur["dur"] / 3), 3)
     missing = sorted({p["category"] for p in plan if not p["file"]})
-    save_json(a.out, {"plan": plan, "library_dirs": sorted({str(Path(f).parent) for fs in lib.values() for f in fs}),
+    save_json(a.out, {"plan": plan, "style": a.style, "library_dirs": sorted({str(Path(f).parent) for fs in lib.values() for f in fs}),
                       "missing_categories": missing})
-    rows = ["# Sound design plan", "", "| # | at | cue | sound | gain | why |", "|---|---|---|---|---|---|"]
+    rows = ["# Sound design plan", "", f"Style: {a.style or 'default'} · min gap {a.min_gap} s · "
+            f"levels are dB under a normalised hit (0 ≈ a dialogue peak)", "",
+            "| # | frame | starts | cue | sound | anchor | level | gain | why |", "|---|---|---|---|---|---|---|---|---|"]
     for i, p in enumerate(plan, 1):
-        rows.append(f"| {i} | {fmt_ts(p['at'])} | {p['cue']} | {Path(p['file']).name if p['file'] else '— (missing ' + p['category'] + ')'} "
-                    f"| {p['gain_db']} dB | {p['why']} |")
+        snd = Path(p["file"]).name if p["file"] else "— (missing " + p["category"] + ")"
+        if p.get("in"):
+            snd += f" from {p['in']:.2f} s"
+        rows.append(f"| {i} | {fmt_ts(p['frame_t'])} | {fmt_ts(p['at'])} | {p['cue']} | {snd} | {p.get('anchor', '')} "
+                    f"| {p.get('level_db', '')} dB | {p['gain_db']} dB | {p['why']} |")
     if missing:
         rows += ["", f"Missing categories: {', '.join(missing)}. Add recordings (`vs fetch search \"<category>\" --type sfx`, "
                      "`vs add <files> --as sfx`) or render earshot's bank (`vs sfx bank --from earshot`), then re-plan."]
@@ -270,8 +476,7 @@ def build_mix(plan, total):
     inputs, filt, labs = [], [], []
     for j, p in enumerate(x for x in plan if x.get("file")):
         inputs += ["-i", p["file"]]
-        ms = int(p["at"] * 1000)
-        filt.append(f"[{j}:a]aresample=48000,aformat=channel_layouts=stereo,volume={p['gain_db']}dB,adelay={ms}:all=1[s{j}]")
+        filt.append(f"[{j}:a]{sfx_chain(p)}[s{j}]")
         labs.append(f"[s{j}]")
     if not labs:
         die("plan has no sounds to place")
@@ -306,7 +511,8 @@ def cmd_merge(a):
     edl = load_json(a.edl)
     plan = load_json(a.plan)["plan"]
     edl["sfx"] = [s for s in edl.get("sfx", []) if not s.get("auto")] + \
-        [{"file": p["file"], "at": p["at"], "gain_db": p["gain_db"], "auto": True, "cue": p["cue"]} for p in plan if p.get("file")]
+        [dict({k: p[k] for k in ("file", "at", "gain_db", "in", "dur", "fade_in", "fade_out", "pan") if p.get(k)},
+              at=p["at"], gain_db=p["gain_db"], auto=True, cue=p["cue"]) for p in plan if p.get("file")]
     save_json(a.out, edl)
     print(f"{sum(1 for s in edl['sfx'] if s.get('auto'))} sfx entries -> {a.out} (render it with vs render)")
 
@@ -318,6 +524,23 @@ def cmd_library(a):
     for cat in CATEGORIES:
         fs = lib.get(cat, [])
         print(f"{cat:8} {len(fs):3}  " + ", ".join(Path(f).name for f in fs[:4]) + (" …" if len(fs) > 4 else ""))
+
+
+def cmd_analyse(a):
+    files = []
+    for x in a.paths:
+        pth = Path(x)
+        files += sorted(str(f) for f in pth.rglob("*") if f.suffix.lower() in AUDIO_EXT) if pth.is_dir() else [str(pth)]
+    need("ffmpeg")
+    meas = analyse(files)
+    print(f"{'sound':34} {'cat':7} {'len':>6} {'onset':>6} {'hit':>6} {'crest':>6} {'hit dB':>7} {'peak dB':>8} {'norm':>6}")
+    for f in files:
+        m = meas.get(f)
+        if not m:
+            print(f"{Path(f).name[:34]:34} (silent or unreadable)")
+            continue
+        print(f"{Path(f).name[:34]:34} {categorise(Path(f).stem) or '-':7} {m['duration']:6.2f} {m['onset']:6.2f} "
+              f"{m['hit_t']:6.2f} {m['crest_t']:6.2f} {m['hit_db']:7.1f} {m['peak_db']:8.1f} {norm_gain(m):+6.1f}")
 
 
 def earshot_cmd():
@@ -378,9 +601,18 @@ def main():
     p.add_argument("--threshold", type=float, default=0.3)
     p.add_argument("--beats")
     p.add_argument("--on-beats", type=int, default=0, help="add an impact every Nth downbeat")
-    p.add_argument("--every-cut", action="store_true", help="soft tick on every hard cut (montages); off for talking heads")
-    p.add_argument("--min-gap", type=float, default=0.35, help="minimum seconds between sounds")
-    p.add_argument("--gain-offset", type=float, default=0.0, help="raise/lower every cue (dB)")
+    p.add_argument("--style", choices=sorted(STYLES), help="density/level preset; explicit flags override it")
+    p.add_argument("--every-cut", action="store_true", default=None,
+                   help="soft tick on every hard cut (montages); off for talking heads")
+    p.add_argument("--min-gap", type=float, help="minimum seconds between sounds (default 0.35, or the style's)")
+    p.add_argument("--gain-offset", type=float, help="raise/lower every cue (dB)")
+    p.add_argument("--risers", action="store_true", default=None, help="build a riser into logo / big-title reveals")
+    p.add_argument("--words", help="vs transcribe JSON of the edit itself (output time): cues over speech are "
+                                   "lowered, and the style's minor cues are dropped there")
+    p.add_argument("--speech-duck", type=float, help="dB lower for a cue that lands on a word (default 6)")
+    p.add_argument("--max-tail", type=float, default=2.0, help="seconds a sound may ring after its anchor (faded)")
+    p.add_argument("--max-head", type=float, default=0.8,
+                   help="seconds of build-up a sound may play before its anchor; a longer one starts part-way in")
     p.add_argument("--library", action="append", help="extra folder of SFX (repeatable)")
     p.add_argument("--prefer", help="prefer sounds whose path contains these words, e.g. cinematic,studio or kenney")
     p.add_argument("--project-dir", help="project folder (uses its assets/sfx)")
@@ -398,6 +630,8 @@ def main():
     lb = sub.add_parser("library")
     lb.add_argument("--library", action="append")
     lb.add_argument("--project-dir")
+    an = sub.add_parser("analyse", aliases=["analyze"])
+    an.add_argument("paths", nargs="+")
     b = sub.add_parser("bank")
     b.add_argument("--from", dest="source", default="earshot")
     b.add_argument("--limit", type=int)
@@ -406,7 +640,8 @@ def main():
         parts = Path(a.edl).resolve().parts
         if "projects" in parts and len(parts) > parts.index("projects") + 1:
             a.project_dir = str(Path(*parts[: parts.index("projects") + 2]))
-    {"plan": cmd_plan, "apply": cmd_apply, "merge": cmd_merge, "library": cmd_library, "bank": cmd_bank}[a.cmd](a)
+    {"plan": cmd_plan, "apply": cmd_apply, "merge": cmd_merge, "library": cmd_library, "bank": cmd_bank,
+     "analyse": cmd_analyse, "analyze": cmd_analyse}[a.cmd](a)
 
 
 if __name__ == "__main__":

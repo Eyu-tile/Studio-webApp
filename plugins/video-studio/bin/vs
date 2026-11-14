@@ -105,9 +105,10 @@ vs <command>                                         video-studio plugin
  music & sound design
   music analyze <track> | music fit <track> --edl e.json -o work/music_fit.wav   BPM/sections; fit to edit length on downbeats
   packs list | packs install --defaults | packs add <git-url> --name n --path p --license L   free GitHub sound libraries
-  sfx plan --edl e.json | --hyperframes dir | --video v.mp4 -o work/sfx_plan.json   find every moment, pick real recordings
+  sfx plan --edl e.json | --hyperframes dir | --video v.mp4 [--style talking-head|tutorial|ugc-ad|montage|launch]
+           [--words draft_words.json] [--risers] -o work/sfx_plan.json   find every moment, place measured recordings
   sfx apply <video> --plan p.json -o out.mp4 [--stem sfx.wav]  |  sfx merge <edl> --plan p.json -o edl.sfx.json
-  sfx library | sfx bank --from earshot                              what's available / render earshot's code-made bank
+  sfx library | sfx analyse <files|dirs> | sfx bank --from earshot   what's available / onset-hit-crest-level / earshot bank
   earshot critique <video> | timeline <video> | describe <wav> | ...  (optional; vs setup --earshot)
  check & deliver
   qa <video> --edl e.json --transcript t.json [--preset reels --max-length 60]

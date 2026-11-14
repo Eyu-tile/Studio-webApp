@@ -56,7 +56,7 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from vs_common import (ASPECTS, GRADES, PRESETS, VOICE_ENHANCE, die, fmt_ts, has_filter,  # noqa: E402
+from vs_common import (ASPECTS, GRADES, PRESETS, VOICE_ENHANCE, die, sfx_chain, fmt_ts, has_filter,  # noqa: E402
                        is_image, kf_expr, load_json, need, probe, ramp_points, ramp_setpts, run, safe_zone,
                        timeline)
 
@@ -577,9 +577,7 @@ def finish(ctx, gr, vlab, alab, total, out):
             if not Path(fx["file"]).exists():
                 die(f"sfx not found: {fx['file']}")
             si = gr.add_input("-i", fx["file"])
-            ms = int(float(fx["at"]) * 1000)
-            gr.f(f"[{si}:a]aresample=48000,aformat=channel_layouts=stereo,"
-                 f"volume={float(fx.get('gain_db', -6))}dB,adelay={ms}:all=1[fx{j}]")
+            gr.f(f"[{si}:a]{sfx_chain(fx)}[fx{j}]")
             labs.append(f"[fx{j}]")
         gr.f(f"[{alab}]{''.join(labs)}amix=inputs={1 + len(labs)}:duration=first:normalize=0[asx]")
         alab = "asx"
