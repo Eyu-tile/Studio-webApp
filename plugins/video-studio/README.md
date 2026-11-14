@@ -71,6 +71,8 @@ silences filmstrip beats sync cuts multicam captions music packs sfx earshot ren
 **Higgsfield accounts**: the plugin adds a `higgsfield` MCP connection (sign in once with /mcp; Higgsfield uses a
 browser sign-in, there is no key to paste). `/connect-higgsfield` connects more accounts, one named connection
 each (`higgsfield-<client>`), and picks the one a project generates with; `vs higgsfield list | use | remove`.
+A client's team workspace that your login was invited to works too: `vs higgsfield use <account> --workspace <id>`;
+before billing, Claude selects that workspace and states the account and credits.
 
 **Watch any link**: `vs watch <link>` downloads a video from YouTube, Instagram (public embed fallback when
 Instagram rate-limits), TikTok, X, Vimeo, ~1,800 yt-dlp sites, Google Drive, Dropbox or a direct file, then
@@ -107,8 +109,24 @@ EBU R128 loudness, h264/h265/ProRes and 10-bit, proxies, chunked parallel render
 - **rea-video** (`vs setup --rea`, Apache-2.0, ~1 GB): deep shot forensics for `/video-breakdown`: live action vs AI
   video vs 3D vs screen recording per shot, on-screen text timeline by OCR, stickers, vocal/music separation.
 
+## API keys: per project, entered in a pop-up
+Paid voice and audio services (ElevenLabs, HeyGen API, OpenAI, Gemini) often bill a different account for each
+project, so keys can be saved per project. When a project needs one, Claude runs `vs keys ask elevenlabs --project
+<name>`, which opens a native pop-up with a hidden field (macOS dialog, Windows credential prompt, zenity/kdialog on
+Linux). The key never passes through the chat. Calls then run with `vs keys exec --project <name> -- <command>`.
+
+    vs keys ask elevenlabs --project acme      # pop-up; saved for project "acme" only
+    vs keys ask elevenlabs                     # machine-wide (all projects without their own key)
+    vs keys check elevenlabs --project acme    # where the key comes from (never prints it)
+    vs keys list --project acme                # all providers, last 4 characters only
+    vs keys set elevenlabs --project acme      # terminal alternative (hidden prompt), e.g. over SSH
+
+Lookup order: the project's key, then the environment variable (`ELEVENLABS_API_KEY`, ...), then the machine-wide
+key. Keys live in `~/.config/video-studio/` (`keys.env` and `projects/<name>.env`, mode 600), outside the
+workspace, so they are never committed. Inside `<workspace>/projects/<name>/` the project is detected automatically.
+
 ## Stock media keys (optional, free)
-Pexels, Pixabay, Unsplash and Freesound need a free API key each: `vs keys set pexels` (stored in
+Pexels, Pixabay, Unsplash and Freesound need a free API key each: `vs keys ask pexels` (stored in
 `~/.config/video-studio/keys.env`, mode 600; environment variables `PEXELS_API_KEY` etc. also work). Internet
 Archive, Wikipedia, Wikimedia Commons, Creative Commons YouTube, Openverse and NASA work without keys. NonCommercial/NoDerivs licences are excluded by default.
 

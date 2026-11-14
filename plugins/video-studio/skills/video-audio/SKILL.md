@@ -46,3 +46,16 @@ sparse (one per 5–10 s in talking content). Free SFX ship with the `media-use`
 - Targets (integrated / true peak): social & YouTube −14 LUFS / −1 dBTP, podcasts −16, broadcast −23.
   Presets set it; `--loudnorm <LUFS>` overrides. `vs qa` measures it.
 - Audio-only: `vs convert out/final.mp4 -o out/final.mp3` (or `.wav` for masters).
+
+## Paid voice and audio API keys (per project)
+ElevenLabs, HeyGen API, OpenAI and Gemini keys can belong to a different account for each project.
+Before the first paid call in a project, run `vs keys check <provider> --project <P>`:
+- **available**: run the call through `vs keys exec --project <P> -- <command>` so that project's key is
+  in the environment (`$ELEVENLABS_API_KEY`, `$HEYGEN_API_KEY`, `$OPENAI_API_KEY`, `$GEMINI_API_KEY`).
+  Never `echo` or print a key.
+- **missing**: run `vs keys ask <provider> --project <P>`. It opens a pop-up with a hidden field; tell the person
+  one line first ("a window is asking for the ElevenLabs key for this project") and wait for it to finish.
+  If it exits 3 (no desktop, e.g. SSH), ask them to type `! vs keys set <provider> --project <P>` in the prompt,
+  which asks for the key hidden in their terminal. In a Claude Code cloud session, use the secure credential
+  form for the API host instead.
+- Never ask for a key in chat, and never put one in a file inside the workspace.
