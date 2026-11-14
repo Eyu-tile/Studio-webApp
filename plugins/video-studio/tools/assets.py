@@ -939,6 +939,11 @@ def fetch_url(url, a, added):
             if a.cookies_from_browser:
                 cmd += ["--cookies-from-browser", a.cookies_from_browser]
             p = subprocess.run(cmd + [url], text=True)
+            if p.returncode != 0 and "instagram.com" in host:
+                from watch import instagram_embed  # public embed page: caption + video, no login
+                f, _ = instagram_embed(url, td)
+                if f:
+                    p = subprocess.CompletedProcess(cmd, 0)
             if p.returncode != 0:
                 die("yt-dlp could not fetch that page. Logged-in content (Instagram, TikTok, private videos) needs "
                     "--cookies-from-browser chrome|safari|firefox, or save the file and `vs add` it.")

@@ -39,9 +39,14 @@ def extract_audio(src, dst):
 
 def via_faster_whisper(wav, model, lang, prompt):
     from faster_whisper import WhisperModel
+    import wave
+    import numpy as np
     m = WhisperModel(model, device="auto", compute_type="auto")
+    # Pass samples, not a path: faster-whisper's own decoder (PyAV) breaks on some PyAV releases.
+    with wave.open(str(wav), "rb") as wf:
+        audio = np.frombuffer(wf.readframes(wf.getnframes()), np.int16).astype(np.float32) / 32768.0
     segs, info = m.transcribe(
-        str(wav), language=lang, word_timestamps=True, vad_filter=False,
+        audio, language=lang, word_timestamps=True, vad_filter=False,
         initial_prompt=prompt, condition_on_previous_text=False,
     )
     words, segments = [], []
@@ -102,10 +107,13 @@ def main():
             else:
                 mod = __import__(MODULES[backend])
                 words, segments, lang = via_openai_style(mod, wav, args.model, args.lang, args.prompt)
-        except Exception as e:  # model download / load errors are the common case
-            die(f"{backend} failed: {type(e).__name__}: {e}\n"
-                "The first run downloads the model from Hugging Face: huggingface.co and *.hf.co "
-                "must be reachable (cloud sessions: allow them in the environment's network settings).")
+        except Exception as e:
+            hint = ""
+            if any(k in f"{type(e).__name__} {e}".lower() for k in ("connect", "http", "hub", "resolve", "ssl",
+                                                                    "timeout", "localentrynotfound", "proxy")):
+                hint = ("\nThe first run downloads the model from Hugging Face: huggingface.co and *.hf.co must be "
+                        "reachable (cloud sessions: allow them in the environment's network settings).")
+            die(f"{backend} failed: {type(e).__name__}: {e}{hint}")
 
     out = Path(args.out)
     data = {

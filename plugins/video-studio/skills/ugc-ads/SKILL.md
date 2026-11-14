@@ -38,7 +38,10 @@ For each variant, write the script into its beats: one idea per line, the benefi
 specifics (numbers, timeframes, named problems), no adjectives without a visual claim, ≤ `max_words`. Then a
 pull list: for every line, the shot that proves it (product in use, real hands, real environment, the
 mechanism up close, the result). Find them in the client's footage (`vs ingest`, `vs breakdown`, the library),
-mark gaps to shoot or source (`/video-assets`, never generic stock that could sell anything). Winning
+mark gaps to shoot or source (`/video-assets`, never generic stock that could sell anything).
+**No creator footage, or missing shots?** Generate them with `/ai-presenter`: an AI talking-head presenter
+(Higgsfield MCP: Soul ID, Seed Audio, Seedance lip-sync) and b-roll as tracked jobs; `vs gen edl` hands back a
+ready EDL for step 4. Winning
 reference ads: `/video-breakdown` them first and follow their pacing.
 
 ## 4. Edit each variant
