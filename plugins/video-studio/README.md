@@ -53,6 +53,7 @@ Drop footage into `raw/` and talk to Claude:
 | `video-export` | platform presets, multi-aspect, GIF/WebM/ProRes/MP3, size limits, thumbnails, chapters |
 | `video-style-guide` | learn a style from reference videos |
 | `ugc-ads` | UGC and VSL ads from a brief: audience/emotion/awareness → hooks, beats, captions, music; variants; ad QA (hook, words on screen, stimulus, safe zones, CTA, loudness, compliance); client review page |
+| `higgsfield-accounts` | One Higgsfield account per client: add connections (team workspaces or separate logins), list them, switch per project, and check the right account and credits before every billable generation (`vs hf`) |
 | `video-translate` | translated subtitles (SRT/ASS) and dubbed tracks timed to the edit, music kept under |
 | `video-breakdown` | how a reference was made, shot by shot (camera, look, pacing, beat sync; optional rea-video forensics: live/AI/3D/screen, OCR text), remake plan + template EDL |
 | `motion-graphics` | titles, lower thirds, charts, end cards with HyperFrames |
@@ -96,6 +97,20 @@ EBU R128 loudness, h264/h265/ProRes and 10-bit, proxies, chunked parallel render
   (reference frame → `.cube` LUT) is native.
 - **rea-video** (`vs setup --rea`, Apache-2.0, ~1 GB): deep shot forensics for `/video-breakdown`: live action vs AI
   video vs 3D vs screen recording per shot, on-screen text timeline by OCR, stickers, vocal/music separation.
+
+## Higgsfield accounts per client
+Each client can pay for their own Higgsfield generations. `vs hf` saves the accounts and which project bills which:
+
+    vs hf add acme --workspace <id> --label "Acme"   # client's team workspace you were invited to (list_workspaces)
+    vs hf add zeta --login --label "Zeta"            # client's separate login: adds MCP server higgsfield-zeta
+    vs hf list                                       # saved accounts and the projects using them
+    vs hf use acme --project acme-spring-ads         # switch a project
+    vs hf current --project acme-spring-ads          # what this project bills, and how to select it
+
+Before every billable call the `higgsfield-accounts` skill checks the project's account, selects it (for a team
+workspace via `select_workspace`, for a separate login by using only the `higgsfield-<name>` server) and states the
+account and credits. A separate login is signed in once with `/mcp`. Only names and ids are stored
+(`~/.config/video-studio/higgsfield.json`), never tokens.
 
 ## API keys: per project, entered in a pop-up
 Paid voice and audio services (ElevenLabs, HeyGen API, OpenAI, Gemini) often bill a different account for each

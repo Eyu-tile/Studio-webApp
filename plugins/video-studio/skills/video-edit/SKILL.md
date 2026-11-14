@@ -40,6 +40,7 @@ Tools: `vs <cmd>` (on PATH via this plugin's SessionStart hook; if missing, run
 |---|---|
 | talking head, short-form, YouTube A-roll | transcript cut below + `/video-captions` |
 | UGC or VSL ads, performance creative, ad variants from a brief | `/ugc-ads` (uses this loop) |
+| Higgsfield generations billed to a client's own account; switch or add accounts | `/higgsfield-accounts` |
 | how a reference was made / remake a winning ad | `/video-breakdown` |
 | subtitles in other languages, dubbing | `/video-translate` |
 | long recording → several shorts/clips | `/video-repurpose` |
