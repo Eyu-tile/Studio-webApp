@@ -1,0 +1,416 @@
+{
+ "H": [
+  [
+   "One of the",
+   "Woman_sneezing_hard_realistic_202608042306",
+   0.0
+  ],
+  [
+   "has nothing to",
+   "Q1",
+   0.3
+  ],
+  [
+   "And most people",
+   "Woman_wiping_nose_and_rolling_202608120623",
+   0.0
+  ],
+  [
+   "have no idea",
+   "hf_20260820_075318_e5f3af3a-054c-43d4-bb09-c057354303cc",
+   2.0
+  ]
+ ],
+ "L01": [
+  [
+   "It's not seasonal",
+   "Q2",
+   0.0
+  ]
+ ],
+ "L02": [
+  [
+   "It doesn't come",
+   "Q3",
+   0.0
+  ]
+ ],
+ "L03": [
+  [
+   "It's all year",
+   "Woman_sneezing_on_couch_202608040611",
+   0.5
+  ],
+  [
+   "It's indoors",
+   "hf_20260807_104641_2ff7cbef-3b76-4f65-a1c2-a899b79a229a",
+   0.5
+  ],
+  [
+   "And it's worst",
+   "Woman_struggling_to_sleep_breathing_202608070457",
+   2.0
+  ]
+ ],
+ "L04": [
+  [
+   "Dust mite allergy",
+   "hf_20260820_090306_1413f3da-c2fd-4737-a391-090661464cfd",
+   0.0
+  ],
+  [
+   "is one of",
+   "hf_20260820_090559_a83c6287-39a2-4e8c-b042-a97bd8b55c02",
+   0.3
+  ]
+ ],
+ "L05": [
+  [
+   "So why do",
+   "hf_20260821_054813_38409857-0c03-4472-bb4c-ab11afa8049c",
+   2.0
+  ],
+  [
+   "never find out",
+   "hf_20260821_054604_abc8c70d-e01c-41df-a1fe-15d63ac899b8",
+   3.5
+  ]
+ ],
+ "L06": [
+  [
+   "Because the symptoms",
+   "Woman_sneezing_and_wiping_nose_202608190710",
+   2.0
+  ]
+ ],
+ "L07": [
+  [
+   "A blocked nose",
+   "Woman_wakes_with_blocked_nostril_202608060742",
+   2.0
+  ],
+  [
+   "that's gone by",
+   "Q4",
+   0.3
+  ],
+  [
+   "Looks like a cold",
+   "Woman_sneezing_on_bed_202608020613",
+   1.0
+  ],
+  [
+   "or your sinuses",
+   "hf_20260902_214429_d712d36c-4c3d-47a5-b577-f1fdc3b5ff94",
+   1.0
+  ]
+ ],
+ "L08": [
+  [
+   "Waking up tired",
+   "Q5",
+   0.3
+  ],
+  [
+   "Looks like stress",
+   "Q6",
+   0.3
+  ],
+  [
+   "or getting older",
+   "hf_20260823_004413_518b7518-cfa4-4316-a129-067234f5640a",
+   1.0
+  ]
+ ],
+ "L09": [
+  [
+   "Itchy skin at",
+   "Q7",
+   0.3
+  ],
+  [
+   "Looks like dry",
+   "Q8",
+   0.3
+  ],
+  [
+   "or the detergent",
+   "Q20",
+   0.3
+  ],
+  [
+   "or hormones",
+   "Q9",
+   0.5
+  ]
+ ],
+ "L10": [
+  [
+   "Puffy eyes in",
+   "Q10",
+   0.3
+  ],
+  [
+   "Looks like a bad",
+   "Woman_sneezing_in_bedroom_202608071744",
+   0.0
+  ],
+  [
+   "or just how",
+   "hf_20260803_175442_03a9d954-1b9d-48e1-8ad6-412f234f9849",
+   0.0
+  ]
+ ],
+ "L11": [
+  [
+   "None of these",
+   "hf_20260824_052232_b62a6913-e8d3-4f6b-8c67-4cc0a22709d5",
+   1.0
+  ],
+  [
+   "So most people",
+   "Dust_mites_crawling_inside_pillow_202607301942",
+   0.3
+  ]
+ ],
+ "L12": [
+  [
+   "Here's what's really",
+   "hf_20260807_103103_0aac4395-8c52-4653-a200-97f38dd16fb4",
+   2.0
+  ]
+ ],
+ "L13": [
+  [
+   "A national U.S.",
+   "hf_20260820_175630_cf612c00-b412-4bdf-b010-69013d8a2125",
+   0.0
+  ],
+  [
+   "published in the",
+   "Q11",
+   0.3
+  ],
+  [
+   "found dust mite",
+   "hf_20260820_145132_059ffddf-0b60-4fa2-9e4a-a5068cd52469",
+   0.6
+  ],
+  [
+   "of an estimated",
+   "Q12",
+   0.0
+  ]
+ ],
+ "L14": [
+  [
+   "And the mattress",
+   "Dust_mites_moving_inside_mattress_202608020741",
+   0.0
+  ],
+  [
+   "It's warm",
+   "Q13",
+   0.3
+  ],
+  [
+   "And it gets fed",
+   "Q14",
+   0.3
+  ]
+ ],
+ "L15": [
+  [
+   "A single mattress",
+   "hf_20260807_103127_724cc3b6-ab55-4556-ad0b-e5b3329056bc",
+   2.0
+  ],
+  [
+   "of dust mites",
+   "Generate_video_dust_mites_moving_202608010256",
+   0.0
+  ],
+  [
+   "all too small",
+   "Woman_washing_and_making_bed_202608020713",
+   3.0
+  ],
+  [
+   "living deep in",
+   "hf_20260820_080738_52a1f2a1-4711-46b4-a09b-b871f14be259",
+   0.0
+  ],
+  [
+   "where washing and",
+   "b4",
+   2.6
+  ]
+ ],
+ "L16": [
+  [
+   "If you're sensitive",
+   "hf_20260810_073507_f93700fb-3c71-4292-be2e-a246c8ae59a6",
+   0.0
+  ],
+  [
+   "your body reacts",
+   "Woman_sleeping_nasal_cavity_cutaway_202608060738",
+   2.2
+  ],
+  [
+   "All night",
+   "bait doesn't work 04",
+   0.0
+  ],
+  [
+   "Every night",
+   "Woman_sleeping_with_nasal_obstru\u2026_202608071725",
+   1.0
+  ]
+ ],
+ "L17": [
+  [
+   "That's why it's always",
+   "Woman_sneezes_from_pillow_202607310336 (1)",
+   2.5
+  ],
+  [
+   "And that's why it eases",
+   "Q15",
+   0.3
+  ]
+ ],
+ "L18": [
+  [
+   "So think about",
+   "Cleaning_and_maintaining_mattres\u2026_202608221746",
+   0.0
+  ]
+ ],
+ "L19": [
+  [
+   "Allergy pills",
+   "Q16",
+   0.3
+  ],
+  [
+   "Washing cleans",
+   "Woman_loading_laundry_into_washer_202608191531",
+   1.0
+  ],
+  [
+   "Air purifiers clean",
+   "Bedroom_air_purifier_cleans_room_202607310053",
+   0.0
+  ]
+ ],
+ "L20": [
+  [
+   "But none of",
+   "b3 (1)",
+   2.0
+  ],
+  [
+   "So every night",
+   "Q17",
+   0.3
+  ],
+  [
+   "on the same source",
+   "Dust_mites_in_mattress_fibers_202608020621",
+   2.0
+  ]
+ ],
+ "L21": [
+  [
+   "The only way",
+   "Woman_realizing_solution_in_bedroom_202608121559",
+   1.5
+  ],
+  [
+   "is if something",
+   "hf_20260820_184313_d8fa9113-5068-413c-9982-5e98c29e64ed",
+   2.5
+  ]
+ ],
+ "L22": [
+  [
+   "That's exactly",
+   "Ailani Paneth B-Roll_9",
+   1.5
+  ]
+ ],
+ "L23": [
+  [
+   "A plant-derived",
+   "Dustmites",
+   0.0
+  ],
+  [
+   "draws the mites",
+   "hf_20260820_180513_f8abd308-f198-4e98-913a-31ec49c319cd",
+   1.0
+  ],
+  [
+   "and the sticky",
+   "hf_20260820_183945_6f07289b-66be-422b-b108-074d0b6957bb",
+   2.5
+  ],
+  [
+   "When you swap",
+   "Mason Stevens B-Roll_7",
+   2.0
+  ]
+ ],
+ "L24": [
+  [
+   "One under the",
+   "Ryan Suzuki B-Roll_9",
+   4.0
+  ],
+  [
+   "one by the pillow",
+   "Ailani Paneth B-Roll_28",
+   1.0
+  ],
+  [
+   "No sprays",
+   "97b947edca4591e5a59f908422b6de58",
+   0.0
+  ],
+  [
+   "Nothing to plug in",
+   "Q18",
+   0.3
+  ],
+  [
+   "Ninety-day",
+   "Lynch B-Roll_11",
+   0.0
+  ]
+ ],
+ "L25": [
+  [
+   "If you've been",
+   "Camera_zooms_into_sleeping_woman_202608100619",
+   1.0
+  ],
+  [
+   "and never found",
+   "Q19",
+   0.3
+  ],
+  [
+   "this might be",
+   "Woman_waking_up_well_rested_202608070448",
+   0.0
+  ]
+ ],
+ "L26": [
+  [
+   "Tap the link",
+   "Mason Stevens B-Roll_4",
+   2.0
+  ]
+ ]
+}

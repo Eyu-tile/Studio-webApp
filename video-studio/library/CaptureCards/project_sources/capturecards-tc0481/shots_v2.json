@@ -1,0 +1,324 @@
+{
+ "H1": [
+  [
+   "You checked",
+   "G2",
+   0.3
+  ],
+  [
+   "No blood spots",
+   "G3",
+   0.3
+  ],
+  [
+   "But you're still",
+   "G4",
+   0.5
+  ]
+ ],
+ "H2": [
+  [
+   "Dust mites don't bite",
+   "Dust_mite_absorbing_moisture_202608131638",
+   0.5
+  ],
+  [
+   "But they can absolutely",
+   "G1",
+   0.4
+  ],
+  [
+   "Here's the difference",
+   "G8",
+   1.2
+  ]
+ ],
+ "H3": [
+  [
+   "The itch that starts",
+   "G5",
+   0.3
+  ],
+  [
+   "and stops when",
+   "G6",
+   0.5
+  ],
+  [
+   "isn't bed bugs",
+   "G2",
+   1.5
+  ],
+  [
+   "It's something",
+   "dust mite animation 04",
+   2.0
+  ]
+ ],
+ "B01": [
+  [
+   "Here's what's",
+   "a dust mite in the mattress",
+   1.5
+  ]
+ ],
+ "B02": [
+  [
+   "Dust mites don't bite",
+   "Dust_mite_absorbing_moisture_202608131638",
+   2.0
+  ],
+  [
+   "But their droppings",
+   "hf_20260820_180239_54848a26-e1e5-48b5-bf53-8a3857ce6b56",
+   0.5
+  ],
+  [
+   "and if you're sensitive",
+   "G8",
+   0.3
+  ],
+  [
+   "your body reacts",
+   "G4",
+   2.6
+  ]
+ ],
+ "B02h2": [
+  [
+   "Their droppings",
+   "hf_20260820_180239_54848a26-e1e5-48b5-bf53-8a3857ce6b56",
+   0.5
+  ],
+  [
+   "and if you're sensitive",
+   "G8",
+   0.3
+  ],
+  [
+   "your body reacts",
+   "G4",
+   2.6
+  ]
+ ],
+ "B03": [
+  [
+   "For some people",
+   "G1",
+   0.2
+  ],
+  [
+   "Especially at night",
+   "G5",
+   0.3
+  ]
+ ],
+ "B04": [
+  [
+   "Because that's where",
+   "hf_20260820_081347_5e3621a7-1e06-4b69-ac98-fe1d87d622cc",
+   0.3
+  ],
+  [
+   "Deep in the mattress",
+   "Dust_mites_in_mattress_fibers_202608020621",
+   0.0
+  ],
+  [
+   "millions of dust mites",
+   "hf_20260820_091930_2faee368-c9a7-462d-b205-cfe3626d8517",
+   0.3
+  ],
+  [
+   "feeding on the skin",
+   "a dust mite in the mattress",
+   6.0
+  ]
+ ],
+ "B05": [
+  [
+   "And unlike bed bugs",
+   "G2",
+   1.5
+  ],
+  [
+   "They're microscopic",
+   "dust mite animation 04",
+   2.5
+  ],
+  [
+   "You can't see them",
+   "Woman_discovers_dust_mites_in_202608020605",
+   2.0
+  ],
+  [
+   "That's why you find",
+   "G3",
+   1.5
+  ],
+  [
+   "But they're there",
+   "hf_20260820_180239_54848a26-e1e5-48b5-bf53-8a3857ce6b56",
+   2.5
+  ],
+  [
+   "Deep inside your mattress",
+   "WMZVhc8baHbm7dqmA7Aca_minimax-h3",
+   0.5
+  ],
+  [
+   "Every single night",
+   "G4",
+   0.2
+  ],
+  [
+   "No matter how clean",
+   "G9",
+   1.0
+  ]
+ ],
+ "B06": [
+  [
+   "So the itch",
+   "G8",
+   1.0
+  ],
+  [
+   "It's a reaction",
+   "bait doesn't work 03",
+   0.5
+  ]
+ ],
+ "B07": [
+  [
+   "That's why nothing",
+   "G4",
+   1.5
+  ],
+  [
+   "Hot washes",
+   "G10",
+   0.3
+  ],
+  [
+   "Covers",
+   "a dust mite in the mattress",
+   0.0
+  ],
+  [
+   "Anti-itch cream",
+   "G7",
+   0.5
+  ],
+  [
+   "but the mites",
+   "Dust_mites_in_mattress_fibers_202608020621",
+   4.0
+  ]
+ ],
+ "B08": [
+  [
+   "You don't need",
+   "hf_20260823_155438_8f2c85de-4fe2-4a5e-aedf-b5353f0ee125",
+   0.3
+  ],
+  [
+   "You need to pull",
+   "hf_20260820_092514_558773e5-0676-4bc0-8651-e8463825db24",
+   1.5
+  ]
+ ],
+ "B09": [
+  [
+   "That's exactly",
+   "Charlotte Fischer B-Roll_9",
+   1.5
+  ],
+  [
+   "A plant-derived",
+   "hf_20260820_093105_9ee46b3a-f19d-4983-89ce-5a95e1804a17",
+   0.0
+  ],
+  [
+   "pulls the mites",
+   "hf_20260820_173348_18cc64a5-2c41-40db-a71a-69e5ce5100a3",
+   1.5
+  ],
+  [
+   "and the sticky card",
+   "G11",
+   0.0
+  ]
+ ],
+ "B10": [
+  [
+   "So instead of",
+   "WMZVhc8baHbm7dqmA7Aca_minimax-h3",
+   1.5
+  ],
+  [
+   "they end up",
+   "G11",
+   2.8
+  ],
+  [
+   "And when you throw",
+   "G12",
+   0.3
+  ],
+  [
+   "Out of your bed",
+   "G6",
+   1.5
+  ]
+ ],
+ "B11": [
+  [
+   "Just slide one",
+   "Alan Choi B-Roll_25",
+   5.0
+  ],
+  [
+   "and one by your pillow",
+   "Ryan Suzuki B-Roll_12",
+   2.0
+  ],
+  [
+   "No spray",
+   "hf_20260820_203252",
+   2.6
+  ],
+  [
+   "nothing to plug in",
+   "G13",
+   0.5
+  ],
+  [
+   "One card keeps",
+   "Mason Stevens B-Roll_17",
+   2.0
+  ]
+ ],
+ "B12": [
+  [
+   "Over thirty thousand",
+   "Acacia Ellison B-Roll_12",
+   1.5
+  ],
+  [
+   "instead of washing",
+   "G10",
+   2.5
+  ],
+  [
+   "Try it with",
+   "Charlotte Fischer B-Roll_9",
+   3.0
+  ],
+  [
+   "Tap the link",
+   "Mason Stevens B-Roll_10",
+   4.0
+  ]
+ ]
+}

@@ -1,0 +1,398 @@
+{
+ "source": "raw/real/Ailani_Paneth_B_Roll_1.mov",
+ "segments": [
+  {
+   "src": "raw/real/Ailani_Paneth_B_Roll_1.mov",
+   "start": 0.5,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 2.051
+  },
+  {
+   "src": "raw/real/Wren_Presley_B_Roll_10.mov",
+   "start": 1.5,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 3.623
+  },
+  {
+   "src": "raw/real/Fionnuala_Kennedy_B_Roll_2.mov",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 1.93,
+   "transition_in": {
+    "type": "slideleft",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "raw/real/0710_1_1.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.297
+  },
+  {
+   "src": "raw/real/Claire_Fisher_B_Roll_18.mov",
+   "start": 3.6,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 5.04
+  },
+  {
+   "src": "raw/b3_1_.mp4",
+   "start": 2.4,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 4.778,
+   "transition_in": {
+    "type": "zoomin",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "raw/hf_20260820_075111_ed567c0e_3306_4b56_b0.mp4",
+   "start": 0.3,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 2.05
+  },
+  {
+   "src": "raw/real/woman_sits_on_bed_with_head_in_hands_202.mp4",
+   "start": 4.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "focus": [
+    0.42,
+    0.5
+   ],
+   "end": 6.36,
+   "transition_in": {
+    "type": "slideleft",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "raw/real/Charlotte_Fischer_B_Roll_15.mov",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 1.46
+  },
+  {
+   "src": "raw/real/9a8bb1beecf9d6c7050cde458ae75b0c.mp4",
+   "start": 0.2,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.071
+  },
+  {
+   "src": "raw/real/Fionnuala_Kennedy_B_Roll_3.mov",
+   "start": 0.5,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 1.162
+  },
+  {
+   "src": "raw/real/0723.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 0.673
+  },
+  {
+   "src": "raw/b4.mp4",
+   "start": 2.6,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 3.761
+  },
+  {
+   "src": "raw/Woman_washing_and_making_bed_20260802071.mp4",
+   "start": 2.4,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 3.639
+  },
+  {
+   "src": "raw/real/Lynch_B_Roll_24.mov",
+   "start": 3.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 5.004,
+   "transition_in": {
+    "type": "fadewhite",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "raw/real/hf_20260820_180513_f8abd308_f198_4e98_91.mp4",
+   "start": 0.5,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.835
+  },
+  {
+   "src": "raw/hf_20260820_184313_d8fa9113_5068_413c_99.mp4",
+   "start": 0.4,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 1.701
+  },
+  {
+   "src": "raw/real/Claire_Fisher_B_Roll_1.mov",
+   "start": 2.5,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 3.983
+  },
+  {
+   "src": "raw/Dustmites.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 1.345,
+   "transition_in": {
+    "type": "zoomin",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "raw/real/Dust_mites_attracted_to_odor_20260801003.mp4",
+   "start": 1.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 2.343
+  },
+  {
+   "src": "raw/hf_20260820_183945_6f07289b_66be_422b_b1.mp4",
+   "start": 2.4,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 3.976
+  },
+  {
+   "src": "raw/real/Ailani_Paneth_B_Roll_22.mov",
+   "start": 1.0,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 2.623
+  },
+  {
+   "src": "raw/real/woman_blowing_nose_while_lying_on_couch_.mov",
+   "start": 4.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "end": 5.954,
+   "transition_in": {
+    "type": "fadeblack",
+    "dur": 0.4
+   }
+  },
+  {
+   "src": "raw/real/Ailani_Paneth_B_Roll_4.mov",
+   "start": 2.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 3.297
+  },
+  {
+   "src": "raw/real/woman_blowing_her_nose_while_lying_in_be.mp4",
+   "start": 3.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "end": 4.184
+  },
+  {
+   "src": "raw/hf_20260902_214429_d712d36c_4c3d_47a5_b5.mp4",
+   "start": 0.5,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 1.696
+  },
+  {
+   "src": "raw/real/woman_sleeping_soundly_in_her_bed_at_nig.mov",
+   "start": 3.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "end": 4.695
+  },
+  {
+   "src": "raw/Camera_zooms_into_sleeping_woman_2026081.mp4",
+   "start": 2.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 3.08
+  },
+  {
+   "src": "raw/Microscopic_dust_mites_in_mattress_20260.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 1.193
+  },
+  {
+   "src": "raw/real/Ryan_Suzuki_B_Roll_9.mov",
+   "start": 7.0,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 8.844
+  },
+  {
+   "src": "raw/real/Ailani_Paneth_B_Roll_31.mov",
+   "start": 4.6,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 5.828
+  },
+  {
+   "src": "raw/real/LillianRey_ZURA_B_Roll_1_.mov",
+   "start": 6.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 8.366,
+   "transition_in": {
+    "type": "fade",
+    "dur": 0.5
+   }
+  },
+  {
+   "src": "raw/real/Ailani_Paneth_B_Roll_12.mov",
+   "start": 2.3,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 3.623
+  },
+  {
+   "src": "raw/real/Ailani_Paneth_B_Roll_9.mov",
+   "start": 1.5,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 2.58
+  },
+  {
+   "src": "raw/real/Lynch_B_Roll_33.mov",
+   "start": 8.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "fit": "cover",
+   "end": 9.437
+  },
+  {
+   "src": "raw/real/e2ad462207e6dc4d44283eec54537262.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 2.178,
+   "transition_in": {
+    "type": "fadewhite",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "raw/real/0f5229b7ce21160f59eaa5ce5defbe8d.mp4",
+   "start": 0.0,
+   "mute": true,
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "fit": "cover",
+   "end": 1.634
+  },
+  {
+   "src": "raw/real/B_Roll_6.mov",
+   "start": 0.5,
+   "mute": true,
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "fit": "cover",
+   "end": 2.374
+  }
+ ],
+ "reframe": 0.5,
+ "grade": "natural",
+ "texts": []
+}
