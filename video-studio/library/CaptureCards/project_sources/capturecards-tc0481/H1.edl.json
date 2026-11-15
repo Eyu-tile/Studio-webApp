@@ -1,0 +1,531 @@
+{
+ "source": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G2.mp4",
+ "segments": [
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G2.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 1.45
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G3.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 3.14
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G4.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 3.0
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/a_dust_mite_in_the_mattress.mp4",
+   "start": 1.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 3.52,
+   "transition_in": {
+    "type": "zoomin",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Dust_mite_absorbing_moisture_202608131638.mp4",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 3.65
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N2.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 3.52,
+   "transition_in": {
+    "type": "zoomin",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N10.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 1.802
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N4.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 1.818
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G1.mp4",
+   "start": 0.2,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 3.151
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G5.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 2.539
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/hf_20260820_081347_5e3621a7-1e06-4b69-ac98-fe1d87d622cc.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 2.537,
+   "transition_in": {
+    "type": "fadeblack",
+    "dur": 0.35
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/Dust_mites_inside_mattress_layers_202608.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 2.327
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/hf_20260820_091930_2faee368-c9a7-462d-b205-cfe3626d8517.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 1.737
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/Dust_mite_feeding_on_skin_202607302025.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 2.649
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N1.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.02,
+   "end": 1.801
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N1.mp4",
+   "start": 1.801,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.16,
+   "zoom_to": 1.18,
+   "end": 3.35
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0451/raw/Microscopic_dust_mites_in_mattress_20260.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 2.101,
+   "transition_in": {
+    "type": "circleopen",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Woman_discovers_dust_mites_in_202608020605.mp4",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 3.319
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N8.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 3.4
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/hf_20260820_180239_54848a26-e1e5-48b5-bf53-8a3857ce6b56.mp4",
+   "start": 2.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 3.42
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/WMZVhc8baHbm7dqmA7Aca_minimax-h3.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 2.25
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N9.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 1.93
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G9.mp4",
+   "start": 1.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 3.33
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G8.mp4",
+   "start": 1.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 3.39,
+   "transition_in": {
+    "type": "slideleft",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/bait_doesn_t_work_03.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.02,
+   "end": 2.051
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/bait_doesn_t_work_03.mp4",
+   "start": 2.051,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.16,
+   "zoom_to": 1.18,
+   "end": 3.6
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Woman_taking_pill_drinking_water_202608042344.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 2.85,
+   "transition_in": {
+    "type": "smoothup",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G10.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 2.75
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N11.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.02,
+   "end": 1.891
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N11.mp4",
+   "start": 1.891,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.16,
+   "zoom_to": 1.18,
+   "end": 3.53
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G7.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 2.981
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Dust_mites_moving_inside_pillow_202607310523.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 2.519
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/hf_20260823_155438_8f2c85de-4fe2-4a5e-aedf-b5353f0ee125.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 2.93,
+   "transition_in": {
+    "type": "fade",
+    "dur": 0.4
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/hf_20260820_092514_558773e5-0676-4bc0-8651-e8463825db24.mp4",
+   "start": 1.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 3.41
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Charlotte_Fischer_B-Roll_9.mov",
+   "start": 1.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 4.51,
+   "transition_in": {
+    "type": "slideleft",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/hf_20260820_093105_9ee46b3a-f19d-4983-89ce-5a95e1804a17.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 2.018
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N15.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 2.653
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G11.mp4",
+   "start": 0.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 2.129
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/hf_20260820_173348_18cc64a5-2c41-40db-a71a-69e5ce5100a3.mp4",
+   "start": 1.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 3.913,
+   "transition_in": {
+    "type": "slideright",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N13.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 1.817
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G12.mp4",
+   "start": 0.3,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 2.85
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N17.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 2.35
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Alan_Choi_B-Roll_25.mov",
+   "start": 5.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 7.131,
+   "transition_in": {
+    "type": "slideleft",
+    "dur": 0.25
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Ryan_Suzuki_B-Roll_12.mov",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.08,
+   "end": 3.409
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0482/raw/ai/hf_20260820_203252_b9dccdde-2cdc-41d0-93b5-d8deb87ce175.mp4",
+   "start": 2.6,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 3.691
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/G13.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "end": 1.689
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Mason_Stevens_B-Roll_17.mov",
+   "start": 2.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 4.91
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Acacia_Ellison_B-Roll_12.mov",
+   "start": 1.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.02,
+   "end": 3.082,
+   "speed": 0.964
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Acacia_Ellison_B-Roll_12.mov",
+   "start": 3.082,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.16,
+   "zoom_to": 1.18,
+   "end": 4.74,
+   "speed": 0.964
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/higgsfield/N12.mp4",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.08,
+   "zoom_to": 1.0,
+   "end": 2.689
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Charlotte_Fischer_B-Roll_19.mov",
+   "start": 0.5,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.0,
+   "zoom_to": 1.02,
+   "end": 2.295,
+   "transition_in": {
+    "type": "fadewhite",
+    "dur": 0.3
+   }
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Charlotte_Fischer_B-Roll_19.mov",
+   "start": 2.295,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.16,
+   "zoom_to": 1.18,
+   "end": 3.99
+  },
+  {
+   "src": "/home/user/video-studio-claude-plugin/video-studio/projects/capturecards-tc0481/raw/ai/Mason_Stevens_B-Roll_10.mov",
+   "start": 4.0,
+   "mute": true,
+   "fit": "cover",
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "end": 6.35
+  }
+ ],
+ "reframe": 0.5,
+ "grade": "natural",
+ "texts": []
+}

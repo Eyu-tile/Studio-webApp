@@ -1,0 +1,195 @@
+{
+  "source": "raw/pool/c015.mp4",
+  "segments": [
+    {
+      "src": "raw/pool/c015.mp4",
+      "start": 0.3,
+      "end": 2.798,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c257.mp4",
+      "start": 0.3,
+      "end": 2.798,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c250.mp4",
+      "start": 0.3,
+      "end": 3.235,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover",
+      "transition_in": {
+        "type": "fadewhite",
+        "dur": 0.4
+      }
+    },
+    {
+      "src": "raw/pool/c238.mp4",
+      "start": 0.3,
+      "end": 2.589,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c003.mp4",
+      "start": 0.3,
+      "end": 2.589,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c189.mp4",
+      "start": 0.3,
+      "end": 1.535,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c258.mp4",
+      "start": 0.3,
+      "end": 3.262,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c268.mp4",
+      "start": 0.3,
+      "end": 3.262,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c276.mp4",
+      "start": 0.3,
+      "end": 3.962,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover",
+      "transition_in": {
+        "type": "fade",
+        "dur": 0.7
+      }
+    },
+    {
+      "src": "raw/pool/c275.mp4",
+      "start": 0.3,
+      "end": 3.262,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c307.mp4",
+      "start": 0.3,
+      "end": 2.821,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c284.mp4",
+      "start": 0.3,
+      "end": 2.821,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c196.mp4",
+      "start": 0.3,
+      "end": 2.788,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c149.mp4",
+      "start": 0.3,
+      "end": 2.81,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover",
+      "transition_in": {
+        "type": "slideleft",
+        "dur": 0.3
+      }
+    },
+    {
+      "src": "raw/bedroom_air_purifier_cleans_room.mp4",
+      "start": 0.3,
+      "end": 2.881,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c110.mp4",
+      "start": 0.3,
+      "end": 3.764,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c038.mp4",
+      "start": 0.0,
+      "end": 2.457,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "blur",
+      "transition_in": {
+        "type": "fadewhite",
+        "dur": 0.4
+      }
+    },
+    {
+      "src": "raw/pool/c328.mp4",
+      "start": 0.3,
+      "end": 3.15,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "blur"
+    },
+    {
+      "src": "raw/real_ugc/add_to_cart.mp4",
+      "start": 0.3,
+      "end": 3.15,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "blur"
+    }
+  ],
+  "reframe": 0.5,
+  "grade": "natural",
+  "texts": []
+}

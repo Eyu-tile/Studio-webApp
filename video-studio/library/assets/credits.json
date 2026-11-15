@@ -1,0 +1,32 @@
+{
+ "assets": [
+  {
+   "file": "/home/user/video-studio-claude-plugin/video-studio/library/assets/sfx/uisfx",
+   "kind": "sfx",
+   "pack": "uisfx",
+   "provider": "git",
+   "title": "uisfx (936 files)",
+   "author": "uisfx by Romain Simon",
+   "page_url": "https://github.com/romainsimon/uisfx",
+   "source": "https://github.com/romainsimon/uisfx@9950fe6",
+   "license": "CC0-1.0",
+   "license_url": "https://github.com/romainsimon/uisfx/blob/main/LICENSE-AUDIO",
+   "attribution_required": false,
+   "downloaded": "2026-11-08T07:40:07Z"
+  },
+  {
+   "file": "/home/user/video-studio-claude-plugin/video-studio/library/assets/sfx/kenney-interface",
+   "kind": "sfx",
+   "pack": "kenney-interface",
+   "provider": "git",
+   "title": "kenney-interface (100 files)",
+   "author": "Kenney (kenney.nl), Interface Sounds",
+   "page_url": "https://github.com/hipdiscovery/Free-Sound-Effects",
+   "source": "https://github.com/hipdiscovery/Free-Sound-Effects@c1f8eed",
+   "license": "CC0-1.0",
+   "license_url": "https://kenney.nl/assets/interface-sounds",
+   "attribution_required": false,
+   "downloaded": "2026-11-08T07:40:08Z"
+  }
+ ]
+}

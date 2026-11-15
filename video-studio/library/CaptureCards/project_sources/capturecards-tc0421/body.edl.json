@@ -1,0 +1,656 @@
+{
+  "source": "raw/real_ugc/collapsed_tired.mp4",
+  "segments": [
+    {
+      "src": "raw/real_ugc/place_under_mattress_a.mp4",
+      "start": 0.3,
+      "end": 2.6,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/place_under_mattress_a.mp4",
+      "start": 2.7,
+      "end": 5.0,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/place_under_mattress_a.mp4",
+      "start": 5.1,
+      "end": 6.777,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover",
+      "speed": 0.729
+    },
+    {
+      "src": "raw/real_ugc/collapsed_tired.mp4",
+      "start": 0.3,
+      "end": 1.86,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/woman_struggling_to_sleep_breathing.mp4",
+      "start": 0.3,
+      "end": 2.659,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/woman_struggling_to_sleep_breathing.mp4",
+      "start": 2.7,
+      "end": 5.059,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/story/taking_pill.mp4",
+      "start": 0.3,
+      "end": 2.881,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/story/nasal_spray.mp4",
+      "start": 0.3,
+      "end": 1.999,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/woman_struggling_to_sleep_breathing.mp4",
+      "start": 0.3,
+      "end": 2.461,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/allergy_react.mp4",
+      "start": 0.3,
+      "end": 2.461,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/woman_struggling_to_sleep_breathing.mp4",
+      "start": 2.7,
+      "end": 4.861,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/eye_rub.mp4",
+      "start": 0.3,
+      "end": 2.566,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/eye_rub.mp4",
+      "start": 2.7,
+      "end": 4.966,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/story/otrivine_spray.mp4",
+      "start": 0.3,
+      "end": 2.788,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/kitchen_react.mp4",
+      "start": 0.3,
+      "end": 2.835,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/dust_mites_inside_mattress_layers.mp4",
+      "start": 0.3,
+      "end": 3.253,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/microscopic_dust_mites_in_mattress.mp4",
+      "start": 0.3,
+      "end": 2.739,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/dust_mites_inside_mattress_layers.mp4",
+      "start": 0.3,
+      "end": 2.739,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/microscopic_dust_mites_in_mattress.mp4",
+      "start": 2.7,
+      "end": 5.139,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/story/mite_feeding_skin.mp4",
+      "start": 0.3,
+      "end": 2.554,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/microscopic_dust_mites_in_mattress.mp4",
+      "start": 0.3,
+      "end": 2.554,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/story/mite_feeding_skin.mp4",
+      "start": 2.7,
+      "end": 4.01,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover",
+      "speed": 0.5813
+    },
+    {
+      "src": "raw/camera_zooms_into_sleeping_woman.mp4",
+      "start": 0.3,
+      "end": 3.717,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/allergy_react.mp4",
+      "start": 0.3,
+      "end": 1.86,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/story/taking_pill.mp4",
+      "start": 0.3,
+      "end": 2.868,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/story/otrivine_spray.mp4",
+      "start": 0.3,
+      "end": 2.868,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/woman_sleeping_nasal_cavity_cutaway.mp4",
+      "start": 0.3,
+      "end": 2.589,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/woman_sleeping_nasal_cavity_cutaway.mp4",
+      "start": 2.7,
+      "end": 4.989,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/woman_struggling_to_sleep_breathing.mp4",
+      "start": 0.3,
+      "end": 2.788,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/woman_sleeping_nasal_cavity_cutaway.mp4",
+      "start": 0.3,
+      "end": 2.138,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/camera_zooms_into_sleeping_woman.mp4",
+      "start": 0.3,
+      "end": 3.262,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/dust_mites_inside_mattress_layers.mp4",
+      "start": 0.3,
+      "end": 3.262,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/camera_zooms_into_sleeping_woman.mp4",
+      "start": 0.3,
+      "end": 1.627,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/collapsed_tired.mp4",
+      "start": 0.3,
+      "end": 2.463,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/woman_sleeping_nasal_cavity_cutaway.mp4",
+      "start": 0.3,
+      "end": 2.417,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/capture_card_attracts_dust_mites.mp4",
+      "start": 0.3,
+      "end": 3.421,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/mites_trapped_in_adhesive.mp4",
+      "start": 0.3,
+      "end": 3.421,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/card_hero.mp4",
+      "start": 0.3,
+      "end": 3.421,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/capture_card_attracts_dust_mites.mp4",
+      "start": 0.3,
+      "end": 2.032,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/story/mites_emerging_pillow.mp4",
+      "start": 0.3,
+      "end": 2.032,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/tuck_card.mp4",
+      "start": 0.3,
+      "end": 2.032,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/change_card_reminder.mp4",
+      "start": 0.3,
+      "end": 2.032,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "blur"
+    },
+    {
+      "src": "raw/real_ugc/spray_bottle.mp4",
+      "start": 0.3,
+      "end": 2.333,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "blur"
+    },
+    {
+      "src": "raw/real_ugc/spray_bottle.mp4",
+      "start": 2.7,
+      "end": 4.733,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "blur"
+    },
+    {
+      "src": "raw/real_ugc/place_under_mattress_a.mp4",
+      "start": 0.3,
+      "end": 1.996,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/place_under_mattress_b.mp4",
+      "start": 0.3,
+      "end": 1.996,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/box_held.mp4",
+      "start": 0.3,
+      "end": 1.996,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "blur"
+    },
+    {
+      "src": "raw/real_ugc/card_hero.mp4",
+      "start": 0.3,
+      "end": 3.346,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/strip_sheets.mp4",
+      "start": 0.3,
+      "end": 2.352,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/cleaning_and_maintaining_mattres.mp4",
+      "start": 0.3,
+      "end": 2.352,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/bedroom_air_purifier_cleans_room.mp4",
+      "start": 0.3,
+      "end": 2.352,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/mites_trapped_in_adhesive.mp4",
+      "start": 0.3,
+      "end": 2.798,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/card_hero.mp4",
+      "start": 0.3,
+      "end": 2.798,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/mites_trapped_in_adhesive.mp4",
+      "start": 0.3,
+      "end": 2.835,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/story/taking_pill.mp4",
+      "start": 0.3,
+      "end": 1.826,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/story/nasal_spray.mp4",
+      "start": 0.3,
+      "end": 1.826,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/story/otrivine_spray.mp4",
+      "start": 0.3,
+      "end": 1.826,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/story/otrivine_spray.mp4",
+      "start": 0.3,
+      "end": 1.535,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/dust_mites_inside_mattress_layers.mp4",
+      "start": 0.3,
+      "end": 3.262,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/microscopic_dust_mites_in_mattress.mp4",
+      "start": 0.3,
+      "end": 3.262,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/groggy_coffee.mp4",
+      "start": 0.3,
+      "end": 3.262,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/collapsed_tired.mp4",
+      "start": 0.3,
+      "end": 2.533,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover",
+      "speed": 0.7539
+    },
+    {
+      "src": "raw/dust_mites_inside_mattress_layers.mp4",
+      "start": 0.3,
+      "end": 2.821,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/dust_mites_inside_mattress_layers.mp4",
+      "start": 2.7,
+      "end": 4.01,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover",
+      "speed": 0.5195
+    },
+    {
+      "src": "raw/real_ugc/strip_sheets.mp4",
+      "start": 0.3,
+      "end": 2.788,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/spray_bottle.mp4",
+      "start": 0.3,
+      "end": 2.51,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "blur"
+    },
+    {
+      "src": "raw/bedroom_air_purifier_cleans_room.mp4",
+      "start": 0.3,
+      "end": 2.881,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/place_under_mattress_a.mp4",
+      "start": 0.3,
+      "end": 3.764,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/real_ugc/box_held.mp4",
+      "start": 0.3,
+      "end": 2.37,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "blur"
+    },
+    {
+      "src": "raw/real_ugc/add_to_cart.mp4",
+      "start": 0.3,
+      "end": 3.15,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "blur"
+    },
+    {
+      "src": "raw/real_ugc/add_to_cart.mp4",
+      "start": 2.7,
+      "end": 5.55,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "blur"
+    }
+  ],
+  "reframe": 0.5,
+  "grade": "natural",
+  "texts": [],
+  "audio_track": {
+    "src": "work/vo/vo_body.wav",
+    "start": 0.0,
+    "gain_db": 0
+  }
+}

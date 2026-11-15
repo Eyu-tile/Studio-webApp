@@ -1,0 +1,740 @@
+{
+ "note": "Library clips already used in finished CaptureCards projects. Prefer unused clips for new projects (each ad unique). Update this file after each project (add the project code to every library clip it used). Higgsfield-generated clips live in each project's raw/higgsfield and are unique per project.",
+ "used": {
+  "0710_1_1.mp4": [
+   "TC0451"
+  ],
+  "0723.mp4": [
+   "TC0451"
+  ],
+  "0f5229b7ce21160f59eaa5ce5defbe8d.MP4": [
+   "TC0418",
+   "TC0451",
+   "TC0482"
+  ],
+  "97b947edca4591e5a59f908422b6de58.mp4": [
+   "TC0482"
+  ],
+  "9a8bb1beecf9d6c7050cde458ae75b0c.mp4": [
+   "TC0451"
+  ],
+  "Ailani Paneth B-Roll_1.mov": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Ailani Paneth B-Roll_10.mp4": [
+   "TC0482"
+  ],
+  "Ailani Paneth B-Roll_12.mov": [
+   "TC0451",
+   "TC0482"
+  ],
+  "Ailani Paneth B-Roll_14.mov": [
+   "TC0482"
+  ],
+  "Ailani Paneth B-Roll_2.mov": [
+   "TC0482"
+  ],
+  "Ailani Paneth B-Roll_20.mov": [
+   "TC0421"
+  ],
+  "Ailani Paneth B-Roll_22.mov": [
+   "TC0418",
+   "TC0451",
+   "TC0482"
+  ],
+  "Ailani Paneth B-Roll_24.mov": [
+   "TC0421"
+  ],
+  "Ailani Paneth B-Roll_25.mov": [
+   "TC0482"
+  ],
+  "Ailani Paneth B-Roll_28.mov": [
+   "TC0482"
+  ],
+  "Ailani Paneth B-Roll_31.mov": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Ailani Paneth B-Roll_4.mov": [
+   "TC0451"
+  ],
+  "Ailani Paneth B-Roll_9.mov": [
+   "TC0451"
+  ],
+  "B-Roll 1.mov": [
+   "TC0418"
+  ],
+  "B-Roll 21.mov": [
+   "TC0418"
+  ],
+  "B-Roll 3.mov": [
+   "TC0418"
+  ],
+  "B-Roll 6.mov": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Bedroom_air_purifier_cleans_room_202607310053.mp4": [
+   "TC0418",
+   "TC0421",
+   "TC0482"
+  ],
+  "Camera_zooms_into_sleeping_woman_202608100619 (1).mp4": [
+   "TC0418",
+   "TC0421",
+   "TC0451",
+   "TC0482"
+  ],
+  "Capture_Card_attracts_dust_mites_202607311757.mp4": [
+   "TC0418",
+   "TC0421"
+  ],
+  "Capture_card_animation_tiny_mites_202607311811.mp4": [
+   "TC0451"
+  ],
+  "Charlotte Fischer B-Roll_15.mov": [
+   "TC0451"
+  ],
+  "Claire Fisher B-Roll_1.mov": [
+   "TC0451"
+  ],
+  "Claire Fisher B-Roll_12.mov": [
+   "TC0418"
+  ],
+  "Claire Fisher B-Roll_15.mov": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Claire Fisher B-Roll_17.mov": [
+   "TC0418"
+  ],
+  "Claire Fisher B-Roll_18.mov": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Claire Fisher B-Roll_5.mov": [
+   "TC0418"
+  ],
+  "Cleaning_and_maintaining_mattres\u2026_202608221746.mp4": [
+   "TC0418",
+   "TC0421"
+  ],
+  "Dust_mite_feeding_on_skin_202607302025.mp4": [
+   "TC0451",
+   "TC0482"
+  ],
+  "Dust_mites_attracted_to_odor_202608010031.mp4": [
+   "TC0451"
+  ],
+  "Dust_mites_crawling_inside_pillow_202607301942.mp4": [
+   "TC0418"
+  ],
+  "Dust_mites_in_pillow_mattress_202607302125.mp4": [
+   "TC0418"
+  ],
+  "Dust_mites_inside_mattress_layers_202608191951.mp4": [
+   "TC0418",
+   "TC0421",
+   "TC0451",
+   "TC0482"
+  ],
+  "Dust_mites_moving_inside_mattress_202608020741.mp4": [
+   "TC0451"
+  ],
+  "Dustmites.mp4": [
+   "TC0418",
+   "TC0451",
+   "TC0482"
+  ],
+  "Fionnuala Kennedy B-Roll_19.mov": [
+   "TC0418"
+  ],
+  "Fionnuala Kennedy B-Roll_2.mov": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Fionnuala Kennedy B-Roll_3.mov": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Generate_video_dust_mites_moving_202608010256.mp4": [
+   "TC0451"
+  ],
+  "Illuminating_dust_mites_on_card_202608071736.mp4": [
+   "TC0418"
+  ],
+  "Jules B-Roll_11.mp4": [
+   "TC0418"
+  ],
+  "LillianRey_ZURA_B-Roll(1).mov": [
+   "TC0451"
+  ],
+  "Lynch B-Roll_22.mov": [
+   "TC0418"
+  ],
+  "Lynch B-Roll_24.mov": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Lynch B-Roll_26.mov": [
+   "TC0451"
+  ],
+  "Lynch B-Roll_33.mov": [
+   "TC0451"
+  ],
+  "Mason Stevens B-Roll_7.mov": [
+   "TC0482"
+  ],
+  "Microscopic_dust_mites_in_mattress_202608191226.mp4": [
+   "TC0418",
+   "TC0421",
+   "TC0451",
+   "TC0482"
+  ],
+  "Mites_trapped_in_adhesive_202608010223.mp4": [
+   "TC0418",
+   "TC0421",
+   "TC0451"
+  ],
+  "MptuLfKfQ7kwE-K7QIlrt_minimax-h3.mp4": [
+   "TC0451"
+  ],
+  "Ryan Suzuki B-Roll_9.mov": [
+   "TC0451"
+  ],
+  "TrueClean card 01.mp4": [
+   "TC0451"
+  ],
+  "Woman_cleaning_mattress_dust_mites_202607310019.mp4": [
+   "TC0451"
+  ],
+  "Woman_loading_laundry_into_washer_202608191531.mp4": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Woman_sleeping_nasal_cavity_cutaway_202608060738.mp4": [
+   "TC0418",
+   "TC0421",
+   "TC0451"
+  ],
+  "Woman_sleeping_with_nasal_obstru\u2026_202608071725.mp4": [
+   "TC0451"
+  ],
+  "Woman_sneezing_and_wiping_nose_202608190709.mp4": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Woman_sneezing_hard_realistic_202608042306.mp4": [
+   "TC0451"
+  ],
+  "Woman_sneezing_in_bedroom_202608071744.mp4": [
+   "TC0418"
+  ],
+  "Woman_struggling_to_sleep_breathing_202608070457.mp4": [
+   "TC0418",
+   "TC0421",
+   "TC0451"
+  ],
+  "Woman_wakes_with_blocked_nostril_202608060742.mp4": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Woman_waking_up_well_rested_202608070448.mp4": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Woman_washing_and_making_bed_202608020713.mp4": [
+   "TC0418",
+   "TC0451",
+   "TC0482"
+  ],
+  "Woman_wiping_nose_and_rolling_202608120623.mp4": [
+   "TC0418"
+  ],
+  "Wren Presley B-Roll_10.mov": [
+   "TC0418",
+   "TC0451"
+  ],
+  "Wren Presley B-Roll_13.mov": [
+   "TC0418",
+   "TC0421",
+   "TC0451"
+  ],
+  "Wren Presley B-Roll_17.mov": [
+   "TC0421"
+  ],
+  "Wren Presley B-Roll_20.mov": [
+   "TC0451"
+  ],
+  "b3 (1).mp4": [
+   "TC0418",
+   "TC0451"
+  ],
+  "b4.mp4": [
+   "TC0418",
+   "TC0451",
+   "TC0482"
+  ],
+  "bait doesn't work 04.mp4": [
+   "TC0451"
+  ],
+  "card composition 01.mp4": [
+   "TC0451"
+  ],
+  "cta (1).mp4": [
+   "TC0451"
+  ],
+  "cta_.mp4": [
+   "TC0451"
+  ],
+  "e2ad462207e6dc4d44283eec54537262.MP4": [
+   "TC0418",
+   "TC0451",
+   "TC0482"
+  ],
+  "hf_20260720_124802_c8474691-045b-4c19-bd54-a5bdd11d54e2.mp4": [
+   "TC0418",
+   "TC0482"
+  ],
+  "hf_20260807_022405_6be555a4-ac3e-4f2b-8cf7-7b629f2a8f49.mp4": [
+   "TC0451"
+  ],
+  "hf_20260807_103103_0aac4395-8c52-4653-a200-97f38dd16fb4.mp4": [
+   "TC0482"
+  ],
+  "hf_20260807_104641_2ff7cbef-3b76-4f65-a1c2-a899b79a229a.mp4": [
+   "TC0482"
+  ],
+  "hf_20260810_073507_f93700fb-3c71-4292-be2e-a246c8ae59a6.mp4": [
+   "TC0451"
+  ],
+  "hf_20260820_075111_ed567c0e-3306-4b56-b0ae-53a74a2a88f0.mp4": [
+   "TC0451",
+   "TC0482"
+  ],
+  "hf_20260820_075318_e5f3af3a-054c-43d4-bb09-c057354303cc.mp4": [
+   "TC0451"
+  ],
+  "hf_20260820_080151_2bc9e3ae-db6a-4e84-97ae-c2091792af3b.mp4": [
+   "TC0451"
+  ],
+  "hf_20260820_080738_52a1f2a1-4711-46b4-a09b-b871f14be259.mp4": [
+   "TC0418",
+   "TC0482"
+  ],
+  "hf_20260820_090306_1413f3da-c2fd-4737-a391-090661464cfd.mp4": [
+   "TC0418"
+  ],
+  "hf_20260820_090559_a83c6287-39a2-4e8c-b042-a97bd8b55c02.mp4": [
+   "TC0482"
+  ],
+  "hf_20260820_180513_f8abd308-f198-4e98-913a-31ec49c319cd.mp4": [
+   "TC0451",
+   "TC0482"
+  ],
+  "hf_20260820_183945_6f07289b-66be-422b-b108-074d0b6957bb (1).mp4": [
+   "TC0451",
+   "TC0482"
+  ],
+  "hf_20260820_184313_d8fa9113-5068-413c-9982-5e98c29e64ed.mp4": [
+   "TC0418",
+   "TC0451",
+   "TC0482"
+  ],
+  "hf_20260821_054604_abc8c70d-e01c-41df-a1fe-15d63ac899b8.mp4": [
+   "TC0418"
+  ],
+  "hf_20260821_054813_38409857-0c03-4472-bb4c-ab11afa8049c.mp4": [
+   "TC0418"
+  ],
+  "hf_20260823_004413_518b7518-cfa4-4316-a129-067234f5640a.mp4": [
+   "TC0418"
+  ],
+  "hf_20260823_005442_4d56ab5c-3ca6-417f-bbe9-107163b24889 (1).mp4": [
+   "TC0451"
+  ],
+  "hf_20260824_052232_b62a6913-e8d3-4f6b-8c67-4cc0a22709d5.mp4": [
+   "TC0482"
+  ],
+  "hf_20260902_214429_d712d36c-4c3d-47a5-b577-f1fdc3b5ff94.mp4": [
+   "TC0451"
+  ],
+  "p.mp4": [
+   "TC0418",
+   "TC0421",
+   "TC0482"
+  ],
+  "woman-blowing-her-nose-while-lying-in-bed-2026-01-22-16-00-27-utc.mp4": [
+   "TC0451"
+  ],
+  "woman-blowing-nose-while-lying-on-couch-2025-12-17-13-14-03-utc.mov": [
+   "TC0451"
+  ],
+  "woman-sits-on-bed-with-head-in-hands-2026-01-20-22-55-20-utc.mp4": [
+   "TC0421",
+   "TC0451"
+  ],
+  "woman-sleeping-soundly-in-her-bed-at-night-2025-12-17-23-54-41-utc.mov": [
+   "TC0451"
+  ],
+  "\u0441\u043e\u0435\u0434\u0438\u043d\u0438_\u044d\u0442\u0438_\u0444\u043e\u0442\u043a\u0438_\u0432_\u0432\u0438\u0434\u0435\u043e.mp4": [
+   "TC0418",
+   "TC0421"
+  ],
+  "Acacia Ellison B-Roll_12.mov": [
+   "TC0481"
+  ],
+  "Alan Choi B-Roll_25.mov": [
+   "TC0481"
+  ],
+  "Charlotte Fischer B-Roll_9.mov": [
+   "TC0481"
+  ],
+  "Dust_mite_absorbing_moisture_202608131638.mp4": [
+   "TC0481"
+  ],
+  "Dust_mites_in_mattress_fibers_202608020621.mp4": [
+   "TC0481"
+  ],
+  "Mason Stevens B-Roll_10.mov": [
+   "TC0481"
+  ],
+  "Mason Stevens B-Roll_17.mov": [
+   "TC0481"
+  ],
+  "Ryan Suzuki B-Roll_12.mov": [
+   "TC0481"
+  ],
+  "WMZVhc8baHbm7dqmA7Aca_minimax-h3.mp4": [
+   "TC0481"
+  ],
+  "Woman_discovers_dust_mites_in_202608020605.mp4": [
+   "TC0481"
+  ],
+  "a dust mite in the mattress.mp4": [
+   "TC0481"
+  ],
+  "bait doesn't work 03.mp4": [
+   "TC0481"
+  ],
+  "dust mite animation 04.mov": [
+   "TC0481"
+  ],
+  "hf_20260820_081347_5e3621a7-1e06-4b69-ac98-fe1d87d622cc.mp4": [
+   "TC0481"
+  ],
+  "hf_20260820_091930_2faee368-c9a7-462d-b205-cfe3626d8517.mp4": [
+   "TC0481"
+  ],
+  "hf_20260820_092514_558773e5-0676-4bc0-8651-e8463825db24.mp4": [
+   "TC0481"
+  ],
+  "hf_20260820_093105_9ee46b3a-f19d-4983-89ce-5a95e1804a17.mp4": [
+   "TC0481"
+  ],
+  "hf_20260820_173348_18cc64a5-2c41-40db-a71a-69e5ce5100a3.mp4": [
+   "TC0481"
+  ],
+  "hf_20260820_180239_54848a26-e1e5-48b5-bf53-8a3857ce6b56.mp4": [
+   "TC0481"
+  ],
+  "hf_20260820_203252_b9dccdde-2cdc-41d0-93b5-d8deb87ce175.mp4": [
+   "TC0481"
+  ],
+  "hf_20260823_155438_8f2c85de-4fe2-4a5e-aedf-b5353f0ee125.mp4": [
+   "TC0481"
+  ],
+  "dust mite animation 04": [
+   "TC0481"
+  ],
+  "Alan Choi B-Roll_25": [
+   "TC0481"
+  ],
+  "Microscopic_dust_mites_in_mattress_202608191226": [
+   "TC0481"
+  ],
+  "hf_20260820_091930_2faee368-c9a7-462d-b205-cfe3626d8517": [
+   "TC0481"
+  ],
+  "WMZVhc8baHbm7dqmA7Aca_minimax-h3": [
+   "TC0481"
+  ],
+  "hf_20260820_081347_5e3621a7-1e06-4b69-ac98-fe1d87d622cc": [
+   "TC0481"
+  ],
+  "hf_20260820_203252": [
+   "TC0481"
+  ],
+  "Dust_mite_absorbing_moisture_202608131638": [
+   "TC0481"
+  ],
+  "hf_20260820_093105_9ee46b3a-f19d-4983-89ce-5a95e1804a17": [
+   "TC0481"
+  ],
+  "Ryan Suzuki B-Roll_12": [
+   "TC0481"
+  ],
+  "Acacia Ellison B-Roll_12": [
+   "TC0481"
+  ],
+  "hf_20260820_173348_18cc64a5-2c41-40db-a71a-69e5ce5100a3": [
+   "TC0481"
+  ],
+  "Woman_sneezing_and_wiping_nose_202608190709": [
+   "TC0481"
+  ],
+  "Dust_mite_feeding_on_skin_202607302025": [
+   "TC0481"
+  ],
+  "Woman_taking_pill_drinking_water_202608042344": [
+   "TC0481"
+  ],
+  "Charlotte Fischer B-Roll_19": [
+   "TC0481"
+  ],
+  "hf_20260823_155438_8f2c85de-4fe2-4a5e-aedf-b5353f0ee125": [
+   "TC0481"
+  ],
+  "Charlotte Fischer B-Roll_9": [
+   "TC0481"
+  ],
+  "Dust_mites_moving_inside_pillow_202607310523": [
+   "TC0481"
+  ],
+  "hf_20260820_180239_54848a26-e1e5-48b5-bf53-8a3857ce6b56": [
+   "TC0481"
+  ],
+  "hf_20260820_092514_558773e5-0676-4bc0-8651-e8463825db24": [
+   "TC0481"
+  ],
+  "a dust mite in the mattress": [
+   "TC0481"
+  ],
+  "Woman_discovers_dust_mites_in_202608020605": [
+   "TC0481"
+  ],
+  "Mason Stevens B-Roll_17": [
+   "TC0481"
+  ],
+  "Dust_mites_inside_mattress_layers_202608191951": [
+   "TC0481"
+  ],
+  "bait doesn't work 03": [
+   "TC0481"
+  ],
+  "Mason Stevens B-Roll_10": [
+   "TC0481"
+  ],
+  "97b947edca4591e5a59f908422b6de58": [
+   "TC0488"
+  ],
+  "Ailani Paneth B-Roll_28": [
+   "TC0488"
+  ],
+  "Ailani Paneth B-Roll_9": [
+   "TC0488"
+  ],
+  "Bedroom_air_purifier_cleans_room_202607310053": [
+   "TC0488"
+  ],
+  "Camera_zooms_into_sleeping_woman_202608100619": [
+   "TC0488"
+  ],
+  "Cleaning_and_maintaining_mattres\u2026_202608221746": [
+   "TC0488"
+  ],
+  "Dust_mites_crawling_inside_pillow_202607301942": [
+   "TC0488"
+  ],
+  "Dust_mites_in_mattress_fibers_202608020621": [
+   "TC0488"
+  ],
+  "Dust_mites_moving_inside_mattress_202608020741": [
+   "TC0488"
+  ],
+  "Dustmites": [
+   "TC0488"
+  ],
+  "Generate_video_dust_mites_moving_202608010256": [
+   "TC0488"
+  ],
+  "Lynch B-Roll_11": [
+   "TC0488"
+  ],
+  "Mason Stevens B-Roll_4": [
+   "TC0488"
+  ],
+  "Mason Stevens B-Roll_7": [
+   "TC0488"
+  ],
+  "Ryan Suzuki B-Roll_9": [
+   "TC0488"
+  ],
+  "Woman_loading_laundry_into_washer_202608191531": [
+   "TC0488"
+  ],
+  "Woman_realizing_solution_in_bedroom_202608121559": [
+   "TC0488"
+  ],
+  "Woman_sleeping_nasal_cavity_cutaway_202608060738": [
+   "TC0488"
+  ],
+  "Woman_sleeping_with_nasal_obstru\u2026_202608071725": [
+   "TC0488"
+  ],
+  "Woman_sneezes_from_pillow_202607310336 (1)": [
+   "TC0488"
+  ],
+  "Woman_sneezing_and_wiping_nose_202608190710": [
+   "TC0488"
+  ],
+  "Woman_sneezing_hard_realistic_202608042306": [
+   "TC0488"
+  ],
+  "Woman_sneezing_in_bedroom_202608071744": [
+   "TC0488"
+  ],
+  "Woman_sneezing_on_bed_202608020613": [
+   "TC0488"
+  ],
+  "Woman_sneezing_on_couch_202608040611": [
+   "TC0488"
+  ],
+  "Woman_struggling_to_sleep_breathing_202608070457": [
+   "TC0488"
+  ],
+  "Woman_wakes_with_blocked_nostril_202608060742": [
+   "TC0488"
+  ],
+  "Woman_waking_up_well_rested_202608070448": [
+   "TC0488"
+  ],
+  "Woman_washing_and_making_bed_202608020713": [
+   "TC0488"
+  ],
+  "Woman_wiping_nose_and_rolling_202608120623": [
+   "TC0488"
+  ],
+  "b3 (1)": [
+   "TC0488"
+  ],
+  "b4": [
+   "TC0488"
+  ],
+  "bait doesn't work 04": [
+   "TC0488"
+  ],
+  "hf_20260803_175442_03a9d954-1b9d-48e1-8ad6-412f234f9849": [
+   "TC0488"
+  ],
+  "hf_20260807_103103_0aac4395-8c52-4653-a200-97f38dd16fb4": [
+   "TC0488"
+  ],
+  "hf_20260807_103127_724cc3b6-ab55-4556-ad0b-e5b3329056bc": [
+   "TC0488"
+  ],
+  "hf_20260807_104641_2ff7cbef-3b76-4f65-a1c2-a899b79a229a": [
+   "TC0488"
+  ],
+  "hf_20260810_073507_f93700fb-3c71-4292-be2e-a246c8ae59a6": [
+   "TC0488"
+  ],
+  "hf_20260820_075318_e5f3af3a-054c-43d4-bb09-c057354303cc": [
+   "TC0488"
+  ],
+  "hf_20260820_080738_52a1f2a1-4711-46b4-a09b-b871f14be259": [
+   "TC0488"
+  ],
+  "hf_20260820_090306_1413f3da-c2fd-4737-a391-090661464cfd": [
+   "TC0488"
+  ],
+  "hf_20260820_090559_a83c6287-39a2-4e8c-b042-a97bd8b55c02": [
+   "TC0488"
+  ],
+  "hf_20260820_145132_059ffddf-0b60-4fa2-9e4a-a5068cd52469": [
+   "TC0488"
+  ],
+  "hf_20260820_175630_cf612c00-b412-4bdf-b010-69013d8a2125": [
+   "TC0488"
+  ],
+  "hf_20260820_180513_f8abd308-f198-4e98-913a-31ec49c319cd": [
+   "TC0488"
+  ],
+  "hf_20260820_183945_6f07289b-66be-422b-b108-074d0b6957bb": [
+   "TC0488"
+  ],
+  "hf_20260820_184313_d8fa9113-5068-413c-9982-5e98c29e64ed": [
+   "TC0488"
+  ],
+  "hf_20260821_054604_abc8c70d-e01c-41df-a1fe-15d63ac899b8": [
+   "TC0488"
+  ],
+  "hf_20260821_054813_38409857-0c03-4472-bb4c-ab11afa8049c": [
+   "TC0488"
+  ],
+  "hf_20260823_004413_518b7518-cfa4-4316-a129-067234f5640a": [
+   "TC0488"
+  ],
+  "hf_20260824_052232_b62a6913-e8d3-4f6b-8c67-4cc0a22709d5": [
+   "TC0488"
+  ],
+  "hf_20260902_214429_d712d36c-4c3d-47a5-b577-f1fdc3b5ff94": [
+   "TC0488"
+  ],
+  "Ailani Paneth B-Roll_8": [
+   "TC0488"
+  ],
+  "Wren Presley B-Roll_17": [
+   "TC0488"
+  ],
+  "Claire Fisher B-Roll_27": [
+   "TC0488"
+  ],
+  "Ailani Paneth B-Roll_22": [
+   "TC0488"
+  ],
+  "Wren Presley B-Roll_20": [
+   "TC0488"
+  ],
+  "Wren Presley B-Roll_1": [
+   "TC0488"
+  ],
+  "woman-blowing-nose-while-lying-on-couch-2025-12-17-13-14-03-utc": [
+   "TC0488"
+  ],
+  "Wren Presley B-Roll_10": [
+   "TC0488"
+  ],
+  "Ailani Paneth B-Roll_20": [
+   "TC0488"
+  ],
+  "Claire Fisher B-Roll_29": [
+   "TC0488"
+  ],
+  "Fionnuala Kennedy B-Roll_10": [
+   "TC0488"
+  ],
+  "Ailani Paneth B-Roll_1": [
+   "TC0488"
+  ],
+  "Wren Presley B-Roll_13": [
+   "TC0488"
+  ],
+  "Claire Fisher B-Roll_18": [
+   "TC0488"
+  ],
+  "Ailani Paneth B-Roll_31": [
+   "TC0488"
+  ],
+  "Wren Presley B-Roll_21": [
+   "TC0488"
+  ],
+  "Charlotte Fischer B-Roll_15": [
+   "TC0488"
+  ],
+  "Charlotte Fischer B-Roll_21": [
+   "TC0488"
+  ]
+ }
+}

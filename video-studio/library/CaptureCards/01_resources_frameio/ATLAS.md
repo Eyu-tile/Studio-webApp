@@ -1,0 +1,2024 @@
+# TC Gallery Atlas — every Frame.io file, second by second
+
+**429 files fully mapped** · ✅ OK 297 · ⚠ caution 40 · ⛔ banned 92 · 409 vertical / 14 horizontal
+
+Built by downloading every file, probing it (duration, resolution, fps, audio level, scene cuts, brightness, md5), pulling 8 timestamped frames per clip, transcribing speech, and reviewing each clip frame-by-frame. Machine-readable version: `work/ATLAS.json`.
+
+## ⛔ Alert: banned clips currently inside the TC0421 cut
+
+The earlier pool downloads (raw/pool/cNNN) were keyed by index, so some files turned out to be Problem-Clips footage. Verified by md5:
+
+| Cut file | Real Frame.io file | Why |
+|---|---|---|
+| c191.mp4 | Acacia Ellison B-Roll_15.mov | BANNED: ⛔ PROBLEM CLIPS |
+| c196.mp4 | Acacia Ellison B-Roll_3.mov | BANNED: ⛔ PROBLEM CLIPS |
+| c178.mp4 | Ailani Paneth B-Roll_32.mov | BANNED: ⛔ PROBLEM CLIPS |
+| c327.mp4 | b5.mp4 | CAUTION: ⚠ MITE-CAPTURE print |
+| c007.mp4 | Episode 35 _ Why Is Your Nose Blocked_ 👃 Nasal Congestion Explained _ 3D Medical Animation.mp4 | CAUTION: ⚠ third-party branded end card (cut before 10.4) |
+| c214.mp4 | Fionnuala Kennedy B-Roll_24.mov | BANNED: ⛔ PROBLEM CLIPS |
+| c324.mp4 | hf_20260730_224808_b228b521-82cc-4167-b518-d87e3058c523 (1).mp4 | CAUTION: ⚠ stylized |
+| c006.mp4 | hf_20260902_212437_a47aa0e1-7be5-4be9-b0af-ac6518f69573.mp4 | BANNED: ⛔ IN PROBLEM CLIPS (= c006 in TC0421 cut B15!) — replace |
+| c025.mp4 | Mites_Crawling_To_Card.mp4 | CAUTION: ⚠ 3.5-5 pile-on = catch-ish |
+| c325.mp4 | Mites_In_Bed_Sleeping_Woman 02.mp4 | CAUTION: ⚠ stylized |
+| c011.mp4 | Mites_trapped_in_adhesive_202608010223.mp4 | CAUTION: ⚠ trapped = catch proof (borderline, 3D explainer) |
+| c002.mp4 | Otrivine Sinusitis Nasal Spray - Your Nose's Hero.mp4 | CAUTION: ⚠ real 3rd-party brand Otrivine visible (= c002 in cut B15) |
+| c300.mp4 | p.mp4 | CAUTION: ⚠ old white card + catch spot |
+| c003.mp4 | tiktokdownload.online_@simplysaline_1788384133471.mp4 | CAUTION: ⚠ burned "#ad"+text, competitor brand (= c003 in cut B32) — replace |
+| c336.mp4 | woman-sleeping-peacefully-in-dark-bedroom-at-night-2025-12-17-16-52-12-utc.mov | BANNED: ⛔ PROBLEM CLIPS |
+| c175.mp4 | Wren Presley B-Roll_18.mov | BANNED: ⛔ PROBLEM CLIPS — CHECK c175 in cut (B08) looks identical! |
+
+## Exact duplicates (same md5)
+
+- a dust mite in the mattress.mp4 = hf_20260723_115005_b6f86b51-4265-4064-b2ce-3ce166e9ea06 (1).mp4
+- Acacia Ellison B-Roll_14 (1).mov = Acacia Ellison B-Roll_14.mov
+- B-Roll 1.mov = Mason Stevens B-Roll_1.mov
+- B-Roll 21.mov = Mason Stevens B-Roll_21.mov
+- B-Roll 3.mov = Mason Stevens B-Roll_3.mov
+- B-Roll 6.mov = Mason Stevens B-Roll_6.mov
+- Camera_zooms_into_sleeping_woman_202608100619 (1).mp4 = Camera_zooms_into_sleeping_woman_202608100619.mp4
+- Charlotte Fischer B-Roll_12 (1).mov = Charlotte Fischer B-Roll_12.mov
+- Charlotte Fischer B-Roll_13 (1).mov = Charlotte Fischer B-Roll_13.mov
+- Charlotte Fischer B-Roll_14 (1).mov = Charlotte Fischer B-Roll_14.mov
+- hf_20260807_103103_0aac4395-8c52-4653-a200-97f38dd16fb4 (1).mp4 = hf_20260807_103103_0aac4395-8c52-4653-a200-97f38dd16fb4.mp4
+- hf_20260820_183945_6f07289b-66be-422b-b108-074d0b6957bb (1).mp4 = hf_20260820_183945_6f07289b-66be-422b-b108-074d0b6957bb.mp4
+- hf_20260823_005442_4d56ab5c-3ca6-417f-bbe9-107163b24889 (1).mp4 = hf_20260823_005442_4d56ab5c-3ca6-417f-bbe9-107163b24889.mp4
+- hf_20260823_015454_f0a37426-7ef3-4e33-a275-c2841d5a4d04 (1).mp4 = hf_20260823_015454_f0a37426-7ef3-4e33-a275-c2841d5a4d04.mp4
+- Kennedy B-Roll 40 (1).mov = Kennedy B-Roll 40.mov
+
+_Note: the approved REAL PRODUCT REFERENCES "B-Roll 1/3/6/21" are byte-identical to Mason Stevens B-Roll_1/3/6/21._
+
+## Script line → shortlist (auto-ranked from the atlas tags, OK clips only — final picks are hand-checked at edit time)
+
+**H1a** — “Your morning congestion might not be a sinus problem at all.”
+  - `Woman_sneezing_and_wiping_nose_202608190709.mp4` [0-6] — 0-1.5: woman 45 (blonde-brown, grey bedding) lying in bed, sneezes; 1.5-3.5: wipes nose with tissue, scrunched; 3.5-6: looks at camera exhausted, tiss
+  - `hf_20260821_054604_abc8c70d-e01c-41df-a1fe-15d63ac899b8.mp4` [0-6] — 0-1: woman 40 (messy bun, blue tank) sneezes hard; 1-3.5: wipes nose with tissue, pained; 3.5-6: lowers tissue, looks around worried/confused · _in cut_
+  - `Jules B-Roll_11.mp4` [0-6.8] — 0-2: Jules in floral pajamas sitting up in white bed, head down, rubbing face/nose; 2-4: looks up groggy; 4-7: hand to nose/mouth, sniffly, tired; 7-1
+  - `Woman_wakes_with_blocked_nostril_202608060742.mp4` [0-6] — 0-2: woman 45 lying on pillow, nasal X-ray overlay with red blockage & blue air swirls; 2-3.5: eyes open, groggy; 3.5-6: pinches nose, eyes closed, fr · _in cut_
+  - `Mason Stevens B-Roll_12.mov` [11-15] — 0-4: young man in bed big yawn, rubs head; 4-10: groggy, rubs eyes; 10-16: pinches nose, sniffles, stuffy
+  - `woman-blowing-her-nose-while-lying-in-bed-2026-01-22-16-00-27-utc.mp4` [2-8] — 0-13.6: woman 35 (dark hair, pink PJ bottoms) reclining on bed pillows by bright window, blows nose, tired, gestures
+
+**H1b** — “Here's what nobody's checking.”
+  - `hf_20260807_103103_0aac4395-8c52-4653-a200-97f38dd16fb4 (1).mp4` [2-8] — 0-2: white mattress surface waves; 2-5: side cutaway of grey mattress layers, circle marker; 5-8: dark interior tunnel with pale translucent mites
+  - `Dust_mites_inside_mattress_layers_202608191951.mp4` [0-4] — 0-1.5: cutaway mattress cross-section with many tan mites inside amber foam; 1.5-2.2: push into foam; 2.2-4: macro inside fibers, mites crawling among · _in cut_
+  - `hf_20260720_124802_c8474691-045b-4c19-bd54-a5bdd11d54e2.mp4` [0-10] — 0-3: clean white bed in grey room, slow push; 3-5: hole opens in mattress surface; 5-10: dive into dark interior with large grey mites in fibers
+  - `Woman_washing_and_making_bed_202608020713.mp4` [0-8] — 0-3: woman smooths white sheet over mattress whose cutaway shows mite-filled foam; 3-6: sheet covers it; 6-8: cutaway foam below clean sheet
+  - `b1.mp4` [0-4] — 0-1.5: blue-lit fiber tunnel with tan mites; 1.5-4: push down into glowing blue tunnel deep inside foam, mites on walls · _in cut_
+  - `Dust_mites_in_mattress_fibers_202608020621.mp4` [0-8] — 0-8: inside mattress: olive/cream foam chunks and dark fibers, pale mites crawling through, slow forward dolly
+
+**B01** — “If someone who's been waking up blocked and stuffy for years slid a CaptureCard under their mattress, here's what they'd finally understand.”
+  - `Ailani Paneth B-Roll_12.mov` [2-6.5] — 0-1.5: torso (teal blouse, white pants) beside white bed, pouches on bed; 1.5-3.5: main Ailani grabs card, grins at camera holding it; 3.5-6.5: bends,
+  - `Fionnuala Kennedy B-Roll_11.mov` [1-4.5] — 0-1: pouch/card enters frame low; 1-4: older woman's arm (bracelets, pink nails) slides teal card between mattress and box-spring at bed edge (white m · _in cut_
+  - `Jules B-Roll_18.mp4` [1-5] — 0-11: blonde woman (navy tee, jeans) bends over wooden bed, tucks card under mattress/strips bedding near footboard, bright room, ceiling fan
+  - `Claire Fisher B-Roll_13.mov` [7-13] — 0-4: cream duvet on cherry sleigh bed; 4-7: hand brings card, lifts duvet; 7-14: slides card between olive fitted sheet & mattress at side; 14-19: sta
+  - `Ailani Paneth B-Roll_24.mov` [0-3.4] — 0-3.4: hands lift grey duvet/mattress edge revealing teal card lying on grey bed-skirt platform, slide it further under; 3.4-7.8: duvet drops, camera  · _in cut_
+  - `Ailani Paneth B-Roll_28.mov` [0.3-5.5] — 0-1: curly-haired woman 50s (floral pajamas) sits on bed edge holding green card, looks at camera unimpressed; 1-3: turns to pillow; 3-5.5: lifts pill
+
+**B02** — “Let me paint you a picture.”
+  - `Lynch B-Roll_26.mov` [0-7] — 0-7.8: wide bright bedroom: grey upholstered bed, floral wallpaper, ceiling fan, windows; static
+  - `Jules B-Roll_10.mp4` [1-6] — 0-10.7: round mirror reflection: Jules (blonde 55, mauve top, jeans) stands hands-in-pockets, slight sways, neutral/thinking, bright open-plan room
+  - `Lynch B-Roll_27.mov` [0-7] — 0-7.7: closer wide of same grey bed & floral wallpaper, static
+  - `Ailani Paneth B-Roll_1.mov` [0.5-7] — 0-7: dark night, main Ailani lying in bed eyes open staring at ceiling, can't sleep, hugging pillow; 7-8.8: turns head to camera tired
+  - `b1.mp4` [0-4] — 0-1.5: blue-lit fiber tunnel with tan mites; 1.5-4: push down into glowing blue tunnel deep inside foam, mites on walls · _in cut_
+  - `b3 (1).mp4` [0-5] — 0-2: woman (curly, blue tee) smooths clean white bed at night; 2-3.5: walks away, bed; 3.5-5: mattress cutaway glows blue revealing mites in fibers in
+
+**B03** — “She's been dealing with a blocked nose every single morning for three, maybe five years.”
+  - `Claire Fisher B-Roll_29.mov` [2-7] — 0-2: older man (white hair, glasses) at kitchen island; 2-7.6: grabs tissue, blows nose, sniffles
+  - `Dust mites, proteins, sneezing.mov` [0-6.4] — 0-1: white pillow; 1-3.5: push into fibers, mites crawling; 3.5-4.5: mite releases bubbles (allergen proteins); 4.5-6.4: protein particles float towar
+  - `hf_20260821_054604_abc8c70d-e01c-41df-a1fe-15d63ac899b8.mp4` [0-6] — 0-1: woman 40 (messy bun, blue tank) sneezes hard; 1-3.5: wipes nose with tissue, pained; 3.5-6: lowers tissue, looks around worried/confused · _in cut_
+  - `Jules B-Roll_11.mp4` [0-6.8] — 0-2: Jules in floral pajamas sitting up in white bed, head down, rubbing face/nose; 2-4: looks up groggy; 4-7: hand to nose/mouth, sniffly, tired; 7-1
+  - `woman-blowing-her-nose-while-lying-in-bed-2026-01-22-16-00-27-utc.mp4` [2-8] — 0-13.6: woman 35 (dark hair, pink PJ bottoms) reclining on bed pillows by bright window, blows nose, tired, gestures
+  - `woman-blowing-nose-while-lying-on-couch-2025-12-17-13-14-03-utc.mov` [3-12] — 0-15: young dark-haired woman lies on beige couch with grey knit throw, blows nose, sneezes, tired
+
+**B04** — “Antihistamines on the nightstand at one point.”
+  - `Fionnuala Kennedy B-Roll_10.mov` [0-7] — 0-3: Fionnuala (glasses, floral sleeveless) opens white pill bottle at wood table; 3-10: drinks from paper cup, swallows pill · _in cut_
+  - `Woman_taking_pill_drinking_water_202608042344.mp4` [0-4] — 0-4: woman 45 (curly blonde, plum sweater) on couch puts pill in mouth, drinks water · _in cut_
+  - `Acacia Ellison B-Roll_16.mov` [0-3.3] — 0-1.5: Acacia in bedroom holds open grey pillowcase + card; 1.5-3: slips card inside pillowcase; 3-4.8: tosses pillow onto grey quilted bed
+  - `Acacia Ellison B-Roll_17.mov` [0.5-4] — 0-1.5: Acacia (sage tee) bends over grey quilted bed holding card; 1.5-4: opens pillowcase and slips card in; 4-6: drops pillow, walks off, bed
+  - `Ailani Paneth B-Roll_1.mov` [0.5-7] — 0-7: dark night, main Ailani lying in bed eyes open staring at ceiling, can't sleep, hugging pillow; 7-8.8: turns head to camera tired
+  - `Ailani Paneth B-Roll_28.mov` [0.3-5.5] — 0-1: curly-haired woman 50s (floral pajamas) sits on bed edge holding green card, looks at camera unimpressed; 1-3: turns to pillow; 3-5.5: lifts pill
+
+**B05** — “Nasal spray every morning.”
+  - `nasal sprey.mp4` [0-5] — 0-5: close-up woman (40s blonde, eyes closed, sage tee) presses one nostril, sprays nasal spray in other; tiny head movement · _in cut_
+  - `Ailani Paneth B-Roll_1.mov` [0.5-7] — 0-7: dark night, main Ailani lying in bed eyes open staring at ceiling, can't sleep, hugging pillow; 7-8.8: turns head to camera tired
+  - `b1.mp4` [0-4] — 0-1.5: blue-lit fiber tunnel with tan mites; 1.5-4: push down into glowing blue tunnel deep inside foam, mites on walls · _in cut_
+  - `b3 (1).mp4` [0-5] — 0-2: woman (curly, blue tee) smooths clean white bed at night; 2-3.5: walks away, bed; 3.5-5: mattress cutaway glows blue revealing mites in fibers in
+  - `b4.mp4` [0-5] — 0-1.4: woman vacuums mattress top while cutaway shows mites inside; 1.4-2.6: spray bottle misting on nightstand; 2.6-5: vacuuming, cutaway mites unaff
+  - `bait doesn't work 04.mp4` [0-6] — 0-6: woman asleep, pillow cutaway full of mites beside face, red glowing nose & lungs overlay (allergen inhaled) · _in cut_
+
+**B06** — “She's seen an allergist who said her results were borderline, but nothing that explains why she wakes up feeling like she can't breathe.”
+  - `hf_20260821_054813_38409857-0c03-4472-bb4c-ab11afa8049c.mp4` [0-6] — 0-2: woman 40s (bob, cream sweater) touches throat, uncomfortable; 2-3.8: close-up touching face, worried/tired eyes; 3.8-6: in bedroom, hand at throa
+  - `Fionnuala Kennedy B-Roll_22.mov` [1-8] — 0-9.6: close: hand writing on paper form beside open binder on wood table · _in cut_
+  - `Ailani Paneth B-Roll_1.mov` [0.5-7] — 0-7: dark night, main Ailani lying in bed eyes open staring at ceiling, can't sleep, hugging pillow; 7-8.8: turns head to camera tired
+  - `Woman_struggling_to_sleep_breathing_202608070457.mp4` [0-6] — 0-2: woman 40s (brunette, navy PJ) in white bed, hand on forehead, distressed; 2-4: grimace, turns; 4-6: hand on chest, mouth breathing, can't breathe · _in cut_
+  - `b1.mp4` [0-4] — 0-1.5: blue-lit fiber tunnel with tan mites; 1.5-4: push down into glowing blue tunnel deep inside foam, mites on walls · _in cut_
+  - `b3 (1).mp4` [0-5] — 0-2: woman (curly, blue tee) smooths clean white bed at night; 2-3.5: walks away, bed; 3.5-5: mattress cutaway glows blue revealing mites in fibers in
+
+**B07** — “Doctors tell her it's just seasonal allergies, maybe stress, part of getting older.”
+  - `hf_20260823_004413_518b7518-cfa4-4316-a129-067234f5640a.mp4` [1-6] — 0-7: older Latina woman (pink top) at bedroom mirror holds old photo of her younger self, looks from photo to reflection, sad/worried · _in cut_
+  - `fa211386fe6f98c439527184a9d96006.mp4` [0-2] — 0-2: woman on grey couch, head in hand, stressed; 2-3.8: woman sitting on floor by tall window, head on knees (despair); 3.8-4.9: young blonde on couc
+  - `Fionnuala Kennedy B-Roll_22.mov` [1-8] — 0-9.6: close: hand writing on paper form beside open binder on wood table · _in cut_
+  - `Lynch B-Roll_31.mov` [0-5; 5-7 forehead rub] — 0-5: Lynch (auburn hair, black glasses, navy shirt) sits on bed reading CaptureCard box, focused; 5-6: rubs forehead (tired/stressed); 6-10.5: continu
+  - `Woman_struggling_to_sleep_breathing_202608070457.mp4` [0-6] — 0-2: woman 40s (brunette, navy PJ) in white bed, hand on forehead, distressed; 2-4: grimace, turns; 4-6: hand on chest, mouth breathing, can't breathe · _in cut_
+  - `Ailani Paneth B-Roll_1.mov` [0.5-7] — 0-7: dark night, main Ailani lying in bed eyes open staring at ceiling, can't sleep, hugging pillow; 7-8.8: turns head to camera tired
+
+**B08** — “Manage it with sprays and decongestants.”
+  - `084a5c9c3daed5db9efaf44ee48e68a1.mp4` [0-4.5] — 0-4.9: POV arm (lilac sleeve) sprays small yellow-label bottle over leopard-print blanket and pink-pillow bed
+  - `ad4c118d1f9e7a9f8cf92b6ed2b8beb4.mp4` [0-4.5] — 0-4.9: POV hand sprays pink bottle across green floral bedspread & pillows
+  - `Woman_taking_pill_drinking_water_202608042344.mp4` [0-4] — 0-4: woman 45 (curly blonde, plum sweater) on couch puts pill in mouth, drinks water · _in cut_
+  - `97b947edca4591e5a59f908422b6de58.mp4` [0-4.5] — 0-4.9: arm sprays red/green aerosol (allergen spray) across white bed & pillows, sweeping left→right · _in cut_
+  - `9a8bb1beecf9d6c7050cde458ae75b0c.mp4` [0-4.5] — 0-4.9: POV hand sprays dark red amber spray bottle over cream rumpled sheets & pillows
+  - `Acacia Ellison B-Roll_12.mov` [0-4.5] — 0-2: blonde woman (navy tee) holds generic spray bottle left & green card right, comparing; 2-3: lifts card toward camera; 3-4: sets spray down/tosses
+
+**B09** — “She's spent hundreds and nothing has fixed it.”
+  - `Ailani Paneth B-Roll_21.mov` [0-5.5] — 0-5.7: under-sink cabinet full of cleaning sprays/bottles, slow pan right · _in cut_
+  - `Claire Fisher B-Roll_5.mov` [0-5] — 0-8.5: red caddy overflowing with cleaning sprays (Clorox, Lysol, Febreze), hand rummaging, finger points
+  - `Fionnuala Kennedy B-Roll_9.mov` [0-5] — 0-1.5: Clorox wipes, Tuff Stuff can; 1.5-5.5: pan across cluttered shelf of cleaning sprays (Febreze, Lysol etc.) · _in cut_
+  - `Claire Fisher B-Roll_1.mov` [2-9] — 0-2: hand opens white under-sink cabinet; 2-10.7: cabinet packed with cleaning products, pans
+  - `Lynch B-Roll_31.mov` [0-5; 5-7 forehead rub] — 0-5: Lynch (auburn hair, black glasses, navy shirt) sits on bed reading CaptureCard box, focused; 5-6: rubs forehead (tired/stressed); 6-10.5: continu
+  - `hf_20260823_155438_8f2c85de-4fe2-4a5e-aedf-b5353f0ee125.mp4` [0-5] — 0-5: woman 40s (dark hair, grey tank) vacuums bare white mattress with handheld vacuum, focused
+
+**B10** — “Then she learns what's actually living inside her mattress.”
+  - `hf_20260720_124802_c8474691-045b-4c19-bd54-a5bdd11d54e2.mp4` [0-10] — 0-3: clean white bed in grey room, slow push; 3-5: hole opens in mattress surface; 5-10: dive into dark interior with large grey mites in fibers
+  - `Woman_discovers_dust_mites_in_202608020605.mp4` [0-6] — 0-2: woman 40s (grey sweater) sits in dark bed, hand to face, tired; 2-5.5: looks down at duvet, worried; 5.5-8: push to duvet texture showing fuzzy f
+  - `Dust_mites_inside_mattress_layers_202608191951.mp4` [0-4] — 0-1.5: cutaway mattress cross-section with many tan mites inside amber foam; 1.5-2.2: push into foam; 2.2-4: macro inside fibers, mites crawling among · _in cut_
+  - `Alan Choi B-Roll_19.mov` [18-30 (card image)] — 0-42: laptop scrolling a long advertorial/article page with images (mites, bedroom, card on mattress glowing), hand on trackpad
+  - `Alan Choi B-Roll_20.mov` [0-16] — 0-16: laptop screen showing advertorial "6 Reasons People Are Switching to CaptureCards" with photo grid; finger points/scrolls at items
+  - `Fionnuala Kennedy B-Roll_33.mov` [5-8] — 0-5: blonde-grey woman (yellow top, white jeans, barefoot) lifts lid of a floral storage bench/ottoman, looks inside; 5-8: covers mouth/nose with hand
+
+**B11** — “Not on the sheets. Not on the surface. Deep inside the foam where nothing she's tried has ever reached.”
+  - `Woman_washing_and_making_bed_202608020713.mp4` [0-8] — 0-3: woman smooths white sheet over mattress whose cutaway shows mite-filled foam; 3-6: sheet covers it; 6-8: cutaway foam below clean sheet
+  - `Dust_mites_in_mattress_fibers_202608020621.mp4` [0-8] — 0-8: inside mattress: olive/cream foam chunks and dark fibers, pale mites crawling through, slow forward dolly
+  - `Dust_mites_inside_mattress_layers_202608191951.mp4` [0-4] — 0-1.5: cutaway mattress cross-section with many tan mites inside amber foam; 1.5-2.2: push into foam; 2.2-4: macro inside fibers, mites crawling among · _in cut_
+  - `Generate_video_dust_mites_moving_202608010256.mp4` [0-6] — 0-6: dark charcoal foam/sponge cells with many pale mites crawling in and out of pores
+  - `hf_20260820_080738_52a1f2a1-4711-46b4-a09b-b871f14be259.mp4` [0-5] — 0-5: beige foam pores (mattress foam interior), several mites crawling in and out of holes, wisps of dust · _in cut_
+  - `hf_20260807_022405_6be555a4-ac3e-4f2b-8cf7-7b629f2a8f49.mp4` [0-8] — 0-2: low cross-section of mattress foam layers with dusty debris below; 2-4: camera rises; 4-8: teal card revealed on mattress top above foam layers · _in cut_
+
+**B12** — “A colony of dust mites, tens of thousands to millions of them, feeding on the dead skin she sheds every night.”
+  - `hf_20260820_091930_2faee368-c9a7-462d-b205-cfe3626d8517.mp4` [0-5] — 0-5: dense crowd of tan dust mites crawling among pale fabric fibers, backlit microscope look, swarm
+  - `Microscopic_dust_mites_in_mattress_202608191226.mp4` [0-6] — 0-6: dense cream mites crawling in dusty dark fibers, one passes close to lens (soft foreground), SEM-like
+  - `Dust_mite_feeding_on_skin_202607302025.mp4` [0-4] — 0-4: single golden-tan dust mite (8 legs, no eyes, SEM look) on skin-flake surface, slight leg movement, dark bg · _in cut_
+  - `b3 (1).mp4` [0-5] — 0-2: woman (curly, blue tee) smooths clean white bed at night; 2-3.5: walks away, bed; 3.5-5: mattress cutaway glows blue revealing mites in fibers in
+  - `hf_20260820_090306_1413f3da-c2fd-4737-a391-090661464cfd.mp4` [0-5] — 0-1.6: one tan mite walking on cream yarn fibers; 1.6-5: push in to cluster of mites nestled in yarn twists · _in cut_
+  - `close-up-view-of-multiple-dust-mites-crawling-on-f-2026-05-14-02-18-40` [5-14] — 0-16: navy fabric folds, pale teal mites crawling in groups, slow drift
+
+**B13** — “Right there, inches from her face, for eight hours straight.”
+  - `Camera_zooms_into_sleeping_woman_202608100619.mp4` [0-6] — 0-1.5: woman 45 (dark hair, black tee) asleep on white pillow; 1.5-2.6: push into pillow surface; 2.6-6: macro inside pillow fibers, tan mites crawlin
+  - `bait doesn't work 03.mp4` [0-5] — 0-5: woman asleep in dark blue bedroom, pillow & mattress cutaway reveal dense mite-laden fibers beneath her, breath wisps · _in cut_
+  - `hf_20260810_073507_f93700fb-3c71-4292-be2e-a246c8ae59a6.mp4` [0-5] — 0-5: woman sleeping face close on pillow, floating spiky allergen particles drift over face/nose · _in cut_
+  - `WMZVhc8baHbm7dqmA7Aca_minimax-h3.mp4` [0-5 (crop center-left)] — 0-5: horizontal: woman sleeping in bed at night (left), mattress shown as layered cutaway with dark dots (mites) through foam layers; slow drift
+  - `Woman_sleeping_nasal_cavity_cutaway_202608060738.mp4` [0-6] — 0-1.5: woman 40s (curly hair) asleep, night window; 1.5-2.2: push to face; 2.2-6: X-ray overlay of nasal cavity, blue airflow lines, red swollen nostr · _in cut_
+  - `Ailani Paneth B-Roll_1.mov` [0.5-7] — 0-7: dark night, main Ailani lying in bed eyes open staring at ceiling, can't sleep, hugging pillow; 7-8.8: turns head to camera tired
+
+**B14** — “And nobody told her this?”
+  - `Fionnuala Kennedy B-Roll_33.mov` [5-8] — 0-5: blonde-grey woman (yellow top, white jeans, barefoot) lifts lid of a floral storage bench/ottoman, looks inside; 5-8: covers mouth/nose with hand
+  - `Acacia Ellison B-Roll_6.mov` [0-3.2] — 0-3.2: living room: blonde woman (navy tee, cream pants) stands showing box/card to skeptical man seated arms-crossed in leather chair
+  - `Ailani Paneth B-Roll_25.mov` [0.5-4; 5.5-9] — 0-4: curly woman (floral PJ) kneels at grey bed-skirt, slides card under mattress; 4-5: holds phone; 5-8: looks at purple phone, grimace/skeptical squ
+  - `Charlotte Fischer B-Roll_25.mov` [0-1.0] — 0-1: curly-haired woman 50s (glasses, brown halter) holds teal card pouch beside face, skeptical/knowing look at camera
+  - `Jules B-Roll_9.mp4` [12-16 gesture] — 0-25: over-shoulder close: Jules scrolling/typing on phone, gestures w/ hand at 14s (confused/explaining), skeptical expressions
+  - `Acacia Ellison B-Roll_8.mov` [0-4.5] — 0-4.5: Acacia stuffs/zips grey pillow into case beside bed while man stands arms crossed in doorway watching (skeptical)
+
+**B15** — “Not the allergist, not the GP, not the pharmacist, nobody.”
+  - `Fionnuala Kennedy B-Roll_22.mov` [1-8] — 0-9.6: close: hand writing on paper form beside open binder on wood table · _in cut_
+  - `nasal sprey.mp4` [0-5] — 0-5: close-up woman (40s blonde, eyes closed, sage tee) presses one nostril, sprays nasal spray in other; tiny head movement · _in cut_
+  - `Ailani Paneth B-Roll_1.mov` [0.5-7] — 0-7: dark night, main Ailani lying in bed eyes open staring at ceiling, can't sleep, hugging pillow; 7-8.8: turns head to camera tired
+  - `b1.mp4` [0-4] — 0-1.5: blue-lit fiber tunnel with tan mites; 1.5-4: push down into glowing blue tunnel deep inside foam, mites on walls · _in cut_
+  - `b3 (1).mp4` [0-5] — 0-2: woman (curly, blue tee) smooths clean white bed at night; 2-3.5: walks away, bed; 3.5-5: mattress cutaway glows blue revealing mites in fibers in
+  - `b4.mp4` [0-5] — 0-1.4: woman vacuums mattress top while cutaway shows mites inside; 1.4-2.6: spray bottle misting on nightstand; 2.6-5: vacuuming, cutaway mites unaff
+
+**B16** — “They all treated what they could see — her nose, her sinuses, her breathing.”
+  - `hf_20260902_214429_d712d36c-4c3d-47a5-b577-f1fdc3b5ff94.mp4` [0-6] — 0-6: glowing x-ray style side profile of nose, red swollen inflamed turbinates, blue air streams trying to pass, particles drifting in; dark navy bg;  · _in cut_
+  - `Woman_sleeping_nasal_cavity_cutaway_202608060738.mp4` [0-6] — 0-1.5: woman 40s (curly hair) asleep, night window; 1.5-2.2: push to face; 2.2-6: X-ray overlay of nasal cavity, blue airflow lines, red swollen nostr · _in cut_
+  - `bait doesn't work 04.mp4` [0-6] — 0-6: woman asleep, pillow cutaway full of mites beside face, red glowing nose & lungs overlay (allergen inhaled) · _in cut_
+  - `hf_20260810_073507_f93700fb-3c71-4292-be2e-a246c8ae59a6.mp4` [0-5] — 0-5: woman sleeping face close on pillow, floating spiky allergen particles drift over face/nose · _in cut_
+  - `hf_20260807_035926_551404b3-2f2e-4be7-b2a6-cbef5233075e.mp4` [0-6] — 0-1.5: woman asleep, breath wisps over pillow; 1.5-3: push to pillow; 3-6: pillow fibers full of pale mites
+  - `hf_20260821_054604_abc8c70d-e01c-41df-a1fe-15d63ac899b8.mp4` [0-6] — 0-1: woman 40 (messy bun, blue tank) sneezes hard; 1-3.5: wipes nose with tissue, pained; 3.5-6: lowers tissue, looks around worried/confused · _in cut_
+
+**B17** — “But the congestion was never the whole problem.”
+  - `Claire Fisher B-Roll_29.mov` [2-7] — 0-2: older man (white hair, glasses) at kitchen island; 2-7.6: grabs tissue, blows nose, sniffles
+  - `Dust mites, proteins, sneezing.mov` [0-6.4] — 0-1: white pillow; 1-3.5: push into fibers, mites crawling; 3.5-4.5: mite releases bubbles (allergen proteins); 4.5-6.4: protein particles float towar
+  - `woman-blowing-nose-while-lying-on-couch-2025-12-17-13-14-03-utc.mov` [3-12] — 0-15: young dark-haired woman lies on beige couch with grey knit throw, blows nose, sneezes, tired
+  - `Wren Presley B-Roll_13.mov` [0.3-8] — 0-5: close: Wren sitting up in bed blowing nose into tissue, eyes squeezed; 5-8: lowers tissue, sniffles, squints; 8-10.8: miserable stare · _in cut_
+  - `Jules B-Roll_11.mp4` [0-6.8] — 0-2: Jules in floral pajamas sitting up in white bed, head down, rubbing face/nose; 2-4: looks up groggy; 4-7: hand to nose/mouth, sniffly, tired; 7-1
+  - `Ailani Paneth B-Roll_1.mov` [0.5-7] — 0-7: dark night, main Ailani lying in bed eyes open staring at ceiling, can't sleep, hugging pillow; 7-8.8: turns head to camera tired
+
+**B18** — “The congestion was the symptom.”
+  - `Dust mites, proteins, sneezing.mov` [0-6.4] — 0-1: white pillow; 1-3.5: push into fibers, mites crawling; 3.5-4.5: mite releases bubbles (allergen proteins); 4.5-6.4: protein particles float towar
+  - `Dust_mite_leaving_droppings_202608221732.mp4` [0-6] — 0-6: mites crawling on grey-beige rope fibers, one leaves tiny pellets
+  - `hf_20260810_073507_f93700fb-3c71-4292-be2e-a246c8ae59a6.mp4` [0-5] — 0-5: woman sleeping face close on pillow, floating spiky allergen particles drift over face/nose · _in cut_
+  - `bait doesn't work 04.mp4` [0-6] — 0-6: woman asleep, pillow cutaway full of mites beside face, red glowing nose & lungs overlay (allergen inhaled) · _in cut_
+  - `Claire Fisher B-Roll_27.mov` [2-6] — 0-2: older man (white hair, navy tee) standing by bed; 2-6.8: sneezes into hands, bent over
+  - `Fionnuala Kennedy B-Roll_22.mov` [1-8] — 0-9.6: close: hand writing on paper form beside open binder on wood table · _in cut_
+
+**B19** — “Every night she slept, her face was inches from the densest concentration of dust-mite allergen in her home.”
+  - `hf_20260807_035926_551404b3-2f2e-4be7-b2a6-cbef5233075e.mp4` [0-6] — 0-1.5: woman asleep, breath wisps over pillow; 1.5-3: push to pillow; 3-6: pillow fibers full of pale mites
+  - `hf_20260810_073507_f93700fb-3c71-4292-be2e-a246c8ae59a6.mp4` [0-5] — 0-5: woman sleeping face close on pillow, floating spiky allergen particles drift over face/nose · _in cut_
+  - `Woman_sleeping_nasal_cavity_cutaway_202608060738.mp4` [0-6] — 0-1.5: woman 40s (curly hair) asleep, night window; 1.5-2.2: push to face; 2.2-6: X-ray overlay of nasal cavity, blue airflow lines, red swollen nostr · _in cut_
+  - `bait doesn't work 04.mp4` [0-6] — 0-6: woman asleep, pillow cutaway full of mites beside face, red glowing nose & lungs overlay (allergen inhaled) · _in cut_
+  - `Camera_zooms_into_sleeping_woman_202608100619.mp4` [0-6] — 0-1.5: woman 45 (dark hair, black tee) asleep on white pillow; 1.5-2.6: push into pillow surface; 2.6-6: macro inside pillow fibers, tan mites crawlin
+  - `Woman_sleeping_with_nasal_obstru…_202608071725.mp4` [0-6] — 0-6: woman 40s asleep on pillow, lamp-lit, X-ray overlay of nasal passage with whitish blockage/airflow wisps, mouth slightly open
+
+**B20** — “Eight hours a night.”
+  - `hf_20260807_104641_2ff7cbef-3b76-4f65-a1c2-a899b79a229a.mp4` [0.5-4] — 0-4: dim bedroom, lamp on, woman asleep in bed under grey quilt, slow dolly past bedpost
+  - `woman-sleeping-soundly-in-her-bed-at-night-2025-12-17-23-54-41-utc.mov` [2-14] — 0-16.7: woman asleep under white duvet, blue moonlight, plant edge
+  - `Ailani Paneth B-Roll_1.mov` [0.5-7] — 0-7: dark night, main Ailani lying in bed eyes open staring at ceiling, can't sleep, hugging pillow; 7-8.8: turns head to camera tired
+  - `4393a7a85cca8ce936a82b3341f23b98.mp4` [0-4.9] — 0-4.9: close: woman (dark curly hair) asleep, face half buried in white duvet, warm light, gentle camera drift
+  - `bait doesn't work 04.mp4` [0-6] — 0-6: woman asleep, pillow cutaway full of mites beside face, red glowing nose & lungs overlay (allergen inhaled) · _in cut_
+  - `Camera_zooms_into_sleeping_woman_202608100619.mp4` [0-6] — 0-1.5: woman 45 (dark hair, black tee) asleep on white pillow; 1.5-2.6: push into pillow surface; 2.6-6: macro inside pillow fibers, tan mites crawlin
+
+**B21** — “Thousands of nights over five years.”
+  - `woman-lying-in-bed-covers-eyes-2025-12-17-23-46-34-utc.mov` [3-12] — 0-18: woman lying in bed, arm over eyes, red alarm clock foreground · _in cut_
+  - `Ailani Paneth B-Roll_1.mov` [0.5-7] — 0-7: dark night, main Ailani lying in bed eyes open staring at ceiling, can't sleep, hugging pillow; 7-8.8: turns head to camera tired
+  - `b1.mp4` [0-4] — 0-1.5: blue-lit fiber tunnel with tan mites; 1.5-4: push down into glowing blue tunnel deep inside foam, mites on walls · _in cut_
+  - `b3 (1).mp4` [0-5] — 0-2: woman (curly, blue tee) smooths clean white bed at night; 2-3.5: walks away, bed; 3.5-5: mattress cutaway glows blue revealing mites in fibers in
+  - `b4.mp4` [0-5] — 0-1.4: woman vacuums mattress top while cutaway shows mites inside; 1.4-2.6: spray bottle misting on nightstand; 2.6-5: vacuuming, cutaway mites unaff
+  - `bait doesn't work 04.mp4` [0-6] — 0-6: woman asleep, pillow cutaway full of mites beside face, red glowing nose & lungs overlay (allergen inhaled) · _in cut_
+
+**B22** — “Her sinuses were never the problem.”
+  - `hf_20260902_214429_d712d36c-4c3d-47a5-b577-f1fdc3b5ff94.mp4` [0-6] — 0-6: glowing x-ray style side profile of nose, red swollen inflamed turbinates, blue air streams trying to pass, particles drifting in; dark navy bg;  · _in cut_
+  - `Woman_sleeping_nasal_cavity_cutaway_202608060738.mp4` [0-6] — 0-1.5: woman 40s (curly hair) asleep, night window; 1.5-2.2: push to face; 2.2-6: X-ray overlay of nasal cavity, blue airflow lines, red swollen nostr · _in cut_
+  - `Ailani Paneth B-Roll_1.mov` [0.5-7] — 0-7: dark night, main Ailani lying in bed eyes open staring at ceiling, can't sleep, hugging pillow; 7-8.8: turns head to camera tired
+  - `b1.mp4` [0-4] — 0-1.5: blue-lit fiber tunnel with tan mites; 1.5-4: push down into glowing blue tunnel deep inside foam, mites on walls · _in cut_
+  - `b3 (1).mp4` [0-5] — 0-2: woman (curly, blue tee) smooths clean white bed at night; 2-3.5: walks away, bed; 3.5-5: mattress cutaway glows blue revealing mites in fibers in
+  - `b4.mp4` [0-5] — 0-1.4: woman vacuums mattress top while cutaway shows mites inside; 1.4-2.6: spray bottle misting on nightstand; 2.6-5: vacuuming, cutaway mites unaff
+
+_B23–B42 (lure, lab, card, CTA): see the PRODUCT / MECHANISM / LAB / CTA sections below._
+
+## Full clip atlas
+
+Columns: status · duration · resolution · folder · second-by-second beats · product · mites · person · best window · script use
+
+### People / symptoms / routine (180)
+
+- ✅ **0710_1 (1).mp4** — 2.51s 1080x1920 · root
+  - beats: 0-0.7: young brunette lying in bed under grey duvet, grimacing awake; 0.7-2.5: cut to hand stirring white bedding soaking in bathtub water
+  - product: none · mites: none · person: young woman · framing: vertical, 1 cut
+  - best: 0.8-2.5 wash · use: waking + "hot wash" · notes: ✅
+- ✅ **0710_1.mp4** — 1.51s 1080x1920 · root
+  - beats: 0-1.5: young woman (20s, blue striped pajama shirt) sitting in bed stretches arm up, yawns, hand to forehead — groggy wake
+  - product: none · mites: none · person: young woman · framing: vertical
+  - best: 0-1.5 · use: "groggy mornings", waking tired · notes: ✅ (young)
+- ✅ **0710_1_1.mp4** — 2.79s 1080x1920 · root
+  - beats: 0-2.7: hand stirs white bedding soaking in bathtub water with wooden spoon (hot soak)
+  - product: none · mites: none · person: hand · framing: vertical
+  - best: 0-2.6 · use: "washing bedding in hot water", what she tried · notes: ✅
+- ✅ **0710_1_2.mp4** — 2.65s 1080x1920 · root
+  - beats: 0-2: dark-haired woman (black tee) bent over bathtub hand-washing white bedding in water; 2-2.7: leans in closer
+  - product: none · mites: none · person: young woman · framing: vertical
+  - best: 0-2 · use: "washing bedding in hot water", what she tried · notes: ✅
+- ✅ **0710_1_5.mp4** — 3.53s 1080x1920 · root
+  - beats: 0-1.5: young woman (striped tee) sitting on bed stretches arms up, happy; 1.5-3.5: arms down, smiling content
+  - product: none · mites: none · person: young woman 20s · framing: vertical
+  - best: 0-2 · use: "wake refreshed" · notes: ✅ (young)
+- ✅ **0710_1_6.mp4** — 4.76s 1080x1920 · root
+  - beats: 0-4.8: woman (black off-shoulder tee, denim skirt) strips white duvet/sheets off bed in hotel-like room, tossing
+  - product: none · mites: none · person: woman 30s · framing: vertical
+  - best: 0-4.5 · use: "changes sheets constantly", stripping bed · notes: ✅
+- ✅ **0723.mp4** — 2.86s 1080x1920 · root
+  - beats: 0-1.8: hand zips/unzips green mattress cover (white piping) on navy mattress; 1.8-2.9: view of green cover over pink mattress
+  - product: none · mites: none · person: hand · framing: vertical
+  - best: 0-1.8 · use: "encasement covers", what she tried · notes: ✅
+- ✅ **4393a7a85cca8ce936a82b3341f23b98.mp4** — 4.92s 576x1024 · root
+  - beats: 0-4.9: close: woman (dark curly hair) asleep, face half buried in white duvet, warm light, gentle camera drift
+  - product: none · mites: none · person: woman sleeping · framing: vertical 576x1024
+  - best: 0-4.9 · use: "every night she slept", "face inches from", sleeping close-up · notes: ✅
+- ✅ **97b947edca4591e5a59f908422b6de58.mp4** — 4.92s 576x1024 · root · **in cut as c149.mp4**
+  - beats: 0-4.9: arm sprays red/green aerosol (allergen spray) across white bed & pillows, sweeping left→right
+  - product: 3rd-party spray (= c149 in cut B38) · mites: none · person: arm · framing: vertical 576x1024
+  - best: 0-4.5 · use: "sprayed the mattress", "surface treatments", what she tried · notes: ✅
+- ✅ **9a8bb1beecf9d6c7050cde458ae75b0c.mp4** — 4.92s 576x1024 · root
+  - beats: 0-4.9: POV hand sprays dark red amber spray bottle over cream rumpled sheets & pillows
+  - product: 3rd-party spray · mites: none · person: hand · framing: vertical 576x1024
+  - best: 0-4.5 · use: "spraying the bed", surface treatment · notes: ✅
+- ✅ **Acacia Ellison B-Roll_14.mov** — 14.54s 2160x3840 · Product&people/root · **in cut as c127.mp4**
+  - beats: identical to "(1)"
+  - product: same · mites: none · person: hands · framing: —
+  - best: 0-6 · use: comparison · notes: dup
+- ✅ **Acacia Ellison B-Roll_8.mov** — 4.52s 2160x3840 · Product&people/root
+  - beats: 0-4.5: Acacia stuffs/zips grey pillow into case beside bed while man stands arms crossed in doorway watching (skeptical)
+  - product: card (in hand at 0.3) · mites: none · person: Acacia + man · framing: vertical 4K static
+  - best: 0-4.5 · use: "husband skeptical", bedding change, couple · notes: ✅
+- ✅ **ad4c118d1f9e7a9f8cf92b6ed2b8beb4.mp4** — 4.92s 576x1024 · root
+  - beats: 0-4.9: POV hand sprays pink bottle across green floral bedspread & pillows
+  - product: 3rd-party spray · mites: none · person: hand · framing: vertical 576x1024
+  - best: 0-4.5 · use: "sprays", surface fix · notes: ✅
+- ✅ **Ailani Paneth B-Roll_1.mov** — 8.8s 2160x3840 · root
+  - beats: 0-7: dark night, main Ailani lying in bed eyes open staring at ceiling, can't sleep, hugging pillow; 7-8.8: turns head to camera tired
+  - product: none · mites: none · person: Ailani main · framing: vertical 4K low-light
+  - best: 0.5-7 · use: "can't breathe at night", "lying awake", insomnia, "eight hours" · notes: ✅ STRONG
+- ✅ **Ailani Paneth B-Roll_19.mov** — 2.53s 2160x3840 · Product&people/root
+  - beats: 0-2.5: overhead: dark-haired woman (blue hoodie, black track pants w/ white stripes) flops back onto grey bed, arms spread, exhausted/relieved
+  - product: none · mites: none · person: Ailani-set younger brunette (not main Ailani) · framing: vertical 4K, static top
+  - best: 0-2.5 · use: "exhausted", "collapse into bed", "tired of it" · notes: ✅
+- ✅ **Ailani Paneth B-Roll_20.mov** — 12.8s 2160x3840 · Product&people/root · **in cut as Ailani_Paneth_B-Roll_20.mov**
+  - beats: 0-1.5: empty bed (wood headboard, lamps on); 1.5-3: brunette (blue hoodie, track pants) sits then flops backward onto bed; 3-7: lies sprawled, exhausted; 7-9: rolls off; 9-12.8: empty bed
+  - product: none · mites: none · person: young brunette · framing: vertical 4K static
+  - best: 0-1.3 empty; 2-7 flop · use: "exhausted", "collapse", empty bed est · notes: ✅ (USED B02 0-1.2 empty)
+- ✅ **Ailani Paneth B-Roll_21.mov** — 5.7s 2160x3840 · root · **in cut as c189.mp4**
+  - beats: 0-5.7: under-sink cabinet full of cleaning sprays/bottles, slow pan right
+  - product: products · mites: none · person: none · framing: vertical 4K
+  - best: 0-5.5 · use: "spent hundreds on products", cupboard of failures · notes: ✅
+- ✅ **Ailani Paneth B-Roll_22.mov** — 4.87s 2160x3840 · root
+  - beats: 0-1.8: red-trigger spray bottle next to open black trash can on kitchen counter; 1.8-2.6: hand tosses spray bottle into trash; 2.6-4.9: trash can lid closing
+  - product: generic spray · mites: none · person: hand · framing: vertical 4K
+  - best: 0.5-3 · use: "ditched the sprays", "throw it out", done with old solutions · notes: ✅
+- ✅ **Alan Choi B-Roll_12.mov** — 10.9s 2160x3840 · Product&people/root
+  - beats: 0-2: man (bleached hair, tattoos) asleep under brown duvet; 2-6: wakes, stretches, smiling; 6-9: sits up energized; 9-10.9: jumps out of bed
+  - product: none · mites: none · person: Alan (man) · framing: vertical 4K static
+  - best: 2-9 · use: "wake up refreshed" (male) · notes: ✅ (male)
+- ✅ **Alan Choi B-Roll_13.mov** — 19.07s 2160x3840 · Product&people/root
+  - beats: 0-2: empty brown-duvet bed; 2-10: man flops onto bed, starfish, relaxed; 10-14: kneels up, arms wide happy; 14-19: lies back content
+  - product: none · mites: none · person: Alan (male) · framing: vertical 4K static
+  - best: 12-15 · use: "finally rested", joy (male) · notes: ✅ (male)
+- ✅ **All_middle_aged_women_rediscovering_themselves....mp4** — 4.91s 720x1280 · root
+  - beats: 0-4.9: woman (40s, dark hair) lying on sage pillow talks to camera, exasperated/laughing, rubs temple, tired eyes
+  - product: none · mites: none · person: woman 40s · framing: vertical 720x1280 selfie
+  - best: 0-4.9 · use: "exhausted", "worn down", "I'm so tired" · notes: ✅ expressive
+  - speech: [0.2-4.2] I'm on a bit of a self-discovery.
+- ✅ **b3 (1).mp4** — 5.09s 1080x1920 · root
+  - beats: 0-2: woman (curly, blue tee) smooths clean white bed at night; 2-3.5: walks away, bed; 3.5-5: mattress cutaway glows blue revealing mites in fibers inside
+  - product: none · mites: tan mites inside · person: AI curly woman · framing: vertical, cuts
+  - best: 0-5 · use: "clean on the surface, colony inside" (B11) · notes: ✅ STRONG
+- ✅ **b4.mp4** — 5.09s 1080x1920 · root
+  - beats: 0-1.4: woman vacuums mattress top while cutaway shows mites inside; 1.4-2.6: spray bottle misting on nightstand; 2.6-5: vacuuming, cutaway mites unaffected
+  - product: none · mites: mites inside · person: AI curly woman · framing: vertical, cuts
+  - best: 0-5 · use: "nothing she's tried has ever reached" (B11/B09) · notes: ✅ STRONG
+- ✅ **bait doesn't work 03.mp4** — 5.04s 1080x1916 · DustMites/root · **in cut as c308.mp4**
+  - beats: 0-5: woman asleep in dark blue bedroom, pillow & mattress cutaway reveal dense mite-laden fibers beneath her, breath wisps
+  - product: none · mites: mites in fibers · person: AI woman · framing: vertical
+  - best: 0-5 · use: "inches from her face, eight hours" (B13/B19) · notes: ✅ (name misleading; visuals fine)
+- ✅ **bait doesn't work 04.mp4** — 6.04s 1176x1764 · DustMites/root · **in cut as c320.mp4**
+  - beats: 0-6: woman asleep, pillow cutaway full of mites beside face, red glowing nose & lungs overlay (allergen inhaled)
+  - product: none · mites: mites in pillow · person: AI woman · framing: vertical 1176x1764
+  - best: 0-6 · use: "breathing it in all night", "face inches from" (B13/B19/B21) · notes: ✅ STRONG
+- ✅ **Camera_zooms_into_sleeping_woman_202608100619 (1).mp4** — 6.02s 720x1280 · root
+  - beats: dup of Camera_zooms_into_sleeping_woman (non-(1))
+  - product: — · mites: — · person: — · framing: —
+  - best: 0-6 · use: inches from face · notes: dup
+- ✅ **Camera_zooms_into_sleeping_woman_202608100619.mp4** — 6.02s 720x1280 · root
+  - beats: 0-1.5: woman 45 (dark hair, black tee) asleep on white pillow; 1.5-2.6: push into pillow surface; 2.6-6: macro inside pillow fibers, tan mites crawling
+  - product: none · mites: accurate · person: AI woman sleeping · framing: vertical
+  - best: 0-6 · use: "inches from her face", "right there for eight hours" (B13) · notes: ✅ STRONG
+- ✅ **Charlotte Fischer B-Roll_13.mov** — 4.04s 1080x1920 · DustMites/root
+  - beats: same as "B-Roll_13 (1)" — identical take
+  - product: teal card · mites: none · person: hand · framing: vertical handheld
+  - best: 0.5-3.8 · use: product on bed · notes: dup
+- ✅ **Charlotte Fischer B-Roll_15.mov** — 3.85s 1080x1920 · root
+  - beats: 0-3: hand (henna-dark skin, striped knit sleeve) pressed flat on bare quilted mattress, pats; 3-3.9: pulls away
+  - product: none · mites: none · person: hand · framing: vertical
+  - best: 0-2.8 · use: "inside the mattress", touch mattress, "where nothing reached" · notes: ✅
+- ✅ **Charlotte Fischer B-Roll_21.mov** — 6.43s 2160x3840 · Product&people/root
+  - beats: 0-2: woman (short dark hair, white fluffy robe) stands in bedroom, eyes closed, relaxing; 2-5: stretches arms overhead, big happy smile; 5-6.4: arms out, content
+  - product: none · mites: none · person: Charlotte-set woman in robe · framing: vertical 4K
+  - best: 2-6 · use: "wake up refreshed", relief, "breathe again", morning win · notes: ✅
+- ✅ **Charlotte Fischer B-Roll_23.mov** — 2.48s 2160x3840 · Product&people/root
+  - beats: 0-2.5: olive sleeve arm tucks something at grey sheet/mattress edge, shaky low angle
+  - product: card hidden · mites: none · person: arm · framing: vertical 4K
+  - best: 0-2.4 · use: tuck into bed (filler) · notes: ✅ weak
+- ✅ **Claire Fisher B-Roll_1.mov** — 10.66s 2160x3840 · root
+  - beats: 0-2: hand opens white under-sink cabinet; 2-10.7: cabinet packed with cleaning products, pans
+  - product: products · mites: none · person: hand · framing: vertical 4K
+  - best: 2-9 · use: "spent hundreds", product clutter · notes: ✅
+- ✅ **Claire Fisher B-Roll_15.mov** — 11.38s 2160x3840 · root
+  - beats: 0-11.4: hands stuff white pillow into navy pillowcase (changing pillowcase)
+  - product: none · mites: none · person: hands · framing: vertical 4K
+  - best: 1-7 · use: "changed pillowcases", routine · notes: ✅
+- ✅ **Claire Fisher B-Roll_17.mov** — 11.2s 2160x3840 · root
+  - beats: 0-11.2: handheld vacuum hose head vacuuming bare quilted white mattress top, close
+  - product: none · mites: none · person: hand · framing: vertical 4K
+  - best: 2-9 · use: "vacuumed the mattress" (surface) · notes: ✅
+- ✅ **Claire Fisher B-Roll_18.mov** — 8.56s 2160x3840 · root
+  - beats: 0-4: hands pull grey fitted sheet off mattress corner; 4-8.6: reveals bare blue quilted mattress top
+  - product: none · mites: none · person: hands · framing: vertical 4K
+  - best: 4-8.5 · use: "what's underneath the sheets", reveal mattress, "not on the sheets" · notes: ✅
+- ✅ **Claire Fisher B-Roll_27.mov** — 6.76s 2160x3840 · root
+  - beats: 0-2: older man (white hair, navy tee) standing by bed; 2-6.8: sneezes into hands, bent over
+  - product: none · mites: none · person: older man · framing: vertical 4K
+  - best: 2-6 · use: "sneezing", symptom (male) · notes: ✅ (male)
+- ✅ **Claire Fisher B-Roll_29.mov** — 7.57s 2160x3840 · root
+  - beats: 0-2: older man (white hair, glasses) at kitchen island; 2-7.6: grabs tissue, blows nose, sniffles
+  - product: tissue box · mites: none · person: older man · framing: vertical 4K
+  - best: 2-7 · use: congestion (male) · notes: ✅ (male)
+- ✅ **Claire Fisher B-Roll_5.mov** — 8.47s 2160x3840 · root
+  - beats: 0-8.5: red caddy overflowing with cleaning sprays (Clorox, Lysol, Febreze), hand rummaging, finger points
+  - product: products · mites: none · person: hands · framing: vertical 4K
+  - best: 0-5 · use: "spent hundreds", "tried everything" · notes: ✅
+- ✅ **Cleaning_and_maintaining_mattres…_202608221746.mp4** — 6.02s 720x1280 · Product&people/root
+  - beats: 0-1.5: POV hands vacuum mattress with handheld vacuum; 1.5-2.5: wipe with cloth; 2.5-3.2: holds two spray bottles; 3.2-4.5: stretch fitted sheet over mattress; 4.5-6: holds two air purifier filters
+  - product: cleaning products · mites: none · person: POV hands · framing: vertical POV, internal cuts ~1s
+  - best: any 1s piece · use: "she cleaned everything", "vacuumed, sprayed, washed, nothing worked", routine montage · notes: ✅
+- ✅ **dust-mite cover around the mattress .mov** — 8.0s 1080x1920 · DustMites
+  - beats: 0-2: hand zips white mattress encasement; 2-4: camera dives through cover; 4-8: macro mites in fibers under cover
+  - product: none · mites: accurate · person: hand · framing: vertical
+  - best: 0-8 · use: "covers don't stop what's inside" (B11) · notes: ✅
+- ✅ **fa211386fe6f98c439527184a9d96006.mp4** — 4.92s 576x1024 · root
+  - beats: 0-2: woman on grey couch, head in hand, stressed; 2-3.8: woman sitting on floor by tall window, head on knees (despair); 3.8-4.9: young blonde on couch hugging knees, sad
+  - product: none · mites: none · person: 3 different young women · framing: vertical 576x1024, 3 cuts
+  - best: 0-2 · use: "stress", "frustrated", "nothing fixed it" · notes: ✅
+- ✅ **Fionnuala Kennedy B-Roll_10.mov** — 10.2s 1080x1920 · root · **in cut as c215.mp4**
+  - beats: 0-3: Fionnuala (glasses, floral sleeveless) opens white pill bottle at wood table; 3-10: drinks from paper cup, swallows pill
+  - product: pill bottle · mites: none · person: Fionnuala · framing: vertical static
+  - best: 0-7 · use: "antihistamines", "taking pills daily" · notes: ✅
+- ✅ **Fionnuala Kennedy B-Roll_19.mov** — 4.85s 1080x1920 · Product&people/root
+  - beats: 0-1.5: camera blur as woman walks into frame; 1.5-4.8: woman (long brown hair, floral sleeveless top, white pants) from behind pulls open red/white curtains, sunlight floods in
+  - product: none · mites: none · person: Fionnuala from behind · framing: vertical
+  - best: 2-4.8 · use: "morning", "new day", "fresh start", relief · notes: ✅
+- ✅ **Fionnuala Kennedy B-Roll_2.mov** — 5.4s 1080x1920 · root · **in cut as c185.mp4**
+  - beats: 0-2.5: hands stuff white sheets into front-load washer drum; 2.5-5.4: shut door, drum view
+  - product: none · mites: none · person: hands (pink sleeve) · framing: vertical
+  - best: 0-5 · use: "washed sheets in hot water" · notes: ✅ (= c185 B29)
+- ✅ **Fionnuala Kennedy B-Roll_22.mov** — 9.58s 1080x1920 · root · **in cut as c216.mp4**
+  - beats: 0-9.6: close: hand writing on paper form beside open binder on wood table
+  - product: none · mites: none · person: hand · framing: vertical
+  - best: 1-8 · use: "allergist forms", doctor paperwork, tracking symptoms · notes: ✅ (= c214?)
+- ✅ **Fionnuala Kennedy B-Roll_3.mov** — 6.8s 1080x1920 · root
+  - beats: 0-6.8: cordless stick vacuum (red, LED head) vacuuming pink quilted mattress
+  - product: none · mites: none · person: hand · framing: vertical
+  - best: 0-6 · use: "vacuumed the mattress" · notes: ✅
+- ✅ **Fionnuala Kennedy B-Roll_33.mov** — 8.15s 1080x1920 · Product&people/root
+  - beats: 0-5: blonde-grey woman (yellow top, white jeans, barefoot) lifts lid of a floral storage bench/ottoman, looks inside; 5-8: covers mouth/nose with hand, shocked/disgusted expression
+  - product: none · mites: none · person: Fionnuala-set woman (blonde-grey 50s) · framing: vertical static
+  - best: 5-8 · use: "disgusted", "what's actually living in there", discovery reaction · notes: ✅ strong reaction
+- ✅ **Fionnuala Kennedy B-Roll_9.mov** — 5.5s 1080x1920 · root · **in cut as c183.mp4**
+  - beats: 0-1.5: Clorox wipes, Tuff Stuff can; 1.5-5.5: pan across cluttered shelf of cleaning sprays (Febreze, Lysol etc.)
+  - product: many cleaning products · mites: none · person: none · framing: vertical handheld
+  - best: 0-5 · use: "she's spent hundreds", tried every product · notes: ✅ (= c183 B09)
+- ✅ **hf_20260803_175442_03a9d954-1b9d-48e1-8ad6-412f234f9849.mp4** — 5.06s 496x864 · root
+  - beats: 0-1.4: tired woman 45 (dark hair) selfie close, eyes heavy; 1.4-3.2: glowing mites on dark mesh; 3.2-5: same woman asleep on pillow
+  - product: none · mites: glossy mites · person: AI woman · framing: vertical 496x864, cuts
+  - best: 0-1.4; 3.2-5 · use: "tired", "she sleeps on them" · notes: ✅
+- ✅ **hf_20260807_035926_551404b3-2f2e-4be7-b2a6-cbef5233075e.mp4** — 6.02s 720x1280 · DustMites
+  - beats: 0-1.5: woman asleep, breath wisps over pillow; 1.5-3: push to pillow; 3-6: pillow fibers full of pale mites
+  - product: none · mites: pale accurate · person: AI woman · framing: vertical
+  - best: 0-6 · use: "inches from her face", breathing it in (B13/B19) · notes: ✅ STRONG
+- ✅ **hf_20260807_103103_0aac4395-8c52-4653-a200-97f38dd16fb4.mp4** — 8.06s 496x864 · root
+  - beats: dup of "(1)"
+  - product: — · mites: — · person: — · framing: —
+  - best: — · use: — · notes: dup
+- ✅ **hf_20260807_104641_2ff7cbef-3b76-4f65-a1c2-a899b79a229a.mp4** — 4.09s 496x864 · root
+  - beats: 0-4: dim bedroom, lamp on, woman asleep in bed under grey quilt, slow dolly past bedpost
+  - product: none · mites: none · person: AI woman sleeping · framing: vertical 496x864
+  - best: 0.5-4 · use: "every night she slept", "eight hours", night · notes: ✅
+- ✅ **hf_20260810_073507_f93700fb-3c71-4292-be2e-a246c8ae59a6.mp4** — 5.06s 496x864 · root · **in cut as c295.mp4**
+  - beats: 0-5: woman sleeping face close on pillow, floating spiky allergen particles drift over face/nose
+  - product: none · mites: allergen particles (not mites) · person: AI woman · framing: vertical 496x864
+  - best: 0-5 · use: "breathing allergen all night", "inches from her face" (B13/B19) · notes: ✅ STRONG
+- ✅ **hf_20260820_075111_ed567c0e-3306-4b56-b0ae-53a74a2a88f0.mp4** — 5.01s 720x1280 · root
+  - beats: 0-1.5: woman (bun, grey tee) leans on washer next to mattress propped upright, perplexed; 1.5-3: scratches head confused; 3-5: hand on hip, wry smile (realization "can't wash a mattress")
+  - product: none · mites: none · person: AI woman 40 · framing: vertical 720x1280
+  - best: 0-5 · use: "you can't wash a mattress", "nothing she's tried reached it" · notes: ✅ STRONG concept
+- ✅ **hf_20260820_075318_e5f3af3a-054c-43d4-bb09-c057354303cc.mp4** — 5.01s 720x1280 · root
+  - beats: 0-2: woman (bun, grey sweater) stands next to upright mattress & washer, puzzled; 2-3.5: scratches head; 3.5-5: close-up, raised brows, "hmm" grimace
+  - product: none · mites: none · person: AI woman 35 · framing: vertical
+  - best: 0-5 · use: "you can't wash a mattress", confusion · notes: ✅ STRONG concept
+- ✅ **hf_20260820_183945_6f07289b-66be-422b-b108-074d0b6957bb.mp4** — 5.01s 720x1280 · root
+  - beats: identical to "(1)"
+  - product: — · mites: — · person: — · framing: —
+  - best: 0-4 · use: lure · notes: dup
+- ✅ **hf_20260821_054604_abc8c70d-e01c-41df-a1fe-15d63ac899b8.mp4** — 6.02s 720x1280 · root · **in cut as c269.mp4**
+  - beats: 0-1: woman 40 (messy bun, blue tank) sneezes hard; 1-3.5: wipes nose with tissue, pained; 3.5-6: lowers tissue, looks around worried/confused
+  - product: tissue · mites: none · person: AI woman 40 brunette · framing: vertical
+  - best: 0-6 · use: "blocked nose every morning", sneeze, "what's causing this?" · notes: ✅ STRONG
+- ✅ **hf_20260821_054813_38409857-0c03-4472-bb4c-ab11afa8049c.mp4** — 6.02s 720x1280 · root
+  - beats: 0-2: woman 40s (bob, cream sweater) touches throat, uncomfortable; 2-3.8: close-up touching face, worried/tired eyes; 3.8-6: in bedroom, hand at throat, anxious
+  - product: none · mites: none · person: AI woman bob · framing: vertical, cuts
+  - best: 0-6 · use: "feeling like she can't breathe", throat, worry (B06) · notes: ✅ STRONG
+- ✅ **hf_20260823_004413_518b7518-cfa4-4316-a129-067234f5640a.mp4** — 7.04s 720x1280 · root · **in cut as c168.mp4**
+  - beats: 0-7: older Latina woman (pink top) at bedroom mirror holds old photo of her younger self, looks from photo to reflection, sad/worried
+  - product: none · mites: none · person: AI woman 60s · framing: vertical 720x1280
+  - best: 1-6 · use: "part of getting older", "years lost", reflective · notes: ✅ (= c168 B14)
+- ✅ **hf_20260823_015454_f0a37426-7ef3-4e33-a275-c2841d5a4d04.mp4** — 4.01s 720x1280 · Product&people/root
+  - beats: identical to "(1)"
+  - product: teal card · mites: none · person: none · framing: —
+  - best: 0-4 · use: same · notes: dup
+- ✅ **hf_20260823_155438_8f2c85de-4fe2-4a5e-aedf-b5353f0ee125.mp4** — 5.04s 720x1280 · root
+  - beats: 0-5: woman 40s (dark hair, grey tank) vacuums bare white mattress with handheld vacuum, focused
+  - product: none · mites: none · person: AI woman · framing: vertical 720x1280
+  - best: 0-5 · use: "vacuumed the mattress", tried everything · notes: ✅
+- ✅ **hf_20260902_214429_d712d36c-4c3d-47a5-b577-f1fdc3b5ff94.mp4** — 6.04s 1080x1916 · DustMites/root · **in cut as c010.mp4**
+  - beats: 0-6: glowing x-ray style side profile of nose, red swollen inflamed turbinates, blue air streams trying to pass, particles drifting in; dark navy bg; slow push
+  - product: none · mites: allergen particles (not mites) · person: none · framing: vertical, slow push
+  - best: 0-6 · use: "blocked nose", "inflammation", "sinuses never the problem", "allergen reaction" · notes: ✅
+- ✅ **Jules B-Roll_10.mp4** — 10.7s 2160x3840 · Product&people
+  - beats: 0-10.7: round mirror reflection: Jules (blonde 55, mauve top, jeans) stands hands-in-pockets, slight sways, neutral/thinking, bright open-plan room
+  - product: none · mites: none · person: Jules · framing: vertical 4K static
+  - best: 1-6 · use: "let me paint you a picture", intro of her, contemplative · notes: ✅
+- ✅ **Jules B-Roll_11.mp4** — 10.54s 2160x3840 · Product&people
+  - beats: 0-2: Jules in floral pajamas sitting up in white bed, head down, rubbing face/nose; 2-4: looks up groggy; 4-7: hand to nose/mouth, sniffly, tired; 7-10.5: black dog jumps onto bed beside her
+  - product: none · mites: none · person: Jules · framing: vertical 4K static
+  - best: 0-6.8 · use: "waking up blocked", "every single morning", groggy · notes: ✅ STRONG groggy-morning symptom (cut before dog)
+- ✅ **Jules B-Roll_8.mp4** — 11.84s 2160x3840 · Product&people
+  - beats: 0-11.8: Jules (lavender top) sits on bed, scrolling phone, focused/frowning (researching), sage throw bg
+  - product: phone · mites: none · person: Jules · framing: vertical 4K static close
+  - best: 1-7 · use: "she researched", "spent hundreds", googling symptoms, "then she learns" · notes: ✅
+- ✅ **Jules B-Roll_9.mp4** — 24.85s 2160x3840 · Product&people
+  - beats: 0-25: over-shoulder close: Jules scrolling/typing on phone, gestures w/ hand at 14s (confused/explaining), skeptical expressions
+  - product: phone · mites: none · person: Jules · framing: vertical 4K static
+  - best: 12-16 gesture · use: "searching for answers", "nobody told her", research · notes: ✅
+- ✅ **Kennedy B-Roll 40.mov** — 6.94s 1080x1920 · Product&people
+  - beats: identical to "40 (1)"
+  - product: — · mites: — · person: — · framing: —
+  - best: — · use: — · notes: dup
+- ✅ **LillianRey_ZURA_B-Roll(1).mov** — 20.76s 2160x3840 · Product&people/root
+  - beats: 0-5: older woman (60s, long grey-blonde hair, black PJs) asleep in white bed (ornate iron headboard, gold mirror); 5-9: stretches arms up, waking; 9-15: sits up, big smile, refreshed; 15-17: swings out; 17-20.8: sits on bed edge laughing at camera, joyful
+  - product: none · mites: none · person: LillianRey (60s) · framing: vertical 4K static
+  - best: 6-14; 17-20 · use: "wakes up breathing", "first good morning in years", payoff · notes: ✅ STRONG relief
+- ✅ **Lynch B-Roll_23.mov** — 7.1s 2160x3840 · Product&people
+  - beats: 0-7: Lynch close-up face talking to camera, expressive, eyebrows, "you won't believe" look
+  - product: none · mites: none · person: Lynch · framing: vertical 4K
+  - best: 3-6 · use: testimonial talking head, "nobody told me" · notes: ✅ (check speech)
+- ✅ **Lynch B-Roll_26.mov** — 7.77s 2160x3840 · Product&people
+  - beats: 0-7.8: wide bright bedroom: grey upholstered bed, floral wallpaper, ceiling fan, windows; static
+  - product: none · mites: none · person: none · framing: vertical 4K
+  - best: 0-7 · use: bedroom establishing, "Let me paint you a picture" (B02) · notes: ✅
+- ✅ **Lynch B-Roll_27.mov** — 7.73s 2160x3840 · Product&people
+  - beats: 0-7.7: closer wide of same grey bed & floral wallpaper, static
+  - product: none · mites: none · person: none · framing: vertical 4K
+  - best: 0-7 · use: bedroom est · notes: ✅
+- ✅ **Mason Stevens B-Roll_11.mov** — 15.08s 1080x1920 · Product&people/root
+  - beats: 0-2: young shirtless man close to camera; 2-11: stands at sunny window with mug, sips, looks outside, calm; 11-15: walks out of frame
+  - product: none · mites: none · person: Mason (young man, shirtless) · framing: vertical handheld
+  - best: 3-10 · use: "morning feels different", relief (male) · notes: ✅ (male)
+- ✅ **Mason Stevens B-Roll_12.mov** — 16.13s 1080x1920 · root
+  - beats: 0-4: young man in bed big yawn, rubs head; 4-10: groggy, rubs eyes; 10-16: pinches nose, sniffles, stuffy
+  - product: none · mites: none · person: Mason (male) · framing: vertical selfie
+  - best: 11-15 · use: "waking up blocked" (male) · notes: ✅ (male)
+- ✅ **Mason Stevens B-Roll_18.mov** — 38.59s 1080x1920 · Product&people/root
+  - beats: 0-14: empty white bed, morning light; 14-23: young shirtless man flops face-down onto bed, arm dangling (exhausted); 23-38.6: empty bed
+  - product: none · mites: none · person: Mason · framing: vertical static
+  - best: 14-22 · use: "exhausted", "collapse" · notes: ✅ (male)
+- ✅ **nasal sprey.mp4** — 5.04s 1080x1916 · DustMites/root · **in cut as c004.mp4**
+  - beats: 0-5: close-up woman (40s blonde, eyes closed, sage tee) presses one nostril, sprays nasal spray in other; tiny head movement
+  - product: white nasal spray bottle · mites: none · person: AI woman blonde 40s · framing: vertical close-up static
+  - best: 0-5 · use: "nasal spray every morning", relief-seeking · notes: ✅ (used in TC0421 B05)
+- ✅ **WMZVhc8baHbm7dqmA7Aca_minimax-h3.mp4** — 5.18s 1344x768 · DustMites/root
+  - beats: 0-5: horizontal: woman sleeping in bed at night (left), mattress shown as layered cutaway with dark dots (mites) through foam layers; slow drift
+  - product: none · mites: dark dots in foam · person: AI woman sleeping · framing: horizontal 16:9 (needs crop)
+  - best: 0-5 (crop center-left) · use: "deep inside the foam", "inches from her face", sleeping on them · notes: ✅
+- ✅ **woman-blowing-her-nose-while-lying-in-bed-2026-01-22-16-00-27-utc.mp4** — 13.64s 1920x1080 · root
+  - beats: 0-13.6: woman 35 (dark hair, pink PJ bottoms) reclining on bed pillows by bright window, blows nose, tired, gestures
+  - product: none · mites: none · person: stock woman · framing: horizontal 1920x1080 (crop)
+  - best: 2-8 · use: "blocked nose", sick day · notes: ✅
+- ✅ **woman-blowing-nose-while-lying-on-couch-2025-12-17-13-14-03-utc.mov** — 14.8s 1920x1080 · root
+  - beats: 0-15: young dark-haired woman lies on beige couch with grey knit throw, blows nose, sneezes, tired
+  - product: tissue · mites: none · person: stock woman 25 · framing: horizontal
+  - best: 3-12 · use: "sick", congestion · notes: ✅
+- ✅ **woman-having-sound-sleep-2025-12-17-10-12-37-utc.mov** — 11.0s 1920x1080 · root
+  - beats: 0-11: overhead: woman (navy PJ) sprawled asleep on white bed, turns over, pulls duvet
+  - product: none · mites: none · person: stock woman · framing: horizontal
+  - best: 4-10 · use: "sleeps through the night", deep sleep (payoff) · notes: ✅
+- ✅ **woman-lying-in-bed-covers-eyes-2025-12-17-23-46-34-utc.mov** — 18.32s 2048x1080 · root · **in cut as c310.mp4**
+  - beats: 0-18: woman lying in bed, arm over eyes, red alarm clock foreground
+  - product: none · mites: none · person: stock woman · framing: horizontal
+  - best: 3-12 · use: "thousands of nights", tired morning · notes: ✅ (= c310 B21)
+- ✅ **woman-sits-on-bed-with-head-in-hands-2026-01-20-22-55-20-utc.mp4** — 14.16s 1920x1080 · root · **in cut as woman-sits-on-bed-with-head-in-hands-2026-01-20-22-55-20-utc.mp4**
+  - beats: 0-14: dark night bedroom, woman sitting on bed edge, head in hands, nightstand with clock/water
+  - product: none · mites: none · person: stock woman (face hidden) · framing: horizontal (crop)
+  - best: 4-10 · use: "years of this", despair, can't sleep · notes: ✅ (USED B03b)
+- ✅ **woman-sleeping-soundly-in-her-bed-at-night-2025-12-17-23-54-41-utc.mov** — 16.68s 1920x1080 · root
+  - beats: 0-16.7: woman asleep under white duvet, blue moonlight, plant edge
+  - product: none · mites: none · person: stock woman · framing: horizontal
+  - best: 2-14 · use: "every night", "eight hours", night · notes: ✅
+- ✅ **Woman_discovers_dust_mites_in_202608020605.mp4** — 8.0s 720x1280 · root
+  - beats: 0-2: woman 40s (grey sweater) sits in dark bed, hand to face, tired; 2-5.5: looks down at duvet, worried; 5.5-8: push to duvet texture showing fuzzy fibers (mites implied)
+  - product: none · mites: fibers/mites faint · person: AI woman · framing: vertical
+  - best: 0-6 · use: "then she learns what's living inside her mattress" (B10) · notes: ✅
+- ✅ **Woman_loading_laundry_into_washer_202608191531.mp4** — 6.02s 720x1280 · root
+  - beats: 0-6: woman (dark bun, pink hoodie) crouches loading white sheets from wicker basket into front-load washer
+  - product: none · mites: none · person: AI woman · framing: vertical
+  - best: 0-6 · use: "washes sheets every week" · notes: ✅
+- ✅ **Woman_reacting_with_subtle_movement_202608121559.mp4** — 6.02s 720x1280 · root
+  - beats: 0-2: grey-haired woman 55 (blue hoodie) sits on bed edge, excited, wide eyes, hands up; 2-4: fists pumped, happy; 4-6: points finger "here's the thing", smiling
+  - product: none · mites: none · person: AI grey-haired woman (blue hoodie) · framing: vertical
+  - best: 0-5 · use: "here's what they'd understand", explanation, payoff joy · notes: ✅
+- ✅ **Woman_realizing_solution_in_bedroom_202608121559.mp4** — 6.02s 720x1280 · root
+  - beats: 0-1.5: grey-haired woman 55 (blue hoodie) on bed, mouth open "oh!"; 1.5-3: eyes up, thinking; 3-4.5: finger up "aha"; 4.5-6: satisfied smile
+  - product: none · mites: none · person: AI grey-haired woman (same as Woman_reacting) · framing: vertical
+  - best: 0-6 · use: "here's what they'd finally understand", realization (B01/B10) · notes: ✅ STRONG
+- ✅ **Woman_sleeping_nasal_cavity_cutaway_202608060738.mp4** — 6.02s 720x1280 · root · **in cut as c232.mp4**
+  - beats: 0-1.5: woman 40s (curly hair) asleep, night window; 1.5-2.2: push to face; 2.2-6: X-ray overlay of nasal cavity, blue airflow lines, red swollen nostril/turbinate
+  - product: none · mites: none · person: AI curly woman · framing: vertical
+  - best: 0-6 · use: "inches from her face", "breathing it in all night", sinus inflammation (B13/B19) · notes: ✅ STRONG
+- ✅ **Woman_sleeping_with_nasal_obstru…_202608071725.mp4** — 6.02s 720x1280 · root
+  - beats: 0-6: woman 40s asleep on pillow, lamp-lit, X-ray overlay of nasal passage with whitish blockage/airflow wisps, mouth slightly open
+  - product: none · mites: none · person: AI woman · framing: vertical
+  - best: 0-6 · use: "breathing it in all night", obstruction (B19) · notes: ✅ STRONG
+- ✅ **Woman_sneezes_from_pillow_202607310336 (1).mp4** — 6.02s 720x1280 · root · **in cut as c284.mp4**
+  - beats: 0-2: woman 40 (wavy brown hair, black sweater) hugs pillow with mite-callout circle, dust puff; 2-3.4: pulls pillow away; 3.4-4.5: sneezes into hand; 4.5-6: pained, eyes closed
+  - product: none · mites: mite callout on pillow · person: AI woman · framing: vertical
+  - best: 2.5-6 · use: sneeze reaction, pillow source · notes: ✅
+- ✅ **Woman_sneezing_and_wiping_nose_202608190709.mp4** — 6.02s 720x1280 · root
+  - beats: 0-1.5: woman 45 (blonde-brown, grey bedding) lying in bed, sneezes; 1.5-3.5: wipes nose with tissue, scrunched; 3.5-6: looks at camera exhausted, tissue at nose
+  - product: tissue · mites: none · person: AI blonde woman 45 · framing: vertical
+  - best: 0-6 · use: "waking up blocked", morning misery (H1/B03) · notes: ✅ STRONG
+- ✅ **Woman_sneezing_and_wiping_nose_202608190710.mp4** — 6.02s 720x1280 · root
+  - beats: 0-6: same woman/variant: sneezes in bed, wipes nose, tired gaze to camera
+  - product: tissue · mites: none · person: same AI woman · framing: vertical
+  - best: 0-6 · use: same · notes: ✅ (alt take of 0709)
+- ✅ **Woman_sneezing_hard_realistic_202608042306.mp4** — 6.02s 720x1280 · root
+  - beats: 0-2: woman 45 (dark hair, black tee) lying, big sneeze; 2-4: tissue to nose; 4-6: exhausted, lies back
+  - product: tissue · mites: none · person: AI woman (same as Camera_zooms woman) · framing: vertical
+  - best: 0-6 · use: sneeze in bed · notes: ✅
+- ✅ **Woman_sneezing_in_bedroom_202608071744.mp4** — 6.02s 720x1280 · root
+  - beats: 0-2.5: woman lying in blue-lit night bedroom, grimaces/sneezes, glowing dust particles in air; 2.5-6: holds face, dust swirling
+  - product: none · mites: dust particles · person: AI woman · framing: vertical
+  - best: 0-6 · use: "allergen in the air at night" · notes: ✅
+- ✅ **Woman_sneezing_on_bed_202608020613.mp4** — 8.0s 720x1280 · root
+  - beats: 0-8: woman 40 (wavy brown, dark tee) sits on bed edge, sneezes, dust puffs rising from textured bedding, wipes nose
+  - product: none · mites: dust cloud · person: AI woman · framing: vertical
+  - best: 0-6 · use: "the bed is the source" · notes: ✅
+- ✅ **Woman_sneezing_on_couch_202608040611.mp4** — 6.02s 720x1280 · root · **in cut as c276.mp4**
+  - beats: 0-6: woman 45 (curly blonde, grey hoodie) on couch sneezing into tissue, red nose
+  - product: tissue · mites: none · person: AI curly blonde · framing: vertical
+  - best: 0-6 · use: sneeze/allergy · notes: ✅
+- ✅ **Woman_struggling_to_sleep_breathing_202608070457.mp4** — 6.02s 720x1280 · root · **in cut as c275.mp4**
+  - beats: 0-2: woman 40s (brunette, navy PJ) in white bed, hand on forehead, distressed; 2-4: grimace, turns; 4-6: hand on chest, mouth breathing, can't breathe
+  - product: none · mites: none · person: AI brunette (navy PJ) · framing: vertical
+  - best: 0-6 · use: "wakes up feeling like she can't breathe" (B06) · notes: ✅ STRONG
+- ✅ **Woman_taking_pill_drinking_water_202608042344.mp4** — 4.01s 720x1280 · root · **in cut as c238.mp4**
+  - beats: 0-4: woman 45 (curly blonde, plum sweater) on couch puts pill in mouth, drinks water
+  - product: pill · mites: none · person: AI woman · framing: vertical
+  - best: 0-4 · use: "antihistamines", "decongestants" (B04/B08) · notes: ✅
+- ✅ **Woman_wakes_with_blocked_nostril_202608060742.mp4** — 6.02s 720x1280 · root · **in cut as c337.mp4**
+  - beats: 0-2: woman 45 lying on pillow, nasal X-ray overlay with red blockage & blue air swirls; 2-3.5: eyes open, groggy; 3.5-6: pinches nose, eyes closed, frustrated
+  - product: none · mites: none · person: AI woman 45 brunette · framing: vertical
+  - best: 0-6 · use: "waking up blocked and stuffy" (H1/B01/B03) · notes: ✅ STRONG
+- ✅ **Woman_waking_up_well_rested_202608070448.mp4** — 6.02s 720x1280 · root
+  - beats: 0-2.2: woman 50s (grey-brown hair, navy PJ) stretches arms overhead in bright bed; 2.2-3.6: arms down, peaceful; 3.6-6: close-up smiling, touching hair, relaxed
+  - product: none · mites: none · person: AI woman 50s · framing: vertical, 1 cut
+  - best: 0-6 · use: "wakes up breathing", payoff · notes: ✅ STRONG relief
+- ✅ **Woman_washing_and_making_bed_202608020713.mp4** — 8.0s 720x1280 · root
+  - beats: 0-3: woman smooths white sheet over mattress whose cutaway shows mite-filled foam; 3-6: sheet covers it; 6-8: cutaway foam below clean sheet
+  - product: none · mites: mites in foam · person: AI woman · framing: vertical
+  - best: 0-8 · use: "not on the sheets, deep inside the foam" (B11) · notes: ✅ STRONG
+- ✅ **Woman_wiping_nose_and_rolling_202608120623.mp4** — 6.02s 720x1280 · root · **in cut as c338.mp4**
+  - beats: 0-2: grey-haired woman 55 (grey tee) lying in messy bed rubs nose; 2-3.5: sighs, looks at camera tired; 3.5-6: rolls over away from camera
+  - product: none · mites: none · person: AI grey-haired woman 55 · framing: vertical
+  - best: 0-4 · use: "every single morning", fed up (B03) · notes: ✅ STRONG
+- ✅ **Wren Presley B-Roll_10.mov** — 9.94s 1080x1920 · root · **in cut as c220.mp4**
+  - beats: 0-1.5: Wren lying in bed green pillows; 1.5-3: sits up; 3-7: blows nose into tissue; 7-10: lies back down exhausted
+  - product: none · mites: none · person: Wren · framing: vertical static wide
+  - best: 2-7 · use: "blocked nose every morning" · notes: ✅ (= c220, USED B03a)
+- ✅ **Wren Presley B-Roll_13.mov** — 10.77s 1080x1920 · root · **in cut as Wren_Presley_B-Roll_13.mov**
+  - beats: 0-5: close: Wren sitting up in bed blowing nose into tissue, eyes squeezed; 5-8: lowers tissue, sniffles, squints; 8-10.8: miserable stare
+  - product: none · mites: none · person: Wren · framing: vertical static
+  - best: 0.3-8 · use: "morning congestion", hook · notes: ✅ (USED H1a)
+- ✅ **Wren Presley B-Roll_17.mov** — 9.33s 1080x1920 · root · **in cut as Wren_Presley_B-Roll_17.mov**
+  - beats: 0-9.3: wide: Wren lying in bed on green pillows, nightstand w/ tissues, mug, books, lamp sconce; she shifts, rubs face/nose, miserable, eyes closed
+  - product: none · mites: none · person: Wren · framing: vertical static
+  - best: 2-5.9 · use: "waking up blocked", sick in bed · notes: ✅ (USED B01a)
+- ✅ **Wren Presley B-Roll_20.mov** — 5.23s 1080x1920 · root
+  - beats: 0-3: Wren (grey henley, jeans) folds/holds white sheets by bed (blue cover); 3-4: drops them on bed; 4-5.2: hands on hips, frustrated look
+  - product: none · mites: none · person: Wren (alt outfit) · framing: vertical static
+  - best: 2.5-5.2 · use: "washed everything", frustration, laundry · notes: ✅
+- ✅ **Wren Presley B-Roll_21.mov** — 8.83s 1080x1920 · root · **in cut as c186.mp4**
+  - beats: 0-8.8: Wren (grey henley) vacuums floor/bedside with upright vacuum (yellow-green), pushing toward camera, tired expression
+  - product: none · mites: none · person: Wren (alt outfit) · framing: vertical static
+  - best: 0-4 · use: "vacuumed everything", routine · notes: ✅ (=c186 B29?)
+- ⛔ **0710_1_3.mp4** — 2.69s 1080x1920 · ProblemClips/root
+  - beats: 0-2.7: same woman lifting wet sheets from bathtub
+  - product: none · mites: none · person: young woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **30f2368aa4fd38cf8c3101e45d099c8b.mp4** — 4.92s 576x1024 · ProblemClips/root
+  - beats: 0-4.9: woman (blue tee) pulls white duvet off messy bed, stripping bedding
+  - product: none · mites: none · person: woman · framing: vertical 576x1024
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **95f0b2937fad7358ef8fb2a90f065722.mp4** — 4.92s 576x1024 · ProblemClips/root
+  - beats: 0-4.9: young woman (30s, brown hair) curled on dark couch under knit blanket hugging blue pillow, hand at mouth, sick/miserable, static
+  - product: none · mites: none · person: young woman · framing: vertical 576x1024
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⚠ **A woman sleeps with dust mites.mov** — 3.07s 1080x1350 · DustMites
+  - beats: 0-3: dark-haired woman (navy PJ) asleep on pillow; pillow/duvet gradually fills with fuzzy mite-blob texture
+  - product: none · mites: ⚠ exaggerated blobs · person: AI woman · framing: 4:5 1080x1350
+  - best: 0-1.3 clean · use: "sleeping on them" · notes: ⚠ stylized
+- ⛔ **Acacia Ellison B-Roll_10.mov** — 6.67s 2160x3840 · ProblemClips/root
+  - beats: 0-2: hand opens white under-sink cabinet; 2-6: reveals rows of cleaning/anti-allergen sprays, pulls one out; 6-6.7: closes
+  - product: sprays · mites: none · person: Acacia arm · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Acacia Ellison B-Roll_15.mov** — 6.11s 2160x3840 · ProblemClips/root · **in cut as c191.mp4**
+  - beats: 0-2.5: five anti-allergen spray bottles lined on marble counter; 2.5-6: hand removes them one by one leaving one
+  - product: sprays · mites: none · person: hand · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Acacia Ellison B-Roll_2.mov** — 4.5s 1080x1920 · ProblemClips/root
+  - beats: 0-4.5: finger presses washer control panel, temp display 45→52→140 (hot wash)
+  - product: washer · mites: none · person: finger · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Acacia Ellison B-Roll_3.mov** — 11.24s 2160x3840 · ProblemClips/root · **in cut as c196.mp4**
+  - beats: 0-11: Acacia loads grey sheets from laundry basket into front-load washer
+  - product: washer · mites: none · person: Acacia · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Acacia Ellison B-Roll_4.mov** — 8.14s 2160x3840 · ProblemClips/root
+  - beats: 0-8: strips grey sheets from bed into laundry basket
+  - product: none · mites: none · person: Acacia · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Acacia Ellison B-Roll_5.mov** — 9.32s 2160x3840 · ProblemClips/root
+  - beats: 0-9: Acacia (striped top, green pants) strips grey bedding, tosses pillows
+  - product: none · mites: none · person: Acacia · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Ailani Paneth B-Roll_11.mov** — 11.93s 2160x3840 · ProblemClips/root
+  - beats: 0-12: Ailani (light-blue PJ) strips & remakes bed, lamps on
+  - product: none · mites: none · person: Ailani · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Ailani Paneth B-Roll_15.mov** — 17.67s 2160x3840 · ProblemClips/root
+  - beats: 0-17.7: woman (teal top) loads sheets into front-load washer
+  - product: washer · mites: none · person: Ailani · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Ailani Paneth B-Roll_16.mov** — 11.63s 2160x3840 · ProblemClips/root
+  - beats: 0-11.6: woman (teal top) loads sheets into top-load washer
+  - product: washer · mites: none · person: Ailani · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Ailani Paneth B-Roll_17.mov** — 21.73s 2160x3840 · ProblemClips/root
+  - beats: 0-21.7: brunette (blue hoodie) strips pillowcases into laundry basket
+  - product: none · mites: none · person: young brunette · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Ailani Paneth B-Roll_23.mov** — 27.5s 2160x3840 · ProblemClips/root
+  - beats: 0-6: brunette (striped PJ) wakes; 6-22: sits on bed edge, face in hands, blows nose into tissue, sneezes
+  - product: none · mites: none · person: striped-PJ brunette · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS (strong symptom but banned)
+- ⛔ **Ailani Paneth B-Roll_26.mov** — 3.97s 2160x3840 · ProblemClips
+  - beats: 0-4: curly woman (floral PJ) vacuums floor by dresser
+  - product: none · mites: none · person: curly woman · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Ailani Paneth B-Roll_29.mov** — 6.2s 1080x1920 · ProblemClips/root
+  - beats: 0-6.2: over-shoulder curly woman (floral PJ) on bed scrolling phone (yellow app)
+  - product: phone · mites: none · person: curly woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Ailani Paneth B-Roll_32.mov** — 3.93s 2160x3840 · ProblemClips/root · **in cut as c178.mp4**
+  - beats: 0-3.9: main Ailani selfie, squints/wince, disgusted head shakes
+  - product: none · mites: none · person: Ailani main · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Ailani Paneth B-Roll_33.mov** — 3.87s 2160x3840 · ProblemClips/root
+  - beats: 0-3.9: main Ailani close selfie, grimace/disgust, fist, rolls eyes then eyes closed exasperated
+  - product: none · mites: none · person: Ailani main · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS (great expression but banned)
+- ⛔ **Alan Choi B-Roll_11.mov** — 18.67s 2160x3840 · ProblemClips/root
+  - beats: 0-7: man in bed under brown duvet, restless; 7-12: holds tissue to nose, sniffles, miserable; 12-18: rolls/gets up groggy
+  - product: none · mites: none · person: Alan (male) · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **applying-eye-drops-in-extreme-close-up-2026-01-21-20-11-03-utc.mp4** — 21.52s 1920x1080 · ProblemClips
+  - beats: 0-21: extreme close-up applying eye drops
+  - product: eye drops · mites: none · person: stock · framing: horizontal
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⚠ **AQOMtXzl-yKTi0n9w7nv5zmwwpf2vINCmC1PIzeCfc69HwPywSG3-KqvtyZWQ9U7c8Md0HdIsvP5CtCqlYIyetT1kivju4uTELcYM6WcucL5oA.mp4** — 90.14s 720x1280 · root
+  - beats: 0-90: blonde woman 60s in bed under white faux-fur blanket, talks to camera (testimonial-style), sits up gesturing at 16s, mostly lying talking
+  - product: none · mites: none · person: blonde 60s · framing: vertical 720x1280, 90s
+  - best: 15-20 sits up · use: "morning in bed", talking head · notes: ⚠ has speech (check transcript)
+  - speech: [0.4-8.8] Okay, I'm actually pretending I'm not really sleeping because I just want to act this out [8.8-15.0] because I want to share with you my morning ritual and the reason is because when we wake [15.0-21.1] up in the morning, we don't want to jump out of bed right away, which is a few things [
+- ⛔ **b164229b8992956c1293b47643c7cf7c.mp4** — 4.92s 576x1024 · ProblemClips/root
+  - beats: 0-4.9: woman lifts mattress topper / strips bare mattress in bright bedroom
+  - product: none · mites: none · person: woman · framing: vertical 576x1024
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Before_after woman.mp4** — 8.04s 1244x1660 · ProblemClips
+  - beats: 0-8: blonde woman 50 face transitions from tired/puffy to fresh/smiling
+  - product: none · mites: none · person: woman · framing: vertical
+  - best: — · use: — · notes: ⛔ BEFORE/AFTER + PROBLEM CLIPS
+- ⛔ **capturecards-yellow-pad-reference.jpg** — 0.04s 1536x2048 · RealProductRefs
+  - beats: static: grey textured fabric/pad close-up
+  - product: none · mites: none · person: none · framing: 3:4
+  - best: — · use: — · notes: ⛔ internal reference
+- ⛔ **Charlotte Fischer B-Roll_16.mov** — 6.27s 1080x1920 · ProblemClips/root
+  - beats: 0-6.3: curly woman vacuums bare mattress with red upright vacuum, messy navy duvet
+  - product: none · mites: none · person: Charlotte curly · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Charlotte Fischer B-Roll_24.mov** — 17.37s 2160x3840 · ProblemClips/root
+  - beats: 0-17: woman (olive sweatshirt, bun) gets up from messy bed, sits on edge, head in hand, groggy
+  - product: none · mites: none · person: Charlotte · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Charlotte Fischer B-Roll_6.mov** — 6.73s 1080x1920 · ProblemClips/root
+  - beats: 0-6.7: curly woman strips bedding off mattress, pulls navy fitted sheet
+  - product: none · mites: none · person: Charlotte curly · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Claire Fisher B-Roll_19.mov** — 35.4s 2160x3840 · ProblemClips/root
+  - beats: 0-35: Claire strips whole bed, sheets into red laundry basket
+  - product: none · mites: none · person: Claire · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Claire Fisher B-Roll_20.mov** — 160.49s 2160x3840 · ProblemClips/root
+  - beats: 0-160: Claire strips & remakes whole bed with grey sheets then patterned duvet
+  - product: none · mites: none · person: Claire · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **dust mite 3.mp4** — 18.25s 1080x1920 · ProblemClips
+  - beats: 0-4: finger wipes sofa crease; 4-9: toy microscope; 9-18: microscope view of fingerprint with specks
+  - product: microscope · mites: specks · person: hand · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Fionnuala Kennedy B-Roll_24.mov** — 11.56s 1080x1920 · ProblemClips/root · **in cut as c214.mp4**
+  - beats: 0-11.6: Fionnuala (yellow top) writing on paper at table
+  - product: none · mites: none · person: Fionnuala · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260902_212437_a47aa0e1-7be5-4be9-b0af-ac6518f69573.mp4** — 7.04s 1080x1916 · DustMites/ProblemClips/root · **in cut as c006.mp4**
+  - beats: 0-7: woman (40s, blonde-brown) mouth open, gloved hand holds a scope/light into her nostril (red glow), she holds a white kidney tray; slight eye blinks
+  - product: none · mites: none · person: AI woman · framing: vertical, static
+  - best: — · use: — · notes: ⛔ IN PROBLEM CLIPS (= c006 in TC0421 cut B15!) — replace
+- ⛔ **hf_20260907_171804_8cdcc753-85be-4485-98ab-6fb1fe32e7ca.mp4** — 7.04s 1080x1916 · ProblemClips
+  - beats: 0-7: woman with towel turban, gloved hands massage her face (spa)
+  - product: none · mites: none · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260907_174816_e23d8436-5c17-4393-bedb-efc20dff49d1.mp4** — 5.04s 1080x1916 · ProblemClips
+  - beats: 0-5: tired woman 45 (red nose, puffy eyes) selfie, blank stare
+  - product: none · mites: none · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260907_175935_9043b1e9-16cd-45a0-badd-98a8807fde53.mp4** — 5.04s 1080x1916 · ProblemClips
+  - beats: 0-5: woman (blue robe) at bathroom mirror touches puffy under-eye, worried
+  - product: none · mites: none · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260914_195247_9ef57f33-78d7-41ba-99c9-37f67a9c4058.mp4** — 6.04s 1080x1920 · ProblemClips
+  - beats: 0-6: blonde-grey short-haired woman 60 lying in bed blowing nose into tissue
+  - product: tissue · mites: none · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260914_200250_bbfdd00b-9898-4ff1-98ce-9fd78688e1d9.mp4** — 6.04s 1080x1916 · ProblemClips
+  - beats: 0-6: brunette 50 (red sweater) blows nose into tissue
+  - product: tissue · mites: none · person: AI red-sweater woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260914_200748_5935f0fd-1c18-48bd-93d7-a744af1e5da8.mp4** — 6.04s 1076x1928 · ProblemClips
+  - beats: 0-6: same red-sweater woman sneezes on bed, wipes nose
+  - product: tissue · mites: none · person: AI red-sweater · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260914_201004_3d3a2da5-7e53-4ea7-95d9-9afb97c1e43f.mp4** — 6.04s 1076x1928 · ProblemClips
+  - beats: 0-6: red-sweater woman in car blowing nose
+  - product: tissue · mites: none · person: AI red-sweater · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260914_201913_b524f3ef-2741-401c-aa96-30dc8166e52d.mp4** — 5.04s 1076x1928 · ProblemClips
+  - beats: 0-5: businesswoman in boardroom blowing nose, colleagues behind
+  - product: tissue · mites: none · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260915_212833_d54be07e-3ca3-4254-a34d-2fda81b3c44e.mp4** — 5.04s 1076x1924 · ProblemClips
+  - beats: 0-5: woman red nose, hands on cheeks, shocked wide eyes
+  - product: none · mites: none · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260915_232253_968d7a33-f0a1-4b6e-afb8-34f5b25fba94.mp4** — 6.04s 1076x1924 · ProblemClips
+  - beats: 0-6: same woman points at under-eye bags
+  - product: none · mites: none · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260915_233345_6cc790bb-bdec-4e1b-bce7-59ec4e521d2c.mp4** — 6.04s 1076x1924 · ProblemClips
+  - beats: 0-6: tired woman (green sweater) lying in bed, closes eyes, pulls duvet
+  - product: none · mites: none · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260916_204006_291aa11c-6a8e-48ee-851b-ba3eaf69b23b.mp4** — 6.04s 1124x1840 · ProblemClips
+  - beats: 0-6: woman (blue PJ, red nose) hands on head screaming/frustrated
+  - product: none · mites: none · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Jules B-Roll_1.mp4** — 15.42s 2160x3840 · ProblemClips
+  - beats: 0-15: Jules (grey tee) strips/makes white bed
+  - product: none · mites: none · person: Jules · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Jules B-Roll_13.mp4** — 14.07s 2160x3840 · ProblemClips
+  - beats: 0-14: loading white bedding into top-load Samsung washer
+  - product: washer · mites: none · person: hands · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Jules B-Roll_4.mp4** — 34.11s 2160x3840 · ProblemClips
+  - beats: 0-34: nightstand with lamp & pothos; dark spray bottle placed beside plant
+  - product: spray · mites: none · person: none · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Kennedy B-Roll 39.mov** — 14.89s 1080x1920 · ProblemClips
+  - beats: 0-3: Kennedy walks to table; 3-14: sits, opens pink pill packet/tissue, blows nose, worried
+  - product: pills/tissue · mites: none · person: Kennedy · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Kennedy B-Roll 41.mov** — 21.46s 1080x1920 · ProblemClips
+  - beats: 0-21: Kennedy sits at table, pops pill, wipes nose
+  - product: pills · mites: none · person: Kennedy · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Lynch B-Roll_16.mov** — 11.13s 2160x3840 · ProblemClips
+  - beats: 0-11: Lynch (red top) loads sheets into top-load washer
+  - product: washer · mites: none · person: Lynch · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Lynch B-Roll_17.mov** — 6.7s 1080x1920 · ProblemClips
+  - beats: 0-6.7: folded white sheets lying on grey bed
+  - product: none · mites: none · person: none · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Lynch B-Roll_35.mov** — 13.54s 720x1280 · ProblemClips
+  - beats: 0-13.5: Lynch (white V-neck) rubs eyes/temples, frustrated, upset
+  - product: none · mites: none · person: Lynch · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Lynch B-Roll_6.mov** — 5.13s 1080x1920 · ProblemClips
+  - beats: 0-5: wide bed, woman sitting up under white duvet far away
+  - product: none · mites: none · person: Lynch · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Lynch B-Roll_8.mov** — 6.87s 1080x1920 · ProblemClips
+  - beats: 0-7: Lynch makes bed, pulls white duvet
+  - product: none · mites: none · person: Lynch · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Mason Stevens B-Roll_13.mov** — 21.4s 1080x1920 · ProblemClips/root
+  - beats: 0-21: young man wakes, big yawns, rubs head, groggy
+  - product: none · mites: none · person: Mason · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Mason Stevens B-Roll_19.mov** — 56.28s 1080x1920 · ProblemClips
+  - beats: 0-56: top-down man seated scrolling texts/photos on phone
+  - product: phone · mites: none · person: Mason · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Mason Stevens B-Roll_8.mov** — 61.35s 1080x1920 · ProblemClips/root
+  - beats: 0-61: man strips white bed / makes bed
+  - product: none · mites: none · person: Mason · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⚠ **Mites_In_Bed_Sleeping_Woman 01.mp4** — 5.04s 1080x1916 · root
+  - beats: 0-5: lamp-lit bedroom, blonde woman asleep, duvet surface covered in fuzzy giant mite-shapes texture
+  - product: none · mites: ⚠ giant fuzzy mite-texture on duvet (exaggerated scale) · person: AI woman · framing: vertical
+  - best: 0-5 (stylized) · use: "sleeping in a colony" · notes: ⚠ exaggerated
+- ⚠ **Mites_In_Bed_Sleeping_Woman 02.mp4** — 5.04s 1080x1916 · DustMites/root · **in cut as c325.mp4**
+  - beats: 0-5: dark-haired woman (navy PJ) asleep hugging pillow covered in fuzzy mite blobs, lamp-lit
+  - product: none · mites: ⚠ exaggerated · person: AI woman · framing: vertical
+  - best: 0-5 if stylized ok · use: "sleeping on them" · notes: ⚠ stylized
+- ⚠ **tiktokdownload.online_@cheyenne_cheshier_1788383850375.mp4** — 39.24s 576x1024 · DustMites/root
+  - beats: 0-39: blonde young woman (lanyard, cream top) does a saline sinus rinse with squeeze bottle into nostril, water drains, she laughs; burned caption top "enjoy one of my most satisfying rinses post septoplasty"
+  - product: NeilMed-style rinse bottle · mites: none · person: young blonde woman · framing: vertical 576x1024
+  - best: avoid (text) · use: "tried everything", rinses · notes: ⚠ burned-in TikTok text, surgery reference
+  - speech: [11.8-13.8] I think that was it. [13.8-15.8] You saw it come out? [15.8-17.8] Yeah. [17.8-19.8] Good boy. [19.8-39.1] I know.
+- ⛔ **tiktokdownload.online_@kaltrinaarifi_1789511244280.mp4** — 8.8s 576x1024 · ProblemClips
+  - beats: 0-8.8: eye drops product, woman applies eye drops; German text
+  - product: eye drops · mites: none · person: young woman · framing: vertical 576x1024
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **tiktokdownload.online_@nebarb_1788384927838.mp4** — 5.85s 576x1024 · DustMites/ProblemClips/root
+  - beats: 0-3: young blonde woman sprays nasal spray up nostril; 3-5.8: winces, covers face, eyes water; caption "When you can feel the nose spray in your brain"
+  - product: nasal spray · mites: none · person: young blonde · framing: vertical 576x1024
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS + burned text
+  - speech: [1.1-3.1] Where's the phone? [4.1-5.1] BOMBOKRAT!
+- ⚠ **tiktokdownload.online_@nostrilphilia_1788383657975.mp4** — 60.48s 576x720 · DustMites/root
+  - beats: 0-60: extreme close-up of nostrils with clear runny mucus dripping, wiping with purple cloth, sniffing; "NostrilPhilia" watermark
+  - product: none · mites: none · person: nostrils/mouth only · framing: vertical 576x720
+  - best: 11-12 no drip, if ever · use: "runny nose" (avoid; off-brand) · notes: ⚠ gross, watermark
+- ⛔ **tiktokdownload.online_@rosek292_1786471338515.mp4** — 73.63s 576x1024 · ProblemClips
+  - beats: 0-73: woman cuts open old mattress showing stained interior, caption "Part 2 we found a lighter in the mattress..."
+  - product: none · mites: stains · person: hands · framing: vertical 576x1024
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+  - speech: [41.3-51.5] and that's what a lot of people say that is crazy and it was here right in this clear [54.6-58.0] we had to hold our mattress with steams and all this was a new mattress [58.9-70.5] i shouldn't not be touching that one look at all those stains and the fact that [70.5-73.5] my son was sle
+- ⚠ **tiktokdownload.online_@simplysaline_1788384133471.mp4** — 26.84s 720x1280 · DustMites/root · **in cut as c003.mp4**
+  - beats: 0-3: red-haired woman scrunches face, finger pushes nose up (congested grimace); 3-15: holds/uses Simply Saline spray, head tilt; 15-27: bathroom mirror wide, woman at sink; burned top text + "#ad" throughout ⚠
+  - product: Simply Saline (competitor) · mites: none · person: red-haired woman 30s · framing: vertical 720x1280
+  - best: 0.5-3 · use: "congested grimace" 0.5-3 only if text cropped · notes: ⚠ burned "#ad"+text, competitor brand (= c003 in cut B32) — replace
+  - speech: [0.0-5.7] Okay, this might look a little gross, but bear with me. This is why my nose finally feels normal again [5.7-10.9] I partner with simply saline and I use this at any time my nose feels dry or congested [10.9-15.6] It literally helps flesh out all the stuff in your nasal passages and keeps e
+- ⛔ **tiktokdownload.online_@vanshan5_1788807088259.mp4** — 69.0s 576x1024 · ProblemClips
+  - beats: 0-69: blonde woman talking selfie, puffy eyes, applies creams
+  - product: skincare · mites: none · person: woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+  - speech: [0.0-7.1] How are we going to take our eyes from this to this in two minutes with this? This is the [7.1-16.8] Dr Malaxin. Now don't be fooled because this stuff is actually really good. I am not going to stop, [16.8-22.9] I'm just going to speed it up with my fan for the purpose of the video, can't
+- ⛔ **woman-lying-in-bed-stretches-in-discomfort-2025-12-17-16-09-11-utc.mov** — 18.68s 1920x1080 · ProblemClips
+  - beats: 0-18.7: blonde woman stretches uncomfortably in bed
+  - product: none · mites: none · person: stock · framing: horizontal
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **woman-receiving-eye-drops-from-makeup-artist-2025-12-17-11-57-56-utc.mov** — 16.44s 1920x1080 · ProblemClips
+  - beats: 0-16: makeup artist applies eye drops to woman
+  - product: eye drops · mites: none · person: stock · framing: horizontal
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **woman-sleeping-peacefully-in-dark-bedroom-at-night-2025-12-17-16-52-12-utc.mov** — 16.08s 1920x1080 · ProblemClips/root · **in cut as c336.mp4**
+  - beats: 0-16: woman asleep in blue night light
+  - product: none · mites: none · person: stock woman · framing: horizontal
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⚠ **Woman_cleaning_mattress_dust_mites_202607310019.mp4** — 6.02s 720x1280 · root
+  - beats: 0-2.5: woman (sweater) kneels wiping mattress with cloth, dark green spots; 2.5-6: macro push into mattress showing green mites
+  - product: none · mites: ⚠ green mites · person: AI woman · framing: vertical
+  - best: 0-2.5 · use: "cleaning the surface doesn't reach" · notes: ⚠ green
+- ⛔ **Wren Presley B-Roll_12.mov** — 5.83s 1080x1920 · ProblemClips/root
+  - beats: 0-2.6: Wren rubs nose/eye, pained; 2.6-5.8: looks up, talks/sighs, worried
+  - product: none · mites: none · person: Wren · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Wren Presley B-Roll_18.mov** — 6.31s 1080x1920 · ProblemClips/root · **in cut as c175.mp4**
+  - beats: 0-6.3: Wren (grey hair up, grey henley) in bathroom holds armful of sprays/nasal sprays/allergy bottles, sighs, eye-roll
+  - product: sprays · mites: none · person: Wren (alt outfit) · framing: vertical static
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS — CHECK c175 in cut (B08) looks identical!
+- ⛔ **Wren Presley B-Roll_9.mov** — 7.47s 1080x1920 · ProblemClips/root
+  - beats: 0-2: Wren lying in bed green pillows; 2-4: stretches, reaches tissues; 4-7.5: blows nose lying in bed
+  - product: none · mites: none · person: Wren · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+
+### Real product & placement (UGC) (133)
+
+- ✅ **Acacia Ellison B-Roll_11.mov** — 9.65s 2160x3840 · root
+  - beats: 0-2: two hands hold box front over marble counter; 2-5: open box top, pull out pouches; 5-7: pouches stacked; 7-9.6: fan of 4 green pouches (instruction sides) held at camera
+  - product: box + 4 pouches · mites: none · person: hands · framing: vertical 4K handheld
+  - best: 6.5-9.5 fan · use: "4 cards", unboxing, contents reveal · notes: ✅
+- ✅ **Acacia Ellison B-Roll_12.mov** — 4.79s 2160x3840 · Product&people/root
+  - beats: 0-2: blonde woman (navy tee) holds generic spray bottle left & green card right, comparing; 2-3: lifts card toward camera; 3-4: sets spray down/tosses it aside; 4-4.8: shrug, holds card
+  - product: card + generic anti-allergen spray · mites: none · person: Acacia face (blonde 50s) · framing: vertical 4K
+  - best: 0-4.5 · use: "sprays don't reach inside", choose card over spray, "stop spraying" · notes: ✅
+- ✅ **Acacia Ellison B-Roll_13.mov** — 3.94s 2160x3840 · Product&people/root
+  - beats: 0-1.5: card held beside spray bottle on marble counter (face cropped out); 1.5-2.5: sets spray down; 2.5-3.9: sweeps spray away with arm, keeps card
+  - product: card + spray · mites: none · person: Acacia torso · framing: vertical 4K
+  - best: 0-3.9 · use: "ditch the sprays", comparison · notes: ✅
+- ✅ **Acacia Ellison B-Roll_14 (1).mov** — 14.54s 2160x3840 · Product&people/root · **in cut as c127.mp4**
+  - beats: 0-14.5: hands hold "Anti-Allergen Solution" spray bottle (left) next to teal card (right) over marble counter, alternately pushing each forward
+  - product: card + Anti-Allergen spray (3rd party) · mites: none · person: hands · framing: vertical 4K
+  - best: 0-6 · use: "sprays vs card", comparison · notes: ✅ dup of B-Roll_14
+- ✅ **Acacia Ellison B-Roll_16.mov** — 4.78s 2160x3840 · Product&people/root
+  - beats: 0-1.5: Acacia in bedroom holds open grey pillowcase + card; 1.5-3: slips card inside pillowcase; 3-4.8: tosses pillow onto grey quilted bed
+  - product: card · mites: none · person: Acacia (back/side) · framing: vertical 4K
+  - best: 0-3.3 · use: "inside pillowcase", placement pillow · notes: ✅
+- ✅ **Acacia Ellison B-Roll_17.mov** — 6.04s 2160x3840 · Product&people/root
+  - beats: 0-1.5: Acacia (sage tee) bends over grey quilted bed holding card; 1.5-4: opens pillowcase and slips card in; 4-6: drops pillow, walks off, bed
+  - product: card · mites: none · person: Acacia · framing: vertical 4K handheld
+  - best: 0.5-4 · use: pillowcase placement · notes: ✅
+- ✅ **Acacia Ellison B-Roll_18.mov** — 8.07s 2160x3840 · Product&people/root
+  - beats: 0-3: hand reaches under rust velvet sofa skirt (dark gap); 3-6: holds teal card up to camera then pushes under sofa; 6-8: hand pats sofa cushion
+  - product: teal card · mites: none · person: hand · framing: vertical 4K close
+  - best: 3-6 · use: "under the couch", other furniture · notes: ✅
+- ✅ **Acacia Ellison B-Roll_19.mov** — 4.88s 2160x3840 · Product&people/root
+  - beats: 0-1: rust velvet sofa, striped cushion; 1-4: Acacia crouches, slides card under sofa cushion/skirt on shaggy rug; 4-4.9: stands, leaves
+  - product: card · mites: none · person: Acacia · framing: vertical 4K static
+  - best: 1-4 · use: "couch too", "anywhere mites live", sofa placement · notes: ✅
+- ✅ **Acacia Ellison B-Roll_20.mov** — 2.46s 2160x3840 · root · **in cut as c038.mp4**
+  - beats: 0-1: CaptureCard box lying on grey quilted velvet duvet (top-down); 1-2: hand enters and grabs box; 2-2.5: lifts box out of frame (blur)
+  - product: current box · mites: none · person: hand · framing: vertical 4K handheld
+  - best: 0-2.0 · use: "grab yours", pick up box, CTA · notes: ✅
+- ✅ **Acacia Ellison B-Roll_21.mov** — 12.87s 2160x3840 · root
+  - beats: 0-3: hands hold box front over grey quilt; 3-5: pull pouch out; 5-11: tear pouch open (instructions side); 11-12.9: pull dark card out
+  - product: box→pouch→card · mites: none · person: hands · framing: vertical 4K handheld
+  - best: 3-12 · use: full unboxing on bed · notes: ✅
+- ✅ **Acacia Ellison B-Roll_22.mov** — 9.74s 2160x3840 · Product&people/root
+  - beats: 0-3: hand pushes teal card under bed (dark gap under grey bedskirt/frame), card lies on floor under bed; 3-6: duvet edge; 6-9.7: hand pats/fixes grey quilted duvet
+  - product: card · mites: none · person: hand · framing: vertical 4K
+  - best: 0-3 · use: "under the bed" · notes: ✅
+- ✅ **Acacia Ellison B-Roll_6.mov** — 3.21s 2160x3840 · Product&people/root
+  - beats: 0-3.2: living room: blonde woman (navy tee, cream pants) stands showing box/card to skeptical man seated arms-crossed in leather chair
+  - product: box + card · mites: none · person: Acacia (blonde 50s) + man · framing: vertical 4K static wide
+  - best: 0-3.2 · use: "convincing husband", skeptic, "nobody told her", sharing · notes: ✅
+- ✅ **Ailani Paneth B-Roll_12.mov** — 10.73s 2160x3840 · Product&people/root
+  - beats: 0-1.5: torso (teal blouse, white pants) beside white bed, pouches on bed; 1.5-3.5: main Ailani grabs card, grins at camera holding it; 3.5-6.5: bends, slides card between mattress and box-spring; 6.5-9: stands, smiles holding next card; 9-10.7: walks off (blur)
+  - product: green card/pouch · mites: none · person: Ailani main · framing: vertical 4K handheld
+  - best: 2-6.5 · use: "slid under the mattress" WITH face/smile, placement · notes: ✅
+- ✅ **Ailani Paneth B-Roll_14.mov** — 23.43s 2160x3840 · root
+  - beats: 0-12: main Ailani (teal blouse) at granite counter tears open pouch, reads, focused frown; 12-14: holds card up to camera, raised brows; 14-20: back to fiddling pouches; 20-23.4: looks into camera, speaks/unsure expression
+  - product: pouches + card · mites: none · person: Ailani main · framing: vertical 4K
+  - best: 12-14; 20-23 · use: "skeptical at first", reading instructions, testimonial · notes: ✅
+- ✅ **Ailani Paneth B-Roll_2.mov** — 6.4s 2160x3840 · Product&people/root
+  - beats: 0-1.5: granite kitchen counter: white spray bottle + dark-green card pouch, kettle & teal dishes bg; 1.5-3.2: hand reaches in, takes pouch away; 3.2-6.4: only spray bottle left
+  - product: pouch + generic spray bottle · mites: none · person: hand · framing: vertical 4K static
+  - best: 0-3.2 · use: "sprays vs card", choose the card, comparison · notes: ✅
+- ✅ **Ailani Paneth B-Roll_24.mov** — 7.8s 2160x3840 · Product&people/root · **in cut as Ailani_Paneth_B-Roll_24.mov**
+  - beats: 0-3.4: hands lift grey duvet/mattress edge revealing teal card lying on grey bed-skirt platform, slide it further under; 3.4-7.8: duvet drops, camera drifts over grey bedding (card hidden)
+  - product: teal card · mites: none · person: hands only · framing: vertical 4K handheld
+  - best: 0-3.4 · use: "slid under the mattress" · notes: ✅ (USED TC0421 B01b)
+- ✅ **Ailani Paneth B-Roll_25.mov** — 9.7s 2160x3840 · Product&people/root
+  - beats: 0-4: curly woman (floral PJ) kneels at grey bed-skirt, slides card under mattress; 4-5: holds phone; 5-8: looks at purple phone, grimace/skeptical squint (reading/setting reminder?); 8-9.7: closes eyes, smug nod
+  - product: card + purple phone · mites: none · person: curly floral-PJ woman · framing: vertical 4K handheld
+  - best: 0.5-4; 5.5-9 · use: placement + "set a reminder", reaction · notes: ✅
+- ✅ **Ailani Paneth B-Roll_28.mov** — 6.78s 2160x3840 · Product&people/root
+  - beats: 0-1: curly-haired woman 50s (floral pajamas) sits on bed edge holding green card, looks at camera unimpressed; 1-3: turns to pillow; 3-5.5: lifts pillowcase and slides card inside; 5.5-6.8: tucks, smooths
+  - product: green card · mites: none · person: curly floral-PJ woman (Ailani set #2) · framing: vertical 4K handheld
+  - best: 0.3-5.5 · use: "slide under pillow", night routine, placement · notes: ✅
+- ✅ **Ailani Paneth B-Roll_31.mov** — 9.67s 2160x3840 · Product&people/root
+  - beats: 0-2: main Ailani (cream silk PJ set) at bed corner holding card; 2-5.5: bends, slides card under mattress corner (grey duvet); 5.5-8: stands, shrug "that's it" gesture to camera, smile; 8-9.7: walks into camera
+  - product: card · mites: none · person: Ailani main (cream PJ) · framing: vertical 4K
+  - best: 2-8 · use: "that's it", "slide it under and forget", easy · notes: ✅ great
+- ✅ **Ailani Paneth B-Roll_4.mov** — 5.47s 2160x3840 · Product&people/root
+  - beats: 0-5.5: lime-green blouse bun woman in kitchen reads card pouch, frowns, skeptical, looks up at camera unimpressed
+  - product: pouch · mites: none · person: green-blouse woman · framing: vertical 4K static close
+  - best: 1.5-5.4 · use: "skeptical", "another product?", reading · notes: ✅ expressive skeptical
+- ✅ **Ailani Paneth B-Roll_5.mov** — 7.77s 2160x3840 · Product&people/root
+  - beats: 0-1.5: kitchen counter (dark cherry cabinets, granite) with spray bottle + green card; 1.5-4.5: woman (dark hair bun, lime-green blouse) walks in, picks up card, looks at it; 4.5-7.8: walks out, counter empty but spray
+  - product: card + spray bottle · mites: none · person: green-blouse bun woman (Ailani set #3) · framing: vertical 4K static
+  - best: 1.5-4.5 · use: "picks the card over the spray", kitchen · notes: ✅
+- ✅ **Ailani Paneth B-Roll_8.mov** — 10.5s 2160x3840 · Product&people/root
+  - beats: 0-6: main Ailani (light-blue denim shirt, back to cam) holds pillowcase, slides card in; 6-9: tosses pillow onto bed; 9-10.5: turns to camera, deadpan
+  - product: card · mites: none · person: Ailani main · framing: vertical 4K
+  - best: 1-6; 9-10.5 · use: pillowcase placement, "done" look · notes: ✅
+- ✅ **Ailani Paneth B-Roll_9.mov** — 5.5s 2160x3840 · Product&people/root
+  - beats: 0-1.5: main Ailani (50s, long brown wavy hair, light-blue denim shirt) looks to camera, neutral; 1.5-4: raises green CaptureCard pouch (back instructions) beside face, warm smile, nods; 4-5.5: lowers pouch, smirk/wink
+  - product: green pouch · mites: none · person: Ailani main face · framing: vertical 4K, static
+  - best: 1.5-4.2 · use: testimonial, "I finally found it", product + face · notes: ✅
+- ✅ **Alan Choi B-Roll_1.mov** — 25.0s 2160x3840 · root
+  - beats: 0-12: hand holds box BACK, finger points along how-it-works icons & text; 12-25: flips to box front, finger taps "Dust Mites - CaptureCard" title
+  - product: box back+front · mites: none · person: male hand · framing: vertical 4K handheld
+  - best: 2-10 back; 15-22 front · use: "how it works", explain features · notes: ✅
+- ✅ **Alan Choi B-Roll_19.mov** — 42.3s 2160x3840 · root
+  - beats: 0-42: laptop scrolling a long advertorial/article page with images (mites, bedroom, card on mattress glowing), hand on trackpad
+  - product: article · mites: none · person: hand · framing: vertical 4K
+  - best: 18-30 (card image) · use: "then she learns", research, reading article · notes: ✅
+- ✅ **Alan Choi B-Roll_2.mov** — 12.1s 2160x3840 · root
+  - beats: 0-3: POV over bed, hands hold box back; 3-6: pull pouches out; 6-12: two green pouches fanned showing instructions
+  - product: box + 2 pouches · mites: none · person: male hands · framing: vertical 4K POV
+  - best: 4-10 · use: unboxing in bed POV · notes: ✅
+- ✅ **Alan Choi B-Roll_20.mov** — 16.0s 2160x3840 · root
+  - beats: 0-16: laptop screen showing advertorial "6 Reasons People Are Switching to CaptureCards" with photo grid; finger points/scrolls at items
+  - product: web page · mites: none · person: finger · framing: vertical 4K
+  - best: 0-16 · use: "she reads about it", research, "then she learns", CTA landing · notes: ✅
+- ✅ **Alan Choi B-Roll_21.mov** — 21.57s 2160x3840 · root
+  - beats: 0-21.6: laptop browsing CaptureCards product/landing page (images, bundles, add-to-cart), finger points at bundle options
+  - product: website · mites: none · person: finger · framing: vertical 4K
+  - best: 12-20 · use: CTA, "order online", choose bundle · notes: ✅
+- ✅ **Alan Choi B-Roll_23.mov** — 14.17s 2160x3840 · root
+  - beats: 0-14: top-down box lying on dusty-rose sheets, handheld push in/out
+  - product: box front · mites: none · person: none · framing: vertical 4K
+  - best: 6-12 · use: box hero on bed · notes: ✅
+- ✅ **Alan Choi B-Roll_24.mov** — 59.17s 2160x3840 · root
+  - beats: 0-59: POV sitting in bed (orange wristband), opens box, pulls out each pouch, tears one open, card out, fans 4 pouches; long continuous
+  - product: box/pouches/card · mites: none · person: hands · framing: vertical 4K
+  - best: 18-26 card out; 40-48 fan · use: unboxing POV · notes: ✅
+- ✅ **Alan Choi B-Roll_25.mov** — 21.07s 2160x3840 · Product&people/root
+  - beats: 0-3: arm blur; 3-19: man crouches at bed side, slides card under mattress edge, adjusts
+  - product: card · mites: none · person: Alan · framing: vertical 4K static
+  - best: 4-12 · use: "under the mattress" · notes: ✅ (male)
+- ✅ **Alan Choi B-Roll_26.mov** — 18.43s 2160x3840 · Product&people/root
+  - beats: 0-18: close: hands lift mattress edge under brown duvet, slide teal card in, pull out to show, re-insert
+  - product: card · mites: none · person: male hands (orange band) · framing: vertical 4K
+  - best: 3-10 · use: "slid under the mattress" close · notes: ✅
+- ✅ **Alan Choi B-Roll_27.mov** — 21.63s 2160x3840 · Product&people/root
+  - beats: 0-21.6: wide: man crouched at bed side by nightstand placing card under mattress
+  - product: card · mites: none · person: Alan · framing: vertical 4K static
+  - best: 4-15 · use: placement wide · notes: ✅ (male)
+- ✅ **Alan Choi B-Roll_3.mov** — 15.17s 2160x3840 · root
+  - beats: 0-15: hand holds box front against plant/dark floor bg, slight wobble
+  - product: box front · mites: none · person: hand · framing: vertical 4K
+  - best: 2-8 · use: box hero · notes: ✅
+- ✅ **Alan Choi B-Roll_4.mov** — 25.5s 2160x3840 · root
+  - beats: 0-6: hands hold pouch (instruction side) by bedroom window; 6-12: tear pouch open; 12-17: pull card out; 17-25: card held front to camera
+  - product: pouch→card · mites: none · person: hands · framing: vertical 4K
+  - best: 12-24 · use: opening pouch · notes: ✅
+- ✅ **Alan Choi B-Roll_5.mov** — 16.8s 2160x3840 · Product&people/root
+  - beats: 0-2: white bed with brown satin pillow; 2-6: hands slide teal card into pillowcase; 6-12: second card into another pillow; 12-16.8: pillow fluffed
+  - product: teal card · mites: none · person: male hands (orange wristband) · framing: vertical 4K
+  - best: 2-6 · use: pillowcase placement · notes: ✅
+- ✅ **Alan Choi B-Roll_6.mov** — 24.47s 2160x3840 · Product&people/root
+  - beats: 0-3: white bed with brown satin pillows, wide; 3-24: man (bleached hair, white tee) puts cards into each pillowcase, adjusts
+  - product: cards · mites: none · person: Alan (man) · framing: vertical 4K static
+  - best: 4-10 · use: pillow placement wide · notes: ✅
+- ✅ **Alan Choi B-Roll_7.mov** — 12.33s 2160x3840 · root
+  - beats: 0-12: top-down handheld of teal TrueClean card lying on dusty-rose satin sheet; slow handheld drift/push in & out
+  - product: teal card, logo clear · mites: none · person: none · framing: vertical 4K
+  - best: 4-10 · use: product hero on bed, "this card" · notes: ✅ beautiful
+- ✅ **Alan Choi B-Roll_8.mov** — 20.43s 2160x3840 · Product&people/root
+  - beats: 0-6: man (bleached hair, white tee) seated on couch tears pouch; 6-12: pulls card, examines, nods; 12-20: holds card to camera, smiles
+  - product: pouch+card · mites: none · person: Alan · framing: vertical 4K static
+  - best: 12-19 · use: testimonial-ish, unboxing · notes: ✅ (male)
+- ✅ **Alan Choi B-Roll_9.mov** — 19.7s 2160x3840 · Product&people/root
+  - beats: 0-19.7: same man (light-blue tee) on couch opening pouch, enthusiastic, shows card, gestures/talks
+  - product: card · mites: none · person: Alan · framing: vertical 4K
+  - best: 3-9 · use: excited testimonial (male) · notes: ✅ (male)
+- ✅ **Charlotte Fischer B-Roll_10.mov** — 6.33s 1080x1920 · DustMites/root
+  - beats: 0-2: hands (red nails) hold teal TrueClean card front to camera over wood floor; 2-3: flips card over; 3-6.3: shows plain teal back side, shakes slightly
+  - product: teal TrueClean card (real) · mites: none · person: hands only, red nails, ring · framing: vertical handheld close
+  - best: 0-2.2 front; 3-6 back · use: "this is the card", product show, flip front/back · notes: ✅ real product
+- ✅ **Charlotte Fischer B-Roll_12 (1).mov** — 2.7s 1080x1920 · Product&people/root
+  - beats: 0-2.7: close: dark card lying on dark-grey fitted sheet, white pillow edge above, tiny drift
+  - product: dark card · mites: none · person: none · framing: vertical
+  - best: 0-2.7 · use: "card by the pillow" · notes: ✅
+- ✅ **Charlotte Fischer B-Roll_12.mov** — 2.7s 1080x1920 · Product&people/root
+  - beats: dup of "B-Roll_12 (1)": dark card on dark-grey sheet below cream pillow
+  - product: card · mites: none · person: none · framing: vertical
+  - best: 0-2.7 · use: card by pillow · notes: dup
+- ✅ **Charlotte Fischer B-Roll_13 (1).mov** — 4.04s 1080x1920 · DustMites/root
+  - beats: 0-4: hand (red nails) holds teal card over white waffle-knit blanket, slight push toward camera, logo readable
+  - product: teal TrueClean card real · mites: none · person: hand only · framing: vertical handheld
+  - best: 0.5-3.8 · use: product show on bed · notes: ✅ DUPLICATE of B-Roll_13 (same file)
+- ✅ **Charlotte Fischer B-Roll_14 (1).mov** — 2.3s 1080x1920 · Product&people/root
+  - beats: dup of B-Roll_14: dark card on white waffle blanket
+  - product: card · mites: none · person: none · framing: vertical
+  - best: 0-2.3 · use: card on bed · notes: dup
+- ✅ **Charlotte Fischer B-Roll_14.mov** — 2.3s 1080x1920 · Product&people/root
+  - beats: 0-2.3: dark teal card lying on white waffle blanket, tiny handheld drift
+  - product: teal card (dim, slightly dark) · mites: none · person: none · framing: vertical handheld
+  - best: 0-2.3 · use: card on bed, insert · notes: ✅
+- ✅ **Charlotte Fischer B-Roll_18.mov** — 10.28s 2160x3840 · root
+  - beats: 0-10: Charlotte (bun, striped cardigan) strips pillowcase & sheets off bed
+  - product: none · mites: none · person: Charlotte · framing: vertical 4K
+  - best: 3-7 · use: "changing sheets", what she tried · notes: ✅ (root only)
+- ✅ **Charlotte Fischer B-Roll_19.mov** — 9.97s 2160x3840 · Product&people/root
+  - beats: 0-2: hand slides teal card between mattress & white box-spring; 2-10: shaky over grey sheets re-made
+  - product: card · mites: none · person: hand · framing: vertical 4K shaky
+  - best: 0.5-2.5 · use: under-mattress placement · notes: ✅ (shaky)
+- ✅ **Charlotte Fischer B-Roll_20.mov** — 6.6s 1080x1920 · Product&people/root
+  - beats: 0-2: woman (hair bun, glasses, olive sweatshirt) at bed holds teal card, slides it under pillow edge; 2-4: lifts pillow, places card; 4-6.6: fluffs/pushes sage pillow down over it
+  - product: teal card · mites: none · person: Charlotte (bun, glasses) · framing: vertical handheld wide
+  - best: 0.5-4.5 · use: "slide one under your pillow", placement pillow · notes: ✅
+- ✅ **Charlotte Fischer B-Roll_25.mov** — 1.04s 1080x1920 · Product&people/root
+  - beats: 0-1: curly-haired woman 50s (glasses, brown halter) holds teal card pouch beside face, skeptical/knowing look at camera
+  - product: teal card · mites: none · person: Charlotte: curly brown-grey hair, glasses · framing: vertical selfie
+  - best: 0-1.0 · use: testimonial beat, "this little card", reaction · notes: ✅ very short (1s)
+- ✅ **Charlotte Fischer B-Roll_26.mov** — 3.07s 1080x1920 · Product&people/root
+  - beats: 0-1.3: red-nail hand flips teal card over floral rug; 1.3-1.7: shows back; 1.7-3: front to camera, logo
+  - product: teal card · mites: none · person: hand · framing: vertical
+  - best: 1.8-3 · use: product flip · notes: ✅
+- ✅ **Charlotte Fischer B-Roll_27.mov** — 3.6s 1080x1404 · Product&people/root
+  - beats: 0-3.6: curly-haired woman (glasses, brown halter) in living room tears open/pulls card pouch out of box, looking down
+  - product: box + pouch · mites: none · person: Charlotte curly · framing: vertical w/ black bars ⚠
+  - best: 0-3.6 · use: unboxing, "opened it" · notes: ✅ (needs zoom crop)
+- ✅ **Charlotte Fischer B-Roll_28.mov** — 7.08s 1080x1920 · Product&people/root
+  - beats: 0-2: messy handheld over unmade bed (taupe sheets, sage pillow); 2-5: hand slides dark card under pillow/between sheets; 5-7: card tucked, camera wobbles away
+  - product: teal card · mites: none · person: hand · framing: vertical shaky
+  - best: 2.5-5.5 · use: "tuck it in", placement under pillow · notes: ✅ (shaky)
+- ✅ **Charlotte Fischer B-Roll_7.mov** — 9.4s 1080x1920 · Product&people/root
+  - beats: 0-1: hand holds dark card by white pillow on navy sheet; 1-4: pillow; 4-9.4: hand slides card under bed edge/frame (dark wood), grey bedskirt
+  - product: card · mites: none · person: hand · framing: vertical shaky
+  - best: 4.5-8 · use: under bed placement · notes: ✅
+- ✅ **Charlotte Fischer B-Roll_8.mov** — 2.13s 1080x1920 · DustMites/root · **in cut as c016.mp4**
+  - beats: 0-2.1: hands hold the "Dust Mites - CaptureCard" box front at camera, outdoor patio planters behind; tiny wobble
+  - product: current teal/yellow box, front readable · mites: none · person: hands, red nails · framing: vertical handheld
+  - best: 0-2.1 (short) · use: box reveal, "CaptureCards", CTA product · notes: ✅ approved box design
+- ✅ **Charlotte Fischer B-Roll_9.mov** — 4.83s 1080x1920 · DustMites/root
+  - beats: 0-1.5: hands open the box flap outdoors (patio); 1.5-3: pull a dark-green CaptureCard pouch out of box; 3-4.8: pouch held up showing back instructions OPEN/SLIDE/REPLACE with yellow dots
+  - product: box + green foil pouch (current) · mites: none · person: hands, red nails · framing: vertical handheld
+  - best: 2.5-4.8 pouch instructions · use: "open, slide, replace", unboxing, how-to · notes: ✅ real unboxing
+- ✅ **Claire Fisher B-Roll_10.mov** — 16.23s 2160x3840 · Product&people/root
+  - beats: 0-2: hands on olive pillowcase (care tag visible); 2-6: open pillowcase, slip card inside next to pillow; 6-11: smooth & fold; 11-16: pat flat on bed
+  - product: card (inside) · mites: none · person: hands (watch) · framing: vertical 4K
+  - best: 2-6 · use: pillowcase placement close · notes: ✅
+- ✅ **Claire Fisher B-Roll_11.mov** — 37.86s 2160x3840 · Product&people/root
+  - beats: 0-5: grey textured duvet; 5-12: Claire places card inside olive pillowcase, smooths; 12-22: pats pillow; 22-32: lies face-down onto pillow, eyes closed, relaxed; 32-38: empty pillow
+  - product: card · mites: none · person: Claire (headband) · framing: vertical 4K static
+  - best: 22-30 · use: "sleep on it", restful sleep, relief · notes: ✅
+- ✅ **Claire Fisher B-Roll_12.mov** — 9.6s 2160x3840 · Product&people/root
+  - beats: 0-1.5: sage fitted sheet over mattress on red-cherry sleigh bed; 1.5-3: hand (watch) lifts mattress edge, other hand brings card; 3-5: slides card between mattress & box-spring; 5-9.6: lets mattress drop, smooth
+  - product: card · mites: none · person: hands · framing: vertical 4K
+  - best: 1.5-5.5 · use: "slid under the mattress" · notes: ✅ great placement
+- ✅ **Claire Fisher B-Roll_13.mov** — 19.13s 2160x3840 · Product&people/root
+  - beats: 0-4: cream duvet on cherry sleigh bed; 4-7: hand brings card, lifts duvet; 7-14: slides card between olive fitted sheet & mattress at side; 14-19: stands up
+  - product: card · mites: none · person: Claire legs/hands · framing: vertical 4K
+  - best: 7-13 · use: "under the mattress", placement · notes: ✅
+- ✅ **Claire Fisher B-Roll_14.mov** — 16.6s 2160x3840 · Product&people/root
+  - beats: 0-2: patterned grey/cream duvet on bed; 2-8: woman (striped top, glasses) smooths duvet, lifts it; 8-11: pulls out under-bed white storage drawer, tucks card in drawer/linens; 11-16.6: closes, smooths
+  - product: card (hidden) · mites: none · person: Claire · framing: vertical 4K
+  - best: 8-11 · use: "under-bed storage", bed-making · notes: ✅
+- ✅ **Claire Fisher B-Roll_16.mov** — 25.96s 2160x3840 · Product&people/root
+  - beats: 0-3: grey duvet on bed; 3-10: Claire lifts duvet & plaid sheet at corner, mattress navy edge; 10-14: crouches, slides card between mattress and box-spring; 14-26: re-tucks sheet & duvet
+  - product: card · mites: none · person: Claire · framing: vertical 4K
+  - best: 9-14 · use: "under the mattress" corner · notes: ✅
+- ✅ **Claire Fisher B-Roll_2.mov** — 16.27s 2160x3840 · root
+  - beats: 0-2: pink-nail hands tear open green foil pouch; 2-4: pouch back (OPEN/SLIDE/REPLACE) shown; 4-10: pull teal card out of pouch, card face to camera; 10-12: card back (plain); 12-16: card front again in pouch mouth
+  - product: pouch + teal card · mites: none · person: hands · framing: vertical 4K handheld
+  - best: 4-9 card emerges · use: "open the pouch", unboxing, first use · notes: ✅
+- ✅ **Claire Fisher B-Roll_21.mov** — 22.8s 2160x3840 · Product&people/root
+  - beats: 0-3: grey bed, satin pillow + dark card beside it; 3-10: removes pillow from satin case, slips card in alongside cream memory-foam pillow; 10-22.8: zips/smooths case
+  - product: card · mites: none · person: Claire hands · framing: vertical 4K
+  - best: 3-10 · use: pillow placement · notes: ✅
+- ✅ **Claire Fisher B-Roll_3.mov** — 13.13s 2160x3840 · root
+  - beats: 0-3: pink-nail hands hold box back side (instructions/QR) over wood floor, open flap; 3-5: pull green pouch out; 5-13: pouch back held up: OPEN / SLIDE / REPLACE steps readable
+  - product: box back + pouch · mites: none · person: hands pink nails · framing: vertical 4K
+  - best: 6-12 pouch steps · use: "open, slide, replace", how-to · notes: ✅
+- ✅ **Claire Fisher B-Roll_4.mov** — 14.93s 2160x3840 · root
+  - beats: 0-15: pink-nail hands hold box front, slow tilts & push into the card graphic on box; ends front-on
+  - product: box front · mites: none · person: hands · framing: vertical 4K
+  - best: 1-7 · use: box hero, CTA · notes: ✅
+- ✅ **Claire Fisher B-Roll_6.mov** — 10.34s 2160x3840 · root
+  - beats: 0-2: hand (pink nails) holds teal card low against ceiling/doorway bg; 2-7: pushes card into lens, macro on "TrueClean" logo & mite-ban icon; 7-10: pulls back
+  - product: teal card macro · mites: none · person: hand · framing: vertical 4K
+  - best: 3-7 macro · use: logo hero, "TrueClean", product close · notes: ✅
+- ✅ **Claire Fisher B-Roll_7.mov** — 20.43s 2160x3840 · Product&people/root
+  - beats: 0-20: over-shoulder: Claire (glasses, bun, striped tank) at white kitchen island sorting/flipping green pouches and reading backs
+  - product: pouches · mites: none · person: Claire · framing: vertical 4K static
+  - best: 4-12 · use: reading instructions, prepping · notes: ✅
+- ✅ **Claire Fisher B-Roll_9.mov** — 14.0s 2160x3840 · Product&people/root
+  - beats: 0-14: over-shoulder: woman (glasses, striped top, hair up) at white kitchen island reading pouch instructions, turns pouches over, sets down
+  - product: pouches · mites: none · person: Claire (back/side) · framing: vertical 4K static
+  - best: 1-8 · use: "reading the instructions", "here's how it works" · notes: ✅
+- ✅ **Fionnuala Kennedy B-Roll_11.mov** — 5.33s 1080x1920 · Product&people/root · **in cut as c064.mp4**
+  - beats: 0-1: pouch/card enters frame low; 1-4: older woman's arm (bracelets, pink nails) slides teal card between mattress and box-spring at bed edge (white mattress, wood frame); 4-5.3: hand withdraws, card hidden
+  - product: teal card (brief) · mites: none · person: Fionnuala arm · framing: vertical handheld close
+  - best: 1-4.5 · use: "slid a CaptureCard under the mattress", placement · notes: ✅
+- ✅ **Fionnuala Kennedy B-Roll_12.mov** — 3.8s 1080x1920 · Product&people/root
+  - beats: 0-1.5: hands hold teal card over lavender duvet; 1.5-2.5: lift pillow sham edge & slip card inside pillow area; 2.5-3.8: smooth pillow down
+  - product: teal card · mites: none · person: hands bracelets · framing: vertical handheld
+  - best: 0.5-3 · use: "under your pillow", placement · notes: ✅
+- ✅ **Fionnuala Kennedy B-Roll_29.mov** — 9.98s 1080x1920 · root
+  - beats: 0-10: Fionnuala (grey hair, glasses, floral top) seated at wood table, fiddling with something small in hands (card/pills), looking down
+  - product: ? small item · mites: none · person: Fionnuala · framing: vertical static
+  - best: 1-8 · use: "sitting with it", reading, waiting · notes: ✅
+- ✅ **Fionnuala Kennedy B-Roll_5.mov** — 4.34s 1080x1920 · Product&people/root
+  - beats: 0-4.3: woman 60 (grey hair, glasses, floral top) seated at wooden table, opening/handling teal card from pouch, looking down
+  - product: teal card + pouch · mites: none · person: Fionnuala face · framing: vertical static
+  - best: 0-4.3 · use: "opens a card", real customer, product use · notes: ✅
+- ✅ **Fionnuala Kennedy B-Roll_7.mov** — 24.07s 1080x1920 · root
+  - beats: 0-3: granite counter empty; 3-9: hands (bracelets, pink nails) lay out pouch showing instructions; 9-20: open pouch, pull card halfway, multiple pouches shuffled; 20-24: card + pouches on counter
+  - product: pouches + card · mites: none · person: hands · framing: vertical top-down handheld
+  - best: 4-9; 10-15 · use: unboxing on counter, "read the instructions" · notes: ✅
+- ✅ **Jules B-Roll_16.mp4** — 8.1s 1080x1920 · Product&people
+  - beats: 0-6: Jules (navy tee) at bed, holds white pillow, slips card into pillowcase; 6-8: tosses pillow onto bed, walks off
+  - product: card (barely) · mites: none · person: Jules · framing: vertical static
+  - best: 0.5-6 · use: pillow placement · notes: ✅
+- ✅ **Jules B-Roll_17.mp4** — 10.87s 1080x1920 · Product&people
+  - beats: 0-2: close: hand (red nails) holds card at gap between mattress and wooden bed frame; 2-5: pushes card down into gap; 5-10.9: card wedged out of sight, static
+  - product: dark card · mites: none · person: hand · framing: vertical close
+  - best: 0.5-5 · use: "slid under/into the mattress", close placement · notes: ✅
+- ✅ **Jules B-Roll_18.mp4** — 11.15s 1080x1920 · Product&people
+  - beats: 0-11: blonde woman (navy tee, jeans) bends over wooden bed, tucks card under mattress/strips bedding near footboard, bright room, ceiling fan
+  - product: card (small) · mites: none · person: Jules (blonde 50s) · framing: vertical static wide
+  - best: 1-5 · use: "slide it under the mattress", placement wide · notes: ✅
+- ✅ **Jules B-Roll_22.mp4** — 28.35s 2160x3840 · Product&people
+  - beats: 0-4: Jules (lavender top) sits on bed holding green card + white pillow; 4-20: slides card into pillow cover, works it in; 20-28: hugs pillow, smooths
+  - product: green card · mites: none · person: Jules · framing: vertical 4K static
+  - best: 0.5-4; 15-19 · use: pillow placement, tutorial · notes: ✅
+- ✅ **Jules B-Roll_5.mp4** — 31.83s 1080x1920 · Product&people
+  - beats: 0-6: dark-green card on black table, pouches behind; 6-22: hand lifts and shows card front close (TrueClean logo, mite icon); 22-30: shows box & pouch backs
+  - product: card+box+pouch · mites: none · person: hand · framing: vertical
+  - best: 9-20 · use: product close-ups, logo · notes: ✅
+- ✅ **Jules B-Roll_7.mp4** — 30.72s 2160x3840 · Product&people
+  - beats: 0-8: nightstand: lit lamp + pothos plant, 2 card pouches leaning at base; 8-16: pouches backs; 16-30: box placed in front of plant
+  - product: pouches + box · mites: none · person: none · framing: vertical 4K static
+  - best: 17-28 · use: "on the nightstand", cozy product still · notes: ✅
+- ✅ **Kennedy B-Roll 37.mov** — 2.57s 1080x1920 · Product&people
+  - beats: 0-2.6: blonde-grey woman 60 (pale yellow top) lying on lavender bed, smiling, holding green pouch toward camera
+  - product: pouch · mites: none · person: Kennedy · framing: vertical
+  - best: 0-2.5 · use: happy customer, "finally" · notes: ✅ STRONG testimonial (short)
+- ✅ **Kennedy B-Roll 40 (1).mov** — 6.94s 1080x1920 · Product&people
+  - beats: 0-2: box on lavender bed, hands open pouch; 2-5: slide card into pillowcase; 5-7: smooth pillow
+  - product: box + card · mites: none · person: Kennedy hands · framing: vertical
+  - best: 1-6 · use: pillow placement · notes: ✅ (dup of 40)
+- ✅ **Lynch B-Roll_1.mov** — 6.47s 1080x1920 · Product&people
+  - beats: 0-1: teal card stuck between pillow & tufted headboard; 1-4: hands (white sleeves) pull duvet, tuck card behind pillows; 4-6.5: smoothed
+  - product: card · mites: none · person: Lynch arms · framing: vertical
+  - best: 0.5-4 · use: "behind the headboard", placement · notes: ✅
+- ✅ **Lynch B-Roll_11.mov** — 7.53s 2160x3840 · Product&people
+  - beats: 0-7.5: Lynch torso (white gauzy shirt) handling green pouch, points at card, turns it, opens
+  - product: pouch/card · mites: none · person: Lynch torso · framing: vertical 4K
+  - best: 0-4 · use: "how to use", pouch detail · notes: ✅
+- ✅ **Lynch B-Roll_12.mov** — 5.4s 2160x3840 · Product&people
+  - beats: 0-5.4: Lynch (white shirt) tears pouches out of box, reading backs, focused
+  - product: box+pouch · mites: none · person: Lynch · framing: vertical 4K
+  - best: 0-4 · use: unboxing, reading · notes: ✅
+- ✅ **Lynch B-Roll_13.mov** — 10.17s 2160x3840 · Product&people
+  - beats: 0-10: Lynch tears open green pouch, pulls teal card out, examines it, skeptical squint
+  - product: pouch→card · mites: none · person: Lynch · framing: vertical 4K
+  - best: 4-9 · use: "first time opening", skeptical · notes: ✅
+- ✅ **Lynch B-Roll_14.mov** — 8.43s 2160x3840 · Product&people
+  - beats: 0-8.4: hands hold CaptureCard box FRONT steady over rug
+  - product: box front · mites: none · person: hands · framing: vertical 4K
+  - best: 0-8 · use: box hero, CTA · notes: ✅
+- ✅ **Lynch B-Roll_15.mov** — 8.6s 2160x3840 · Product&people
+  - beats: 0-8.6: hands hold CaptureCard box BACK (instructions, icons, QR) over patterned rug, steady
+  - product: box back · mites: none · person: hands · framing: vertical 4K
+  - best: 0-8 · use: "how it works", box back detail · notes: ✅
+- ✅ **Lynch B-Roll_19.mov** — 10.63s 2160x3840 · Product&people
+  - beats: 0-2: grey pillows by dark tufted headboard; 2-7: Lynch lifts sheet & pillow, tucks card; 7-10.6: smoothed bed
+  - product: card hidden · mites: none · person: Lynch · framing: vertical 4K
+  - best: 2-7 · use: pillow/bed placement · notes: ✅
+- ✅ **Lynch B-Roll_20.mov** — 5.6s 2160x3840 · Product&people
+  - beats: 0-5.6: Lynch (auburn, navy shirt, no glasses) holds teal card to camera, turns it, gentle smile, thumbs-up hand
+  - product: teal card · mites: none · person: Lynch · framing: vertical 4K
+  - best: 0-5 · use: "I finally found it", happy customer, recommend · notes: ✅ STRONG testimonial
+- ✅ **Lynch B-Roll_21.mov** — 5.73s 2160x3840 · Product&people
+  - beats: 0-5.7: Lynch holds teal card beside face, slight smile, nods
+  - product: teal card · mites: none · person: Lynch · framing: vertical 4K
+  - best: 1-5 · use: testimonial · notes: ✅
+- ✅ **Lynch B-Roll_22.mov** — 9.0s 2160x3840 · Product&people
+  - beats: 0-9: top-down 4 green pouches (instruction backs, yellow dots) fanned on white textured sheet
+  - product: pouches · mites: none · person: none · framing: vertical 4K
+  - best: 0-9 · use: "4 cards", flat-lay · notes: ✅
+- ✅ **Lynch B-Roll_24.mov** — 8.7s 2160x3840 · Product&people
+  - beats: 0-8.7: teal card on white textured sheet in dappled window-blind shadow light, slow push in to logo
+  - product: teal card · mites: none · person: none · framing: vertical 4K
+  - best: 3-8 · use: product hero, morning light · notes: ✅ beautiful
+- ✅ **Lynch B-Roll_25.mov** — 7.93s 2160x3840 · Product&people
+  - beats: 0-8: teal card lying on white pillow/duvet, slight rotation/push
+  - product: teal card · mites: none · person: none · framing: vertical 4K
+  - best: 2-7 · use: card on bed · notes: ✅
+- ✅ **Lynch B-Roll_29.mov** — 6.37s 2160x3840 · Product&people
+  - beats: 0-3.5: woman (auburn hair, navy shirt) bends over bed corner by grey tufted headboard, tucks card between mattress & headboard; 3.5-6.4: pillows, clean
+  - product: card · mites: none · person: Lynch (auburn 55) · framing: vertical 4K
+  - best: 0-3.5 · use: "slide it behind the headboard / under mattress" · notes: ✅
+- ✅ **Lynch B-Roll_30.mov** — 11.17s 2160x3840 · Product&people
+  - beats: 0-3: white pillows by grey tufted headboard; 3-9: Lynch's arm slips teal card into pillowcase, fluffs pillow; 9-11: pats
+  - product: teal card · mites: none · person: Lynch arm · framing: vertical 4K
+  - best: 3-8 · use: "inside your pillowcase" · notes: ✅
+- ✅ **Lynch B-Roll_31.mov** — 10.47s 2160x3840 · Product&people
+  - beats: 0-5: Lynch (auburn hair, black glasses, navy shirt) sits on bed reading CaptureCard box, focused; 5-6: rubs forehead (tired/stressed); 6-10.5: continues reading, serious
+  - product: box · mites: none · person: Lynch · framing: vertical 4K
+  - best: 0-5; 5-7 forehead rub · use: "she's tried everything", reading, considering, tired · notes: ✅ STRONG expressive
+- ✅ **Lynch B-Roll_5.mov** — 12.73s 2160x3840 · Product&people · **in cut as add_to_cart.mp4**
+  - beats: 0-5: laptop showing CaptureCards product page; 5-12.7: clicks add to cart, cart drawer/checkout
+  - product: website · mites: none · person: none · framing: vertical 4K
+  - best: 0-5; 6-11 · use: CTA "order now", add to cart (B42) · notes: ✅
+- ✅ **Lynch B-Roll_9.mov** — 10.37s 2160x3840 · Product&people
+  - beats: 0-2: Lynch (white blazer, jeans) walks to bed holding pouch; 2-8: sits on bed edge, opens pouch, takes card; 8-10.4: leans to camera
+  - product: pouch/card · mites: none · person: Lynch · framing: vertical 4K
+  - best: 2-8 · use: "first night trying it" · notes: ✅
+- ✅ **Mason Stevens B-Roll_1.mov** — 5.72s 1080x1920 · DustMites/root
+  - beats: 0-5.7: top-down handheld of the teal "Dust Mites - CaptureCard" box lying on a white sheet/nightstand edge with dark wood + shadows; slow push closer
+  - product: current box (front readable) · mites: none · person: no person · framing: vertical handheld
+  - best: 0-5.7 · use: box on bed/nightstand, product, CTA · notes: ✅
+- ✅ **Mason Stevens B-Roll_10.mov** — 16.25s 1080x1920 · Product&people/root
+  - beats: 0-4: white pillow on bed by rattan frame; 4-6: hand brings green card in; 6-11: lifts pillow, slips card into pillowcase (arm close blur); 11-16: pillow smoothed
+  - product: green card · mites: none · person: male hand/arm · framing: vertical handheld
+  - best: 4.5-11 · use: "inside pillowcase", placement · notes: ✅
+- ✅ **Mason Stevens B-Roll_14.mov** — 13.31s 1080x1920 · Product&people/root
+  - beats: 0-5: bed with beige/sage pillows, handheld pan; 5-8: hand reaches under pillow (placing card, mostly hidden, blur); 8-13: pillows fixed, pan away
+  - product: card barely visible · mites: none · person: male hand · framing: vertical shaky
+  - best: 5-8 · use: "under pillow" placement · notes: ✅ (weak)
+- ✅ **Mason Stevens B-Roll_16.mov** — 14.94s 1080x1920 · Product&people/root
+  - beats: 0-9: nightstand with phone only, sunny bedroom; 9-15: hand off-camera — teal card now sitting next to phone (jump)
+  - product: card on nightstand · mites: none · person: none · framing: vertical static
+  - best: 9.5-15 · use: "on the nightstand", "set and forget" · notes: ✅
+- ✅ **Mason Stevens B-Roll_17.mov** — 25.75s 1080x1920 · Product&people/root
+  - beats: 0-8: nightstand top: green card next to phone; 8-11: hand takes card; 11-16: card put back; 16-25: phone & card shift positions (handheld)
+  - product: card + phone · mites: none · person: male hand · framing: vertical
+  - best: 0-8 · use: "nightstand", "keep it near the bed" · notes: ✅
+- ✅ **Mason Stevens B-Roll_2.mov** — 20.44s 1080x1920 · root
+  - beats: 0-5: hand holds box front in sunny bedroom (lamp, nightstand); 5-8: rotates box showing side QR; 8-13: box back panel (instructions, icons, QR); 13-16: rotates; 16-20: front again
+  - product: current box all sides · mites: none · person: male hand · framing: vertical handheld
+  - best: 0-5 front; 8-13 back · use: "how it works" back panel, box detail, CTA · notes: ✅
+- ✅ **Mason Stevens B-Roll_20.mov** — 34.59s 1080x1920 · Product&people/root
+  - beats: 0-30: man (teal tee) stands at bed foot opening pouch and pulling out card, drops card on mattress; 30-34.6: card on bed alone
+  - product: pouch + card · mites: none · person: Mason · framing: vertical static
+  - best: 5-15 · use: unboxing (male) · notes: ✅
+- ✅ **Mason Stevens B-Roll_21.mov** — 39.08s 1080x1920 · root
+  - beats: 0-15: hand holds plain teal back side of card over grey bedding; 15-19: flips to front (logo); 19-39: back side again, turning
+  - product: teal card (front 15-19) · mites: none · person: hand · framing: vertical
+  - best: 15.5-19 · use: card texture, product · notes: ✅
+- ✅ **Mason Stevens B-Roll_3.mov** — 31.85s 1080x1920 · root
+  - beats: 0-4: hand holds box front on beige wood surface; 4-8: box side; 8-16: opens flap, box back panel; 16-22: pulls green pouch out; 22-28: pouch back instructions flat on surface; 28-32: empty surface
+  - product: box + pouch · mites: none · person: male hands · framing: vertical handheld
+  - best: 0-4; 16-20; 23-27 · use: full unboxing sequence · notes: ✅
+- ✅ **Mason Stevens B-Roll_4.mov** — 12.98s 1080x1920 · root
+  - beats: 0-13: top-down: box at top, fan of 4 dark-green pouches showing instruction backs (yellow dots) laid on white fluffy blanket, gentle handheld drift
+  - product: box + 4 pouches · mites: none · person: none · framing: vertical
+  - best: any 3s · use: "4 cards per box", "lasts months", flat-lay · notes: ✅
+- ✅ **Mason Stevens B-Roll_5.mov** — 25.41s 2160x3840 · root
+  - beats: 0-9: hands hold pouch (instructions) over white bed, tear open; 9-15: card out, front shown; 15-19: window view (camera swings); 19-25: card held close
+  - product: pouch→card · mites: none · person: hands · framing: vertical 4K
+  - best: 9-15 · use: opening pouch · notes: ✅
+- ✅ **Mason Stevens B-Roll_6.mov** — 19.84s 2160x3840 · root
+  - beats: 0-7: hand holds teal card front in sunny bedroom, white pillows bg; 7-11: lowers; 11-15: flips to back and front; 15-19.8: card dropped
+  - product: teal card · mites: none · person: hand · framing: vertical 4K
+  - best: 0-6 · use: product hold, "this card" · notes: ✅
+- ✅ **Mason Stevens B-Roll_7.mov** — 15.42s 2160x3840 · Product&people/root
+  - beats: 0-2: dark card lying on white duvet before beige pillows/rattan headboard; 2-4: hand lifts card to camera; 4-10: card moved toward pillow, tucked; 10-13: man's face presses into pillow briefly; 13-15: pillows
+  - product: dark card · mites: none · person: male · framing: vertical 4K
+  - best: 1-9 · use: pillow placement · notes: ✅
+- ✅ **Mason Stevens B-Roll_9.mov** — 17.66s 1080x1920 · Product&people/root
+  - beats: 0-6: hand slides dark card into fold of knit throw on white bed; 6-12: man (dark hair) leans in tucking more; 12-17.7: static bed w/ card in throw
+  - product: card · mites: none · person: Mason · framing: vertical static
+  - best: 0-6 · use: "in blankets", "everywhere mites live" · notes: ✅
+- ✅ **Ryan Suzuki B-Roll_10.mov** — 11.13s 2160x3840 · Product&people/root
+  - beats: 0-11: dark card lying on white nightstand next to lit lamp, tissue box, book "Tuesdays with Morrie", slow handheld drift
+  - product: dark card · mites: none · person: none · framing: vertical 4K
+  - best: 1-10 · use: "nightstand", bedtime, tissues = sick context · notes: ✅
+- ✅ **Ryan Suzuki B-Roll_11.mov** — 47.6s 2160x3840 · Product&people/root
+  - beats: 0-47: top-down white nightstand: lamp, tissue box, "Tuesdays with Morrie" book, dark card; hands move book/card around; socked feet visible below
+  - product: dark card · mites: none · person: hands, feet · framing: vertical 4K
+  - best: 30-46 (stable) · use: "nightstand", bedtime, tissues · notes: ✅
+- ✅ **Ryan Suzuki B-Roll_12.mov** — 8.83s 2160x3840 · Product&people/root
+  - beats: 0-2: man's hand holds green card in front of pillow; 2-5: slides it into pillowcase opening; 5-8.8: pushes deeper, adjusts pillow
+  - product: green card · mites: none · person: male hand · framing: vertical 4K handheld
+  - best: 0.3-5 · use: "inside pillowcase", placement · notes: ✅
+- ✅ **Ryan Suzuki B-Roll_13.mov** — 29.5s 2160x3840 · Product&people/root
+  - beats: 0-29.5: same nightstand: lamp, tissues, book, card, phone; mostly static, hand enters at 20-26
+  - product: dark card + phone · mites: none · person: none · framing: vertical 4K
+  - best: 2-18 · use: nightstand still · notes: ✅
+- ✅ **Ryan Suzuki B-Roll_14.mov** — 8.66s 2160x3840 · Product&people/root
+  - beats: 0-1: POV in bed, white duvet, closet bg; 1-3.5: hand lifts dark card up to camera; 3.5-6: slides card under pillow; 6-8.7: hand withdraws
+  - product: dark card · mites: none · person: male hand · framing: vertical 4K POV
+  - best: 1-6 · use: "under pillow" POV · notes: ✅
+- ✅ **Ryan Suzuki B-Roll_16.mov** — 15.27s 2160x3840 · Product&people/root
+  - beats: 0-15: dark card lying on white pillow, handheld push-in & out repeatedly, wood headboard
+  - product: dark card · mites: none · person: none · framing: vertical 4K
+  - best: 3-7 · use: "card on pillow", product on bed · notes: ✅
+- ✅ **Ryan Suzuki B-Roll_9.mov** — 20.37s 2160x3840 · Product&people/root · **in cut as c110.mp4**
+  - beats: 0-3: white duvet edge on light wood bed; 3-12: hands lift duvet & mattress (dark navy quilted), slide card under; 12-20: drop mattress, smooth duvet
+  - product: card · mites: none · person: male hands (watch) · framing: vertical 4K
+  - best: 4-12 · use: "under the mattress" · notes: ✅
+- ✅ **Wren Presley B-Roll_1.mov** — 5.34s 1080x1920 · DustMites/root
+  - beats: 0-1: Wren's bed pillows (sage striped + rust) on white plush; 1-2: hand tosses box onto bed, box lands; 2-5.3: camera pushes in on box front
+  - product: current box · mites: none · person: Wren's bed (matches Wren set) · framing: vertical handheld
+  - best: 1.5-5.3 · use: product arrival, "CaptureCards", CTA · notes: ✅
+- ⛔ **Ailani Paneth B-Roll_34.mov** — 37.9s 2160x3840 · root
+  - beats: 0-10: night nightstand (candle, vase), hands pick up used card; 10-38: phone flashlight shines through card showing dark spots inside
+  - product: used card · mites: visible catch · person: hands · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PHONE-LIGHT INSPECTION
+- ⚠ **Alan Choi B-Roll_22.mov** — 23.07s 2160x3840 · root
+  - beats: 0-23: hand holds dark card up against bright window/lamp, light glowing through it (backlit), slowly turning
+  - product: card backlit · mites: faint shadow inside · person: hand · framing: vertical 4K
+  - best: — · use: — · notes: ⚠ backlit-inspection look (light through card) — avoid
+- ⛔ **Charlotte Fischer B-Roll_17.mov** — 4.82s 2160x3840 · ProblemClips/root
+  - beats: 0-4.8: Charlotte (bun, striped cardigan) vacuums bare mattress with red stick vacuum
+  - product: none · mites: none · person: Charlotte · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Charlotte Fischer B-Roll_5.mov** — 5.6s 720x1280 · Product&people
+  - beats: 0-5.6: woman (glasses, short dark hair) in dark room shines phone flashlight on card she holds, examining
+  - product: card · mites: ? · person: Charlotte-set woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PHONE-LIGHT inspection
+- ⛔ **Claire Fisher B-Roll_22.mov** — 13.23s 2160x3840 · Product&people/root
+  - beats: 0-4: dark card on grey surface + used cream pad with brown stain; 4-8: scissors, cut-open card pieces; 8-13: close on yellow/cream pad with dark brown dirt patch
+  - product: cut card · mites: brown catch · person: hands · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ CUT-OPEN + visible catch
+- ⛔ **Claire Fisher B-Roll_24.mov** — 17.75s 2160x3840 · Product&people/root
+  - beats: 0-9: close on cream adhesive pad with dark brown dirt patch; 9-15: cut-open card pieces on table; 15-17.7: pad again
+  - product: cut card · mites: brown catch · person: none · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ CUT-OPEN + catch
+- ⛔ **Claire Fisher B-Roll_25.mov** — 167.4s 1728x3072 · root
+  - beats: 0-167: Claire (glasses, black tank) at kitchen counter cuts open cards with scissors, lightbox/white box, examines pads
+  - product: cards cut open · mites: catch inspection · person: Claire · framing: vertical
+  - best: — · use: — · notes: ⛔ CUT-OPEN / inspection
+- ⚠ **Claire Fisher B-Roll_8.mov** — 19.33s 2160x3840 · Product&people/root
+  - beats: 0-2: Claire back to camera in kitchen; 2-14: holds a card up high toward ceiling/light, examining it, arms raised; 14-19: walks toward camera, glances down
+  - product: card (held up) · mites: none · person: Claire · framing: vertical 4K static wide
+  - best: avoid · use: curiosity, examining card · notes: ⚠ "holding to light" reads like inspection (not phone-light) — careful
+- ⚠ **Ryan Suzuki B-Roll_8.mov** — 26.3s 2160x3840 · Product&people/root
+  - beats: 0-23: hand holds grey-teal card (lighter variant, washed look) up in grey bedroom, slight turns; 23-26: dark card tossed on white sheet
+  - product: card (lighter color variant?) · mites: none · person: hand · framing: vertical 4K
+  - best: 5-12 · use: product hold · notes: ⚠ card color looks grey-blue (lighting)
+- ⚠ **Snapping_at_your_partner_because_you’re_stressed_isn’t_“just_how_you_are.”It’s_a_habit._And_it’s.mp4** — 4.92s 720x1280 · root
+  - beats: 0-4.9: couple on beige couch, woman gestures irritated at man (blue shirt), black blur box over center (censored), tense
+  - product: none · mites: none · person: couple · framing: vertical 720x1280
+  - best: avoid (box) · use: "stress", irritable from poor sleep · notes: ⚠ black censor box
+  - speech: [0.0-4.8] Rise from the ashes, healing scars and building castles, protecting peace
+- ⛔ **Wren Presley B-Roll_11.mov** — 9.03s 1080x1920 · ProblemClips/root
+  - beats: 0-1: Wren (grey hair, cream PJ) sits on bed edge, green pillows, weary; 1-3: hand to forehead, pained; 3-5.5: rubs eyes/nose, distressed; 5.5-6.8: hand on cheek; 6.8-9: CapCut end card ⛔
+  - product: none · mites: none · person: Wren · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS (+CapCut logo)
+- ⚠ **Wren Presley B-Roll_2.mov** — 4.41s 1080x1920 · DustMites/root
+  - beats: 0-1.5: on Wren's bed, box with 4 silver foil pouches fanned in front; 1.5-4.4: push in close to silver pouches + box
+  - product: box + silver foil pouches (different packaging variant) · mites: none · person: none (Wren's bed) · framing: vertical handheld
+  - best: 0-2 · use: "4 cards", product contents · notes: ⚠ silver foil pouches ≠ green pouch (check if current)
+
+###  Product (AI / still) (31)
+
+- ✅ **Ailani Paneth B-Roll_10.mp4** — 15.48s 1180x2556 · Product&people/root
+  - beats: 0-9: iPhone Calendar new-event: typing "Change Capture Card!"; 9-13: set date Nov 17 2026 5-6PM; 13-15.5: calendar day view shows event
+  - product: none · mites: none · person: none · framing: vertical 1180x2556
+  - best: 4-9; 13-15 · use: "replace every 30 days", reminder, "set it and forget it" · notes: ✅
+- ✅ **B-Roll 1.mov** — 5.72s 1080x1920 · RealProductRefs
+  - beats: 0-5.7: real CaptureCard box front lying on white table, hard sun shadows, slight handheld drift
+  - product: real box · mites: none · person: none · framing: vertical
+  - best: 0-5.7 · use: box hero · notes: ✅ APPROVED REF
+- ✅ **B-Roll 21.mov** — 39.08s 1080x1920 · RealProductRefs
+  - beats: 0-39: hand holds real teal card over grey bedding, turns: back texture, front logo (17s), edges
+  - product: real teal card · mites: none · person: hand · framing: vertical
+  - best: 15-19 front · use: product texture, logo · notes: ✅ APPROVED REF
+- ✅ **B-Roll 3.mov** — 31.85s 1080x1920 · RealProductRefs
+  - beats: 0-6: box front; 6-14: box side & back; 14-22: open box, pull green pouch; 22-30: pouch back instructions
+  - product: box + pouch · mites: none · person: hands · framing: vertical
+  - best: 0-4; 24-29 · use: unboxing · notes: ✅ APPROVED REF
+- ✅ **B-Roll 6.mov** — 19.84s 2160x3840 · RealProductRefs
+  - beats: 0-7: hand holds teal card front in sunlit bedroom; 7-10: pans to bed; 10-17: card back/front flips; 17-20: bed
+  - product: real teal card · mites: none · person: hand · framing: vertical 4K
+  - best: 0-6 · use: product hero · notes: ✅ APPROVED REF
+- ✅ **capturecards-card-reference.jpg** — 0.04s 1024x1024 · RealProductRefs
+  - beats: static: two real teal cards close on white (stitched edges)
+  - product: cards · mites: none · person: none · framing: square
+  - best: — · use: product texture · notes: ✅ REF still
+- ✅ **hf_20260807_022405_6be555a4-ac3e-4f2b-8cf7-7b629f2a8f49.mp4** — 8.04s 720x1280 · root · **in cut as c299.mp4**
+  - beats: 0-2: low cross-section of mattress foam layers with dusty debris below; 2-4: camera rises; 4-8: teal card revealed on mattress top above foam layers
+  - product: teal card · mites: debris (no clear mites) · person: none · framing: vertical
+  - best: 0-8 · use: "card sits right where they live", deep→surface · notes: ✅ STRONG
+- ✅ **hf_20260820_203252_b9dccdde-2cdc-41d0-93b5-d8deb87ce175.mp4** — 5.01s 720x1280 · root
+  - beats: 0-0.8: washing machine; 0.8-1.4: air purifier; 1.4-2: stick vacuum; 2-2.6: white device under bed; 2.6-3.6: spray mist over bed; 3.6-5: white device/box under bed
+  - product: none (generic devices) · mites: none · person: none · framing: vertical, 5 quick cuts
+  - best: 0-3.6 · use: "washed, vacuumed, purified, sprayed — nothing reached" montage · notes: ✅
+- ✅ **hf_20260823_005442_4d56ab5c-3ca6-417f-bbe9-107163b24889 (1).mp4** — 7.04s 720x1280 · Product&people
+  - beats: 0-7: 3x2 grid of six different AI customers (diverse ages/genders) each holding teal card/box smiling, subtle motion
+  - product: teal cards/boxes · mites: none · person: 6 AI people · framing: vertical grid
+  - best: 0-7 · use: "thousands of customers", social proof, testimonials · notes: ✅ (AI faces)
+- ✅ **hf_20260823_005442_4d56ab5c-3ca6-417f-bbe9-107163b24889.mp4** — 7.04s 720x1280 · root
+  - beats: same as "(1)" version: 6 AI customers grid holding card/box
+  - product: cards · mites: none · person: AI people · framing: vertical
+  - best: 0-7 · use: social proof · notes: dup
+- ✅ **hf_20260823_015051_63d556a2-67af-4148-9483-0e88af93b719.mp4** — 4.01s 720x1280 · Product&people/root
+  - beats: 0-2: hand lays dark-green CaptureCard flat on white mattress topper, pats it; 2-4: hand withdraws, card rests on mattress, soft bedroom bg
+  - product: dark green card (print visible) · mites: none · person: female hand · framing: vertical, static
+  - best: 0-4 · use: "place it on/under mattress", placement · notes: ✅
+- ✅ **hf_20260823_015454_f0a37426-7ef3-4e33-a275-c2841d5a4d04 (1).mp4** — 4.01s 720x1280 · Product&people/root
+  - beats: 0-4: teal card lying on edge of quilted mattress (bare, no sheet), curtains bg, near-static micro push
+  - product: teal card · mites: none · person: none · framing: vertical static
+  - best: 0-4 · use: "on the mattress", card insert · notes: ✅ dup of non-(1)
+- ✅ **MptuLfKfQ7kwE-K7QIlrt_minimax-h3.mp4** — 5.18s 768x768 · DustMites/root
+  - beats: 0-5: overhead of a woman asleep in white bed, warm lamp light, several dark-green card pouches placed around/under bedding & on nightstands
+  - product: green pouches/cards (several) · mites: none · person: AI woman sleeping (far) · framing: square, static
+  - best: 0-5 · use: "sleep while it works", "cards around the bed", night · notes: ✅
+- ✅ **TrueClean card 01.mp4** — 5.04s 1080x1916 · root
+  - beats: 0-5: three teal TrueClean cards scattered on soft white bedding, smooth slow push-in & tilt onto nearest card logo
+  - product: 3 teal cards (MITE-CAPTURE print small ⚠) · mites: none · person: none · framing: vertical, slow push
+  - best: 0-5 · use: product hero, "pack of 4", "cards", beauty shot · notes: ✅ mostly (tiny print)
+- ⛔ **capturecards-cut-open-reference.jpg** — 0.04s 1536x1024 · RealProductRefs
+  - beats: static: scissors cutting card / card with yellow pad
+  - product: card cut · mites: none · person: hand · framing: 3:2
+  - best: — · use: — · notes: ⛔ cut-open reference only (do not use in ads)
+- ⚠ **Episode 35 _ Why Is Your Nose Blocked_ 👃 Nasal Congestion Explained _ 3D Medical Animation.mp4** — 12.0s 720x1280 · DustMites/root · **in cut as c007.mp4**
+  - beats: 0-1.5: woman profile, blue airflow into nose; 1.5-4: dissolve to sagittal head cross-section, blue air flowing through nasal cavity; 4-8: zoom into swollen turbinates, red inflamed vessels, airflow blocked; 8-10.5: pull back to full sagittal; 10.5-12: end card "THANK YOU / SUBSCRIBE / CYBERDOC AI" ⛔
+  - product: none · mites: none · person: AI woman profile · framing: vertical, slow zooms
+  - best: 0.3-10.3 (great 4-8 swollen) · use: "blocked nose", "sinuses", "can't breathe", anatomy, swelling · notes: ⚠ third-party branded end card (cut before 10.4)
+  - speech: [0.0-5.2] Nasal congestion happens when the tissues lining the nasal passages become swollen and [5.2-9.8] and occur with colds, colds, allergies, sinus problems, or nasal inflammation.
+- ⛔ **hf_20260707_102614_9cec0254-590e-4dac-a3bb-5ed975532992.mp4** — 5.04s 1244x1664 · root
+  - beats: 0-5: hand holds backlit cream card over phone light showing dark mass, teal card beside
+  - product: cream card · mites: catch · person: hand · framing: vertical
+  - best: — · use: — · notes: ⛔ PHONE-LIGHT + catch
+- ⛔ **hf_20260708_130926_81aa382e-a045-4eac-9456-1c4576b70ff5.mp4** — 6.04s 1080x1916 · root
+  - beats: 0-6: hand holds cream card in front of phone flashlight showing dark specks, bed bg
+  - product: old cream card · mites: catch specks · person: hands · framing: vertical
+  - best: — · use: — · notes: ⛔ PHONE-LIGHT + catch
+- ⚠ **hf_20260805_085104_fee3c79c-a59e-4efe-96e1-65e62094a0d8.mp4** — 5.09s 496x864 · DustMites/root
+  - beats: 0-1.2: hand picks teal card up from a wooden nightstand; 1.2-2.2: lifts toward camera; 2.2-5: hand holds card upright, logo + yellow band visible, soft bedroom bg
+  - product: teal TrueClean card (AI, MITE-CAPTURE print small) · mites: none · person: AI hand (female) · framing: vertical 496x864 (low-res), handheld feel
+  - best: 1.5-5 · use: "grab a card", product show · notes: ⚠ low res; small "MITE-CAPTURE CARD" text
+- ⛔ **hf_20260805_174835_08d38458-a08e-4745-a157-8099c437439e.mp4** — 6.04s 1076x1924 · root
+  - beats: 0-3.5: woman on bed holds cream card to phone flashlight showing dark mass, teal card on bed; 3.5-6: shocked face peeking over card
+  - product: old cream card · mites: catch · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PHONE-LIGHT + catch (shock face great but banned)
+- ⛔ **hf_20260811_205305_0d593326-c81b-49ec-bbd1-8c639a014649.mp4** — 6.04s 1080x1916 · ProblemClips
+  - beats: 0-6: blonde woman (cardigan) outdoors in spring blossoms sneezing into tissue
+  - product: none · mites: none · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS (seasonal/pollen message)
+- ⛔ **hf_20260815_020240_2cade0cb-e6d7-434e-ba2c-5aee5b3a2f85.mp4** — 8.04s 720x1280 · DustMites/root
+  - beats: 0-8: woman (40s, brown hair) lying in bed under duvet at night, holds a used cream card with brown debris to camera, phone flashlight behind it lighting it; her face lit from below, subtle head moves
+  - product: cream/beige used card (old design) · mites: brown debris on card · person: AI woman 40s brunette · framing: vertical, static
+  - best: — · use: — · notes: ⛔ phone-light inspection + visible catch + old card
+- ⛔ **hf_20260818_203301_8bce126e-f48f-4a57-8f30-27ff6573b500.mp4** — 5.04s 1228x1684 · root
+  - beats: 0-5: hand holds backlit clean cream card (empty white square) over phone, teal card beside
+  - product: cream card · mites: none · person: hand · framing: vertical
+  - best: — · use: — · notes: ⛔ PHONE-LIGHT inspection
+- ⛔ **hf_20260901_104744_fe234f8f-adb4-4304-b9f2-c48865e96b7d.mp4** — 8.04s 1080x1916 · root
+  - beats: 0-3: hands hold dark-green card, scissors cut off top strip; 3-5: strip falls; 5-8: fingers pull white/cream inner pad out of the card sleeve
+  - product: teal card cut open · mites: none · person: hands · framing: vertical top-down
+  - best: — · use: — · notes: ⛔ CUT-OPEN card
+- ⛔ **hf_20260914_202736_a7a54abb-50f9-4036-84d2-4a18ee6aea30.mp4** — 5.04s 1076x1928 · ProblemClips
+  - beats: 0-5: red-sweater woman sneezing at window, tissue box
+  - product: tissue · mites: none · person: AI red-sweater · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **hf_20260915_213342_f09433e5-861e-417f-8b49-8af3e95adc77.mp4** — 5.04s 1076x1924 · ProblemClips
+  - beats: 0-5: woman in armchair head in hand, table covered in many medicine boxes
+  - product: medicines · mites: none · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS (great "spent hundreds" visual but banned)
+- ⛔ **hf_20260915_231832_29e298dd-476d-4582-ae1e-0006280ae311.mp4** — 6.04s 1076x1924 · ProblemClips
+  - beats: 0-6: woman (bun, green cardigan) static stare in bathroom
+  - product: none · mites: none · person: AI woman · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⛔ **Illuminating_dust_mites_on_card_202608071736.mp4** — 6.02s 720x1280 · root
+  - beats: 0-6: hands hold cream used card, phone flashlight behind shows dark mite specks in center square, teal card on bed bg
+  - product: cream card · mites: catch specks · person: hands · framing: vertical
+  - best: — · use: — · notes: ⛔ PHONE-LIGHT + catch + old card
+- ⛔ **Mites_On_Card_Proof_02.mp4** — 8.04s 720x1280 · DustMites/root
+  - beats: 0-8: hand holds a backlit cream card with brown mite mass in center, bedroom bg, slight tilting
+  - product: cream/old card · mites: dense brown catch · person: hand · framing: vertical
+  - best: — · use: — · notes: ⛔ visible catch proof + old card
+- ⚠ **p.mp4** — 4.0s 1080x1920 · root · **in cut as c300.mp4**
+  - beats: 0-4: curly-haired woman 45 (beige tank) kneels by bed, drops white used card with dark spot into steel trash can, lamp-lit
+  - product: white/old card w/ spot · mites: small catch spot ⚠ · person: AI curly woman · framing: vertical
+  - best: avoid / 3-4 only · use: "replace every 30 days, toss it" · notes: ⚠ old white card + catch spot
+- ⛔ **соедини_эти_фотки_в_видео.mp4** — 10.01s 720x1280 · root
+  - beats: 0-2: hands hold dark card, scissors snip top edge; 2-5: strip removed; 5-10: pull out white adhesive pad with cream border
+  - product: card cut open · mites: none · person: hands · framing: vertical top-down
+  - best: — · use: — · notes: ⛔ CUT-OPEN card (near-dup of hf_20260901_104744)
+
+### Mites / inside mattress (61)
+
+- ✅ **3d-microscopic-visualization-of-dust-mites-crawlin-2026-05-17-00-13-14-utc.mp4** — 13.33s 1920x1080 · DustMites/root
+  - beats: 0-13: blue-grey 3D mites crawling on white fibrous surface, side tracking, several mites
+  - product: none · mites: blue-grey stylized (accurate shape) · person: none · framing: horizontal (crop)
+  - best: 2-10 · use: mite macro · notes: ✅ (cool tone)
+- ✅ **a dust mite in the mattress.mp4** — 10.04s 496x864 · DustMites/root
+  - beats: 0-1.5: translucent mattress block filled with tan fibers; 1.5-6: push into fibers; 6-10: a few pale oval mites among tan fibers
+  - product: none · mites: pale oval (blobby) · person: none · framing: vertical 496x864
+  - best: 0-10 · use: "inside the mattress" push-in · notes: ✅
+- ✅ **b1.mp4** — 4.09s 1080x1920 · root · **in cut as c332.mp4**
+  - beats: 0-1.5: blue-lit fiber tunnel with tan mites; 1.5-4: push down into glowing blue tunnel deep inside foam, mites on walls
+  - product: none · mites: tan mites · person: none · framing: vertical
+  - best: 0-4 · use: "deep inside where nothing reaches" (B11) · notes: ✅ STRONG
+- ✅ **Bedroom_air_purifier_cleans_room_202607310053.mp4** — 10.01s 720x1280 · root · **in cut as bedroom_air_purifier_cleans_room.mp4**
+  - beats: 0-1.5: bright bedroom, made grey bed, purifier on nightstand; 1.5-4: magnifier circles pop up showing tan mites in bedding; 4-10: more callouts across bed/mattress
+  - product: none · mites: tan mites in circles · person: none · framing: vertical
+  - best: 1.5-8 · use: "they're everywhere in the bed", zoom callouts · notes: ✅ (USED B39)
+- ✅ **capturecards-box-reference.jpg** — 0.04s 1024x1024 · RealProductRefs
+  - beats: static: real box front close (TrueClean, Dust Mites - CaptureCard)
+  - product: box · mites: none · person: none · framing: square 1024
+  - best: — · use: box still, end card · notes: ✅ APPROVED REF still
+- ✅ **ChatGPT Image 9 июл. 2026 г., 22_25_34.png** — 0.0s 941x1672 · root
+  - beats: static: box "Dust Mites - CaptureCard" + 3 teal cards on white bed, lamp & plant bg, soft daylight
+  - product: box + 3 cards · mites: none · person: none · framing: vertical still 941x1672
+  - best: — · use: CTA product hero, end card · notes: ✅ hero still (Ken Burns)
+- ✅ **close-up-view-of-multiple-dust-mites-crawling-on-f-2026-05-14-02-18-40-utc.mp4** — 16.1s 1920x1080 · root
+  - beats: 0-16: navy fabric folds, pale teal mites crawling in groups, slow drift
+  - product: none · mites: pale stylized · person: none · framing: horizontal
+  - best: 5-14 · use: colony on fabric · notes: ✅ (cool tone)
+- ✅ **dust mite animation 04.mov** — 10.03s 1080x1920 · root
+  - beats: 0-2: white honeycomb mesh; 2-5: magnifying glass reveals many mites in mesh; 5-10: close on brown mites crawling on white
+  - product: mesh · mites: brown mites · person: none · framing: vertical
+  - best: 2-6 · use: "invisible to the eye", magnifier reveal · notes: ✅
+- ✅ **Dust mites, proteins, sneezing.mov** — 6.37s 1080x1920 · DustMites
+  - beats: 0-1: white pillow; 1-3.5: push into fibers, mites crawling; 3.5-4.5: mite releases bubbles (allergen proteins); 4.5-6.4: protein particles float toward a nose silhouette
+  - product: none · mites: accurate · person: none · framing: vertical
+  - best: 0-6.4 · use: "allergen", "the congestion was the symptom" (B18/B19) · notes: ✅ STRONG
+- ✅ **Dust_mite_absorbing_moisture_202608131638.mp4** — 6.02s 720x1280 · DustMites/root
+  - beats: 0-6: single pale mite on cream rope fibers, water droplets form on its body (absorbing moisture)
+  - product: none · mites: accurate pale · person: none · framing: vertical
+  - best: 1-5 · use: "they live on humidity/sweat", single mite macro · notes: ✅
+- ✅ **Dust_mite_feeding_on_skin_202607302025.mp4** — 4.01s 720x1280 · root · **in cut as c237.mp4**
+  - beats: 0-4: single golden-tan dust mite (8 legs, no eyes, SEM look) on skin-flake surface, slight leg movement, dark bg
+  - product: none · mites: accurate tan mite · person: none · framing: vertical 720x1280
+  - best: 0-4 · use: "feeding on the dead skin she sheds", mite macro (B12) · notes: ✅
+- ✅ **Dust_mite_leaving_droppings_202608221732.mp4** — 6.02s 720x1280 · DustMites
+  - beats: 0-6: mites crawling on grey-beige rope fibers, one leaves tiny pellets
+  - product: none · mites: accurate · person: none · framing: vertical
+  - best: 0-6 · use: "droppings = the allergen", colony (B12/B18) · notes: ✅
+- ✅ **Dust_mites_crawling_inside_pillow_202607301942.mp4** — 6.02s 720x1280 · root
+  - beats: 0-1.5: translucent pillow showing tan mites in stuffing; 1.5-5: push into stuffing, mites crawling close; 5-6: pull back
+  - product: none · mites: accurate tan · person: none · framing: vertical
+  - best: 0-6 · use: "pillow full of mites", colony · notes: ✅
+- ✅ **Dust_mites_in_mattress_fibers_202608020621.mp4** — 8.0s 720x1280 · root
+  - beats: 0-8: inside mattress: olive/cream foam chunks and dark fibers, pale mites crawling through, slow forward dolly
+  - product: none · mites: pale mites · person: none · framing: vertical
+  - best: 0-8 · use: "deep inside the foam" · notes: ✅ STRONG
+- ✅ **Dust_mites_inside_mattress_layers_202608191951.mp4** — 4.01s 720x1280 · root · **in cut as cand_inside.mp4**
+  - beats: 0-1.5: cutaway mattress cross-section with many tan mites inside amber foam; 1.5-2.2: push into foam; 2.2-4: macro inside fibers, mites crawling among strands
+  - product: none · mites: tan mites accurate · person: none · framing: vertical
+  - best: 0-4 · use: "deep inside the foam", "inside her mattress" (B10/B11) · notes: ✅ STRONG
+- ✅ **Dust_mites_moving_inside_mattress_202608020741.mp4** — 6.02s 720x1280 · root
+  - beats: 0-2.5: white mattress fabric edge, dark cavity inside full of pale mites; 2.5-4: push in; 4-6: close on plump cream mites on fabric
+  - product: none · mites: cream mites · person: none · framing: vertical
+  - best: 0-6 · use: "inside the mattress" · notes: ✅
+- ✅ **Dust_mites_moving_inside_pillow_202607310523.mp4** — 6.02s 720x1280 · root · **in cut as c268.mp4**
+  - beats: 0-6: amber-tinted microscope view, tan mites crawling along pale fibers, slow drift
+  - product: none · mites: accurate · person: none · framing: vertical
+  - best: 0-6 · use: "colony", microscope look · notes: ✅
+- ✅ **Generate_video_dust_mites_moving_202608010256.mp4** — 6.02s 720x1280 · root
+  - beats: 0-6: dark charcoal foam/sponge cells with many pale mites crawling in and out of pores
+  - product: none · mites: pale mites accurate · person: none · framing: vertical
+  - best: 0-6 · use: "deep inside the foam" (B11) · notes: ✅ STRONG
+- ✅ **hf_20260720_124802_c8474691-045b-4c19-bd54-a5bdd11d54e2.mp4** — 10.1s 1080x1920 · DustMites
+  - beats: 0-3: clean white bed in grey room, slow push; 3-5: hole opens in mattress surface; 5-10: dive into dark interior with large grey mites in fibers
+  - product: none · mites: grey mites accurate · person: none · framing: vertical
+  - best: 0-10 · use: "then she learns what's living inside her mattress" (B10) · notes: ✅ STRONG
+- ✅ **hf_20260723_115005_b6f86b51-4265-4064-b2ce-3ce166e9ea06 (1).mp4** — 10.04s 496x864 · root
+  - beats: same visuals as "a dust mite in the mattress.mp4" (translucent mattress → tan fibers → pale oval mites)
+  - product: none · mites: pale oval · person: none · framing: vertical 496x864
+  - best: 0-10 · use: inside mattress · notes: ✅ dup-ish
+- ✅ **hf_20260807_103103_0aac4395-8c52-4653-a200-97f38dd16fb4 (1).mp4** — 8.06s 496x864 · root
+  - beats: 0-2: white mattress surface waves; 2-5: side cutaway of grey mattress layers, circle marker; 5-8: dark interior tunnel with pale translucent mites
+  - product: none · mites: pale grey mites · person: none · framing: vertical 496x864, cuts
+  - best: 2-8 · use: "deep inside the mattress" · notes: ✅ (dup of non-(1))
+- ✅ **hf_20260807_103127_724cc3b6-ab55-4556-ad0b-e5b3329056bc.mp4** — 8.06s 496x864 · DustMites/root · **in cut as c307.mp4**
+  - beats: 0-2: blue-grey fiber macro, translucent mites; 2-5: pull back across quilted navy mattress dotted with tiny white mites; 5-8: pull back to grey mattress wide
+  - product: none · mites: translucent · person: none · framing: vertical 496x864
+  - best: 0-6 · use: "millions across the mattress", reveal scale · notes: ✅
+- ✅ **hf_20260820_080151_2bc9e3ae-db6a-4e84-97ae-c2091792af3b.mp4** — 5.01s 720x1280 · root · **in cut as c263.mp4**
+  - beats: 0-1.5: dark mites in beige fibers; 1.5-3: cyan airflow lines; 3-4: vacuum nozzle sucking mites up; 4-5: mite inside vacuum chamber
+  - product: none · mites: grey-brown mites · person: none · framing: vertical
+  - best: 0-3 · use: "vacuuming only reaches the surface", vacuum (B11) · notes: ✅
+- ✅ **hf_20260820_080738_52a1f2a1-4711-46b4-a09b-b871f14be259.mp4** — 5.01s 720x1280 · root · **in cut as c258.mp4**
+  - beats: 0-5: beige foam pores (mattress foam interior), several mites crawling in and out of holes, wisps of dust
+  - product: none · mites: accurate · person: none · framing: vertical
+  - best: 0-5 · use: "deep inside the foam", "where nothing reached" (B11) · notes: ✅ STRONG
+- ✅ **hf_20260820_081347_5e3621a7-1e06-4b69-ac98-fe1d87d622cc.mp4** — 5.01s 720x1280 · root
+  - beats: 0-5: many pale olive translucent mites crawling through grey-blue fiber mesh, slow drift
+  - product: none · mites: pale olive mites (ok) · person: none · framing: vertical
+  - best: 0-5 · use: colony in fibers · notes: ✅
+- ✅ **hf_20260820_090306_1413f3da-c2fd-4737-a391-090661464cfd.mp4** — 5.01s 720x1280 · root · **in cut as c252.mp4**
+  - beats: 0-1.6: one tan mite walking on cream yarn fibers; 1.6-5: push in to cluster of mites nestled in yarn twists
+  - product: none · mites: accurate tan · person: none · framing: vertical
+  - best: 0-5 · use: "hiding in the fibers", colony · notes: ✅ STRONG
+- ✅ **hf_20260820_090559_a83c6287-39a2-4e8c-b042-a97bd8b55c02.mp4** — 5.01s 720x1280 · root
+  - beats: 0-5: wide macro: hundreds of tiny tan mites scattered across tangled pale fiber web, slow push
+  - product: none · mites: tiny mites · person: none · framing: vertical
+  - best: 0-5 · use: "millions of them", scale · notes: ✅
+- ✅ **hf_20260820_091930_2faee368-c9a7-462d-b205-cfe3626d8517.mp4** — 5.01s 720x1280 · root
+  - beats: 0-5: dense crowd of tan dust mites crawling among pale fabric fibers, backlit microscope look, swarm
+  - product: none · mites: accurate mites · person: none · framing: vertical 720x1280
+  - best: 0-5 · use: "a colony... tens of thousands to millions" (B12) · notes: ✅ STRONG
+- ✅ **hf_20260820_092514_558773e5-0676-4bc0-8651-e8463825db24.mp4** — 5.01s 720x1280 · root
+  - beats: 0-5: many tan mites crawling over blue-grey fiber mesh toward camera, depth of field
+  - product: none · mites: accurate tan · person: none · framing: vertical
+  - best: 0-5 · use: colony crawling · notes: ✅
+- ✅ **hf_20260820_180239_54848a26-e1e5-48b5-bf53-8a3857ce6b56.mp4** — 5.01s 720x1280 · root
+  - beats: 0-5: grey knit fabric surface with many dark grey-brown mites crawling, wide macro
+  - product: none · mites: dark mites · person: none · framing: vertical
+  - best: 0-5 · use: colony on fabric · notes: ✅
+- ✅ **hf_20260820_180513_f8abd308-f198-4e98-913a-31ec49c319cd.mp4** — 5.01s 720x1280 · root
+  - beats: 0-1: grey woven fibers with pale mites; 1-3.5: glowing green particle trail weaves through fibers; 3.5-5: mites gather around green glowing spot
+  - product: none · mites: accurate pale · person: none · framing: vertical
+  - best: 0-5 · use: lure / scent trail mechanism · notes: ✅
+- ✅ **hf_20260820_184313_d8fa9113-5068-413c-9982-5e98c29e64ed.mp4** — 5.01s 720x1280 · root
+  - beats: 0-2.5: deep inside grey twisted fibers, mites hidden; 2.5-5: mites emerge & converge onto flat white pad in middle
+  - product: pad · mites: accurate · person: none · framing: vertical
+  - best: 0-4.5 · use: "draws them out from deep inside" · notes: ✅
+- ✅ **hf_20260824_052232_b62a6913-e8d3-4f6b-8c67-4cc0a22709d5.mp4** — 7.04s 720x1280 · DustMites/root
+  - beats: 0-7: extreme macro of chunky cream knit/yarn fibers, teal glowing circle highlight, single small mite tucked between fibers inside circle; teal gradient fog at bottom; very slow drift
+  - product: none · mites: 1 small mite, realistic · person: none · framing: vertical, slow drift
+  - best: 0-7 · use: "hiding deep in fibers", "where you can't see", spotlight on mite · notes: ✅
+- ✅ **Lynch B-Roll_33.mov** — 12.3s 2160x3840 · Product&people
+  - beats: 0-7: teal card on round jute mat on white floor (wide); 7-12.3: push in close to card front, logo + mite-ban icon
+  - product: teal card · mites: none · person: none · framing: vertical 4K
+  - best: 8-12 · use: product hero top-down · notes: ✅ beautiful
+- ✅ **Microscopic_dust_mites_in_mattress_202608191226.mp4** — 6.02s 720x1280 · root
+  - beats: 0-6: dense cream mites crawling in dusty dark fibers, one passes close to lens (soft foreground), SEM-like
+  - product: none · mites: accurate cream · person: none · framing: vertical
+  - best: 0-6 · use: "colony", "millions in the mattress" · notes: ✅ STRONG
+- ⚠ **1788163612183-gp6ogqlpef.mp4** — 10.03s 1440x1440 · DustMites/root
+  - beats: 0-3.5: low macro dolly through a green honeycomb card mesh lined with plump tan mites, hero mite walks at camera; 3.5-6: camera dips below the mesh into amber liquid, mites floating/swimming; 6-10: wide on hundreds of mites drowning in amber liquid
+  - product: green mesh (card interior, generic) · mites: realistic-ish tan mites, chunky · person: none · framing: square 1:1, forward dolly
+  - best: 0.3-3.4 (mesh walk) safest · use: mechanism trap, "they can't escape", mites colony · notes: ⚠ "trapped/drowning" = visible catch proof, borderline
+- ⚠ **2psim1O6iHWuaEmu9xfQ1_minimax-h3.mp4** — 10.14s 768x768 · DustMites/root
+  - beats: 0-3: translucent pale mites crawl over a teal mesh above water; 3-6: mites drop into water with splashes; 6-10: top-down of dozens of elongated mites floating in grey water
+  - product: teal mesh (card interior) · mites: pale translucent, elongated (less accurate, insect-like) · person: none · framing: square 1:1, slow push
+  - best: 0-3 only · use: mechanism trap · notes: ⚠ inaccurate elongated mites late in clip; catch-proof feel
+- ⚠ **b5.mp4** — 4.09s 1080x1920 · root · **in cut as c327.mp4**
+  - beats: 0-2: teal card standing on white bed, lamp-lit; 2-4: card glows with cyan outline, push in, "MITE-CAPTURE CARD" text visible
+  - product: teal card (MITE-CAPTURE print ⚠) · mites: none · person: none · framing: vertical
+  - best: 0-2 · use: product hero glow · notes: ⚠ MITE-CAPTURE print
+- ⚠ **bait doesn't work.mp4** — 5.04s 1080x1916 · root
+  - beats: 0-5: black robot vacuum on cream carpet beside bed, ring of exaggerated fuzzy mite blobs around it
+  - product: none · mites: ⚠ exaggerated blobs · person: none · framing: vertical
+  - best: avoid · use: "vacuums don't reach" · notes: ⚠ stylized
+- ⛔ **Before - After 01.mp4** — 6.04s 1076x1928 · DustMites/root
+  - beats: 0-6: static split frame: left half bed covered with grey mite blobs, right half clean white bed, thin divider line; slight shimmer only
+  - product: none · mites: grey mite blobs on bedding · person: none · framing: vertical, locked
+  - best: — · use: — · notes: ⛔ BEFORE/AFTER — never use
+- ⛔ **Before - After 02.mp4** — 6.04s 1080x1916 · root
+  - beats: 0-6: static hotel bed; left half sheet dotted with mites, right half clean with teal TrueClean card; vertical divider
+  - product: teal card on bed (right) · mites: dark dots on sheet · person: none · framing: vertical, locked
+  - best: — · use: — · notes: ⛔ BEFORE/AFTER — never use
+- ⚠ **card composition 01.mp4** — 5.04s 1080x1916 · root
+  - beats: 0-1.6: teal card standing on cream fabric, soft sway, palm shadow; 1.6-3.5: card layers separate exploded upward (teal shell, white mesh, yellow adhesive w/ brown mites); 3.5-5: full exploded stack hold
+  - product: teal card printed "MITE-CAPTURE CARD" ⚠ · mites: brown mites on yellow pad (late) · person: none · framing: vertical, locked
+  - best: 0-1.6 hero; 1.6-3.0 explode (no mites yet) · use: product hero, "how it's built", layers · notes: ⚠ "MITE-CAPTURE CARD" text; yellow pad w/ mites = catch proof → use 0-1.6 only
+- ⚠ **card composition 02.mov** — 7.73s 1080x1920 · DustMites/root
+  - beats: 0-1: teal card tilted on pure white, layers begin to slide; 1-2.5: exploded stack forms (teal top, white mesh, yellow pad w/ brown mites, white mesh, teal back); 2.5-7.7: exploded stack slowly rotates/holds
+  - product: teal card · mites: brown mites on yellow pad · person: none · framing: vertical, locked, studio white
+  - best: 0-1.0 only · use: "inside the card", layers explainer · notes: ⚠ yellow pad w/ mites = catch proof; ⚠ MITE-CAPTURE print
+- ⚠ **card operation 01.mp4** — 6.04s 1080x1916 · DustMites/root
+  - beats: 0-4: top-down teal card on light grey, translucent glassy mites walk toward card edges; 4-6: mites at edges turn dark red/brown (filled)
+  - product: teal card, logo · mites: glassy cartoonish mites → red engorged · person: none · framing: vertical, locked top-down
+  - best: 0-3.5 · use: lure/mechanism simple · notes: ⚠ stylized/cartoon mites (off-style vs realistic)
+- ⚠ **card operation 02.mp4** — 6.04s 1176x1764 · root
+  - beats: 0-2: top-down navy bed, teal card centered, cyan sonar rings pulse outward, small grey mites around; 2-4: mites drawn inward; 4-6: mites cluster on card under pulsing rings
+  - product: teal card · mites: small grey mites · person: none · framing: vertical, locked
+  - best: 0-3 · use: "lure radius", "draws mites from across the bed" · notes: ⚠ late pile-on; stylized rings (graphic)
+- ⛔ **Claire Fisher B-Roll_23.mov** — 55.58s 2160x3840 · Product&people/root
+  - beats: 0-55: extreme macro of yellow adhesive pad with dark brown dirt/mite mass, mesh texture
+  - product: pad · mites: catch · person: none · framing: vertical 4K
+  - best: — · use: — · notes: ⛔ visible catch proof (cut-open pad)
+- ⚠ **dust mite animation 02.mov** — 7.1s 1080x1920 · root
+  - beats: 0-7: single large grey clay-render mite (8 legs, no eyes) walking on beige fibers, close side angle
+  - product: none · mites: grey untextured 3D mite (accurate shape) · person: none · framing: vertical
+  - best: 0-7 (if stylized ok) · use: mite macro · notes: ⚠ untextured/unfinished render look
+- ⚠ **dust mites animation 05.mov** — 8.0s 1080x1920 · DustMites/root
+  - beats: 0-8: single huge red/yellow false-colour SEM-style mite crawling on dark blue fibers
+  - product: none · mites: ⚠ red/yellow false colour (scary) · person: none · framing: vertical
+  - best: 0-4 · use: "allergen", shock · notes: ⚠ off-palette
+- ⚠ **Dust_mites_emerging_from_pillow_202607310000.mp4** — 6.02s 720x1280 · root
+  - beats: 0-6: green-tinted fibers with dozens of green mites crawling up toward camera
+  - product: none · mites: ⚠ green-tinted mites (off-palette) · person: none · framing: vertical
+  - best: 0-6 · use: use if graded · notes: ⚠ green colour
+- ⚠ **Dust_mites_on_mattress_fibers_202607302059.mp4** — 10.01s 720x1280 · root
+  - beats: 0-1.2: stained cream mattress surface; 1.2-10: push into rope fibers with green-olive mites crawling
+  - product: none · mites: ⚠ green-olive mites · person: none · framing: vertical
+  - best: 1-6 · use: "mattress fibers" · notes: ⚠ greenish
+- ⚠ **EPb3PPzsiNPNUWhmZpY6r_minimax-h3.mp4** — 8.0s 768x768 · DustMites/root
+  - beats: 0-4: macro low dolly over dark-green honeycomb grid, plump segmented tan mites crawling in cells toward camera; 4-6: transition to beige fluid surface, mite sinking in a droplet; 6-8: wide of many mites stuck in glossy beige goo
+  - product: green grid (card interior) · mites: realistic-ish tan, segmented (a bit grub-like) · person: none · framing: square 1:1
+  - best: 0-3.8 · use: mites crawling into card, mechanism · notes: ⚠ 4-8 = stuck/catch proof
+- ⚠ **hf_20260723_115537_0cdcf3db-0aea-49a8-853f-aa10e9857862 (1).mp4** — 10.04s 496x864 · root
+  - beats: 0-5: brown glossy mite walks across white mesh grid; 5-10: push through mesh to many mites below on dark fibers
+  - product: mesh (card) · mites: ⚠ glossy brown, tick-like · person: none · framing: vertical 496x864
+  - best: 0-5 if needed · use: mechanism mesh · notes: ⚠ off-spec mites
+- ⚠ **hf_20260723_123851_d36c9549-b0f3-4492-8b1c-d144f1b74e3b (1).mp4** — 5.04s 496x864 · root
+  - beats: 0-3: brown glossy mites on white mesh grid; 3-3.6: dip; 3.6-5: many mites submerged in liquid layer
+  - product: mesh (card) · mites: ⚠ glossy brown (tick-like) · person: none · framing: vertical 496x864
+  - best: — · use: avoid · notes: ⚠ trap/catch, off-spec
+- ⚠ **hf_20260730_224808_b228b521-82cc-4167-b518-d87e3058c523 (1).mp4** — 5.04s 1080x1916 · root · **in cut as c324.mp4**
+  - beats: 0-5: made bed with white duvet covered in giant fuzzy mite blobs
+  - product: none · mites: ⚠ exaggerated blobs · person: none · framing: vertical
+  - best: avoid · use: — · notes: ⚠ stylized
+- ⚠ **hf_20260805_085801_6056b5e4-7b1e-4e9a-8717-7d2ac2a9e70b.mp4** — 5.09s 496x864 · DustMites/root
+  - beats: 0-5: teal card lying on white quilted mattress, dark brown bug-like mites crawl toward it from all sides, gentle push
+  - product: teal card · mites: ⚠ dark brown beetle/bedbug-like (inaccurate, insect look) · person: none · framing: vertical 496x864, slow push
+  - best: 0-2 (fewer bugs) · use: lure on mattress (avoid if strict) · notes: ⚠ off-spec mites (look like bedbugs)
+- ⚠ **hf_20260805_094906_39eab8c5-eb89-4ef4-aed2-2f5f195e67d8.mp4** — 5.09s 496x864 · DustMites/root
+  - beats: 0-2: teal card on white quilted mattress, dark red mites converge; 2-5: push in, mites pile onto card face
+  - product: teal card · mites: ⚠ dark red bedbug-like · person: none · framing: vertical 496x864, push-in
+  - best: 0-1.5 · use: avoid / lure 0-1.5 · notes: ⚠ bedbug look + pile-on = catch proof
+- ⚠ **hf_20260807_080708_b11b934e-f7f5-4595-b36f-d99f8904236e.mp4** — 6.04s 496x864 · root
+  - beats: 0-1.5: macro over skin-like bumpy surface; 1.5-4.5: small brown mites walking on skin; 4.5-6: close of pale hairy mite head-on
+  - product: none · mites: ⚠ hairy mite close-up reads insect-like · person: none · framing: vertical 496x864
+  - best: 1.5-4.5 · use: "on her skin" (careful—no rash) · notes: ⚠
+- ⛔ **hf_20260908_115346_f1c9be81-e7d2-4e3a-9291-0cef1146e24a.mp4** — 5.04s 1080x1916 · ProblemClips
+  - beats: 0-5: laptop showing article "The Tiny Roommates in Your Bed: What to Know About Dust Mites"
+  - product: none · mites: none · person: none · framing: vertical
+  - best: — · use: — · notes: ⛔ PROBLEM CLIPS
+- ⚠ **Mites_In_Bed_Sleeping_Woman 05.mp4** — 5.04s 1080x1916 · root
+  - beats: 0-5: empty bed wide, duvet covered with fuzzy mite-blob texture
+  - product: none · mites: ⚠ exaggerated · person: none · framing: vertical
+  - best: avoid · use: — · notes: ⚠ stylized
+- ⛔ **Mites_On_Card_Proof_01.mp4** — 12.04s 720x1280 · root
+  - beats: 0-2: teal card held; 2-4: scissors cut it open; 4-6: white pad pulled out; 6-12: pad backlit showing dense dark mite mass
+  - product: teal card cut · mites: catch · person: hands · framing: vertical
+  - best: — · use: — · notes: ⛔ CUT-OPEN + backlit catch
+- ⚠ **Mites_trapped_in_adhesive_202608010223.mp4** — 6.02s 720x1280 · DustMites/root · **in cut as c011.mp4**
+  - beats: 0-2: exploded card layers (white mesh top, perforated layer, clear gel, teal back) with a mite walking on top; 2-4: mites sink through holes into gel; 4-6: close on many mites stuck in clear gel
+  - product: teal card layers · mites: realistic tan mites · person: none · framing: vertical, push-in
+  - best: 0-2.5 · use: "how it works", "mites pass through the mesh" · notes: ⚠ trapped = catch proof (borderline, 3D explainer)
+
+### Mechanism (lure) (7)
+
+- ✅ **Capture_card_animation_tiny_mites_202607311811.mp4** — 6.02s 720x1280 · root
+  - beats: 0-1: teal card lying on dark fibrous mattress among grey pillows, tan mites on fibers; 1-2.6: yellow-green lure glow ring pulses from card; 2.6-6: wisps of scent rise, mites drift toward card
+  - product: teal card · mites: realistic tan mites · person: none · framing: vertical
+  - best: 0-6 · use: "draws them out", mechanism · notes: ✅ STRONG lure
+- ✅ **Capture_Card_attracts_dust_mites_202607311757.mp4** — 8.0s 720x1280 · DustMites/root · **in cut as c012.mp4**
+  - beats: 0-2: teal card lying on dark grey mattress, translucent tan lure "aura" rings pulse out; 2-5: wispy scent trails rise, mites crawl toward card from fabric; 5-8: mites cluster on/around card edges, slow push-in
+  - product: teal TrueClean card, logo visible · mites: small pale realistic mites · person: none · framing: vertical 9:16, slow push
+  - best: 0-5 best (lure), 5-8 mites on card · use: "draws them out", "lure", "card attracts", mechanism · notes: ✅ lure (no catch reveal); ok
+- ✅ **Dust_mites_attracted_to_odor_202608010031.mp4** — 6.02s 720x1280 · root
+  - beats: 0-6: wide low angle over brown fabric, many small mites (yellow-tinted) moving across, golden scent ribbons drifting overhead
+  - product: none · mites: yellowish small mites · person: none · framing: vertical
+  - best: 0-6 · use: lure/scent attraction · notes: ✅
+- ✅ **Dustmites.mp4** — 4.0s 1080x1920 · root · **in cut as c313.mp4**
+  - beats: 0-4: glowing golden molecule (neryl propionate) at top, glowing scent trail curving down to tan mites on fibers
+  - product: none · mites: tan accurate · person: none · framing: vertical
+  - best: 0-4 · use: "lure molecule", "neryl propionate", mechanism · notes: ✅ STRONG
+- ✅ **hf_20260820_183945_6f07289b-66be-422b-b108-074d0b6957bb (1).mp4** — 5.01s 720x1280 · root
+  - beats: 0-2.5: mite on grey woven fibers, white scent-particle trail drifting; 2.5-3.8: mites follow trail to a flat white pad; 3.8-5: mites climb onto pad
+  - product: white pad (generic) · mites: accurate · person: none · framing: vertical
+  - best: 0-4 · use: "lure draws them out", mechanism · notes: ✅ lure mechanism (dup of non-(1))
+- ✅ **Scent_lure_attracts_dust_mites_202607312248.mp4** — 8.0s 720x1280 · root
+  - beats: 0-1.5: teal TrueClean card on charcoal knit, swirling scent rings; 1.5-5.5: golden petals/scent particles swirl, many pale mites converge; 5.5-8: mites gathered around card edges
+  - product: teal card · mites: pale accurate · person: none · framing: vertical
+  - best: 0-6 · use: "draws mites out", mechanism · notes: ✅ STRONG lure
+- ⚠ **Mites_Crawling_To_Card.mp4** — 5.04s 1080x1916 · DustMites/root · **in cut as c025.mp4**
+  - beats: 0-2: top-down teal card on white quilted mattress, scattered tiny mites; faint lure ripple rings pulse out; 2-3.5: mites converge to card edges; 3.5-5: mites swarm onto card face
+  - product: teal card · mites: small tan mites (ok) · person: none · framing: vertical, locked top-down
+  - best: 0-3.0 · use: lure, "draws them out of the mattress" · notes: ⚠ 3.5-5 pile-on = catch-ish
+
+### Lab / testing (11)
+
+- ✅ **084a5c9c3daed5db9efaf44ee48e68a1.mp4** — 4.92s 720x1280 · root
+  - beats: 0-4.9: POV arm (lilac sleeve) sprays small yellow-label bottle over leopard-print blanket and pink-pillow bed
+  - product: 3rd-party spray · mites: none · person: arm · framing: vertical 720x1280
+  - best: 0-4.5 · use: "sprays on the surface", what she tried · notes: ✅
+- ✅ **hf_20260818_223044_a620b7a7-a2df-4791-979d-1b1dfd2f4929.mp4** — 5.04s 1076x1924 · DustMites/root
+  - beats: 0-5: female scientist (dark hair bun, lab coat, gloves) looks into microscope; circular magnified inset top-left shows dense mite colony; three teal CaptureCard pouches/cards on bench foreground; lab shelving bg
+  - product: teal pouches + card on bench · mites: mites in microscope inset · person: AI scientist · framing: vertical, near-static
+  - best: 0-5 · use: "in lab testing", "studied", lab claim (B30) · notes: ✅ ok
+- ✅ **hf_20260820_093105_9ee46b3a-f19d-4983-89ce-5a95e1804a17.mp4** — 5.01s 720x1280 · root
+  - beats: 0-1.5: female scientist looks into microscope; 1.5-3.8: glass Y-maze tubes with mites choosing path (choice test); 3.8-5: two scientists (woman + bearded man w/ tablet) discuss
+  - product: none · mites: mites in glass tubes · person: AI scientists · framing: vertical, 2 cuts
+  - best: 0-5 · use: "in lab testing", "studied", B30 · notes: ✅ STRONG
+- ✅ **hf_20260820_145132_059ffddf-0b60-4fa2-9e4a-a5068cd52469.mp4** — 5.01s 720x1280 · root
+  - beats: 0-0.6: scientist (safety glasses) at microscope; 0.6-3.2: microscope circle view of dense mites in fibers; 3.2-4.4: scientist notes; 4.4-5: microscope view
+  - product: none · mites: accurate · person: AI scientist · framing: vertical, cuts
+  - best: 0-5 · use: "lab testing", "under the microscope" · notes: ✅
+- ✅ **hf_20260820_172608_1a588f32-83bd-4834-8798-e4e692086449.mp4** — 5.01s 720x1280 · root
+  - beats: 0-5: empty clear acrylic Y-maze apparatus, slow tilt down, tiny mite in chamber
+  - product: none · mites: barely visible · person: none · framing: vertical
+  - best: 1.5-5 · use: lab apparatus, "tested" · notes: ✅ (weak)
+- ✅ **hf_20260820_173348_18cc64a5-2c41-40db-a71a-69e5ce5100a3.mp4** — 5.01s 720x1280 · root · **in cut as c250.mp4**
+  - beats: 0-1.5: cluster of pale mites at bottom of acrylic Y-maze; 1.5-5: mites climb up one arm (choosing path)
+  - product: none · mites: pale mites accurate · person: none · framing: vertical
+  - best: 0-5 · use: "lab testing", choice test, lure works (B30) · notes: ✅
+- ✅ **hf_20260820_175204_891643f6-862e-4328-af5d-466416726e0d (1).mp4** — 5.01s 720x1280 · root
+  - beats: 0-3: glass Y-maze, crowd of mites in left arm; 3-5: push in, mites moving up arm
+  - product: none · mites: dark-brown mites · person: none · framing: vertical
+  - best: 0-5 · use: lab choice test · notes: ✅
+- ✅ **hf_20260820_175630_cf612c00-b412-4bdf-b010-69013d8a2125.mp4** — 5.01s 720x1280 · root · **in cut as c257.mp4**
+  - beats: 0-5: four scientists gathered around microscope/glass apparatus, one looks in, others observe intently
+  - product: none · mites: none · person: AI scientists · framing: vertical
+  - best: 0-5 · use: "in lab testing", team research · notes: ✅
+- ✅ **lab tests - neryl propionate.mp4** — 5.04s 1080x1916 · DustMites/root · **in cut as c015.mp4**
+  - beats: 0-5: long clear acrylic test trough with ruler ("20 in"), teal card at near end, a line of beige mites walk along the trough toward the card along a pale blue scent trail; scientist with clipboard writes in bg
+  - product: teal card (plain) · mites: beige mites, realistic · person: AI scientist · framing: vertical, static
+  - best: 0-5 · use: "lab testing", "neryl propionate lure", "draws mites from inches away", B30 · notes: ✅ lure test (no trapped reveal)
+- ⚠ **Dust_mites_in_pillow_mattress_202607302125.mp4** — 6.02s 720x1280 · root
+  - beats: 0-6: dark bed with circular zoom callouts showing lime-green cartoon mites on fibers + "%" labels
+  - product: none · mites: ⚠ lime-green cartoon mites (= c266 old B01) · person: none · framing: vertical
+  - best: — · use: avoid · notes: ⚠ off-style green
+- ⚠ **Otrivine Sinusitis Nasal Spray - Your Nose's Hero.mp4** — 35.97s 1080x1920 · DustMites/root · **in cut as c002.mp4**
+  - beats: 0-18: hand holds Otrivine Sinusitis Relief bottle beside its purple box on dark grey surface (static-ish); 18-26: hand removes cap/close-up nozzle; 26-36: bottle rotated in hand, label close
+  - product: Otrivine spray (competitor brand visible) · mites: none · person: hands · framing: vertical
+  - best: 0-16 product+box · use: "nasal spray", "pharmacist", decongestants · notes: ⚠ real 3rd-party brand Otrivine visible (= c002 in cut B15)
+
+### CTA / guarantee (6)
+
+- ✅ **0f5229b7ce21160f59eaa5ce5defbe8d.MP4** — 4.0s 720x1280 · CTA
+  - beats: 0-4: hand holds real teal card over sunlit white bed; TrueClean logo animates in top; "SHOP NOW" button bottom
+  - product: real teal card · mites: none · person: hand · framing: vertical 720x1280
+  - best: 0-4 · use: "shop now", end card · notes: ✅ APPROVED CTA
+- ✅ **Create_product_showcase_animation_202608202051.mp4** — 6.02s 720x1280 · root
+  - beats: 0-6: teal TrueClean card rotating 360° on white/grey studio bg, "CLICK BELOW" button at bottom
+  - product: teal card · mites: none · person: none · framing: vertical 720x1280
+  - best: 0-6 · use: CTA end, "click below", product spin · notes: ✅
+- ✅ **cta (1).mp4** — 5.09s 1080x1920 · root · **in cut as c328.mp4**
+  - beats: 0-1.5: two teal cards on white bed; 1.5-4: "90-DAY MONEY-BACK GUARANTEE" badge drops in; 4-5: "CLICK BELOW" button
+  - product: 2 teal cards · mites: none · person: none · framing: vertical
+  - best: 0-5 · use: guarantee, CTA · notes: ✅ (= c328 B42)
+- ✅ **cta_.mp4** — 4.0s 1080x1920 · root
+  - beats: 0-4: teal TrueClean card floating/bobbing above cream bed, warm lamp-lit bedroom, "Tap below" button at bottom
+  - product: teal card · mites: none · person: none · framing: vertical 1080x1920
+  - best: 0-4 · use: "tap below", end card (B42) · notes: ✅ STRONG CTA
+- ✅ **e2ad462207e6dc4d44283eec54537262.MP4** — 3.77s 720x1280 · CTA
+  - beats: 0-3.8: real teal card lying on beige quilted bed in sun stripes, TrueClean logo animates in, "SHOP NOW" button
+  - product: real card · mites: none · person: none · framing: vertical 720x1280
+  - best: 0-3.8 · use: end card · notes: ✅ APPROVED CTA
+- ✅ **TC_CTA_01.mov** — 5.0s 1080x1350 · root
+  - beats: 0-5: box + teal cards on pink pedestal, collage of customer faces bg, countdown circle 05→01, chevron arrows down
+  - product: box + cards · mites: none · person: collage faces · framing: 4:5 1080x1350
+  - best: 0-5 · use: "tap below", countdown CTA, social proof · notes: ✅ approved CTA
+
+## People / cast index
+
+- **AI woman** (15): bait doesn't work 03.mp4, bait doesn't work 04.mp4, hf_20260803_175442_03a9d954-1b9d-48e1-8a, hf_20260807_035926_551404b3-2f2e-4be7-b2, hf_20260810_073507_f93700fb-3c71-4292-be, hf_20260823_155438_8f2c85de-4fe2-4a5e-ae, Woman_discovers_dust_mites_in_2026080206, Woman_loading_laundry_into_washer_202608, Woman_sleeping_with_nasal_obstru…_202608, Woman_sneezes_from_pillow_202607310336 (, Woman_sneezing_hard_realistic_2026080423, Woman_sneezing_in_bedroom_202608071744.m, Woman_sneezing_on_bed_202608020613.mp4, Woman_taking_pill_drinking_water_2026080, Woman_washing_and_making_bed_20260802071
+- **Lynch** (9): Lynch B-Roll_12.mov, Lynch B-Roll_13.mov, Lynch B-Roll_19.mov, Lynch B-Roll_20.mov, Lynch B-Roll_21.mov, Lynch B-Roll_23.mov, Lynch B-Roll_29.mov, Lynch B-Roll_31.mov, Lynch B-Roll_9.mov
+- **Alan** (7): Alan Choi B-Roll_12.mov, Alan Choi B-Roll_13.mov, Alan Choi B-Roll_25.mov, Alan Choi B-Roll_27.mov, Alan Choi B-Roll_6.mov, Alan Choi B-Roll_8.mov, Alan Choi B-Roll_9.mov
+- **Jules** (7): Jules B-Roll_10.mp4, Jules B-Roll_11.mp4, Jules B-Roll_16.mp4, Jules B-Roll_18.mp4, Jules B-Roll_22.mp4, Jules B-Roll_8.mp4, Jules B-Roll_9.mp4
+- **male hand** (6): Alan Choi B-Roll_1.mov, Mason Stevens B-Roll_14.mov, Mason Stevens B-Roll_17.mov, Mason Stevens B-Roll_2.mov, Ryan Suzuki B-Roll_12.mov, Ryan Suzuki B-Roll_14.mov
+- **Ailani main** (5): Ailani Paneth B-Roll_1.mov, Ailani Paneth B-Roll_12.mov, Ailani Paneth B-Roll_14.mov, Ailani Paneth B-Roll_31.mov, Ailani Paneth B-Roll_8.mov
+- **male hands** (5): Alan Choi B-Roll_2.mov, Alan Choi B-Roll_26.mov, Alan Choi B-Roll_5.mov, Mason Stevens B-Roll_3.mov, Ryan Suzuki B-Roll_9.mov
+- **Claire** (5): Claire Fisher B-Roll_11.mov, Claire Fisher B-Roll_14.mov, Claire Fisher B-Roll_16.mov, Claire Fisher B-Roll_7.mov, Claire Fisher B-Roll_9.mov
+- **Mason** (5): Mason Stevens B-Roll_11.mov, Mason Stevens B-Roll_12.mov, Mason Stevens B-Roll_18.mov, Mason Stevens B-Roll_20.mov, Mason Stevens B-Roll_9.mov
+- **stock woman** (5): woman-blowing-her-nose-while-lying-in-be, woman-having-sound-sleep-2025-12-17-10-1, woman-lying-in-bed-covers-eyes-2025-12-1, woman-sits-on-bed-with-head-in-hands-202, woman-sleeping-soundly-in-her-bed-at-nig
+- **Wren** (5): Wren Presley B-Roll_10.mov, Wren Presley B-Roll_13.mov, Wren Presley B-Roll_17.mov, Wren Presley B-Roll_20.mov, Wren Presley B-Roll_21.mov
+- **Acacia** (4): Acacia Ellison B-Roll_16.mov, Acacia Ellison B-Roll_17.mov, Acacia Ellison B-Roll_19.mov, Acacia Ellison B-Roll_6.mov
+- **—** (4): Camera_zooms_into_sleeping_woman_2026081, hf_20260807_103103_0aac4395-8c52-4653-a2, hf_20260820_183945_6f07289b-66be-422b-b1, Kennedy B-Roll 40.mov
+- **AI woman sleeping** (4): Camera_zooms_into_sleeping_woman_2026081, hf_20260807_104641_2ff7cbef-3b76-4f65-a1, MptuLfKfQ7kwE-K7QIlrt_minimax-h3.mp4, WMZVhc8baHbm7dqmA7Aca_minimax-h3.mp4
+- **young woman** (3): 0710_1 (1).mp4, 0710_1.mp4, 0710_1_2.mp4
+- **arm** (3): 084a5c9c3daed5db9efaf44ee48e68a1.mp4, 97b947edca4591e5a59f908422b6de58.mp4, Charlotte Fischer B-Roll_23.mov
+- **AI curly woman** (3): b3 (1).mp4, b4.mp4, Woman_sleeping_nasal_cavity_cutaway_2026
+- **AI scientist** (3): hf_20260818_223044_a620b7a7-a2df-4791-97, hf_20260820_145132_059ffddf-0b60-4fa2-9e, lab tests - neryl propionate.mp4
+- **curly floral-PJ woman** (2): Ailani Paneth B-Roll_25.mov, Ailani Paneth B-Roll_28.mov
+- **finger** (2): Alan Choi B-Roll_20.mov, Alan Choi B-Roll_21.mov
+- **Charlotte** (2): Charlotte Fischer B-Roll_18.mov, Charlotte Fischer B-Roll_20.mov
+- **hands, red nails** (2): Charlotte Fischer B-Roll_8.mov, Charlotte Fischer B-Roll_9.mov
+- **hands** (2): Claire Fisher B-Roll_10.mov, Fionnuala Kennedy B-Roll_2.mov
+- **older man** (2): Claire Fisher B-Roll_27.mov, Claire Fisher B-Roll_29.mov
+- **Fionnuala** (2): Fionnuala Kennedy B-Roll_10.mov, Fionnuala Kennedy B-Roll_29.mov
+- **AI scientists** (2): hf_20260820_093105_9ee46b3a-f19d-4983-89, hf_20260820_175630_cf612c00-b412-4bdf-b0
+- **AI grey-haired woman** (2): Woman_reacting_with_subtle_movement_2026, Woman_realizing_solution_in_bedroom_2026
