@@ -1,0 +1,174 @@
+﻿Spin360_NordicBabies_AdultSleep
+
+
+Brief - Spin360_NordicBabies_AdultSleep.mp4
+Base ad:Spin360_Baby_NordicBabies_2to5Hours_Hook1.mp4 · Real snow footage: Nordic Baby folder · sled clip
+Product reference: SPIN360_FLOOR · SPIN360_BLADE
+Ad type: Iteration · same angle, new avatar (adults) · Format: female VO VSL · 9x16 · about 3:15 · 4 ads, same VO, 4 visual hooks.
+The idea: the Nordic-babies VSL that works for moms, told to the adult who wakes up at 3 a.m. Nordic babies nap outside in the snow and sleep almost twice as long, because outside the air never stops moving. Her bedroom is shut, the air sits still around her face, and she wakes up at three for no reason. Spin360 keeps the air moving, and she sleeps through till the alarm.
+	
+
+Hooks: The first frame has to be bright, bold and exaggerated, like a YouTube thumbnail. No dark opening clips. If a hook frame looks dark or flat, brighten it or drop it.
+	Strategy
+# Element
+	Answer
+	1 · Desire
+	Sleep the whole night through without waking up, and wake up actually rested. Core desire: comfort (rest) + feeling like yourself again.
+	2 · Avatar
+	Adults (mostly women 40–65) who wake up in the middle of the night, often around 3 a.m., wide awake for no reason. About 1 in 3 American adults wake up at least 3 nights a week (Ohayon, 2008, 8,937 adults), and for 9 in 10 of them it has lasted more than 6 months. They have tried a new mattress, pillows, sleep apps; nothing touched it.
+	3 · Angle
+	A sealed bedroom keeps you waking up at night. Same angle as Baby_NordicBabies_2to5Hours, sold to the adult.
+	4 · Mechanism
+	Problem: door and window shut, the air stops moving; every breath out stays around your face and you breathe it back in all night, so you toss, turn and wake up. Solution: Spin360 pulls air in from the top and the bottom and sends it out all the way around, so the air around the bed keeps moving like outside. No wind in your face.
+	5 · Authority
+	The Nordic tradition (babies nap outside in the snow and sleep almost twice as long), simple breathing science, and one real customer review read word for word.
+	6 · Awareness
+	Problem-aware: she knows she wakes up at 3 a.m.; she has no idea it could be the still air in her room. Strange fact: babies sleeping outside in the snow.
+	7 · Emotion
+	Opens with surprise and curiosity (snow), drops into recognition ("that's me at 3 a.m."), turns to relief: she sleeps through and opens her eyes to morning light.
+	8 · Positioning
+	Enemy: the sealed, still bedroom, and what doesn't touch it (AC cools, purifier cleans, a regular fan blasts your face so you turn it off, a new mattress). Spin360 is the air circulator made for bedrooms.
+	9 · Offer
+	30 nights in your bedroom; if you don't love how you sleep, send it back. Price reframed, never shown.
+	Production brief
+Voice: female VO, warm and natural, like the baby ad, around 200 words per minute. Look: cinematic but real, like a premium commercial: shallow depth of field, warm practical light, slow camera moves, film grain. The snow story (lines 1–3) is real snow footage, the same as the baby ad. Everything from line 4 on is cinematic AI in the same realistic look, with one woman (about 47, the one in the images) the whole way through.
+Visual language (same as the baby ad): used-up air = a translucent grey haze that sits still; fresh air = soft light-blue ribbons; a regular fan = one harsh straight stream; Spin360 = a gentle 360° ring. Problem scenes in cool blue, solution scenes in warm amber.
+Rules: the Spin360 is always the white floor model, on the floor, away from the bed, exactly like the product reference. Never show any fan blowing in her face except the regular fan in line 10. The customer review is shown as text, never as an actor. No price on screen, no discount. Images are visual inspiration only, not keyframes.
+Music: soft cinematic piano. Story: curious, with wind and snow ambience. Problem: sparse and tense. From the product reveal (line 11): warm and hopeful. Payoff: calm, morning light.
+Hooks (4 ads, same VO)
+VO for all four: "Here's how to stop waking up in the middle of the night and finally sleep straight through till morning,"
+Ad
+	Visual Inspiration
+	Scene description
+	Hook 1 · The bed in the snow
+Spin360_NordicBabies_AdultSleep_Hook1
+	  
+
+	Cinematic AI. Bright, bold, thumbnail look. The woman asleep and smiling in her own bed, standing in the middle of a snowy field on a sunny day, blue sky, sparkling snow, pines. Absurd but real-looking. Strongest scroll-stopper: it is the "drag your bed into the snow" line, shown first.
+	Hook 2 · 3:07 vs 7:00
+Spin360_NordicBabies_AdultSleep_Hook2
+	  
+
+	Cinematic AI. Bright split screen, top and bottom. Top: she is wide awake, eyes wide, the clock glowing 3:07, lit by a warm lamp (not dark). Bottom: same bed, fast asleep with both arms up, golden morning sun, the clock at 7:00. On-screen text: 3:07 AM → 7:00 AM.
+	Hook 3 · Her own breath
+Spin360_NordicBabies_AdultSleep_Hook3
+	  
+
+	Cinematic AI + VFX. Bright, clean bedroom in daylight; she is asleep on her back and a thick grey cloud of her own breath hangs over her face like a dome. High contrast, readable in one glance. Optional text: You breathe this all night.
+	Hook 4 · The baby asleep in the snow
+Spin360_NordicBabies_AdultSleep_Hook4
+	  
+
+	Real footage, the same clip the baby ad used (sled clip): a toddler bundled in a black snowsuit, fast asleep on a red sled in the middle of the snow, the camera slowly circling. Use it as is (about 6 s, the same length as the hook VO); start at about 1 s, after the dog leaves the frame. Bright daylight snow, no generation needed. Optional on-screen text: Why do these babies sleep 2x longer?
+	Script / Storyboard
+#
+	Script
+	Visual Inspiration
+	Scene description
+	Hook
+	"Here's how to stop waking up in the middle of the night and finally sleep straight through till morning,"
+	
+
+	One of the four hooks above.
+	1
+	"…and the secret comes from moms in Norway, Sweden and Finland."
+	
+
+	Real snow footage, same as the baby ad (folder below): a Nordic mom in a snowy yard holding her bundled-up baby. Optional quick map: Norway · Sweden · Finland.
+	2
+	"Over there, moms bundle their babies up, tuck them into their strollers and park them outside to sleep, even in the snow. And those babies sleep almost twice as long out there as they do inside."
+	
+
+	Real snow footage: zipping the snowsuit, a row of prams outside a café in the snow, close-up of a baby asleep with snowflakes falling. Optional text: 2x longer.
+	3
+	"It's not the cold, because they're wrapped up so warm you can barely see their faces. It's the air. Outside, the air is always moving, so every breath that baby takes is fresh air."
+	
+
+	Real snow footage: a baby wrapped so warm only the face shows; then snow drifting sideways in the breeze, with soft light-blue ribbons of air passing the baby's face (first time we see fresh air = blue ribbons).
+	4
+	"And no, you don't have to drag your bed out into the snow."
+	  
+
+	The bed in the snow (same shot as Hook 1, or a variation). 1–2 s, it should get a smile.
+	5
+	"Now, you're not a baby. But you sleep the same way. Think about your bedroom at night. The door's closed and the window's closed, so the air in there just doesn't move at all."
+	  
+
+	Split screen with matching framing: the Nordic baby asleep in the snow / her asleep in the shut bedroom. Then a hand closing the bedroom door, window shut, curtains drawn, everything still.
+	6
+	"And here's why that matters. Every time you breathe out, you're breathing out used-up air, carbon dioxide. And since the air in the room isn't moving, that used-up air doesn't go anywhere."
+	  
+
+	The shut bedroom, then side profile: every breath out leaves a small grey cloud that hangs in the air. On-screen text: CO₂.
+	7
+	"It just sits right there, around your face, so you keep breathing it back in, over and over, all night long."
+	  
+
+	Close on her face, the grey haze curling around her nose and mouth, being breathed back in. Restless.
+	8
+	"And you never notice it. You just toss and turn, check the clock, and it's three in the morning. You're wide awake, for no reason."
+	  
+
+	She tosses and turns, then lies wide awake staring at the clock: 3:07. Text: 3:07 AM.
+	9
+	"So it's not that you're a bad sleeper. You're just sleeping in air that doesn't move. What you need is air that keeps moving, just like outside. But until now, there was nothing made to do that in a bedroom."
+	
+
+	She sits on the edge of the bed in the dark, head in her hands; the grey haze hangs in the room. Then a quick cut back to the snow, the air moving.
+	10
+	"Your AC just makes the air colder, and your purifier just cleans it. A regular fan blows a harsh stream of air straight ahead, so when you point it at the bed, it blows right in your face all night, and you end up turning it off."
+	  
+
+	Quick cuts: AC on the wall, a purifier on the floor (the haze doesn't move). Then a box fan blasting one harsh straight stream into her face, hair whipping, and she switches it off. Make "straight ahead" obvious: it sets up the 360°.
+	11
+	"That's exactly why we made Spin360, and here's how it gets you sleeping straight through the night."
+	  
+
+	Product reveal: warm bedroom at dusk, the Spin360 on the floor across the room, lit like the hero. Music turns warm here.
+	12
+	"It's an air circulator made for bedrooms. It pulls air in from the top and the bottom and sends it out all the way around, so the air around your bed is always moving, just like outside."
+	
+
+	Mechanism with real product footage (SPIN360_FLOOR, SPIN360_BLADE) + VFX: blue ribbons pulled in at the top and the bottom and sent out in a gentle 360° ring, like Saturn's rings, toward the bed.
+	13
+	"So that used-up air around your face just drifts away, and every breath you take is fresh air, all night long. And you can feel it. The whole room feels open, like somebody cracked a window. But don't worry, there's no harsh wind in your face, just a soft, gentle breeze, so it's never gonna wake you up."
+	  
+
+	The haze breaks up and drifts away, blue ribbons flow past, her face relaxes. The sheer curtain moves gently with the window shut. A few strands of hair barely moving.
+	14
+	"And that's when you finally sleep. You go from waking up at three in the morning to sleeping straight through till your alarm."
+	
+
+	The clock flips 3:07 → 7:00 while she stays asleep, the window turning from blue to gold. Text: 3:07 AM → 7:00 AM.
+	15
+	"And I'm not just saying that. One customer told us, 'it took my bedroom outdoors and I sleep much better with the 'Natural' airflow all night!'"
+	
+
+	On-screen review card (5 stars, the quote word for word) over a calm bedroom shot with the Spin360. Never show a person as "the customer".
+	16
+	"And when you sleep through the night, guess what? Everything else gets easier too. And I want you to really think about what that means for you. It means you turn off the light, and you sleep the whole night through without even knowing it. No three a.m. No staring at the ceiling."
+	
+
+	She turns off the lamp and closes her eyes, smiling; time-lapse of the night passing over her, no wake-ups.
+	17
+	"It means the next time you open your eyes, it's not dark outside. It's morning. The light's coming in, and you lie there for a second thinking, 'Wait. I slept the whole night?'"
+	  
+
+	Golden morning light, she opens her eyes, surprised and happy, looks at the window.
+	18
+	"And you get up actually rested, and you feel like yourself again."
+	  
+
+	She stretches by the sunny window, rested, coffee on the sill, the Spin360 nearby.
+	19
+	"Is it cheap? No. But people spend thousands on a new mattress and still wake up in the middle of the night, because the mattress was never the problem. The air was. Spin360 is built to last over ten years, so that's every night, for years, in air that keeps moving."
+	  
+
+	A mattress showroom: she lies on an expensive new mattress, big price tag (no readable price), unsure. Then the Spin360 on its own, clean and simple, in her bedroom.
+	20
+	"So here's what I'd do. Tap the link, put a Spin360 in your bedroom, and try it for 30 nights. If you don't love how you sleep, send it back."
+	  
+
+	Final hero: calm bedroom at night, soft blue air moving, her asleep in the background, the Spin360 in front. End card: Try it for 30 nights.
+	What's up to you
+The exact cuts, the pace, the music and the end card. Keep the VO as written, keep the hooks bright, keep one woman the whole way.

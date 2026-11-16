@@ -1,0 +1,169 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID:Spin360_UGC_Menopause_NaturalBreeze
+Author: Gabriel
+Editor: Chose
+
+
+AD BRIEF
+	[1] Creative Direction
+
+
+Watch2026-07-07 23-11-03.mp4
+
+
+Inspiration: fb-1663488744529734-abca95cdbc-1-video.mp4
+Spin360_DontHaveAC_Woman_Hook_4.mp4
+UT_April_Sleep.mp4
+You watch to have an inspiration but don't follow everything 100%, just if you want some inspiration
+Spin360__Anti-Ad_Masterclass.mp4
+
+
+
+
+
+
+
+
+[2] Script
+if you're going through menopause, your nights probably suck as much as mine did.
+You're up at 3am, hot, brain won't shut off. The night's supposed to be the rest part. Instead it's the worst part of the whole day.
+So this thing kind of changed that for me. It's the breeze — it's an actual breeze, like real wind off the ocean, moving all around you. Your body just knows the difference the second you feel it.
+And it makes this shhhh sound that just... shuts my brain up. Finally.
+Oh, and the scent pods — you drop one in and the room smells like a spa. That part I did not expect.
+It's not cheap, I'll be honest. But the first night I actually slept through — and pretty much every night since.
+I don't know. You kind of have to feel it.
+
+
+
+
+Primary Text:
+I didn’t think a fan was gonna do anything for menopause nights, but this little thing made my bedroom feel totally different at 3AM.
+Headline:
+Not 3AM Again
+
+
+
+
+Video Feedback & Storyboard Direction — V2 Revision
+Date: July 18, 2026
+Watch this video first to have the idea about flow: How Does an Editor Think and Feel?
+1. The Big Picture — What Changed and Why
+First, to be clear: this is not about anything you did wrong. You followed the example video I sent you, and you executed it correctly — the direction came from me. What changed is that now, seeing the final result on screen, I realized the approach itself isn’t landing the way I expected. So this revision is about the concept, not the execution.
+Because of that, we’re rebuilding the whole ad. This isn’t a list of small tweaks to the current cut — we’re redoing the edit and reorganizing the shots from scratch, which is why I’m sending you this new storyboard. Treat the storyboard in Section 6 as the new blueprint for the ad, and the notes throughout this document as the reasoning behind it.
+The current cut is solid in several areas (voiceover, overall structure), but watching it as a whole, it doesn’t feel real enough yet. The AI-generated shots stand out as AI, and that undermines the entire premise of the ad. So we’re changing direction on the creative approach.
+We’re dropping the “show her suffering” angle. The original inspiration reference showed the woman visibly going through menopause symptoms — restless, hot, frustrated. After seeing the result, I don’t think that works for our brand. Acting out symptoms on camera reads as staged, and staged is the opposite of what we need here.
+We’re replacing it with an emotional arc told through atmosphere, not acting. She starts calm and awake, reading in bed. The product enters. She sleeps. She wakes up rested. That’s the whole story — a believable night, told visually, while the voiceover carries the emotional weight of the symptoms.
+The core principle: visuals and voiceover do not need to match literally. When the VO describes the bad nights (“up at 3am, hot, brain won’t shut off”), we do NOT need to show her experiencing that. We show good vibes — her reading, the room, the product. The viewer connects the dots. What makes an ad feel high-quality is not literal illustration; it’s flow, audio quality, music quality, shot quality, and visual consistency from the first frame to the last.
+2. Congruency — The #1 Priority
+This is the single most important note in this document.
+The ad works only if it feels like one continuous, genuinely filmed piece — same room, same lighting, same color grade, same “camera,” from start to finish. Everyone knows it’s an ad; that’s fine. But it should feel like an ad that was actually produced — planned, shot, and prepared for this angle — not assembled from mismatched clips.
+Right now, two shots break that congruency:
+1. The opening AI shot (her lying down) — reads as AI-generated, different visual identity. This one gets replaced with real footage.
+2. The scent pod shot — the color grade shifts and it’s framed more cinematically, so it no longer feels like the same room. The camera language is different from the rest of the footage, and the brain notices the break before it even processes what’s on screen. This is the only shot we’ll try regenerating with AI.
+The fix: for everything except the scent pod moment, replace the AI shots with the real footage we already have — including the opening. The only shot to regenerate with AI (Seedance) is the scent pod scene, locked to the same environment, same lighting, and same visual identity as the real footage, so it looks like she filmed it herself — not like the brand inserted cinematic AI b-roll. If the generated shot doesn’t come out convincing, fall back to real footage (see Section 4).
+This matters even more given the sensitive subject matter (menopause). Any hint of artificiality erodes trust with exactly the audience we’re speaking to.
+3. The New Narrative Arc
+The visual story, in order:
+1. Awake, at ease — she’s up, reading her book in bed. Calm, warm, good vibes. No symptom acting, regardless of what the VO is saying.
+2. Product enters — close-up product shots. Clean, focused.
+3. More product — continue building product presence.
+4. Sleeping with the product — she’s asleep, product visible/nearby. Lighting shifts naturally to night. Product shots continue in this darker ambiance.
+5. Close on her — tight shots of her sleeping peacefully.
+6. Scent pod moment — the one insert shot (see Section 4).
+7. Waking up — she wakes, stretches, rested. End of video.
+This exact order can flex — use editorial judgment. What can’t flex: the arc must read as one believable night, a natural sequence of events, in one environment.
+4. The Scent Pod Scene — Special Handling
+This is the only shot in the entire video to be regenerated with AI — everything else uses the real footage we already have. It’s also the hardest shot to get right, and the one I’m leaving partially open to your judgment.
+Goal: one perfect shot of her placing the scent pod, in the same bedroom, same lighting, same visual identity as everything else.
+Priority order:
+1. Best case: AI-generated shot (Seedance) of her placing the pod, fully matched to the room and lighting. If it’s convincing, use it.
+2. Fallback A: keep showing her sleeping and overlay a screenshot/graphic on screen indicating where the scent pod goes. This can work.
+3. Fallback B: use one of the real shots we already have.
+Staying in the same environment is what makes it feel professional. A beautiful shot in the wrong room is worse than a simple shot in the right one.
+5. Technical & Editorial Fixes
+#
+	Item
+	Fix
+	1
+	Music
+	Replace with the original track. The current audio sounds ripped/extracted from a video — quality is noticeably off.
+	2
+	CTA
+	Remove the offer from the CTA. Cleaner and more organic without it.
+	3
+	Voiceover
+	Approved — no changes. (Note for future iterations: ideally the voice would feel like her speaking, not a generic VO. Not a request for this version.)
+	4
+	Scent pod
+	 The scent pod scene currently shifts grade and breaks the room continuity.
+	5
+	Captions
+	Pull captions slightly further inside the safe zone. Also consider fewer words per caption in some sections.
+	6
+	Aspect ratio
+	File doesn’t appear to be 9:16 — please verify and fix.
+	7
+	Frame rate
+	At 0:22 the frame rate looks off — please check and fix.
+	
+
+6. Script & Shot-by-Shot Storyboard
+#
+	Script (VO)
+	Visual
+	Notes
+	1
+	“If you’re going through menopause, your nights probably suck as much as mine did. You’re up at 3am, hot, brain won’t shut off. The night’s supposed to be the rest part. Instead it’s the worst part of the whole day.”
+	  
+  
+  
+
+	Her awake, reading her book in bed. Good vibes, calm, natural — NO symptom acting, even though the VO describes the bad nights. Use the real footage we have of her; real shots make this section stronger. After her awake shots, transition into product.
+	2
+	“So this thing kind of changed that for me. It’s the breeze — it’s an actual breeze, like real wind off the ocean, moving all around you. Your body just knows the difference the second you feel it. And it makes this shhhh sound that just... shuts my brain up. Finally.”
+	  
+  
+  
+  
+  
+
+	Product close-ups. As the sequence moves into night, lighting shifts naturally — show the product with her asleep in frame/nearby, then her sleeping with the product, then a close-up on her. The lighting change should read as time passing, not as a different location.
+	3
+	“Oh, and the scent pods — you drop one in and the room smells like a spa. That part I did not expect.”
+	
+
+	The scent pod insert — likely a single shot of her placing the pod. CRITICAL continuity moment: same room, same lighting, same visual identity. See Section 4 for the priority order (AI shot → on-screen graphic → real footage fallback).
+	4
+	“It’s not cheap, I’ll be honest. But the first night I actually slept through — and pretty much every night since. I don’t know. You kind of have to feel it.”
+	  
+  
+  
+
+	Return to product — close-up only, no sleeping shots here. Then she wakes up, stretches, rested. End the video on that.
+	
+
+Summary in One Line
+Make it feel like one real night, filmed in one real room, by her — and let the voiceover do the emotional heavy lifting.
+
+
+Watch: 2026-07-25 20-36-51.mp4
+Source file
+Feedback file.mp4
+This cut already has my edit changes in it. Use it as-is — no re-cutting, no re-timing. Only add text on top.
+What to deliver
+Three versions of the same video. Only the on-screen text changes.
+Version
+	Headline (first 3s)
+	V1
+	I like nights again
+	V2
+	I actually look forward to bedtime now
+	V3
+	— none —
+	Headline (V1 & V2)
+* Appears at the very start, holds ~3 seconds, then fades out.
+* Upper third of the frame. Don’t cover her face or the fan.
+* V2 breaks into two lines — break after “look forward to”.
+V3
+* No text on screen at all. Voice over only.

@@ -1,0 +1,376 @@
+{
+ "batch": "batch_016",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_016.out.json",
+ "clips": [
+  {
+   "id": "a0e99184-29dc-4251-ba5a-f97e46e9c39d",
+   "filename": "568107_Window_Fan_Bed_Boy_By_Jordan_Hatfield_Artlist_4K.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 19.75,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a0e99184-29dc-4251-ba5a-f97e46e9c39d_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a0e99184-29dc-4251-ba5a-f97e46e9c39d_2.jpg"
+   ],
+   "bya_description": "A person lies in a dark bedroom with a box fan in the window.",
+   "bya_tags": [
+    "Bedroom",
+    "Curtains & windows",
+    "Old fan comparison",
+    "Bedroom",
+    "Curtains & windows",
+    "Old fan comparison",
+    "Tossing & turning"
+   ]
+  },
+  {
+   "id": "f3143892-050c-493c-99a9-b1b166833a0f",
+   "filename": "IMG_3802.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 18.63,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f3143892-050c-493c-99a9-b1b166833a0f_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f3143892-050c-493c-99a9-b1b166833a0f_2.jpg"
+   ],
+   "bya_description": "A black pedestal fan with a slatted top stands on a wooden patio. People sit at a dining table behind it.",
+   "bya_tags": [
+    "Patio & backyard",
+    "Patio evening",
+    "Product hero shot",
+    "Patio & backyard",
+    "Patio evening"
+   ]
+  },
+  {
+   "id": "69fb95b4-9f75-49e1-87a5-eb1326222dea",
+   "filename": "IMG_3810.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 20.04,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/69fb95b4-9f75-49e1-87a5-eb1326222dea_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/69fb95b4-9f75-49e1-87a5-eb1326222dea_2.jpg"
+   ],
+   "bya_description": "Hand snaps a clear pod onto a black fan.",
+   "bya_tags": [
+    "Scent pod drop",
+    "Scent pod drop"
+   ]
+  },
+  {
+   "id": "b857c67b-3194-459d-91af-b244aec5e2a7",
+   "filename": "IMG_3846.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 18.13,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b857c67b-3194-459d-91af-b244aec5e2a7_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b857c67b-3194-459d-91af-b244aec5e2a7_2.jpg"
+   ],
+   "bya_description": "Black fan in living room with lake view.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Fan spinning close-up",
+    "Fan spinning close-up",
+    "Living room"
+   ]
+  },
+  {
+   "id": "d4ba4329-753b-4c18-9929-23b2bfca34fe",
+   "filename": "IMG_3850.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 18.23,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d4ba4329-753b-4c18-9929-23b2bfca34fe_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d4ba4329-753b-4c18-9929-23b2bfca34fe_2.jpg"
+   ],
+   "bya_description": "Close-up of a black fan spinning in a bright living room with a lake view.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Living room",
+    "Product hero shot",
+    "Fan spinning close-up",
+    "Living room"
+   ]
+  },
+  {
+   "id": "7ed6f9bd-044e-41a1-8fe0-a9267a9f937f",
+   "filename": "IMG_8179.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 19.62,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7ed6f9bd-044e-41a1-8fe0-a9267a9f937f_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7ed6f9bd-044e-41a1-8fe0-a9267a9f937f_2.jpg"
+   ],
+   "bya_description": "A black cylindrical fan stands in a modern living room. A person briefly passes in front of the lens.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Product on surface",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "f800d4c8-fa12-4d3a-835e-1cd99669857d",
+   "filename": "POV hand by fan",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 18.77,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f800d4c8-fa12-4d3a-835e-1cd99669857d_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f800d4c8-fa12-4d3a-835e-1cd99669857d_2.jpg"
+   ],
+   "bya_description": "A hand with a gold ring waves in front of a cylindrical air purifier's vents. The device sits near a window with a forest view.",
+   "bya_tags": [
+    "Air purifier top",
+    "Curtains & windows",
+    "Feeling the breeze",
+    "Air purifier top",
+    "Curtains & windows",
+    "Feeling the breeze",
+    "Nature montage",
+    "Product close-up"
+   ]
+  },
+  {
+   "id": "a5a84ce6-dfb6-43a9-aabf-0e208b8b08ec",
+   "filename": "scent pod",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 19.66,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a5a84ce6-dfb6-43a9-aabf-0e208b8b08ec_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a5a84ce6-dfb6-43a9-aabf-0e208b8b08ec_2.jpg"
+   ],
+   "bya_description": "A hand holds a yellow translucent disc in front of a cylindrical fan.",
+   "bya_tags": [
+    "Living room",
+    "Fan controls",
+    "Product in hand",
+    "Fan controls",
+    "Living room",
+    "Product in hand",
+    "Relaxing at home",
+    "Scent pod drop"
+   ]
+  },
+  {
+   "id": "f2f2bfc3-5e67-4dd5-9376-28d1533c8728",
+   "filename": "360 quiet.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 19.58,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f2f2bfc3-5e67-4dd5-9376-28d1533c8728_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f2f2bfc3-5e67-4dd5-9376-28d1533c8728_2.jpg"
+   ],
+   "bya_description": "A white pedestal fan with a gold-trimmed cage top stands on a wooden floor against a plain wall. A small digital display on the stem shows a circular icon.",
+   "bya_tags": [
+    "Product hero shot",
+    "Product on surface",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "0ac25079-38cd-4074-b9fd-e41c7f66b875",
+   "filename": "air visualization.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 17.47,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0ac25079-38cd-4074-b9fd-e41c7f66b875_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0ac25079-38cd-4074-b9fd-e41c7f66b875_2.jpg"
+   ],
+   "bya_description": "A white pedestal fan with gold accents stands on a wood floor in a living room.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Product on surface",
+    "Living room",
+    "Product on surface",
+    "Visible airflow test"
+   ]
+  },
+  {
+   "id": "465969fb-5ca0-4708-b19f-673e10366585",
+   "filename": "blanket on floor",
+   "folder": "Spin360 - Avery",
+   "duration_s": 19.05,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/465969fb-5ca0-4708-b19f-673e10366585_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/465969fb-5ca0-4708-b19f-673e10366585_2.jpg"
+   ],
+   "bya_description": "Handheld camera moves around the blanket on the rug. The bed frame is visible in the background. Then a grey patterned blanket lies crumpled on a rug beside a bed. The camera pans across the floor. Then Wider view of the bedroom reveals a nightstand and lamp. The blanket remains on the floor.",
+   "bya_tags": [
+    "Bedroom",
+    "Bedroom"
+   ]
+  },
+  {
+   "id": "6377e6b8-5dd6-4ba8-bd12-d937da096c8c",
+   "filename": "candle burning",
+   "folder": "Spin360 - Avery",
+   "duration_s": 19,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6377e6b8-5dd6-4ba8-bd12-d937da096c8c_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6377e6b8-5dd6-4ba8-bd12-d937da096c8c_2.jpg"
+   ],
+   "bya_description": "A white candle burns on a wooden cabinet between a lamp and a plant. The camera zooms in on the flame.",
+   "bya_tags": [
+    "Candle zoom",
+    "Living room",
+    "Product on surface",
+    "Candle zoom",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "6e2b4469-dd31-495b-9257-47644d95063c",
+   "filename": "hair not moving.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 17.97,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6e2b4469-dd31-495b-9257-47644d95063c_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6e2b4469-dd31-495b-9257-47644d95063c_2.jpg"
+   ],
+   "bya_description": "A white tower fan with a gold-rimmed top stands on a wooden floor next to a potted plant in a living room.",
+   "bya_tags": [
+    "Living room",
+    "Feeling the breeze",
+    "Lifestyle moment",
+    "Feeling the breeze",
+    "Lifestyle moment",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "8c7d71e0-8205-45b0-a9c4-3ad9f897fd87",
+   "filename": "looking tired.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 17.13,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8c7d71e0-8205-45b0-a9c4-3ad9f897fd87_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8c7d71e0-8205-45b0-a9c4-3ad9f897fd87_2.jpg"
+   ],
+   "bya_description": "A static shot of an unmade bed with white pillows and a rumpled white blanket in a bedroom.",
+   "bya_tags": [
+    "Bedroom",
+    "Adjusting hair",
+    "Rubbing face",
+    "Adjusting hair",
+    "Bedroom",
+    "Rubbing face",
+    "Unhappy expression"
+   ]
+  },
+  {
+   "id": "9c5486cb-2de9-478a-9a2a-46956e38c075",
+   "filename": "normal fan oscilating.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 18.48,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9c5486cb-2de9-478a-9a2a-46956e38c075_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9c5486cb-2de9-478a-9a2a-46956e38c075_2.jpg"
+   ],
+   "bya_description": "A black tower fan oscillates in a living room, showing its digital display.",
+   "bya_tags": [
+    "Curtains & windows",
+    "Fan controls",
+    "Lifestyle moment",
+    "Curtains & windows",
+    "Fan controls",
+    "Lifestyle moment",
+    "Living room",
+    "Power indicator light"
+   ]
+  },
+  {
+   "id": "a611ea32-6758-4c55-a4c5-94004672ca9f",
+   "filename": "Opening window",
+   "folder": "Spin360 - Avery",
+   "duration_s": 18.96,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a611ea32-6758-4c55-a4c5-94004672ca9f_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a611ea32-6758-4c55-a4c5-94004672ca9f_2.jpg"
+   ],
+   "bya_description": "White-framed window overlooks green trees.",
+   "bya_tags": [
+    "Curtains & windows",
+    "Lifestyle moment",
+    "Curtains & windows",
+    "Lifestyle moment"
+   ]
+  },
+  {
+   "id": "78a7af14-15a9-43e1-a331-9376440a7b4a",
+   "filename": "smiling in bed.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 19.6,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/78a7af14-15a9-43e1-a331-9376440a7b4a_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/78a7af14-15a9-43e1-a331-9376440a7b4a_2.jpg"
+   ],
+   "bya_description": "A woman in dark pajamas tosses and turns restlessly in bed under a white textured blanket.",
+   "bya_tags": [
+    "Bedroom",
+    "Lifestyle moment",
+    "Sleeping",
+    "Bedroom",
+    "Lifestyle moment",
+    "Sleeping",
+    "Tossing & turning",
+    "Unhappy expression"
+   ]
+  },
+  {
+   "id": "127f997c-6cae-41a1-93fa-65ce0d1e03f8",
+   "filename": "copy_5489C867-363B-4F9D-913E-56B6E87D0826.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 19.48,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/127f997c-6cae-41a1-93fa-65ce0d1e03f8_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/127f997c-6cae-41a1-93fa-65ce0d1e03f8_2.jpg"
+   ],
+   "bya_description": "A woman places a product box on a bed and opens the top flaps.",
+   "bya_tags": [
+    "Bedroom",
+    "Unboxing",
+    "Bedroom",
+    "Unboxing"
+   ]
+  }
+ ]
+}

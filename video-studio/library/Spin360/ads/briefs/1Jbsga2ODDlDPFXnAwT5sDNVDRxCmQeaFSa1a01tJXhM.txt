@@ -1,0 +1,205 @@
+﻿Spin360_CO2Bubble_HomeOffice
+
+
+
+
+Brief - Spin360_CO2Bubble_HomeOffice.mp4
+3 ads, one edit. Same body in all three; only the hook (first ~4 s) changes. Vox-style explainer: realistic scenes of one man in one home office, with a clean animated layer on top (the bubble, arrows, labels). Narrator voiceover. David appears real.
+	
+
+The idea: when you sit still in a closed room, you breathe your own used air back in (a "personal CO2 bubble"). Air that keeps moving breaks it up. The Spin360 keeps the whole room's air moving without pointing at you. The bubble is the ad: it lights up in the hook, breaks up and comes back in [6], breaks up for good in [7], and is gone in [8]. Inspiration, not a rulebook. Use your judgment.
+	Strategy
+# Element
+	Answer
+	Desire
+	Work in air that feels fresh and keep a clear head to the end of the day. In their words: "My brain is generally mush after 2pm", "How the hell do you stop the 1pm–4pm drowsiness?", and what they wish they had: "the fresh breeze coming in is so delightful". This is a daytime ad: the payoff is the afternoon, not the night.
+	Avatar
+	Men 40–55 who work from home, hours at a desk in a closed room: a spare bedroom, a basement, a "glorified closet". Door shut (kids, privacy, calls), window shut (street noise, weather). They have already tried the usual fixes: less coffee, a lighter lunch, more sleep, a box fan ("does nothing but blow around my work and make me cough"). Belief to respect: "a fan is a fan, it just blows air at you." Belief to shift: the slump is not about them, it is about the air in front of their face.
+	Angle
+	One reason to buy: when you sit still in a closed room, you breathe your own used air back in (a "personal CO2 bubble" right in front of your face), and the only thing that breaks it up is air that keeps moving around you. The Spin360 keeps the whole room's air moving all day without pointing at you. We sell the condition (air that never sits still), not a device.
+	Mechanism
+	Problem mechanism (unspoken, nobody in the market talks about it): the personal CO2 bubble, named by the researchers. Solution mechanism (new, patented): the blade pulls air in from the top and the bottom and sends a soft breeze out all around the room, so the air around you never sits still. Both are visual: the bubble lights up, breaks up, comes back, breaks up for good.
+	Proof
+	Facts, stated as facts, numbers only on screen: UC Berkeley measured 41 people at a desk in a well-ventilated room, every one had the bubble (200–500 ppm more CO2 at the nose than the room). Harvard: 24 office workers, 6 days, more CO2 = lower decision-test scores. Plus the real papers on screen with the lines highlighted. What we do NOT claim: that the Spin360 was in these studies, that it removes CO2 from the room, or any % of focus.
+	Authority
+	Stacked: borrowed (UC Berkeley, Harvard, shown as real pages), founder (David Patrick, reinvented the wheel, Shark Tank, patented blade), and David's own words ("it just feels fresh").
+	Awareness
+	Hook: Unaware (the 2pm slump; nobody thinks about the air). [1–5] Problem Aware (the bubble, it is not your sleep). [6] Solution Aware (air that keeps moving). [7] Product Aware (the blade). [10] offer. One sequence, no jumps.
+	Positioning
+	Not a fan. Not cooling, not heating. The slot: “keeps the air you breathe moving when the room is closed”. Strategic enemy: still air, and air pointed at your face. We never say we are better than anything; we show a contrast (“without pointing at you”) and let the viewer conclude.
+	Emotion
+	Recognition ("that is me at 2pm") → surprise ("I breathe my own air?") → relief ("it is not my sleep") → want (a fresh room, a clear head to the end of the day).
+	Format
+	Vox-style explainer, ~1:40. Realistic scenes of ONE man in ONE home office, with a clean animated layer on top (the bubble, arrows, labels, the real papers). Narrator VO. David appears real (Shark Tank / prototypes, then his own line). Calm pacing: one new element on screen every 3–5 s, no frantic cuts.
+	Hooks
+	3 visual hooks, same body. Lead = the 2pm mush (identity, their words). On-screen text is a short version of the VO so it works with the sound off.
+	Offer
+	Try it for 30 days. If you don't love how your room feels, send it back. No discount, no price in the video.
+	Production brief
+Format: vertical 9:16, about 1:40. Narrator VO (male, calm, like a Vox explainer, not an ad read).
+The character: one man, about 45, short dark hair with a little gray, light stubble, plaid flannel shirt. One home office: a small spare bedroom, door shut, blinds shut, laptop + monitor, mug, papers. Same room, same shirt, same desk in every scene (the before/after happens in the same place). The reference images are the look to match; generate or shoot to match them.
+The bubble (most important element of the edit):
+1. A translucent cloud around his face. Warm amber/light orange, about 30% opacity (see the S_bubble reference). Never dark, green or "toxic": this is a 45–65 audience, not a horror ad.
+2. It pulses with his breathing: grows a little when he exhales, shrinks when he inhales (a 2–3 s cycle). That is how the viewer understands it is his own air.
+3. Its life in the ad: lights up in the hook → stays through [1–5], a bit denser as the clock moves → breaks up and comes back in [6] → breaks up and does not come back in [7] → absent in [8].
+4. "Breaks up and comes back / breaks up and stays gone" is the whole argument in one picture. Please get this right.
+Pacing: hook fast (one strong shot + the bubble lighting up); [1–5] one new element on screen every 3–5 s (a label, the bubble changing, the clock); [6] slow down for the diagram; [7] the product enters and the ring spreads; [8] one cut per sentence. Calm, no frantic cutting: this audience needs "curious, not confused".
+Numbers only on screen, never in the VO. The on-screen labels are in the table.
+Captions: white, a few words at a time, lower third.
+Visual hooks (3 ads)
+Full screen, VO starts at once. On-screen text in the first second (short, so it works with the sound off). Each hook cuts straight into [1].
+Ad
+	Visual Inspiration
+	Scene description
+	Hook1 · 2pm mush (lead)
+Spin360_CO2Bubble_HomeOffice_Hook1
+	  
+
+	VO: Brain feels like mush after 2pm? It might be the air you're sitting in.
+On screen: Brain mush after 2pm? Might be your air.
+
+
+He sits at the desk, forehead in his hand, eyes heavy. Desk clock in frame: 2:04 PM. At second 1 the bubble LIGHTS UP around his face. High stakes in the picture: the viewer sees himself.
+	Hook2 · the air you breathe
+Spin360_CO2Bubble_HomeOffice_Hook2
+	  
+
+	VO: This is the air you breathe at your desk.
+On screen: It might be your own air.
+
+
+Close on his face typing. The bubble lights up. Then the camera pulls back slowly: the room looks clean and normal, the bubble stays only on him. The contrast is the hook.
+	Hook3 · glorified closet
+Spin360_CO2Bubble_HomeOffice_Hook3
+	  
+
+	VO: Work from a glorified closet? Here's what you're breathing in there.
+On screen: What you breathe in a glorified closet
+
+
+Wide shot of the cramped office: desk squeezed between boxes and coats, door shut. He is in there working. The bubble lights up.
+	Body (same in all 3 ads)
+The research screenshots are phone-format (9:16 ready) with the lines to highlight already marked. Use them Vox-style: quick push-in on the page, yellow highlight sweeps over the marked line, 1–2 s, back to the scene. Links: Berkeley cloud · BerSkeley bubble · Harvard.
+Section
+	VO (source)
+	Visual Inspiration
+	Visual idea
+	On screen
+	1 · Used air
+	VO
+Every time you breathe out, you let out used air.
+	  
+
+	Side close-up of his face. He exhales: a faint amber mist leaves his mouth and nose, like breath on a cold day but warm-colored (animation).
+	
+
+	2 · The bubble
+	VO
+If you're sitting still, that used air just hangs in front of your face. And you breathe it right back in. Scientists call it a personal CO2 bubble.
+	  
+
+  
+
+	The mist does NOT drift away: it stays in front of his face and becomes the bubble (I_bubble_face = color/opacity reference). On "Scientists call it a personal CO2 bubble": quick push-in on the real paper title (M_bubble_title, phone format, 1–2 s), yellow highlight sweeps over the title, back to him.
+	personal CO2 bubble (on "Scientists call it")
+	3 · Berkeley
+	VO
+Researchers at UC Berkeley measured it on 41 people sitting at a desk, in a well-ventilated room. Every single one had a bubble.
+	  
+
+  
+
+  
+
+	On "UC Berkeley": the real paper with the UC Berkeley header (M_cloud_title, 1 s). On "41 people": push-in on the abstract, highlight sweeps over "41 subjects" then "between 200 and 500 ppm above the background" (M_cloud_abstract, 2 s). Then the clean illustration: a row of seated silhouettes, each one gets its bubble, one after the other (S_berkeley). No need to show 41.
+	UC Berkeley · 41 of 41 · air at the nose: 200–500 ppm more CO2 than the room
+	4 · Harvard
+	VO
+So why care? Harvard put office workers in a room, raised the CO2, and gave them a decision test. The scores dropped.
+	  
+
+  
+
+  
+
+	On "Harvard": the real paper title (M_harvard_title, 1 s), highlight on "Cognitive Function" and "Carbon Dioxide". On "gave them a decision test": push-in on the abstract, highlight sweeps over "Twenty-four participants spent 6 full work days" (M_harvard_results). On "The scores dropped": back to our man rubbing his eyes, a simple line graph drops in the corner (I_graph). No percentage in the VO; the 61%/101% line only if the real page is on screen.
+	Harvard · more CO2 → lower test scores
+	5 · Not your sleep
+	VO
+So that 2pm mush? It might not be your sleep, or your coffee. It might be your own air.
+	  
+
+	Clock: 2:04 PM. A bed icon and a coffee-mug icon pop up and get crossed out (I_clock_icons). The bubble gets a little denser.
+	
+
+	6 · What Berkeley found
+	VO
+Here's what Berkeley found. The bubble only forms when the air around you sits still. Keep the air moving, and it breaks up. Let it sit, and it comes right back.
+	  
+
+  
+
+  
+
+	On "Here's what Berkeley found": the bubble paper abstract (M_bubble_abstract, 1–2 s), highlight on "breathing in a CO2-rich bubble". The "177 ppm… fan" highlight is for you only; the VO never says fan and no fan appears on screen. Then the DIAGRAM (the only part with no real footage): the seated silhouette with the bubble. Soft arrows of air pass → the bubble breaks up. The arrows stop → the bubble comes right back. No fan on screen. Slow this part down.
+	UC Berkeley: the bubble breaks up when the air around you moves
+	7a · The Spin360
+	VO
+That's what the Spin360 does: it keeps the air around you moving, all day, without pointing at you.
+	  
+
+  
+
+	Back to the real room: the Spin360 in the corner, on. A soft 360° ring of air (animation) spreads through the room (I_ring_room). His bubble breaks up. He leans, stands, sits: the bubble does NOT come back. First time the product is on screen.
+	
+
+	7b · David
+	VO
+It was built by David Patrick, the guy who reinvented the wheel on Shark Tank.
+	  
+
+	Shark Tank and prototype shots
+	David Patrick · Shark Tank
+	7c · The blade
+	VO
+His patented blade pulls air in from the top and the bottom, and sends a soft breeze out all around the room. So the air around you never sits still.
+	  
+
+	Close on the blade with smoke being pulled in from above and below and leaving in a ring (animation; the drill-hook smoke footage works too).
+	Patented blade
+	8 · His workday
+	VO
+So picture your workday with it. Door shut. Window shut. Kids on the other side. And your office still feels like a fresh breeze is moving through it. Then 2pm comes around, and your head's still clear. No second coffee. No tasks dragging on. You finish your last call and get up feeling as good as you did at 8am.
+	  
+
+  
+
+  
+
+  
+
+	SAME room, SAME shirt, NO bubble. One cut per sentence, in the rhythm of the VO: the shut door with the kid's feet under it → the blinds shut, the sheer curtain moving gently, papers still on the desk → clock 2:04 PM, him typing normally → the full mug, untouched → he takes off the headset, stands up, deep breath.
+	
+
+	9 · David, real
+	REAL · Inside Vertical02 7:05–7:11
+And when air is very well-mixed, it doesn't feel stagnant, it doesn't feel stuffy, it just feels fresh.
+	No reference frame.
+	David, close. Spin360_July2026_Interview2_Inside_Vertical02.mp4 at 7:05. Cut right after "fresh".
+	David Patrick
+	10 · CTA
+	VO
+So if you want to work in air that feels fresh, and keep a clear head to the end of the day, try the Spin360 for 30 days. If you don't love how your room feels, just send it back. Tap below, and stop breathing your own air.
+	  
+
+	Clean product shot in his room, daylight. End card.
+	Not air in your face. The whole room, moving. · Try it for 30 days
+	Green rows = real footage of David. All other rows = narrator VO over the generated scenes + animation.
+Rules
+* Never say the season or the weather. Never say the product cools or heats the room.
+* Never say the Spin360 removes CO2 from the room. The bubble is at the nose; the fix is moving air.
+* No fan on screen in [6]. The diagram shows moving air, not a device.
+* Never call it "silent". The breeze is soft, never a blast.
+* David's real line in [9] stays word for word.
+What's up to you
+The exact look of the bubble (within the rules above), transitions, music, the label typography, the length of each cut in [8].

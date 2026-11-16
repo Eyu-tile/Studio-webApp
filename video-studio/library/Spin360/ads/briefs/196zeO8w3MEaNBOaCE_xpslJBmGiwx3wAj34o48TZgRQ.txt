@@ -1,0 +1,360 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_DontHaveAC?_Woman_Hook
+Author: Chris
+Editor: N/A 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_DontHaveAC_Woman_Hook_
+* Ad Type: TikTok Style Ad
+* Type of Ad: Solution Aware 
+* Sizes Needed: 9x16
+* Voiceover: Woman - 35-65 YO 
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+
+
+
+
+________________
+ 
+[2] Direction
+* LISTEN TO THIS (ME EXPLAINIG) CleanShot 2026-05-22 at 16.46.23.mp4
+* Try to copy this video 7626751897675894046.mp4 
+* Create the Hooks + Script VO using https://fish.audio/app/ or something similar. 
+   * The voice should be a calm, woman voice, 35-65 YO 
+      * Slight Canadian Accent 
+   * The narration needs to sound super realistic and have good pacing. Double check the audio to make it sound natural. 
+   * In https://fish.audio/app/, you can type [emphasis] or [pause] before or after words to help with the pacing. Try this. 
+* Example Videos: 
+   * TikTok 1 
+   * TikTok 2 
+
+
+
+
+________________
+ 
+[3] Strategy
+Who is this for [Avatar]: 
+Main Selling Points: Cool air, solution for AC
+Market Awareness: Solution Aware 
+Desires: Health  
+Angle: This replaces AC + helps you sleep. 
+ 
+________________
+
+
+[4] Creative Direction
+
+
+ 
+________________
+
+
+[5] Script
+
+Hook 1: If you don’t have AC and need cold air in your room to sleep? This is for you.”
+
+
+Hook 2: "I ordered a fan but I got an AC and a noise machine” 
+
+
+Hook 3: "I don’t have AC, so I tried this instead"
+Hook 4: “If you need cold in your room to sleep, this is for you.”
+Script: 
+This thing feels like I have an air conditioner running in my room, it’s so cold 
+It’s 360 fan that moves cool air in all directions 
+So you can put it anywhere in your room. 
+It has 9 speeds and up to level 5 it’s super quiet. 
+And levels 6 through 9 have a really nice white noise that’s perfect for sleeping. 
+You can also drop in scent pods 
+It comes with lavender, cedar and even citronella to keep bugs away 
+It’s $110 off for the first thousand people in the link below. 
+
+
+
+
+ 
+________________
+[6] Shotlist / Storyboard
+
+
+Hooks
+	Hook #
+	Script 
+	Visual 
+	Description 
+	1
+	If you don’t have AC and need cold air in your room to sleep? This is for you.
+
+
+	  
+
+	https://drive.google.com/file/d/1C_mmJUt9myTNP_oKaCuQZFZtr97L6_cS/view?usp=drive_link
+Sound Effects: 
+* Subtle White Noise 
+* Subtle Birds Chirping 
+* Needs to feel relaxing 
+
+
+Text On Screen: 
+* Copy format of the TikTok videos
+
+
+Pacing 
+* Should be at least 3-4 seconds of this clip 
+	2
+	If you don’t have AC and need cold air in your room to sleep? This is for you.
+	  
+
+	Spin360_iPhone_CloseUp_Selects_1.mp4
+
+
+
+
+Hook is at 1:01 
+	3
+	I ordered a fan but I got an AC and a noise machine
+	  
+
+	https://drive.google.com/file/d/1C_mmJUt9myTNP_oKaCuQZFZtr97L6_cS/view?usp=drive_link
+Sound Effects: 
+* Subtle White Noise 
+* Subtle Birds Chirping 
+* Needs to feel relaxing 
+
+
+Text On Screen: 
+* Copy format of the TikTok videos
+
+
+Pacing 
+* Should be at least 3-4 seconds of this clip 
+	4
+	I ordered a fan but I got an AC and a noise machine
+	  
+
+	Spin360_iPhone_CloseUp_Selects_1.mp4
+
+
+
+
+Hook is at 1:01 
+	5
+	I don’t have AC, so I tried this instead 
+	  
+
+	https://drive.google.com/file/d/1C_mmJUt9myTNP_oKaCuQZFZtr97L6_cS/view?usp=drive_link
+Sound Effects: 
+* Subtle White Noise 
+* Subtle Birds Chirping 
+* Needs to feel relaxing 
+
+
+Text On Screen: 
+* Copy format of the TikTok videos
+
+
+Pacing 
+* Should be at least 3-4 seconds of this clip 
+	6
+	I don’t have AC, so I tried this instead 
+	  
+
+	Spin360_iPhone_CloseUp_Selects_1.mp4
+
+
+
+
+Hook is at 1:01 
+	7
+	If you need cold in your room to sleep, this is for you.
+	  
+
+	https://drive.google.com/file/d/1C_mmJUt9myTNP_oKaCuQZFZtr97L6_cS/view?usp=drive_link
+Sound Effects: 
+* Subtle White Noise 
+* Subtle Birds Chirping 
+* Needs to feel relaxing 
+
+
+Text On Screen: 
+* Copy format of the TikTok videos
+
+
+Pacing 
+* Should be at least 3-4 seconds of this clip 
+	8
+	If you need cold in your room to sleep, this is for you.
+
+
+	  
+
+	Spin360_iPhone_CloseUp_Selects_1.mp4
+
+
+
+
+Hook is at 1:01 
+	
+
+
+
+BODY
+	Script 
+	Visual 
+	Description 
+	This thing feels like I have an air conditioner running in my room, it’s so cold 
+	  
+
+	This clip: 
+
+Sleep_Hook_3.mp4
+
+
+
+
+	It’s 360 fan that moves cool air in all directions 
+So you can put it anywhere in your room. 
+
+
+
+
+	  
+
+	Show a good shot of the 360 mechanism at work. 
+	It has 9 speeds and up to level 5 it’s super quiet. 
+	
+
+	Pull footage from these selects: 
+
+iPhone
+	And levels 6 through 9 have a really nice white noise that’s perfect for sleeping. 
+
+
+
+
+	  
+
+	Pull footage from these selects: 
+
+iPhone
+	You can also drop in scent pods 
+	  
+  
+
+  
+
+	Pull footage from these selects: 
+
+iPhone
+Make a sequence here: 
+
+Scent Pod Case -> Placing Scent Pod In -> Place Cap 
+	It comes with lavender, eucalyptus and even citronella to keep bugs away 
+	  
+
+	
+
+	It’s $110 off for the first thousand people in the link below. 
+	  
+
+	Nice shot of the fan. 
+
+iPhone
+	
+
+ 
+________________
+
+
+[7] Editing Rules
+* Add captions for entire video
+* Each visual clip MUST complement the audio to help the audience understand what is happening
+* Editor must add sound design
+
+
+
+
+________________
+
+
+[8] Deliverables
+* Five Hooks 
+
+
+
+
+
+
+Draft 1: 
+
+What is one thing that every human wants 
+
+
+Good Sleep
+
+Sleep is a $585 billion dollar industry. 
+
+
+It even has it’s own name, the “sleep economy” 
+
+
+From random supplements to Jet Cooled Beds 
+
+
+Thousands of products that promise that sought after shut-eye 
+
+
+So why do so many people struggle to get good sleep? 
+
+It comes down to how we evolved as a species. 
+
+
+Our ancestors spent thousands of years living in nature 
+
+
+Sleeping with open moving air 
+
+
+And since the industrial revolution technology has rapidly increased. 
+
+We live in major cities with bad air, starting at our screens, away from nature. 
+
+
+For context, it took 2.4 million years for humans to master fire 
+
+
+66 years to go from the the frist airplane to men on the moon. 
+
+
+And 40 years from the first cell phone, to today’s AI Boom. 
+
+
+Our bodies haven’t evolved fast enough for our current environment. 
+
+
+NEED A GOOD TRANSITION HERE about how airflow is the fix 
+
+
+So we set out to re-design airflow from the ground up. 
+
+
+The goal was to mimic that amazing breeze found in nature
+
+
+And bring it into your home. 
+
+
+The result is the most relaxing, natural feeling airflow

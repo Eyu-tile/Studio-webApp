@@ -1,0 +1,91 @@
+
+===== /tmp/claude-0/-home-user-video-studio-claude-plugin/c77d22ec-6b89-5b09-a2c3-205b160242d8/scratchpad/How_to_create_Accurate_Dust_Mite_Visuals..wav =====
+[   0.0-   1.3] Let's start with the basics.
+[   1.3-   4.7] I think this is very important as a first step.
+[   4.7-   7.7] So first of all, dust mites, right?
+[   7.7-  10.4] Like, I know that you guys been working on those
+[  10.4-  15.4] and I've seen many of you mixing dust mites with insects
+[  16.6-  19.2] like sometimes putting footage of insects crawling
+[  19.2-  20.0] or something.
+[  20.0-  23.4] So let's make sure what is a dust mite, okay?
+[  23.4-  25.5] Dust mites are microscopic.
+[  25.5-  29.5] So like a human cannot see them.
+[  30.4-  33.4] And they are insects like arcanids,
+[  33.4-  37.0] which is like kind of like spiders
+[  37.0-  39.7] that live in indoor house dust.
+[  39.7-  43.6] So these are so microscopic, so small
+[  43.6-  46.8] that they live inside dust,
+[  46.8-  48.2] like the dust you have at home
+[  48.2-  51.0] or like a dusty place or inside the bed.
+[  51.0-  53.6] So it's like very common to find them.
+[  53.7-  58.0] They are too small to see with a naked eye,
+[  58.0-  62.0] measuring about zero two to zero three millimeters long.
+[  62.0-  67.0] So they are really, really tiny to explain that more.
+[  67.0-  68.9] This is like a bed bag.
+[  68.9-  71.1] Like you, I think you can see this one.
+[  72.0-  75.3] Like it's very tiny, like it looks like a small dot.
+[  75.3-  76.6] This is the flea.
+[  76.6-  78.7] This you will find with dogs or cats.
+[  78.7-  83.2] Like it's like this is an insect that grows sometimes.
+[  83.2-  85.0] It's like flea.
+[  85.0-  86.3] This is a dust mite.
+[  86.3-  89.0] You see how small relative to those.
+[  89.0-  90.6] So it's like really, really small.
+[  91.7-  94.3] It's important to know this because I've seen,
+[  94.3-  96.9] like why I'm telling you this,
+[  96.9- 101.0] because I've seen you guys use visuals of bed bags
+[ 101.0- 104.2] or like of insects instead of dust mites.
+[ 104.2- 108.9] So an example of a non-approved visual is this.
+[ 108.9- 110.2] You see?
+[ 110.2- 112.9] This looks more like an insect.
+[ 112.9- 114.5] It has eyes and everything.
+[ 114.5- 116.2] Dust mites doesn't have eyes.
+[ 117.1- 120.5] So this is approved visual of dust mites.
+[ 120.5- 122.7] This is approved visual of dust mites.
+[ 122.7- 125.0] And we have, I think we have in our library,
+[ 125.0- 127.5] like this is a visual I will accept.
+[ 127.5- 128.9] I will approve always.
+[ 129.8- 134.8] But like this, this is not like anything that have eyes
+[ 136.3- 139.6] or like look like insects, they are not.
+[ 139.6- 141.6] So do you see what is a dust mite?
+[ 141.6- 142.9] It's very, very important
+[ 142.9- 145.6] when you guys generate your visuals, okay?
+[ 145.6- 147.5] This is why I wanted to start with this
+[ 147.5- 150.5] because a lot of scripts I cannot approve
+[ 150.5- 153.2] because of visuals like this.
+[ 153.2- 155.8] Okay, now we fixed that.
+[ 155.8- 159.2] So now I think you guys understand
+[ 159.2- 161.8] what I'm referencing here.
+[ 162.6- 164.4] Let's move to dust mites, okay?
+[ 164.4- 166.7] Because I've seen also clips
+[ 166.7- 169.5] that don't represent dust mites in what they do.
+[ 169.5- 172.3] So this is how they look like,
+[ 172.3- 174.8] but what do they actually do?
+[ 174.8- 179.1] So first of all, like not all homes have dust mites.
+[ 179.1- 181.4] Dust mite allergy cannot be cured.
+[ 181.4- 186.1] So we cannot say like cards, like cure dust mites
+[ 187.1- 189.7] and they cannot bite, dust mites cannot bite you.
+[ 192.7- 196.5] How to say, you cannot see dust mites with a naked eye.
+[ 196.5- 199.1] You cannot feel dust mites crawling on your skin.
+[ 199.1- 201.0] So they are not insects.
+[ 201.0- 206.0] They are microscopic and they don't crawl on your skin.
+[ 208.4- 209.4] You cannot feel them.
+[ 209.4- 210.4] You cannot see anything.
+[ 210.4- 214.5] So the question is what do they do, right?
+[ 214.5- 216.5] So this is what they do
+[ 216.5- 217.9] and this is what we're working on
+[ 217.9- 219.9] as a brand lab at Truclean.
+[ 219.9- 221.2] This is the work.
+[ 221.2- 222.6] So this is what we're focused on
+[ 222.6- 224.8] like all the scripts, if you notice,
+[ 224.8- 227.0] like they will cover all the symptoms.
+[ 228.0- 232.8] So dust mites technically, they produce allergens.
+[ 232.8- 235.3] Like they produce their own poop
+[ 235.3- 237.8] and the poop produces allergens.
+[ 237.8- 241.3] And not all people, but some people are allergic to that.
+[ 241.3- 243.5] Like they will have an allergy.
+[ 243.5- 245.2] Now the allergy symptoms,
+[ 246.2- 249.8] allergy symptoms are different from person to person.
+[ 249.8- 253.0] Some people, the allergy would be like
+[ 253.0- 255.6] just itchy nose, throat or mouth.
+[ 255.6- 259.5] Like just not, like feeling.

@@ -1,0 +1,721 @@
+{
+ "batch": "batch_009",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_009.out.json",
+ "clips": [
+  {
+   "id": "017bc577-9928-433d-b6d2-b1a5de50c5e0",
+   "filename": "IMG_8026.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 7.85,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/017bc577-9928-433d-b6d2-b1a5de50c5e0_1.jpg"
+   ],
+   "bya_description": "A woman with long blonde hair, wearing a black sleeveless top and tan pants, stands beside a black pedestal fan in a bright living room. She places her hands on the top rim of the fan and then slides them down the mesh sides, looking down at the device before glancing towards the camera.",
+   "bya_tags": [
+    "Lifestyle moment",
+    "Living room",
+    "Product in hand",
+    "Lifestyle moment",
+    "Living room",
+    "Product in hand"
+   ]
+  },
+  {
+   "id": "54c1b225-4643-46a5-887d-0d055b27778a",
+   "filename": "IMG_8035.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 7.2,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/54c1b225-4643-46a5-887d-0d055b27778a_1.jpg"
+   ],
+   "bya_description": "A black pedestal fan stands on a light carpet in a living room. The device features a mesh top and a slim black pole.",
+   "bya_tags": [
+    "Living room",
+    "Product on surface",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "81d23a11-81e6-4ddd-85e6-a803ab08356d",
+   "filename": "IMG_8036.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 8.38,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/81d23a11-81e6-4ddd-85e6-a803ab08356d_1.jpg"
+   ],
+   "bya_description": "A black tower fan with a clear ribbed top stands in a living room. The digital display shows F1 and a red light ring while the fan spins.",
+   "bya_tags": [
+    "Digital display",
+    "Living room",
+    "Product hero shot",
+    "Digital display",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "49147a4f-0475-4ada-8096-9afadeb11a71",
+   "filename": "IMG_8038.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 7.5,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/49147a4f-0475-4ada-8096-9afadeb11a71_1.jpg"
+   ],
+   "bya_description": "A black air purifier with a glowing blue ring stands in a dark bedroom beside a wooden crib.",
+   "bya_tags": [
+    "Bedroom",
+    "Blue light ambiance",
+    "Nursery setting",
+    "Bedroom",
+    "Blue light ambiance",
+    "Nursery setting",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "2c52757c-1b68-4c49-a4b9-27bf511b3e99",
+   "filename": "IMG_8039.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 7.74,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/2c52757c-1b68-4c49-a4b9-27bf511b3e99_1.jpg"
+   ],
+   "bya_description": "A black cylindrical fan with a blue light ring sits on a stone nightstand. It is next to a bed with white linens in a bedroom.",
+   "bya_tags": [
+    "Air purifier top",
+    "Bedroom",
+    "Blue light ambiance",
+    "Air purifier top",
+    "Bedroom",
+    "Blue light ambiance",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "f935569c-1941-4fdf-bf99-c47f6cf8af4d",
+   "filename": "IMG_8046.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 8.32,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f935569c-1941-4fdf-bf99-c47f6cf8af4d_1.jpg"
+   ],
+   "bya_description": "A white dog lies on a rug next to a black cylindrical fan with a blue light in a living room.",
+   "bya_tags": [
+    "Lifestyle moment",
+    "Living room",
+    "Product on surface",
+    "Lifestyle moment",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "fb86f5d7-1326-45b0-b911-36d7e673e21c",
+   "filename": "IMG_8047.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 8.5,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fb86f5d7-1326-45b0-b911-36d7e673e21c_1.jpg"
+   ],
+   "bya_description": "A white fluffy dog lies on a rug next to a black pedestal fan with a blue indicator light. The dog looks at the camera in a bright living room.",
+   "bya_tags": [
+    "Living room",
+    "Power indicator light",
+    "Relaxing at home",
+    "Living room",
+    "Power indicator light",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "7493bef3-5772-4703-81fc-aba1a6a8f0e6",
+   "filename": "IMG_8060.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 7.67,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7493bef3-5772-4703-81fc-aba1a6a8f0e6_1.jpg"
+   ],
+   "bya_description": "A woman with long grey hair reads a book while seated in a black leather chair. A tall black air purifier with a glowing light ring stands beside her in a bright living room.",
+   "bya_tags": [
+    "Lifestyle moment",
+    "Living room",
+    "Product hero shot",
+    "Lifestyle moment",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "4772868a-e3a6-47c7-adc3-c1a028684718",
+   "filename": "IMG_8063.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 7.37,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4772868a-e3a6-47c7-adc3-c1a028684718_1.jpg"
+   ],
+   "bya_description": "A senior woman with long grey hair sits on a black leather couch reading a book. A black tower fan with a metallic top stands beside her in a living room.",
+   "bya_tags": [
+    "Living room",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "6168e388-54fb-4b85-b25e-ba54ddcd7e79",
+   "filename": "IMG_8065.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 8.54,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6168e388-54fb-4b85-b25e-ba54ddcd7e79_1.jpg"
+   ],
+   "bya_description": "A woman with grey hair enters a hallway through a wooden door carrying denim jackets on hangers. She speaks to the camera and then exits through the same door.",
+   "bya_tags": [
+    "Carrying laundry",
+    "Showing denim jackets",
+    "Walking through door",
+    "Carrying laundry",
+    "Showing denim jackets",
+    "Walking through door"
+   ]
+  },
+  {
+   "id": "f6d7a6af-f462-4c5c-a357-f78de0168247",
+   "filename": "IMG_8068.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 9.34,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f6d7a6af-f462-4c5c-a357-f78de0168247_1.jpg"
+   ],
+   "bya_description": "Overhead view of hands opening a yellow scent pod and placing it inside a black circular fan's top compartment.",
+   "bya_tags": [
+    "Air purifier top",
+    "Product in hand",
+    "Scent pod drop",
+    "Air purifier top",
+    "Product in hand",
+    "Scent pod drop"
+   ]
+  },
+  {
+   "id": "f5b289e0-5056-493e-8727-6717a655c472",
+   "filename": "IMG_8070.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 7.13,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f5b289e0-5056-493e-8727-6717a655c472_1.jpg"
+   ],
+   "bya_description": "A person opens a yellow scent pod and places it on the mesh top of a black air purifier.",
+   "bya_tags": [
+    "Air purifier top",
+    "Scent pod drop",
+    "Air purifier top",
+    "Scent pod drop"
+   ]
+  },
+  {
+   "id": "e6081ca5-edd5-4c18-97bd-3a5db7a525be",
+   "filename": "IMG_8078.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 9.37,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e6081ca5-edd5-4c18-97bd-3a5db7a525be_1.jpg"
+   ],
+   "bya_description": "She pulls a grey top sheet up to cover the bed. Then Blonde woman in grey loungewear removes a white pillow from a bed. Then the woman smooths the grey fitted sheet across the mattress.",
+   "bya_tags": [
+    "Bedroom",
+    "Removing pillow",
+    "Bedroom",
+    "Removing pillow"
+   ]
+  },
+  {
+   "id": "973bb9a1-b7f5-4945-9a60-62dd8e054c76",
+   "filename": "IMG_8079.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 7.15,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/973bb9a1-b7f5-4945-9a60-62dd8e054c76_1.jpg"
+   ],
+   "bya_description": "A blonde woman in a grey dress pulls a stretchy grey sheet over a bed in a bedroom.",
+   "bya_tags": [
+    "Bedroom",
+    "Product in hand",
+    "Stretching fabric",
+    "Bedroom",
+    "Product in hand",
+    "Stretching fabric"
+   ]
+  },
+  {
+   "id": "533d1cfa-e14b-4e01-bcad-25e36f735d3a",
+   "filename": "IMG_8082.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 8.02,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/533d1cfa-e14b-4e01-bcad-25e36f735d3a_1.jpg"
+   ],
+   "bya_description": "A senior woman in grey loungewear tosses and turns in a bed with white pillows and a black comforter. She pulls the blanket over her shoulder and hugs a black pillow.",
+   "bya_tags": [
+    "Bedroom",
+    "Tossing & turning",
+    "Bedroom",
+    "Tossing & turning"
+   ]
+  },
+  {
+   "id": "4b7a4133-6dc2-47cc-8f9e-8cab8a5d2c8a",
+   "filename": "IMG_8086.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 9.19,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4b7a4133-6dc2-47cc-8f9e-8cab8a5d2c8a_1.jpg"
+   ],
+   "bya_description": "A hand with pink nail polish presses buttons on a white Honeywell thermostat. The digital display changes from 76 to 77 degrees.",
+   "bya_tags": [
+    "AC & thermostat",
+    "AC & thermostat"
+   ]
+  },
+  {
+   "id": "61389365-58f8-471a-a9fd-0e8db58467c6",
+   "filename": "IMG_8094.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 7.32,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/61389365-58f8-471a-a9fd-0e8db58467c6_1.jpg"
+   ],
+   "bya_description": "Senior woman with white hair leans over a white fan. Airflow blows her hair back as she smiles.",
+   "bya_tags": [
+    "Feeling the breeze",
+    "Feeling the breeze"
+   ]
+  },
+  {
+   "id": "60ceebd7-6356-4f16-87d0-5852f8baf8a9",
+   "filename": "IMG_8095.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 7.3,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/60ceebd7-6356-4f16-87d0-5852f8baf8a9_1.jpg"
+   ],
+   "bya_description": "A woman with long white hair stands before a large white fan, her hair blowing back in the strong airflow. She keeps her eyes closed and a relaxed expression against a backdrop of wavy wall panels.",
+   "bya_tags": [
+    "Feeling the breeze",
+    "Feeling the breeze"
+   ]
+  },
+  {
+   "id": "b1076f98-c997-4f9c-befb-a9c8c26ea09b",
+   "filename": "IMG_8101.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 9.14,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b1076f98-c997-4f9c-befb-a9c8c26ea09b_1.jpg"
+   ],
+   "bya_description": "A grey and white circular fan spins on a white pedestal. The background consists of a grey wall and dark carpet.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Product on surface",
+    "Fan spinning close-up",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "e7721db8-168c-4713-bd9a-5e08c0dfc554",
+   "filename": "opending door/window",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 8.67,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e7721db8-168c-4713-bd9a-5e08c0dfc554_1.jpg"
+   ],
+   "bya_description": "A blonde woman in athletic wear walks across a modern living room towards a door and back.",
+   "bya_tags": [
+    "Lifestyle moment",
+    "Living room",
+    "Relaxing at home",
+    "Lifestyle moment",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "427ffac9-e207-44e4-bf39-0295b9d95e47",
+   "filename": "Pan of room",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 7.27,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/427ffac9-e207-44e4-bf39-0295b9d95e47_1.jpg"
+   ],
+   "bya_description": "A camera pans across a sunlit living room with large windows showing a mountain landscape. A black floor fan is positioned between a cream lounge chair and a white textured beanbag.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "c6513aad-3f8f-4b6a-b955-751d3e17c2a4",
+   "filename": "Selfie style pointing to fan",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 9.0,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c6513aad-3f8f-4b6a-b955-751d3e17c2a4_1.jpg"
+   ],
+   "bya_description": "A woman in a leopard print tank top speaks directly to the camera in a bedroom, pointing her index finger upward. A fan on a stand and a bed are visible in the background. Then the woman continues speaking to the camera from a slightly different angle in the bedroom, pointing her finger up again. The fan remains in the background. Then close-up of the woman speaking to the camera in the bedroom. T",
+   "bya_tags": [
+    "Bedroom",
+    "Direct address",
+    "Home testimonial",
+    "Bedroom",
+    "Direct address",
+    "Home testimonial"
+   ]
+  },
+  {
+   "id": "4c500a4c-7795-4c70-8c9a-074fab2740e2",
+   "filename": "360 in kitchen.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 8.87,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4c500a4c-7795-4c70-8c9a-074fab2740e2_1.jpg"
+   ],
+   "bya_description": "White circular fan with gold trim sits on a counter. Camera zooms in.",
+   "bya_tags": [
+    "Product close-up",
+    "Product hero shot",
+    "Product on surface",
+    "Product close-up",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "4703ede5-5fb5-4ccd-8d47-721cf200ad51",
+   "filename": "360 up close",
+   "folder": "Spin360 - Avery",
+   "duration_s": 8.33,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4703ede5-5fb5-4ccd-8d47-721cf200ad51_1.jpg"
+   ],
+   "bya_description": "Extreme close-up of a clear, ribbed cylindrical fan spinning.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Hook",
+    "Fan spinning close-up"
+   ],
+   "transcript": [
+    {
+     "start": 1.3,
+     "text": "What are those?",
+     "labels": [
+      "Hook",
+      "Fan spinning close-up"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "122f5895-f3a2-43d2-8abc-d9f922284a39",
+   "filename": "ac unit running.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 7.5,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/122f5895-f3a2-43d2-8abc-d9f922284a39_1.jpg"
+   ],
+   "bya_description": "A hand hovers over a floor vent on hardwood, feeling the air. High-angle view near a window.",
+   "bya_tags": [
+    "Feeling the breeze",
+    "Feeling the breeze"
+   ],
+   "transcript": [
+    {
+     "start": 0.7,
+     "text": "That's a great idea. To help us remember, I'm going to put it in our sticker book so we don't forget.",
+     "labels": [
+      "Feeling the breeze"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "670ec682-b2c2-4142-bd8f-c0fe042272f3",
+   "filename": "bottom intake.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 8.34,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/670ec682-b2c2-4142-bd8f-c0fe042272f3_1.jpg"
+   ],
+   "bya_description": "A white pedestal fan with a clear, ribbed top section stands in a room.",
+   "bya_tags": [
+    "Product hero shot",
+    "Product on surface",
+    "Visible airflow test",
+    "Product on surface",
+    "Visible airflow test"
+   ]
+  },
+  {
+   "id": "ce85f5ef-eace-474f-a46a-cc79f7c3d7ad",
+   "filename": "cat by fan",
+   "folder": "Spin360 - Avery",
+   "duration_s": 8.83,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ce85f5ef-eace-474f-a46a-cc79f7c3d7ad_1.jpg"
+   ],
+   "bya_description": "White pedestal fan oscillates in a bedroom foreground. Grey and white cat lies on bed in background.",
+   "bya_tags": [
+    "Bedroom",
+    "Lifestyle moment",
+    "Product hero shot",
+    "Bedroom",
+    "Lifestyle moment",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "a42d04c4-915b-467b-a953-44a38b2c70b6",
+   "filename": "checking thermostat annoyed 4",
+   "folder": "Spin360 - Avery",
+   "duration_s": 9.44,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a42d04c4-915b-467b-a953-44a38b2c70b6_1.jpg"
+   ],
+   "bya_description": "Close-up of a white thermostat on a wall. A hand presses the down button, changing the display from 74 to 67.",
+   "bya_tags": [
+    "AC & thermostat",
+    "AC & thermostat"
+   ]
+  },
+  {
+   "id": "b6e25d31-c2d9-4635-bb00-02dee38032f9",
+   "filename": "checking thermostat annoyed.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 7.9,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b6e25d31-c2d9-4635-bb00-02dee38032f9_1.jpg"
+   ],
+   "bya_description": "Close-up of a digital thermostat and smoke detector mounted on a light grey wall.",
+   "bya_tags": [
+    "AC & thermostat",
+    "Fan controls",
+    "Unhappy expression",
+    "AC & thermostat",
+    "Fan controls",
+    "Unhappy expression"
+   ]
+  },
+  {
+   "id": "471502a1-541f-41c5-9aa1-fb220d51f7a7",
+   "filename": "front door walk in.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 9.23,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/471502a1-541f-41c5-9aa1-fb220d51f7a7_1.jpg"
+   ],
+   "bya_description": "A hand reaches for and turns a brass door handle on a white front door. The door opens inward to reveal a bright interior entryway.",
+   "bya_tags": [
+    "Lifestyle moment",
+    "Living room",
+    "Lifestyle moment",
+    "Living room"
+   ]
+  },
+  {
+   "id": "23fea303-731b-481d-b2dd-7522383cf255",
+   "filename": "holding fan.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 8.7,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/23fea303-731b-481d-b2dd-7522383cf255_1.jpg"
+   ],
+   "bya_description": "Static view of green kitchen cabinets and a double wall oven.",
+   "bya_tags": [
+    "Product in hand",
+    "Air purifier top",
+    "Moving the fan",
+    "Air purifier top",
+    "Moving the fan",
+    "Product close-up",
+    "Product in hand"
+   ]
+  },
+  {
+   "id": "24aea9dc-9078-4eef-a994-46907f591f00",
+   "filename": "holding fan.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 7.13,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/24aea9dc-9078-4eef-a994-46907f591f00_1.jpg"
+   ],
+   "bya_description": "Out-of-focus view of a white wall and door frame.",
+   "bya_tags": [
+    "Moving the fan",
+    "Product in hand",
+    "Moving the fan",
+    "Product in hand"
+   ]
+  },
+  {
+   "id": "27c9add3-853e-4ddb-a56d-a561730f256a",
+   "filename": "holding fan.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 9.27,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/27c9add3-853e-4ddb-a56d-a561730f256a_1.jpg"
+   ],
+   "bya_description": "Static wide shot of a room with a white louvered door, a mirror, and a plant.",
+   "bya_tags": [
+    "Moving the fan",
+    "Product in hand",
+    "Moving the fan",
+    "Product in hand"
+   ]
+  },
+  {
+   "id": "2886f116-7904-43af-ba76-7165ef32e9f4",
+   "filename": "playing w kids comfortably",
+   "folder": "Spin360 - Avery",
+   "duration_s": 7.98,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/2886f116-7904-43af-ba76-7165ef32e9f4_1.jpg"
+   ],
+   "bya_description": "A woman in a black tank top and two boys play with toy cars on a rug. They push the vehicles across the floor in a bright living room.",
+   "bya_tags": [
+    "Lifestyle moment",
+    "Living room",
+    "Stock story footage",
+    "Lifestyle moment",
+    "Living room",
+    "Stock story footage"
+   ],
+   "transcript": [
+    {
+     "start": 0.5,
+     "text": "Over the hill. Beep beep. I have to go over the hill.",
+     "labels": [
+      "Living room",
+      "Lifestyle moment",
+      "Stock story footage"
+     ]
+    },
+    {
+     "start": 5.5,
+     "text": "You have to stop because construction is",
+     "labels": [
+      "Living room",
+      "Lifestyle moment",
+      "Stock story footage"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "02888416-e819-43ee-8899-648d881f08eb",
+   "filename": "scent pod drop in 3.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 9.43,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/02888416-e819-43ee-8899-648d881f08eb_1.jpg"
+   ],
+   "bya_description": "A hand drops a yellow pod into a white fan's top compartment and closes the lid. The hand then presses a button on the top surface.",
+   "bya_tags": [
+    "Fan controls",
+    "Product close-up",
+    "Product on surface",
+    "Fan controls",
+    "Product close-up",
+    "Product on surface",
+    "Scent pod drop"
+   ]
+  },
+  {
+   "id": "40d29677-8e36-42ae-9a17-55f42e50090a",
+   "filename": "sleep data",
+   "folder": "Spin360 - Avery",
+   "duration_s": 7.98,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/40d29677-8e36-42ae-9a17-55f42e50090a_1.jpg"
+   ],
+   "bya_description": "Sleep tracking app displays a score of 81 and sleep metrics while scrolling through contributors. Then iPhone Control Center shows system toggles and a red recording icon.",
+   "bya_tags": [
+    "Phone system UI",
+    "Screen recording",
+    "Phone system UI",
+    "Screen recording"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,297 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_RedditVSL
+Author: Gabriel
+
+
+AD BRIEF
+	
+
+🎬 WATCH BEFORE YOU START — 4 videos
+1. Every Frame a Painting — How Does an Editor Think and Feel → https://youtu.be/3Q3eITC01Fg
+ THE main one. This doc is beat-mapped — this video explains why. Hold the emotion, cut on feeling. The holds are the sale.
+2. Roger Deakins — Practical Lighting (Part 3) → https://youtu.be/G_0M_GHw9GI
+ Our lighting rule for every bedroom scene: every light needs a visible source — lamp, window, hallway.
+3. Roger Deakins — Style → https://youtu.be/LUm8yQT1QTQ
+Watch this one for permission. The most prepared cinematographer alive says it himself: the plan exists so you can depart from it. Find the happy accidents. The storyboard is your map — if you see a better road, take it. (The "locked" list in the doc is the only fence.)
+
+
+4. THE BRIEF — this ad explained → The_Fan_Husband_Ad.mp4 — watch last.
+
+
+
+
+
+
+
+
+________________
+
+
+1. CREATIVE DIRECTION
+
+
+btw ( if the ai shots of the fan is not 100% perfect and great just use our real footage)
+The storyboard is the plan, not a cage. If you see a better shot, a better transition, a better way into a scene — take it. That's what the plan is for.
+
+
+
+
+Don't show the nickname
+https://www.reddit.com/r/sleep/comments/16z2j0g/fan_i_ssue_sleeping_with_wife/
+
+
+  
+
+Who we're selling to: the fan sleeper — usually the husband, 35–60. He's slept with a fan his whole life; his partner hates it (the wind hitting her + the constant noise). He feels guilty, he's tried everything, and he believes it has no solution. The couple is the stage — HE is the buyer.
+
+
+What we're actually selling: the end of the fight — told through a real internet artifact. A real guy really posted this question on Reddit, and the internet really couldn't solve it. This ad is the answer that thread never got.
+
+
+Format: SCREEN-DOC. The post and the comments live ON SCREEN (forum-style UI), and every suggestion cuts to a real cinematic scene of that fix failing. Screenshot → scene → screenshot → scene. The viewer feels like they found a story, not an ad.
+
+
+THE HOOK = THE POST BEING READ. The ad opens with the narrator reading the real post while it's on screen. That's the hook — one scene, the same in all three versions. What we test is only the VISUAL TREATMENT of the post (Table 1). One spoken track, one real post, three visual treatments.
+
+
+PACING RULE (this doc is beat-mapped): no visual sits on screen longer than ~8 seconds. Long VO passages are broken into numbered beats in the storyboard — follow the beats, don't loop one image under a paragraph of narration.
+
+
+Why this format: it's camouflage. In the feed, frame 1 looks like a screenshot someone shared — the most native object on the internet. The ad reveals itself slowly.
+
+
+
+
+Tone: narrator = calm, curious internet-documentary voice. Like someone telling you about a thread they can't stop thinking about.
+
+
+Visual style: two worlds, alternating. World 1 = the screen (clean forum UI, real thread text — verbatim, never retype it loosely). World 2 = the bedroom (cinematic-real: still camera, lamp/window/hallway light, small acting). The cut between worlds is the rhythm of the ad.
+
+
+The storyboard is the plan, not a cage. If you see a better shot, take it. Locked (don't touch): the verbatim post text · the hook (narrator reading the post over the post — no setup line before it) · every comment gets its failure paid on screen (wall, timer, app) · the 2s of real fan audio · mechanism order (geometry → blade) · the final hold. Yours (play): UI design, transitions between screen and scene, timing inside the beats, extra comment beats.
+
+
+________________
+
+
+2. THE HOOKs
+VO (identical in all three versions — the first words of the ad):
+
+
+"The fan is a non-negotiable for me... but I don't want to disrupt her sleep. What's the best way around it?"
+TABLE 1 — THE 3 VISUAL TREATMENTS OF THE POST
+#
+	Treatment
+	What's on screen
+	Why test it
+	V1 — STATIC
+	The post, clean and still.
+	The full post rendered on screen, no motion, no highlights. The viewer's eyes read it while the narrator reads it. Looks exactly like a shared screenshot.
+	Maximum camouflage — nothing signals "produced video." (Note: the post must be short enough to read comfortably in ~11s — ours is.)
+	V2 — LINE HIGHLIGHT
+	The post, read line by line.
+	Same post, each line highlighting in sync with the narrator. The eye is guided.
+	Maximum readability and retention — works perfectly on mute.
+	V3 — KEYWORD PUSH
+	The post, with the two key phrases burning.
+	Slow push-in on the post while ONLY the key phrases highlight as spoken: "non-negotiable" ... "her sleep." Everything else stays plain.
+	Maximum drama — the conflict jumps out in two phrases without breaking the native feel.
+	
+
+	
+
+	
+
+	
+
+	
+
+All three versions cut into the body immediately after the question mark. The spoken track never changes.
+
+
+________________
+
+
+3. THE BODY (identical in all three versions · ~2:35 + hook = ~2:50 total)
+THE SCRIPT (copy-paste for VO — continues right after the hook)
+And the suggestions poured in. Point it at the wall. Put it on a timer. Try a white noise app. The stuff everybody tries. Here's why none of it works.
+
+
+The fan person isn't being stubborn. His body needs two things to fall asleep — the moving air on his skin, and that steady sound. Both. That's why the white noise app failed: the recording isn't quite the real sound... and there's no air at all. He can tell.
+
+
+The timer failed different. It clicks the fan off at 3 a.m. — and the second the sound stops, his eyes snap open.
+
+
+And the wall trick? Sure, nobody gets hit — but now there's no air on HIM. Point it anywhere else, it lands on her. Eighty-five comments, and there's no corner of that room that works. Some couples just give up and sleep apart — one in the bed, one on the couch. Over a fan.
+
+
+What that thread needed was the guy who invented the Shark Wheel. Because he got obsessed with this exact problem. Spent four years on it.
+
+
+What he built pulls air in from the top and the bottom at the same time, and sends it out everywhere at once — like Saturn's rings. So instead of one hard stream aimed at one person, the moving air is everywhere in the room. He's in it. She's in it. And since the thing doesn't have a front, nobody's in front of it.
+
+
+Now — she's still going to feel air. So why doesn't she hate this air? Because of the blades. Normal blades chop at the air — that's the beating, pulsing thing she always hated. These are built more like barn doors: they don't chop, they push — smooth and flat. What lands on your skin feels like wind coming through an open window on a perfect night. And people who hate fans usually love open windows.
+
+
+And those same blades fix the sound. No chopping means no motor drone. Just that smooth, steady shhhh — the real sound the white noise app was trying to fake.
+
+
+[PRODUCTION NOTE: VO stops. 2 seconds of the actual fan audio, clean, no music.]
+
+
+Turn it up as loud as you need — the breeze fills in a little too, sure. But it stays soft. Spread across the whole room. Aimed at nobody.
+
+
+So: the air he needs. The sound he needs. Nothing hitting her. The stream's gone, the pulse is gone, the drone's gone. One fan, good for both people, at the same time.
+
+
+Somewhere out there, that thread is still open. If you're living the same question... this was the answer.
+TABLE 2 — THE BODY STORYBOARD (beat-mapped: no image longer than ~8s)
+#
+	Script (VO)
+	Visual — numbered beats
+	Note
+	1
+	"And the suggestions poured in. Point it at the wall. Put it on a timer. Try a white noise app. The stuff everybody tries. Here's why none of it works." (~10s)
+	SCREEN: each comment pops in AS it's named — (1) "point it at the wall" (2) "put it on a timer" (3) "try a white noise app". Then a beat of the full thread.
+	Comments appear in sync with the VO — each one is a promise the next scenes will pay.
+	2
+	"The fan person isn't being stubborn... the recording isn't quite the real sound... and there's no air at all. He can tell." (~20s)
+	BEDROOM, 4 cuts inside one scene: (1) phone on nightstand playing "Fan Sounds — 10hr loop", fan OFF (2) close: his eyes open in the dark (3) his hand kills the app, reaches over, turns the real fan ON — he settles (4) behind him, she grips the blanket.
+	APP FAIL. Do NOT play this as one static take — cut through the 4 beats with the VO. Her beat plants the war.
+	3
+	"The timer failed different. It clicks the fan off at 3 a.m. — and the second the sound stops, his eyes snap open." (~8s)
+	BEDROOM, 3 beats: (1) the fan running, clock reads 3:00 (2) the CLICK — blades slow to a stop, room goes silent (let the silence hit) (3) his eyes snap open.
+	TIMER FAIL — new scene, pays the second comment. The sound cutting out IS the scene. Make the click loud, the silence total.
+	4
+	"And the wall trick? Sure, nobody gets hit — but now there's no air on HIM. Point it anywhere else, it lands on her. Eighty-five comments, and there's no corner of that room that works." (~14s)
+	BEDROOM, 3 beats: (1) fan aimed at the wall — he's awake, still air (2) fan back toward the bed — her hair whipping, blanket up (3) WIDE of the whole room, the fan spinning: every corner tried, none works.
+	WALL FAIL + the dead end. Beat 3 SHOWS "no corner works" — the room itself is out of options.
+	5
+	"Some couples just give up and sleep apart — one in the bed, one on the couch. Over a fan." (~8s)
+	(1) She takes her pillow down the hallway (2) hold on the old fan, alone, still spinning.
+	End the problem section on the villain.
+	6
+	"What that thread needed was the guy who invented the Shark Wheel... Spent four years on it." (~8s)
+	David footage / product turntable.
+	Short. Credential only.
+	7
+	"It pulls air in from the top and the bottom at the same time... like Saturn's rings... He's in it. She's in it. And since the thing doesn't have a front, nobody's in front of it." (~23s)
+	DEMO, 5 beats in sync with the VO: (1) smoke pulled in from the TOP (2) smoke pulled in from the BOTTOM (3) release: 360° out, all directions at once (4) the room filling with slow-moving air (5) WIDE: both of them in bed, inside the moving air.
+	GEOMETRY — beat-mapped. Do NOT loop one smoke shot for 23s; each beat lands on its phrase.
+	8
+	"Now — she's still going to feel air... barn doors... smooth and flat... like wind coming through an open window. And people who hate fans usually love open windows." (~27s)
+	4 beats with durations: (1) macro: the blade turning slow, ~5s (2) RIBBON at a normal fan — SNAPS and beats, 2s MAX (3) RIBBON at the Spin360 — FLOWS smooth, let it breathe, ~8s (4) a curtain moving softly at an open window, ~6s, close on it as the line lands.
+	THE ELEPHANT + THE PROOF. The old fan gets 2 seconds — it's a flashback of proof, not a return to the problem. The Spin360 ribbon gets the screen time.
+	9
+	"And those same blades fix the sound... the real sound the white noise app was trying to fake." [VO STOPS — 2s real audio] (~13s + 2s)
+	2 beats: (1) the product spinning in the dark room — hold through the 2s of clean audio (2) the phone on the nightstand: app closed, screen dark, abandoned.
+	The app callback — the thread's top suggestion, retired. The 2s of real audio is mandatory: it's the proof you can hear.
+	10
+	"Turn it up as loud as you need — the breeze fills in a little too, sure. But it stays soft. Spread across the whole room. Aimed at nobody." (~11s)
+	2 beats: (1) close: a hand turns the dial UP (2) the room answers: sheets and curtain keep moving softly — nothing whips.
+	Shows "louder without the blast."
+	11
+	"So: the air he needs. The sound he needs. Nothing hitting her. The stream's gone, the pulse is gone, the drone's gone. One fan, good for both people, at the same time." (~13s)
+	3 cuts, one per idea: (1) him settled in the airflow (2) close on her — face calm, hair still (3) WIDE: both asleep, product between them.
+	One cut per "gone." The rhythm of the edit IS the list.
+	12
+	"Somewhere out there, that thread is still open. If you're living the same question... this was the answer." (~9s)
+	SCREEN: back to the post, cursor hovers over it... the screen dims to black. Hold 2s.
+	Full circle — end where we started. Don't trim the hold.
+	
+
+________________
+
+
+DELIVERY
+
+
+	
+
+	If the AI shots of the fan aren't 100% perfect, use our real product footage
+	
+
+	Runtime
+	~2:50 (hook ~11s + body ~398 words @ ~145wpm + 2s audio + holds)
+	Format
+	9:16
+	VO
+	ONE spoken track for all three versions — calm male internet-doc voice, curious not salesy
+	Captions
+	Whole video, account style
+	Screen UI
+	Real post, generic forum look (no official Reddit branding); text verbatim
+	
+
+Primary Text:
+🛏️ There’s a Reddit thread about this exact fight.
+One person needs the fan on.
+The other person hates the air hitting them all night.
+And the comments are basically what you’d expect:
+“Point it at the wall.”
+“Use a timer.”
+“Try a white noise app.”
+Cool.
+Except none of that actually fixes the problem.
+Because the fan person doesn’t just need the sound.
+They need the air too.
+And the fan-hater doesn’t hate “air.”
+They hate the stream.
+The pulse.
+The drone.
+That’s the part SPIN360 changes.
+It moves air around the whole room instead of blasting one person.
+Soft breeze.
+Real shhhh.
+Aimed at nobody. 🌬️
+So he keeps the air and the sound…
+and she stops getting hit by the fan.
+That’s the answer the thread never got.
+🌬️ 360° airflow
+💤 real moving-air white noise
+🔇 no harsh motor drone
+🛏️ made for both sides of the bed
+🌙 soft breeze aimed at nobody
+Tap Shop Now and try the fan truce 👇
+Headline:
+Answer The Reddit Thread
+
+
+The fan is a non-negotiable for me... but I don't want to disrupt her sleep. What's the best way around it?
+
+
+And the suggestions poured in. Point it at the wall. Put it on a timer. Try a white noise app. The stuff everybody tries. Here's why none of it works.
+
+
+The fan person isn't being stubborn. His body needs two things to fall asleep — the moving air on his skin, and that steady sound. Both. That's why the white noise app failed: the recording isn't quite the real sound... and there's no air at all. He can tell.
+
+
+The timer failed different. It clicks the fan off at 3 a.m. — and the second the sound stops, his eyes snap open.
+
+
+And the wall trick? Sure, nobody gets hit — but now there's no air on HIM. Point it anywhere else, it lands on her. Eighty-five comments, and there's no corner of that room that works. Some couples just give up and sleep apart — one in the bed, one on the couch. Over a fan.
+
+
+What that thread needed was the guy who invented the Shark Wheel. Because he got obsessed with this exact problem. Spent four years on it.
+
+
+What he built pulls air in from the top and the bottom at the same time, and sends it out everywhere at once — like Saturn's rings. So instead of one hard stream aimed at one person, the moving air is everywhere in the room. He's in it. She's in it. And since the thing doesn't have a front, nobody's in front of it.
+
+
+Now — she's still going to feel air. So why doesn't she hate this air? Because of the blades. Normal blades chop at the air — that's the beating, pulsing thing she always hated. These are built more like barn doors: they don't chop, they push — smooth and flat. What lands on your skin feels like wind coming through an open window on a perfect night. And people who hate fans usually love open windows.
+
+
+And those same blades fix the sound. No chopping means no motor drone. Just that smooth, steady shhhh — the real sound the white noise app was trying to fake.
+
+
+Turn it up as loud as you need — the breeze fills in a little too, sure. But it stays soft. Spread across the whole room. Aimed at nobody.
+
+
+So: the air he needs. The sound he needs. Nothing hitting her. The stream's gone, the pulse is gone, the drone's gone. One fan, good for both people, at the same time.
+
+
+Somewhere out there, that thread is still open. If you're living the same question... this was the answer.

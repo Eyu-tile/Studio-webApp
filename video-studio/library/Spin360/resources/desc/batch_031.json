@@ -1,0 +1,869 @@
+{
+ "batch": "batch_031",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_031.out.json",
+ "clips": [
+  {
+   "id": "1be6a22c-dda0-458f-b531-d5638e3d4164",
+   "filename": "Script 3_2",
+   "folder": "Spin360 - Michael / Scripts",
+   "duration_s": 178.4,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1be6a22c-dda0-458f-b531-d5638e3d4164_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1be6a22c-dda0-458f-b531-d5638e3d4164_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1be6a22c-dda0-458f-b531-d5638e3d4164_3.jpg"
+   ],
+   "bya_description": "A middle-aged man with dark hair and a black button-down shirt speaks directly to the camera while seated in a bedroom. He gestures frequently with both hands, wearing a ring on his right hand, against a background featuring a red-lit wall and a piece of art.",
+   "bya_tags": [
+    "Talking head",
+    "Personal Struggle",
+    "Spin 360",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.3,
+     "text": "Last summer, I hit a wall. Last summer, I hit a wall.",
+     "labels": [
+      "Hook",
+      "Personal Struggle",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 7.1,
+     "text": "The moment my friend turned this on, I knew I was taking it home. The moment my friend turned this on, I knew I was taking it home.",
+     "labels": [
+      "Immediate Desire",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 16.9,
+     "text": "I remember one morning specifically. My alarm went off and I just lay there staring at the ceiling, trying to find the energy to get out of bed. The kids were already up. I could hear them, and I just thought, I can't do",
+     "labels": [
+      "Personal Struggle",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 43.6,
+     "text": "But I was running on empty, and I knew exactly why. Our bedroom gets so hot in the summer, I'd go to bed exhausted, but I could never fully zone out. I'd throw the blanket off, turn from side to side, wake up sweating, t",
+     "labels": [
+      "Personal Struggle",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 69.4,
+     "text": "Then about a month ago, a friend showed me something he'd just gotten. It was this fan, Spin 360. He turned it on and I immediately felt it. It cooled the whole room down, like the heat just started disappearing. He told",
+     "labels": [
+      "Spin 360",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 84.6,
+     "text": "That first night, I turned it on, got into bed and just exhaled. That first night I turned it on, got into bed, and just exhaled. The air in my room was moving. I felt this soft, gentle coolness that just filled the enti",
+     "labels": [
+      "Room transformation",
+      "Gentle air movement",
+      "Nostalgic Comfort",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 132.7,
+     "text": "I slept through the night. No tossing, no turning, no waking up sweating. And the next morning? I woke up before my alarm. I actually felt ready that morning. Making lunches didn't feel heavy. Finding someone's shoes did",
+     "labels": [
+      "Energy For Kids",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 154.2,
+     "text": "So if summer nights are stealing the energy you need the next morning, you probably don't need air that blows harder. You need the air to move around you differently. And that's exactly what Spin 360 does. So if summer n",
+     "labels": [
+      "Spin 360",
+      "No Harsh Streams",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "527ac7aa-ed7f-48c6-a42d-6e589551d168",
+   "filename": "Script 1.mov",
+   "folder": "Spin360 / Scripts",
+   "duration_s": 197.56,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/527ac7aa-ed7f-48c6-a42d-6e589551d168_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/527ac7aa-ed7f-48c6-a42d-6e589551d168_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/527ac7aa-ed7f-48c6-a42d-6e589551d168_3.jpg"
+   ],
+   "bya_description": "A middle-aged woman in a pink and orange plaid shirt and green cargo pants sits on a brown couch in a living room, talking directly to the camera and gesturing with her hands throughout.",
+   "bya_tags": [
+    "Talking head",
+    "Personal Struggle",
+    "Core Temperature Regulation",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.4,
+     "text": "When the temperature in your bedroom goes up and your sleep quality goes down.",
+     "labels": [
+      "Hook",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 5.6,
+     "text": "And I had no idea how much this was affecting me.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 9.6,
+     "text": "And I had no idea how much this was affecting me.",
+     "labels": [
+      "Personal Struggle",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 12.8,
+     "text": "Your body is naturally designed to sleep in a cooler environment. Your body is naturally designed to sleep in a cooler environment. Your body is naturally designed to sleep in a cooler environment.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 23.5,
+     "text": "It actually needs to lower its core temperature to fall asleep.",
+     "labels": [
+      "Credibility",
+      "Talking head",
+      "Core Temperature Regulation"
+     ]
+    },
+    {
+     "start": 27.4,
+     "text": "And stay asleep and stay asleep and stay asleep.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 32.2,
+     "text": "So if every summer you're tossing around, kicking the covers off, flipping your pillows to the cold side and flipping your pillow to the cold side and flipping your pillow to the cold side and flipping your pillow to the",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 49.2,
+     "text": "and somehow waking up exhausted after 8 hours of sleep,",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 52.6,
+     "text": "and somehow waking up exhausted after 8 hours of sleep, your bedroom is probably just too hot.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 58.6,
+     "text": "Your bedroom is probably just too hot. That was me, and I already had a fan.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 64.1,
+     "text": "That was me, and I already had a fan. But a normal fan only pushes one stream of air directly at you, so I'd either have one freezing arm\u2014 so I'd either have one freezing arm, or I would turn it away and barely feel anyt",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 83.0,
+     "text": "Then I found Spin 360. Then I found Spin 360. Then I found Spin 360.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 89.6,
+     "text": "It uses this patented double vortex design and pulls air from above and below at the same time.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 95.9,
+     "text": "It uses this patented double vortex design that pulls air in from above and below at the same time, then circulates it around the entire bedroom. Then circulates it around the entire bedroom, then circulates it around th",
+     "labels": [
+      "Mechanism explainer",
+      "Product benefit",
+      "Talking head",
+      "Double Vortex Design"
+     ]
+    },
+    {
+     "start": 110.9,
+     "text": "So instead of getting blasted by one harsh stream of air,",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 114.4,
+     "text": "so instead of getting blasted by one harsh stream of air, you almost get this gentle breeze constantly moving around you, across your arms, across your legs, and around the bed. And that's what feels so different. And th",
+     "labels": [
+      "No Harsh Streams",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 130.2,
+     "text": "The whole bedroom feels cooler, lighter, and less stagnant.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 133.9,
+     "text": "The whole bedroom feels cooler, lighter, and less stagnant. Almost like you opened every window and there's a perfect breeze moving through the room. Almost like you opened every window and there's this perfect breeze mo",
+     "labels": [
+      "Room transformation",
+      "Nostalgic Comfort",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 157.1,
+     "text": "I spent years thinking that summer just meant sleeping badly. I spent years thinking that summer just meant I would sleep badly.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 164.5,
+     "text": "I spent years thinking that summer just meant sleeping badly. It turns out I was trying to sleep in a hot box with barely any air movement.",
+     "labels": [
+      "Personal Struggle",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 172.7,
+     "text": "So if you're waking up exhausted every summer, so if you're waking up exhausted every summer,",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 178.8,
+     "text": "don't just cool one side of your body.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 180.7,
+     "text": "Don't just cool one side of your body. Cool the room around you with Spin 360. Cool the room around you with Spin 360. Cool the room around you with Spin 360. Cool the room around you with Spin 360. Cool the room around ",
+     "labels": [
+      "Spin 360",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fda48d86-d5bf-4d9b-943f-6a30a74dac06",
+   "filename": "Script 2.mov",
+   "folder": "Spin360 / Scripts",
+   "duration_s": 591.48,
+   "talking": true,
+   "cuts": [
+    259.37
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fda48d86-d5bf-4d9b-943f-6a30a74dac06_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fda48d86-d5bf-4d9b-943f-6a30a74dac06_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fda48d86-d5bf-4d9b-943f-6a30a74dac06_3.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fda48d86-d5bf-4d9b-943f-6a30a74dac06_4.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fda48d86-d5bf-4d9b-943f-6a30a74dac06_5.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fda48d86-d5bf-4d9b-943f-6a30a74dac06_6.jpg"
+   ],
+   "bya_description": "A woman with brown hair in a ponytail, wearing a green t-shirt with a jar graphic, sits in a brown leather chair and talks directly to the camera in a home setting. She gestures frequently with both hands to emphasize her points, occasionally touching her hair or face, while framed from the chest up against a light-colored wall with a framed 'Do Small Things With Great Love' sign.",
+   "bya_tags": [
+    "Talking head",
+    "Product benefit",
+    "Failed alternative",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.6,
+     "text": "This is not just being a hot sleeper. This is not just being a hot sleeper. This is not just being a hot sleeper.",
+     "labels": [
+      "Hook",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 9.0,
+     "text": "And then I would drag myself through the next morning wondering why 8 hours in bed still felt like 5. And then I would drag myself through the next morning wondering why 8 hours in bed felt like 5. And then I would drag ",
+     "labels": [
+      "Personal Struggle",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 33.4,
+     "text": "but then I started paying attention to what those 8 hours actually looked like. But then I started paying attention to what those 8 hours actually looked like.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 41.2,
+     "text": "And no, buying another cooling pillow ain't gonna fix it. And no, buying another cooling pillow isn't gonna fix it. And no, buying another cooling pillow isn't gonna fix it.",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 53.2,
+     "text": "Because if you sleep hot, you've probably tried at least one of these. Because if you sleep hot, you've probably tried at least one of these: cooling sheets, lighter pajamas, a thinner duvet, a thinner duvet, 2 fans, sle",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 85.0,
+     "text": "I did all of them. I did all of them. And sure, some helped for like 20 minutes. Then I'd wake up at 2:17 in the morning. Then I'd wake up at 2:17 in the morning, hot, blanket kicked off, hair stuck to my neck, flipping ",
+     "labels": [
+      "Personal Struggle",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 115.9,
+     "text": "And everyone had an answer. And everyone had an answer. Turn the thermostat down. Get a better fan. Try bamboo sheets. Sleep without a comforter. Okay, I did. So why was I still waking up hot?",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 137.1,
+     "text": "It turns out I was fixing everything except the actual room. And once somebody explained this to me, my entire bedroom suddenly made sense. And once somebody explained this to me, my entire bedroom suddenly made sense.",
+     "labels": [
+      "Mechanism explainer",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 150.7,
+     "text": "So last summer I stayed at my sister's house. So last summer I stayed at my sister's house, middle of July, hot outside. And I remember waking up in her bedroom and immediately going, why does it feel so good in here? No",
+     "labels": [
+      "Product benefit",
+      "Immediate Desire",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 172.3,
+     "text": "The air felt like it was moving everywhere. The air felt like it was moving everywhere. You know that feeling when you're outside at night and there's this really soft breeze constantly moving across your skin? Like that",
+     "labels": [
+      "Gentle air movement",
+      "Skin bliss",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 190.2,
+     "text": "And then I slept under an actual blanket in July. I woke up the next morning and I asked her, what are you doing in this room? She points at this thing. She points at this thing. She points at this thing.",
+     "labels": [
+      "Spin 360",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 208.6,
+     "text": "Spin 360.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 210.5,
+     "text": "And I'm thinking, that's a fan. She goes, No, turn it on. And within a few minutes, I understood exactly what she meant. And within a few minutes, I understood exactly what she meant. Because it doesn't feel like a norma",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 229.9,
+     "text": "There isn't this one aggressive stream blasting your arm while the rest of the room still feels warm. The whole room just feels alive. The whole room just feels alive.",
+     "labels": [
+      "No Harsh Streams",
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 242.5,
+     "text": "So obviously I went home, bought one, and then became completely obsessed with figuring out why it felt so different. And this is where it gets interesting. And this is where it gets interesting.",
+     "labels": [
+      "Personal Suitability",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 253.9,
+     "text": "Your bedroom naturally has different layers of air. Your bedroom naturally has different layers of air. Warmer air rises while the cooler air settles lower. So you can have warmer air sitting higher in the room and coole",
+     "labels": [
+      "Mechanism explainer",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 275.2,
+     "text": "Now look at what a regular fan does. Now look at what a regular fan does. Now look at what a regular fan does. It pulls air from behind it and shoots it forward. It pulls air from behind it and shoots it forward.",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 289.3,
+     "text": "That's it. One direction, which is great if you want one freezing arm. That's it. One direction, which is great if you want one freezing arm. But turn it slightly away from you and suddenly you barely feel anything. That",
+     "labels": [
+      "No Harsh Streams",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 313.9,
+     "text": "Spin 360 works completely differently. Spin 360 works completely differently. Spin 360 works completely differently. It has this patented double vortex design where it pulls air in from above and below at the same time. ",
+     "labels": [
+      "Double Vortex Design",
+      "Mechanism explainer",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 337.7,
+     "text": "So instead of leaving those warmer and cooler layers sitting there, it keeps mixing the air. It keeps mixing the air. It keeps mixing the air.",
+     "labels": [
+      "Mechanism explainer",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 347.7,
+     "text": "And that is the feeling I could not explain at my sister's house. And that is the feeling I could not explain at my sister's house. And that is the feeling I couldn't explain at my sister's house.",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 358.1,
+     "text": "There isn't one giant blast of air. There isn't one giant blast of air. You'll just be lying there and then feel this little breeze move across your arm, then your legs, then your face, then nothing. And then it comes ar",
+     "labels": [
+      "Gentle air movement",
+      "No Harsh Streams",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 372.4,
+     "text": "It feels natural, almost like sleeping with all the windows open on the perfect night. It feels natural, almost like sleeping with all the windows open on a perfect summer night.",
+     "labels": [
+      "Nostalgic Comfort",
+      "Sleeping outside feeling",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 383.9,
+     "text": "And apparently temperature matters way more for sleep than I realized. And apparently temperature matters way more for sleep than I realized. Your body naturally needs to lower its core temperature as you fall asleep and",
+     "labels": [
+      "Core Temperature Regulation",
+      "Credibility",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 397.9,
+     "text": "Your body naturally needs to lower its core temperature as you fall asleep and stay asleep. Which explains why trying to sleep in a hot bedroom feels absolutely miserable. Which explains why trying to sleep in a hot bedr",
+     "labels": [
+      "Core Temperature Regulation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 413.7,
+     "text": "But here's the mistake I made for years. But here's the mistake I made for years. I thought hot bedroom equals stronger fan. I thought hot bedroom equals stronger fan.",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 426.2,
+     "text": "So I kept buying more powerful fans. And more powerful fans basically gave me more powerful wind directly in my face. That wasn't what I wanted.",
+     "labels": [
+      "No Harsh Streams",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 436.1,
+     "text": "That wasn't what I wanted. I didn't want to feel like I was sleeping behind a jet engine. I didn't want to feel like I was sleeping behind a jet engine. I didn't want to feel like I was sleeping behind a jet engine.",
+     "labels": [
+      "No Harsh Streams",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 447.6,
+     "text": "I wanted the bedroom itself to feel better. I wanted the bedroom itself to feel better. And that's the difference. And that's the difference. Spin 360 isn't about blasting you harder. It's about keeping the air around yo",
+     "labels": [
+      "Room transformation",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 462.4,
+     "text": "It's about keeping the air around you moving. And there are a couple little things that I didn't expect to care about, but now I absolutely do. On the lower speeds, it's nearly silent. On the lower speeds, it's nearly si",
+     "labels": [
+      "Dead silent",
+      "Noise Sensitivity",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 476.8,
+     "text": "And when you turn it higher, you get this really steady shh. Not that annoying mechanical whoop whoop whoop whoop that you get from some fans. It basically just becomes white noise. It basically just becomes white noise.",
+     "labels": [
+      "Dead silent",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 493.2,
+     "text": "So now my bedtime routine is embarrassingly simple. So now my bedtime routine is embarrassingly simple. Spin 360 on, lights off, get under the covers, and I actually stay there.",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 506.0,
+     "text": "I'm not doing one leg out, both legs out, blanket on, blanket off, flip pillow, flip pillow again, fan directly at my face, fan away from my face, thermostat down another 2 degrees. None of that. I'm not doing one leg ou",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 535.2,
+     "text": "And this just might be the weirdest part\u2014 you stop noticing the fan. You stop noticing the fan.",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 542.9,
+     "text": "You just notice that the room feels good, like somebody removed the walls of your bedroom and put your bed somewhere outside with this perfect little breeze moving around you.",
+     "labels": [
+      "Takes Walls Off",
+      "Sleeping outside feeling",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 551.5,
+     "text": "That's the closest way that I can describe it. And now whenever I sleep somewhere without it, I notice immediately the air just feels dead. The air just feels dead.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 562.5,
+     "text": "So if you've spent years saying, I'm just a hot sleeper, before you buy another cooling pillow, another set of sheets, or another fan that fires air directly at your forehead, look at what the air in your bedroom is actu",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 575.1,
+     "text": "Because for me, that was the thing that nobody had explained. Spin 360 completely changed how my bedroom feels at night. Spin 360 completely changed how my bedroom feels at night.",
+     "labels": [
+      "Product benefit",
+      "Spin 360",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 588.1,
+     "text": "Tap below and check it out. Tap below and check it out.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8d7b71e5-094e-4db0-8dac-87e60c34d9fd",
+   "filename": "Script 3.mov",
+   "folder": "Spin360 / Scripts",
+   "duration_s": 175.87,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8d7b71e5-094e-4db0-8dac-87e60c34d9fd_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8d7b71e5-094e-4db0-8dac-87e60c34d9fd_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8d7b71e5-094e-4db0-8dac-87e60c34d9fd_3.jpg"
+   ],
+   "bya_description": "A middle-aged woman with her hair in a ponytail and wearing a light blue t-shirt talks directly to the camera in a home setting. She gestures frequently with both hands to emphasize her points, occasionally touching her chest or pointing. Behind her, a green wall features framed pictures and a wooden sign with the word 'together'.",
+   "bya_tags": [
+    "Talking head",
+    "Product benefit",
+    "Dead silent",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.3,
+     "text": "This is legal in Sweden. In America, somebody would probably call the police.",
+     "labels": [
+      "Hook",
+      "Talking head",
+      "Swedish baby napping"
+     ]
+    },
+    {
+     "start": 5.8,
+     "text": "But in Sweden, this is just how babies nap.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 9.1,
+     "text": "But in Sweden, this is just how babies nap. Rows of strollers parked outside cafes, babies asleep inside, sometimes in freezing temperatures. On purpose.",
+     "labels": [
+      "Sleeping outside feeling",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 21.4,
+     "text": "On purpose.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 23.1,
+     "text": "And researchers have found that babies can sleep significantly longer outdoors than indoors.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 28.4,
+     "text": "And researchers have found that babies can sleep significantly longer outdoors than indoors, which sounds insane until you understand what's actually different. It's not that they're freezing. They're bundled up. They're",
+     "labels": [
+      "Credibility",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 42.8,
+     "text": "It's the air.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 44.7,
+     "text": "Outside, the air is constantly moving. There's always some tiny breeze across your skin.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 51.1,
+     "text": "There's always some tiny breeze across your skin. Then you go inside, windows shut, doors shut, and the air just sits there.",
+     "labels": [
+      "Gentle air movement",
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 59.9,
+     "text": "That idea completely changed how I thought about sleep.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 63.3,
+     "text": "That idea completely changed how I thought about sleep. Because why does sleeping outside on a perfect night feel so good?",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 71.7,
+     "text": "Because why does sleeping outside on a perfect night feel so good? It's not just the temperature, it's that soft, natural movement of air around you.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 80.2,
+     "text": "It's not just the temperature, it's that soft, natural movement of air around you. And that's basically what we tried to recreate with the Spin 360.",
+     "labels": [
+      "Spin 360",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 89.4,
+     "text": "Instead of a normal fan pulling air from behind it and then firing one stream straight at your face, Spin 360 pulls air in from above and below and sends it around the room at 360 degrees.",
+     "labels": [
+      "Mechanism explainer",
+      "Double Vortex Design",
+      "No Harsh Streams",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 101.6,
+     "text": "Spin 360 pulls air in from above and below and then sends it around the room in 360 degrees.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 107.4,
+     "text": "Almost like Saturn's rings.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 109.8,
+     "text": "Almost like Saturn's rings. And it doesn't feel like a mechanical fan. It feels like a breeze.",
+     "labels": [
+      "Gentle air movement",
+      "Product benefit",
+      "Talking head",
+      "Saturn ring airflow"
+     ]
+    },
+    {
+     "start": 117.3,
+     "text": "It feels like a breeze.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 119.6,
+     "text": "The first time you lie in bed with it running, the room almost feels like the walls disappeared. Like your bed is outside and the air is just moving around you.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 128.3,
+     "text": "Like your bed is outside and the air is just moving around you. On speeds 1 through 5, it is incredibly quiet.",
+     "labels": [
+      "Takes Walls Off",
+      "Dead silent",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 135.6,
+     "text": "On speeds 1 through 5, it's incredibly quiet.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 139.0,
+     "text": "On speeds 1 through 5, it is incredibly quiet. Turn it higher and you get this soft shh that sounds more like wind than a fan.",
+     "labels": [
+      "Dead silent",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 148.7,
+     "text": "And you can even drop in a scent pod so the fragrance travels with the airflow through the room.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 153.8,
+     "text": "And you can even drop in a scent pod so that the fragrance will travel with the airflow throughout the room.",
+     "labels": [
+      "Scent rotation",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 158.8,
+     "text": "Once you actually feel the difference between air being blown at you and air moving around you, A normal fan starts to feel pretty outdated.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 168.4,
+     "text": "Once you actually feel the difference between air being blown at you and air moving around you, a normal fan starts to feel pretty outdated.",
+     "labels": [
+      "Failed alternative",
+      "Product benefit",
+      "Talking head"
+     ]
+    }
+   ]
+  }
+ ]
+}

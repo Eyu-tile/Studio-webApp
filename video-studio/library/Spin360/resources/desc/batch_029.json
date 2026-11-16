@@ -1,0 +1,1234 @@
+{
+ "batch": "batch_029",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_029.out.json",
+ "clips": [
+  {
+   "id": "fdd78f03-a845-4d31-92fe-35304bc08ece",
+   "filename": "360-3-HOOK-1-This-has-20260810-112649.mov",
+   "folder": "360 fan  - Vicky / Talking heads",
+   "duration_s": 172.36,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fdd78f03-a845-4d31-92fe-35304bc08ece_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fdd78f03-a845-4d31-92fe-35304bc08ece_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fdd78f03-a845-4d31-92fe-35304bc08ece_3.jpg"
+   ],
+   "bya_description": "A middle-aged woman with long silver hair and a black top holds a small gold and white scent pod close to the camera in a modern living room. She gestures with the pod while speaking directly to the lens.",
+   "bya_tags": [
+    "Talking head",
+    "Friends complimenting home",
+    "Living room",
+    "Living room",
+    "Product in hand",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.8,
+     "text": "This has become my absolute holy grail for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 10.9,
+     "text": "This is my new obsession for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 20.1,
+     "text": "This is my new obsession for making my house smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 29.0,
+     "text": "I finally figured out the trick to making my home smell like a 5-star luxury hotel. Every time my friends come over, it's the first thing they compliment.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "10-second hack",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 38.6,
+     "text": "I used to buy those expensive room sprays, but they have such an artificial smell and they literally last for about 3 minutes. And candles are beautiful, but they get so expensive and they're honestly a fire hazard.",
+     "labels": [
+      "Failed alternative",
+      "Expensive room sprays",
+      "Fire hazard",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 53.6,
+     "text": "So I switched to the Spin 360 It looks like a beautiful piece of high-end decor, but it uses something called Active Breeze Diffusion.",
+     "labels": [
+      "Mechanism explainer",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 69.7,
+     "text": "Normal diffusers just drop mist onto a table and do absolutely nothing for the room, but this is actually, but this is actually a revolutionary silent fan. It pulls in all the heavy, stale air and silently pushes out a g",
+     "labels": [
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 92.5,
+     "text": "It pulls in that heavy, stale air and silently pushes out a gentle, cool breeze.",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 100.5,
+     "text": "It pulls in that heavy, stale air and silently pushes out a gentle, cooling breeze infused with luxury scent in a complete 360-degree circle. It completely changes the atmosphere of the room in seconds. It takes away tha",
+     "labels": [
+      "Product benefit",
+      "Room transformation",
+      "Takes Walls Off",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 119.3,
+     "text": "There are 3 pods I rotate: Clean Floral and Vanilla for every day, Sunlit Citrus when I want the place to feel awake, and Citrus Sandalwood when people are coming over. That one gets comments every single time.",
+     "labels": [
+      "Scent rotation",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 136.6,
+     "text": "Because here's the thing that nobody tells you. You stop smelling your own home. Your guests never do.",
+     "labels": [
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 143.4,
+     "text": "Mine walk in now and ask,",
+     "labels": [
+      "Talking head"
+     ]
+    },
+    {
+     "start": 146.6,
+     "text": "mine walk in now and ask, what smells so good?",
+     "labels": [
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 150.1,
+     "text": "Because here's the thing that nobody tells you. You stop smelling your own home. Your guests, your guests never do. Mine walk in and ask, what smells so good? The Spin 360 cools the room in dead quiet and it elevates you",
+     "labels": [
+      "Guest First Impressions",
+      "Dead silent",
+      "Home Elevation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 164.9,
+     "text": "The first 1,000 people get $100 off, so click the link below to get yours.",
+     "labels": [
+      "Offer CTA",
+      "Spin 360",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "69d6a758-a7d3-43fe-a09a-4d266786e68d",
+   "filename": "Main Script V2 (tip 3 until the end)",
+   "folder": "Spin 360 - Lauren / Script 1",
+   "duration_s": 79.36,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/69d6a758-a7d3-43fe-a09a-4d266786e68d_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/69d6a758-a7d3-43fe-a09a-4d266786e68d_2.jpg"
+   ],
+   "bya_description": "A blonde woman in a brown tank top speaks directly to the camera from a couch. A black cylindrical fan stands behind her against a large window with forest views. She gestures, points to the fan, adjusts her hair, and rubs her face.",
+   "bya_tags": [
+    "Talking head",
+    "Product benefit",
+    "Friends complimenting home",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 1.8,
+     "text": "Number 3 is the one my friends always end up asking me about. My entire life motto is 2 birds, one stone. This thing kills 3.",
+     "labels": [
+      "Hook",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 10.7,
+     "text": "20 minutes before bedtime, I turn on this fan in the kids' room. Bird one, it cools the whole room. It's a 360 fan, so it blows in every direction at once, so none of my kids have wind blasting in their face all night. B",
+     "labels": [
+      "Product benefit",
+      "Mechanism explainer",
+      "Gentle air movement",
+      "Scent rotation"
+     ]
+    },
+    {
+     "start": 37.1,
+     "text": "Let me tell you, this calms them down and it makes the whole house smell amazing. If you have a toddler, you already know why that matters. By the time books are done, their room is cool, it's humming, it smells clean, a",
+     "labels": [
+      "Product benefit",
+      "Room transformation",
+      "Talking head",
+      "Toddler sleep aid"
+     ]
+    },
+    {
+     "start": 51.6,
+     "text": "Tip number 4, the second their lights go off, I set a 10-minute timer, clean the living room, toys, pillows, counters. When the timer ends, I'm done. And yes, the fan comes downstairs with me. It just picks up and moves.",
+     "labels": [
+      "Product benefit",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 65.4,
+     "text": "I kid you not, had this thing existed when my kids were younger, it would have saved me so many sleepless nights for them and for me, because damn, this thing makes me zoned out. It just feels so good.",
+     "labels": [
+      "Product benefit",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6a6562d2-bfed-4c28-ba16-47382a7326c7",
+   "filename": "Main Script x V2",
+   "folder": "Spin 360 - Lauren / Script 2",
+   "duration_s": 101.23,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6a6562d2-bfed-4c28-ba16-47382a7326c7_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6a6562d2-bfed-4c28-ba16-47382a7326c7_2.jpg"
+   ],
+   "bya_description": "Woman in white tank top speaks to camera while holding and sipping water in a home setting.",
+   "bya_tags": [
+    "Talking head",
+    "Product benefit",
+    "10-second hack",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.0,
+     "text": "So here's the thing I do to make my house smell like a 5-star wellness retreat, and I haven't seen anybody talk about this yet.",
+     "labels": [
+      "Hook",
+      "10-second hack",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 7.1,
+     "text": "I love my children. I would do anything for them. I mean anything. But I hate to say it, kids make a house smell. Nobody wants to say that out loud, so I will. I've got cleats and shin guards by the front door. I've got ",
+     "labels": [
+      "Guest First Impressions",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 28.6,
+     "text": "So trust me when I say I've tried to fix this every way there is. Candles are pretty, but a candle is a little open flame around the children who made the smell. Room sprays last about 3 minutes, and a diffuser, a little",
+     "labels": [
+      "Failed alternative",
+      "Fire hazard",
+      "Expensive room sprays",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 43.3,
+     "text": "Here's what actually worked: this thing right here. It looks like decor. I can place it wherever because it's not ugly, but it moves the air itself. It takes that heavy Jail, Cleats, and Dinner Air and pushes a gentle br",
+     "labels": [
+      "Product benefit",
+      "Gentle air movement",
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 66.0,
+     "text": "Of course I have a system: clean floral on normal nights, citrus when I want it feeling bright in here, and sandalwood when people are coming over because that is the one everybody asks about. 5 separate people have walk",
+     "labels": [
+      "Scent rotation",
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 81.6,
+     "text": "And you know me, 2 birds, one stone. This kills 3. It smells amazing, it cools the room down, and it's quiet enough that has never once woken up a kid. So now after bedtime, lights low, fan on, and this house smells like",
+     "labels": [
+      "Product benefit",
+      "Dead silent",
+      "Home Elevation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 97.3,
+     "text": "Go look at the scents. I'm telling you.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d8cd94c8-6490-447b-9405-3927a7424c57",
+   "filename": "Main Script x V4",
+   "folder": "Spin 360 - Lauren / Script 2",
+   "duration_s": 101.97,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d8cd94c8-6490-447b-9405-3927a7424c57_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d8cd94c8-6490-447b-9405-3927a7424c57_2.jpg"
+   ],
+   "bya_description": "A blonde woman in athletic wear speaks to the camera in a sunlit room. A black cylindrical fan sits on a table beside her.",
+   "bya_tags": [
+    "Talking head",
+    "Product benefit",
+    "10-second hack",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 1.3,
+     "text": "So here's the\u2014 so here's the thing I do to make my house smell like a 5-star wellness retreat, and I haven't seen anybody talk about this yet.",
+     "labels": [
+      "Hook",
+      "10-second hack",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 9.2,
+     "text": "I love my children. I would do anything for them. I mean anything. But I hate to say it, kids make a house smell. Nobody wants to say it out loud, so I will. I've got cleats and shin guards by the front door. I've got a ",
+     "labels": [
+      "Guest First Impressions",
+      "Talking head",
+      "Kid smells"
+     ]
+    },
+    {
+     "start": 31.0,
+     "text": "So trust me when I say I've tried to fix this every way there is. Candles are pretty, but a candle is a little open flame around the same children who made the smell. Room sprays last about 3 minutes, and a diffuser, a l",
+     "labels": [
+      "Failed alternative",
+      "Fire hazard",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 45.8,
+     "text": "Here's what actually worked: this thing right here. It looks like decor. I can place it wherever because it's not ugly, but it moves the air itself. It takes that heavy stale cleats and dinner air and pushes a gentle bre",
+     "labels": [
+      "Product benefit",
+      "Gentle air movement",
+      "Mechanism explainer",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 63.3,
+     "text": "30 seconds, okay? 30 seconds and this is a different house. And of course I have a system: clean floral on normal nights, citrus when I want it feeling bright in here, and sandalwood when people are coming over, because ",
+     "labels": [
+      "Room transformation",
+      "Scent rotation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 77.6,
+     "text": "5 separate people have walked in and gone, how does your house smell this good with kids? 5.",
+     "labels": [
+      "Friends complimenting home",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 82.7,
+     "text": "And you know me, 2 birds, one stone, this kills 3. It's smells amazing, cools the room down, and it's quiet enough that it has never once woken a kid up. So now after bedtime, lights low, fan on, and this house smells li",
+     "labels": [
+      "Product benefit",
+      "Dead silent",
+      "Home Elevation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 98.9,
+     "text": "Go look at all the scents. I'm telling you.",
+     "labels": [
+      "Offer CTA",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c56a0518-f549-441c-8c91-3ff726086268",
+   "filename": "Main Script V1",
+   "folder": "Spin 360 - Lauren / Script 3",
+   "duration_s": 74.72,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c56a0518-f549-441c-8c91-3ff726086268_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c56a0518-f549-441c-8c91-3ff726086268_2.jpg"
+   ],
+   "bya_description": "A woman in a leopard print dress sits on a bed, speaking to the camera with frequent hand gestures in a bright bedroom.",
+   "bya_tags": [
+    "Talking head",
+    "Failed alternative",
+    "Mechanism explainer",
+    "Bedroom",
+    "Rubbing face",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 2.3,
+     "text": "This thing does not feel like a fan, and I mean that in the best way possible.",
+     "labels": [
+      "Hook",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 6.8,
+     "text": "There's nothing blowing at you. It's like the windows are wide open on a perfect day but without the bugs and the street noise. The whole room feels lighter, and this changes the whole atmosphere of the room.",
+     "labels": [
+      "Product benefit",
+      "Room transformation",
+      "Gentle air movement",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 18.9,
+     "text": "In a house with kids, a normal fan points at one person and that person is winning, and everybody else is sweating and mad about it. With this one, everybody is in the breeze at the same time. Nobody fights over it becau",
+     "labels": [
+      "Product benefit",
+      "Failed alternative",
+      "Talking head",
+      "No fan fights"
+     ]
+    },
+    {
+     "start": 33.0,
+     "text": "Here's what makes it different from any other fan you've ever tried. Every fan you have ever owned pulls air in one side and throws it out the other at one lucky person with that whop whop whop sound. That is not a breez",
+     "labels": [
+      "Mechanism explainer",
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 46.7,
+     "text": "Hot air lives at the top of your room, cold air lives at the floor. That is true in every room in your house right now. The Spin 360 pulls the hot air down, pushes the cool air up, and the entire room becomes one even te",
+     "labels": [
+      "Mechanism explainer",
+      "Spin 360",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 61.0,
+     "text": "So no, I cannot tell you this fan makes you live longer. Nobody can't. But a cool, quiet room that feels like sleeping outside every single night of the summer, that is worth every single penny for me.",
+     "labels": [
+      "Personal Suitability",
+      "Worth it upgrades",
+      "Dead silent",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3370f52d-b6d8-4fd4-b063-7e5617d01b30",
+   "filename": "Main Script x V3",
+   "folder": "Spin 360 - Lauren / Script 3",
+   "duration_s": 71.88,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3370f52d-b6d8-4fd4-b063-7e5617d01b30_1.jpg"
+   ],
+   "bya_description": "A woman in a leopard print dress speaks to the camera while sitting on a bed. She gestures frequently in a bright bedroom setting.",
+   "bya_tags": [
+    "Talking head",
+    "Failed alternative",
+    "Product benefit",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 1.1,
+     "text": "This thing does not feel like a fan, and I mean that in the best way possible.",
+     "labels": [
+      "Hook",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 5.7,
+     "text": "There's nothing blowing at you. It's like the windows are wide open on a perfect day, but without the bugs and the street noise. The whole room feels lighter, and this changes the whole atmosphere of the room.",
+     "labels": [
+      "Product benefit",
+      "Gentle air movement",
+      "Room transformation",
+      "Nostalgic Comfort"
+     ]
+    },
+    {
+     "start": 17.0,
+     "text": "In a house with kids, a normal fan points at one person and that person is winning, and everybody else is sweating and just mad about it. With this one, everybody is in the breeze at the same time. Nobody fights over it ",
+     "labels": [
+      "Failed alternative",
+      "Product benefit",
+      "No fan fights",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 31.9,
+     "text": "Here's what makes it different from any other fan you've ever tried. Every fan you have ever owned pulls air in one side and throws it out the other at one lucky person with that whop, whop, whop sound. That is not a bre",
+     "labels": [
+      "Mechanism explainer",
+      "Spin 360",
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 59.7,
+     "text": "So no, I cannot tell you this fan makes you live longer, Nobody can. But a cool, quiet room that feels like sleeping outside every single night of the summer, that is worth every single penny for me.",
+     "labels": [
+      "Longevity Claim",
+      "Personal Suitability",
+      "Worth it upgrades",
+      "Dead silent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ed6f4baf-c133-451c-8576-324774c2c4e5",
+   "filename": "adjusting height.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 74.17,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ed6f4baf-c133-451c-8576-324774c2c4e5_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ed6f4baf-c133-451c-8576-324774c2c4e5_2.jpg"
+   ],
+   "bya_description": "A white fan with gold trim sits on a wooden table in a living room.",
+   "bya_tags": [
+    "Living room",
+    "Moving the fan",
+    "Healing Cuts",
+    "Living room",
+    "Moving the fan",
+    "Product on surface"
+   ],
+   "transcript": [
+    {
+     "start": 63.9,
+     "text": "Mom, I got this stronger because I was pressing down on this cut so, so I could cut it up.",
+     "labels": [
+      "Product benefit",
+      "Moving the fan",
+      "Living room",
+      "Healing Cuts"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ba3043bc-a353-4a4c-a29b-6d2f4f6f5903",
+   "filename": "script 1.mov",
+   "folder": "Spin360 - Avery / scripts",
+   "duration_s": 122.88,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ba3043bc-a353-4a4c-a29b-6d2f4f6f5903_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ba3043bc-a353-4a4c-a29b-6d2f4f6f5903_2.jpg"
+   ],
+   "bya_description": "A woman in a grey t-shirt speaks to the camera in a medium shot. She stands in a room with a large plant, gesturing and occasionally touching her face or hair.",
+   "bya_tags": [
+    "Talking head",
+    "Worth it upgrades",
+    "Personal Suitability",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.1,
+     "text": "Okay, this is genuinely one of the best home upgrades we have ever made. If you're new here, hi, I'm Avery, and welcome back to Home Upgrades That Are Actually Worth It.",
+     "labels": [
+      "Hook",
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 11.0,
+     "text": "In the last episode, we talked about what changes we've made to our kitchen and bedroom, and this summer the living room was next on the list. Because here's the thing, the living room is where we spend all of our time. ",
+     "labels": [
+      "Personal Struggle",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 38.3,
+     "text": "We tried everything\u2014 blackout curtains, portable AC, even just accepting that summer is sticky and miserable. Nothing actually made me feel comfortable.",
+     "labels": [
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 49.1,
+     "text": "So when we came across Spin 360, I didn't even expect much, but the moment we turned it on, I was like, okay, wait, this is completely different. It doesn't blast you with a harsh stream. It gently moves the air around t",
+     "labels": [
+      "Mechanism explainer",
+      "Product benefit",
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 78.8,
+     "text": "The kids stopped complaining about being too hot during movie night. I can actually sit down and unwind without feeling like I'm melting into the sofa. The air just feels softer, lighter. You can finally exhale.",
+     "labels": [
+      "Room transformation",
+      "Product benefit",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 92.9,
+     "text": "And I'm not gonna lie, I was skeptical at first because we've tried so many things, but this one made a difference we could actually feel. This fan has completely changed how summer feels. And anything that makes our hom",
+     "labels": [
+      "Worth it upgrades",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 110.8,
+     "text": "So if you're looking for home upgrades that are actually worth it, this is the one I'd actually recommend. Follow along because we still have more to do, but for now, this is the best thing we've added all summer.",
+     "labels": [
+      "Worth it upgrades",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "746a4860-0186-44db-9d1b-48265dad83de",
+   "filename": "script 2.mov",
+   "folder": "Spin360 - Avery / scripts",
+   "duration_s": 139.09,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/746a4860-0186-44db-9d1b-48265dad83de_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/746a4860-0186-44db-9d1b-48265dad83de_2.jpg"
+   ],
+   "bya_description": "Woman in black shirt and headband sits on a couch, speaking to camera with hand gestures. Trees visible through window behind her.",
+   "bya_tags": [
+    "Talking head",
+    "Product benefit",
+    "Failed alternative",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.3,
+     "text": "I remember one morning specifically, my alarm went off and I just lay there staring at the ceiling trying to find the right energy to get out of bed. The kids were already up, I could hear them, and I just thought, I can",
+     "labels": [
+      "Hook",
+      "Personal Struggle",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 16.3,
+     "text": "I'm a mom of 2, there's no slow morning. There's lunches to make, someone's asking where their shoes are, someone needs breakfast, someone else is already late. And I'm supposed to be the one holding it all together. But",
+     "labels": [
+      "Personal Struggle",
+      "Failed alternative",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 56.7,
+     "text": "Then about a month ago, a friend showed me something she'd just gotten. It was a fan, Spin 360. She turned it on and I immediately felt it. It cooled the whole room down. The heat just started disappearing. She told me t",
+     "labels": [
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 80.9,
+     "text": "The air in my room was moving. I felt this soft, gentle coolness that filled the entire room. The air felt lighter. The atmosphere felt calmer. It felt like opening the windows on a quiet summer evening, like the effortl",
+     "labels": [
+      "Mechanism explainer",
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 100.2,
+     "text": "I slept through the night. No tossing, no turning. No waking up sweating. And the next morning, I woke up before my alarm. I actually felt ready. That morning, making lunches didn't feel as heavy. Finding someone's shoes",
+     "labels": [
+      "Product benefit",
+      "Sweat prevention",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 125.5,
+     "text": "So if the summer nights are stealing the energy that you need the next morning, You probably don't need air that blows harder, you just need the air around you to move differently, and that's exactly what Spin 360 does.",
+     "labels": [
+      "Mechanism explainer",
+      "Product benefit",
+      "Failed alternative",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e1393f75-974a-44bb-9bc6-117bc680e4c2",
+   "filename": "script 3.mov",
+   "folder": "Spin360 - Avery / scripts",
+   "duration_s": 75.3,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e1393f75-974a-44bb-9bc6-117bc680e4c2_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e1393f75-974a-44bb-9bc6-117bc680e4c2_2.jpg"
+   ],
+   "bya_description": "A woman in a purple dress addresses the camera while sitting on a bed in a bedroom.",
+   "bya_tags": [
+    "Talking head",
+    "Personal Suitability",
+    "Product benefit",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.1,
+     "text": "This is the Spin 360, and the air doesn't just blow at you, it actually cools the whole room down.",
+     "labels": [
+      "Hook",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 7.9,
+     "text": "It pulls in cooler air from the ground and mixes it with air from above. Then it sends that cooler air everywhere at once, not in one direction, but through the entire room. Temperature in here drops noticeably. That hea",
+     "labels": [
+      "Mechanism explainer",
+      "Product benefit",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 41.8,
+     "text": "Within about 20 minutes, you really feel the full effect. The whole room transforms. It's like the heat just leaves.",
+     "labels": [
+      "Room transformation",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 49.3,
+     "text": "And the best part, I actually sleep through the night now because the room stays cool all night. I wake up and I don't feel that groggy, overheated feeling. I just feel rested.",
+     "labels": [
+      "Product benefit",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    },
+    {
+     "start": 61.0,
+     "text": "If you're someone who struggles with a hot room and and you've been looking for something that actually cools this space down, this is the one. Spin 360. It cools the room like nothing else. And seriously, I couldn't sle",
+     "labels": [
+      "Target Persona",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "340cbafa-2a74-45de-8b8b-d1964e27b56a",
+   "filename": "copy_05E2C4E0-FE8C-438E-833B-A4B11B24F9B1.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 122.11,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/340cbafa-2a74-45de-8b8b-d1964e27b56a_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/340cbafa-2a74-45de-8b8b-d1964e27b56a_2.jpg"
+   ],
+   "bya_description": "Woman in a striped shirt talks to the camera in a bright room with a fan in the background.",
+   "bya_tags": [
+    "Living room",
+    "Living room"
+   ],
+   "transcript": [
+    {
+     "start": 0.2,
+     "text": "Here are a few things that I do in summer to make sure the kids, me, and my hubby are knocked out by 8 PM at night so we get a good night's sleep. And you're gonna hear them and you're gonna be like, those seem stupid ea",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 14.7,
+     "text": "Number 1, every morning I open 2 windows on opposite sides of the house for 10 minutes. That's it. The cross breeze trades out all the stale overnight air and the house starts to smell fresh instead of smelling like slee",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 30.3,
+     "text": "Number 2, in summer, bedroom blinds close at 3 PM. Not at bedtime, at 3. An upstairs bedroom goes crazy hot by dinner if the sun sits in it all afternoon, and nobody\u2014 I mean nobody\u2014 can sleep in that heat.",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 43.5,
+     "text": "Number 3 is my friends always end up asking me about it. My entire life motto is 2 birds, one stone. This thing kills 3. 20 minutes before bed, I turn on the fan in the kids' room.",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 54.1,
+     "text": "Bird 1, it cools the whole room. It's a 360 fan, so it blows in every direction at once, so none of the kids has wind blasting on their face all night.",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 65.2,
+     "text": "Bird 2, on the higher speeds, it makes this soft white noise my kids are obsessed with, so the sound machine is officially retired.",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 72.5,
+     "text": "Bird 3, I drop a little scent pod in the top and the room smells like heavenly, heavenly. Let me tell you, this Let me tell you, this calms them down and it makes the whole house smell amazing. If you have a toddler, you",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 88.5,
+     "text": "By the time books are done, the room is cool, it's humming, it smells clean, and they are knocked out.",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 96,
+     "text": "Number 4, the second their lights go off, I set a 10-minute timer and clean the living room\u2014 toys, pillows, counters. When the timer ends, I'm done. And yes, the fan comes downstairs with me. It just picks up and moves.",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 108.5,
+     "text": "I kid you not, had this thing existed when my kids were younger, it would have saved me sleepless nights from them and from me, because damn, this thing makes me zoned out. It just feels so good.",
+     "labels": [
+      "Living room"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1940e8d5-f65d-4177-86e8-f7507036a2e2",
+   "filename": "copy_70523289-0886-4303-A422-A8324FAD4B96.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 101.91,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1940e8d5-f65d-4177-86e8-f7507036a2e2_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1940e8d5-f65d-4177-86e8-f7507036a2e2_2.jpg"
+   ],
+   "bya_description": "A woman in a tan cardigan speaks to the camera, gesturing with both hands in a modern living room.",
+   "bya_tags": [
+    "Product benefit",
+    "Failed alternative",
+    "Hook",
+    "Living room"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "So here's the thing I do to make my house smell like a 5-star wellness retreat, and I haven't seen anyone talk about this yet.",
+     "labels": [
+      "Hook"
+     ]
+    },
+    {
+     "start": 5.7,
+     "text": "I love my children, I would die for my children, but I hate to say it, kids make my house smell. Nobody wants to say that out loud, so I will. I've got cleats, shin guards by the front door. I've got a 7-year-old who jus",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 29.7,
+     "text": "So trust me when I say I try to fix this every way there is. Candles are pretty, but a candle is a little open flame around the same children who made the smell. Room sprays last about 3 minutes, and a diffuser\u2014 a little",
+     "labels": [
+      "Failed alternative"
+     ]
+    },
+    {
+     "start": 46.5,
+     "text": "this thing right here. It looks like decor. I can place it wherever, because it is not ugly, but it moves the air itself. It takes that heavy, stale cleats and dinner air and pushes a gentle breeze with an actual nice sc",
+     "labels": [
+      "Product benefit"
+     ]
+    },
+    {
+     "start": 68.8,
+     "text": "And of course I have a system. Clean floral on normal nights, citrus when I want it feeling bright in here, sandalwood when people are coming over because that is the one everybody asks about, 5 separate people have walk",
+     "labels": [
+      "Product benefit"
+     ]
+    },
+    {
+     "start": 85.3,
+     "text": "And you know me, 2 birds, one stone. This kills 3. It smells amazing, it cools the room down, and it's quiet enough that it has never once woken a kid up. So now after bedtime, lights low, fan on, and it smells amazing.",
+     "labels": [
+      "Product benefit"
+     ]
+    },
+    {
+     "start": 99.7,
+     "text": "That's my secret. Go look at the scents. I am telling you.",
+     "labels": [
+      "Offer CTA"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f5bc476d-a331-42ba-9ed6-d8f62c41dfd6",
+   "filename": "copy_7967CCF9-5EB1-4CA0-B3D0-83870B68FDCC.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 123.07,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f5bc476d-a331-42ba-9ed6-d8f62c41dfd6_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f5bc476d-a331-42ba-9ed6-d8f62c41dfd6_2.jpg"
+   ],
+   "bya_description": "Woman in denim shirt shares her experience with summer exhaustion.",
+   "bya_tags": [
+    "Product benefit",
+    "Failed alternative",
+    "Hook"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "Last summer I hit a wall. The moment my friend turned this on, I knew I was taking it home.",
+     "labels": [
+      "Hook"
+     ]
+    },
+    {
+     "start": 5.0,
+     "text": "I remember one morning specifically, my alarm went off and I was just laying there staring at the ceiling trying to find the energy to get out of bed. The kids were already up, I could hear them, and I just thought, I ca",
+     "labels": [
+      "Failed alternative"
+     ]
+    },
+    {
+     "start": 33.6,
+     "text": "But I was running on empty, and I knew exactly why. Our bedroom gets so hot in the summer. I'd go to bed exhausted, but I could never fully zone out. I'd throw the blanket off, turn from side to side, waking up sweaty, t",
+     "labels": [
+      "Failed alternative"
+     ]
+    },
+    {
+     "start": 53.9,
+     "text": "Then about a month ago, a friend showed me something she'd just gotten. It was this fan, Spin 360. She turned it on and I immediately felt it. It cooled the whole room down, like the heat just started disappearing. She t",
+     "labels": [
+      "Product benefit"
+     ]
+    },
+    {
+     "start": 70.2,
+     "text": "That first night, I turned it on, got into bed, and just exhaled. The air in my room was moving. I felt this soft, gentle coolness that filled the entire room. The air felt lighter, the atmosphere felt calmer. It felt li",
+     "labels": [
+      "Product benefit"
+     ]
+    },
+    {
+     "start": 94.9,
+     "text": "And the next morning, I woke up before my alarm. I actually felt ready that morning. Making lunches, it didn't feel as heavy. Finding someone's shoes didn't feel as frustrating. I actually had energy for my kids. I didn'",
+     "labels": [
+      "Product benefit"
+     ]
+    },
+    {
+     "start": 110.6,
+     "text": "So if summer nights are stealing the energy you need the next morning, you probably don't need air that's blowing harder. You need the air around you to move differently. And that's exactly what Spin 360 does.",
+     "labels": [
+      "Product benefit"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "802ef922-cafa-4481-969c-d74b6f6d2780",
+   "filename": "copy_A9192999-769A-4930-A1B4-B93220BE7B7F.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 114.78,
+   "talking": true,
+   "cuts": [
+    36.8
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/802ef922-cafa-4481-969c-d74b6f6d2780_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/802ef922-cafa-4481-969c-d74b6f6d2780_2.jpg"
+   ],
+   "bya_description": "A woman in a white t-shirt speaks to the camera while holding a small microphone in a living room.",
+   "bya_tags": [
+    "Living room",
+    "Product benefit",
+    "Credibility",
+    "Living room"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "Okay, this is genuinely one of the best home upgrades we've ever made.",
+     "labels": [
+      "Hook",
+      "Living room"
+     ]
+    },
+    {
+     "start": 5.6,
+     "text": "hi, I'm Kylie, and welcome back to the home upgrades that are actually worth it. In the last episode, we talked about what changes we made to our kitchen and bedroom. And this summer, the living room was next on the list",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 17.8,
+     "text": "because here's the thing, our living room is where we spend all of our time. It's where the kids play, where we watch movies, where we try to actually relax after a long day. But in summer, it turns into a greenhouse. Th",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 37,
+     "text": "We tried everything, blackout curtains, portable AC, even just accepting that summer is sticky and miserable. Nothing actually made it feel comfortable.",
+     "labels": [
+      "Failed alternative",
+      "Living room"
+     ]
+    },
+    {
+     "start": 45.8,
+     "text": "So when we came across Spin 360, I honestly didn't expect much, but the moment we turned it on, I was like, okay, wait, this is completely different.",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 52.8,
+     "text": "It doesn't blast you with a harsh stream. It gently moves the air around the entire room like the whole space can finally breathe. That heavy trapped feeling just disappears. It's not loud, it's not cold in one spot, it'",
+     "labels": [
+      "Product benefit",
+      "Living room"
+     ]
+    },
+    {
+     "start": 71,
+     "text": "The kids stopped complaining about being too hot during movie night. I can actually sit down and unwind without feeling like I'm melting into the sofa. The air just feels softer, lighter, and you can finally exhale.",
+     "labels": [
+      "Product benefit",
+      "Living room"
+     ]
+    },
+    {
+     "start": 83.7,
+     "text": "And I'm not gonna lie, I was skeptical at first because we have tried so many things, but this one genuinely made a difference we could actually feel. This house has completely changed how Summer feels, and honestly, any",
+     "labels": [
+      "Credibility",
+      "Living room"
+     ]
+    },
+    {
+     "start": 101.8,
+     "text": "So if you're looking for home upgrades that are actually worth it, this is the one I'd actually recommend.",
+     "labels": [
+      "Living room"
+     ]
+    },
+    {
+     "start": 107.6,
+     "text": "Follow along because we still have more we want to do, but for now, this is the best thing we've added all summer.",
+     "labels": [
+      "Living room"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1daa81ee-e66c-4236-bf2f-82aa92681c52",
+   "filename": "copy_B2033860-31F8-485B-B4F5-1945DE8ECDBD.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 108.34,
+   "talking": true,
+   "cuts": [
+    45.87,
+    58.3,
+    99.2
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1daa81ee-e66c-4236-bf2f-82aa92681c52_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1daa81ee-e66c-4236-bf2f-82aa92681c52_2.jpg"
+   ],
+   "bya_description": "Woman in tan cardigan sits on white chair, gesturing toward white fan. Modern room background.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Product benefit",
+    "Bedroom"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "Do not fall for this fan. This thing is a scam.",
+     "labels": [
+      "Hook",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 2.3,
+     "text": "Let me explain. Spin 360 claims it can recreate that soft outdoor breeze feeling in your bedroom. You know what, when you're outside on a quiet summer evening and the air is just moving enough that your whole body kind o",
+     "labels": [
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 22.2,
+     "text": "but it pulls air in from the top and the bottom and it pushes around the whole room instead of blasting one aggressive stream directly at your face.",
+     "labels": [
+      "Mechanism explainer",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 30.8,
+     "text": "And annoyingly, they were right. It feels completely different. The air around the bed is just constantly moving, so I'm not doing that thing all night where I throw the blanket off, put it back on, flip over, get annoye",
+     "labels": [
+      "Product benefit",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 47.6,
+     "text": "Then there's the sound. At the lower speeds, it's basically quiet. Turn it up and you get this soft, steady sound in the background. Traffic outside, less noticeable.",
+     "labels": [
+      "Product benefit",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 58.6,
+     "text": "And now I'm getting irritated because then you find out you can add one of these scent pods. So now the fan can move an awesome scent around the bedroom too. Within a few minutes, my room goes from I threw everything on ",
+     "labels": [
+      "Product benefit",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 76.3,
+     "text": "Which brings me to the actual scam: calling Spin 360 a fan. Because when I hear fan, I picture some plastic thing blasting one side of my face while my hair gets stuck in my lip gloss. This doesn't feel like that. It mov",
+     "labels": [
+      "Product benefit",
+      "Failed alternative",
+      "Bedroom",
+      "Product hero shot"
+     ]
+    },
+    {
+     "start": 99.6,
+     "text": "So don't fall for it. You're ordering something to cool your bedroom and somehow end up turning it on in every room in the house. Honestly, very rude.",
+     "labels": [
+      "Bedroom",
+      "Product hero shot"
+     ]
+    }
+   ]
+  }
+ ]
+}

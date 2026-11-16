@@ -1,0 +1,303 @@
+{
+ "batch": "batch_022",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_022.out.json",
+ "clips": [
+  {
+   "id": "a325f11b-408e-4de1-ad14-1ab260f6f263",
+   "filename": "draft1.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 37.11,
+   "talking": false,
+   "cuts": [
+    3.43,
+    6.27,
+    8.07,
+    13.03,
+    16.0,
+    20.13,
+    25.07,
+    32.33
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a325f11b-408e-4de1-ad14-1ab260f6f263_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a325f11b-408e-4de1-ad14-1ab260f6f263_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a325f11b-408e-4de1-ad14-1ab260f6f263_3.jpg"
+   ],
+   "bya_description": "Infant sleeps in a white crib while sunlight filters through blinds.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Fan controls",
+    "Bedroom",
+    "Curtains & windows",
+    "Fan controls",
+    "Feeling the breeze",
+    "Sleeping"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "New moms, this is one thing I wish I added to the nursery sooner. My baby used to wake up so easily, every little sound, every tiny change in the room.",
+     "labels": [
+      "Sleeping",
+      "Bedroom",
+      "Hook",
+      "Creator narration"
+     ]
+    },
+    {
+     "start": 8.0,
+     "text": "So we added this fan to the nursery, and honestly, it completely changed how comfortable the room feels.",
+     "labels": [
+      "Fan controls",
+      "Turning fan on",
+      "Product hero shot",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 13.2,
+     "text": "The first thing I noticed was how soft and natural the airflow feels. It doesn't feel like a regular fan blowing air around the room. It feels more like a gentle breeze. It's so gentle, I feel comfortable keeping it by t",
+     "labels": [
+      "Feeling the breeze",
+      "Curtains & windows",
+      "Product hero shot",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 24.3,
+     "text": "On the lower settings, you can barely hear it, and when I want a little background sound, I turn it up and it creates this soft white noise, kind of soothing, honestly.",
+     "labels": [
+      "Fan controls",
+      "Quiet beat",
+      "Bedroom",
+      "Creator narration"
+     ]
+    },
+    {
+     "start": 32,
+     "text": "Honestly, it's seriously become one of my favorite things in the nursery. If you're setting up a nursery, I'd definitely add this.",
+     "labels": [
+      "Sleeping",
+      "Bedroom",
+      "Offer CTA",
+      "Creator narration"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "707550e4-c217-42dc-92ad-8779f5068825",
+   "filename": "IMG_3784.mov",
+   "folder": "(unfiled)",
+   "duration_s": 45.39,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/707550e4-c217-42dc-92ad-8779f5068825_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/707550e4-c217-42dc-92ad-8779f5068825_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/707550e4-c217-42dc-92ad-8779f5068825_3.jpg"
+   ],
+   "bya_description": "Hand operates a remote to start a black pedestal fan in a sunlit room.",
+   "bya_tags": [
+    "Living room",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Living room",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "358d72f3-d589-4514-8944-2ec55eda4705",
+   "filename": "IMG_3785.mov",
+   "folder": "(unfiled)",
+   "duration_s": 45.81,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/358d72f3-d589-4514-8944-2ec55eda4705_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/358d72f3-d589-4514-8944-2ec55eda4705_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/358d72f3-d589-4514-8944-2ec55eda4705_3.jpg"
+   ],
+   "bya_description": "A hand uses a remote to adjust the fan's digital speed display in a bright room.",
+   "bya_tags": [
+    "Living room",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Living room",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "19a208d0-61f6-44b8-bbdc-69129531ddda",
+   "filename": "IMG_3786.mov",
+   "folder": "(unfiled)",
+   "duration_s": 35.45,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/19a208d0-61f6-44b8-bbdc-69129531ddda_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/19a208d0-61f6-44b8-bbdc-69129531ddda_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/19a208d0-61f6-44b8-bbdc-69129531ddda_3.jpg"
+   ],
+   "bya_description": "A hand points a black remote at a pedestal fan in a home and presses a button.",
+   "bya_tags": [
+    "Living room",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Living room",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "a118a810-c7c5-4a2c-8d97-8a04cf44adb6",
+   "filename": "IMG_3805.mov",
+   "folder": "(unfiled)",
+   "duration_s": 38.61,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a118a810-c7c5-4a2c-8d97-8a04cf44adb6_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a118a810-c7c5-4a2c-8d97-8a04cf44adb6_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a118a810-c7c5-4a2c-8d97-8a04cf44adb6_3.jpg"
+   ],
+   "bya_description": "Close-up of a black fan's digital display showing F9. Background voices discuss a schedule in a sunlit room.",
+   "bya_tags": [
+    "Fan controls",
+    "Living room",
+    "Product hero shot",
+    "Fan controls",
+    "Living room"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "When is that? Uh, Sunday.",
+     "labels": [
+      "Living room"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27fd8371-c01c-4905-842f-76be516e2af0",
+   "filename": "IMG_3849.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 38.82,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/27fd8371-c01c-4905-842f-76be516e2af0_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/27fd8371-c01c-4905-842f-76be516e2af0_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/27fd8371-c01c-4905-842f-76be516e2af0_3.jpg"
+   ],
+   "bya_description": "Close-up of a black fan unit displaying 'F9' on a digital screen. The camera pans down the cylindrical base.",
+   "bya_tags": [
+    "Patio & backyard",
+    "Fan controls",
+    "Product hero shot",
+    "Fan controls",
+    "Patio & backyard"
+   ]
+  },
+  {
+   "id": "68bbb875-8137-4088-9d97-575afb2f4ded",
+   "filename": "IMG_3896.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 38.14,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/68bbb875-8137-4088-9d97-575afb2f4ded_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/68bbb875-8137-4088-9d97-575afb2f4ded_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/68bbb875-8137-4088-9d97-575afb2f4ded_3.jpg"
+   ],
+   "bya_description": "Person relaxes on a bed facing a lake view and fan.",
+   "bya_tags": [
+    "Bedroom",
+    "Nature montage",
+    "Relaxing at home",
+    "Bedroom",
+    "Curtains & windows",
+    "Nature montage",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "ae12ec09-8f72-4660-8678-2c508365c4f4",
+   "filename": "nighttime unable to sleep",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 37.5,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ae12ec09-8f72-4660-8678-2c508365c4f4_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ae12ec09-8f72-4660-8678-2c508365c4f4_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ae12ec09-8f72-4660-8678-2c508365c4f4_3.jpg"
+   ],
+   "bya_description": "A woman tosses and turns restlessly under bed covers in a dimly lit bedroom. She appears uncomfortable and unable to find a sleeping position.",
+   "bya_tags": [
+    "Bedroom",
+    "Tossing & turning",
+    "Lifestyle moment",
+    "Bedroom",
+    "Lifestyle moment",
+    "Tossing & turning",
+    "Unhappy expression"
+   ]
+  },
+  {
+   "id": "5249b887-dcad-4052-8f31-36aba182da36",
+   "filename": "reading book x second angle",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 39.6,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5249b887-dcad-4052-8f31-36aba182da36_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5249b887-dcad-4052-8f31-36aba182da36_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5249b887-dcad-4052-8f31-36aba182da36_3.jpg"
+   ],
+   "bya_description": "A white bubble chair and black floor fan sit in a sunlit living room corner by a window.",
+   "bya_tags": [
+    "Living room",
+    "Lifestyle moment",
+    "Product hero shot",
+    "Lifestyle moment",
+    "Living room",
+    "Product on surface",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "a248d94a-7ee5-47bd-b071-1f252c5d5011",
+   "filename": "scent pod",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 34.93,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a248d94a-7ee5-47bd-b071-1f252c5d5011_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a248d94a-7ee5-47bd-b071-1f252c5d5011_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a248d94a-7ee5-47bd-b071-1f252c5d5011_3.jpg"
+   ],
+   "bya_description": "A hand holds a small white container with a blue label in a sunlit room. A white chair and wall lamp are visible in the background. Then the hand opens the container lid to reveal a blue gel. The pod is held close to the camera for a clear view.",
+   "bya_tags": [
+    "Feeling the breeze",
+    "Lifestyle moment",
+    "Product in hand",
+    "Feeling the breeze",
+    "Lifestyle moment",
+    "Product in hand",
+    "Scent pod drop"
+   ]
+  }
+ ]
+}

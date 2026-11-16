@@ -1,0 +1,34 @@
+﻿Spin360_LiveLonger_DrillHook
+Iteration on a winner. Two versions. We take our best hook, the drill hook from Reinvent_Wheel_SplitScreen_David_V2_Hook_2 (63% hook rate, 11% CTR), and put it on our winning ad Spin360_LiveLonger_HOOK_6 (2:08). Nothing else changes: same voiceover, same edit, same captions, same end card.
+	
+
+The two files
+File
+	What we use from it
+	Reinvent_Wheel_SplitScreen_David_V2_Hook_2.mp4
+	The drill hook: 00:00 – 00:09.7 (until the cut to Shark Tank). Night, NYC street, David holds the drill with the blue blade prototype, the smoke gets pulled through it, people stop and film.
+  
+            
+	Spin360_LiveLonger_HOOK_6.mp4
+	The whole ad. It opens with the spray scene, 00:00 – 00:03.8 (a woman sprays mist into the Spin360) under the VO "I love saying that this is going to make you live longer", then cuts to David in the studio.
+  
+      
+	Version 1 · Spin360_LiveLonger_DrillHook_V1 · drill hook BEFORE the ad
+Time
+	What happens
+	0:00 – ~0:09.7
+	The drill hook exactly as in Reinvent_Wheel_SplitScreen_David_V2_Hook_2 (00:00–00:09.7), with its own sound.
+	~0:09.7 → end
+	Spin360_LiveLonger_HOOK_6 from 00:00, untouched (starts on the spray scene and "I love saying that this is going to make you live longer…").
+	Cut straight from the drill shot into the spray shot (both show smoke being moved by the blade, so it flows). If the 9.7 s feel slow before the VO starts, you can trim the drill hook to its best 5–6 s (keep the moment the smoke gets pulled in).
+Version 2 · Spin360_LiveLonger_DrillHook_V2 · drill hook INSTEAD of the spray scene
+Time
+	What happens
+	0:00 – 0:03.8
+	Replace the spray scene with the drill hook footage (the best ~4 s: the smoke being pulled through the blue blade). Keep LiveLonger's original audio on top: VO "I love saying that this is going to make you live longer" + music + captions. Mute the drill clip's street sound (or keep it very low under the VO).
+	0:03.8 → end
+	Spin360_LiveLonger_HOOK_6 untouched.
+	Notes
+Same 9:16, same captions style, same end card as LiveLonger. The only variable we are testing is the opening visual.
+What's up to you
+The exact in/out frames of the drill shot and the transition. Keep everything else as it is.

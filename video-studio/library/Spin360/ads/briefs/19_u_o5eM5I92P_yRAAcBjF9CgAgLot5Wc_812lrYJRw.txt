@@ -1,0 +1,738 @@
+﻿Spin360_DanishBabyVsYou
+Brief - Spin360_DanishBabyVsYou.mp4
+4 ads, one edit. The body is the same in all 4. Only the first 3-5 seconds change: the hook + the bridge "Sadly, it's not you." 2 verbal hooks x 2 visual hooks:
+Hook 1 = Verbal 1 + match cut · Hook 2 = Verbal 1 + split screen · Hook 3 = Verbal 2 + match cut · Hook 4 = Verbal 2 + split screen
+Verbal 1: "Who sleeps better: a Danish baby, or you?"
+Verbal 2: "Who sleeps better: a baby napping in the snow, or you in your warm bed?"
+	
+
+Inspiration, not a rulebook. The shot ideas are suggestions; use your judgment.
+	Strategy
+# Element
+	Answer
+	Desire
+	Wake up actually rested. Sleep in air that moves all night, like sleeping outside, without a fan blasting you in the face.
+	Avatar
+	Adults 40-65 (mostly women) who sleep with the door and window shut, sleep eight hours and still wake up groggy, and already tried a regular fan (in the face all night, or pointed away and useless).
+	Angle
+	The Debate: "Who sleeps better, a Danish baby or you?" The baby napping outside in the snow wins, because outside the air never stops moving. Your sealed bedroom air doesn't move, so you breathe your own breath back in all night.
+	Mechanism
+	Spin360 pulls air in from the top and the bottom and sends it out 360 degrees, so the whole room moves gently, not one spot. A soft breeze, not a blast.
+	Proof
+	The smoke test (smoke pulled in top and bottom, out all around), ribbons and tissue moving all around the fan, two real 5-star reviews (Judge.me, verbatim).
+	Authority
+	David Patrick: four years on one blade, prototype after prototype, tested on a power drill with smoke. Same guy who invented the Shark Wheel and got a deal on Shark Tank.
+	Awareness
+	Hook: Unaware (a question about who sleeps better, no product). Body: problem (sealed room, groggy mornings, fans don't fix it), then solution and product (Spin360). Ends Product Aware with a 30-night trial.
+	Emotion
+	Surprise ("the baby in the snow wins?"), recognition ("that's me, groggy every morning"), relief and calm (the soft breeze), desire (waking up rested).
+	Format
+	Debate VSL in the format of the cat reel "Who has a better life, cats or dogs?": real phone footage, a hard cut every 2-3 s, one big word on screen at a time, guarantee end card. Visual pool = our winning Swedish Babies ad + UGC + a few AI shots.
+	Hooks
+	2 verbal hooks x 2 visual hooks = 4 ads. Verbal 1: "Who sleeps better: a Danish baby, or you?" Verbal 2: "Who sleeps better: a baby napping in the snow, or you in your warm bed?" Visual A = match cut (baby asleep, cut to you awake). Visual B = split screen (baby on top, you below, your half goes cold).
+	Offer
+	30-night trial: "If your bedroom doesn't feel like a window's open, send it back." No price, no discount, no "money-back" wording.
+	Production brief
+Format: vertical 9:16 (1080x1920), about 2:20 (hook + bridge ~4-5 s, body ~2:15).
+Voice (AI): the same narrator as Swedish Babies: ElevenLabs "Siren - Natural realistic conversational voice", voice ID eXpIbVcVbLo8ZJQDlDnl. Make 3 files: Verbal 1, Verbal 2 (each followed by "Sadly, it's not you." with a natural question pause before "Sadly"), and the body from "Danish babies nap outside." to the end. Same voice settings for all three.
+Format reference (pacing + captions): the cat reel "Who has a better life, cats or dogs?". Footage + mood reference: Swedish Babies V2 Hook 1 (our best ad). Use the RAW, uncaptioned clips from its project, never the export.
+Other footage: David LA interview folder (How_Air_Moves_Selects_1.mp4 has the smoke test) · Drill hooks folder · UGC clips are linked in each body row.
+Captions: Use the cat reel's caption style, not the small Swedish one. ONE word on screen at a time, in sync with the VO. The word appears on the frame where it is spoken and disappears when the next word starts. Font: Poppins ExtraBold (or Montserrat Black), ALL CAPS, pure white, thin dark outline (2 px) and a soft drop shadow so it reads on snow and on dark bedrooms. Size: about 90 px cap height on a 1080x1920 frame. Position: centered horizontally, about 65% down the frame (the same spot as the cat reel and as the H1 hook captions), always above the bottom 25% where Meta's UI sits. Animation: a 2-frame pop-in only, no bounce, no color highlight, no emojis. Caption every spoken word, short words included, so the ad works on mute. Numbers are written as digits: '8', '5', '10', '30', '3'. '360 degrees' is ONE caption card, '360°', held across both spoken words.
+HOOK EXCEPTIONS (by design): H1 uses 3 held beats (WHO SLEEPS BETTER / A DANISH BABY / OR YOU?); H2 uses a static seam question plus two labels. Both hooks switch to one-word captions on 'Sadly', so everything from 'Sadly' on is the same style.
+Why we diverge from Swedish V2: the cat reel is the format this ad is built on (Debate opener, 04.14), and a big centered word carries the story with no sound.
+Mona Lisa rule (04.10): the picture does the explaining. NO extra text on top of the footage: no arrows, no labels like 'STALE AIR', 'BEFORE/AFTER', no 360° graphics on the smoke test, no circles, no zoom-ins with text. The only on-screen text besides the word caption is (1) the two 5-star review cards and (2) the end card. While a review card or the end card is on screen, TURN OFF the word captions. The words inside the review card highlight (white to bold yellow) as the VO reads them.
+Danish rule: crop or blur any legible Swedish text, shop signs, house numbers, stroller brand logos or flags in the Swedish V2 pool shots. Generic Nordic is fine.
+Caption example (cat reel):
+  
+Pacing and sound:
+1. Hard cut every 2-3 seconds, like the cat reel. Never hold a shot longer than 3 s. Exceptions: the smoke test (up to 4 s, because the viewer must see smoke enter top AND bottom), the two review cards, and the end card (3+ s hold). The dust-mote sequence (rows 10-12) is three separately generated framings, so it cuts like everything else.
+2. Cut on VO beats. Each new sentence starts on a new shot. Inside a sentence, cut on the commas (example: 'In strollers, / bundled up, / even in the snow.').
+3. Everything must look like real phone footage: handheld, natural light, slight noise, no glossy commercial grade. AI shots are graded down to match the real UGC around them (a touch of grain, less contrast, slightly underexposed at night).
+4. Color story: Danish outdoor shots are cold white/natural daylight. The 'sealed box' and problem section is dim, blue-grey, flat and lifeless. Product and result shots are warm lamp light plus the Spin360's blue LED. The end card is clean and bright.
+5. Sound design, low under the VO (about -25 dB): wind and snow outside, a clear door-latch click on 'Door shut', a window-handle clunk on 'Window shut', near silence on the 8-hours shot and on 'It's the opposite', the alarm buzz on both alarm shots, an ugly fan roar on the 'blast' shots, the drill whine on the drill shot, soft rustling trees on 'wind through trees'. Same soft music bed and the same female AI narrator as Swedish V2.
+6. THE SHARED BODY STARTS AT 'Danish babies nap outside.' (row 1). 'Sadly, it's not you.' (row 0) belongs to each hook's bridge, so a hook test only changes hook + bridge and the body is byte-identical for H1 and H2.
+7. Callbacks the editor must keep exact: (a) the snooze shot (rows 13-14) and the rested-alarm shot (rows 32-33) use the SAME nightstand, phone, framing and camera position; only the light and the person change. (b) The 'Researchers' baby in the fur hood is used ONLY in the hooks and in the row 51 match cut, so the ending bookends the opener. All other body baby close-ups use different babies (A7 in rows 2 and 35, A9 in rows 4 and 20). (c) One AI 'YOU' woman (about 45, reference still A1) is used in H1 shot 2, the H2 bottom half and every AI adult shot in the body that is not built from a pool frame (rows 18, 28, 31, 32-33, 51-52, 55), so 'you' stays the same person and the same age.
+8. Product order (11.m04): no Spin360 on screen from 'Sadly' until 'That's what Spin360 does.' Problem cuts first, product and mechanism in the middle, clean product plus guarantee seal at the end.
+9. Baby safety: every baby shot shows a bundled, calm, sleeping baby, and the first body shot after either hook is a parent with a stroller (row 1). Porch and garden strollers at a home are fine. Never a crying baby, never one that looks abandoned, never the baby lying on the snow, never the 7-Eleven / shop-front stroller.
+10. Body length target is about 2:15 at the Swedish V2 narrator's pace. Timings in each row are approximate. Follow the VO, not the numbers.
+Before you start
+* Find the raw "Researchers" baby clip. Check it has falling snow from the first frames and how long it is (the hooks + bridge need ~4-5.5 s). If not, generate A6.
+* Gabriel approves the AI "YOU" woman (A1) before anything else is generated. She is the same person in all 4 hooks and in 8 body shots.
+* Generate A2 and check it under the baby frame in the split layout: same face size and spot. Regenerate until it matches.
+* Lock every hook beat to the real VO waveform. The times in this brief are estimates.
+* Check each hook on a real phone at full speed, with the Reels overlay on.
+Visual hooks (4 ads)
+Each picture is a mini storyboard: the numbers are the beats in order. Stand-in frames only; the real shots are described on the right.
+Ad
+	Visual Inspiration
+	Scene description
+	Hook 1
+Verbal 1 + match cut
+
+
+Spin360_DanishBabyVsYou_Hook1
+	  
+
+	We open on a baby sleeping peacefully in the snow and hard cut to a tired woman lying awake in bed in the exact same framing, so the viewer instantly feels that a baby outside sleeps better than they do.
+VO: "Who sleeps better: a Danish baby, or you?" then "Sadly, it's not you." (cut back to the baby)
+Clips: the raw "Researchers" baby (fallback A6) → the woman, A4 + A5 (backup: Avery, staring at ceiling.MOV 0:00-0:04.8)
+Captions: WHO SLEEPS BETTER / A DANISH BABY / OR YOU?
+	Hook 2
+Verbal 1 + split screen
+
+
+Spin360_DanishBabyVsYou_Hook2
+	  
+
+	On a split screen the baby sleeps on top and the woman sleeps below until she wakes up at 3:47 AM, so the viewer judges for themselves who's winning.
+VO: same as Hook 1. On "Sadly" the baby slides down and takes over the whole screen.
+Clips: the "Researchers" baby on top, the woman A3 below (labels A DANISH BABY / YOU at the seam, plus a small 3:47 AM stamp when she wakes)
+Captions: WHO SLEEPS BETTER? in the seam bar
+	Hook 3
+Verbal 2 + match cut
+
+
+Spin360_DanishBabyVsYou_Hook3
+	  
+
+	The same match cut as Hook 1 with the longer question: we stay on the baby asleep in the snow while you hear "a baby napping in the snow", then hard cut to you, awake in your warm bed, on "or".
+VO: "Who sleeps better: a baby napping in the snow, or you in your warm bed?" then "Sadly, it's not you." (cut back to the baby)
+Clips: the raw "Researchers" baby (fallback A6) → the woman, A4 + A5b (she holds longer and blinks on "bed?")
+Captions: WHO SLEEPS BETTER / A BABY NAPPING IN THE SNOW / OR YOU IN YOUR WARM BED?
+	Hook 4
+Verbal 2 + split screen
+
+
+Spin360_DanishBabyVsYou_Hook4
+	  
+
+	On a split screen the baby sleeps in the snow on top and you sleep cozy in your warm bed below, so the warm bed looks like the winner until your eyes open at 3:47 AM on "bed?".
+VO: "Who sleeps better: a baby napping in the snow, or you in your warm bed?" then "Sadly, it's not you." On "Sadly" the baby slides down and takes over the whole screen.
+Clips: the "Researchers" baby on top, the woman A3 below (she snuggles on "warm", her eyes open on "bed?"; labels IN THE SNOW / IN YOUR WARM BED at the seam, plus a small 3:47 AM stamp when she wakes)
+Captions: WHO SLEEPS BETTER? in the seam bar
+	Reference frames of the baby clip (from the Swedish ad, captions burned in):
+  
+   
+Body (same in all 4 ads)
+#
+	Voice-over
+	Visual Inspiration
+	What to show · source
+	1
+	Danish babies nap outside.
+	  
+
+	A mom pushing a stroller through the snow, so the habit feels normal and safe right away.
+Source: Pool, the "Babies are" shot
+	2
+	In strollers, bundled up, even in the snow.
+	  
+
+  
+
+	Three quick shots of strollers and babies in the snow show that everybody does it.
+Source: Pool "rows of" strollers · A7 · pool "figured out why" backyard
+	3
+	And parents over there swear they sleep longer out there.
+	  
+
+	A mom peeks into the pram and smiles because the baby is still asleep.
+Source: A8 · pool "until age" porch stroller
+	4
+	Because outside, the air never stops moving.
+	  
+
+	Snow blowing past a house, then the fur on a pram hood swaying around a sleeping baby, so you can see the moving air.
+Source: Pool "stops moving" house · A9
+	5
+	Meanwhile, you sleep in a sealed box.
+	New shot (AI). No reference frame.
+	Cut hard to a woman awake in a dim, still bedroom, the opposite of outside.
+Source: Avery, staring at ceiling.MOV 0:05-0:09
+	6
+	Door shut.
+	New shot (AI). No reference frame.
+	A door closes on the hallway light, so the room seals.
+Source: A10 (or film it on a phone)
+	7
+	Window shut.
+	  
+
+	A window locks and the curtain closes, the last seal.
+Source: A11
+	8
+	Eight hours in air that doesn't move.
+	New shot (AI). No reference frame.
+	A whole-night time-lapse where nothing in the room moves.
+Source: A12
+	9
+	Here's what nobody tells you.
+	  
+
+	A slow push-in on a woman asleep in the dark, to bring us close to her face.
+Source: Pool "what's crazy" woman in bed
+	10
+	Every breath you let out has nowhere to go.
+	New shot (AI). No reference frame.
+	Dust in a moonbeam gets pushed out by her breath and then stops, so you see that the air goes nowhere.
+Source: A13
+	11
+	It just sits there, around your face.
+	New shot (AI). No reference frame.
+	A tight shot where the dust hangs dead still by her lips.
+Source: A14
+	12
+	So all night, you breathe it back in.
+	New shot (AI). No reference frame.
+	She breathes in and the dust drifts back to her nose.
+Source: A15
+	13
+	That could be why you sleep eight hours
+	New shot (AI). No reference frame.
+	The phone alarm goes off next to someone buried under the duvet.
+Source: A16, 0-2 s
+	14
+	and still wake up groggy.
+	New shot (AI). No reference frame.
+	An arm slaps snooze and pulls the duvet back over her head, which is groggy without saying it.
+Source: A16, 2-6 s
+	15
+	Most fans don't fix it.
+	New shot (AI). No reference frame.
+	A loud tower fan, the fix the viewer is already thinking of.
+Source: Avery, normal fan oscilating.MOV 0:06-0:10
+	16
+	They blast one stream of air in one direction.
+	New shot (AI). No reference frame.
+	The fan blows her hair into her face and she's annoyed.
+Source: Avery, old fan blowing in face(1).MOV 0:02-0:05
+	17
+	Point it at you, and it's in your face all night.
+	New shot (AI). No reference frame.
+	Two people getting blasted and turning away.
+Source: Michael, Old fan vs Spin 360 hair 0:12-0:16 · Kylie 0:00-0:05
+	18
+	Point it away, and the air around you goes still again.
+	New shot (AI). No reference frame.
+	A fan aimed at the wall blows hard over there while the air by her bed is dead.
+Source: A17
+	19
+	But what if your bedroom had air like that stroller outside?
+	New shot (AI). No reference frame.
+	Back to a stroller in the snow, to remind us what good air looks like.
+Source: Pool porch or backyard stroller (a different part than rows 2-3)
+	20
+	Moving all night. Gently. From every direction.
+	New shot (AI). No reference frame.
+	The house in blowing snow, then the pram fur swaying, then a gust from all sides, one shot per phrase.
+Source: Pool "stops moving" house · A9
+	21
+	That's what Spin360 does.
+	New shot (AI). No reference frame.
+	She taps the Spin360 and the blue light comes on, our first look at the product.
+Source: Erin, 25.MOV 0:02-0:05
+	22
+	It pulls air in from the top and the bottom,
+	New shot (AI). No reference frame.
+	The real smoke test, with smoke going in at the top and the bottom.
+Source: David, How_Air_Moves_Selects_1.mp4 (backup: Michael "Top and bottom intake" 0:02-0:06)
+	23
+	and sends it out 360 degrees.
+	New shot (AI). No reference frame.
+	From above, the ribbons blow out in a full circle.
+Source: Michael, Ribbons 0:14-0:18
+	24
+	So the whole room moves, not just one spot.
+	New shot (AI). No reference frame.
+	Smoke leaving in every direction, then a tissue fluttering all the way around.
+Source: David smoke clip · Stacie, IMG_9746.MOV 0:04-0:08
+	25
+	And it's not a blast of air in your face.
+	New shot (AI). No reference frame.
+	A quick flash of the old fan pain.
+Source: Avery, old fan blowing in face(1).MOV 0:07-0:10
+	26
+	It's a soft breeze.
+	New shot (AI). No reference frame.
+	Her hair lifts gently and she smiles with her eyes closed.
+Source: Erin, 8.MOV 0:08-0:12
+	27
+	The kind you feel outside on a perfect night,
+	  
+
+	A woman outside under the stars, a feeling everyone remembers.
+Source: Pool "perfect night"
+	28
+	that just wraps around you from every side.
+	New shot (AI). No reference frame.
+	The curtain moves softly with the window shut and she sinks into her pillow smiling, so the outside air is now inside.
+Source: A18
+	29
+	And here's the part that gets people.
+	  
+
+	A calm woman in a blue-lit bed, a breath before the result.
+Source: Pool "your bedroom"
+	30
+	You lie down,
+	New shot (AI). No reference frame.
+	She gets into bed next to the glowing Spin360.
+Source: Erin, 25.MOV 0:09-0:12
+	31
+	and you don't even notice when you fall asleep.
+	  
+
+	The book slips out of her hand as she drifts off mid-page.
+Source: A19
+	32
+	Then the alarm goes off,
+	New shot (AI). No reference frame.
+	The same nightstand and phone as row 13, but now it's sunny and she's already up and stretching.
+Source: A20, 0-1.5 s
+	33
+	and for once, you're not reaching for snooze.
+	New shot (AI). No reference frame.
+	She keeps stretching and smiling and leaves the phone alone.
+Source: A20, 1.5-4.5 s
+	34
+	You actually feel rested.
+	  
+
+	Two women waking up happy and stretching.
+Source: Pool "feel good" · Avery, waking up resotred.MOV 0:05-0:08
+	35
+	Like that baby in the stroller.
+	New shot (AI). No reference frame.
+	Back to a baby sleeping in the snow, to tie the result to the start.
+Source: A7, 2.5-5 s
+	36
+	This is how we made it different from every fan you've owned.
+	New shot (AI). No reference frame.
+	A guy carries his old fan out of the room.
+Source: Charlie, IMG_3814.MOV 0:22-0:27
+	37
+	Our founder, David Patrick, spent four years on one blade.
+	  
+
+  
+
+	The golden prototype blade and a hand sketching, to show years of work.
+Source: Pool "with this idea" + "honestly hard"
+	38
+	Same guy who invented the Shark Wheel and got a deal on Shark Tank.
+	  
+
+  
+
+	David with the Shark Wheel, then the Shark Tank deal.
+Source: Pool "who invented" + "Got a deal" (raw clips)
+	39
+	He built prototype after prototype.
+	New shot (AI). No reference frame.
+	David with his blade prototypes.
+Source: David LA interview folder (or another angle of the golden blade)
+	40
+	He even tested them on a power drill, pulling smoke in from both sides, just to see where the air went.
+	New shot (AI). No reference frame.
+	David fires the drill and the blade sucks smoke in. It's weird, so it re-hooks people.
+Source: How_Air_Moves_Selects_1.mp4 if it has it, otherwise Drill hooks, Hook4_NYC_Sidewalk.mp4 0:00-0:05
+	41
+	Now, you're probably thinking: a fan that moves a whole room has to be loud.
+	New shot (AI). No reference frame.
+	Loud regular fans to say the objection out loud.
+Source: Lauren, Fan movement 0:20-0:24 · Avery normal fan 0:08-0:11
+	42
+	It's the opposite.
+	  
+
+  
+
+	A couple reading next to the Spin360 in a quiet room. Drop the sound here.
+Source: Pool, living room with couple
+	43
+	Below speed five, you won't hear it.
+	New shot (AI). No reference frame.
+	The display shows F3 and then F4, so the number matches the line.
+Source: Stacie, IMG_9752.MOV inside 0:04-0:28
+	44
+	And if you need fan noise to fall asleep, turn it past five.
+	New shot (AI). No reference frame.
+	A tap takes it to F6 and the blades speed up.
+Source: Stacie, IMG_9752.MOV 0:30-0:37 (sped up)
+	45
+	It sounds like wind through trees.
+	  
+
+	Pine trees moving outside a deck, so people can hear it in their heads.
+Source: Pool "just disappear" deck (backup A23)
+	46
+	Oh, and did I mention the scent pods?
+	New shot (AI). No reference frame.
+	Hands open the scent pod pot.
+Source: Michael, Scent pod drop in 0:20-0:26
+	47
+	Drop one in,
+	  
+
+	A pod goes on top of the fan, showing how easy it is.
+Source: Pool "a scent pod in"
+	48
+	and ten seconds later your room smells like a forest.
+	  
+
+	A woman smiles as she breathes in, then the forest.
+Source: Pool "Pine cedar" + deck forest
+	49
+	One customer wrote: "I keep it on speed 3 when I sleep, and it's a gentle breeze that makes me feel as if I'm outside."
+	New shot (AI). No reference frame.
+	A 5-star review card over a woman sleeping by the blue light, so real customers say it in their own words.
+Source: Erin, 28.MOV 0:00-0:06 + card
+	50
+	Another said: "My night is like sleeping with windows open and a soft breeze comes through."
+	New shot (AI). No reference frame.
+	A second review card over a curtain moving by an open window.
+Source: Michael, Summer breeze window open 0:06-0:12 + card
+	51
+	That's as close as you'll get to sleeping like a Danish baby.
+	New shot (AI). No reference frame.
+	A match cut from the "Researchers" baby to our woman asleep in the exact same pose, so "you" finally sleeps like the baby.
+Source: Pool "Researchers" baby → A21 + A22, 0-3 s
+	52
+	Without the snow.
+	New shot (AI). No reference frame.
+	The camera pulls back to her warm bedroom with snow falling outside the window.
+Source: A22, 3-5 s
+	53
+	And if you've watched this far: try it for 30 nights.
+	  
+
+	A clean product shot, then the end card starts building.
+Source: Pool "on okay" Spin360 with palm + end card
+	54
+	If your bedroom doesn't feel like a window's open, send it back.
+	New shot (AI). No reference frame.
+	The end card holds.
+Source: End card
+	55
+	But let's be honest. Once you sleep in moving air, you won't want to.
+	New shot (AI). No reference frame.
+	One more look at her sleeping peacefully, then back to the end card with SHOP NOW.
+Source: A22 (second take) + end card
+	Orange = AI shot (prompts below). "Pool" = a raw clip from the Swedish V2 project; the pictures show which one (captions burned in on the reference only).
+End card
+Follows the cat reel's '30-Day Satisfaction Guarantee' layout, adapted to the brand. Background: soft light blue (#DCEBF7) with a large white curved shape. Product: a clean cutout of the white Spin360 (from the Shopify product photo), large, on the right two-thirds of the frame, LED ring glowing blue. Top left: a round seal stamped in with a quick scale-down, white text on deep navy, reading '30-NIGHT TRIAL'. Below it, in bold dark navy (Poppins ExtraBold): 'Feels like a window's open, or send it back.' Under that, a white pill button 'SHOP NOW' with a small up-arrow chevron (as in the cat reel). Small 'Spin360' wordmark bottom left. Everything inside the safe zone (nothing in the bottom 20% or behind the right-side Meta buttons). The card first appears on 'try it for 30 nights' and stays up through 'send it back'. After one 1.5 s cutaway to the sleeping woman on 'But let's be honest', it comes back with the SHOP NOW button sliding in and holds 1 s after the last word. Word captions OFF while the card is up. Do not add 'money-back', 'free shipping', a price or a discount unless Gabriel confirms them. The script only promises a 30-night trial with the option to send it back.
+AI shots to generate (Higgsfield)
+Realism standard for every AI shot: it must look like real phone footage. If a take looks like AI, don't use it. Generate 3 takes of each video and pick the best.
+Asset
+	Used in · prompt
+	A1 YOU character reference (still image)
+	Identity anchor for every AI adult: H1 shot 2 (via A4), H2 bottom half (via A2), body rows 18, 28, 31, 32-33, 51-52, 55. Generate 4, Gabriel picks one, then reuse that exact image everywhere.
+Higgsfield image model, 9:16 and 1:1 versions. A candid iPhone photo of an ordinary American woman about 45 years old lying on her back in bed at night, head on a white pillow, looking slightly past the camera. Shoulder-length brown hair with a few grays, a little messy on the pillow. Real skin texture, light lines around the eyes, faintly tired under-eyes, no makeup. Plain heather-gray cotton t-shirt, thick white fluffy duvet up to her chest. Warm, dim light from a bedside lamp outside the frame on one side of her face; the rest of the room is dark. Slight phone-camera grain. Photorealistic, not glamorous, not a model, not retouched. No text, no logos.
+	A2 H2 bottom-half start frame (still image, mandatory)
+	H2 bottom half, start frame for A3.
+Higgsfield image model, 1:1. @Image 1 is the YOU character (A1) and defines her face, hair and t-shirt. Keep her face exactly. A photo taken from high above her chest at about 45 degrees, looking back toward her face, so her face is upright with the top of her head toward the top of the frame. She lies on her back on two white pillows under a thick, fluffy white down duvet, deeply asleep, eyes closed, mouth relaxed. Her face sits just above the center of the frame and fills about one third of the frame width. The top edge of the duvet crosses the lower part of the frame. A bit of upholstered headboard behind the pillows. Warm amber light from a low bedside lamp just outside the frame on one side of her face; the room is dark. Real iPhone night photo, soft grain in the shadows, natural skin. No phone, no camera arm, no mount, no tripod, no hand, no clock, no text, no logos.
+CHECK BEFORE VIDEO: place this image under a frame of the scaled 'Researchers' baby in the split layout; the two faces must be the same size and in the same spot in their halves. Regenerate until they match.
+	A3 H2 bottom-half clip (asleep, snuggle, eyes open)
+	H2 bottom half, 0.0-4.3 s (continuous, no cuts).
+Seedance 2.5 on Higgsfield, image-to-video, 1:1, 6 s (or nearest length), 1080p if offered (else 720p and upscale the chosen take), audio on. Start frame A2 as @Image 1. Generate 3 takes; pick the one where the eye-opening looks most natural and least like a horror film.
+
+
+@Image 1 is the start frame and defines everything: the woman's face, hair and t-shirt, the pillows, the duvet, the framing and the lamp light. Keep them exactly.
+
+
+THE SHOT: one single continuous take, 6 seconds, square, filmed on an iPhone propped somewhere above the bed that nobody touches, like a real clip someone filmed of herself sleeping and posted online. You never see the phone or anything holding it: no arm, no mount, no tripod, no hand. The camera never moves; only the small natural auto-exposure and focus breathing of an iPhone in low light. The room is completely still: no fan, no air moving, no curtain moving, her hair does not move.
+
+
+0-2.5s: she is deeply asleep, eyes closed, mouth relaxed, slow even breathing, calm and cozy.
+2.5-3.3s: still asleep with her eyes closed, she snuggles deeper, pulls the duvet up to her chin with one hand and lets out a small, content, sleepy sigh.
+3.3-3.6s: her eyes open fully and stay open. No jolt, no gasp, no sudden head movement. She looks tired and annoyed, like someone who just realized she is awake again and won't fall back asleep. She is not scared.
+3.6-6s: she stares up at the ceiling, above the lens and never into it, and blinks slowly. She breathes out through her mouth, pushes the duvet down off her chest to her waist with both hands, and rests the back of one hand on her forehead, as if the room feels stuffy.
+
+
+Look: real iPhone night footage with soft grain in the shadows, warm amber tones, natural skin and real wrinkles in the bedding. Nothing glossy, nothing cinematic, no shallow-focus movie look.
+Sound: quiet bedroom room tone, the soft rustle of the duvet, her small sigh at 2.5s and her quiet exhale at 4s. No music.
+No captions. No on-screen text. No clock, no numbers and no phone anywhere in the frame. No logos. No fan of any kind. She never looks into the camera.
+	A4 H1 shot 2, Step 1 (image edit from shot 1's last frame)
+	H1 shot 2 start frame.
+Higgsfield image model (image edit), 9:16, 2 references. @Image 1 = the exact last frame of H1 shot 1 (the 'Researchers' baby, or A6 if the fallback is used): it defines the composition. @Image 2 = the YOU character A1: it defines the identity.
+
+
+Keep the exact framing, camera angle, face size, face position, head tilt and head turn of the baby in @Image 1: her head is turned to the same side by the same amount (about 30 degrees), cheek resting on a white pillow, and her eyes sit exactly where the baby's eyes are. Replace the baby with the woman from @Image 2, an ordinary American woman about 45, lying in bed at night, eyes open, gazing past the camera into the dark, not into the lens. A thick white fluffy duvet pulled up to her chin fills the bottom third where the orange sleeping bag was. Shoulder-length brown hair with a few grays, a little messy on the pillow, faintly tired under-eyes, no makeup, real skin texture with light lines. The room is dark: the only light is a warm, dim amber bedside lamp outside the frame on one side of her face; the frame edges and corners fall off to near-black and the area above the pillow is the black room. Real iPhone night photo with grain. Photorealistic, not glamorous, not a model. No text, no logos.
+CHECK: toggle this image against @Image 1; the eyes must land in the same spot and the face outline must not jump. Regenerate until it does.
+	A5 H1 shot 2, Step 2 (awake: blink, exhale, hand to forehead)
+	H1 shot 2 (use about the first 1.4-1.8 s, retime up to plus or minus 15%).
+Seedance 2.5 on Higgsfield, image-to-video, 9:16, 4 s, audio on. Start frame A4 as @Image 1. Generate 3 takes; reject any with eyes into the lens, a frozen stare or a scared look.
+
+
+@Image 1 is the start frame and defines the woman's face, hair, the white duvet, the framing, the head tilt and turn, and the lamp light. Keep them exactly.
+
+
+THE SHOT: one single continuous take, 4 seconds, vertical, filmed on an iPhone held by hand above the bed at night, like a real clip someone posts online: tiny natural handheld drift, auto exposure gently hunting in low light, warm lamp light from one side only, the frame edges falling to near-black, real phone grain, no cinematic look.
+Her eyes are already open in the first frame.
+0-0.5s: she lies dead still, awake, eyes open, gazing past the lens into the dark, never into it.
+0.5-1.0s: one slow, heavy blink and a visible tired exhale through her nose; her chest sinks under the duvet.
+1.0-1.6s: she lifts one hand from under the duvet and rests the back of it on her forehead.
+1.6-4s: she stays like that, awake, staring into the dark, hand on her forehead.
+Nothing else in the room moves: no curtain, no fan, no breeze, her hair does not move.
+Sound: near-silent indoor room tone, a faint electrical hum, a soft duvet rustle when the hand moves, one quiet tired exhale. No voices.
+No captions. No on-screen text. No logos. No music.
+	A5b Hook 3 version of A5 (longer hold)
+	Hook 3, the woman after the cut (~1.9 s). Same as A5, only the timing changes.
+Seedance 2.5 on Higgsfield, image-to-video, 9:16, 4 s, audio on. Start frame A4 as @Image 1. Generate 3 takes; reject any with eyes into the lens, a frozen stare or a scared look.
+
+
+@Image 1 is the start frame and defines the woman's face, hair, the white duvet, the framing, the head tilt and turn, and the lamp light. Keep them exactly.
+
+
+THE SHOT: one single continuous take, 4 seconds, vertical, filmed on an iPhone held by hand above the bed at night, like a real clip someone posts online: tiny natural handheld drift, auto exposure gently hunting in low light, warm lamp light from one side only, the frame edges falling to near-black, real phone grain, no cinematic look.
+Her eyes are already open in the first frame.
+0-1.0s: she lies dead still, awake, eyes open, gazing past the lens into the dark, never into it.
+1.0-1.5s: one slow, heavy blink and a visible tired exhale through her nose; her chest sinks under the duvet.
+1.5-2.1s: she lifts one hand from under the duvet and rests the back of it on her forehead.
+2.1-4s: she stays like that, awake, staring into the dark, hand on her forehead.
+Nothing else in the room moves: no curtain, no fan, no breeze, her hair does not move.
+Sound: near-silent indoor room tone, a faint electrical hum, a soft duvet rustle when the hand moves, one quiet tired exhale. No voices.
+No captions. No on-screen text. No logos. No music.
+	A6 Baby in the snow, fallback (only if the raw 'Researchers' clip fails)
+	H1 shot 1 and H1 bridge; H2 top half and H2 bridge; row 51 cut 1. Use ONLY if the raw clip has no visible falling snow, shows text you can't crop, is too short (under about 4.5 s even at 80%), or can't be found.
+Seedance 2.5 on Higgsfield, image-to-video, 9:16, 6 s, audio on. Start frame = the cleanest frame of the raw 'Researchers' clip as @Image 1.
+
+
+@Image 1 defines the baby's face, the fur-trimmed hood, the orange padded sleeping bag, the framing, the head tilt and the light. Keep all of them exactly. Do not change the baby's face.
+
+
+THE SHOT: one single continuous take, 6 seconds, vertical, filmed on an iPhone held in the hand of a parent leaning over a stroller on a quiet snowy morning in Denmark, like a real clip someone posts online: tiny natural handheld drift, focus and exposure adjusting on their own, cool overcast daylight, real phone sharpness, no cinematic look, no slow motion.
+0-6s: the baby stays deeply and peacefully asleep the whole time, eyes closed, mouth relaxed, pink healthy cheeks, slow calm breathing that barely moves the sleeping bag. Small, soft snowflakes fall through the frame from the very first frame and land on the orange sleeping bag and the fur trim, never on the baby's face. The fur trim of the hood stirs slightly in a light breeze. The baby does not move, open its eyes, frown or cry. The camera does not zoom, pan or pull back.
+Sound: soft outdoor winter ambience, a light breeze, a very faint distant street far away. No voices.
+No captions. No on-screen text. No logos. No music.
+	A7 Baby C, blanket tucked by a parent's gloved hand
+	Row 2 cut 2 (seconds 0-2) and row 35 (seconds 2.5-5).
+Seedance 2.5 on Higgsfield, text-to-video, 9:16, 5 s, audio on.
+
+
+THE SHOT: one single continuous take, 5 seconds, vertical, filmed on an iPhone held in the hand of a parent standing over a pram in a snowy back garden of a small house in Denmark, like a real clip a parent posts online: tiny natural handheld drift, focus and exposure adjusting on their own, soft overcast daylight, snow on the ground, real phone sharpness, no cinematic look.
+Close-up of a baby about 10 months old asleep in a cream-colored pram, wearing a cream knitted hat and a thick light-grey snowsuit, a chunky grey wool blanket on top. Only rosy cheeks and closed eyes show, calm and peaceful.
+0-2s: a parent's hand in a dark knitted glove comes into the frame and gently tucks the edge of the wool blanket in around the baby's shoulders, then lets go.
+2-5s: the hand is gone; the baby stays deeply asleep, slow calm breathing, a few small snowflakes land on the blanket, never on the face.
+The baby does not wake, frown or cry. No brand labels on the pram or the snowsuit.
+Sound: soft outdoor winter quiet, a light breeze, the faint rustle of the blanket. No voices.
+No captions. No on-screen text. No logos. No readable signs. No music.
+	A8 Parent peeks into the pram on the porch
+	Row 3 cut 1.
+Seedance 2.5 on Higgsfield, text-to-video, 9:16, 5 s, audio on.
+
+
+THE SHOT: one single continuous take, 5 seconds, vertical, filmed on an iPhone held by someone standing at the bottom of the front steps of a small Nordic wooden house in winter, like a real clip someone posts online: natural handheld bounce, focus and exposure adjusting on their own, soft overcast daylight, snow on the ground and on the railing, light snow falling.
+A mother in her 30s in a long dark winter coat and a knitted beanie stands on the porch next to a dark grey pram parked against the wooden railing, its hood up.
+0-2s: she leans over and quietly peeks under the pram hood.
+2-4s: she looks back toward the camera person with a small, satisfied smile and a tiny nod, as if to say 'still fast asleep'.
+4-5s: she straightens up and pulls the hood down a little, calm and relaxed.
+The baby is not visible inside the hood. Ordinary house, no readable house number, no signs, no flags, no brand on the pram.
+Sound: quiet snowy street, a light breeze, the soft creak of the porch boards. No voices.
+No captions. No on-screen text. No logos. No music.
+	A9 Baby in pram hood, air moving (fur trim and gust)
+	Row 4 cut 2 (seconds 0-1.5); row 20 cut 2 (seconds 1.5-2.3) and cut 3 (seconds 2.5-5).
+Seedance 2.5 on Higgsfield, text-to-video, 9:16, 5 s, audio on.
+
+
+THE SHOT: one single continuous take, 5 seconds, vertical, filmed on an iPhone held by a parent standing right next to the pram, like a real clip a mom posts online: slight natural handheld sway, natural phone exposure, soft overcast daylight, light snow falling, a quiet Nordic residential street with snow on the ground in the soft background, nothing cinematic.
+Close-up of the hood of a dark grey pram with a faux-fur trim. A baby about one year old sleeps inside, bundled in a thick snowsuit and a red knitted hat; only rosy cheeks and closed eyes show, calm and peaceful. The fringe of a wool blanket lies across the top.
+0-2.5s: the camera holds on the sleeping face while the faux-fur trim and the blanket fringe sway softly in a light breeze and snowflakes drift past sideways.
+2.5-5s: a soft gust; the fur trim and the blanket fringe ripple, and snowflakes swirl around the hood from several directions, a few floating into the hood but never onto the baby's face. The baby keeps sleeping deeply.
+Real skin texture, no beauty filter. No brand labels on the pram.
+Sound: soft wind and the quiet street, muffled. No voices.
+No captions. No on-screen text. No logos. No readable signs. No music.
+	A10 Door shut
+	Row 6.
+Seedance 2.5 on Higgsfield, text-to-video, 9:16, 3 s, audio on.
+
+
+THE SHOT: one single continuous take, 3 seconds, vertical, filmed on an iPhone held by the person inside an ordinary American bedroom at night, lit only by a warm bedside lamp, like a real clip someone posts online: slight handheld shake, real phone noise in the shadows, nothing cinematic.
+0-1s: a hand pushes the white bedroom door closed; it swings toward the frame.
+1-2s: the warm strip of hallway light on the floor and door frame shrinks to a thin line.
+2-3s: the door is fully shut with a clear latch click, the room gets darker, and the hand lets go of the handle.
+Sound: soft door swing and a clear latch click. No voices.
+No captions. No on-screen text. No logos. No music.
+	A11 Window shut
+	Row 7.
+Seedance 2.5 on Higgsfield, text-to-video, 9:16, 3 s, audio on.
+
+
+THE SHOT: one single continuous take, 3 seconds, vertical, filmed on an iPhone held in the hand, at night, inside an ordinary bedroom lit by a warm lamp off-screen, like a real clip someone posts online: slight handheld shake, natural low-light phone noise, nothing cinematic. Close-up of a white inward-opening window, slightly open, dark night outside.
+0-1s: a hand pushes the window shut against the frame with a soft thud.
+1-2s: the hand turns the white window handle down to the locked position with a firm clunk.
+2-3s: the hand pulls a heavy grey curtain across the window and the frame goes darker.
+No crib, no nursery items, an adult bedroom.
+Sound: the window thud, the handle clunk, curtain rings sliding. No voices.
+No captions. No on-screen text. No logos. No music.
+	A12 Night time-lapse, nothing moves
+	Row 8.
+Seedance 2.5 on Higgsfield, text-to-video, 9:16, 4 s, audio on.
+
+
+THE SHOT: a time-lapse filmed on a phone propped on a dresser, locked off, no camera movement, a whole night compressed into 4 seconds, like a real phone time-lapse someone posts online: slight noise, flat lifeless colors.
+Foreground left, deeply out of focus: a small digital bedside clock whose display is only a soft, unreadable glow.
+Middle: a person asleep under a white duvet in a double bed.
+Background: a closed window with a closed curtain, a bathrobe hanging on the closed door, and a tall houseplant.
+0-4s: during the whole night nothing in the room moves: the curtain, the robe and the plant leaves stay perfectly still. Only the light changes, from dark blue night to flat grey dawn, and the sleeper shifts position once.
+Sound: near silence, faint room tone.
+No captions. No on-screen text. No readable numbers. No logos. No music.
+(Editor option: composite a real filmed digital clock running 11:04 PM to 6:58 AM over the clock position.)
+	A13 Dust motes, framing A (exhale pushes them out)
+	Row 10.
+Seedance 2.5 on Higgsfield, image-to-video, 9:16, 4 s, audio on. @Image 1 = a clean frame of the Swedish V2 pool 'what's crazy' woman-in-the-dark-in-bed clip (the row 9 shot).
+
+
+@Image 1 defines the woman's face, hair, pillow, duvet and the dark bedroom lighting. Keep them exactly.
+
+
+THE SHOT: one single continuous take, 4 seconds, vertical, filmed on a phone resting on the nightstand, locked off, like a real low-light phone clip: real low-light noise, real skin, nothing cinematic. MEDIUM CLOSE framing: her face and the whole pillow. She is asleep on her side.
+A single thin beam of pale moonlight from a gap in the curtains crosses the air just in front of her face. Tiny specks of ordinary household dust float in the beam and catch the light, like the dust you see in a sunbeam.
+0-1.5s: she breathes out slowly; the dust specks right in front of her lips are pushed gently a few inches away from her face.
+1.5-4s: the push stops and the specks just hang in the beam close to her face, barely moving.
+She stays asleep, calm, not distressed. It must NOT look like smoke, fog, steam, breath on a cold day, glitter, magic sparkles or a sci-fi effect.
+Sound: quiet room tone and soft breathing. No voices.
+No captions. No on-screen text. No logos. No music.
+	A14 Dust motes, framing B (macro, hanging dead still)
+	Row 11.
+Seedance 2.5 on Higgsfield, image-to-video, 9:16, 4 s, audio on. Same @Image 1 as A13.
+
+
+@Image 1 defines the woman's face, hair, pillow and the dark bedroom lighting. Keep them exactly.
+
+
+THE SHOT: one single continuous take, 4 seconds, vertical, phone resting very close on the bed, locked off, like a real low-light phone clip: real low-light noise, real skin, nothing cinematic. TIGHT MACRO framing: her lips, the tip of her nose, the edge of the pillow and the thin beam of pale moonlight crossing right in front of them.
+Tiny specks of ordinary household dust glow in the beam.
+0-4s: the specks hang completely still around her face, as if the air has stopped. She breathes shallowly in her sleep; nothing else moves at all.
+She stays asleep, calm. It must NOT look like smoke, fog, steam, breath on a cold day, glitter, magic sparkles or a sci-fi effect.
+Sound: very quiet room tone, faint soft breathing. No voices.
+No captions. No on-screen text. No logos. No music.
+	A15 Dust motes, framing C (inhale draws them back)
+	Row 12.
+Seedance 2.5 on Higgsfield, image-to-video, 9:16, 4 s, audio on. Same @Image 1 as A13.
+
+
+@Image 1 defines the woman's face, hair, pillow, duvet and the dark bedroom lighting. Keep them exactly.
+
+
+THE SHOT: one single continuous take, 4 seconds, vertical, phone resting on the nightstand a little further back, locked off, like a real low-light phone clip. SLIGHTLY WIDER framing: her head, shoulder, the pillow and the moonbeam.
+Tiny specks of ordinary household dust hang in the thin beam of pale moonlight in front of her face.
+0-1.5s: everything is still.
+1.5-4s: she breathes in slowly through her nose; the hanging specks drift gently back toward her nose and lips.
+She stays asleep, calm. It must NOT look like smoke, fog, steam, breath on a cold day, glitter, magic sparkles or a sci-fi effect.
+Sound: quiet room tone, one slow soft inhale. No voices.
+No captions. No on-screen text. No logos. No music.
+	A16 Groggy snooze morning
+	Rows 13-14; framing template (@Video 1) for A20.
+Seedance 2.5 on Higgsfield, text-to-video, 9:16, 6 s, audio on.
+
+
+THE SHOT: one single continuous take, 6 seconds, vertical, filmed on an iPhone held by someone standing at the bedside, early morning, like a real clip someone posts online: slight handheld drift, real, unglamorous, slightly underexposed phone footage, flat grey-blue light through closed curtains, an ordinary bedroom.
+On a wooden nightstand a phone lies face up; next to it a messy duvet with a person buried completely under it.
+0-2s: the phone lights up and buzzes on the nightstand; the screen is bright in the dim room and slightly out of focus, so nothing on it is readable.
+2-4s: a sleepy arm flops out from under the duvet, fumbles across the nightstand and slaps the phone quiet; the screen dims.
+4-6s: the arm drags back under and pulls the duvet over the head, with a heavy, tired groan.
+Sound: phone alarm chime and buzz, duvet rustle, a groan. No words.
+No captions. No readable on-screen text. No logos. No music.
+	A17 Fan turned to the wall, dead air by the bed
+	Row 18.
+Seedance 2.5 on Higgsfield, omni-reference, 9:16, 6 s, audio on. @Image 1 = the YOU character A1.
+
+
+@Image 1 defines the woman's face and hair only. Keep her face exactly.
+
+
+THE SHOT: one single continuous take, 6 seconds, vertical, filmed on an iPhone held in the hand at night in an ordinary bedroom lit by a warm bedside lamp, like a real clip someone posts online: natural handheld movement, slight noise, nothing cinematic.
+A common white pedestal fan with a round grille stands near the bed with its head turned away to face the wall. A strip of white ribbon tied to the front of the fan's grille flaps hard toward the wall.
+0-2s: the camera is on the fan and the flapping ribbon; the fan roars.
+2-4s: the camera pans slowly to the bed a few feet away. The woman from @Image 1 lies on her back under a duvet, awake, eyes open, a strand of hair stuck to her forehead. A second, identical white ribbon tied to the headboard hangs completely still, and a sheer curtain next to the bed hangs perfectly still.
+4-6s: hold on her face and the motionless ribbon; she sighs and kicks the duvet off one leg.
+Sound: the fan roaring off to the side, quiet near the bed, a sigh. No words.
+No captions. No on-screen text. No logos. No music.
+	A18 Curtain breeze with Spin360 at night
+	Row 28.
+Seedance 2.5 on Higgsfield, omni-reference, 9:16, 6 s, audio on. @Image 1 = the YOU character A1. @Image 2 = a clean frame of the white Spin360 (from UGC Erin '28.MOV' or the Shopify product photo).
+
+
+@Image 1 defines the woman's face and hair only. @Image 2 is the Spin360: a white floor-standing air circulator with a round cylindrical clear grille head, a white top cap, a slim white column with a small round black display and a thin blue LED ring under the head. Keep its shape, color and size exactly.
+
+
+THE SHOT: one single continuous take, 6 seconds, vertical, filmed on an iPhone held in the hand at night in an ordinary bedroom lit by a warm bedside lamp, white sheer curtains on a closed window, like a real clip someone posts online: natural handheld drift, natural skin, slight noise, nothing cinematic.
+The Spin360 from @Image 2 stands beside the bed with its blue LED on, quietly running. The woman from @Image 1 lies in bed under a light duvet, eyes closed, a small smile.
+0-2s: the sheer curtain on the far side of the room ripples softly although the window is closed.
+2-4s: the camera drifts to the pillow; loose strands of her hair lift gently and settle, and the edge of the duvet flutters a little.
+4-6s: she pulls the duvet up to her chin and sinks deeper into the pillow, relaxed.
+The air movement is soft and comes from all around, never a strong jet.
+Sound: a very quiet soft hum and room tone. No words.
+No captions. No on-screen text. No logos other than the product as in @Image 2. No music.
+	A19 Book tips out of her hand
+	Row 31.
+Seedance 2.5 on Higgsfield, omni-reference, 9:16, 6 s, audio on. @Image 1 = the YOU character A1. @Image 2 = the white Spin360 reference (as in A18).
+
+
+@Image 1 defines the woman's face and hair only. @Image 2 is the Spin360 (white floor air circulator, round clear grille head, white top cap, slim white column, blue LED ring). Keep it exactly.
+
+
+THE SHOT: one single continuous take, 6 seconds, vertical, filmed on an iPhone held by someone sitting at the end of the bed at night, warm bedside lamp, like a real clip someone posts online: slight handheld drift, natural skin, slight noise, nothing cinematic.
+Close-up of the woman from @Image 1 in bed, propped on a pillow, reading a paperback. Behind her, slightly out of focus, the Spin360 from @Image 2 stands by the nightstand with its blue LED glowing.
+0-2s: she reads and blinks slowly, heavy-eyed.
+2-4s: her eyelids close and her head sinks into the pillow.
+4-6s: the open book slowly tips out of her relaxed hand and falls onto the duvet; she is fast asleep, face completely relaxed, hair moving very slightly.
+Sound: the soft thud of the book, room tone. No words.
+No captions. No on-screen text. No logos other than the product. No music.
+	A20 Rested alarm (same framing as the snooze shot)
+	Rows 32-33 (use seconds 0-4.5 only).
+Seedance 2.5 on Higgsfield, omni-reference, 9:16, 6 s, audio on. @Video 1 = the chosen A16 take. @Image 1 = the YOU character A1. @Image 2 = the white Spin360 reference.
+
+
+@Video 1 defines the framing, the nightstand, the phone, the bed and the camera position. Copy them exactly. @Image 1 defines the woman's face and hair only. @Image 2 is the Spin360 (white floor air circulator, round clear grille head, white top cap, slim white column, blue LED ring). Keep it exactly.
+
+
+THE SHOT: one single continuous take, 6 seconds, vertical, filmed on an iPhone held at the bedside, the same bedroom as @Video 1 but morning now, warm golden sunlight through the curtains, like a real clip someone posts online: slight handheld drift, natural skin, slight noise.
+The Spin360 from @Image 2 stands next to the nightstand. The duvet is already pulled back, and the woman from @Image 1 is sitting on the edge of the bed, feet on the floor.
+0-1.5s: the phone lights up and buzzes on the nightstand, its screen bright and slightly out of focus so nothing is readable; she is stretching both arms over her head, smiling.
+1.5-4.5s: the phone keeps buzzing; she keeps stretching, rolls her shoulders and glances at the window, relaxed and awake. She does NOT reach for the phone.
+4.5-6s: unhurried, she reaches over and turns the phone off.
+Sound: the same alarm chime as @Video 1, a relaxed exhale. No words.
+No captions. No readable on-screen text. No logos other than the product. No music.
+	A21 Match cut adult, Step 1 (image edit from the baby frame)
+	Rows 51-52, 55 (start frame for A22).
+Higgsfield image model (image edit), 9:16, 2 references. @Image 1 = the exact first frame of the 'Researchers' baby stretch used in row 51 (composition). @Image 2 = the YOU character A1 (identity).
+
+
+Keep the exact framing, camera angle, face size, face position, head tilt and head turn of the baby in @Image 1, with her eyes closed exactly where the baby's closed eyes are. Replace the baby with the woman from @Image 2 asleep in bed at night, eyes closed, a soft peaceful half-smile, cheeks a little rosy. A thick white duvet is pulled up and around her face and the top of her head like the fur hood, filling the same areas where the hood and the orange sleeping bag were. Warm bedside-lamp light, dark room around her. Real iPhone night photo with grain, natural skin, not glamorous. No text, no logos.
+CHECK: toggle against @Image 1; the face must sit in the same spot with the same tilt.
+	A22 Match cut adult, Step 2 (asleep, then reveal room and snow)
+	Row 51 cut 2 (seconds 0-3), row 52 (seconds 3-5), row 55 cut 1 (seconds 0-2, from a second take).
+Seedance 2.5 on Higgsfield, omni-reference image-to-video, 9:16, 5 s, audio on. Start frame A21 as @Image 1. @Image 2 = the white Spin360 reference. Generate 3 takes; keep the best for row 51 and the second-best for row 55.
+
+
+@Image 1 is the start frame and defines the woman's face, the duvet around her face, the framing and the lamp light. Keep them exactly. @Image 2 is the Spin360 (white floor air circulator, round clear grille head, white top cap, slim white column, blue LED ring). Keep it exactly.
+
+
+THE SHOT: one single continuous take, 5 seconds, vertical, filmed on an iPhone held in the hand, at night, like a real clip someone posts online: tiny natural handheld drift, natural skin, slight noise, nothing cinematic.
+0-3s: hold on her sleeping face; she is perfectly peaceful, a soft half-smile; a few loose hairs at her temple lift very slightly in a soft breeze.
+3-5s: the camera eases back slowly to reveal the cozy, warmly lit bedroom: the Spin360 from @Image 2 glowing blue beside the bed and, through the window behind her, snow falling outside in the dark.
+She stays asleep the whole time.
+Sound: soft room tone, a faint wind outside. No words.
+No captions. No on-screen text. No logos other than the product. No music.
+	A23 Trees in the wind (backup only)
+	Row 45, only if the pool deck shot's trees don't move enough.
+Seedance 2.5 on Higgsfield, text-to-video, 9:16, 4 s, audio on.
+
+
+THE SHOT: one single continuous take, 4 seconds, vertical, filmed on an iPhone held in the hand pointing up at the tops of tall pine and birch trees at dusk, soft blue sky, like a real clip someone posts online: slow, slight handheld drift, natural colors, slight noise.
+0-4s: the branches sway gently in a steady breeze; leaves and needles move softly.
+Sound: soft wind through trees. No voices.
+No captions. No on-screen text. No logos. No music.
+	Rules
+* The body is identical in all 4 ads. Only the hook and the "Sadly, it's not you." bridge change.
+* Babies always look safe: bundled, calm, asleep, pink cheeks, no snow on the face. Never a crying baby, never one lying on the snow, never the 7-Eleven stroller shot.
+* This ad is Denmark: crop or blur any Swedish sign, brand, label or flag.
+* No Spin360 on screen from "Sadly" until "That's what Spin360 does."
+* The picture explains, not text: no arrows, no "BEFORE/AFTER" labels, no extra graphics on top of the footage.
+* Air from the Spin360 is always a gentle breeze, never strong wind.
+* The same AI "YOU" woman (A1) everywhere, so "you" is always the same person.
+* End card: only "30-NIGHT TRIAL" and "Feels like a window's open, or send it back." No price, discount or "money-back".
+What's up to you
+Exact cut points, which stretch of each clip, the music bed, and any shot you have that tells the line better than the one suggested here.

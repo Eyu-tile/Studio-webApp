@@ -1,0 +1,181 @@
+﻿Watch: Brief - Spin360_Baby_Standup 
+
+
+The AI OVERVIEW FROM WHAT I SAID: Briefing Notes - Spin360_Baby_Standup
+hf_20261003_200508_bca54214-cd06-44c3-a0f1-b7c25e3987bd.mp4
+
+
+seedance-fan-EN (3).zip
+
+
+
+
+
+
+
+
+SPIN360_FLOOR
+SPIN360_BLADE
+
+
+
+
+
+
+
+
+Text Hooks Variations:
+1
+THIS BABY FINALLY SLEPT
+HIS MOM WASN'T READY
+2
+THIS BABY QUIT
+THE NIGHT SHIFT
+3
+MOMS STUCK ON
+THE 2AM SHIFT
+
+
+
+
+Script:
+So I used to sleep two hours a night, and now I sleep five, and when my mom found out, she cried. Not the sad crying, the "oh my God, I can feel my face again" crying. And you wanna know what did it? A fan. Yeah. Stay with me.
+Moms, you know the two-hour baby, right? You finally get him down, you tiptoe out, you lie down, you close your eyes for one second... and that's when I clock in.
+And honestly, my room wasn't helping. Door shut all night, the air just sits there, it's like sleeping in a Tupperware. And every breath I let out is carbon dioxide, so by two in the morning, guess what's in the Tupperware? Leftovers.
+So my grandpa walks in with this fan, Spin360, and my mom goes, "Dad, it's not even hot," and he goes, "It's not for the heat, it's for the air," and he turns it on.
+And I'm not gonna lie to you, I lasted eleven seconds. That soft little breeze, that shhhhh, and I was out. Bro. Turns out I wasn't cranky, I just needed the air to move.
+And my mom? Oh, my mom's a different woman. She used to work the two a.m. shift and the four a.m. shift, she was so tired she put the milk in the pantry and the cereal in the fridge. Now she sleeps, like, in an actual bed, all night, she's got opinions again, yesterday she finished a whole sentence, and my dad looked at her and goes, "You look different," and she goes, "I'm rested," and honestly, he got a little scared.
+And it's not some wind tunnel blasting you in the face like a traditional fan, it's this soft breeze moving all around the room, and the air just feels fresh, like somebody cracked a window, except the window's shut. My mom comes in to check on me and just stays there, "Oh, it feels so nice in here." Lady, that's my room.
+And me? I wake up five hours later feeling like a guy who just got back from a cruise.
+So moms, this isn't about cooling the room. It's about moving the air. A baby who sleeps, a mom who sleeps—and Dad? Dad was sleeping anyway. It's called Spin360. Tap below.
+And if your baby starts sleeping five hours, tell him I'm sorry. The night shift is over.
+
+
+
+
+Chunks
+
+
+Chunk 1 — 25s
+Generate a photorealistic live-action vertical 9:16 video, 25 seconds, one continuous stand-up set edited like a multi-camera comedy special: hard cuts between fixed camera angles, same performance, same moment, same room.
+CHARACTER:
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He stands upright on his own two feet at center stage, steady and confident, and performs like a seasoned American stand-up comedian. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+A classic black wired microphone sits on a mic stand lowered all the way down to his mouth height. His hands stay free for small, occasional gestures, and now and then he rests one hand on the mic stand. Beside him stands a simple wooden stool with a baby bottle of milk on it, where a comedian would keep a glass of water. The stage holds only the baby, the mic stand and the stool.
+LOCATION:
+A small, real American comedy club at night. Low ceiling, intimate stage, dark red curtain behind him, exposed brick, black painted walls, one warm spotlight on the stage, small round tables with drinks, dim warm house lights. The audience is ordinary American adults in their late twenties and thirties, many of them young parents.
+LOOK:
+Authentic documentary stand-up footage, natural exposure, no color grading, real skin texture, physically realistic light from the spotlight, slight lens softness, authentic shallow depth of field. Every camera angle is fixed, with only extremely subtle natural operator movement. In close and medium shots the camera sits at his eye level.
+VOICE AND PERFORMANCE:
+Spoken language: American English. His voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, with a dry, confident comedian's delivery. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought. He pauses only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, with small natural facial reactions, raised eyebrows and side glances at the audience. Gestures stay small and occasional.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover his voice.
+EMOTIONAL ARC:
+Starts confident and a little proud, like he is sharing big personal news. "A fan." lands completely deadpan. Then he turns to the moms in the room with knowing, conspiratorial energy, and "that's when I clock in" lands like a proud confession.
+SHOTS AND DIALOGUE, say exactly:
+0-4s: Medium shot from the front, the baby centered under the spotlight. He says: {So I used to sleep two hours a night, and now I sleep five,}
+4-10s: Close-up of his face. He says: {and when my mom found out, she cried. Not the sad crying, the "oh my God, I can feel my face again" crying.}
+10-13s: Wide shot from the back of the club, over the heads of the audience, the baby small and bright on the stage. He says: {And you wanna know what did it?}
+13-16s: Tight close-up, eyebrows raised, completely deadpan. He says: {A fan.} One-second pause. {Yeah. Stay with me.} <a few people in the audience laugh>
+16-21s: Side profile medium shot from stage left; he turns his head toward the front tables. He says: {Moms, you know the two-hour baby, right? You finally get him down, you tiptoe out, you lie down,}
+21-25s: Medium shot from the front, slightly low angle. He says: {you close your eyes for one second... and that's when I clock in.} <the audience laughs>
+No captions. No on-screen text. No logos. No background music, keep the room sound.
+Chunk 2 — 27s
+
+
+Generate a photorealistic live-action vertical 9:16 video, 27 seconds, one continuous stand-up set edited like a multi-camera comedy special: hard cuts between fixed camera angles, same performance, same moment, same room.
+CHARACTER:
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He stands upright on his own two feet at center stage, steady and confident, and performs like a seasoned American stand-up comedian. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+A classic black wired microphone sits on a mic stand lowered all the way down to his mouth height. His hands stay free for small, occasional gestures, and now and then he rests one hand on the mic stand. Beside him stands a simple wooden stool with a baby bottle of milk on it, where a comedian would keep a glass of water. The stage holds only the baby, the mic stand and the stool.
+LOCATION:
+A small, real American comedy club at night. Low ceiling, intimate stage, dark red curtain behind him, exposed brick, black painted walls, one warm spotlight on the stage, small round tables with drinks, dim warm house lights. The audience is ordinary American adults in their late twenties and thirties, many of them young parents.
+LOOK:
+Authentic documentary stand-up footage, natural exposure, no color grading, real skin texture, physically realistic light from the spotlight, slight lens softness, authentic shallow depth of field. Every camera angle is fixed, with only extremely subtle natural operator movement. In close and medium shots the camera sits at his eye level.
+VOICE AND PERFORMANCE:
+Spoken language: American English. His voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, with a dry, confident comedian's delivery. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought. He pauses only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, with small natural facial reactions, raised eyebrows and side glances at the audience. Gestures stay small and occasional.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover his voice.
+EMOTIONAL ARC:
+He complains about his room like a guy complaining about a bad hotel. "Leftovers." is a dry deadpan punch followed by a beat of silence. Then storytelling energy: he briefly imitates his mom's exasperated voice, then his grandpa's calm, gravelly old-man voice.
+SHOTS AND DIALOGUE, say exactly:
+0-5s: Medium shot from the front. He says: {And honestly, my room wasn't helping. Door shut all night, the air just sits there,}
+5-7s: Close-up; he wrinkles his nose. He says: {it's like sleeping in a Tupperware.}
+7-13s: Side profile medium shot from stage right. He says: {And every breath I let out is carbon dioxide, so by two in the morning, guess what's in the Tupperware?}
+13-15s: Tight close-up, a flat stare straight at the audience. He says: {Leftovers.} He holds the stare in silence.
+15-17s: Cut to the audience: an American woman in her thirties at a front table laughs with her hand over her mouth. <the audience laughs>
+17-22s: Wide shot from the back of the club. He says: {So my grandpa walks in with this fan, Spin three-sixty, and my mom goes, "Dad, it's not even hot,"}
+22-27s: Medium shot from the front, slightly low angle. He says: {and he goes, "It's not for the heat, it's for the air," and he turns it on.}
+No captions. No on-screen text. No logos. No background music, keep the room sound.
+Chunk 3 — 26s
+
+
+Generate a photorealistic live-action vertical 9:16 video, 26 seconds, one continuous stand-up set edited like a multi-camera comedy special: hard cuts between fixed camera angles, same performance, same moment, same room.
+CHARACTER:
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He stands upright on his own two feet at center stage, steady and confident, and performs like a seasoned American stand-up comedian. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+A classic black wired microphone sits on a mic stand lowered all the way down to his mouth height. His hands stay free for small, occasional gestures, and now and then he rests one hand on the mic stand. Beside him stands a simple wooden stool with a baby bottle of milk on it, where a comedian would keep a glass of water. The stage holds only the baby, the mic stand and the stool.
+LOCATION:
+A small, real American comedy club at night. Low ceiling, intimate stage, dark red curtain behind him, exposed brick, black painted walls, one warm spotlight on the stage, small round tables with drinks, dim warm house lights. The audience is ordinary American adults in their late twenties and thirties, many of them young parents.
+LOOK:
+Authentic documentary stand-up footage, natural exposure, no color grading, real skin texture, physically realistic light from the spotlight, slight lens softness, authentic shallow depth of field. Every camera angle is fixed, with only extremely subtle natural operator movement. In close and medium shots the camera sits at his eye level.
+VOICE AND PERFORMANCE:
+Spoken language: American English. His voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, with a dry, confident comedian's delivery. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought. He pauses only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, with small natural facial reactions, raised eyebrows and side glances at the audience. Gestures stay small and occasional.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover his voice.
+EMOTIONAL ARC:
+Starts confessional and a little embarrassed. While describing the breeze his eyes grow soft and heavy, remembering. "Bro." is a sudden snap back to wide-eyed disbelief at himself. Then warm and proud talking about his mom, and the milk-and-cereal line ends in a long deadpan pause.
+SHOTS AND DIALOGUE, say exactly:
+0-3s: Medium shot from the front. He says: {And I'm not gonna lie to you, I lasted eleven seconds.}
+3-7s: Close-up; his eyelids grow heavy and his voice softens as he remembers. He says: {That soft little breeze, that shhhhh, and I was out.}
+7-8s: Extreme close-up; his eyes snap wide open in disbelief. He says: {Bro.}
+8-11s: Wide shot from the back of the club. He says: {Turns out I wasn't cranky, I just needed the air to move.}
+11-14s: Side profile medium shot from stage left; he turns warmly toward the audience. He says: {And my mom? Oh, my mom's a different woman.}
+14-24s: Medium shot from the front, slightly low angle. He says: {She used to work the two a.m. shift and the four a.m. shift, she was so tired she put the milk in the pantry and the cereal in the fridge.} Then he stops and holds a long deadpan pause, staring at the audience.
+24-26s: Cut to the audience: an American mom in her thirties in the front row laughs, points at herself and nods. <the audience laughs>
+No captions. No on-screen text. No logos. No background music, keep the room sound.
+Chunk 4 — 27s
+
+
+Generate a photorealistic live-action vertical 9:16 video, 27 seconds, one continuous stand-up set edited like a multi-camera comedy special: hard cuts between fixed camera angles, same performance, same moment, same room.
+CHARACTER:
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He stands upright on his own two feet at center stage, steady and confident, and performs like a seasoned American stand-up comedian. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+A classic black wired microphone sits on a mic stand lowered all the way down to his mouth height. His hands stay free for small, occasional gestures, and now and then he rests one hand on the mic stand. Beside him stands a simple wooden stool with a baby bottle of milk on it, where a comedian would keep a glass of water. The stage holds only the baby, the mic stand and the stool.
+LOCATION:
+A small, real American comedy club at night. Low ceiling, intimate stage, dark red curtain behind him, exposed brick, black painted walls, one warm spotlight on the stage, small round tables with drinks, dim warm house lights. The audience is ordinary American adults in their late twenties and thirties, many of them young parents.
+LOOK:
+Authentic documentary stand-up footage, natural exposure, no color grading, real skin texture, physically realistic light from the spotlight, slight lens softness, authentic shallow depth of field. Every camera angle is fixed, with only extremely subtle natural operator movement. In close and medium shots the camera sits at his eye level.
+VOICE AND PERFORMANCE:
+Spoken language: American English. His voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, with a dry, confident comedian's delivery. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought. He pauses only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, with small natural facial reactions, raised eyebrows and side glances at the audience. Gestures stay small and occasional.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover his voice.
+EMOTIONAL ARC:
+Proud and amazed as he tells how his mom changed; he drops his voice low and conspiratorial for "he got a little scared." Then calm and sincere describing the breeze, still dry, never a salesman.
+SHOTS AND DIALOGUE, say exactly:
+0-3s: Close-up of his face. He says: {Now she sleeps, like, in an actual bed, all night,}
+3-6s: Medium shot from the front. He says: {she's got opinions again, yesterday she finished a whole sentence,}
+6-11s: Side profile medium shot from stage right; he briefly imitates his dad's confused voice, then his mom's calm, satisfied voice. He says: {and my dad looked at her and goes, "You look different," and she goes, "I'm rested,"}
+11-14s: Tight close-up; he leans toward the mic and lowers his voice. He says: {and honestly, he got a little scared.}
+14-16s: Cut to the audience: an American man in his thirties laughs, and the American woman next to him playfully elbows him. <the audience laughs>
+16-23s: Wide shot from the back of the club. He says: {And it's not some wind tunnel blasting you in the face like a traditional fan, it's this soft breeze moving all around the room,}
+23-27s: Medium shot from the front; one small hand makes a slow, gentle wave in the air. He says: {and the air just feels fresh, like somebody cracked a window, except the window's shut.}
+No captions. No on-screen text. No logos. No background music, keep the room sound.
+Chunk 5 — 30s
+
+
+Generate a photorealistic live-action vertical 9:16 video, 30 seconds, one continuous stand-up set edited like a multi-camera comedy special: hard cuts between fixed camera angles, same performance, same moment, same room.
+CHARACTER:
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He stands upright on his own two feet at center stage, steady and confident, and performs like a seasoned American stand-up comedian. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+A classic black wired microphone sits on a mic stand lowered all the way down to his mouth height. His hands stay free for small, occasional gestures, and now and then he rests one hand on the mic stand. Beside him stands a simple wooden stool with a baby bottle of milk on it, where a comedian would keep a glass of water. The stage holds only the baby, the mic stand and the stool.
+LOCATION:
+A small, real American comedy club at night. Low ceiling, intimate stage, dark red curtain behind him, exposed brick, black painted walls, one warm spotlight on the stage, small round tables with drinks, dim warm house lights. The audience is ordinary American adults in their late twenties and thirties, many of them young parents.
+LOOK:
+Authentic documentary stand-up footage, natural exposure, no color grading, real skin texture, physically realistic light from the spotlight, slight lens softness, authentic shallow depth of field. Every camera angle is fixed, with only extremely subtle natural operator movement. In close and medium shots the camera sits at his eye level.
+VOICE AND PERFORMANCE:
+Spoken language: American English. His voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, with a dry, confident comedian's delivery. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought. He pauses only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, with small natural facial reactions, raised eyebrows and side glances at the audience. Gestures stay small and occasional.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover his voice.
+EMOTIONAL ARC:
+Starts with mock outrage at his mom taking over his room. Smug and relaxed for the cruise line. The pitch stays inside the comedian's personality, warm and direct to the moms. "Dad was sleeping anyway" is a dry, shrugging deadpan punch. The last line is a soft, slightly guilty callback, like apologizing to a coworker.
+SHOTS AND DIALOGUE, say exactly:
+0-5s: Side profile medium shot from stage left; he imitates his mom's dreamy voice. He says: {My mom comes in to check on me and just stays there, "Oh, it feels so nice in here."}
+5-7s: Tight close-up, flat deadpan. He says: {Lady, that's my room.} <the audience laughs>
+7-13s: Medium shot from the front; he leans one hand on the mic stand, smug and relaxed. He says: {And me? I wake up five hours later feeling like a guy who just got back from a cruise.}
+13-17s: Wide shot from the back of the club. He says: {So moms, this isn't about cooling the room. It's about moving the air.}
+17-20s: Close-up of his face. He says: {A baby who sleeps, a mom who sleeps—and Dad?}
+20-22s: Tight close-up; a tiny beat, then completely deadpan. He says: {Dad was sleeping anyway.} <the audience laughs>
+22-24s: Medium shot from the front, slightly low angle; he points down with one small finger. He says: {It's called Spin three-sixty. Tap below.}
+24-30s: Close-up; softer, a little guilty. He says: {And if your baby starts sleeping five hours, tell him I'm sorry.} A short beat. {The night shift is over.}
+No captions. No on-screen text. No logos. No background music, keep the room sound.

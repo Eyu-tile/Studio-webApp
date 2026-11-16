@@ -1,0 +1,1949 @@
+[
+ {
+  "id": "1be6a22c-dda0-458f-b531-d5638e3d4164",
+  "kind": "ugc_talking_head",
+  "summary": "Michael, seated on a bed in a black button-down shirt, delivers a full scripted testimonial (friend showed him Spin360, he sleeps through the night) to a static vertical camera.",
+  "people": [
+   {
+    "who": "man, 30s, short dark hair, ring on right hand",
+    "wardrobe": "black long-sleeve button-down shirt, sleeves rolled",
+    "role": "creator"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "bedroom",
+   "time": "day",
+   "light": "mixed",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 178.4,
+    "camera": "static",
+    "framing": "medium",
+    "action": "man sits on bed edge talking to camera, gesturing with both hands; red LED glow on wall left, framed dancer/sculpture print, red pillows, chunky knit blanket behind; slight lean-ins at 36s and 108s",
+    "on_screen_text": "",
+    "audio_hint": "single-take scripted monologue to camera, repeated lines"
+   }
+  ],
+  "best": {
+   "start": 3.6,
+   "end": 16.0,
+   "why": "tight hook 'Last summer, I hit a wall.' plus 'The moment my friend turned this on, I knew I was taking it home.'"
+  },
+  "beats": [
+   "talking_to_camera",
+   "hot_sleeper_problem",
+   "sweaty_discomfort",
+   "sleeping_comfort",
+   "waking_refreshed",
+   "family_kids"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "short punchy opener 'Last summer, I hit a wall.' but no visual hook"
+  },
+  "brand_fit": {
+   "score": 1,
+   "why": "tidy bedroom but red neon glow and dark shirt read moody, not airy/sunlit"
+  },
+  "quality": {
+   "score": 3,
+   "issues": [
+    "vertical crop risk"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "No product on screen. Claims to check: 'It cooled the whole room down, like the heat just started disappearing'; 'I slept through the night. No tossing, no turning, no waking up sweating'; 'I woke up before my alarm'; 'you probably don't need air that blows harder'.",
+  "tags": [
+   "man talking to camera on bed",
+   "red neon bedroom",
+   "friend recommendation story",
+   "dad energy morning kids",
+   "slept through the night testimonial",
+   "black shirt creator Michael"
+  ],
+  "takes": [
+   {
+    "start": 0.3,
+    "line": "Last summer, I hit a wall.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 3.6,
+    "line": "Last summer, I hit a wall. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 7.1,
+    "line": "The moment my friend turned this on, I knew I was taking it home.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 12.0,
+    "line": "The moment my friend turned this on... (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 16.9,
+    "line": "I remember one morning specifically. My alarm went off...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 43.6,
+    "line": "But I was running on empty, and I knew exactly why. Our bedroom gets so hot...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 69.4,
+    "line": "Then about a month ago, a friend showed me something... Spin 360...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 84.6,
+    "line": "That first night, I turned it on, got into bed and just exhaled.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 89.5,
+    "line": "That first night... just exhaled. (repeat) The air in my room was moving...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 132.7,
+    "line": "I slept through the night. No tossing, no turning...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 154.2,
+    "line": "So if summer nights are stealing the energy you need the next morning...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 167.0,
+    "line": "So if summer n... (restart of CTA line)",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   3.6,
+   12.0,
+   16.9,
+   43.6,
+   69.4,
+   89.5,
+   132.7,
+   154.2
+  ],
+  "speaker": {
+   "look": "dark-haired man 30s, black button-down, ring on right hand, calm steady delivery, lots of open-hand gestures",
+   "setting": "bedroom, seated on bed; red LED wall glow, framed print of sculpture, red cushions, knit throw",
+   "props": "none"
+  }
+ },
+ {
+  "id": "527ac7aa-ed7f-48c6-a42d-6e589551d168",
+  "kind": "ugc_talking_head",
+  "summary": "Brunette woman in a pink plaid shirt sits on a brown sofa in a wide, full-body, low-angle shot and reads a core-temperature / double-vortex script with many repeated pickups.",
+  "people": [
+   {
+    "who": "woman, 40s, brown hair tied back, barefoot",
+    "wardrobe": "pink/orange/white plaid short-sleeve shirt, sage-green cargo pants, clip-on mic",
+    "role": "creator"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 197.56,
+    "camera": "static",
+    "framing": "wide",
+    "action": "woman seated on edge of brown sofa, talking to camera with hand gestures; large gold-framed grey abstract seascape painting, standing cage lamp, brown leather recliner, striped cushion, cream carpet; position barely changes",
+    "on_screen_text": "",
+    "audio_hint": "single-take scripted monologue to camera, repeated lines"
+   }
+  ],
+  "best": {
+   "start": 58.6,
+   "end": 64.0,
+   "why": "lively, clean 'Your bedroom is probably just too hot. That was me, and I already had a fan.'"
+  },
+  "beats": [
+   "talking_to_camera",
+   "hot_sleeper_problem",
+   "sweaty_discomfort",
+   "old_fan_annoyance",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "relatable opener 'When the temperature in your bedroom goes up and your sleep quality goes down' but wide static framing is weak for a scroll-stop"
+  },
+  "brand_fit": {
+   "score": 1,
+   "why": "bright but ordinary living room, dark brown sofa, wide low angle; no breeze/view"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "vertical crop risk",
+    "wide framing: face small, needs crop"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "No product on screen. Claims: 'Your body is naturally designed to sleep in a cooler environment'; 'It actually needs to lower its core temperature to fall asleep and stay asleep'; 'patented double vortex design'; 'a normal fan only pushes one stream of air directly at you'; 'The whole bedroom feels cooler'.",
+  "tags": [
+   "woman on brown sofa talking to camera",
+   "pink plaid shirt green pants",
+   "full body wide talking head",
+   "core temperature sleep science",
+   "double vortex explainer",
+   "Cool the room around you CTA"
+  ],
+  "takes": [
+   {
+    "start": 0.4,
+    "line": "When the temperature in your bedroom goes up and your sleep quality goes down.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 5.6,
+    "line": "And I had no idea how much this was affecting me.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 9.6,
+    "line": "And I had no idea how much this was affecting me. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 12.8,
+    "line": "Your body is naturally designed to sleep in a cooler environment.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 16.4,
+    "line": "Your body is naturally designed... (repeat 2)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 20.0,
+    "line": "Your body is naturally designed... (repeat 3)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 23.5,
+    "line": "It actually needs to lower its core temperature to fall asleep.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 27.4,
+    "line": "And stay asleep",
+    "delivery": "clean",
+    "energy": 1,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 29.0,
+    "line": "and stay asleep (repeat)",
+    "delivery": "clean",
+    "energy": 1,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 30.6,
+    "line": "and stay asleep (repeat 3)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 32.2,
+    "line": "So if every summer you're tossing around, kicking the covers off, flipping your pillows...",
+    "delivery": "stumble",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 40.0,
+    "line": "and flipping your pillow to the cold side (pickup)",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 45.0,
+    "line": "and flipping your pillow to the cold side (pickup 3)",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 49.2,
+    "line": "and somehow waking up exhausted after 8 hours of sleep,",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 52.6,
+    "line": "and somehow waking up exhausted after 8 hours of sleep, your bedroom is probably just too hot.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 58.6,
+    "line": "Your bedroom is probably just too hot. That was me, and I already had a fan.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 64.1,
+    "line": "That was me, and I already had a fan. But a normal fan only pushes one stream...",
+    "delivery": "stumble",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 74.0,
+    "line": "so I'd either have one freezing arm, or I would turn it away and barely feel anything",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 83.0,
+    "line": "Then I found Spin 360.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 85.0,
+    "line": "Then I found Spin 360. (repeat)",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 87.0,
+    "line": "Then I found Spin 360. (repeat 3)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 89.6,
+    "line": "It uses this patented double vortex design and pulls air from above and below...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 95.9,
+    "line": "It uses this patented double vortex design that pulls air in from above and below... circulates it around the entire bedroom",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 104.0,
+    "line": "Then circulates it around the entire bedroom (pickup)",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 107.5,
+    "line": "then circulates it around the entire bedroom (pickup 2)",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 110.9,
+    "line": "So instead of getting blasted by one harsh stream of air,",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 114.4,
+    "line": "so instead of getting blasted by one harsh stream of air, you almost get this gentle breeze... around the bed",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 127.0,
+    "line": "And that's what feels so different. And th... (restart)",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 130.2,
+    "line": "The whole bedroom feels cooler, lighter, and less stagnant.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 133.9,
+    "line": "The whole bedroom feels cooler, lighter, and less stagnant. Almost like you opened every window...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 145.0,
+    "line": "Almost like you opened every window and there's this perfect breeze... (repeat)",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 157.1,
+    "line": "I spent years thinking that summer just meant sleeping badly.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 160.8,
+    "line": "I spent years thinking that summer just meant I would sleep badly. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 164.5,
+    "line": "I spent years thinking... It turns out I was trying to sleep in a hot box with barely any air movement.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 172.7,
+    "line": "So if you're waking up exhausted every summer,",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 175.7,
+    "line": "so if you're waking up exhausted every summer, (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 178.8,
+    "line": "don't just cool one side of your body.",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 180.7,
+    "line": "Don't just cool one side of your body. Cool the room around you with Spin 360.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 184.0,
+    "line": "Cool the room around you with Spin 360. (repeat 2)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 187.0,
+    "line": "Cool the room around you with Spin 360. (repeat 3)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 190.0,
+    "line": "Cool the room around you with Spin 360. (repeat 4)",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 193.5,
+    "line": "Cool the room around you... (repeat 5, runs to end of file)",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   }
+  ],
+  "best_takes": [
+   0.4,
+   9.6,
+   20.0,
+   23.5,
+   30.6,
+   32.2,
+   45.0,
+   52.6,
+   58.6,
+   74.0,
+   85.0,
+   95.9,
+   104.0,
+   114.4,
+   133.9,
+   145.0,
+   164.5,
+   175.7,
+   190.0
+  ],
+  "speaker": {
+   "look": "brunette woman 40s, hair tied back, pink plaid shirt, sage cargo pants, barefoot, warm smiling delivery",
+   "setting": "living room, seated on brown microsuede sofa, gold-framed seascape painting above, cream carpet; matches the IMG_97xx 'B roll' house woman (pink plaid shirt)",
+   "props": "clip-on wireless mic on shirt"
+  }
+ },
+ {
+  "id": "fda48d86-d5bf-4d9b-943f-6a30a74dac06",
+  "kind": "ugc_talking_head",
+  "summary": "Ponytailed brunette woman in an olive graphic tee, selfie-framed in a brown leather chair, delivers a ~10 min 'sister's house' hot-sleeper story and airflow explainer with many repeated lines; one jump cut at 259.4s.",
+  "people": [
+   {
+    "who": "woman, 40s, brown hair in low ponytail, pink nails, rings",
+    "wardrobe": "olive-green tee with mason-jar/fireflies print ('Matthew 5:14' text), clip-on mic",
+    "role": "creator"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 259.4,
+    "camera": "selfie",
+    "framing": "close",
+    "action": "woman in brown leather chair talks to camera chest-up, big hand gestures close to lens; framed 'Do small things with great love' sign behind (text mirrored)",
+    "on_screen_text": "",
+    "audio_hint": "scripted monologue, repeated lines"
+   },
+   {
+    "start": 259.4,
+    "end": 591.48,
+    "camera": "selfie",
+    "framing": "close",
+    "action": "jump cut, same set-up continues; sheets end at 408s so 408-591s not seen",
+    "on_screen_text": "",
+    "audio_hint": "scripted monologue, repeated lines, CTA at end"
+   }
+  ],
+  "best": {
+   "start": 202.0,
+   "end": 212.0,
+   "why": "most animated moment: 'She points at this thing.' with finger up and wide eyes (204s), then 'Spin 360.'"
+  },
+  "beats": [
+   "talking_to_camera",
+   "hot_sleeper_problem",
+   "sweaty_discomfort",
+   "old_fan_annoyance",
+   "noise_problem",
+   "sleeping_comfort",
+   "reaction_face",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "'This is not just being a hot sleeper' + '2:17 in the morning, hair stuck to my neck' are strong relatable lines; expressive face"
+  },
+  "brand_fit": {
+   "score": 1,
+   "why": "plain beige wall and leather chair, close selfie; genuine but not luxe"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "vertical crop risk",
+    "mirrored image (sign text reversed)",
+    "hands close to lens/motion blur",
+    "408-591s not covered by sheets"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "No product on screen; selfie mirrored. Claims: 'patented double vortex design where it pulls air in from above and below'; 'Your body naturally needs to lower its core temperature as you fall asleep and stay asleep'; 'On the lower speeds, it's nearly silent'; 'it basically just becomes white noise'; 'I slept under an actual blanket in July'; 'Spin 360 completely changed how my bedroom feels at night'. Frames after 408s unseen.",
+  "tags": [
+   "woman selfie talking head leather chair",
+   "olive t-shirt ponytail",
+   "hot sleeper 2:17am story",
+   "sister's house discovery story",
+   "regular fan one freezing arm",
+   "jet engine fan comparison",
+   "nearly silent white noise",
+   "Tap below and check it out CTA"
+  ],
+  "takes": [
+   {
+    "start": 0.6,
+    "line": "This is not just being a hot sleeper.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 3.4,
+    "line": "This is not just being a hot sleeper. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 6.2,
+    "line": "This is not just being a hot sleeper. (repeat 3, eyes off camera)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": false
+   },
+   {
+    "start": 9.0,
+    "line": "And then I would drag myself through the next morning wondering why 8 hours in bed still felt like 5.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 17.0,
+    "line": "And then I would drag myself... felt like 5. (repeat)",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 25.0,
+    "line": "And then I would drag... (repeat 3)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 33.4,
+    "line": "but then I started paying attention to what those 8 hours actually looked like.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 37.3,
+    "line": "But then I started paying attention... (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 41.2,
+    "line": "And no, buying another cooling pillow ain't gonna fix it.",
+    "delivery": "laugh",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 45.2,
+    "line": "And no, buying another cooling pillow isn't gonna fix it.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 49.2,
+    "line": "And no, buying another cooling pillow isn't gonna fix it. (repeat 3)",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 53.2,
+    "line": "Because if you sleep hot, you've probably tried at least one of these.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 57.0,
+    "line": "Because if you sleep hot... cooling sheets, lighter pajamas, a thinner duvet, a thinner duvet, 2 fans...",
+    "delivery": "stumble",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 85.0,
+    "line": "I did all of them.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 86.5,
+    "line": "I did all of them. And sure, some helped for like 20 minutes.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 93.0,
+    "line": "Then I'd wake up at 2:17 in the morning.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 98.0,
+    "line": "Then I'd wake up at 2:17 in the morning, hot, blanket kicked off, hair stuck to my neck...",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 115.9,
+    "line": "And everyone had an answer.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 117.8,
+    "line": "And everyone had an answer. Turn the thermostat down. Get a better fan... So why was I still waking up hot?",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 137.1,
+    "line": "It turns out I was fixing everything except the actual room.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 141.0,
+    "line": "And once somebody explained this to me, my entire bedroom suddenly made sense.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 146.0,
+    "line": "And once somebody explained this to me... (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 150.7,
+    "line": "So last summer I stayed at my sister's house.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 153.5,
+    "line": "So last summer I stayed at my sister's house, middle of July... why does it feel so good in here?",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 172.3,
+    "line": "The air felt like it was moving everywhere.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 175.0,
+    "line": "The air felt like it was moving everywhere. You know that feeling... soft breeze across your skin?",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 190.2,
+    "line": "And then I slept under an actual blanket in July. I woke up the next morning and I asked her...",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 202.0,
+    "line": "She points at this thing.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 204.0,
+    "line": "She points at this thing. (repeat, points finger up, wide eyes)",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 206.0,
+    "line": "She points at this thing. (repeat 3)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 208.6,
+    "line": "Spin 360.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 210.5,
+    "line": "And I'm thinking, that's a fan. She goes, No, turn it on.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 216.0,
+    "line": "And within a few minutes, I understood exactly what she meant.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 221.0,
+    "line": "And within a few minutes, I understood exactly what she meant. Because it doesn't feel like a normal fan...",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 229.9,
+    "line": "There isn't this one aggressive stream blasting your arm while the rest of the room still feels warm.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 238.0,
+    "line": "The whole room just feels alive.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 240.5,
+    "line": "The whole room just feels alive. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 242.5,
+    "line": "So obviously I went home, bought one, and then became completely obsessed with figuring out why...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 250.0,
+    "line": "And this is where it gets interesting.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 252.0,
+    "line": "And this is where it gets interesting. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 253.9,
+    "line": "Your bedroom naturally has different layers of air.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 256.5,
+    "line": "Your bedroom naturally has different layers of air. (repeat, edit cut at 259.4)",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "close",
+    "keep": false
+   },
+   {
+    "start": 259.6,
+    "line": "Warmer air rises while the cooler air settles lower... (after jump cut)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 275.2,
+    "line": "Now look at what a regular fan does.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 277.2,
+    "line": "Now look at what a regular fan does. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 279.2,
+    "line": "Now look at what a regular fan does. (repeat 3)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 281.5,
+    "line": "It pulls air from behind it and shoots it forward.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 285.0,
+    "line": "It pulls air from behind it and shoots it forward. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 289.3,
+    "line": "That's it. One direction, which is great if you want one freezing arm.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 295.0,
+    "line": "That's it. One direction... freezing arm. But turn it slightly away from you and suddenly you barely feel anything.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 313.9,
+    "line": "Spin 360 works completely differently.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 316.3,
+    "line": "Spin 360 works completely differently. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 318.7,
+    "line": "Spin 360 works completely differently. (repeat 3)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 321.0,
+    "line": "It has this patented double vortex design where it pulls air in from above and below at the same time.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 337.7,
+    "line": "So instead of leaving those warmer and cooler layers sitting there, it keeps mixing the air.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 343.0,
+    "line": "It keeps mixing the air. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 345.5,
+    "line": "It keeps mixing the air. (repeat 3)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 347.7,
+    "line": "And that is the feeling I could not explain at my sister's house.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 351.0,
+    "line": "And that is the feeling I could not explain... (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 354.5,
+    "line": "And that is the feeling I couldn't explain at my sister's house. (repeat 3)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 358.1,
+    "line": "There isn't one giant blast of air.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 360.5,
+    "line": "There isn't one giant blast of air. You'll just be lying there and then feel this little breeze...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 372.4,
+    "line": "It feels natural, almost like sleeping with all the windows open on the perfect night.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 378.0,
+    "line": "It feels natural, almost like sleeping with all the windows open on a perfect summer night.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 383.9,
+    "line": "And apparently temperature matters way more for sleep than I realized.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 387.5,
+    "line": "And apparently temperature matters way more for sleep than I realized. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 391.5,
+    "line": "Your body naturally needs to lower its core temperature as you fall asleep and...",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "close",
+    "keep": false
+   },
+   {
+    "start": 397.9,
+    "line": "Your body naturally needs to lower its core temperature as you fall asleep and stay asleep.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 404.0,
+    "line": "Which explains why trying to sleep in a hot bedroom feels absolutely miserable.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 409.0,
+    "line": "Which explains why trying to sleep in a hot bedroom... (repeat; no frames after 408s)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 413.7,
+    "line": "But here's the mistake I made for years.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 416.5,
+    "line": "But here's the mistake I made for years. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 419.5,
+    "line": "I thought hot bedroom equals stronger fan.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 422.8,
+    "line": "I thought hot bedroom equals stronger fan. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 426.2,
+    "line": "So I kept buying more powerful fans... more powerful wind directly in my face. That wasn't what I wanted.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 436.1,
+    "line": "That wasn't what I wanted.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 438.0,
+    "line": "I didn't want to feel like I was sleeping behind a jet engine.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 441.5,
+    "line": "I didn't want to feel like I was sleeping behind a jet engine. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 444.5,
+    "line": "I didn't want to feel like I was sleeping behind a jet engine. (repeat 3)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 447.6,
+    "line": "I wanted the bedroom itself to feel better.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 450.0,
+    "line": "I wanted the bedroom itself to feel better. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 452.5,
+    "line": "And that's the difference.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 454.0,
+    "line": "And that's the difference. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 455.5,
+    "line": "Spin 360 isn't about blasting you harder. It's about keeping the air around you moving.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 462.4,
+    "line": "It's about keeping the air around you moving. (pickup)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 465.0,
+    "line": "And there are a couple little things that I didn't expect to care about, but now I absolutely do.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 471.0,
+    "line": "On the lower speeds, it's nearly silent.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 474.0,
+    "line": "On the lower speeds, it's nearly silent. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 476.8,
+    "line": "And when you turn it higher, you get this really steady shh. Not that annoying mechanical whoop whoop...",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 487.0,
+    "line": "It basically just becomes white noise.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 490.0,
+    "line": "It basically just becomes white noise. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 493.2,
+    "line": "So now my bedtime routine is embarrassingly simple.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 496.5,
+    "line": "So now my bedtime routine is embarrassingly simple. Spin 360 on, lights off, get under the covers, and I actually stay there.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 506.0,
+    "line": "I'm not doing one leg out, both legs out, blanket on, blanket off... None of that.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 525.0,
+    "line": "I'm not doing one leg ou... (restart)",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": false
+   },
+   {
+    "start": 535.2,
+    "line": "And this just might be the weirdest part— you stop noticing the fan.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 540.0,
+    "line": "You stop noticing the fan. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 542.9,
+    "line": "You just notice that the room feels good, like somebody removed the walls of your bedroom...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 551.5,
+    "line": "That's the closest way that I can describe it. And now whenever I sleep somewhere without it... the air just feels dead.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 560.0,
+    "line": "The air just feels dead. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 562.5,
+    "line": "So if you've spent years saying, I'm just a hot sleeper, before you buy another cooling pillow...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 575.1,
+    "line": "Because for me, that was the thing that nobody had explained.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 579.0,
+    "line": "Spin 360 completely changed how my bedroom feels at night.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 583.5,
+    "line": "Spin 360 completely changed how my bedroom feels at night. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 588.1,
+    "line": "Tap below and check it out.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": true
+   },
+   {
+    "start": 589.8,
+    "line": "Tap below and check it out. (repeat, ends at file end)",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "unclear",
+    "keep": false
+   }
+  ],
+  "best_takes": [
+   3.4,
+   17.0,
+   37.3,
+   49.2,
+   57.0,
+   86.5,
+   98.0,
+   117.8,
+   137.1,
+   146.0,
+   153.5,
+   175.0,
+   190.2,
+   204.0,
+   208.6,
+   210.5,
+   221.0,
+   229.9,
+   240.5,
+   242.5,
+   252.0,
+   253.9,
+   259.6,
+   279.2,
+   285.0,
+   295.0,
+   318.7,
+   321.0,
+   337.7,
+   354.5,
+   360.5,
+   378.0,
+   387.5,
+   397.9,
+   404.0,
+   416.5,
+   422.8,
+   426.2,
+   444.5,
+   450.0,
+   454.0,
+   455.5,
+   465.0,
+   474.0,
+   476.8,
+   490.0,
+   496.5,
+   506.0,
+   535.2,
+   542.9,
+   551.5,
+   562.5,
+   575.1,
+   583.5,
+   588.1
+  ],
+  "speaker": {
+   "look": "brunette woman 40s, low ponytail, olive graphic tee, very expressive face and hands",
+   "setting": "brown leather armchair against beige wall, framed 'Do small things with great love' sign; likely same woman as Script 1 / Script 3",
+   "props": "clip-on wireless mic"
+  }
+ },
+ {
+  "id": "8d7b71e5-094e-4db0-8dac-87e60c34d9fd",
+  "kind": "ugc_talking_head",
+  "summary": "Ponytailed brunette woman in a light-blue lace-pocket tee, selfie-framed in front of a sage-green wall with family photos, delivers the 'Swedish babies nap outside' script ending in the 360 airflow, quiet and scent-pod pitch.",
+  "people": [
+   {
+    "who": "woman, 40s, brown hair in low ponytail, pink nails, ring",
+    "wardrobe": "light-blue tee with lace pocket, clip-on mic",
+    "role": "creator"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 175.87,
+    "camera": "selfie",
+    "framing": "close",
+    "action": "woman seated on patterned sofa talks to camera chest-up with hand gestures; sage-green wall with framed wedding/family photos, white slat sign reading 'together' (mirrored); glances off camera at 12s and 144s",
+    "on_screen_text": "",
+    "audio_hint": "single-take scripted monologue to camera, repeated lines"
+   }
+  ],
+  "best": {
+   "start": 0.3,
+   "end": 9.0,
+   "why": "scroll-stopping hook 'This is legal in Sweden. In America, somebody would probably call the police.'"
+  },
+  "beats": [
+   "talking_to_camera",
+   "hot_sleeper_problem",
+   "old_fan_annoyance",
+   "quiet_demo",
+   "sleeping_comfort",
+   "scent_tray"
+  ],
+  "hook_potential": {
+   "score": 3,
+   "why": "curiosity hook 'This is legal in Sweden...' delivered cleanly in one take"
+  },
+  "brand_fit": {
+   "score": 1,
+   "why": "bright daylight but plain living room with family photo wall, close selfie; no breeze/view"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "vertical crop risk",
+    "mirrored image (sign text reversed)",
+    "personal family photos on wall"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "Baby/sleep claim: 'researchers have found that babies can sleep significantly longer outdoors than indoors'; also 'On speeds 1 through 5, it is incredibly quiet', 'sends it around the room at 360 degrees', 'what we tried to recreate with the Spin 360' (speaks as the brand). Family wedding photos on wall = personal info.",
+  "tags": [
+   "Swedish babies nap outside hook",
+   "woman light blue tee talking head",
+   "sage green wall family photos",
+   "Saturn's rings airflow",
+   "speeds 1 to 5 quiet",
+   "scent pod mention",
+   "normal fan feels outdated"
+  ],
+  "takes": [
+   {
+    "start": 0.3,
+    "line": "This is legal in Sweden. In America, somebody would probably call the police.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 5.8,
+    "line": "But in Sweden, this is just how babies nap.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 9.1,
+    "line": "But in Sweden, this is just how babies nap. Rows of strollers parked outside cafes... On purpose.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 21.4,
+    "line": "On purpose.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 23.1,
+    "line": "And researchers have found that babies can sleep significantly longer outdoors than indoors.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 28.4,
+    "line": "And researchers have found... which sounds insane until you understand what's actually different...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 42.8,
+    "line": "It's the air.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 44.7,
+    "line": "Outside, the air is constantly moving. There's always some tiny breeze across your skin.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 51.1,
+    "line": "There's always some tiny breeze across your skin. Then you go inside, windows shut... the air just sits there.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 59.9,
+    "line": "That idea completely changed how I thought about sleep.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 63.3,
+    "line": "That idea completely changed how I thought about sleep. Because why does sleeping outside on a perfect night feel so good?",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 71.7,
+    "line": "Because why does sleeping outside on a perfect night feel so good? It's not just the temperature...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 80.2,
+    "line": "It's not just the temperature... And that's basically what we tried to recreate with the Spin 360.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 89.4,
+    "line": "Instead of a normal fan pulling air from behind it... Spin 360 pulls air in from above and below and sends it around the room at 360 degrees.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 101.6,
+    "line": "Spin 360 pulls air in from above and below and then sends it around the room in 360 degrees.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 107.4,
+    "line": "Almost like Saturn's rings.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 109.8,
+    "line": "Almost like Saturn's rings. And it doesn't feel like a mechanical fan. It feels like a breeze.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 117.3,
+    "line": "It feels like a breeze.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 119.6,
+    "line": "The first time you lie in bed with it running, the room almost feels like the walls disappeared...",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 128.3,
+    "line": "Like your bed is outside... On speeds 1 through 5, it is incredibly quiet.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 135.6,
+    "line": "On speeds 1 through 5, it's incredibly quiet.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 139.0,
+    "line": "On speeds 1 through 5, it is incredibly quiet. Turn it higher and you get this soft shh that sounds more like wind than a fan.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 148.7,
+    "line": "And you can even drop in a scent pod so the fragrance travels with the airflow through the room.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 153.8,
+    "line": "And you can even drop in a scent pod so that the fragrance will travel with the airflow throughout the room.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 158.8,
+    "line": "Once you actually feel the difference between air being blown at you and air moving around you, A normal fan starts to feel pretty outdated.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 168.4,
+    "line": "Once you actually feel the difference... a normal fan starts to feel pretty outdated. (repeat)",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.3,
+   9.1,
+   21.4,
+   28.4,
+   42.8,
+   44.7,
+   51.1,
+   63.3,
+   71.7,
+   80.2,
+   89.4,
+   101.6,
+   109.8,
+   117.3,
+   119.6,
+   139.0,
+   153.8,
+   168.4
+  ],
+  "speaker": {
+   "look": "brunette woman 40s, low ponytail, light-blue lace-pocket tee, warm conversational delivery; likely same woman as Script 1/2",
+   "setting": "sofa in front of sage-green wall with framed family/wedding photos and 'together' slat sign (IMG_97xx house look)",
+   "props": "clip-on wireless mic"
+  }
+ }
+]

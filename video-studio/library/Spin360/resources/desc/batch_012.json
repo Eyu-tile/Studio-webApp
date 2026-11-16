@@ -1,0 +1,674 @@
+{
+ "batch": "batch_012",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_012.out.json",
+ "clips": [
+  {
+   "id": "1e3fc0e7-e285-436d-b6de-90607c471cc7",
+   "filename": "copy_1AB36607-B108-4ABC-9683-36674A40874D.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 9.03,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1e3fc0e7-e285-436d-b6de-90607c471cc7_1.jpg"
+   ],
+   "bya_description": "White pedestal fan in a modern living room with wood floors. Camera tracks closer to the sleek device against a black slatted wall.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "b3df842a-8d86-47f9-ad1e-0325aa77593e",
+   "filename": "copy_230F95F4-5339-4828-9806-62742EB431C2.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 10.8,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b3df842a-8d86-47f9-ad1e-0325aa77593e_1.jpg"
+   ],
+   "bya_description": "A white pedestal fan stands on a wooden floor in a living room. The camera zooms in slowly from a wide angle.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Living room",
+    "Product hero shot",
+    "Fan spinning close-up",
+    "Living room"
+   ]
+  },
+  {
+   "id": "9c8167f6-80e7-4375-84f5-2efcb3fa8517",
+   "filename": "copy_29FDF8A1-0273-41BB-9D5D-D595A19D340C.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 9.31,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9c8167f6-80e7-4375-84f5-2efcb3fa8517_1.jpg"
+   ],
+   "bya_description": "A white pedestal fan stands in a living room beside a large potted plant. The digital display on the stem shows 'F1'.",
+   "bya_tags": [
+    "Fan controls",
+    "Fan spinning close-up",
+    "Product hero shot",
+    "Fan controls",
+    "Fan spinning close-up"
+   ]
+  },
+  {
+   "id": "bba1ff16-0ed7-428e-95bf-2d9214eca849",
+   "filename": "copy_3B71D7C5-5B0C-49F1-816F-BDCBB813981E.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 8.54,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/bba1ff16-0ed7-428e-95bf-2d9214eca849_1.jpg"
+   ],
+   "bya_description": "A hand with pink nails feels the breeze from a white tabletop fan with a digital display showing 'F1'.",
+   "bya_tags": [
+    "Feeling the breeze",
+    "Feeling the breeze"
+   ]
+  },
+  {
+   "id": "3f5cebb9-fd58-4501-89b7-210f2a84a98e",
+   "filename": "copy_41840C5B-38FC-45AB-BB18-9440C0D921E8.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 12.01,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3f5cebb9-fd58-4501-89b7-210f2a84a98e_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3f5cebb9-fd58-4501-89b7-210f2a84a98e_2.jpg"
+   ],
+   "bya_description": "Hands open a small case and insert a green scent pod into the top compartment of a white fan.",
+   "bya_tags": [
+    "Living room",
+    "Scent pod drop",
+    "Scent pods close-up",
+    "Living room",
+    "Scent pod drop"
+   ]
+  },
+  {
+   "id": "a8f75dd1-f3c5-43a4-a8be-fedf60162389",
+   "filename": "copy_48720B7F-34FC-4B2D-BF34-F4D540D1B1E3.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 8.13,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a8f75dd1-f3c5-43a4-a8be-fedf60162389_1.jpg"
+   ],
+   "bya_description": "A white pedestal fan with a cylindrical cage top stands in a modern living room. The camera pans around the device against a dark slatted wall.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "620cca74-020a-413c-aa20-4d6a281eeeb3",
+   "filename": "copy_49C7BAA9-13B1-4E16-A65B-9FA30AAA543A.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 9.8,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/620cca74-020a-413c-aa20-4d6a281eeeb3_1.jpg"
+   ],
+   "bya_description": "A woman with long brown hair in a striped shirt speaks to the camera in a bright room. A white pedestal fan stands behind her next to a potted plant.",
+   "bya_tags": [
+    "Living room",
+    "Credibility",
+    "Hook",
+    "Living room",
+    "Relaxing at home"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "All right, listen up. I'm a mama too, and I run a real tight ship around here.",
+     "labels": [
+      "Hook",
+      "Credibility",
+      "Living room"
+     ]
+    },
+    {
+     "start": 3.5,
+     "text": "I've got a spick and span, tidy as hell house, and by 8 PM it's cool, quiet, and smells clean.",
+     "labels": [
+      "Product benefit",
+      "Relaxing at home",
+      "Living room",
+      "Product hero shot"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "306b1904-2529-4a05-8110-7c5323b01165",
+   "filename": "copy_4C43400A-98DE-48B3-9AC7-B0A3BBB7EEE2.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 8.62,
+   "talking": false,
+   "cuts": [
+    6.63
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/306b1904-2529-4a05-8110-7c5323b01165_1.jpg"
+   ],
+   "bya_description": "A woman in a striped shirt speaks to the camera in a bright room, gesturing with her hand and making an 'OK' sign.",
+   "bya_tags": [
+    "Bedroom",
+    "Hook",
+    "Product benefit",
+    "Bedroom",
+    "Relaxing at home"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "It is 8:15, it is 90 degrees out, and every single person in the house is knocked out except me.",
+     "labels": [
+      "Hook",
+      "Bedroom",
+      "Relaxing at home"
+     ]
+    },
+    {
+     "start": 6.2,
+     "text": "This is not luck, okay?",
+     "labels": [
+      "Product benefit"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "567520cc-2929-4190-abc1-16aeb889dc88",
+   "filename": "copy_5DEB1CF7-4E37-42E7-901A-24BC7691D323.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 10.45,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/567520cc-2929-4190-abc1-16aeb889dc88_1.jpg"
+   ],
+   "bya_description": "A woman in navy pajamas sits on a bed and holds up a tan t-shirt with large sweat stains under the arms. She looks frustrated and wipes her forehead in a bedroom setting.",
+   "bya_tags": [
+    "Bedroom",
+    "Tossing & turning",
+    "Bedroom",
+    "Tossing & turning"
+   ]
+  },
+  {
+   "id": "041f6738-9bf3-47c0-be6c-67ce84615d3f",
+   "filename": "copy_66D2FC5F-A4AD-4B26-AD18-C09BB2B47D37.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 11.36,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/041f6738-9bf3-47c0-be6c-67ce84615d3f_1.jpg"
+   ],
+   "bya_description": "A white tabletop fan sits on a dark wood cabinet in a living room; the camera zooms and pans slightly to show the product in a home setting.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "19d0799e-7125-4e7d-a4cf-fc56d56b0728",
+   "filename": "copy_6BAD87E9-2D26-4CC5-B530-47754A20C832.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 9.64,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/19d0799e-7125-4e7d-a4cf-fc56d56b0728_1.jpg"
+   ],
+   "bya_description": "A white fan sits on a nightstand in a bedroom. The camera zooms in.",
+   "bya_tags": [
+    "Bedroom",
+    "Fan spinning close-up",
+    "Product hero shot",
+    "Bedroom",
+    "Fan spinning close-up"
+   ]
+  },
+  {
+   "id": "933cb16c-b7f2-4c0d-9346-35f5739a607f",
+   "filename": "copy_6EDEAA72-F0D7-43E9-B377-F4B888F735BC.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 11.96,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/933cb16c-b7f2-4c0d-9346-35f5739a607f_1.jpg"
+   ],
+   "bya_description": "A white pedestal fan stands in a living room. The camera zooms in slowly.",
+   "bya_tags": [
+    "Product hero shot",
+    "Living room",
+    "Living room"
+   ]
+  },
+  {
+   "id": "65271507-ea34-453e-bcda-a619e6498300",
+   "filename": "copy_921FDC41-127C-4816-8BB2-6C071D3E7522.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 9.03,
+   "talking": false,
+   "cuts": [
+    2.9
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/65271507-ea34-453e-bcda-a619e6498300_1.jpg"
+   ],
+   "bya_description": "Woman in denim shirt adjusts wall thermostat, then wipes forehead, looking frustrated.",
+   "bya_tags": [
+    "AC & thermostat",
+    "AC & thermostat"
+   ]
+  },
+  {
+   "id": "7384df48-0346-434b-9153-f60d7521c585",
+   "filename": "copy_B25B1120-C8D8-480A-A757-FD6E381926BC.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 7.59,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7384df48-0346-434b-9153-f60d7521c585_1.jpg"
+   ],
+   "bya_description": "A hand places a green sticky note on the base of a white fan on a wooden nightstand.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Bedroom"
+   ]
+  },
+  {
+   "id": "a947c994-4ab0-40b2-bf5d-13562f4a18cd",
+   "filename": "copy_D0CA3B76-A006-4D47-9FC6-3D24651F44BD.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 8.36,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a947c994-4ab0-40b2-bf5d-13562f4a18cd_1.jpg"
+   ],
+   "bya_description": "A woman in navy pajamas tosses and turns restlessly in bed, looking frustrated and uncomfortable.",
+   "bya_tags": [
+    "Bedroom",
+    "Tossing & turning",
+    "Bedroom",
+    "Tossing & turning"
+   ]
+  },
+  {
+   "id": "09326681-f5dc-4e35-b416-bb172e380ea2",
+   "filename": "copy_EA50BDD0-B680-4BC2-932D-4FBF96176146.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 10.89,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/09326681-f5dc-4e35-b416-bb172e380ea2_1.jpg"
+   ],
+   "bya_description": "A woman in a denim shirt speaks to the camera in a bedroom, gesturing with her hands.",
+   "bya_tags": [
+    "Bedroom",
+    "Credibility",
+    "Bedroom"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "The man who invented this fan loves to say it is going to make you live longer.",
+     "labels": [
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 4.0,
+     "text": "He is not allowed to say that for real, and neither am I, but let me tell you what I can say, okay?",
+     "labels": [
+      "Credibility",
+      "Bedroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "59d0181c-4ba2-4263-9302-2e778b7b6166",
+   "filename": "copy_F7D2CD17-97F1-4703-AD12-49D22B9F8860.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 9.27,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/59d0181c-4ba2-4263-9302-2e778b7b6166_1.jpg"
+   ],
+   "bya_description": "Camera pans down a white pedestal fan with a clear slatted head in a home setting.",
+   "bya_tags": [
+    "Product hero shot"
+   ]
+  },
+  {
+   "id": "c8ff1f34-8d00-424d-a97a-52de0c50f571",
+   "filename": "Dirty chair clean chair",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 8.48,
+   "talking": false,
+   "cuts": [
+    3.9,
+    6.83
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c8ff1f34-8d00-424d-a97a-52de0c50f571_1.jpg"
+   ],
+   "bya_description": "A pile of messy clothes, including denim and dark fabrics, sits on a teal upholstered chair in a bedroom. A pair of black sneakers lies on the floor next to the chair and a wooden dresser.",
+   "bya_tags": [
+    "Bedroom",
+    "Before and after",
+    "Bedroom",
+    "Before and after"
+   ]
+  },
+  {
+   "id": "f1166256-45a2-4a3b-9609-a0c3dc117fe0",
+   "filename": "Sweaty entrance",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 8.82,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f1166256-45a2-4a3b-9609-a0c3dc117fe0_1.jpg"
+   ],
+   "bya_description": "A young man in a blue t-shirt and black shorts enters through a white front door into a living room. He closes the door, turns to face the camera, and speaks while gesturing toward his chest and neck with an uncomfortable expression.",
+   "bya_tags": [
+    "Living room",
+    "Unhappy expression",
+    "Walking through door",
+    "Living room",
+    "Unhappy expression",
+    "Walking through door"
+   ]
+  },
+  {
+   "id": "5e556f8b-c7b0-421e-baf0-9e8a5d83426e",
+   "filename": "Sweaty sofa",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 11.8,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5e556f8b-c7b0-421e-baf0-9e8a5d83426e_1.jpg"
+   ],
+   "bya_description": "Extreme close-up of a man's torso in a blue t-shirt as he sits down on a couch.",
+   "bya_tags": [
+    "Living room",
+    "Relaxing at home",
+    "Smelling shirt",
+    "Living room",
+    "Relaxing at home",
+    "Smelling shirt",
+    "Unhappy expression"
+   ]
+  },
+  {
+   "id": "dbbdd2b4-7574-47c1-8f40-0897fa1d57a3",
+   "filename": "IMG_9727.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 13.47,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/dbbdd2b4-7574-47c1-8f40-0897fa1d57a3_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/dbbdd2b4-7574-47c1-8f40-0897fa1d57a3_2.jpg"
+   ],
+   "bya_description": "A black Spin360 Fan stands on a carpeted floor in a living room, positioned next to a brown couch. The fan's blue LED indicator light is illuminated on the neck, and the internal blades are visibly spinning behind the silver grill. The camera slowly pans around the fan, showing its sleek design and the surrounding home decor including a woven basket and wall art.",
+   "bya_tags": [
+    "Device in operation",
+    "Fan spinning close-up",
+    "Living room",
+    "Device in operation",
+    "Fan spinning close-up",
+    "Living room",
+    "Power indicator light",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "74f51cb6-132c-4dec-8e04-7d19ab3e5804",
+   "filename": "IMG_9728.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 7.12,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/74f51cb6-132c-4dec-8e04-7d19ab3e5804_1.jpg"
+   ],
+   "bya_description": "A black Spin360 Fan stands on a carpeted floor in a living room, its top section spinning while a blue LED indicator light glows on the stem. The camera slowly pans around the fan, showing its mesh grill and base against a background of a brown armchair and wall decor.",
+   "bya_tags": [
+    "Blue light ambiance",
+    "Device in operation",
+    "Fan spinning close-up",
+    "Blue light ambiance",
+    "Device in operation",
+    "Fan spinning close-up",
+    "Living room"
+   ]
+  },
+  {
+   "id": "0e6ec466-bbdc-4e28-b2ef-787a921f4860",
+   "filename": "IMG_9731.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 10.9,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0e6ec466-bbdc-4e28-b2ef-787a921f4860_1.jpg"
+   ],
+   "bya_description": "A black Spin360 Fan stands on a carpeted floor in a bedroom, positioned in front of a bed with a grey and white striped duvet. The camera slowly pans around the fan, showing its cylindrical grill and black base against the backdrop of a green wall decorated with framed art and a small wooden nightstand.",
+   "bya_tags": [
+    "Bedroom",
+    "Device in operation",
+    "Product on surface",
+    "Bedroom",
+    "Device in operation",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "6130e5c5-a6fd-40d4-b9b6-716fef42bc96",
+   "filename": "IMG_9735.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 9.62,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6130e5c5-a6fd-40d4-b9b6-716fef42bc96_1.jpg"
+   ],
+   "bya_description": "A black Spin360 Fan stands on a carpeted floor in the corner of a room with green walls. The fan's internal blades are spinning visibly behind the silver grill as it remains stationary on its pedestal.",
+   "bya_tags": [
+    "Device in operation",
+    "Fan spinning close-up",
+    "Product hero shot",
+    "Device in operation",
+    "Fan spinning close-up",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "da4ad15d-2ee5-4ac0-b278-af3df6c863d8",
+   "filename": "IMG_9738.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 12.34,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/da4ad15d-2ee5-4ac0-b278-af3df6c863d8_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/da4ad15d-2ee5-4ac0-b278-af3df6c863d8_2.jpg"
+   ],
+   "bya_description": "A black Spin360 Fan stands on a beige carpet in a room with grey walls. To the left, a wooden door is slightly ajar, and a framed geometric art piece hangs on the wall behind the fan.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Product on surface",
+    "Living room",
+    "Product on surface"
+   ],
+   "transcript": [
+    {
+     "start": 5.8,
+     "text": "Mom, Mom, Mom, Mom, Mom, Mom.",
+     "labels": [
+      "Product on surface",
+      "Product hero shot",
+      "Living room"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "08657063-4227-455d-88a6-75360e5e237d",
+   "filename": "IMG_9740.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 9.37,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/08657063-4227-455d-88a6-75360e5e237d_1.jpg"
+   ],
+   "bya_description": "A close-up shot of the Spin360 Fan's digital display as a hand repeatedly taps the plus button. The LED screen cycles through speed settings from F1 to F9, with the light ring around the display glowing white.",
+   "bya_tags": [
+    "Digital display",
+    "Fan controls",
+    "Using the controls",
+    "Digital display",
+    "Fan controls",
+    "Using the controls"
+   ],
+   "transcript": [
+    {
+     "start": 1.6,
+     "text": "Mom, Dad.",
+     "labels": [
+      "Fan controls",
+      "Digital display",
+      "Using the controls"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cd89342d-300c-45cb-87bb-1753a915f28c",
+   "filename": "IMG_9762.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 13.48,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/cd89342d-300c-45cb-87bb-1753a915f28c_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/cd89342d-300c-45cb-87bb-1753a915f28c_2.jpg"
+   ],
+   "bya_description": "A woman's hand with pink nail polish points up at a brown ceiling fan with five blades and a white glass light fixture. The fan is spinning at a high speed in a room with light green walls and framed pictures on the wall below.",
+   "bya_tags": [
+    "Bedroom",
+    "Fan spinning close-up",
+    "Bedroom",
+    "Fan spinning close-up"
+   ]
+  },
+  {
+   "id": "b21f05ce-0492-4e7f-8f77-de38d1112c2b",
+   "filename": "IMG_9764.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 12.94,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b21f05ce-0492-4e7f-8f77-de38d1112c2b_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b21f05ce-0492-4e7f-8f77-de38d1112c2b_2.jpg"
+   ],
+   "bya_description": "A white box fan sits on a wooden stand in a living room, its blades spinning rapidly. The camera slowly pans around the fan, showing its grill design and the control knobs on top.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Living room",
+    "Product on surface",
+    "Fan spinning close-up",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "58c8feb8-28ea-42eb-b87a-54aeedd41f2a",
+   "filename": "IMG_9766.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 7.76,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/58c8feb8-28ea-42eb-b87a-54aeedd41f2a_1.jpg"
+   ],
+   "bya_description": "A close-up shot of a white digital thermostat on a wall. A hand enters the frame and presses the down arrow button, causing the green backlight to turn on and the set temperature to decrease from 70 to 67 degrees.",
+   "bya_tags": [
+    "AC & thermostat",
+    "Fan controls",
+    "Using the controls",
+    "AC & thermostat",
+    "Fan controls",
+    "Using the controls"
+   ]
+  },
+  {
+   "id": "2f149921-0993-4aaf-a027-89405c6a4f23",
+   "filename": "IMG_9767.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 10.04,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/2f149921-0993-4aaf-a027-89405c6a4f23_1.jpg"
+   ],
+   "bya_description": "A woman in a striped t-shirt and white shorts approaches a wooden-framed window in a living room. She reaches up to adjust the top of the window frame and then rests her hands on the window sill while looking outside.",
+   "bya_tags": [
+    "Curtains & windows",
+    "Living room",
+    "Curtains & windows",
+    "Living room"
+   ]
+  },
+  {
+   "id": "bd406245-c6cb-4183-be0f-072fba834989",
+   "filename": "IMG_9769.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 10.74,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/bd406245-c6cb-4183-be0f-072fba834989_1.jpg"
+   ],
+   "bya_description": "A man sleeps peacefully in a bed with white and grey striped bedding. In the foreground, a black tower fan is running, emitting a steady blue light from its base and a soft white light from the top. The fan is positioned on the floor next to the bed in a dimly lit bedroom with framed art on the wall.",
+   "bya_tags": [
+    "Bedroom",
+    "Blue light ambiance",
+    "Device in operation",
+    "Bedroom",
+    "Blue light ambiance",
+    "Device in operation",
+    "Noise demonstration",
+    "Sleeping"
+   ]
+  }
+ ]
+}

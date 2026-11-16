@@ -1,0 +1,302 @@
+﻿SPIN360 — DOGTROT VSL: HOOKS 4–7 
+The idea: the winning ad (HOOK 1) stays as the base. We are only replacing the first ~10 seconds. Each new hook ends with a hard cut into the existing line "100 years ago..." — from there, HOOK 1's edit plays to the end.
+
+
+________________
+
+
+GLOBAL RULES
+1. Fix in ALL versions (including the ones already running): on-screen text "A 100 YEARS AGO" → "100 YEARS AGO"
+2. Base body = HOOK 1's edit. From "built houses with a wide open hallway..." (the carpenters scene) to the end — untouched. Only HOOK 6 has one cut, marked in its table.
+3. The transition shot ("100 years ago"): use the dogtrot house with the open central hallway — the shot where you can see straight THROUGH the house (it's the HOOK 3 opening shot, already produced). Do NOT use the stilt house here.
+4. Splice is a hard cut. The hook's last line ends → cut → house + card "100 YEARS AGO" → existing VO "100 years ago, families across the American South..." No connecting words, no new VO at the splice.
+TEXT RULES
+* Captions run through the whole video as they already do.
+* HOOKS 4, 6, 7: the title card enters ON frame 1, together with the image. Mandatory. In these three, the image is familiar — the CARD is what stops the scroll. Card on screen = no caption under it; caption returns when the card ends.
+* HOOK 5 only: the image is the hook — it may run clean for ~1 second, card enters after.
+* Card style: same thin serif as current HOOK 1. Card text = the VO condensed, in blocks following the voice (exact text in each table).
+* Approval test for every hook: freeze frame 1, look at it for 1 second on mute. If it doesn't raise a question, it doesn't go up.
+
+
+________________
+
+
+HOOK 4 — "THE EXPERIMENT"
+Time
+	Shot
+	Scene
+	Card
+	VO
+	0:00–0:03
+	1 · 🎬 NEW
+	  
+Frontal close-up of a man awake on the edge of his bed — closer than comfortable, almost a portrait. Face reads exhaustion. Digital clock glowing 2:37 out of focus behind him. Dark, sealed bedroom. (Same man/room/moment as the existing wide shot in the body — same scene, NEW ANGLE.)
+	YOUR BEDROOM IS AN EXPERIMENT (on frame 1)
+	🆕 "Your bedroom is an experiment."
+	0:03–0:06
+	2 · ▶️
+	The existing wide shot of the same room (man from behind, whole bedroom, city in the window).
+	—
+	🆕 "Sealed walls. Still air. It's brand new in human history —"
+	0:06–0:08
+	3
+	Hold the wide, or half-second of black.  
+	AND YOU'VE BEEN IN IT YOUR WHOLE LIFE
+	🆕 "— and you've been in it your whole life."
+	0:08–0:11
+	4 · ▶️
+	  
+HARD CUT: the dogtrot house with the open central hallway (HOOK 3 opening shot — you can see straight through it).
+	100 YEARS AGO
+	▶️ Existing VO: "100 years ago, families across the American South —"
+	0:11 →
+	▶️ BODY
+	  
+  
+  
+HOOK 1's edit takes over at the carpenters building the house and plays to the end, untouched. (The original wide of the man stays in the body — intentional callback.)
+	
+
+	"— built houses with a wide open hallway through the middle..."
+	
+
+New VO: 2 sentences. New scene: 1. Body: untouched.
+
+
+________________
+
+
+HOOK 5 — "THE STILL AIR"
+Time
+	Shot
+	Scene
+	Card
+	VO
+	0:00–0:03
+	1 · ▶️ punch-in
+	  
+Punch in TIGHT on the existing shot of dust particles frozen in a beam of moonlight through the blinds. 3 seconds. NOTHING moves.
+	(image runs clean ~1s, then:) THIS AIR HASN'T MOVED IN 6 HOURS
+	🆕 (1.5s of silence, then:) "It hasn't moved in six hours."
+	0:03–0:06
+	2 · ▶️
+	  
+Open to the existing wider shot of the blinds/bedroom.
+	—
+	🆕 "You're going to breathe it all night. Humans never slept in air like this — until now."
+	0:06–0:09
+	3 · ▶️
+	  
+  
+HARD CUT: the archival photo of the old dogtrot house (HOOK 2 opening image, as-is — just fix the text to "100 YEARS AGO").
+
+
+	100 YEARS AGO
+	▶️ Existing VO: "100 years ago, families across the American South —"
+	0:09 →
+	▶️ BODY
+	  
+  
+  
+
+
+
+HOOK 1's edit from the carpenters to the end, untouched. (Original wide dust shot stays in the body — the punch-in opens, the wide pays it off.)
+	
+
+	
+
+	
+
+New VO: 3 sentences. New scene: NONE. Body: untouched.
+
+
+________________
+
+
+HOOK 6 — "YOUR BODY REMEMBERS"
+Time
+	Shot
+	Scene
+	Card
+	VO
+	0:00–0:03
+	1 · 🎬 NEW
+	Dark bedroom at night, an ordinary cheap fan running, pointed at the bed, a person asleep in front of it. Must look like a real bedroom, not a product shot.
+	IF YOU CAN'T SLEEP WITHOUT A FAN — READ THIS (on frame 1)
+	🆕 "If you need a fan running to fall asleep — your body isn't broken."
+	0:03–0:05
+	2
+	Slow push on the sleeping person, fan still running.
+	—
+	🆕 "It's remembering something."
+	0:05–0:09
+	3 · ♻️
+	The prehistoric family sleeping by the campfire under the full moon — moved UP from the body.
+	—
+	♻️ Existing VO reused: "For as long as people have existed, they slept in moving air. A breeze on your skin. Air that never sat still." + 🆕 "Your grandparents' grandparents knew it."
+	0:09–0:12
+	4 · ▶️
+	  
+  
+HARD CUT: the archival photo of the old dogtrot house (HOOK 2 opening image, as-is — just fix the text to "100 YEARS AGO").
+	100 YEARS AGO
+	▶️ Existing VO: "100 years ago, families across the American South —"
+	0:12 →
+	▶️ BODY + ✂️ ONE CUT
+	  
+  
+  
+ HOOK 1's edit from the carpenters onward. When the body reaches the block with the older woman + cavemen and the VO "Because here's the part you already know. For as long as people have existed... air that never sat still" — CUT that whole block (it already played in shot 3). Resume directly at the dark modern bedroom: "The sealed bedroom with still air is brand new."
+	
+
+	
+
+	
+
+New VO: 3 sentences (cavemen lines are existing recording, repositioned). New scene: 1. Body: one cut.
+
+
+________________
+
+
+HOOK 7 — "IT'S NOT THE MATTRESS"
+Time
+	Shot
+	Scene
+	Card
+	VO
+	0:00–0:03
+	1 · 🎬 NEW
+	Frontal close-up of a woman (45–60) lying in bed at night, eyes OPEN in the dark, holding the edge of her comforter near her face. Not tossing — just awake. Almost a portrait. (Same situation as the existing duvet shot in the body — same scene, NEW ANGLE.)
+	IT'S NOT THE MATTRESS. IT'S NOT THE PILLOW. (on frame 1)
+	🆕 "You've replaced the mattress. The pillow. The sheets."
+	0:03–0:06
+	2 · ▶️
+	The existing overhead shot of the woman in bed clutching her blue duvet.
+	—
+	🆕 "And you still wake up tired — because the problem was never in the bed."
+	0:06–0:08
+	3
+	Hold, or drift up toward the air above the bed.
+	THE PROBLEM IS IN THE AIR ABOVE IT
+	🆕 "It's in the air above it."
+	0:08–0:11
+	4 · ▶️
+	  
+  
+HARD CUT: the archival photo of the old dogtrot house (HOOK 2 opening image, as-is — just fix the text to "100 YEARS AGO").
+	100 YEARS AGO
+	▶️ Existing VO: "100 years ago, families across the American South —"
+	0:11 →
+	▶️ BODY
+	  
+  
+  
+HOOK 1's edit from the carpenters to the end, untouched. (Original duvet shot stays — intentional callback.)
+	
+
+	
+
+	
+
+New VO: 3 sentences. New scene: 1. Body: untouched.
+
+
+________________
+
+
+DELIVERY
+
+
+	
+
+	Format
+	9:16
+	VO voice
+	Same as current VSL — new lines only (2–3 per variation)
+	Captions
+	Whole video, current style
+	Card style
+	Same thin serif as current HOOK 1
+	
+
+Legend: 🆕 new VO to record · 🎬 new scene to generate · ▶️ existing material, don't touch · ♻️ existing material, reposition · ✂️ cut
+
+
+Totals across all 4: new scenes to generate = 3 · new VO lines = 11 · everything else already exists.
+
+
+Primary text
+🫢 Wait…
+why did we all agree to sleep in sealed boxes?
+Like, seriously.
+For most of human history, people slept with air moving around them.
+Windows open.
+Porches.
+Hallways.
+Whatever worked.
+Then we closed the room…
+killed the airflow…
+and somehow called that “normal.”
+That’s the part SPIN360 brings back.
+Not colder air.
+Moving air.
+Soft.
+Quiet.
+Around the bed.
+Around the whole room.
+The first thing people notice is weirdly simple:
+the room feels less sealed.
+🌬️ soft moving-air feeling
+🌀 360° room-wide breeze
+🔇 quiet enough for bedtime
+🌿 scent pod option
+🏡 makes closed rooms feel open
+The house changed.
+The breeze doesn’t have to.
+Tap Shop Now to feel it 👇
+Headline:
+Your Bedroom Is The Experiment
+
+
+
+
+HOOK 5 
+Time
+	Shot
+	Scene
+	Card
+	VO
+	0:00–0:03
+	1 · 🎬 NEW
+	  
+Frontal close-up of a man awake on the edge of his bed — closer than comfortable, almost a portrait. Face reads exhaustion. Digital clock glowing 2:37 out of focus behind him. Dark, sealed bedroom. (Same man/room/moment as the existing wide shot in the body — same scene, NEW ANGLE.)
+	YOUR BEDROOM IS AN EXPERIMENT (on frame 1)
+	🆕 "Your bedroom is an experiment."
+	0:03–0:06
+	2 · ▶️
+	The existing wide shot of the same room (man from behind, whole bedroom, city in the window).
+	—
+	🆕 "Sealed walls. Still air. It's brand new in human history —"
+	0:06–0:08
+	3
+	Hold the wide, or half-second of black.  
+	AND YOU'VE BEEN IN IT YOUR WHOLE LIFE
+	🆕 "— and you've been in it your whole life."
+	0:08–0:11
+	4 · ▶️
+	  
+  
+HARD CUT: the archival photo of the old dogtrot house (HOOK 2 opening image, as-is — just fix the text to "100 YEARS AGO").
+	100 YEARS AGO
+	▶️ Existing VO: "100 years ago, families across the American South —"
+	0:11 →
+	▶️ BODY
+	  
+  
+  
+HOOK 1's edit takes over at the carpenters building the house and plays to the end, untouched. (The original wide of the man stays in the body — intentional callback.)
+	
+
+	"— built houses with a wide open hallway through the middle..."

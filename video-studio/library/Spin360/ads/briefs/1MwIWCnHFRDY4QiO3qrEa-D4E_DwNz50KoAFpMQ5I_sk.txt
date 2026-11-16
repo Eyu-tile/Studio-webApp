@@ -1,0 +1,143 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_CustomerQuestion_Power
+Author: Chris
+Editor: Haseeb
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID:Spin360_CustomerQuestion_Power
+* Ad Type: Founder Led 
+* Type of Ad: Split Screen Hook + Explainer 
+* Sizes Needed: 9x16, 4x5
+* Voiceover: David - Stringout 
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 LA ‘26 - David Talking 
+________________
+ 
+[3] DIRECTION
+This ad starts as a split-screen hook showing the comments and David talking below. The hook is going to hold for a long time so viewers can actually read the comments. The rest of the edit is to be edited using the editor's discretion based on previous winning Spin360 ads.
+
+
+Directions: 
+1. Edit to this Stringout: David_CustomerQuestion_Stringout+Hook_1.mp4
+   1. This Link has the full audio + Hook 1 
+   2. DO NOT CUT Audio or music. This is the pace I want.
+2. All Hooks have been linked below. 
+3. Shots that must be included: 
+   1. Air flow animation of air mixing
+   2. Shot of old fan blowing in one direction. Generate new AI clip for this.
+   3. Cut back to David talking multiple times throughout the video.
+   4. Use new AI-generated shots from these folders when applicable.Needs to make sense and feel good with the video. NOTES: Only use natural sections of these clips. They need to feel super realistic. Let's try to incorporate these to get different shots in this video versus a lot of our old shots.
+      1. Seedance generations
+      2. Seedance ugc shots
+      3. Seedance good shots
+
+
+ 
+ 
+________________
+[3] SCRIPT
+
+
+The number one question that I've gotten lately
+when this fan first turns on. It takes more than a minute for you to feel at 360 degrees. 
+Unlike a regular fan where you can turn it on, put your face in front of it, you get all the blow.
+This one takes a little bit of time for it to get the entire room moving. 
+
+After that. It is a perfect amount of air moving. 
+You just have to give it time. 
+The air moving out has to grab all the rest of the air and get it all moving in a perfect what's called a toroidal flow.
+So that's just physics. That's the way our fan works.
+You'll notice that the breeze increases as time goes by.
+
+
+
+
+________________
+
+
+[8] Shotlist / Storyboard
+
+
+HOOKS
+	#
+	Script 
+	Visual 
+	Description 
+	1
+	The number one question that I've gotten lately
+	
+
+	David_CustomerQuestion_Stringout+Hook_1.mp4        
+	2
+	The number one question that I've gotten lately
+	
+
+	Spin360_CustomerQuestion_Power_Hook_3.mp4
+	3
+	The number one question that I've gotten lately
+	
+
+	Spin360_CustomerQuestion_Power_Hook_3.mp4
+	4
+	The number one question that I've gotten lately
+	
+
+	Spin360_CustomerQuestion_Power_Hook_4.mp4
+	5
+	The number one question that I've gotten lately
+	
+
+
+
+	David_CustomerQuestion_Hook_5.mp4
+	6
+	The number one question that I've gotten lately
+	
+
+	David_CustomerQuestion_Hook_6.mp4
+	
+
+
+
+ 
+________________
+
+
+[11] Deliverables
+4 Hooks 9x16 
+Headline (Include All Options) 
+
+
+Perfect Airflow In Minutes. 
+
+
+Most people turn it off too soon.
+
+
+The #1 Spin360 Question .
+
+
+Primary text
+Here's the number one question we get: "Is it powerful enough?"  🧐❓💨
+People turn it on, expect an immediate blast like a regular fan, and don't feel anything crazy right away. So they think it's weak.
+It's not. It's the opposite of weak. It's actually smarter.
+When you turn on the Spin360, the air coming out doesn't just blow at your face. It has to grab all the rest of the air in your room and get it all moving. 
+That takes time. A few minutes depending on the room. 
+So yeah, at first it feels subtle. You're not getting a blast. What you're getting is the entire room starting to move. Every corner. Every inch of air.
+And then something changes. The breeze increases. It gets stronger. And now you're surrounded by moving air from every direction. 
+That's when you feel it. That's when you get it.
+It's not that it's not powerful. It's that it's smart. It doesn't waste energy blasting your face. It uses that energy to move the entire room.
+And after that first minute? You're obsessed.
+$110 off, this summer only.

@@ -1,0 +1,241 @@
+{
+ "batch": "batch_024",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_024.out.json",
+ "clips": [
+  {
+   "id": "1af64583-a3fa-45a5-80a6-cf227650f22b",
+   "filename": "decible2.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 55.72,
+   "talking": false,
+   "cuts": [
+    2.09,
+    2.14
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1af64583-a3fa-45a5-80a6-cf227650f22b_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1af64583-a3fa-45a5-80a6-cf227650f22b_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1af64583-a3fa-45a5-80a6-cf227650f22b_3.jpg"
+   ],
+   "bya_description": "A silver fan stands in a kitchen as a person walks toward it.",
+   "bya_tags": [
+    "Decibel test",
+    "Fan controls",
+    "Moving the fan",
+    "Decibel test",
+    "Fan controls",
+    "Moving the fan",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "40422da0-3157-411a-a94f-0a870f809a8c",
+   "filename": "IMG_3815.mov",
+   "folder": "(unfiled)",
+   "duration_s": 51.35,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/40422da0-3157-411a-a94f-0a870f809a8c_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/40422da0-3157-411a-a94f-0a870f809a8c_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/40422da0-3157-411a-a94f-0a870f809a8c_3.jpg"
+   ],
+   "bya_description": "A black pedestal fan stands in a living room. A hand uses a remote to turn it on and increase the speed to F9.",
+   "bya_tags": [
+    "Living room",
+    "Turning fan on",
+    "Visible airflow test",
+    "Curtains & windows",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Living room",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "1e92e7b3-6ee5-41eb-a363-490d4a44429d",
+   "filename": "IMG_3818.mov",
+   "folder": "(unfiled)",
+   "duration_s": 46.7,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1e92e7b3-6ee5-41eb-a363-490d4a44429d_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1e92e7b3-6ee5-41eb-a363-490d4a44429d_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1e92e7b3-6ee5-41eb-a363-490d4a44429d_3.jpg"
+   ],
+   "bya_description": "A person rests their legs on a couch in a wood-beamed living room. A black cylindrical fan stands on the floor in front of them.",
+   "bya_tags": [
+    "Living room",
+    "Relaxing at home",
+    "Fan controls",
+    "Fan controls",
+    "Living room",
+    "Relaxing at home",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "1b9c4263-eff2-4071-b3de-2e9361022092",
+   "filename": "IMG_3834.mov",
+   "folder": "(unfiled)",
+   "duration_s": 51.23,
+   "talking": false,
+   "cuts": [
+    0.63,
+    1.1,
+    1.13,
+    8.44
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1b9c4263-eff2-4071-b3de-2e9361022092_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1b9c4263-eff2-4071-b3de-2e9361022092_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1b9c4263-eff2-4071-b3de-2e9361022092_3.jpg"
+   ],
+   "bya_description": "Blurry handheld footage of a living room setup with a tall black fan in the background.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Feeling the breeze",
+    "Feeling the breeze",
+    "Living room"
+   ]
+  },
+  {
+   "id": "1b10a088-9d29-44ca-8743-99c13ee8cbc0",
+   "filename": "IMG_8022.MOV",
+   "folder": "360 fan  - Vicky / Brolls",
+   "duration_s": 46.51,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1b10a088-9d29-44ca-8743-99c13ee8cbc0_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1b10a088-9d29-44ca-8743-99c13ee8cbc0_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1b10a088-9d29-44ca-8743-99c13ee8cbc0_3.jpg"
+   ],
+   "bya_description": "A woman with long grey hair unboxes a fan on a kitchen counter. She removes packaging and components while speaking to the camera.",
+   "bya_tags": [
+    "Lifting box",
+    "Living room",
+    "Moving the fan",
+    "Lifting box",
+    "Living room",
+    "Moving the fan",
+    "Product in hand",
+    "Unboxing"
+   ]
+  },
+  {
+   "id": "ace3862c-8666-4e9c-b54a-c04719efa42f",
+   "filename": "Changing spin speeds on fan",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 59.6,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ace3862c-8666-4e9c-b54a-c04719efa42f_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ace3862c-8666-4e9c-b54a-c04719efa42f_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ace3862c-8666-4e9c-b54a-c04719efa42f_3.jpg"
+   ],
+   "bya_description": "A black tower fan stands by a window. A hand taps the control button, cycling the digital display through speed and light settings.",
+   "bya_tags": [
+    "Cycling light colors",
+    "Digital display",
+    "Fan controls",
+    "Cycling light colors",
+    "Digital display",
+    "Fan controls",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "b94769ce-0bba-45b6-a65e-d8c04225af72",
+   "filename": "Close up of blades",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 57.34,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b94769ce-0bba-45b6-a65e-d8c04225af72_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b94769ce-0bba-45b6-a65e-d8c04225af72_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b94769ce-0bba-45b6-a65e-d8c04225af72_3.jpg"
+   ],
+   "bya_description": "Close-up of a black fan head with spinning blades behind a metal cage. It stands before a wooden window frame. Then Closer view of the fan's metallic grill and spinning internal mechanism.",
+   "bya_tags": [
+    "Air purifier top",
+    "Fan spinning close-up",
+    "Living room",
+    "Air purifier top",
+    "Fan spinning close-up",
+    "Living room"
+   ]
+  },
+  {
+   "id": "f22c37c1-226a-4dcc-b5eb-9a17ef1b96dd",
+   "filename": "Closing blinds V1",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 48.2,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f22c37c1-226a-4dcc-b5eb-9a17ef1b96dd_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f22c37c1-226a-4dcc-b5eb-9a17ef1b96dd_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f22c37c1-226a-4dcc-b5eb-9a17ef1b96dd_3.jpg"
+   ],
+   "bya_description": "A woman in a dark tank top and shorts enters a bedroom with wood-paneled ceilings and a large window.",
+   "bya_tags": [
+    "Bedroom",
+    "Curtains & windows",
+    "Air purifier top",
+    "Air purifier top",
+    "Bedroom",
+    "Curtains & windows",
+    "Fan controls",
+    "Product close-up"
+   ]
+  },
+  {
+   "id": "eed94b67-793e-4087-9294-af0d9a6649fc",
+   "filename": "Opening blinds x V2",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 63.63,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/eed94b67-793e-4087-9294-af0d9a6649fc_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/eed94b67-793e-4087-9294-af0d9a6649fc_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/eed94b67-793e-4087-9294-af0d9a6649fc_3.jpg"
+   ],
+   "bya_description": "Static wide shot of a wood-paneled room. Motorized honeycomb blinds slowly retract, revealing a sunny hillside view. A ceiling fan spins above a small table and a potted plant.",
+   "bya_tags": [
+    "Curtains & windows",
+    "Living room",
+    "Curtains & windows",
+    "Living room"
+   ]
+  },
+  {
+   "id": "f1025fd8-04ff-4f5a-be4d-1d586980a678",
+   "filename": "Reading book",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 51.1,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f1025fd8-04ff-4f5a-be4d-1d586980a678_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f1025fd8-04ff-4f5a-be4d-1d586980a678_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f1025fd8-04ff-4f5a-be4d-1d586980a678_3.jpg"
+   ],
+   "bya_description": "A blonde woman's face is shown in profile as she moves past the camera in a bright room.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Product on surface",
+    "Living room",
+    "Product close-up",
+    "Product on surface",
+    "Relaxing at home"
+   ]
+  }
+ ]
+}

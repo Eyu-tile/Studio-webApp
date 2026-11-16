@@ -1,0 +1,162 @@
+﻿Brand: Spin360
+ Ad ID: Spin360_SwedishBabie_David_Reaction
+
+
+Author: Gabriel Editor: Choose Reference video: 
+
+
+Swedish Babies ad (attached separately — it plays full screen, start to finish)
+
+
+AD BRIEF 
+	[1] CREATIVE DIRECTION
+2026-07-20 12-04-40.mp4
+Watch: Spin360_Ad_Editing_Brief.mp4
+
+
+You will be need to use seedance workflow
+
+
+  
+Spin360_UnAware_SwedishBabie_V2_Hook_1.mp4
+
+
+
+
+The idea behind this ad: There's an ad running about the Spin360 — the Swedish Babies video (the reference file). It tells a story: Nordic parents put their babies outside to nap in the snow, the babies sleep better out there, and the reason is moving air. It's a strong ad on its own. This piece adds one layer on top of it: the inventor of the fan, silently watching it with you.
+
+
+Why this works: The viewer starts watching what looks like a normal ad — but there's a man in the corner. He doesn't introduce himself. He just... watches. Smiles at the babies. Goes completely still when the ad says "It's the air." Shakes his head at the window being closed. The viewer's question — who IS this guy, and why does a fan ad mean something to him? — carries the first 90 seconds. Then the ad itself answers it: his own face appears on screen ("one inventor in California")... and it's the same face as the man in the corner. He pauses the video for the first time: "Yeah, that's me."
+
+
+From that moment, everything he does has weight. He pauses only twice more: once to explain the physics the ad can't fully explain (blades that push instead of chop, with his signature hand gesture), and once to confirm the ad's biggest claim with his own life ("I sleep with it every single night — you'd swear the walls were gone"). When the ad ends, he takes the screen for the only time: people who walk into the room don't say "nice fan" — they ask if there's a window open.
+
+
+The tone in one line: he's not reviewing, not selling, not surprised. He KNOWS this video. Recognition, warmth, quiet pride — a host waiting for you to catch up. He speaks only 5 times in ~3.5 minutes. The silence is the format: when he finally talks, the whole video listens.
+
+
+Structure: one of the 3 HOOKS below (first seconds) → then the BODY (identical for all hooks).
+[2] THE HOOKS — pick per variant (the baby-in-the-snow hook survives in all three)
+HOOK
+	FRAME 1
+	DAVID'S LINE
+	THEN
+	Hook1 — _Full (master)
+	The ad already rolling — babies in the snow. David PiP bottom-left, silent.
+	— (silent)
+	The video just runs. The body table takes over.
+	Hook2 — _WaitLookAtThis
+	The video FROZEN on the baby-in-the-snow image. David PiP, leaning toward the screen. Room tone only.
+	"Wait... look at this." (eyes on the screen)
+	His voice presses play — the video starts from the top, ad audio comes in. Body takes over.
+	Hook3 — _TheresAVideo
+	DAVID FULL FRAME — no baby on screen. Calm, to the lens.
+	"There's a video going around... about babies sleeping in the snow. On purpose. I need you to see it."
+	Cut to the video playing (he shrinks to the PiP). ⚓ Skip the ad's opening spoken line ("In Sweden, parents...") — he just covered it; start on the imagery. Body takes over.
+	[3] THE BODY — what David does to the video (identical after any hook)
+WHEN (the ad says...)
+	WHAT DAVID DOES
+	HIS LINE
+	FACE / DELIVERY
+	Babies in the snow (opening scenes)
+	silent
+	—
+	half-smile; short nose-laugh at the sunglasses baby (3/10)
+	"It's not the cold... It's the air."
+	silent
+	—
+	leans in... then goes COMPLETELY STILL on "It's the air." — the first tell (5/10)
+	"Outside, the air never stops moving"
+	TALK-OVER — video keeps rolling, ad audio ducks ~70%
+	"...that's the sentence, right there."
+	eyes stay ON the screen while speaking (4/10)
+	The window being shut
+	silent
+	—
+	slow, small head shake (4/10)
+	His face appears on screen ("one inventor in California")
+	⏸️ PAUSE 1 — short freeze, ad muted
+	"[nose-laugh, head shake] ...Yeah, that's me. Four years I spent on that thing, man. Four years."
+	eyes to LENS only on "Yeah, that's me"; warm, zero pitch (5/10). Keep this freeze SHORT — recognition is quick
+	"like Saturn's rings"
+	silent
+	—
+	points at the screen, nods twice — owning the words without a word (4/10)
+	"...doesn't feel mechanical at all. It feels like a breeze."
+	⏸️ PAUSE 2 — freeze, ad muted
+	"And the reason for that is — so, a regular fan blade... you know what it actually is? It's a knife edge. It's literally a knife edge, spinning. Chop, chop, chop — firing those little cuts of air at you. That's that fan feeling. [beat] Ours don't chop. We are pushing the air at you. [open-hand gesture, slow, at the lens] The blade's wide — like your hand. The air comes off it in one big push. That's how wind does it outside. And air that's being pushed at you... it just feels natural. Feels like a breeze."
+	his ONE performance: the gesture big and slow; teacher warmth; eyes to lens (6/10). ⚓ ECO CUT: the ad resumes exactly on "It feels like a breeze. A real one."
+	"the walls of your bedroom just aren't there anymore"
+	⏸️ PAUSE 3 — freeze, ad muted
+	"That part's real. I sleep with it every single night — best sleep of my life. You'd swear the walls were gone... like the bed's just outside."
+	softest register in the video; eyes to lens; zero salesmanship (5/10). ⚓ ECO CUT: the ad resumes on the beach-bedroom visual
+	The shhh / woman sleeping
+	silent
+	—
+	closes his eyes half a second WITH her (4/10)
+	Shark Tank
+	silent
+	—
+	half-smile, shoulder shrug — worn lightly (3/10)
+	The ad ends
+	DAVID FULL FRAME (only time)
+	"People walk into a room where this thing is running... and they don't say 'nice fan.' They ask if there's a window open. They look for the window. [beat] That's when I knew. It's called the Spin360 — link's below. ...And go look up those Swedish babies. That part blew my mind too."
+	quiet certainty; told like a memory, not a pitch; half-smile on "blew my mind too" (5/10). Lower-third: Spin360 — link below
+	[4] Notes
+1. Face ceiling 6/10. No thumbnail faces, no wow. Recognition, never surprise. Between reactions: active rest (blinks, small shifts, breathing) — alive, never frozen.
+2. Reactions land 200–400ms AFTER the ad's beat. Instant = fake.
+3. Eyes: on the screen while watching · to the lens only when speaking.
+4. Pauses = frozen frame + ad MUTED + only his voice. Clean cuts, no rewind/whoosh SFX, no play/pause words.
+5. The two ECO CUTS are fixed seams (breeze→"It feels like a breeze" · bed outside→beach visual).
+6. David's captions in a distinct style near his PiP (the ad has its own captions — two voices must never blur).
+7. No music added. The ad's soundtrack is the master; duck it under the talk-over, mute it in pauses.
+
+
+
+
+
+
+Primary Text:
+
+
+I don't usually watch my own ads. 😅
+
+
+My team makes them. I invent the thing. That's the deal.
+
+
+But this one... this one I had to sit down for.
+
+
+Because somewhere in the middle of it, there's one sentence — and that sentence is the reason I spent FOUR YEARS of my life building this.
+
+
+Four years, man. Hundreds of prototypes. My wife thought I'd lost it.
+
+
+And this video explains it better than I ever could.
+
+
+So I'm not going to spoil it. I'm just going to watch it with you.
+
+
+All I'll say is this: when people walk into a room where my invention is running, they don't say "nice fan."
+
+
+They ask if there's a window open.
+
+
+They actually look for the window.
+
+
+Watch it and you'll understand why. 👉
+
+
+Headline:
+
+
+1. Watch The Inventor React To His Own Ad
+2. Watch For The One Sentence 👉
+3. See Why They Look For The Window
+4. Press Play — Then Try It Yourself
+5. Watch What Took Four Years To Build

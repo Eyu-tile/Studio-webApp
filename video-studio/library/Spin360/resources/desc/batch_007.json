@@ -1,0 +1,792 @@
+{
+ "batch": "batch_007",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_007.out.json",
+ "clips": [
+  {
+   "id": "36c1bcbc-0ac6-4c48-a046-630d991eb944",
+   "filename": "scent pod drop in 2.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 3.7,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/36c1bcbc-0ac6-4c48-a046-630d991eb944_1.jpg"
+   ],
+   "bya_description": "White and gold cylindrical fan with clear vents sits on a white pedestal. A scent pod is visible on the top surface.",
+   "bya_tags": [
+    "Product hero shot",
+    "Product on surface",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "1e64b308-d211-49a5-b8cf-59fbe4201d42",
+   "filename": "sleeping under blanket",
+   "folder": "Spin360 - Avery",
+   "duration_s": 4.96,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1e64b308-d211-49a5-b8cf-59fbe4201d42_1.jpg"
+   ],
+   "bya_description": "A person lies in bed under a blanket in a blue-lit room. A fan on the nightstand runs while they shift slightly.",
+   "bya_tags": [
+    "Bedroom",
+    "Blue light ambiance",
+    "Sleeping",
+    "Bedroom",
+    "Blue light ambiance",
+    "Sleeping",
+    "Tossing & turning"
+   ]
+  },
+  {
+   "id": "0e48a95b-9904-4e97-a990-74b70daa3436",
+   "filename": "top up close.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 4.53,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/0e48a95b-9904-4e97-a990-74b70daa3436_1.jpg"
+   ],
+   "bya_description": "Overhead view of a white circular fan on a light wood floor. The camera zooms in on the mesh grille as bare feet appear at the bottom.",
+   "bya_tags": [
+    "Product close-up",
+    "Product on surface",
+    "Product close-up",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "b0d95039-3cae-4ee1-bcbc-3bcb2cbce909",
+   "filename": "top up close.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 6.23,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b0d95039-3cae-4ee1-bcbc-3bcb2cbce909_1.jpg"
+   ],
+   "bya_description": "Overhead view of a white circular fan spinning on a wooden floor.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Hook",
+    "Product benefit",
+    "Fan spinning close-up",
+    "Product on surface"
+   ],
+   "transcript": [
+    {
+     "start": 0.1,
+     "text": "I'm about to sweat like a madman. I'm not gonna sweat here.",
+     "labels": [
+      "Hook",
+      "Product benefit",
+      "Fan spinning close-up",
+      "Product on surface"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "899341f3-518f-4894-81a6-92c174a0ae7e",
+   "filename": "up close 360.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/899341f3-518f-4894-81a6-92c174a0ae7e_1.jpg"
+   ],
+   "bya_description": "Close-up of a white and gold cylindrical fan with horizontal slats. Internal blades spin rapidly behind the clear plastic casing.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Product close-up",
+    "Fan spinning close-up",
+    "Product close-up"
+   ]
+  },
+  {
+   "id": "9a7dea2c-7b9c-4220-8952-6f52f9582977",
+   "filename": "up close blades 360.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 4.1,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9a7dea2c-7b9c-4220-8952-6f52f9582977_1.jpg"
+   ],
+   "bya_description": "Close-up handheld shot of a white and gold cylindrical air purifier on a table in a living room. The camera pans slightly around the clear slatted top section.",
+   "bya_tags": [
+    "Air purifier top",
+    "Product close-up",
+    "Product on surface",
+    "Air purifier top",
+    "Product close-up",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "fb3d562b-8bfc-43b8-b79d-08d0b4d3d471",
+   "filename": "walking in living room refreshed.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.97,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/fb3d562b-8bfc-43b8-b79d-08d0b4d3d471_1.jpg"
+   ],
+   "bya_description": "A woman in a black jumpsuit walks through a sliding frosted glass doorway into a living room.",
+   "bya_tags": [
+    "Living room",
+    "Lifestyle moment",
+    "Lifestyle moment",
+    "Living room"
+   ]
+  },
+  {
+   "id": "d8c790f3-ce91-4995-974c-c207a1a091c0",
+   "filename": "copy_079AEDF6-9690-44FC-B85A-E6849425F075.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 4.74,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d8c790f3-ce91-4995-974c-c207a1a091c0_1.jpg"
+   ],
+   "bya_description": "A woman in a beige cardigan speaks to the camera in a living room. She sits before dark wood paneling and abstract artwork.",
+   "bya_tags": [
+    "Hook",
+    "Living room",
+    "Living room"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "When a guest walks into your house, the first thing they notice is the smell.",
+     "labels": [
+      "Hook",
+      "Living room"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ad4544ee-b022-461a-8ad3-372bf2ca695e",
+   "filename": "copy_1110AAB0-3BCF-4A9A-B233-F64141E70337.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 4.27,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ad4544ee-b022-461a-8ad3-372bf2ca695e_1.jpg"
+   ],
+   "bya_description": "A hand holds a white power adapter and plugs it into a wall outlet near a baseboard. The outlet is situated on a grey wall beneath a gold-framed mirror.",
+   "bya_tags": [
+    "Moving the fan",
+    "Moving the fan"
+   ]
+  },
+  {
+   "id": "d705ec4d-896b-4a7a-a663-145095110e7d",
+   "filename": "copy_171BF3B3-DECA-4327-BC43-B6E97738DC76.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 4.37,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d705ec4d-896b-4a7a-a663-145095110e7d_1.jpg"
+   ],
+   "bya_description": "A woman with long brown hair in a denim shirt speaks to the camera, gesturing with her hands in a bedroom.",
+   "bya_tags": [
+    "Bedroom",
+    "Hook",
+    "Bedroom"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "This thing is wildly different from any other fan I had.",
+     "labels": [
+      "Bedroom",
+      "Hook"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e5d7a3fc-8c83-4e2b-b683-8397c474f5f4",
+   "filename": "copy_28362B6C-AD1D-4F0A-8710-B26FCACBF2CC.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 5.25,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e5d7a3fc-8c83-4e2b-b683-8397c474f5f4_1.jpg"
+   ],
+   "bya_description": "A woman in a striped shirt reads a book on a couch in a bright living room. She turns a page while sitting comfortably.",
+   "bya_tags": [
+    "Living room",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "d88fb746-d017-4435-a14a-641227870a4c",
+   "filename": "copy_2C6AB068-5CE7-4787-A42F-50850C87BB85.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 4.97,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d88fb746-d017-4435-a14a-641227870a4c_1.jpg"
+   ],
+   "bya_description": "A black tower fan stands in a living room against white curtains. The camera tilts down from the digital display showing 74 to the base featuring the Orbit logo.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Living room"
+   ]
+  },
+  {
+   "id": "a6f9c1f1-1f6d-45d1-a2c1-da8e99db917b",
+   "filename": "copy_452352DB-61AD-4769-B5A2-F76A9A9608B2.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 5.53,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a6f9c1f1-1f6d-45d1-a2c1-da8e99db917b_1.jpg"
+   ],
+   "bya_description": "A man in a black t-shirt walks up brick steps to a front door while carrying a blue striped gift bag. He rings the doorbell and enters the house as the door opens.",
+   "bya_tags": [
+    "Patio & backyard",
+    "Patio & backyard"
+   ]
+  },
+  {
+   "id": "dd60d3fc-8403-484b-9b02-d1888ff5a73b",
+   "filename": "copy_51E4FDFD-C263-4FD8-8F9C-2075E92989A9.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 4.58,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/dd60d3fc-8403-484b-9b02-d1888ff5a73b_1.jpg"
+   ],
+   "bya_description": "A woman in a denim shirt opens white window blinds in a bright room. She looks out and then walks away.",
+   "bya_tags": [
+    "Curtains & windows",
+    "Curtains & windows"
+   ]
+  },
+  {
+   "id": "926ecfae-c757-4d73-a8f7-f16a672aacb5",
+   "filename": "copy_52E459C2-5EA1-454C-B4E1-2019E3046AE0.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 6.53,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/926ecfae-c757-4d73-a8f7-f16a672aacb5_1.jpg"
+   ],
+   "bya_description": "A woman in a denim shirt sits before a tall black fan with her hair blowing in the breeze. She looks at the camera and around the bedroom as the airflow moves her hair.",
+   "bya_tags": [
+    "Bedroom",
+    "Feeling the breeze",
+    "Turning fan on",
+    "Bedroom",
+    "Feeling the breeze",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "cf2e4612-7ba4-4090-b178-a02fd67c1ab9",
+   "filename": "copy_61972B27-94AA-4C60-87A3-580CDD8E1CFB.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 5.9,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/cf2e4612-7ba4-4090-b178-a02fd67c1ab9_1.jpg"
+   ],
+   "bya_description": "A hand taps a circular touchscreen on a white fan stem. The display cycles through speed settings F1, F2, and F3.",
+   "bya_tags": [
+    "Fan controls",
+    "Fan controls"
+   ]
+  },
+  {
+   "id": "607f03b6-0b47-4d79-84cb-1b7baf6906c1",
+   "filename": "copy_70D3929E-370F-4725-A482-72CF9003603C.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 4.04,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/607f03b6-0b47-4d79-84cb-1b7baf6906c1_1.jpg"
+   ],
+   "bya_description": "A woman in a tan cardigan speaks to the camera while sitting on a couch. Behind her is a dark slatted wall with abstract art.",
+   "bya_tags": [
+    "Hook",
+    "Living room",
+    "Living room"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "This little 10-second hack changes the atmosphere in my house.",
+     "labels": [
+      "Hook",
+      "Living room"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9254a49-7f12-4b68-a218-7c7cb91d5eaf",
+   "filename": "copy_9936DAB9-25FF-4692-B48C-A019F38F8C22.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 4.3,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d9254a49-7f12-4b68-a218-7c7cb91d5eaf_1.jpg"
+   ],
+   "bya_description": "A woman in a tan cardigan speaks to the camera in a living room, gesturing with her hand.",
+   "bya_tags": [
+    "Hook",
+    "Living room",
+    "Living room"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "This is how to make sure my house smells amazing when guests come over.",
+     "labels": [
+      "Hook",
+      "Living room"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "18eda370-2101-4237-99d4-6bf8e372ac0b",
+   "filename": "copy_A3D549B3-EB08-4A90-8517-01CEC9722E7B.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 4.58,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/18eda370-2101-4237-99d4-6bf8e372ac0b_1.jpg"
+   ],
+   "bya_description": "A woman in a striped shirt stands in a doorway, looking frustrated and hot. She sighs and turns back into the room.",
+   "bya_tags": [
+    "Bedroom",
+    "Tossing & turning",
+    "Bedroom",
+    "Tossing & turning"
+   ]
+  },
+  {
+   "id": "21e4f48f-536c-4b5a-af05-0c01bd0a92b1",
+   "filename": "copy_C018F715-E70E-46FD-8F42-52F698B7181A.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 3.41,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/21e4f48f-536c-4b5a-af05-0c01bd0a92b1_1.jpg"
+   ],
+   "bya_description": "A woman with long brown hair in a denim shirt speaks enthusiastically to the camera in a home setting.",
+   "bya_tags": [
+    "Hook"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I love saying this takes the walls off my house.",
+     "labels": [
+      "Hook"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d11604c9-3bea-4062-b68a-9ab63615a91a",
+   "filename": "copy_F6CCD481-DB80-487C-B9B5-8E66FF47E83F.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 4.64,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d11604c9-3bea-4062-b68a-9ab63615a91a_1.jpg"
+   ],
+   "bya_description": "A woman in a striped shirt and black pants walks into a living room, posing with hands on her hips next to a white pedestal fan.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Relaxing at home",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "f98a99ae-0aab-408c-acf4-6ebc52ccbf01",
+   "filename": "copy_FD9C1722-0E21-4D1F-A472-578C5C33EDEF.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 1.65,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f98a99ae-0aab-408c-acf4-6ebc52ccbf01_1.jpg"
+   ],
+   "bya_description": "A woman with long brown hair in a striped shirt speaks to the camera in a bright room. A white pedestal fan is visible in the background.",
+   "bya_tags": [
+    "Hook",
+    "Living room",
+    "Living room"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "As a mom of 2?",
+     "labels": [
+      "Hook",
+      "Living room"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4d0efbbd-6b0c-47b6-89d6-6263cdfb91b8",
+   "filename": "copy_FEC6BF03-1AA9-4C19-BC15-7787E82ABC4F.mov",
+   "folder": "Spin360 - Kylie",
+   "duration_s": 6.01,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4d0efbbd-6b0c-47b6-89d6-6263cdfb91b8_1.jpg"
+   ],
+   "bya_description": "A woman in dark pajamas rubs her neck and chest while wincing on a bed. She appears restless and uncomfortable in a bedroom setting.",
+   "bya_tags": [
+    "Bedroom",
+    "Tossing & turning",
+    "Bedroom",
+    "Tossing & turning"
+   ]
+  },
+  {
+   "id": "e8a00e78-291d-4c26-81f1-f4ff08bad8d3",
+   "filename": "Bedroom pan",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 2.97,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e8a00e78-291d-4c26-81f1-f4ff08bad8d3_1.jpg"
+   ],
+   "bya_description": "A slow pan across a bedroom featuring a white bed with red pillows and a chunky knit blanket. A large piece of art hangs above the headboard, and a glowing red orb lamp sits on the nightstand.",
+   "bya_tags": [
+    "Bedroom",
+    "Product hero shot",
+    "Bedroom"
+   ]
+  },
+  {
+   "id": "6c5a7266-aa45-4226-8630-34711e974fe8",
+   "filename": "Movie night entrance",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 6.53,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6c5a7266-aa45-4226-8630-34711e974fe8_1.jpg"
+   ],
+   "bya_description": "A woman sits on a couch in a living room while a man enters from the right carrying a large bowl of popcorn. He smiles and hands the bowl to her as a movie logo plays on the television in the background.",
+   "bya_tags": [
+    "Handing popcorn",
+    "Living room",
+    "Relaxing at home",
+    "Handing popcorn",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "ada46736-8e4b-4f5e-8d2e-e1460099853b",
+   "filename": "IMG_9724.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 3.36,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/ada46736-8e4b-4f5e-8d2e-e1460099853b_1.jpg"
+   ],
+   "bya_description": "A close-up shot shows a hand with pink nail polish holding a black power adapter and plugging it into a white wall outlet. The adapter is connected to a thin black power cord leading off-frame.",
+   "bya_tags": [
+    "Showing fan base",
+    "Showing fan base"
+   ]
+  },
+  {
+   "id": "7430005b-2d6a-4301-b7be-83d8c239f2d2",
+   "filename": "IMG_9741.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 4.5,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7430005b-2d6a-4301-b7be-83d8c239f2d2_1.jpg"
+   ],
+   "bya_description": "A close-up, top-down view of a black Spin360 Fan. A hand places a pink sticky note onto the top grill of the fan that reads 'Best. Fan. Ever. Period.' while the fan is running.",
+   "bya_tags": [
+    "Device in operation",
+    "Product close-up",
+    "Sticky note claim",
+    "Device in operation",
+    "Product close-up",
+    "Sticky note claim"
+   ]
+  },
+  {
+   "id": "54315c29-cd5d-4439-bf47-02fc33914445",
+   "filename": "IMG_9765.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 6.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/54315c29-cd5d-4439-bf47-02fc33914445_1.jpg"
+   ],
+   "bya_description": "A close-up, handheld shot shows a person's hand with pink manicured nails waving in front of a white floor vent. The hand moves back and forth to feel the airflow coming from the vent, which is installed at the base of a light green wall on a beige carpeted floor.",
+   "bya_tags": [
+    "Feeling the breeze",
+    "Feeling the breeze"
+   ]
+  },
+  {
+   "id": "97eb95c2-08ba-4279-a82c-820eb4441538",
+   "filename": "IMG_9774.MOV",
+   "folder": "Spin360 / B roll",
+   "duration_s": 5.49,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/97eb95c2-08ba-4279-a82c-820eb4441538_1.jpg"
+   ],
+   "bya_description": "A gold-colored candle warmer lamp with a ribbed glass shade stands on a wooden base. A lit candle in a decorative jar sits on the base directly under the lamp's light, which glows warmly against a patterned tablecloth.",
+   "bya_tags": [
+    "Candle warmer lamp",
+    "Device in operation",
+    "Product on surface",
+    "Candle warmer lamp",
+    "Device in operation",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "d5361320-a431-45e2-b6a9-bd9590171364",
+   "filename": "omni-2026-08-29-b73aa744.mp4",
+   "folder": "AI generated",
+   "duration_s": 1.0,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d5361320-a431-45e2-b6a9-bd9590171364_1.jpg"
+   ],
+   "bya_description": "A woman with long brown hair and a tan cardigan speaks directly to the camera while seated on a white couch. She gestures with her hands in front of a dark wood-slatted wall decorated with abstract art.",
+   "bya_tags": [
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.3,
+     "text": "And annoyingly,",
+     "labels": [
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f9802123-c535-41b3-9c1d-17867086988d",
+   "filename": "omni-2026-08-30-9fb44b67.mp4",
+   "folder": "AI generated",
+   "duration_s": 4.35,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/f9802123-c535-41b3-9c1d-17867086988d_1.jpg"
+   ],
+   "bya_description": "A woman with long brown hair, wearing a white t-shirt and a brown cardigan, sits on a white couch and speaks directly to the camera. She gestures with her hands while talking in a living room with modern art and wood paneling behind her.",
+   "bya_tags": [
+    "Product benefit",
+    "Spin 360",
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.1,
+     "text": "Spin 360, it claims it can recreate that soft outdoor glow.",
+     "labels": [
+      "Spin 360",
+      "Product benefit",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "398e4a0d-232e-4433-a2dc-3bf800f64f95",
+   "filename": "omni-2026-08-31-3fa177bb.mp4",
+   "folder": "AI generated",
+   "duration_s": 4.35,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/398e4a0d-232e-4433-a2dc-3bf800f64f95_1.jpg"
+   ],
+   "bya_description": "A woman with long brown hair wearing a tan cardigan over a white shirt speaks directly to the camera while seated on a white couch. She gestures with her hands as she talks, with two abstract black-and-white paintings on a dark slatted wall behind her.",
+   "bya_tags": [
+    "Sleeping outside feeling",
+    "Spin 360",
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.1,
+     "text": "Spin 360, it claims it can recreate that soft outdoor.",
+     "labels": [
+      "Spin 360",
+      "Sleeping outside feeling",
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8dd43760-d27e-4b47-999e-bf96da4de407",
+   "filename": "holding 360.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 5.0,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8dd43760-d27e-4b47-999e-bf96da4de407_1.jpg"
+   ],
+   "bya_description": "A woman in a black jumpsuit stands in a bedroom, lifting and showing a white pedestal fan while talking to the camera.",
+   "bya_tags": [
+    "Bedroom",
+    "Moving the fan",
+    "Product in hand",
+    "Bedroom",
+    "Moving the fan",
+    "Product in hand",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "I can't understand that.",
+     "labels": [
+      "Talking head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5f0f9826-c24f-469c-9fda-ad7bcc8b19df",
+   "filename": "script 2 hook 1.MOV",
+   "folder": "Spin360 - Avery / scripts",
+   "duration_s": 4.6,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5f0f9826-c24f-469c-9fda-ad7bcc8b19df_1.jpg"
+   ],
+   "bya_description": "Woman in a black shirt and headband talks to the camera on a couch, gesturing dismissively. She looks stressed and briefly closes her eyes.",
+   "bya_tags": [
+    "Failed alternative",
+    "Hook",
+    "Personal Struggle",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.5,
+     "text": "Last summer, I hit a wall.",
+     "labels": [
+      "Hook",
+      "Failed alternative",
+      "Talking head",
+      "Personal Struggle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e61ee665-52a9-4a59-b1ea-4b9b31872b89",
+   "filename": "script 2 hook 2.MOV",
+   "folder": "Spin360 - Avery / scripts",
+   "duration_s": 5.7,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/e61ee665-52a9-4a59-b1ea-4b9b31872b89_1.jpg"
+   ],
+   "bya_description": "A woman in a black shirt and headband speaks to the camera while sitting on a couch. She gestures with her hands in a bright living room.",
+   "bya_tags": [
+    "Hook",
+    "Immediate Desire",
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.0,
+     "text": "The moment my friend turned this on, I knew I was taking it home.",
+     "labels": [
+      "Hook",
+      "Talking head",
+      "Immediate Desire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "426746a4-1cbb-4bc9-9285-a8d7056a2a66",
+   "filename": "script 3 hook 2.MOV",
+   "folder": "Spin360 - Avery / scripts",
+   "duration_s": 5.63,
+   "talking": true,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/426746a4-1cbb-4bc9-9285-a8d7056a2a66_1.jpg"
+   ],
+   "bya_description": "Woman in purple dress talking to camera while sitting on a bed in a bedroom.",
+   "bya_tags": [
+    "Hook",
+    "Personal Suitability",
+    "Talking head",
+    "Talking head"
+   ],
+   "transcript": [
+    {
+     "start": 0.2,
+     "text": "I've never felt a room cool down this fast, and I'm a hot sleeper.",
+     "labels": [
+      "Hook",
+      "Personal Suitability",
+      "Talking head"
+     ]
+    }
+   ]
+  }
+ ]
+}

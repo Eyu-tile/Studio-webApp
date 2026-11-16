@@ -1,0 +1,301 @@
+﻿Spin360_SleepWithoutNoticing
+Animatic (Blender previs, gray, with shot captions): SleepWithoutNoticing_animatic_V2.mp4 · Blender file: 2026-10-30_SleepWithoutNoticing_previs_V2.blend
+Product reference: SPIN360_FLOOR · SPIN360_BLADE
+Ad type: Ideation · visual-only (music + on-screen text, no voice) · Size: 9x16 · ~48 s · 1 ad.
+The idea: an ad that sells without a single spoken word. We start outside, where the air moves and sleep feels easy. We cut to a closed bedroom where the air has stopped and she is awake at 3:07. Spin360 turns on, the air in her room starts moving like the air outside, and she falls asleep without noticing, sleeps through the whole night, and wakes up actually rested. Every shot has to make the viewer FEEL that, with no words. The on-screen text below only names what the viewer is already feeling.
+	
+
+How to read this doc: each shot has two pictures. Blender previs = the exact camera move, framing and timing (gray, rough, ignore the look). Inspiration = the look and mood we want. Generate each shot from the inspiration frame, and use the previs clip of that shot as a camera-movement reference only.
+	The logic: how it sells without words
+Beat
+	Shots
+	What the viewer sees
+	Why it sells
+	1 · Hook
+	1
+	A real bed in the middle of a windy field at dusk. "Why is there a bed out there?"
+	An image that should not exist stops the scroll. It also plants the promise of the whole ad: sleeping like you are outside. ("Bed outside" is a proven winner in this account.)
+	2 · Desire
+	2–4
+	Wind in the grass, a curtain blowing at an open window, her face in the breeze.
+	The viewer feels the air before we sell anything. This is the feeling we will bring indoors.
+	3 · The problem
+	5–6
+	Hard cut to a closed bedroom at night. Dust frozen in the lamp light. 3:07 a.m., she is wide awake, nothing moves.
+	The only dark moment. No words needed: still air, a sleepless woman, a clock. Everyone has lived it.
+	4 · The mechanism (shown, not told)
+	7–10
+	Spin360 turns on, the frozen dust starts to drift. A ripple crosses the duvet and match-cuts into the same ripple on a lake.
+	The match cut says it all: the air in her room now moves like the air outside. That is the product.
+	5 · Sleep without noticing
+	11–14
+	She reads, her eyes get heavy, the book sinks. The whole night passes in one still time-lapse. Clock: 10:41 to 6:58.
+	The transformation. She did not try to sleep, she just did, and stayed asleep. The clock is the proof.
+	6 · Wake up rested
+	15–18
+	Sun on her face, eyes open clear, a small "I slept the whole night?" smile, a stretch, curtains open to the morning.
+	The emotional payoff, and the loop closes: we end where we started, outside.
+	7 · Product
+	19
+	Spin360 in morning light, space for the end card.
+	Now the viewer wants to know what made that night possible.
+	Emotion curve: up (outside, the breeze) → down (the stopped air, 3:07) → up higher than the start (the morning).
+Music (guide): airy and open → drops out at shot 5 → returns at shot 7 → swells on the match cut → almost still during the time-lapse → full lift at the morning (shot 15).
+Production brief
+Generation: Seedance 2.5. Start frame = the inspiration image of the shot (or your own better version). Camera = the matching Blender previs clip, tagged as a camera movement reference only (do not copy its gray look). Product shots: add the real Spin360 references (FLOOR + BLADE).
+Consistency: one woman in every shot (character reference below) and one bedroom (room reference below): wood headboard, white sheets, pale blue duvet, nightstand with a small cream lamp and a black digital clock, white linen curtains on the window to the left, Spin360 to the right of the bed.
+Character reference
+	Bedroom reference
+	  
+
+	  
+
+	The three shots that matter most:
+* Shot 1 (hook): it must read in one second as "a real bed, outside, in the wind". Bright enough, clear silhouette, moving sheet.
+* Shots 8 + 9 (match cut): identical top-down framing, identical ripple direction and speed. The cut should feel invisible.
+* Shot 13 (time-lapse): she does not move at all. Only the light changes. This shot is the promise of the ad.
+Rules: no voice. The breeze is always pleasant, never cold. The Spin360 ring is off until shot 7. The product is always the real Spin360. The blue rings in the previs are only there to show the air: do not render them. Keep clean space in every shot for the on-screen text.
+On-screen text
+Few words, on purpose. The visuals sell; the text only names what the viewer already feels. Leave the shots marked "none" without text so the film can breathe. Style: white, centered, clean sans serif, one line at a time, in the safe area, with a soft fade in and out. Each card stays on screen for the whole shot (or across the shots listed).
+Shots
+	Text on screen
+	Why
+	1 (hook)
+	What if your bed felt like this tonight?
+	Turns the strange image into a wish.
+	2–4
+	none
+	Let the wind talk.
+	5
+	Then you shut the window.
+	Names the cut to the still room.
+	6
+	3:07. Again.
+	"Again" = this happens every night.
+	7
+	Until the air starts moving.
+	The turn. Lands as the ring lights up.
+	8–10
+	none
+	The match cut says it.
+	11–12
+	You won't even notice you fell asleep.
+	Hold until the book is down.
+	13–14
+	none
+	The clock is the proof.
+	15–16
+	And you wake up actually rested.
+	Lands on the smile.
+	19
+	Spin360. Bring the outdoors in.
+Try it for 30 nights.
+	End card.
+	Storyboard
+#
+	Time
+	Blender previs
+	Inspiration
+	What happens
+	Camera / purpose
+	On-screen text
+	1
+	0:00–0:03
+	  
+
+	  
+
+	HOOK. A real bed with white sheets alone in a field of tall golden grass at blue-hour dusk. She sleeps on her back. Wind moves the grass and lifts the edge of the sheet.
+	Slow, low push-in toward the bed.
+Stop the scroll: "why is there a bed out there?"
+	What if your bed felt like this tonight?
+	2
+	0:03–0:05
+	  
+
+	  
+
+	Macro: golden grass heads bending in the wind, low sun flaring through the stems.
+	Slow sideways slide at grass height.
+Feel the moving air.
+	(none)
+	3
+	0:05–0:07
+	  
+
+	  
+
+	A white linen curtain billows in from an open window. Green field outside, morning light.
+
+
+
+
+	Gentle push-in toward the window.
+"Windows open" feeling.
+	(none)
+	4
+	0:07–0:09
+	  
+
+	  
+
+	Her profile on a porch, eyes closed, face into the breeze, hair lifting, a slow exhale and a small smile.
+	Almost still, side profile.
+Pleasure, breathing.
+	(none)
+	5
+	0:09–0:11
+	  
+
+	  
+
+	HARD CUT. Same woman's bedroom at night, windows shut. In the lamp light, tiny dust specks hang perfectly still.
+	Locked-off macro on the lamp beam.
+The air has stopped. Music drops out.
+	Then you shut the window.
+	6
+	0:11–0:13
+	  
+
+	  
+
+	High angle: she lies wide awake staring at the ceiling. The clock reads 3:07. The curtain does not move.
+	Slow drift down from above.
+The problem, with zero words.
+	3:07. Again.
+	7
+	0:13–0:15
+	  
+
+	  
+
+	The Spin360 next to the bed turns on, its ring lights up blue. The frozen dust starts to drift in slow spirals. The curtain starts to move.
+	Low arc around the fan.
+The turn. Music comes back.
+	Until the air starts moving.
+	8
+	0:15–0:17
+	  
+
+	  
+
+	MATCH CUT 1/2. Straight down on the duvet: one soft ripple travels across it from the lower left...
+	Locked top-down. Same framing as 9.
+Set up the match cut.
+	(none)
+	9
+	0:17–0:19
+	  
+
+	  
+
+	MATCH CUT 2/2. ...and becomes the exact same ripple traveling across a lake at sunset.
+	Locked top-down. Same framing and same ripple direction as 8.
+Her room now breathes like outside.
+	(none)
+	10
+	0:19–0:22
+	  
+
+	  
+
+	Back in the bedroom, the camera rises off the duvet and reveals the whole room: she pulls the duvet up and smiles, the curtain moves gently, the fan glows.
+	Crane up and back.
+Relief, coziness.
+	(none)
+	11
+	0:22–0:25
+	  
+
+	  
+
+	She reads in bed, propped on pillows. Her eyelids get heavy.
+	Slow push-in from the foot of the bed.
+She relaxes without trying.
+	You won't even notice you fell asleep.
+	12
+	0:25–0:27
+	  
+
+	  
+
+	The book sinks onto her chest. Her head tilts. A page lifts in the moving air.
+	Close, from the side.
+"She fell asleep without noticing."
+	(none)
+	13
+	0:27–0:32
+	  
+
+	  
+
+	TIME-LAPSE. The whole night from straight above: she never moves. The lamp goes off, the room goes blue, then the first dawn light crawls in.
+	Locked overhead, very slow 6° turn.
+THE money shot: a full night, zero wake-ups.
+	(none)
+	14
+	0:32–0:33
+	  
+
+	  
+
+	Clock insert: 10:41 flips to 6:58.
+	Macro, locked.
+Proof.
+	(none)
+	15
+	0:33–0:36
+	  
+
+	  
+
+	A beam of morning sun reaches her face. She opens her eyes, clear and rested, not groggy.
+	Close, front-left.
+Waking up actually rested.
+	And you wake up actually rested.
+	16
+	0:36–0:38
+	  
+
+	  
+
+	A small, surprised smile: "Wait, I slept the whole night?"
+	Tight close-up.
+Emotional peak.
+	(none)
+	17
+	0:38–0:41
+	  
+
+	  
+
+	She sits on the edge of the bed and stretches both arms up, facing the bright window.
+	Medium, from behind.
+Energy.
+	(none)
+	18
+	0:41–0:44
+	  
+
+	  
+
+	She pulls the curtains wide open. Morning light floods in. Outside: a green meadow
+
+
+Windows closed
+.
+	Dolly from behind her toward the window.
+Back to nature: the loop from the hook closes.
+	(none)
+	19
+	0:44–0:48
+	  
+
+	  
+
+	HERO. Spin360 beside the bed in morning light, ring glowing, curtain moving behind it. Empty upper third for the end card.
+	Slow orbit around the fan.
+Product + end card.
+	Spin360. Bring the outdoors in. / Try it for 30 nights.
+	What is up to you
+Exact cut points, speed ramps, grade, and how long each shot holds. Keep the order and the three key shots. If a shot does not read in one second, simplify it or drop it. Use the on-screen text above; if a line fights a shot, move it one shot earlier or later, but keep the order.

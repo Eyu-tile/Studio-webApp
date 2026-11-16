@@ -1,0 +1,221 @@
+C
+TrueClean
+/ Strategy analysis
+← Back to videos
+CaptureCards: what the winners are arguing
+
+Prepared 4 November 2026 · TrueClean · Analysis of the six largest CaptureCards winners by lifetime spend
+
+The strategic finding
+
+The strongest recurring argument is “the effort you already make addresses a different part of the problem.” These ads give the buyer a new explanation for a familiar frustration, then position CaptureCards as a different action: attract, hold, and remove captured material with the card.
+
+The emotional payoff is control. The buyer is invited to stop wondering whether they are dirty, lazy, imagining things, or simply getting older. The practical payoff is a small, understandable routine. The dramatic payoff is an object they can inspect.
+
+This is an interpretation of the scripts and their associated performance. It does not establish that a specific sentence caused sales, that the product delivers every outcome claimed in an old ad, or that the accounts are profitable after costs.
+
+Scope and how “top six” was selected
+
+TrueClean is the only brand exposed by the connection. The full winner catalogue has 36 creative groups: 30 CaptureCards and six Swoosh N Shine. The Context Hub identifies CaptureCards as the current ad product and says new ads are not being made for Swoosh N Shine. The main analysis therefore focuses on CaptureCards; the full archive retains both products.
+
+“Top six” means the six CaptureCards creative groups with the highest lifetime spend. Four are videos and two are statics. These are six creative groups, not six independently tested, unique persuasion strategies.
+
+BrandLab labels a TrueClean creative a winner at $10,000 lifetime spend; CURRENT means at least $500 spent in the latest 14 days. The winner snapshot was refreshed 3 November. I separately retrieved live performance for 21 October–3 November on 4 November. Historical lifetime values and the later live 14-day results are different snapshots and should not be subtracted from one another.
+
+Rank	Creative / preview	Lifetime spend	Lifetime CPA	Lifetime ROAS	Live 14-day spend	Live 14-day CPA	Live 14-day ROAS
+1	TC0128	$135,508	$31.44	1.70	$5,080.98	$39.70	1.34
+2	TC0142	$114,466	$30.64	1.66	$5,999.35	$34.48	1.46
+3	TC0235	$102,577	$31.16	1.67	$103,100.05	$31.36	1.66
+4	Concept 9-3	$85,698	$26.55	2.02	$6,276.39	$26.37	2.05
+5	CC-D4 / vs_wash	$50,074	$33.21	1.68	$1,306.27	$33.49	1.56
+6	TC0111	$43,320	$29.17	1.86	$9,733.04	$28.71	1.83
+
+All values are USD and Meta-attributed. Attribution settings follow the ad sets. Live rows aggregate the matching code/name where appropriate; Concept 9 uses the exact Concept 9-3 row, excluding TC0287, which also contains “Concept 9” in its name. TC0235 H1 accounts for $103,096.84 of its $103,100.05 total; H2 and H3 have negligible spend. The six lifetime totals sum to $531,643.
+
+Three different models deserve attention. TC0235 is the scale model, with approximately 78.4% of the six groups’ live 14-day spend. Concept 9-3 is the efficiency model within this selected six, with the lowest recent CPA and highest recent ROAS. TC0111 is the click-generation model, with 9.5% outbound CTR and 1.83 ROAS. Its static format and destination differ from the videos, so the CTR comparison is descriptive.
+
+The older leaders TC0128 and TC0142 are still useful argument references, but their recent CPA/ROAS are weaker than their lifetime averages. The data alone cannot tell us whether fatigue, audience, placement, offer, landing page, or allocation explains that difference.
+
+Six argument breakdowns and their best copy blocks
+
+The quoted blocks below preserve source wording. “Best” is editorial judgment about the job the line performs; no sentence-level experiment isolates its contribution. Claims inside quotes remain historical ad claims.
+
+1. TC0128 — the wrong-layer discovery
+
+Watch ad · Ads Manager
+
+Buyer entry: Someone who washes bedding and reasonably believes that means the bed is clean. Although the ad name mentions perimenopause, the script opens much more broadly. We cannot infer the actual buying audience from the name.
+
+Belief change: “I need to do more of the same cleaning” becomes “my routine may be addressing the wrong place.”
+
+Argument sequence: familiar assumption → living colony reveal → location inside the bedding → explanation of why the old routines do different jobs → attract-and-hold mechanism → simple setup → delayed inspection → adoption claim and guarantee.
+
+Exact copy block	Persuasion job	What to carry forward
+“I thought washing my sheets was cleaning my bed, until I learned what was living underneath it.”	Opens a discovery story using a familiar assumption.	The everyday-assumption-to-discovery structure.
+“Dust mites aren’t dust. They’re a living colony.”	Reclassifies the problem so a different solution seems relevant.	Explain the target in concrete language; do not turn it into a diagnosis.
+“CaptureCards work in two parts. First, a plant-derived pheromone lure.” / “Then, an adhesive layer.”	Makes a mysterious card understandable in two steps.	The two-part explanation; confirm the approved lure specification before reusing “pheromone.”
+“No sprays, no insecticide, nothing to plug in.”	Answers chemical, mess, and setup objections quickly.	Low-effort phrasing; verify the material/chemical claims.
+“Then, at week 12, you cut the card open, hold it to your phone light, and see exactly what your clean bed was hiding.”	Closes the opening curiosity loop with a physical action.	The narrative payoff, qualified to current instructions and what inspection actually establishes.
+
+Why it is strategically useful: It validates the buyer’s effort before explaining the product. The mechanism answers a question the opening has already created.
+
+Limit: The script’s lab percentage, attraction distance, blanket dismissal of alternatives, symptom explanation, and old two-card placement instruction are not approved merely because this ad spent heavily. Current product notes differ.
+
+2. TC0142 — a specific experience becomes a clue
+
+Watch ad · Ads Manager
+
+Buyer entry: Someone noticing a recurring nighttime or morning pattern.
+
+Belief change: “This is generic pollen or sinus trouble” becomes “perhaps my sleeping environment deserves attention.” The source asserts this much more strongly than the supplied evidence supports.
+
+Argument sequence: specific bodily observation → rolling over / standing up / sleeping elsewhere → bed-location explanation → clean-looking-bedroom objection → lure-and-adhesive action → inspection → guarantee.
+
+Exact copy block	Persuasion job	What to carry forward
+“If it’s always the lower nostril — the side you’re lying on — that’s not pollen.”	Makes the opening unusually specific and easy to recognize.	Situational specificity only. The diagnostic conclusion needs evidence and should not be carried forward as fact.
+“And the worst part? Your bedroom can look spotless,”	Defuses the identity objection: “I keep a clean home.”	The distinction between appearance and what the ad proposes investigating.
+“Most mite products try to kill them. This one pulls them out.”	Gives the buyer a short comparison to remember.	A comparison of intended actions, supported by actual product and comparator evidence.
+“The adhesive locks them on the card, so what it catches comes out of your bed instead of back into it.”	Connects construction to disposal.	A plain explanation of what happens to captured material.
+“And your phone light shows you the catch, so you never have to wonder if it’s working.”	Addresses the fear of buying another invisible solution.	An inspection step; remove the implication that visible material proves efficacy or symptom cause.
+
+Why it is strategically useful: It starts with an observation instead of opening with product education. Recent video metrics show 42.6% hook rate and 53.1% hold rate, but recent ROAS is 1.46. Attention and purchase efficiency are separate outcomes.
+
+Source conflict: An older Context Hub annotation calls this a historical winner outside an earlier report threshold. The newer winner catalogue and live performance establish current spending; the older annotation should not override them.
+
+3. TC0235 — recognition, validation, then an explanation
+
+Watch ad · Google Doc script · Ads Manager
+
+Buyer entry: Someone who recognizes tiredness, puffiness, or trouble focusing and has been attributing it to stress or age. The brief specifies casting; performance data here does not establish which demographic bought.
+
+Belief change: “I am getting older or being lazy” becomes “there may be a neglected environmental factor worth investigating.”
+
+Argument sequence: three-signs hook → three recognizable scenes → old explanation challenged → claimed bed-exposure mechanism → personal frustration → small product routine → emotional validation → invitation and offer.
+
+Exact copy block	Persuasion job	What to carry forward
+“3 signs of dust mites you've been blaming on stress.”	Combines a finite list, recognition, and a mistaken-cause reveal.	The list-and-reframe device; do not imply nonspecific symptoms diagnose mites.
+“Waking up tired, puffy and foggy all seem like normal 'I'm just getting older' things.”	Names the explanation the buyer may already use.	Everyday language and recognizable scenes.
+“And if it was dirt on my pillow, I'd change it. So why was I sleeping in this?”	Uses a familiar action to make the invisible problem feel actionable.	The analogy and question; keep the underlying claim supportable.
+“I don't even notice they're there. No smell, nothing to plug in.”	Fits the product into an already tiring life.	Low daily effort, with sensory claims checked against the product.
+“Fog can show up in a lot of ways, but it's never just you being lazy. So it's worth dealing with.”	Removes shame and provides emotional permission to act.	Validation without inventing a medical explanation.
+“Try them yourself.”	Moves from explanation to a simple next step.	A direct invitation supported by clear terms.
+
+Why it is strategically useful: It makes the buyer feel understood before explaining the card. The source uses waking, mirror, and laptop scenes to make an abstract complaint concrete.
+
+What the performance supports: H1 is being scaled materially. H2 spent $2.81 and H3 $0.40 in the live window, so their rates are not useful evidence of hook quality. We should learn from H1 without claiming that “three signs” has won a controlled test against the other hooks.
+
+Limit: Neither tiredness nor the script’s testimonial establishes dust-mite causality or product efficacy. The “20 years” story needs authenticated support or an appropriate dramatization treatment before reuse.
+
+4. Concept 9-3 — a product experience told as a timeline
+
+Watch ad · Notion source · Ads Manager
+
+Buyer entry: Someone wondering what the card does, how much effort it takes, and what happens after purchase.
+
+Belief change: “This sounds like another vague promise” becomes “I can picture owning and using it.”
+
+Argument sequence: what-happens-next hook → setup → low effort → day/week/month progression → sensory outcome claims → inspection → replacement → social proof and guarantee.
+
+Exact copy block	Persuasion job	What to carry forward
+“This is what happens if you leave one Capture Card under your mattress for 3 months.”	Opens a time-bound curiosity loop.	A product-use journey; the exact live hook among the three source variants is unresolved.
+“That's the whole job. No spray. No plugs. No laundry.”	Makes the action feel manageable.	Simple setup, without implying normal bedding care is unnecessary.
+“You won't see much yet. But you might notice the mornings.”	Answers impatience and moves attention to a desired experience.	Expectation-setting structure; the symptom timeline itself is not established.
+“That came out of a bed you thought was fine.”	Returns to the original clean-bed assumption.	A supported reveal tied to authentic footage, without identifying specks by appearance alone.
+“No spraying. No washing. Just slide it in, leave it, and see what it caught.”	Compresses mechanism, ease, and payoff into one closing idea.	A concise recap using current care and use instructions.
+“30,000+ homes. 90-day money-back guarantee, no return needed.”	Closes with adoption and reduced purchase risk.	Verify adoption; describe current guarantee conditions accurately.
+
+Why it is strategically useful: It helps the buyer rehearse ownership mentally. The recent $26.37 CPA and 2.05 ROAS are the strongest efficiency figures within this selected six, but its spend is much lower than TC0235’s.
+
+Limit: The source predicts symptom changes by week; that is a promise, not independent proof. The hook variant and actual edited sequence have not been checked against the live video. The source also shares lineage with TC0121; those are not independent validations of a new argument.
+
+5. CC-D4 / vs_wash — a compact comparison argument
+
+View static · Source report · Ads Manager
+
+Buyer entry: Someone already using washes, covers, or sprays and questioning whether another purchase offers a different job.
+
+Belief change: “These are interchangeable dust-mite products” becomes “compare what each action actually does.”
+
+Argument sequence: contrarian headline → recurring problem → alternatives compared by action → opposite approach → lure / hold / discard → effort and duration → offer.
+
+Exact copy block	Persuasion job	What to carry forward
+“You Can't Wash A Mattress. You Can Empty It.”	Makes a complete contrast in two short sentences.	Contrast and compression; “empty it” implies a removal extent not established here.
+“You wash the sheets in hot water every week. The mattress just refills them.”	Explains why the chore seems repetitive.	Recurring-problem logic, with factual support for the explanation.
+“None of them REMOVE anything from inside the mattress, where the colony actually lives.”	Defines the criterion on which the product is meant to compete.	A precise buying criterion, without unsupported universal claims about alternatives.
+“CaptureCards take the opposite approach:”	Turns comparison into a natural product reveal.	The bridge works only when the following mechanism substantiates the contrast.
+“10-second install. Works 24/7 for 3 months per card.”	Answers setup effort and replacement cadence.	Use current directions and evidence; the current guide specifies more than the old one-card setup.
+
+Why it is strategically useful: It contains an entire buying argument in short copy. The message is more important than the fact that it is a static.
+
+Limit: The source’s claim to remove mites AND existing droppings is not established by the supplied product notes. On-image text is missing; this analysis covers the retrieved headline and primary copy.
+
+6. TC0111 — a deliberately incomplete argument that earns the click
+
+View static · Notion source · Ads Manager
+
+Buyer entry: Someone recognizing a nighttime or morning problem but not yet looking for CaptureCards.
+
+Belief change: The ad raises a new question; the landing page must complete the explanation.
+
+Argument sequence: “trick” headline → unexpected distinction about the allergen → personal-resolution tease → click.
+
+Exact copy block	Persuasion job	What to carry forward
+“The Mattress Trick For Dust Mites? (MUST READ)”	Names the problem and promises a discovery.	Clear relevance plus a specific unanswered question.
+“Most people don't know this trick pulls dust mites out of a mattress, but did you know the allergen that blocks your nose at night isn't even the mite itself?”	Opens a second curiosity loop around the mechanism.	A supportable explanatory distinction; avoid diagnosing the reader.
+“Here's what finally cleared our mornings”	Teases the resolution rather than delivering the full argument in the ad.	Message continuity into the destination; the outcome claim itself needs support.
+
+Why it is strategically useful: It is an acquisition entry point rather than a complete miniature VSL. Its 9.5% outbound CTR comes with purchases and 1.83 ROAS, so the curiosity is worth studying beyond clicks alone.
+
+Limit: The on-image text is missing. No mechanism demonstration, guarantee, or full proof block is present in the retrieved ad copy. They should not be invented. The destination is CaptureCards: Not a Cold; its current contents and conversion rate were not audited here.
+
+What repeats, and what it suggests
+Observed pattern	Where it appears	Strategic interpretation
+A familiar explanation is questioned before the product is introduced.	TC0128, TC0142, TC0235, CC-D4; TC0111 teases a distinction.	Start with the buyer’s existing mental model so the new mechanism feels relevant.
+The problem is made concrete through a location or scene.	Sheets versus mattress; face on pillow; mirror and laptop; card setup and inspection.	Specific scenes can make an otherwise invisible subject easier to understand.
+A simple physical action carries the mechanism.	Attract → hold → remove card, explicitly developed in the long-form sources and CC-D4.	Explain what the product does before asking the audience to trust a result.
+Effort objections are handled alongside the mechanism.	TC0128, TC0142, TC0235, Concept 9, CC-D4.	Ease is part of the argument, rather than an unrelated feature list.
+A reveal or inspection resolves uncertainty.	TC0128, TC0142, TC0235, Concept 9, CC-D4.	The buyer wants feedback. An inspection scene is persuasive, but its evidentiary meaning must be accurate.
+The close reduces risk after building understanding.	Five longer executions; absent in retrieved TC0111 copy.	A guarantee can support the last step once the offer makes sense.
+
+These are repeated features of selected winners, not evidence that the same features are absent from losing ads. A matched comparison against losers is needed before treating them as causal rules.
+
+The customer notes add useful, separate support for relevance. Buyers describe “Just washing sheets and pillow cases and other bedding,” “As you can’t see them it is hard to tell,” and being “Fed up with struggling for first three/four hours every morning.” Those statements support the themes of effort, uncertainty, and morning disruption. They do not establish diagnosis or product results.
+
+The imported survey summary reports 37 of 102 respondents choosing waking rested as the single desired improvement, versus 33 choosing an unblocked nose. This is a small self-reported subset, not the whole customer base. It supports testing both desire territories; it does not justify declaring either the universal primary motivation.
+
+The strategy to take into the next round
+
+Audience hypothesis: A conscientious buyer who has already tried familiar routines, recognizes a recurring morning or bedding-related frustration, and doubts whether a simple card offers anything different. Start from a recognizable situation, not an inferred diagnosis.
+
+Core argument: Show which job the existing routine performs; explain the card’s intended attract-and-hold design; make its use concrete; answer effort and uncertainty; close with accurate terms.
+
+The three useful creative lanes:
+
+Priority	What to test	What stays constant	What we learn
+1	TC0235-style recognition scenes versus TC0128-style cleaning-assumption entry.	Product explanation, presenter, offer, destination, and approximate duration.	Whether emotional recognition or the cleaning belief is the better entry in comparable conditions.
+2	A clear attract → hold → discard demonstration versus a verbal mechanism explanation.	Opening, claims, destination, and offer.	Whether making the product action visible improves purchase efficiency.
+3	TC0111-style curiosity static with a destination that immediately answers its question.	Same underlying claim, audience, and offer when comparing variants.	Whether the click-generating question produces qualified visits and purchases.
+
+Use Concept 9’s ability to make ownership easy to imagine in each lane. Its calendar structure can show setup, care, and replacement without promising week-by-week health changes.
+
+Evaluate CPA, purchase volume, ROAS relative to the brand’s actual margin target, and landing-page conversion. Hook, hold, and outbound CTR help diagnose where an execution loses people; they are not the success criterion on their own. Match attribution windows and avoid drawing conclusions from tiny-spend variants. An exact test budget requires the business’s allowable CPA and spend constraints.
+
+Before writing, assemble the specific buyer observation, the belief to change, the mechanism explanation, the evidence available for that explanation, and the intended next action. This directly follows the current creative direction: decide the pitch and how to make it convincing before choosing a shooting style.
+
+What needs updating before blocks become new ads
+
+The current Context Hub product notes specify four cards per bed, a sealed card during use, monthly repositioning, and replacement within three months. Older scripts variously describe one or two cards, early opening, “forget it” usage, and symptom timelines. Preserve those scripts as historical evidence; use current approved directions for production.
+
+The same source supports describing an intended lure-and-adhesive design. It does not, by itself, substantiate pheromone composition, 99% capture, a 50 cm attraction distance, removal of existing allergen deposits, guaranteed sleep improvement, diagnostic symptom rules, or visible specks as confirmed mites. Historical “proof” lines are claims used in an argument, not independent verification of those claims.
+
+The reported guarantee has conditions: 90 days from delivery, no return shipment for a product that did not perform as expected, and original shipping excluded. Recheck live offer terms and adoption counts before reusing old discounts, “30,000 homes,” or “zero risk.”
+
+Archive and source quality
+
+The accompanying archive contains all 36 winner records with their source text and links. TC0205’s failed machine transcription was recovered from a linked Google Doc containing the matching itch/yoga-mat script and matching live primary text/headline; it is a recovered brief, not a fresh video transcription.
+
+Some records are partial: TC0313 lacks its full spoken body; TC0232 lacks its exact opening hooks; several statics lack on-image text; TC0050 has unresolved variant matching. TCC0003 and TC0014 have explicit source-matching doubts. TC0121 reuses a Concept 9 source, and the Concept 8 family includes relaunches and hook variants. These are flagged in the archive and should not be counted as independent new script wins.
+
+The top-six analysis is based on retrieved scripts, ad copy, and performance, not a frame-by-frame video review. Full source metadata and old annotations are retained so these limitations remain visible.
+
+For a brand-wide lifetime top six, TC0066 from Swoosh N Shine would enter at $52,041 and TC0111 would leave. TC0066 uses a closely related argument: familiar cleaning → recurring cause → why previous remedies do another job → a mechanism that acts earlier in the process. That is a useful internal adaptation reference, but it does not transfer its product claims or economics to CaptureCards.

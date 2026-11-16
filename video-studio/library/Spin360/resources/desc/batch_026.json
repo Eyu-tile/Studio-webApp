@@ -1,0 +1,252 @@
+{
+ "batch": "batch_026",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_026.out.json",
+ "clips": [
+  {
+   "id": "a86a0ab8-4573-4f8c-9ba4-f5363c424dc1",
+   "filename": "B-roll 1 x V1",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 100.66,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a86a0ab8-4573-4f8c-9ba4-f5363c424dc1_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a86a0ab8-4573-4f8c-9ba4-f5363c424dc1_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a86a0ab8-4573-4f8c-9ba4-f5363c424dc1_3.jpg"
+   ],
+   "bya_description": "Woman in brown tank top gestures at a large shipping box on a white table.",
+   "bya_tags": [
+    "Living room",
+    "Unboxing",
+    "Direct address",
+    "Direct address",
+    "Home testimonial",
+    "Lifting box",
+    "Living room",
+    "Product close-up"
+   ]
+  },
+  {
+   "id": "a591d33a-3159-4d6a-b1b4-b5023b9d856b",
+   "filename": "Closing blinds",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 93.44,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a591d33a-3159-4d6a-b1b4-b5023b9d856b_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a591d33a-3159-4d6a-b1b4-b5023b9d856b_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/a591d33a-3159-4d6a-b1b4-b5023b9d856b_3.jpg"
+   ],
+   "bya_description": "A brown cellular shade slowly lowers over a window with a mountain view. The window has a wood frame and a white rug.",
+   "bya_tags": [
+    "Curtains & windows",
+    "Lifestyle moment",
+    "Curtains & windows",
+    "Lifestyle moment"
+   ]
+  },
+  {
+   "id": "9feca4cc-e820-43fa-910a-2350119cd822",
+   "filename": "Creator in frame enjoying space",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 111.2,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9feca4cc-e820-43fa-910a-2350119cd822_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9feca4cc-e820-43fa-910a-2350119cd822_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9feca4cc-e820-43fa-910a-2350119cd822_3.jpg"
+   ],
+   "bya_description": "A black fan stands in a living room corner next to a white chair and wooden table.",
+   "bya_tags": [
+    "Living room",
+    "Curtains & windows",
+    "Direct address",
+    "Adjusting hair",
+    "Curtains & windows",
+    "Direct address",
+    "Fan controls",
+    "Home testimonial"
+   ]
+  },
+  {
+   "id": "8eb74b63-fd6d-48c3-8fa6-f4c96a25009e",
+   "filename": "Fan movement, normal fan",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 65.53,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8eb74b63-fd6d-48c3-8fa6-f4c96a25009e_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8eb74b63-fd6d-48c3-8fa6-f4c96a25009e_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8eb74b63-fd6d-48c3-8fa6-f4c96a25009e_3.jpg"
+   ],
+   "bya_description": "White pedestal fan and portable AC unit stand against a wooden wall; fan oscillates.",
+   "bya_tags": [
+    "Living room",
+    "Product on surface",
+    "AC & thermostat",
+    "AC & thermostat",
+    "Fan spinning close-up",
+    "Living room",
+    "Product close-up",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "2c7d5c84-e56e-47fe-aa80-28ee050afe42",
+   "filename": "Fan.AC in face",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 85.67,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/2c7d5c84-e56e-47fe-aa80-28ee050afe42_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/2c7d5c84-e56e-47fe-aa80-28ee050afe42_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/2c7d5c84-e56e-47fe-aa80-28ee050afe42_3.jpg"
+   ],
+   "bya_description": "White fan and AC in a wood room. Woman enters, leans over AC to blow hair, then ties hair.",
+   "bya_tags": [
+    "Living room",
+    "AC & thermostat",
+    "Adjusting hair",
+    "AC & thermostat",
+    "Adjusting hair",
+    "Fan controls",
+    "Feeling the breeze",
+    "Lifestyle moment"
+   ]
+  },
+  {
+   "id": "35373973-c4a6-42d5-b21b-cf61af7f64a6",
+   "filename": "Under blanket, happy with fan",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 99.9,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/35373973-c4a6-42d5-b21b-cf61af7f64a6_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/35373973-c4a6-42d5-b21b-cf61af7f64a6_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/35373973-c4a6-42d5-b21b-cf61af7f64a6_3.jpg"
+   ],
+   "bya_description": "Wide shot of a styled bedroom featuring a bed with striped bedding and a black floor fan. The room is bright with natural light from a window.",
+   "bya_tags": [
+    "Bedroom",
+    "Product on surface",
+    "Product hero shot",
+    "Bedroom",
+    "Product on surface",
+    "Sleeping",
+    "Tossing & turning",
+    "Unhappy expression"
+   ]
+  },
+  {
+   "id": "6d7d8b10-ad45-44a9-bde4-f639df7bbf37",
+   "filename": "Button press first impressions ",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 94.46,
+   "talking": false,
+   "cuts": [
+    59.6
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6d7d8b10-ad45-44a9-bde4-f639df7bbf37_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6d7d8b10-ad45-44a9-bde4-f639df7bbf37_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6d7d8b10-ad45-44a9-bde4-f639df7bbf37_3.jpg"
+   ],
+   "bya_description": "A man in a light blue short-sleeved shirt sits on a couch next to a tall black fan with a large cylindrical head. He looks at the fan and gestures with his hand.",
+   "bya_tags": [
+    "Fan controls",
+    "Relaxing at home",
+    "Digital display",
+    "Digital display",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Feeling the breeze",
+    "Product close-up"
+   ]
+  },
+  {
+   "id": "319f1c9d-88d8-4e49-ae33-e6575e1464f4",
+   "filename": "Fan Details closeup",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 89.21,
+   "talking": false,
+   "cuts": [
+    5.43,
+    15.63,
+    30.87
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/319f1c9d-88d8-4e49-ae33-e6575e1464f4_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/319f1c9d-88d8-4e49-ae33-e6575e1464f4_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/319f1c9d-88d8-4e49-ae33-e6575e1464f4_3.jpg"
+   ],
+   "bya_description": "Extreme close-up of the fan's ribbed vent as the camera pans slowly across the surface, showing the internal mechanism spinning. Then close-up of a black tower fan with a clear, ribbed cylindrical vent. The internal blades are visible and spinning behind the plastic ribs.",
+   "bya_tags": [
+    "Fan controls",
+    "Digital display",
+    "Fan spinning close-up",
+    "Digital display",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "d6804c23-42bf-42b3-9332-919da142269a",
+   "filename": "Ribbons",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 68.92,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d6804c23-42bf-42b3-9332-919da142269a_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d6804c23-42bf-42b3-9332-919da142269a_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/d6804c23-42bf-42b3-9332-919da142269a_3.jpg"
+   ],
+   "bya_description": "A black tower fan with pink ribbons taped around its circular head stands in a living room. The fan is off and the ribbons hang vertically.",
+   "bya_tags": [
+    "Visible airflow test",
+    "Digital display",
+    "Fan spinning close-up",
+    "Digital display",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "6cb91525-a9d9-4f77-9338-77cf046315ab",
+   "filename": "Scent pod drop in",
+   "folder": "Spin360 - Michael / Broll",
+   "duration_s": 89.84,
+   "talking": false,
+   "cuts": [
+    16.87,
+    40.37,
+    64.2,
+    75.27
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6cb91525-a9d9-4f77-9338-77cf046315ab_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6cb91525-a9d9-4f77-9338-77cf046315ab_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6cb91525-a9d9-4f77-9338-77cf046315ab_3.jpg"
+   ],
+   "bya_description": "A hand opens the top compartment of a black air purifier and removes a white scent pod. The hand then shows the empty compartment.",
+   "bya_tags": [
+    "Air purifier top",
+    "Scent pod drop",
+    "Bedroom",
+    "Air purifier top",
+    "Bedroom",
+    "Fan controls",
+    "Fan spinning close-up",
+    "Product in hand"
+   ]
+  }
+ ]
+}

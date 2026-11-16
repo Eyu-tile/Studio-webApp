@@ -1,0 +1,194 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_Airflow_BabyHook_VSL
+Author: Chris
+Editor:
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_Airflow_BabyHook_VSL
+* Ad Type: Iteration
+* Type of Ad: Narrator Lead 
+* Sizes Needed: 9x16, 4x5
+* Voiceover: 30 to 40 year old mother 
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 LA ‘26 - David Talking 
+________________
+ 
+[3] DIRECTION
+Audience: Mothers of infant / young children. Early 30’’s to 40’s. Also, older women who have had kids / grandmothers. 
+
+
+Awareness: Unaware transitioning to Problem Aware VSL
+
+
+
+
+WATCH THIS FIRST 
+
+
+Audio Stringout: 
+* Airflow_Babies_VSL.mp3
+   * Don't edit pacing! 
+Music: 
+* ES_Breathe In, Breathe Out (Instrumental Version) - Mattias Tell.mp3
+* ES_The Landslide (Instrumental Version) - Martin Hall.mp3
+ 
+ 
+________________
+[4] SCRIPT
+
+I never used to think about the air in my baby’s room 
+
+
+But then I found a study that honestly stopped me in my tracks.
+
+
+Researchers found that babies sleeping in rooms with a fan had dramatically lower rates of sudden infant death syndrome. Not 5%.
+
+
+
+
+Not 10%. More than 70% lower. So why was that? The researchers didn't think it was the fan itself. They thought it was the air. And that's when a strange pattern started showing up everywhere. I found things like open air schools in the early 1900s. Parents in Sweden who have their babies sleep outside an ancient Japanese forest. Hospitals where patients heal in fresh moving air.
+
+
+
+
+For hundreds of years, doctors, parents and researchers kept stumbling onto the same idea. Humans seem to do better when air keeps moving. So when I came across David, who had spent four years obsessed with this exact problem, I paid attention. What he built is honestly hard to explain until you feel it. It pulls that cool air from the floor and the warm, stale air from the ceiling, and sends it out in every direction all at once, like a breeze that wraps around you from every direction on a perfect cool night.
+
+
+
+
+The first time I slept with it, it felt like the walls of my bedroom just weren't there anymore. And I actually woke up cold in the middle of the summer on the lower settings. I don't hear it at all. Just fresh air moving through my room all night. Then you drop in a scent pod and 10s later. Your whole room smells like a forest pine, eucalyptus, cedar and in the summer you can use citronella to keep bugs away.
+
+
+
+
+It's that same amazing airflow. Humans have been trying to replicate for thousands of years. It's called the spin 360, and they're offering $110 off this summer only. 
+
+
+[8] Shotlist / Storyboard
+
+
+HOOKS
+	#
+	Script 
+	Visual 
+	Description 
+	1
+	I never used to think about the air in my baby’s room 
+	hf_20260610_140805_ebcb8136-fabd-4b78-86da-8ce4603e4223.mp4
+	
+
+	2
+	I never used to think about the air in my baby’s room 
+	hf_20260610_143259_aa552b80-fa4f-4458-8509-763ac1209a36.mp4
+	
+
+	3
+	TEXT ON SCREEN 
+
+Why is airflow SO important for babies? 
+	
+
+	1. Create/find a hook of a baby sleeping in a crib in a room and add it as the hook.
+2. The hook should have NO AUDIO only text on screen.
+3. Then the rest of the video plays, starting at the beginning of hook 1. 
+	4
+	TEXT ON SCREEN 
+
+
+Why is airflow SO important for babies? 
+	
+
+	Same as hook three.
+	
+
+
+
+
+
+Headline: 
+
+
+Airflow Matters More Than Parents Realize
+
+
+Airflow Discovery Every Parents Needs to Know 
+
+Every Parents Needs to Know This 
+
+
+A Must-Know For New Moms
+Primary Text: 
+As a parent, you'll do almost anything to create a safe and healthy environment for your baby.🍼👶🏻
+That's why this study about airflow and infant sleep immediately caught my attention.
+Researchers found babies sleeping in rooms with a fan had 72% lower rates of SIDS. 
+And for hundreds of years, doctors, parents and teachers kept discovering the same thing…humans heal, sleep, and thrive in moving air. Not sealed rooms. Moving air.
+So when I found a Shark Tank inventor who spent 4 years on this exact problem, I paid attention.
+Spin360 wraps your whole room in silent 360° airflow. Perfectly mixing and circulating air for your whole family. 
+
+Gentle moving air for your newest members, to better sleeping and relaxation for you. 
+It’s totally unlike anything you’ve felt before. 
+$110 off this summer only. →
+
+
+
+
+
+
+
+
+________________
+
+
+
+
+
+
+Notes DNU: 
+
+
+* Primary goal: 
+   * Keep their child safe and alive
+* Secondary Goals
+   * Be perceived as a good mother/parent.Be well informed on the health of your child.
+
+
+I never used to think about the air in my baby’s room 
+
+
+But then I found a study that honestly stopped me in my tracks.
+
+
+Researchers found that babies sleeping in rooms with a fan had dramatically lower rates of sudden infant death syndrome. Not 5%.
+
+
+
+
+Not 10%. More than 70% lower. So why was that? The researchers didn't think it was the fan itself. They thought it was the air. And that's when a strange pattern started showing up everywhere. I found things like open air schools in the early 1900s. Parents in Sweden who have their babies sleep outside an ancient Japanese forest. Hospitals where patients heal in fresh moving air.
+
+
+
+
+For hundreds of years, doctors, parents and researchers kept stumbling onto the same idea. Humans seem to do better when air keeps moving. So when I came across David, who had spent four years obsessed with this exact problem, I paid attention. What he built is honestly hard to explain until you feel it. It pulls that cool air from the floor and the warm, stale air from the ceiling, and sends it out in every direction all at once, like a breeze that wraps around you from every direction on a perfect cool night.
+
+
+
+
+The first time I slept with it, it felt like the walls of my bedroom just weren't there anymore. And I actually woke up cold in the middle of the summer on the lower settings. I don't hear it at all. Just fresh air moving through my room all night. Then you drop in a scent pod and 10s later. Your whole room smells like a forest pine, eucalyptus, cedar and in the summer you can use citronella to keep bugs away.
+
+
+
+
+It's that same amazing airflow. Humans have been trying to replicate for thousands of years. It's called the spin 360, and they're offering $110 off this summer only.

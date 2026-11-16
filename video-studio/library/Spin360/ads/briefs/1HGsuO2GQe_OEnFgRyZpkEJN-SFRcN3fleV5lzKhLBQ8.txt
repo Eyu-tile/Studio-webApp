@@ -1,0 +1,292 @@
+﻿Spin360_Baby_NordicBabies_2to5Hours — VSL
+Watch:Brief - Spin360_Baby_NordicBabies_2to5Hours
+Strategy
+
+
+# Element
+	Answer
+	1 Desire
+	A baby who finally sleeps through the night, and a mom who gets her nights, her energy and herself back, instead of just surviving the first year.
+Core desire: comfort (rest, peace of mind) + health (a baby who grows up healthy).
+	2 Avatar
+	Experiences: up every two hours for weeks or months; tried the swaddles, the sound machine, the blackout curtains and the sleep schedule, and nothing changed.
+Behaviors: googles baby sleep at 2 a.m., buys sleep gadgets, checks the monitor all night, follows sleep accounts on Instagram and TikTok.
+Emotions: exhausted, frustrated, quietly guilty ('what am I doing wrong?'), loves her baby but is running on empty.
+Demographic: US moms, 25 to 38, baby 0 to 12 months, first or second baby.
+	3 Angle
+	Sealed nursery air keeps the baby waking every 2 hours
+	4 Mechanism
+	Problem: with the door and the window closed, the air in the nursery stops moving; every exhale (used-up air, CO₂) stays around the baby's face and gets breathed back in, so the baby can't settle and wakes up.
+Solution: Spin360 pulls air in from the top and the bottom and sends it out all the way around (360°), so the air around the crib keeps moving like outside; the used-up air drifts away, every breath is fresh air, with a soft, gentle breeze and no noise.
+	5 Authority
+	In order of appearance: 1) the Nordic tradition: parents in Norway, Sweden and Finland nap their babies outside, even in the snow; 2) research on outdoor naps: those babies sleep almost twice as long; 3) simple breathing science: every breath out is CO₂; 4) real proof: one mom's first baby never slept more than two hours at a time, her second slept five with Spin360.
+The ad earns authority by educating: no expert or doctor on screen.
+	6 Awareness
+	Problem-aware: she knows her baby wakes up every two hours (the hook calls it out), but she has no idea the cause is the still air in the nursery, and she has never heard of a solution like this.
+Strange fact: in Norway, Sweden and Finland, parents put their babies outside to sleep in the snow, and those babies sleep almost twice as long..
+	7 Emotion
+	  
+
+Opens: curiosity and surprise (positive, medium-high): 'wait, babies sleep outside in the snow?'
+Mid: worry and realization (negative, high): the used-up air around her baby's face, the 2 a.m. crying, 'so that's why'.
+Ends: relief and peace (strongly positive, high): the baby asleep, arms up, and she finally sleeps and feels like herself again.
+	8 Positioning
+	Enemy: the still, sealed air in the nursery, and the gadgets that never touch it (the AC only cools, the purifier only cleans, a regular fan blasts the baby).
+First and only: an air circulator made for babies' rooms that keeps the air around the crib gently moving, like outside, without ever blowing on the baby.
+	Production notes
+Format: Female VO, about 3:20, vertical 9:16. Three hooks with the SAME VO; only the opening visual changes. The body is the same for all three.
+Style: Cinematic but realistic: it should look like a premium commercial, not animation and not UGC. Shallow depth of field, warm practical light, slow camera moves, natural film grain. The Nordic snow scenes (Hook 2 and lines 1 to 6) use real snow footage; everything from line 7 on is cinematic AI in the same realistic look.
+Visual language: Used-up air (CO₂) = a translucent dark-grey haze that sits still, added as a VFX overlay on real footage. Fresh air = soft, glowing light-blue ribbons. Problem scenes in cold blue tones; solution scenes in warm amber light. A regular fan = one harsh straight stream; Spin360 = a gentle 360° ring (Saturn's rings).
+Fixed rules: The baby is always on its back in a bare crib (fitted sheet only). Spin360 is always the WHITE floor model, on the floor, far from the crib, cord away from the crib. Never show a fan blowing straight into a baby's face. No text inside the images; all on-screen text is added in the edit.
+How to read the images: The images are VISUAL INSPIRATION ONLY, not keyframes: do not use them in the edit. They show the mood, light and framing we want. Each Scene Description is written so you can use it as the base of your generation prompt. Lines with two images need two shots.
+The ad, end to end: 1) Hook: 2 hours → 5 hours, and the secret comes from Nordic moms. 2) Story: Nordic babies nap outside in the snow and sleep longer; it's not the cold, it's the moving air. 3) A quick joke, then the turn to her nursery. 4) Problem: the air doesn't move, used-up air sits around the baby's face, the baby wakes every two hours. 5) Why what she has doesn't fix it: AC, purifier, regular fan. 6) Spin360: the 360° mechanism, the haze drifts away, the chest rising slow. 7) Proof: 2 hours → 5 hours. 8) Her payoff: she falls asleep, the 4 a.m. peek, she feels like herself again. 9) Price and CTA.
+Music and sound: Soft, cinematic piano. Story section: gentle and curious, with outdoor wind and snow ambience. Problem section: colder, sparse, quiet tension, a baby fussing. From the product reveal (line 18): warm and hopeful. Payoff: tender and calm, silence at 4 a.m.
+
+
+
+
+vo(1).MP3
+Nordic Baby Folder shots:Baby no texts
+Hooks
+Same VO for all three hooks. Only the opening visual changes. Goal: 50–60% hook rate, so the first frame has to stop the scroll on its own.
+#
+	Script
+	Visual Inspiration
+	Scene Description
+	Hook 1
+	Here's how to get your baby from waking up every two hours to sleeping five hours straight,
+	  
+
+	Source: Cinematic AI
+Split screen, before and after, same nursery and same baby. Left: cold blue night, the baby fussing and crying in the crib, a grey haze around its face. Right: warm amber light, the baby sound asleep on its back with both arms up over its head, soft blue air drifting through the room, the Spin360 on the floor far from the crib. On-screen text: 2 HOURS → 5 HOURS.
+	Hook 2
+	Here's how to get your baby from waking up every two hours to sleeping five hours straight,
+	  
+
+	Source: Real footage: https://drive.google.com/file/d/1Svbaq1zNcb66J7mg1pTIIseXNkyVy0pR/view
+A toddler bundled in a black snowsuit, fast asleep on a red sled in the middle of the snow, the camera slowly circling around. Use the clip as is (about 6s, the same length as the hook VO); start at about 1s, after the dog leaves the frame. Optional on-screen text: Why do these babies sleep 2x longer?
+	Hook 3
+	Here's how to get your baby from waking up every two hours to sleeping five hours straight,
+	  
+
+	Source: Cinematic AI + VFX haze
+Extreme close-up of a baby asleep on its back in a dark crib, lit only by the green glow of the baby monitor. A dark-grey haze gathers around the nose and mouth and doesn't move. Restless sleep, cold blue tones. The invisible problem, the same idea as the 'black smoke' in SIDSNursery.
+	
+
+Body (same for all hooks)
+#
+	Script
+	Visual Inspiration
+	Scene Description
+	1
+	and the secret comes from moms in Norway, Sweden and Finland.
+	  
+
+	Source: Real snow footage (Swedish Babies ad or similar), 0:00
+A Nordic mom in a snowy yard holding her bundled-up baby, snow everywhere, natural daylight. Optional quick map flash: Norway · Sweden · Finland.
+	2
+	Over there, moms bundle their babies up, tuck them into their strollers
+	  
+
+	Source: Real snow footage (Swedish Babies ad or similar), 0:10
+A baby in a red snowsuit tucked into a pram, snow on the blanket. Show the action: zipping the snowsuit, pulling up the cover.
+	3
+	and park them outside to sleep, even in the snow.
+	  
+
+	Source: Real snow footage (Swedish Babies ad or similar), 0:05
+A row of prams parked outside a café on a snowy street, babies asleep inside, parents through the window having coffee.
+	4
+	And those babies sleep almost twice as long out there as they do inside.
+	  
+
+	Source: Real snow footage (Swedish Babies ad or similar), 0:13
+Close-up of a baby deeply asleep in a fur-lined hood, snowflakes falling. Peaceful. Optional text: 2x longer.
+	5
+	It's not the cold, because they're wrapped up so warm you can barely see their faces.
+	  
+
+	Source: Real snow footage (Swedish Babies ad or similar), 0:26
+A baby wrapped so warm that only the sleeping face shows: thick hat, sleeping bag, cozy and warm.
+	6
+	It's the air. Outside, the air is always moving, so every breath that baby takes is fresh air.
+	  
+
+	Source: Real snow footage (Swedish Babies ad or similar), 0:30 + light VFX
+Snow drifting sideways in the breeze, trees moving. Soft light-blue ribbons of air flow past the sleeping baby's face: the first time we see 'fresh air = blue ribbons'.
+	7
+	And no, you don't have to move the crib out into the snow.
+	  
+
+	Source: Cinematic AI (light humor)
+A tired mom dragging an empty white crib through deep snow in her backyard at dusk, giving the camera a deadpan look. 1-2 seconds, it should get a smile.
+	8
+	But now think about your baby's room at night. The door's closed and the window's closed,
+	  
+
+	Source: Cinematic AI
+Inside an American nursery at night: a hand gently closes the door, the window is shut, heavy curtains drawn, the room goes quiet and dark. The baby asleep in the crib in the soft background. Cold blue moonlight.
+	9
+	so the air in there just doesn't move at all.
+	  
+
+	Source: Cinematic AI + VFX
+Wide shot of the dark, sealed nursery, the baby asleep in the crib, the monitor's green dot. Everything perfectly still. A faint grey haze hangs in the air and doesn't move.
+	10
+	And here's why that matters. Every time your baby breathes out, they're breathing out used-up air, carbon dioxide.
+	  
+
+	Source: Cinematic AI + VFX
+Side-profile close-up of the sleeping baby: every exhale leaves a small grey cloud that stays hanging in the air. On-screen text: CO₂.
+	11
+	And since the air in the room isn't moving, that used-up air doesn't go anywhere.
+	  
+
+	Source: Cinematic AI + VFX
+The grey haze builds up low and still over the crib mattress, thicker around the baby's head. Nothing in the room moves.
+	12
+	It just sits right there, around your baby's little face, so your baby keeps breathing it back in, over and over, all night long.
+	  
+
+	Source: Cinematic AI + VFX
+Close-up of the baby's little face, the haze curling around the nose and mouth and being breathed back in. Restless sleep, brow knitted.
+	13
+	And your baby can't tell you what's wrong, so they just fuss and toss and turn and wake up crying every two hours.
+	  
+
+	Source: Cinematic AI
+The baby fussing, kicking and turning in the crib, then crying. Mom appears in the doorway holding the monitor, exhausted, with no idea what's wrong. Optional text: 2:00 AM.
+	14
+	So it's not that your baby is a bad sleeper. They're just sleeping in air that doesn't move.
+	  
+
+	Source: Cinematic AI + VFX
+Mom sitting on the nursery floor against the wall, head in her hands, while a grey haze hangs over the crib that she can't see. The emotional low point.
+	15
+	What they need is air that keeps moving, just like outside. But until now, there was nothing made to do that in a baby's room.
+	  
+
+	Source: Split screen: snow footage + cinematic AI
+Split screen. Top: the Nordic baby asleep in the pram, snow drifting in the breeze. Bottom: our baby asleep in the sealed, dark nursery, the air still. Same framing, so the only difference is the air.
+	16
+	Your AC just makes the air colder, and your purifier just cleans it.
+	  
+
+	Source: Cinematic AI
+Two quick cuts: an AC unit on the wall blowing cold air, then an air purifier on the floor. Near the crib, the grey haze doesn't move. Optional ✗ on each.
+	17
+	A regular fan blows a harsh stream of air straight ahead, so when you point it at the crib, it blows right on your baby all night, and no mom wants that.
+	  
+
+  
+
+	Source: Cinematic AI
+Shot A: a box fan pointed at the crib blasting one harsh, straight stream of air, the curtains whipping. Shot B, the bad result: mom, exhausted and frustrated, reaches over and switches it off. Make the 'straight ahead' direction obvious: it sets up the 360° contrast in line 19.
+	18
+	That's exactly why we made Spin360, and here's how it gets your baby sleeping five hours instead of two.
+	  
+
+	Source: Cinematic AI
+Product reveal: a warm nursery at dusk, soft amber lamp light, the Spin360 standing on the floor across the room, lit like the hero of the scene. The music turns from cold to warm here.
+	19
+	It's an air circulator made for babies' rooms. It pulls air in from the top and the bottom and sends it out all the way around, so the air around the crib is always moving, just like outside.
+	  
+
+	Source: Cinematic AI + VFX
+The mechanism: light-blue ribbons of air pulled in from the top and the bottom of the Spin360 and pushed out in a gentle 360° ring around it, like Saturn's rings, flowing softly toward the crib.
+	20
+	So that used-up air around your baby's face just drifts away, and every breath your baby takes is fresh air, all night long.
+	  
+
+	Source: Cinematic AI + VFX
+Close-up of the baby: the grey haze breaks up and drifts away, the blue ribbons flow past, the face relaxes, cheeks turn pink. The payoff of the whole problem section.
+	21
+	And when you look over at the crib, you can see their little chest going up and down, nice and slow.
+	  
+
+	Source: Cinematic AI
+Close-up of the baby asleep on its back, the little chest rising and falling slowly under the sleeper. Warm nightlight. Hold the shot and let it breathe.
+	22
+	But don't worry, there's no harsh wind on your baby's face, just a soft, gentle breeze, and it's completely silent, so it's never gonna wake them up.
+	  
+
+	Source: Cinematic AI
+The baby sleeping peacefully, a few fine strands of hair barely moving in a soft breeze, the Spin360 running quietly on the far side of the room. Calm and silent.
+	23
+	And that's when your baby finally sleeps. They go from waking up every two hours to sleeping five hours straight.
+	  
+
+	Source: Cinematic AI
+Mom's hand holding the video monitor: the baby fast asleep on the screen, the window turning blue with dawn. On-screen text: 2 hours → 5 hours.
+	24
+	And I'm not just saying that. One mom told us her first baby never slept more than two hours at a time, not once. So with her second baby, she put a Spin360 in the room the day they came home, and that baby slept five hours.
+	  
+
+	Source: Cinematic AI (not UGC)
+A warm, cinematic family moment in a sunny nursery: a mom in a rocking chair holding her newborn, her toddler (the first baby) leaning on her knee and smiling, the Spin360 standing in the background. Cinematic, not UGC, so it never looks like a fake testimonial.
+	25
+	And when your baby sleeps five hours, guess what? You get to sleep five hours too.
+	  
+
+	Source: Cinematic AI
+Mom fast asleep in her own bed, deeply relaxed, one arm over the pillow, soft light, the house quiet. A light, happy 'guess what?' moment.
+	26
+	And I want you to really think about what that means for you. It means you put your baby down and you actually fall asleep, instead of lying there waiting for the crying to start.
+	  
+
+  
+
+	Source: Cinematic AI
+Shot A: mom gently lays her sleepy baby down in the crib, smiling, calm and confident. Shot B: she gets into her own bed, pulls the blanket up, closes her eyes and drifts off with a peaceful smile. Only good feelings, no anxiety.
+	27
+	It means you wake up on your own at four in the morning, and you panic for a second because it's way too quiet. So you peek in, and there's your baby, flat on their back, arms up over their head, sound asleep.
+	  
+
+  
+
+	Source: Cinematic AI
+Shot A: before dawn, mom wakes up on her own, rested, props herself up and glances at the quiet monitor with a curious half-smile ('wait, it's so quiet'). Shot B: she leans in the nursery doorway, hand on her heart, smiling with relief at the baby asleep on its back with both arms up over its head. The Spin360 far from the crib.
+	28
+	And you go back to bed and get a real night's sleep, and the next morning you actually feel like yourself again.
+	  
+
+	Source: Cinematic AI
+Morning sunlight pouring in, mom stretching by the window, smiling and rested, the baby happy in the crib, the Spin360 by the window.
+	29
+	Is it cheap? No. But you've already spent hundreds on things that didn't fix this, and Spin360 is the one thing that actually gets the air in your baby's room moving, and keeps it fresh and healthy all night long.
+	  
+
+	Source: Cinematic AI
+A pile of baby-sleep gadgets she already bought (sound machine, swaddles, sleep sacks, monitor), and standing apart from the pile, clean and simple, the Spin360.
+	30
+	So if you're tired of being up every two hours, tap the link, get a Spin360 for your baby's room, and get your nights back.
+	  
+
+	Source: Cinematic AI + VFX
+Final hero: a peaceful nursery at night, soft blue air moving through the room, the baby asleep in the background, the Spin360 in the foreground. CTA text: Tap the link.
+	
+
+Here's how to get your baby from waking up every two hours to sleeping five hours straight, and the secret comes from moms in Norway, Sweden and Finland.
+Over there, moms bundle their babies up, tuck them into their strollers and park them outside to sleep, even in the snow. And those babies sleep almost twice as long out there as they do inside.
+It's not the cold, because they're wrapped up so warm you can barely see their faces. It's the air. Outside, the air is always moving, so every breath that baby takes is fresh air.
+And no, you don't have to move the crib out into the snow. 
+But now think about your baby's room at night. The door's closed and the window's closed, so the air in there just doesn't move at all.
+And here's why that matters. Every time your baby breathes out, they're breathing out used-up air, carbon dioxide. And since the air in the room isn't moving, that used-up air doesn't go anywhere. 
+It just sits right there, around your baby's little face, so your baby keeps breathing it back in, over and over, all night long.
+And your baby can't tell you what's wrong, so they just fuss and toss and turn and wake up crying every two hours.
+So it's not that your baby is a bad sleeper. They're just sleeping in air that doesn't move.
+What they need is air that keeps moving, just like outside.
+But until now, there was nothing made to do that in a baby's room.
+Your AC just makes the air colder, and your purifier just cleans it. A regular fan blows a harsh stream of air straight ahead, so when you point it at the crib, it blows right on your baby all night, and no mom wants that.
+That's exactly why we made Spin360, and here's how it gets your baby sleeping five hours instead of two.
+It's an air circulator made for babies' rooms. It pulls air in from the top and the bottom and sends it out all the way around, so the air around the crib is always moving,  just like outside.
+So that used-up air around your baby's face just drifts away, and every breath your baby takes is fresh air, all night long. And when you look over at the crib, you can see their little chest going up and down, nice and slow.
+But don't worry, there's no harsh wind on your baby's face, just a soft, gentle breeze, and it's completely silent, so it's never gonna wake them up.
+And that's when your baby finally sleeps. They go from waking up every two hours to sleeping five hours straight.
+And I'm not just saying that. One mom told us her first baby never slept more than two hours at a time, not once. So with her second baby, she put a Spin360 in the room the day they came home, and that baby slept five hours.
+And when your baby sleeps five hours, guess what? You get to sleep five hours too.
+And I want you to really think about what that means for you. It means you put your baby down and you actually fall asleep, instead of lying there waiting for the crying to start.
+It means you wake up on your own at four in the morning, and you panic for a second because it's way too quiet. So you peek in, and there's your baby, flat on their back, arms up over their head, sound asleep.
+And you go back to bed and get a real night's sleep, and the next morning you actually feel like yourself again.
+Is it cheap? No. But you've already spent hundreds on things that didn't fix this, and Spin360 is the one thing that actually gets the air in your baby's room moving, and keeps it fresh and healthy all night long.
+So if you're tired of being up every two hours, tap the link, get a Spin360 for your baby's room, and get your nights back.

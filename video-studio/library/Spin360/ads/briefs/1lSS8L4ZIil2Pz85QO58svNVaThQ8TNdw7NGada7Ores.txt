@@ -1,0 +1,300 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_Founder_KS_Short_V1
+Author: Chris
+Editor: N/A
+
+
+AD BRIEF
+	
+
+->>>WATCH LOOM INSTRUCTiONS VIDEO FIRST-<<<
+[1] Overview
+* Ad ID: Spin360_Founder_KS_Short_V1
+* Ad Type: Ideation 
+* Type of Ad: Founder-led
+* Sizes Needed: 9x16, 4x5
+* Voiceover: David Patrick - from this video
+* Creative Roadmap Link
+* Assets:
+   * Reference Video!  
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+________________
+ 
+[2] Performance Goal
+* Hook Rate Target: >35%
+* Hold Rate Target: >30%
+* Thumb Stopper Priority: HIGH
+* Primary KPI: Purchase / CPA
+* Secondary KPI: ThruPlay %
+* Reference Videos: 
+   * https://www.youtube.com/watch?v=DxbZgCy25nM&t=4s
+   * ________________
+
+
+[3] Strategy
+Who is this for [Avatar]:
+We are using David Patrick’s YouTube video (“Meet Spin360 Fan with David Patrick”) as the foundation, layering visuals over his VO to create a high-end, calming, slightly tech-forward ad targeted at an older, health-conscious audience.
+What they believe:
+Traditional fans provide adequate airflow. Air quality in the home is determined by ventilation and AC. If the room feels comfortable temperature-wise, the air is fine. Fans are just for cooling, not health.
+Wake up more refreshed, sleep in a healthier environment, and bring natural airflow into your home—transforming your space into a calm, oxygenated sanctuary.
+Why this product works [Mechanism]:
+The Spin360's patented horizontal blade design pulls air from every corner of the room—from the floor where CO2 pools and from the ceiling where oxygen rises—and continuously mixes it together in a gentle 360° circulation pattern. This mimics natural outdoor airflow, ensuring consistent oxygen distribution throughout the room and eliminating stale, separated air.
+Market Awareness:
+Solution Aware (Stage 3) - They know fans exist but don't know that air mixing/oxygenation is possible or important.
+Desires:
+Health/Wellness (primary), Comfort (secondary), Control over home environment
+Angle:
+Founder led / Air mixing for health
+________________
+[4] HOOK TEST PLAN
+ Instruction:
+* All hooks use VO: “It doesn’t feel like a fan.”
+* 5 Different visual hooks 
+
+
+ 
+________________
+
+
+[5] Creative Direction
+This ad uses David (founder) and an educational VSL approach with a strong visual demonstrations: the mixing blade comparison, prototypes and other images from the building process. This video is meant to feel naturally, calming, educational and HUMAN. 
+
+Angle: 
+Tone: Match David’s tone during the video, optimistic, calming, but upbeat and exciting 
+
+Visual Approach: Use lifestyle B-roll of peaceful bedrooms, natural outdoor scenes (to reinforce the nature connection), and product shots showing the horizontal blades in action. Include close-ups of aromatherapy pods and subtle touches that appeal to design-conscious women.
+
+Key Messaging: This isn't about "cooling"—it's about oxygenation, wellness, and creating a healthier home environment. Validate her existing efforts (she already cares about health) and position Spin360 as the missing piece.
+ 
+________________
+
+
+[7] Script
+[HOOK] “It doesn’t feel like a fan.”
+[BODY] Edit based on timestamps given below. VIDEO REFERENCE 
+1:00 - A fan is spinning the air and twisting the air at you and it creates a harmonic (wob wob wob wob wob) 
+1:08 - this does not have that
+0:54 - what we've made is very analogous to a breeze 
+
+0:35 - the way we created our fan, it sucks really hard from the top and bottom and blows out 360s in all directions like saturns rings, your getting an absolutely perfect flow of air in every single direction.
+2:45 -2:54- "it creates such a wonderful breeze you don't notice it..." blub on working 
+4:49: "when you sleep with this...you're mixing the air in the room better than..." blurb on mixing air for sleeping 
+2:54- 3:17 Sleeping bulb based on his VO 
+1:10-1:56 - editor should add section about silence and the controls, including LED lights, needs to be quick and go fast, short blurb 
+2:16-2:40 "this is the fan in its regular configuration..." add blurb about the two different configurations, a good selling point. 
+3:25 - 4:30 "theres something else super unique about it, it throws out scent" - quick blub, 
+
+
+5:10 "We've spend 3 years working on this, we have an amazing team...all we wanted was quality quality quality..every single piece is top notch " - shots of prototypes, shots of David working with China team, close ups are the quality of the fan 
+5:33 "I have a lot of experience in manufacturing..including the shark wheel...this is my biggest home run" - try to remove kickstarter, use the shark tank images, 
+5:56 "Its an amazing product, and I hope the you guys love my product and hope that you love living with it" - remove kickstarter segment 
+ 
+________________
+[8] Shotlist / Storyboard
+
+
+HOOKS
+	HOOK
+	Script
+	Visual
+	Description
+	1
+	“It doesn’t feel like a fan.”
+	  
+
+	Clean footage of the fan for generic hook 
+	2
+	“It doesn’t feel like a fan.”
+	  
+
+	* Side-by-side comparison (prototype vs finished product)
+* Reference: Gabriel’s Design Proto V1 hook
+
+
+	3
+	“It doesn’t feel like a fan.”
+	  
+
+	* Static/slow shot of fan with arrow animation + text overlay: “Doesn’t feel like a fan”
+* Text / graphic inspiration from this video 
+* slight zoom in, good text animation, put effort into it 
+	4
+	“It doesn’t feel like a fan.”
+	  
+
+	* Use spinning golden prototype clip -> LINK(from Master Visual Assets folder)
+* Just use last few seconds when it’s stable. 
+* Text overlay “it doesn’t feel like a fan” 
+
+
+	5
+	“It doesn’t feel like a fan.”
+	  
+
+	* Side-by-side: Dyson vs Spin360
+* Dyson should have a plain white harsh background with an X
+* Spin360 should have this gradient background (use this image) and a checkmark 
+* Animation both checkmark and X, should scale from 0% to 100% w/ an ease-in ease out animation (smooth) 
+* Text box overlay - USING brand colors 
+	 
+BODY
+BODY
+	Script
+	Visual
+	Description
+	1:00 - A fan is spinning the air and twisting the air at you and it creates a harmonic (wob wob wob wob wob) 
+	  
+
+	Animated graphic showing harmonics then cutting to a video like this of people talking into fans, search the internet for betters ones 
+	1:08 - this does not have that
+0:54 - what we've made is very analogous to a breeze 
+	  
+  
+
+  
+  
+  
+ 
+
+
+	Quick nature sequence. 
+
+Feels fresh, calm, like a breath of fresh air. 
+
+
+	0:35 - the way we created our fan, it sucks really hard from the top and bottom and blows out 360s in all directions like saturns rings, your getting an absolutely perfect flow of air in every single direction.
+
+
+	  
+
+	Shots of the fan blowing in 360 degrees. Make it a sequence, use what we’ve got from Kickstart video, ect. 
+	2:45 -2:54- "it creates such a wonderful breeze you don't notice it..." blub on working and not noticing it 
+	  
+
+	USE shots of guy working as desk from Kickstarter video. 
+	4:49: "when you sleep with this...you're mixing the air in the room better than..." blurb on mixing air for sleeping 
+2:54- 3:17 Sleeping bulb based on his VO 
+
+
+	  
+
+	Shots from our library of Sleeping or Kickstarter video. 
+	1:10-1:56 - editor should add section about silence and the controls, including LED lights, needs to be quick and go fast, short blurb 
+
+
+	  
+
+	Use shots from our Library or the one of David talking. 
+	2:16-2:40 "this is the fan in its regular configuration..." add blurb about the two different configurations, a good selling point. 
+	  
+
+	SHow different configurations. You can cut between David talking in that video, and the images in the studio shoot folder. 
+	3:25 - 4:30 "theres something else super unique about it, it throws out scent" - quick blub, 
+	  
+  
+
+	Scent pod sequence 
+	5:10 "We've spend 3 years working on this, we have an amazing team...all we wanted was quality quality quality..every single piece is top notch " 
+	  
+  
+  
+  
+  
+
+	Shots of prototypes, shots of David working with China team, close ups are the quality of the fan 
+
+Get creative, make this a fun sequence. Like the wakey video 
+
+Show boxes shipping out, him in China, prototypes,ect. 
+Pull images from prototype folders, especially of him talking 
+
+
+
+
+Image of David w/ manufactures -> INTO NEXT SEQUENCE 
+	5:33 "I have a lot of experience in manufacturing..including the shark wheel...this is my biggest home run" 
+	  
+
+
+
+	- Remove kickstarter VO, use the shark tank images, 
+
+
+Include clips of David from Shark wheel
+
+
+	5:56 "Its an amazing product, and I hope the you guys love my product and hope that you love living with it" - remove kickstarter segment 
+	  
+
+	End with David talking 
+
+
+CTA: Now $189 for first 1,000 Orders
+	 
+
+
+________________
+
+
+[9] Editing Rules
+* First 3 seconds must be FAST (no pauses)
+* No dead air in video—unless it's intentional
+* No clip longer than 2 seconds in first 10 seconds
+* Add captions for entire video
+* Each visual clip MUST complement the audio to help the audience understand what is happening
+* Editor must add sound design
+* Use Speed Ramps when needed and Add Blur
+* The mixing demo should be HIGH QUALITY and clearly visible—this is the hero visual
+* Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+* Lifestyle shots should target middle-aged/older women—avoid young, overly trendy aesthetics
+ 
+________________
+
+
+[10] Platform Notes
+• Platform: Meta (Facebook/Instagram)
+• Target: Women 45-65+, Men 35-65+ 
+• Long-form VSL (60-90 seconds) is working well on Meta for this demographic
+• Educational angles perform strongly with older audiences—they want to understand WHY
+• Pacing can be slightly slower than typical Meta ads—this demographic appreciates clarity over speed
+ 
+________________
+
+
+[11] Deliverables
+• Versions : 5  total (V1-V5, one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels), 4:5 (Feed)
+• File Naming Convention:
+*  Spin360_Founder_KS_Short_V1_HOOK_1 
+* Spin360_Founder_KS_Short_V1_HOOK_2
+* Spin360_Founder_KS_Short_V1_HOOK_3
+* Spin360_Founder_KS_Short_V1_HOOK_4
+* Spin360_Founder_KS_Short_V1_HOOK_5
+• Upload Location: Creative Roadmap  -> Column = Link to Export V1
+
+
+[7] Script
+[HOOK] “It doesn’t feel like a fan.”
+[BODY] Edit based on timestamps given below. VIDEO REFERENCE 
+1:00 - A fan is spinning the air and twisting the air at you and it creates a harmonic (wob wob wob wob wob) 
+1:08 - this does not have that
+0:54 - what we've made is very analogous to a breeze 
+
+0:35 - the way we created our fan, it sucks really hard from the top and bottom and blows out 360s in all directions like saturns rings, your getting an absolutely perfect flow of air in every single direction.
+2:45 -2:54- "it creates such a wonderful breeze you don't notice it..." blub on working 
+4:49: "when you sleep with this...you're mixing the air in the room better than..." blurb on mixing air for sleeping 
+2:54- 3:17 Sleeping bulb based on his VO 
+1:10-1:56 - editor should add section about silence and the controls, including LED lights, needs to be quick and go fast, short blurb 
+2:16-2:40 "this is the fan in its regular configuration..." add blurb about the two different configurations, a good selling point. 
+3:25 - 4:30 "theres something else super unique about it, it throws out scent" - quick blub, 
+
+
+5:10 "We've spend 3 years working on this, we have an amazing team...all we wanted was quality quality quality..every single piece is top notch " - shots of prototypes, shots of David working with China team, close ups are the quality of the fan 
+5:33 "I have a lot of experience in manufacturing..including the shark wheel...this is my biggest home run" - try to remove kickstarter, use the shark tank images, 
+5:56 "Its an amazing product, and I hope the you guys love my product and hope that you love living with it" - remove kickstarter segment

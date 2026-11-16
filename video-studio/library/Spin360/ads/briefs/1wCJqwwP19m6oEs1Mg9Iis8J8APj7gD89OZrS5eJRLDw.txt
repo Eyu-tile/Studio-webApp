@@ -1,0 +1,208 @@
+﻿Brand: Spin360
+Ad ID: Spin360_NordicBabies_DavidExplainer
+Author: Gabriel
+
+
+AD BRIEF
+	
+
+🎬 WATCH BEFORE YOU START — 3 videos, ~16 minutes
+1. Every Frame a Painting — How Does an Editor Think and Feel → https://youtu.be/3Q3eITC01Fg THE main one. David's pauses and looks are the edit.
+
+
+
+
+2. THE BRIEF — this ad explained → Nordic_Babies_Explainer.mp4
+
+
+
+
+"The storyboard is here to be broken — by someone who understood it first."
+1. THE IDEA
+Who this ad is for: a woman scrolling her feed who sleeps badly — and has no idea a fan could have anything to do with it. She's not looking for a fan. She's not looking for anything. We have to stop her, hold her, and change how she thinks about the air in her bedroom — all in one video.
+
+
+How the ad does it: David opens with an absurd claim — "I invented a fan that makes you sleep like a Swedish baby." That sentence creates two questions at once: he invented a WHAT? and what's the deal with Swedish babies? — and the only way to get both answers is to keep watching. The fan is announced in the first breath and then held back: it appears on screen for the first time at ~1:20, at the exact moment the story has made her beg to see it.
+
+
+Why the body is a Q&A: every question David asks is the question she is asking herself at that exact second. Is it the cold? Is it something about those babies? What does this have to do with me? How do you get outside air inside? Isn't that just a fan? Does it actually work? What about the noise? He asks it, he answers it, and the next question is already loading. That rhythm is what holds her for three minutes — each answer opens the next gap.
+
+
+The emotional arc: wonder (babies sleeping in the snow) → understanding (it's the air, not the cold) → recognition (MY bedroom is the sealed room) → curiosity (so what did he build?) → the reveal → belief (the blades, his own nights with it, the sound) → trust (the man has done this before).
+
+
+What it must feel like: a guy on your feed telling you something wild he learned — never an ad. David is the inventor sharing his obsession, not a presenter selling a product. If a moment feels like a commercial, that moment is wrong.
+
+
+The proof and the promise: the babies are the PROOF that moving air means deeper sleep. The promise is HER sleep. Every plate about the babies is working toward the plate of the woman waking up rested.
+2. THE FORMAT
+
+
+You will be using that workflowSeedance workflow
+
+
+Examples: Spin360_UGC_DavidScamConfession_Hook3.mp4Spin360_UGC_DavidScamReaction_Hook1
+  
+
+
+
+Some shots that you can use : Baby no texts 
+
+
+* DAVID: one continuous take, pinned LOWER-LEFT, bottom 35–40% of the 9:16 frame (TELEPORT reference). Direct to camera, hands visible. He stays on screen the whole ad.
+* PLATES: full-bleed 9:16 behind him, swapping per beat (storyboard below).
+* QUESTION CARDS: six text cards, one per beat, appear ABOVE David as he asks each question — exact card text lives in the storyboard notes.
+* COMPOSE EVERY PLATE with the key action in the UPPER 2/3 — David owns the lower-left.
+* CAPTIONS: account style, above David; cards above captions.
+* Two moments the editor owns: (a) during the 2s of real fan audio, David can go silent and point up over a full-screen product plate; (b) the final cut to black.
+3. THE HOOKS — (3 short takes · pick per variant · plates in the Beat 0 storyboard)
+1 — "THE CLAIM" (dry, deadpan)
+I invented a fan... that makes you sleep like a Swedish baby. Sounds weird? Let me tell you the story.
+2 — "THE ADMISSION" (self-aware)
+I invented a fan that makes you sleep like a Swedish baby. And yeah — I know exactly how that sounds. Give me two minutes.
+3 — "THE PRICE PAID" (the obsession)
+It took me four years... to invent a fan that makes you sleep like a Swedish baby. Four years. Let me tell you what I found.
+4. THE SCRIPT — copy-paste for the voice generator (ONE continuous take · identical across all 3)
+It's a real thing. In the Nordic countries, they put their babies outside to nap. In the snow. Rows of strollers outside the coffee shops, babies asleep inside, moms having coffee. And those babies sleep almost twice as long outside. Researchers measured it.
+
+
+So the question is — why?
+
+
+Is it the cold? No. Look at 'em — they're bundled up, they're warm.
+
+
+Is it something special about those babies? No.
+
+
+It's the air. Outside, the air never stops moving. There's always a breeze doing something. You bring that baby inside, you close the windows... air that's not moving is called stagnant. It's dead. And they feel it. And they wake up.
+
+
+Okay — so what does that have to do with you? Everything. You walk into a room with dead air — you feel it. You literally can feel it. Every generation before you slept with moving air. Open windows. Breeze on the skin. A sealed room where nothing moves? Nobody's body has figured that out yet.
+
+
+So how do you get outside air... inside? That's what I'd been obsessed with all those years. And here's what I built. It pulls air in from the top AND the bottom — twin vortexes coming in — and it comes out everywhere at once. Out the sides, like Saturn's rings.
+
+
+But isn't that just a fan? No — and here's the key: the blades. Every other fan spins the air at you — a knife edge, cutting into it. Ours doesn't cut. The blades are shaped like barn doors — they push the whole thing straight at you. And that is a big, big difference. Because of that blade shape, the air doesn't feel mechanical at all. It feels like a breeze. A real one — the kind that wraps around you on a perfect night.
+
+
+Does it actually work? I sleep with it every night. And I know what it's like to be in a stagnant room — but when this is going, you'd swear the walls were removed. That my bed is just... outside. And people tell me the same thing about the first night. You wake up and you go — wow. This feels great.
+
+
+What about the noise? It's silent below speed five — you literally will not be able to hear it. It's just ridiculously quiet. Above five, it makes this sound like wind going through trees — you hear that? And that sound just puts you out.
+
+
+One more thing — the scent. It throws out scent like you cannot believe. I drop a pod in at night — ten seconds, the whole room smells like a spa. Citronella in the summer — if you can smell it, the bugs can smell it. No bugs.
+
+
+I've launched products before — such as the Shark Wheel. But this... this is my absolute biggest home run.
+5. STORYBOARD (David pinned lower-left throughout · "Plates" = the full-screen background behind him · card text in the notes)
+BEAT 0 — THE COLD OPEN (per variant, ~8s)
+Variant
+	David's line
+	Plates
+	Note
+	A — TheClaim
+	"I invented a fan... that makes you sleep like a Swedish baby." / "Sounds weird? Let me tell you the story."
+	(1) neutral/dark behind him, ~3s (2) baby sleeping deep in a pram, snow falling — hold 2s between his two lines (3) back on him, ~3s.
+	Deadpan. The 2s hold on the baby IS the beat — the pause between his lines is cut in the edit.
+	B — TheAdmission
+	"I invented a fan that makes you sleep like a Swedish baby. And yeah — I know exactly how that sounds." / "Give me two minutes."
+	(1) neutral/dark, ~4s (2) the ROW of prams — hold 2s (3) him, ~2s.
+	A self-aware smile on "I know exactly how that sounds".
+	C — ThePricePaid
+	"It took me four years... to invent a fan that makes you sleep like a Swedish baby. Four years." / "Let me tell you what I found."
+	(1) neutral/dark, ~4s (2) prams, slow push-in — hold 2s (3) him, ~2s.
+	"Four years." lands slow, twice.
+	THE BODY (identical across the batch)
+#
+	David's line
+	Plates — numbered beats
+	Note
+	1
+	"It's a real thing... Researchers measured it. So the question is — why?" (~20s)
+	(1) the ROW of prams outside a café, snow falling, ~5s (2) through the café window — moms with coffee, calm, keeping an eye, ~5s (3) close: bundled warm baby sleeping deep, ~5s (4) push-in on the row on "why?", ~5s.
+	Babies always bundled, warm, visible; moms always nearby and calm. No card yet — the first card lands with the first question.
+	2
+	"Is it the cold? No... Is it something special about those babies? No. It's the air... And they wake up." (~24s)
+	(1) close: warm bundled baby on "look at 'em", ~5s (2) outdoor air moving — snow drifting, branches swaying, ~5s (3) a window closing, ~4s (4) still, dark nursery, ~5s (5) a baby stirring awake, ~5s.
+	CARD: "Is it the cold?" — one card only in this beat. Wrong answers fall fast; the real one gets the time.
+	3
+	"Okay — so what does that have to do with you? Everything... Nobody's body has figured that out yet." (~18s)
+	(1) open window, curtain breathing, ~6s (2) sealed modern bedroom, a woman turning restlessly, ~6s (3) close: her awake in the dark, ~6s.
+	CARD: "What does that have to do with YOU?" — "Everything." sits a half-beat before he continues.
+	4
+	"So how do you get outside air... inside? That's what I'd been obsessed with all those years. And here's what I built... like Saturn's rings." (~20s)
+	(1) HOLD the dark bedroom through the question, ~6s (2) THE PRODUCT'S FIRST APPEARANCE — clean hero plate on "here's what I built", ~7s (3) smoke pulled in top + bottom, ~7s.
+	CARD: "How do you get outside air... INSIDE?" — the reveal: the product appears here, at ~1:20, for the first time. In variant C this line is the four-years callback.
+	5
+	"But isn't that just a fan? No — and here's the key: the blades... the kind that wraps around you on a perfect night." (~22s)
+	(1) quick frame: a regular fan blade spinning — the knife edge, ~4s (2) MACRO: the Spin360 blade — the barn door, slow and clear, ~6s (3) release — full circle out, the room filling, ~6s (4) sheer curtain breathing in a bedroom, ~6s.
+	CARD: "But isn't that just a fan?" — the plates show the two blade shapes while he names them. If the AI shots of the fan aren't 100% perfect, use our real product footage.
+	6
+	"Does it actually work? I sleep with it every night... You wake up and you go — wow. This feels great." (~20s)
+	(1) calm bedroom at night, product running softly, ~7s (2) DREAM PLATE: the bedroom "opening" — night-sky feeling, bed lying outside somewhere (TELEPORT-style), ~7s (3) morning — waking rested, ~6s.
+	CARD: "Does it actually work?"
+	7
+	"What about the noise? It's silent below speed five... Above five, it makes this sound like wind going through trees — you hear that? And that sound just puts you out." (~16s + 2s)
+	(1) the dial at 4 — silent room, ~6s (2) dial to 6 — product spinning in the dark, ~7s (3) back to the pin — "you hear that?", small smile, ~5s.
+	CARD: "What about the noise?" — EDIT: cut the VO after "wind going through trees —", insert 2 SECONDS OF THE REAL FAN AUDIO (real recording, clean, no music) over plate 2, then resume on "— you hear that?". Describe → prove → react. Editor's moment: David silent, pointing up, full-screen plate during the audio.
+	8
+	"One more thing — the scent... if you can smell it, the bugs can smell it. No bugs." (~15s)
+	(1) close: the pod dropping into the well, ~6s (2) the bedroom turning calm, warm — spa feeling, ~5s (3) summer night — porch, no bugs, ~4s.
+	His own nightly habit. The beat ends dry on "No bugs." — give it a half-beat of air before the credential. No card — the Q&A run is over; the ad is landing.
+	9
+	"I've launched products before — such as the Shark Wheel. But this... this is my absolute biggest home run." (~10s)
+	(1) Shark Wheel shot, ~3s (2) Shark Tank flash — the sharks visible on screen, ~4s (3) the Spin360 hero plate; the last line lands; hold 1s; cut to black, ~3s.
+	The image carries Shark Tank; his voice carries the home run.
+	DELIVERY
+
+
+	
+
+	If the AI shots of the fan aren't 100% perfect, use our real product footage
+	
+
+	Runtime
+	~3:00 per variant (cold open ~8s + body ~2:52, incl. the 2s fan audio)
+	Format
+	9:16 · David pinned lower-left (~35–40% frame height) · full-bleed plates · cards + captions above him
+	Voice
+	DAVID: AI-recorded in his approved voice, ONE continuous body take + 3 cold-open takes, relaxed natural pace
+	Captions
+	Whole video, account style
+	File names
+	Spin360_NordicBabies_DavidExplainer_TheClaim · _TheAdmission · _ThePricePaid
+	
+
+Primary Text:
+🌙 Your bedroom might be the experiment.
+For most of human history, people slept with moving air.
+ Open windows.
+A breeze on their skin.
+ Air that actually moved.
+Now?
+We close the windows, shut the door, and try to sleep in air that doesn’t move. 😵‍💫
+David spent four years obsessing over that.
+SPIN360 pulls air from the top and bottom, then sends a soft 360° breeze around the whole room — like outside air at night. 
+🔇 Quiet under speed five.
+💤 Natural shhhh above that.
+🌿 Scent pod option.
+🏝️ Outside-at-night air feeling.
+Maybe your room doesn’t need another sleep trick.
+Maybe it just needs moving air again. 
+Tap Shop Now and try a room that breathes 👇
+Headline:
+Try A Room That Breathes
+
+
+Watch:
+
+
+2026-07-29 12-48-11.mp42026-07-29 12-57-46.mp4
+
+
+
+
+Summary: Basically, regenerate David’s talking-head using the Seedance workflow. Upload the video of David speaking along with an image of him against a green background, then prompt to make him speak and perform the way we want.

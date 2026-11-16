@@ -1,0 +1,3028 @@
+[
+ {
+  "brief_id": "19_u_o5eM5I92P_yRAAcBjF9CgAgLot5Wc_812lrYJRw",
+  "title": "Spin360_DanishBabyVsYou",
+  "ad_ids": [
+   "Spin360_DanishBabyVsYou_Hook1",
+   "Spin360_DanishBabyVsYou_Hook2",
+   "Spin360_DanishBabyVsYou_Hook3",
+   "Spin360_DanishBabyVsYou_Hook4"
+  ],
+  "n_ads": 4,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "VSL",
+  "length_hint": "about 2:20 (hook+bridge ~4-5s, body ~2:15)",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "AI VO: same female narrator as Swedish Babies (ElevenLabs 'Siren', voice ID eXpIbVcVbLo8ZJQDlDnl)",
+  "avatar": "Adults (mostly women 40-65) who sleep 8 hours in a shut bedroom and still wake up groggy; already tried a regular fan",
+  "awareness": "Hook Unaware, Core Product Aware",
+  "angle": "Outside the air never stops moving; in your sealed bedroom it doesn't, so you breathe your own breath back in all night",
+  "concept": "Debate VSL modeled on the 'cats or dogs' cat reel: 'Who sleeps better, a Danish baby or you?' The baby napping outside in snow wins because outdoor air moves; Spin360 brings moving air into your sealed bedroom.",
+  "hooks": [
+   "Verbal 1: \"Who sleeps better: a Danish baby, or you?\"",
+   "Verbal 2: \"Who sleeps better: a baby napping in the snow, or you in your warm bed?\"",
+   "Visual A match cut: baby asleep in snow, hard cut to tired woman awake in bed in same framing",
+   "Visual B split screen: baby on top, woman below wakes at 3:47 AM; on 'Sadly' baby takes over the screen",
+   "Bridge: \"Sadly, it's not you.\""
+  ],
+  "structure": [
+   "Hook question + bridge 'Sadly, it's not you.' (4-5s, only part that varies)",
+   "Danish babies nap outside in strollers; air never stops moving",
+   "Problem: you sleep in a sealed box (door shut, window shut, 8 hours of still air)",
+   "Mechanism of harm: your breath has nowhere to go, you breathe it back in -> groggy",
+   "Objection: most fans blast one direction (in your face or air goes still)",
+   "Solution reveal: 'That's what Spin360 does.' top+bottom intake, 360 out (smoke test, ribbons)",
+   "Soft breeze, falling asleep, rested alarm callback",
+   "Founder authority: David Patrick, 4 years on one blade, Shark Wheel/Shark Tank, drill smoke test",
+   "Noise objection: below speed 5 silent, past 5 sounds like wind through trees",
+   "Scent pods",
+   "Two 5-star review cards",
+   "Match-cut bookend to baby, 30-night trial end card"
+  ],
+  "key_lines": [
+   "Danish babies nap outside.",
+   "Because outside, the air never stops moving.",
+   "Meanwhile, you sleep in a sealed box.",
+   "Every breath you let out has nowhere to go.",
+   "So all night, you breathe it back in.",
+   "That could be why you sleep eight hours and still wake up groggy.",
+   "They blast one stream of air in one direction.",
+   "It pulls air in from the top and the bottom, and sends it out 360 degrees.",
+   "It's not a blast of air in your face. It's a soft breeze.",
+   "That's as close as you'll get to sleeping like a Danish baby. Without the snow.",
+   "But let's be honest. Once you sleep in moving air, you won't want to."
+  ],
+  "visual_direction": "Real phone-footage look throughout, hard cut every 2-3s on VO beats. Pool = raw uncaptioned clips from Swedish Babies V2 + UGC (Avery, Erin, Michael, Stacie, Kylie, Charlie, Lauren) + David smoke test + ~23 Higgsfield AI shots (Seedance 2.5, images for a consistent AI 'YOU' woman ~45, A1, approved by Gabriel). Mona Lisa rule: no arrows/labels/graphics; picture explains. No Spin360 on screen until 'That's what Spin360 does.' Color story: cold white outdoors, blue-grey problem, warm lamp + blue LED for product. Baby safety rules; crop Swedish signs (Danish).",
+  "tone_music_captions": "Surprise -> recognition -> calm relief. Same soft music bed as Swedish V2; low sound design (~-25dB: door latch, window clunk, alarm, fan roar, drill whine, wind). Captions: cat-reel style, ONE word at a time, Poppins ExtraBold/Montserrat Black ALL CAPS white with 2px outline, ~90px, ~65% down, 2-frame pop, numbers as digits; captions off on review/end cards; review words highlight white to yellow.",
+  "cta_offer": "30-night trial: 'If your bedroom doesn't feel like a window's open, send it back.' No price, discount or 'money-back'. End card '30-NIGHT TRIAL' seal + 'Feels like a window's open, or send it back.' + SHOP NOW.",
+  "claims": [
+   "Below speed five, you won't hear it.",
+   "ten seconds later your room smells like a forest.",
+   "Our founder, David Patrick, spent four years on one blade.",
+   "Same guy who invented the Shark Wheel and got a deal on Shark Tank."
+  ],
+  "assets_referenced": [
+   "Swedish Babies V2 Hook 1 raw project clips ('Researchers' baby)",
+   "cat reel 'Who has a better life, cats or dogs?'",
+   "David LA interview folder",
+   "How_Air_Moves_Selects_1.mp4",
+   "Drill hooks folder (Hook4_NYC_Sidewalk.mp4)",
+   "Avery staring at ceiling.MOV",
+   "Erin 25.MOV / 8.MOV / 28.MOV",
+   "Michael Ribbons / Scent pod drop in / Summer breeze window open",
+   "Stacie IMG_9746.MOV / IMG_9752.MOV",
+   "Charlie IMG_3814.MOV",
+   "Judge.me reviews",
+   "Shopify product photo"
+  ],
+  "iteration_of": "Built on the cat reel debate format; footage/mood from Swedish Babies V2 Hook 1 ('our best ad')",
+  "learnings_feedback": "",
+  "notes": "Hook test design: 2 verbal x 2 visual = 4 ads with byte-identical body. Status Waiting on Buyer. Editor-facing 'Before you start' checklist and per-shot Higgsfield prompts included."
+ },
+ {
+  "brief_id": "1on5mQ9o1gHn-afdG36Asb8AyQdaybW-Kws7FO0Xa3JE",
+  "title": "Spin360_Baby_SIDSNursery (V1 3D animation, V2 Claymation)",
+  "ad_ids": [
+   "Spin360_Baby_SIDSNursery_V2_Hook1",
+   "Spin360_Baby_SIDSNursery_V2_Hook2",
+   "Spin360_Baby_SIDSNursery_V2_Hook3",
+   "Spin360_Baby_SIDSNursery_V1_Hook1",
+   "Spin360_Baby_SIDSNursery_V1_Hook2",
+   "Spin360_Baby_SIDSNursery_V1_Hook3"
+  ],
+  "n_ads": 6,
+  "uploaded_to_meta": 2,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "AI-generated",
+  "length_hint": "~2:30",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Female VO",
+  "avatar": "Pregnant first-time moms 25-38 finishing the nursery",
+  "awareness": "Hook Unaware, Core Product Aware",
+  "angle": "Still nursery air: CO2 sits around the baby's face",
+  "concept": "Animated VSL (V1 Pixar-quality 3D, V2 handcrafted claymation) showing invisible CO2 pooling around a sleeping baby's face in still air, citing the Kaiser Permanente fan/SIDS study, then Spin360 as the nursery essential that moves the whole room's air.",
+  "hooks": [
+   "VO (all hooks): \"If you're building a nursery right now, I can almost guarantee you're missing the most important thing. And if you don't have it, I'm not exaggerating, your baby could die.\"",
+   "Hook 1 dramatic irony: happy pregnant mom folding onesie, grey haze already in the empty crib behind her",
+   "Hook 2 face in the haze: close-up of baby asleep in grey haze, then crying",
+   "Hook 3 baby-monitor POV: baby crying as CO2 pool fills the crib, green light blinks, nobody comes"
+  ],
+  "structure": [
+   "Hook: perfect nursery already has the problem inside",
+   "Everything's perfect (crib, monitor, curtains)",
+   "Problem: exhaled CO2 sits around baby's face, rebreathed, baby cries, mom can't see why",
+   "SIDS link",
+   "Hope: what if we kept the air moving?",
+   "Proof: Kaiser Permanente study, 72% lower SIDS risk",
+   "Why AC, purifier, regular fan (need four) don't fix it",
+   "Spin360 reveal + mechanism + baby relief",
+   "Gentle, like open window; 2 hours to 5 sleep, whisper quiet",
+   "Payoff: 3 a.m. door peek, relief",
+   "10+ years lifespan",
+   "Price objection: not cheap vs crib/monitor",
+   "CTA mirrors hook: finish nursery before baby comes home"
+  ],
+  "key_lines": [
+   "Every time your baby breathes out, it's carbon dioxide.",
+   "It just sits there. Right around their little face.",
+   "They can't say, \"Mom, something's wrong.\"",
+   "Seventy-two percent. From one simple change in the nursery.",
+   "Your AC just cools the air. Your purifier just cleans it.",
+   "You'd need four of them, pointed every which way",
+   "Is it cheap? No. But you just spent hundreds on a crib and a monitor so you could watch your baby breathe.",
+   "Don't let your baby spend even one night in still air."
+  ],
+  "visual_direction": "Fully animated. V1: 3D Pixar-quality characters grounded in real light/texture. V2: claymation/stop-motion plasticine, miniature nursery set, one style throughout. CO2 = heavy grey-violet haze; fresh air = glowing light-blue ribbons; problem cold/dark, solution warm. Characters: Emma pregnant mom / new mom, 3-month baby in pale-sage sleeper. Baby always on back in bare crib, peachy skin; Spin360 white floor model, away from crib. On-screen text only in edit (CO2, SIDS, Kaiser Permanente citation, 72%, 10+ years).",
+  "tone_music_captions": "Problem intense, product calm and clear; emotion in the eyes.",
+  "cta_offer": "Tap the link and get yours; hold CTA at least 2s with product visible. No discount.",
+  "claims": [
+   "the ones who slept with a fan in the room had a 72% lower risk of SIDS",
+   "Their babies went from sleeping two hours to five.",
+   "it's whisper quiet",
+   "It's built to last over ten years",
+   "Researchers believe this is one of the reasons babies die from Sudden Infant Death Syndrome."
+  ],
+  "assets_referenced": [
+   "Coleman-Phox, Odouli & Li, Kaiser Permanente, Archives of Pediatrics & Adolescent Medicine, 2008",
+   "Charlie's gut-health reference"
+  ],
+  "iteration_of": "V2 (Claymation) is a re-style of V1 (3D animation)",
+  "learnings_feedback": "Status Learning. V2 Hook1 and Hook2 uploaded to Meta; V2 Hook3 and all V1 hooks 'DO NOT UPLOAD'. Feedback docs: Feedback - Spin360_Baby_SIDSNursery(_V2).",
+  "notes": "Same VO for 3 hooks, only opening visual changes. Charlie asked most for the baby relief close-up. Cover 'Spin360' label on monitor screen in edit."
+ },
+ {
+  "brief_id": "1Tm576mD9rdg2HU1KkhwUVv-B1L9Gb4srlAPUN-Jpz20",
+  "title": "Spin360_Baby_Standup",
+  "ad_ids": [
+   "Spin360_Baby_Standup_Hook1",
+   "Spin360_Baby_Standup_Hook2",
+   "Spin360_Baby_Standup_Hook3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 3,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "hf_20261003 (Oct 2026)",
+  "ad_type": "ideation",
+  "format": "AI-generated",
+  "length_hint": "~2:15 (5 chunks of 25-30s)",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "AI baby comedian with relaxed husky American adult male voice (30s), ~210 wpm",
+  "avatar": "Moms of babies who wake up every 2 hours",
+  "awareness": "Hook Problem Aware, Core Product Aware",
+  "angle": "Baby sleeps longer when the air moves, so mom sleeps too",
+  "concept": "Photorealistic AI live-action of an 8-month-old baby doing a stand-up set in a comedy club, telling how Spin360 took him from 2 to 5 hours of sleep and gave his mom her life back.",
+  "hooks": [
+   "Text hook 1: THIS BABY FINALLY SLEPT / HIS MOM WASN'T READY",
+   "Text hook 2: THIS BABY QUIT / THE NIGHT SHIFT",
+   "Text hook 3: MOMS STUCK ON / THE 2AM SHIFT",
+   "Opening line: \"So I used to sleep two hours a night, and now I sleep five, and when my mom found out, she cried.\""
+  ],
+  "structure": [
+   "Hook: 2 to 5 hours, mom cried; 'A fan. Yeah. Stay with me.'",
+   "Relatable: the two-hour baby, 'that's when I clock in'",
+   "Problem: shut room like a Tupperware, CO2 'Leftovers'",
+   "Discovery: grandpa brings Spin360 'not for the heat, it's for the air'",
+   "Result: out in eleven seconds; mom transformed (milk/cereal joke)",
+   "Mechanism/differentiator: not a wind tunnel, soft breeze all around, like a cracked window",
+   "Mom stays in room; wake up like back from a cruise",
+   "CTA: not about cooling, about moving the air. Spin360. Tap below.",
+   "Callback closer: 'The night shift is over.'"
+  ],
+  "key_lines": [
+   "Not the sad crying, the \"oh my God, I can feel my face again\" crying.",
+   "A fan. Yeah. Stay with me.",
+   "that's when I clock in.",
+   "it's like sleeping in a Tupperware.",
+   "guess what's in the Tupperware? Leftovers.",
+   "It's not for the heat, it's for the air",
+   "Turns out I wasn't cranky, I just needed the air to move.",
+   "she put the milk in the pantry and the cereal in the fridge.",
+   "like somebody cracked a window, except the window's shut.",
+   "Lady, that's my room.",
+   "this isn't about cooling the room. It's about moving the air.",
+   "Dad was sleeping anyway.",
+   "The night shift is over."
+  ],
+  "visual_direction": "Seedance (Higgsfield) generated in 5 chunks (25-30s each) with a repeated full character/location/look prompt for consistency; multi-camera comedy special edit with hard cuts between fixed angles (front medium, close-up, wide from back, side profiles, audience reaction cutaways). Small real American comedy club, red curtain, brick, spotlight; baby in heather-gray onesie, mic stand lowered, baby bottle on stool.",
+  "tone_music_captions": "Dry, deadpan, fast comedian delivery, pauses only for punchlines; soft natural audience laughs. No captions/text/logos in generations, no background music, keep room sound. Text hooks added in edit.",
+  "cta_offer": "\"It's called Spin360. Tap below.\" No offer.",
+  "claims": [
+   "I used to sleep two hours a night, and now I sleep five",
+   "I lasted eleven seconds."
+  ],
+  "assets_referenced": [
+   "hf_20261003_200508_bca54214-cd06-44c3-a0f1-b7c25e3987bd.mp4",
+   "seedance-fan-EN (3).zip",
+   "SPIN360_FLOOR",
+   "SPIN360_BLADE",
+   "Briefing Notes - Spin360_Baby_Standup (video brief)"
+  ],
+  "iteration_of": "",
+  "learnings_feedback": "Status Learning; all 3 uploaded to Meta. Feedback doc: Feedback - Spin360_Baby_Standup.",
+  "notes": "Hooks differ only by on-screen text hook. Script says 'Spin three-sixty' phonetically for AI TTS."
+ },
+ {
+  "brief_id": "1Hqn_JV1kdsIwX9Oj940LCJbLonqPN3_7SSZrpLSuTqY",
+  "title": "Spin360_WhiteNoise_For_Your_Skin",
+  "ad_ids": [
+   "Spin360_WhiteNoise_For_Your_Skin_Hook1",
+   "Spin360_WhiteNoise_For_Your_Skin_Hook2",
+   "Spin360_WhiteNoise_For_Your_Skin_Hook3",
+   "Spin360_WhiteNoise_For_Your_Skin_Hook4",
+   "Spin360_WhiteNoise_For_Your_Skin_Hook5",
+   "Spin360_WhiteNoise_For_Your_Skin_Hook6",
+   "Spin360_WhiteNoise_For_Your_Skin_Hook7",
+   "Spin360_WhiteNoise_For_Your_Skin_Hook8"
+  ],
+  "n_ads": 8,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "reference video 2026-09-01",
+  "ad_type": "ideation",
+  "format": "VSL",
+  "length_hint": "60s+",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Provided male VO (final recorded audio, adjustable with Seedance 2.5)",
+  "avatar": "Broad: anyone who has ever cared how their bedroom feels at night; knows what white noise is",
+  "awareness": "Unaware (hook and core)",
+  "angle": "Still air makes the bedroom feel less comfortable.",
+  "concept": "Starts as organic sleep content explaining why white noise calms a room for your ears, then asks what 'white noise for your skin' would feel like; answer is soft natural room-wide air movement like a cracked window, which Spin360 creates (sound you hear + air you feel from one blade).",
+  "hooks": [
+   "A Educational: \"Why does white noise help us sleep?\"",
+   "B Pattern Interrupt: \"Every night, millions of people give their ears white noise. Nobody ever thought to give it to their skin.\"",
+   "C Sound vs Feel: \"If white noise makes your bedroom sound calmer... what makes your bedroom feel calmer?\""
+  ],
+  "structure": [
+   "Hook (sleep content, no product)",
+   "Why white noise works: masks car/footsteps/AC",
+   "Transition sound -> feel: 'Why do we only do that for our ears?' (rehook)",
+   "Window cracked on a perfect night: soft, steady, natural air",
+   "Product reveal as the answer: 'That's what Spin360 was built to create.'",
+   "Hear it + feel it; before/after room transformation",
+   "Benefit visualization; scent pod bonus",
+   "Rehook 'none of this happened by accident' -> blade pushes not chops",
+   "Authority: David Patrick, Shark Wheel, Shark Tank, 4 years",
+   "Payoff: 'White noise you can hear... and white noise you can feel.'",
+   "Offer $189 (was $299) + CTA"
+  ],
+  "key_lines": [
+   "Why do we only do that for our ears?",
+   "Because when you're lying in bed, your skin is experiencing the room too.",
+   "So what would white noise for your skin feel like?",
+   "The air isn't blasting at you. It's just... moving around the room. Soft, steady, natural.",
+   "So you're not just changing what your bedroom sounds like. You're changing what it feels like to be in it.",
+   "The blade was designed to push the air instead of chopping through it like a typical fan blade.",
+   "White noise you can hear... and white noise you can feel."
+  ],
+  "visual_direction": "Sensory visuals first (phone white-noise app, rain sounds, skin, curtains, bedding, hair, plants moving gently), product only after window analogy. Spin360 stationary, never oscillating; no smoke/mist as lifestyle airflow; no fake scent clouds; bedroom only. Mechanism via macro blade footage, simple graphic allowed. David Patrick + Shark Wheel/Shark Tank asset. Brief is 'a path, not a cage'.",
+  "tone_music_captions": "Curiosity -> self-recognition -> comfort. Organic educational opening, not a commercial. Minimal on-screen text (hook, 'WHITE NOISE FOR YOUR SKIN?', authority, payoff, offer); strongest typography on 'WHITE NOISE YOU CAN HEAR / FEEL'. Subtle SFX (car, footsteps, AC, white noise, rain) under VO; VO always dominant.",
+  "cta_offer": "\"Spin360 is $189 — before the price goes back to $299.\" On-screen 'NOW $189' + 'GET SPIN360', $299 secondary; click below.",
+  "claims": [
+   "The blade was designed to push the air instead of chopping through it like a typical fan blade.",
+   "there's even a scent pod built in",
+   "David Patrick — the inventor behind Shark Wheel, who you may have seen on Shark Tank — spent four years developing."
+  ],
+  "assets_referenced": [
+   "2026-09-01 19-16-49.mp4",
+   "VO Spin360_WhiteNoise_For_Your_Skin.MP3",
+   "Instagram reel DceiXoJNVq5 (script inspiration)",
+   "David Patrick footage",
+   "Shark Wheel / Shark Tank asset",
+   "blade macro footage",
+   "scent pod footage"
+  ],
+  "iteration_of": "Script inspired by an Instagram reel",
+  "learnings_feedback": "Creative Roadmap: Learning, all 8 'DO NOT UPLOAD'. Relaunch ADS tab: On Hold, not uploaded. Feedback doc: Feedback - Spin360_WhiteNoise_For_Your_Skin.mp4",
+  "notes": "Positioning: enemy = still air + thermostat/fan; 'first and only' thing giving white noise you hear and feel from one blade. Brief describes 3 hook variants; sheet lists 8 hook IDs."
+ },
+ {
+  "brief_id": "1fSMzRWWVns3nMbsog1kvL3gKQuy0itACzi4qDBOc8Yc",
+  "title": "Spin360_BestFan_V2",
+  "ad_ids": [
+   "Spin360_BestFan_V2_Hook_2",
+   "Spin360_BestFan_V2_Hook_3",
+   "Spin360_BestFan_V2_Hook_4",
+   "Spin360_BestFan_V2_Hook_5"
+  ],
+  "n_ads": 4,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "brief video 2026-04-18; David LA interview April 2026",
+  "ad_type": "ideation",
+  "format": "founder-led",
+  "length_hint": "unknown (~21 segments)",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "David Patrick (founder) soundbites from LA interview; text-only segments",
+  "avatar": "General, Design / Gadget",
+  "awareness": "Hook Unaware (Hook 2) / Problem Aware (Hooks 3-5); Core Solution Aware",
+  "angle": "Benefits, Design + Engineering",
+  "concept": "Founder-soundbite montage: David Patrick's LA interview clips cut with silent text cards over nature-style b-roll, selling Spin360 as 'nature inside your home' from the wheel reinventor.",
+  "hooks": [
+   "Text only: \"DAY 1: THE WHEEL REINVENTOR STARTS BUILDING THE FIRST 360° FAN\" then TEXT: TODAY + \"This is truly the best fan you will ever own.\"",
+   "Text only: \"4 YEARS AGO: BUILDING THE WORLD'S FIRST 360° FAN\" then TODAY",
+   "Cold open on \"This is truly the best fan you will ever own.\"",
+   "Mechanism-contrast open: \"a traditional fan is twisting the air at you\" / \"there is a harmonic that happens a WAP WAP WAP WAP WAP\" / \"we push the whole thing... like swinging barn doors around\" / \"When somebody takes a fan and they wave it like this, that's what we're doing.\"",
+   "Variant using 14s of a prior ad re-voiced, then 'This is truly the best fan you will ever own.'"
+  ],
+  "structure": [
+   "Hook (origin text card or mechanism soundbite)",
+   "'Best fan you will ever own'",
+   "Mechanism: air in two directions, out like Saturn's rings",
+   "Experience: walls removed, bed outside; wake up loving the breeze",
+   "Text cards: ADD SCENT PODS / CHANGE YOUR ROOM IN 10 SECONDS / OR KEEP BUGS AWAY",
+   "'How was this never done before?' / TEXT This is nature. Inside your home",
+   "Women: 'I can't stand fans but I love yours'",
+   "Air moves in a wall, not spinning twisting",
+   "Text: WHISPER-QUIET / while you work / while you sleep",
+   "Beach/vacation breeze -> nature indoors; run it 24/7",
+   "Founder: biggest home run; radically different, all about comfort",
+   "Visual-only close"
+  ],
+  "key_lines": [
+   "This is truly the best fan you will ever own.",
+   "We pull the air in from two directions and send it out like Saturn's rings.",
+   "You'd swear the walls were removed and my bed is outside. It is so natural feeling.",
+   "How was this never done before?",
+   "Women especially will say this constantly I can't stand fans but I love yours.",
+   "We are using the way air moves in nature. Air moves in a wall.",
+   "It does not move in a spinning twisting thing.",
+   "What do we hope for when we go to the beach? An ocean breeze.",
+   "We're bringing nature indoors.",
+   "you're not supposed to ever turn it off. It's 24/7.",
+   "when I reinvented the wheel I knew I had a big big product but this is even bigger this is gonna be the biggest home run I've ever hit"
+  ],
+  "visual_direction": "David LA interview soundbites with exact timecodes (SRT provided); b-roll in the style of Spin360_BedOutside_Hook_1 and Spin360_NatureCutsV2_HOOK_2; use shot 13.mp4 for Saturn's rings line; swap a specified shot. Text-only cards for features.",
+  "tone_music_captions": "Music: Infinite Possibilities.mp3. Bold text cards for no-voice segments.",
+  "cta_offer": "",
+  "claims": [
+   "CHANGE YOUR ROOM IN 10 SECONDS",
+   "OR KEEP BUGS AWAY",
+   "AND IT'S WHISPER-QUIET",
+   "We pull the air in from two directions"
+  ],
+  "assets_referenced": [
+   "2026-04-18 19-58-12.mp4 (brief video)",
+   "Full video and srt David LA April 26'",
+   "Ad 10.4.mp4 (inspiration)",
+   "Spin360_BedOutside_Hook_1_9x16.mp4",
+   "Spin360_NatureCutsV2_HOOK_2_9x16.mp4",
+   "Infinite Possibilities.mp3",
+   "13.mp4",
+   "[Inventive Presenter]It do......eeze..mp3",
+   "vo.mp4"
+  ],
+  "iteration_of": "V2 of BestFan; one hook reuses 14s of an earlier ad with a different voice; inspiration Ad 10.4.mp4",
+  "learnings_feedback": "Status Learning; V1 Uploaded to Meta: N/A.",
+  "notes": "Editor told to test clean audio cuts (e.g. 'we don't' splice alternatives at 00:05:41) and avoid bad 'wab wab wab' audio take."
+ },
+ {
+  "brief_id": "1MhJbYN7L2s0nffP-yKlAOmOFbYBxE7LqccyVv9FxTgU",
+  "title": "Spin360_3_Reasons_Scent",
+  "ad_ids": [
+   "Spin360_3_Reasons_Scent"
+  ],
+  "n_ads": 1,
+  "uploaded_to_meta": 1,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "educational explainer",
+  "length_hint": "~60s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Natural commercial VO, conversational, not UGC, not announcer",
+  "avatar": "Women 30-55 who already buy candles & diffusers",
+  "awareness": "Hook Problem Aware, Core Product Aware",
+  "angle": "Hotel scent in the whole room",
+  "concept": "Listicle 'three reasons your home still doesn't smell like a five-star hotel': fragrance dies in one corner because scent only goes as far as air carries it; Spin360 moves air (with scent pod) so the whole room feels expensive. Visual arc SOURCE -> SPACE -> ATMOSPHERE.",
+  "hooks": [
+   "VO (all): \"Three reasons your home still doesn't smell like a five-star hotel.\"",
+   "V1 Walk-away test: ECU burning premium candle, pull back, woman walks away until candle is tiny",
+   "V2 Hotel vs home split screen: hotel has subtle movement, home still; collapse to fragrance source",
+   "V3 Everything she already bought: macro montage candle/reed diffuser/plug-in/oil, then one small source in big room"
+  ],
+  "structure": [
+   "Hook (3 visual variants, same VO)",
+   "Reason 1: fragrance dies in one corner; walk across room",
+   "Breakthrough: 'The scent can only go as far as the air carries it.' (still curtain, airflow demo)",
+   "Spin360 reveal + scent pod on top, curtains/plants moving",
+   "Reason 2: luxury is how the room feels; hotel -> home curtain match cut",
+   "Reason 3: people notice the room, not the candle; friend enters and reacts to space",
+   "Thesis pullback: source -> whole room",
+   "CTA: check it out, end card Spin360 + LEARN MORE"
+  ],
+  "key_lines": [
+   "First, your fragrance is probably dying in one corner.",
+   "The scent can only go as far as the air carries it.",
+   "Second, luxury isn't just a smell. It's how the room feels.",
+   "Five-star hotels don't feel dead and still. The whole space feels alive.",
+   "Third, people notice the room, not the candle.",
+   "they don't think, \"Wow, nice diffuser.\"",
+   "Instead of having one corner that smells expensive, Spin360 helps make the whole room feel expensive."
+  ],
+  "visual_direction": "First frame interesting at 0.0s, no logo, no fade-in, no establishing shot. Same woman (30s-50s), outfit and lived-in living room throughout; friend only in Reason 3. Product rules: scent pod ON TOP, diffuser NEXT TO, never lit candle beside Spin360, soft airflow (no hair blasting), no fake scent clouds/CGI trails; real airflow demo footage for breakthrough; AI fine for lifestyle shots with continuity.",
+  "tone_music_captions": "Normal captions only, no hook headline. Optional small #1/#2/#3 markers; main text 'SCENT GOES WHERE AIR GOES'. Music pulls back on breakthrough line, lifts on reveal, warmer build in Reasons 2-3. Flatter room tone for still home, gentle air hush, never loud fan sound.",
+  "cta_offer": "\"If that's the kind of atmosphere you want at home, check it out.\" End card Spin360 + LEARN MORE; no offer.",
+  "claims": [
+   "It keeps the air moving around the room, so the fragrance moves with it"
+  ],
+  "assets_referenced": [
+   "real airflow demo footage (incense/smoke)"
+  ],
+  "iteration_of": "",
+  "learnings_feedback": "Status Learning; uploaded to Meta.",
+  "notes": "Clean visual hook test: identical VO and body, only 0.0s visual changes. Candles/diffusers are not the enemy."
+ },
+ {
+  "brief_id": "1K6iQnxHygnzaWj7LQkQTwNjt6a7fN2jWjV26soPJopw",
+  "title": "Spin360 creator brief - Avery (Homeupgrade / Wall / RoomFeeling)",
+  "ad_ids": [
+   "Spin360_Avery_Homeupgrade",
+   "Spin360_Avery_RoomFeeling",
+   "Spin360_Avery_Wall"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 0,
+  "author": "Freddy",
+  "editors": [],
+  "date_hint": "summer 2026 ('Best fan of 2026')",
+  "ad_type": "ideation",
+  "format": "UGC testimonial",
+  "length_hint": "unknown (~45-90s talking head)",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Avery (UGC creator), speaking to camera on tripod",
+  "avatar": "Hot sleepers, people who hate air blowing at them, people whose AC fights them; skews women 35+",
+  "awareness": "",
+  "angle": "Whole-room comfort/cooling; home upgrade; summer heat draining energy",
+  "concept": "Creator brief for UGC creator Avery with three talking-head scripts: a 'Home Upgrades that are actually worth it' episode (living room greenhouse fixed), a mom/dad 'I hit a wall' summer-exhaustion story where a friend's Spin360 fixes sleep, and a 'room cools down' demo script; plus a full b-roll shot list.",
+  "hooks": [
+   "Script 1: \"Okay, this is genuinely one of the best home upgrades we've ever made.\"",
+   "Script 2 Hook 1: \"Last summer, I hit a wall.\"",
+   "Script 2 Hook 2: \"The moment my friend turned this on, I knew I was taking it home.\"",
+   "Script 3 Hook 1: \"This room used to be unbearable in summer. Now? It's my favorite place in the house.\"",
+   "Script 3 Hook 2: \"I've never felt a room cool down this fast. And I've been a hot sleeper my whole life.\"",
+   "Script 3 Hook 3: \"The first night I turned it on, the room felt completely different.\""
+  ],
+  "structure": [
+   "Script 1: hook -> series intro (Home Upgrades episode) -> living room greenhouse problem -> failed fixes (blackout curtains, portable AC) -> skeptical discovery -> gentle whole-room movement -> family benefit (movie night) -> recommendation + follow along",
+   "Script 2: hook -> exhausted morning as parent of two -> hot bedroom, tossing, sweating -> friend shows Spin360 -> first night exhale, open-window feeling -> slept through, woke before alarm -> energy for kids -> 'you need the air around you to move differently'",
+   "Script 3: hook -> cools whole room (floor air mixed up) -> no hot corners -> full effect in ~20 min -> sleep through night -> 'This is the one.'"
+  ],
+  "key_lines": [
+   "It doesn't blast you with a harsh stream. It gently moves the air around the entire room. Like the whole space can finally breathe.",
+   "It's not loud. It's not cold in one spot. It's just... comfortable everywhere.",
+   "I didn't realize how much the heat was draining me until it wasn't anymore.",
+   "you probably don't need air that blows harder. You need the air around you to move differently.",
+   "It pulls in cooler air from the ground and mixes it with the air above.",
+   "Within about 20 minutes, you really feel the full effect.",
+   "Spin360. It cools the room like nothing else."
+  ],
+  "visual_direction": "iPhone, natural light, real bedroom/living room, filmed 'for a friend, not for an ad'; talking head on tripod not moving. Extensive b-roll shot list: struggle (sweaty forehead, blanket on floor, thermostat), failed solutions (old fan in face, ceiling fan, oscillating fan, AC), product (unboxing, orbit, top-down, height adjust, post-it 'Best fan of 2026'), airflow proof (ribbon/tissue top & bottom intake, hair not moving, speed ramp, Apple Watch decibel app, incense smoke), transformation (family movie night, dog by fan, sleep data), scent pod drop-in and before/after sniff, wet blanket.",
+  "tone_music_captions": "Real home, not a tech review; friendly, authentic.",
+  "cta_offer": "Soft recommendation ('this is the one I'd actually recommend'); no offer.",
+  "claims": [
+   "It cools the whole room, not one spot.",
+   "It's quiet on the lower speeds.",
+   "Scent pods click into it",
+   "It costs pennies a night to run",
+   "Invented by the same guy who invented the Shark Wheel.",
+   "Within about 20 minutes, you really feel the full effect."
+  ],
+  "assets_referenced": [
+   "Loom 41094197fadb4ae98ccce2330367a3b4",
+   "Spin360 Fan Examples (previous best ads)",
+   "trendtrack pergoluxshopcom-WHY7H5 (inspiration)",
+   "spin360fan.com"
+  ],
+  "iteration_of": "Script 1 imitates a Pergolux 'home upgrades' ad (trendtrack inspiration)",
+  "learnings_feedback": "Status Not Started.",
+  "notes": "Rule: 'don't invent claims' - ask first. Script 3 labeled 'Example'."
+ },
+ {
+  "brief_id": "1wCJqwwP19m6oEs1Mg9Iis8J8APj7gD89OZrS5eJRLDw",
+  "title": "Spin360_NordicBabies_DavidExplainer",
+  "ad_ids": [
+   "Spin360_NordicBabies_DavidExplainer_V2_Hook1",
+   "Spin360_NordicBabies_DavidExplainer_V2_Hook2",
+   "Spin360_NordicBabies_DavidExplainer_V2_Hook3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "2026-07-29",
+  "ad_type": "ideation",
+  "format": "founder-led",
+  "length_hint": "~3:00 (cold open ~8s + body ~2:52)",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "David Patrick, AI-regenerated talking head (Seedance workflow) in his approved voice",
+  "avatar": "Woman Who Sleeps in a Sealed Room (sleeps badly, not looking for a fan)",
+  "awareness": "Unaware (hook and core)",
+  "angle": "Sleep better",
+  "concept": "David, pinned lower-left over full-bleed plates, opens with an absurd claim ('a fan that makes you sleep like a Swedish baby') then runs a Q&A explaining Nordic babies napping outside, still vs moving air, and the barn-door blade; product held back until ~1:20.",
+  "hooks": [
+   "The Claim: \"I invented a fan... that makes you sleep like a Swedish baby. Sounds weird? Let me tell you the story.\"",
+   "The Admission: \"I invented a fan that makes you sleep like a Swedish baby. And yeah — I know exactly how that sounds. Give me two minutes.\"",
+   "The Price Paid: \"It took me four years... to invent a fan that makes you sleep like a Swedish baby. Four years. Let me tell you what I found.\""
+  ],
+  "structure": [
+   "Cold open claim (~8s) with baby-in-snow plate",
+   "Nordic babies nap outside, sleep almost twice as long",
+   "Q: Is it the cold? No. Something special about babies? No. It's the air (stagnant = dead)",
+   "Q: What does that have to do with YOU? Sealed bedroom",
+   "Q: How do you get outside air inside? Product first appears ~1:20; top+bottom intake, Saturn's rings",
+   "Q: Isn't that just a fan? Knife-edge vs barn-door blades",
+   "Q: Does it actually work? Walls removed, bed outside",
+   "Q: What about the noise? Silent below 5; 2s of real fan audio",
+   "Scent pod, citronella no bugs",
+   "Credential: Shark Wheel, biggest home run; cut to black"
+  ],
+  "key_lines": [
+   "And those babies sleep almost twice as long outside. Researchers measured it.",
+   "air that's not moving is called stagnant. It's dead.",
+   "A sealed room where nothing moves? Nobody's body has figured that out yet.",
+   "Out the sides, like Saturn's rings.",
+   "Every other fan spins the air at you — a knife edge, cutting into it. Ours doesn't cut. The blades are shaped like barn doors",
+   "you'd swear the walls were removed. That my bed is just... outside.",
+   "Above five, it makes this sound like wind going through trees — you hear that?",
+   "if you can smell it, the bugs can smell it. No bugs.",
+   "this is my absolute biggest home run."
+  ],
+  "visual_direction": "David one continuous take pinned lower-left (bottom 35-40%, TELEPORT reference), hands visible; full-bleed AI plates in upper 2/3 swap per beat (prams outside café in snow, still nursery, sealed bedroom, smoke test, blade macro, dream plate bed outside, dial 4->6, pod drop, Shark Wheel, Shark Tank). Six question cards above David. Use real product footage if AI fan shots aren't perfect. Regenerate David via Seedance workflow (video + green-screen image).",
+  "tone_music_captions": "Must feel like a guy on your feed sharing something wild he learned, never an ad; David's pauses and looks are the edit. Captions whole video, account style, above David; cards above captions. 2s real fan audio, no music, at noise beat.",
+  "cta_offer": "Primary text: 'Tap Shop Now and try a room that breathes'; headline 'Try A Room That Breathes'. No price.",
+  "claims": [
+   "those babies sleep almost twice as long outside. Researchers measured it.",
+   "It's silent below speed five",
+   "ten seconds, the whole room smells like a spa.",
+   "Citronella in the summer — if you can smell it, the bugs can smell it. No bugs."
+  ],
+  "assets_referenced": [
+   "Every Frame a Painting video (youtu.be/3Q3eITC01Fg)",
+   "Nordic_Babies_Explainer.mp4",
+   "Spin360_UGC_DavidScamConfession_Hook3.mp4",
+   "Spin360_UGC_DavidScamReaction_Hook1",
+   "Baby no texts (shots)",
+   "Seedance workflow",
+   "2026-07-29 12-48-11.mp4",
+   "2026-07-29 12-57-46.mp4"
+  ],
+  "iteration_of": "Format follows Spin360_UGC_DavidScamConfession / DavidScamReaction (David pinned over plates); V2",
+  "learnings_feedback": "Status Learning; DO NOT UPLOAD.",
+  "notes": "Emotional arc wonder -> understanding -> recognition -> curiosity -> reveal -> belief -> trust. Includes Meta primary text with emoji bullets."
+ },
+ {
+  "brief_id": "1FFl0keBuldiaSyrCSSRiXav1se57orzbZpN1wOY3sJM",
+  "title": "Spin360_Baby_SIDSNursery_Song",
+  "ad_ids": [
+   "Spin360_Baby_SIDSNursery_Song_Hook1",
+   "Spin360_Baby_SIDSNursery_Song_Hook2",
+   "Spin360_Baby_SIDSNursery_Song_Hook3",
+   "Spin360_Baby_SIDSNursery_Song_Hook1_V2"
+  ],
+  "n_ads": 4,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "AI-generated",
+  "length_hint": "60s+ (full song)",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "AI song vocals (The Last Box (5).mp3) + calm serious spoken parts",
+  "avatar": "Pregnant first-time moms 25-38 finishing the nursery (2nd-3rd trimester, nesting, fear SIDS)",
+  "awareness": "Hook Unaware, Core Product Aware",
+  "angle": "The missing box on the nursery checklist: the air",
+  "concept": "Pixar-style 3D animated music video ('The Last Box') re-telling the approved SIDSNursery VSL as a song: you checked every nursery box but nobody checked the air; CO2 lies on the baby's face like an invisible blanket; Spin360 lifts it.",
+  "hooks": [
+   "Lyrics (all): \"The nursery you're building could be where your baby dies, / It happens in the dark while you're sleeping, no warning, not a cry. / You read every book, you did everything right, / But there's one thing missing, and it's out of sight.\"",
+   "Hook 1 calm then shock: Nia smoothing crib sheet, hard cut to baby with black smoke pouring into nose/mouth",
+   "Hook 2 drowning from frame one: top-down crib, black smoke rising like water, monitor red light",
+   "Hook 3 dramatic irony: mom asleep while monitor shows baby struggling in smoke"
+  ],
+  "structure": [
+   "Hook (shock)",
+   "V1 checklist: Crib? Check. Monitor? Check. ... nobody checked the air (a cappella + silence)",
+   "V2 CO2 mechanism: lies on face like a blanket, breathed back in",
+   "Pre-chorus: baby can't say, mom never knows",
+   "Chorus 1 (minor key warning): Keep the air moving",
+   "Spoken: SIDS + Kaiser Permanente 72%",
+   "V3 AC/purifier/regular fan don't move it",
+   "V4 the turn: Spin360 switched on, golden air appears, key change to major",
+   "Chorus 2 hopeful",
+   "V5 2-hour stretches to 5",
+   "V6-V7 first night home, 3 a.m. peek, mom sleeps",
+   "V8 checklist 'and the air? Check!' climax",
+   "Bridge: 10 years, price objection",
+   "Final chorus key change",
+   "Outro spoken CTA: Tap the link"
+  ],
+  "key_lines": [
+   "But nobody, nobody checked the air.",
+   "It just lays on that little face like a blanket nobody sees.",
+   "Your baby can't say \"Mama, I can't breathe,\"",
+   "Keep the air moving, keep the air moving, / Pull that blanket off your baby's face,",
+   "Your AC? It cools it. Your purifier? Cleans it. / Neither one moves it, and your baby still breathes it.",
+   "And that invisible blanket lifts and drifts away, / Soft as a window cracked open on a cool spring day.",
+   "That's the last box, mama, before your baby comes home,",
+   "Is it cheap? No. But you spent hundreds on a monitor just to watch your baby breathe."
+  ],
+  "visual_direction": "3D Pixar-quality animation grounded in reality; warm terracotta nursery with painted moon mural; character Nia (pregnant, later new mom). CO2 = sheer dark smoky veil sinking onto baby's face; fresh air = warm golden-white breeze with light motes, never before Spin360 appears (V4). Problem cold/moonlit, solution golden. Checklist overlay with ticks, AIR box blinking red then green check. On-screen SIDS, 72% LOWER RISK (Kaiser Permanente), 2 hrs -> 5 hrs.",
+  "tone_music_captions": "Shock -> dread -> relief -> tearful pride/triumph. Music cues per line: soft piano, heartbeat kick, a cappella stop, minor key chorus, key change to major at product, piano-only tender verses, full band 'Check!' climax, final key change. Big word-by-word lyric captions (bold white, black outline) like viral AI songs; spoken parts captioned.",
+  "cta_offer": "\"Check the last box before your baby comes home. Tap the link.\" End card + CTA at top of hero shot. No price.",
+  "claims": [
+   "researchers believe still air is one of the reasons",
+   "The ones who slept with a fan in the room had a seventy-two percent lower risk of SIDS.",
+   "Parents say their babies went from two-hour stretches to five,",
+   "Built to last ten years"
+  ],
+  "assets_referenced": [
+   "The Last Box (5).mp3",
+   "Brief - Spin360_Baby_SIDSNursery_Song (video)",
+   "Kaiser Permanente study",
+   "shot refs H44, H46, S02, S03, S08, S16, S17, S27, S28"
+  ],
+  "iteration_of": "Same angle and order as the SIDSNursery VSL David approved, now as a song",
+  "learnings_feedback": "Status Waiting on Buyer; not uploaded. Feedback doc: Feedback - Spin360_Baby_SIDSNursery_Song.mp4",
+  "notes": "Hooks share identical audio; only opening visual differs. Hook1_V2 also exists."
+ },
+ {
+  "brief_id": "1XrKD6f8SW2IB4J6LFeomSxUVXsx7nZpiRxm_LpYA3cA",
+  "title": "Spin360_AD_ScamBabies (Spin360_SwedishBabie_David_Scam)",
+  "ad_ids": [
+   "Spin360_SwedishBabie_David_Scam_Hook1",
+   "Spin360_SwedishBabie_David_Scam_Hook2",
+   "Spin360_SwedishBabie_David_Scam_Hook3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 3,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "imitation",
+  "format": "founder-led",
+  "length_hint": "~88s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "David Patrick (only voice)",
+  "avatar": "Broad",
+  "awareness": "Hook Unaware, Core Problem Aware",
+  "angle": "Sleep better",
+  "concept": "Mashes the account's two best engines: the Swedish Babies story (top seller) told by David in the ScamConfession structure (highest-ROAS device). David warns the video is a scam, retells it, confirms it's true ('that's my fan'), and confesses the real scam is calling it a 'fan'. Reverse CTA.",
+  "hooks": [
+   "Hook1 (pointing back at video): \"Hey guys — don't fall for this video. This is a scam. Let me explain.\"",
+   "Hook2 (stop gesture): \"Whatever you do... do NOT believe this video. It's a scam. Let me explain.\"",
+   "Hook3 (knowing look): \"See this video? I know what's behind it... and it's a scam. Let me explain.\"",
+   "Visual (all): Swedish Babies opening scenes - parent with bundled baby 'In Sweden', sunglasses baby in snow 'on purpose'"
+  ],
+  "structure": [
+   "Hook: 'this is a scam'",
+   "The story: Swedish babies nap outside, sleep better",
+   "The reason: it's the air, always moving",
+   "Gets personal: your sealed bedroom",
+   "The fan: top/bottom intake, 360, blade shape, shhh, scent pod",
+   "Proof line: people who hate fans love it, 'is there a window open?'",
+   "The turn: it's all true, 'that's my fan. I built that thing.'",
+   "Confession (David full frame, music out): the scam is calling it a fan; pushing not blowing",
+   "Reverse CTA: 'Do not buy this. ...I'm kidding. Buy it.'"
+  ],
+  "key_lines": [
+   "Hey guys — don't fall for this video. This is a scam. Let me explain.",
+   "And THAT'S where you're trying to sleep.",
+   "The babies? Real. Look it up after this. And the fan... that's my fan. I built that thing.",
+   "So what's the scam? The scam is calling it a fan.",
+   "'Cause a fan blows air AT your face — chops it up and fires it at you.",
+   "We're pushing the air at you — soft, from every direction, like wind does.",
+   "That's why you sleep like a Swedish baby... without the snow.",
+   "Do not buy this. ...I'm kidding. Buy it."
+  ],
+  "visual_direction": "Winning Scam layout: Swedish Babies ad scenes as muted full-frame b-roll, David cutout PiP bottom-left talking throughout; full frame only on confession and close. Original burned-in captions stay as proof the video exists. Inventor scenes (face, gold blade drill) saved for 'that's my fan'. Hook scenes not reused in body.",
+  "tone_music_captions": "Playful warning -> storyteller -> honest confession -> friend. Music from frame zero light/curious, warms on the fan, CUTS on 'So what's the scam?', returns warm for reverse CTA. Continuous David captions in distinct style; red caps anchors: THIS IS A SCAM / IT'S THE AIR / THAT'S WHERE YOU'RE TRYING TO SLEEP / THAT'S MY FAN / PUSHING, NOT BLOWING / ...I'M KIDDING. BUY IT.",
+  "cta_offer": "\"It's called the Spin360 — link's below.\" Primary text 'Tap Shop Now and see what he means'; headline 'Watch Him Call It A Scam'. No offer.",
+  "claims": [
+   "It pulls air in from above and below... and sends it out 360.",
+   "people who hate fans LOVE this one"
+  ],
+  "assets_referenced": [
+   "Spin360_Ad_Blueprint.mp4",
+   "Spin360_UnAware_SwedishBabie_V2_Hook_1.mp4",
+   "Spin360_UGC_DavidScamConfession_Hook3.mp4",
+   "Baby no texts"
+  ],
+  "iteration_of": "Swedish Babies ad (top seller) + Spin360_UGC_DavidScamConfession (highest-ROAS device)",
+  "learnings_feedback": "Status Learning; all 3 uploaded to Meta.",
+  "notes": "David's audio only; no claims inherited from original ad soundtrack."
+ },
+ {
+  "brief_id": "1x1n8cZc_UqWYvXLQI1Px-jr8b8ZzUT8q1ftLG1TqIrU",
+  "title": "Spin360_WifeRelaxation_SwedishBabie",
+  "ad_ids": [
+   "Spin360_WifeRelaxation_SwedishBabie_Hook1",
+   "Spin360_WifeRelaxation_SwedishBabie_Hook2",
+   "Spin360_WifeRelaxation_SwedishBabie_Hook3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "AI standard ref hf_20260910 (Sep 2026)",
+  "ad_type": "ideation",
+  "format": "VSL",
+  "length_hint": "60s+",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "AI VO (VSL voiceover)",
+  "avatar": "Husbands / long-term male partners who notice their wife can't transition from the day into relaxation",
+  "awareness": "Problem-aware (hook and core); doc says Unaware -> Problem Aware",
+  "angle": "Her day doesn't always end when she gets into bed.",
+  "concept": "Swedish babies as authority, aimed at husbands: babies sleep longer outside because air moves; Spin360 brings that outdoor breeze inside so his wife unwinds at the end of the day, and he's the one who creates that comfort for her.",
+  "hooks": [
+   "Hook 1: \"You and your wife are about to sleep better — and the reason is a Swedish baby.\" (couple 0.8-1s -> baby in stroller in snow)",
+   "Hook 2: \"Your wife is missing something Swedish babies get every night.\" (wife close-up -> row of strollers; strongest WTF)",
+   "Hook 3: \"Your wife could feel more relaxed at night — and Swedish babies might explain why.\" (wife relaxed, breeze -> baby outside; desire-led)",
+   "On-screen text (all): MAKE THE END OF HER DAY FEEL BETTER"
+  ],
+  "structure": [
+   "Hook + 'Yeah. Seriously.'",
+   "Swedish babies nap outside, sleep almost twice as long; not the cold, it's the air",
+   "Perfect night outside with your wife; can't get that indoors",
+   "California inventor spent 4 years; top+bottom intake, Saturn's rings",
+   "Imagine it for her at end of long day; 'You're the one who gets to create that for her'",
+   "Walls disappear, bed outside; silent below 5, shhh like wind",
+   "Scent pods retreat",
+   "Authority: Shark Wheel, Shark Tank",
+   "CTA: make the end of your wife's day feel better, go check it out"
+  ],
+  "key_lines": [
+   "And those babies can sleep almost twice as long outside as they do indoors.",
+   "It's the air.",
+   "You just don't get that kind of feeling inside a closed-up house.",
+   "And the best part? You're the one who gets to create that for her.",
+   "it feels like the walls of the bedroom disappeared. Like your bed is outside",
+   "Below speed five, it's silent",
+   "If you've ever wanted to make the end of your wife's day feel a little better, this is one simple way to do it."
+  ],
+  "visual_direction": "Use 'Baby no texts' Swedish baby shots and Erin Schneider UGC; AI shots must meet the standard of hf_20260910_145232...mp4.",
+  "tone_music_captions": "Intimate, peaceful, observational, premium; recognition/tenderness -> relief/warmth.",
+  "cta_offer": "\"So go check it out.\" No offer.",
+  "claims": [
+   "those babies can sleep almost twice as long outside as they do indoors",
+   "Below speed five, it's silent",
+   "one inventor in California spent four years"
+  ],
+  "assets_referenced": [
+   "Brief - Spin360_WifeRelaxation_SwedishBabie.mp4",
+   "Baby no texts",
+   "Erin Schneider",
+   "hf_20260910_145232_e4db8dbc-9802-4f45-9c32-2e6e79de7e59.mp4",
+   "How i am making voiceovers for VSL"
+  ],
+  "iteration_of": "Reuses the Swedish Babies story; master doc cites phrases from 'the winning scripts' (walls removed, bed outside, wind through trees)",
+  "learnings_feedback": "Status Learning; DO NOT UPLOAD.",
+  "notes": "Master doc: dominant desire is her relaxation; closeness/intimacy are consequences. Enemy: bedroom that feels like an extension of the day; relaxation solutions that add another task; traditional fans. Inspiration copy: 'I was on Shark Tank because I re-invented the wheel. Now I re-invented the fan.'"
+ },
+ {
+  "brief_id": "1_jfBvBkjRaMWxlHWLYhkzO83tANSE0dOWw4epBBy8ws",
+  "title": "SPIN360 — White House Sleeping Porch",
+  "ad_ids": [
+   "Spin360_WhiteHouse_Porch_Hook1",
+   "Spin360_WhiteHouse_Porch_Hook2",
+   "Spin360_WhiteHouse_Porch_Hook3",
+   "Spin360_WhiteHouse_Porch_Hook4",
+   "Spin360_WhiteHouse_Porch_Hook5",
+   "Spin360_OpenWindowSimulator_Hook2"
+  ],
+  "n_ads": 6,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "2026-08-20",
+  "ad_type": "ideation",
+  "format": "VSL",
+  "length_hint": "~2:45",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Calm American female documentary narrator (~190 wpm)",
+  "avatar": "Nature-loving mature woman 45-70 (open windows, porches, gardens), wakes up not rested, feels caged indoors",
+  "awareness": "Hook Unaware, Core Product Aware",
+  "angle": "Sealed rooms with air that doesn't move.",
+  "concept": "Mini-documentary: the White House built a rooftop sleeping porch in 1910 and America slept in moving air; we stopped, and sealed rooms hurt sleep and mood; a Shark Tank inventor spent four years putting natural moving air back in your room.",
+  "hooks": [
+   "VO (all): \"The White House used to have a bedroom on the roof. Seriously.\"",
+   "V1 era photo of White House with rooftop porch, slow push-in",
+   "V2 wide era facade then push to roof",
+   "V3 era photo of ordinary family asleep on sleeping porch, cut to White House on 'Seriously'",
+   "V4 modern sealed White House dissolving to 1910 photo"
+  ],
+  "structure": [
+   "Hook strange fact, no product (0:00-0:08)",
+   "Story: 1910 porch, America's sleeping porches, doctors prescribed it (0:08-0:40)",
+   "Knife: we stopped; anxiety, depression; dead air 8 hours; self-blame; powerful families knew (0:40-1:00)",
+   "Bridge: 'I know why. And one guy in California knows why.' It was the air, not the porch (1:00-1:15)",
+   "Product: double-take breeze, walls disappear, name + patent, quiet, scent, all-day use, sleep scores (1:15-2:35)",
+   "Close: David Patrick/Shark Tank, 35,000 in six months, $189 -> $299, soft CTA"
+  ],
+  "key_lines": [
+   "The White House used to have a bedroom on the roof. Seriously.",
+   "So what did they know that you don't?",
+   "Windows shut. Door closed. Eight hours in air that never moves.",
+   "We wake up tired. Foggy. Never knowing why — so we blame stress. Age. The job.",
+   "It was never about the porch.",
+   "you stop noticing the fan and start noticing the air.",
+   "It's patented — the first and only fan built to do what those porches did.",
+   "Those families knew this. Now you do too.",
+   "Can a fan transform your life? No. But moving air can make you live like presidents."
+  ],
+  "visual_direction": "Slow History Channel / Nat Geo mini-doc; real archive era photos with slow push-ins, no fast cuts; AI only as last resort, never for human moments. Fan never in the hook.",
+  "tone_music_captions": "Surprised -> afraid -> relaxed; never salesy. Quiet music bed, sparse during knife, let the close breathe.",
+  "cta_offer": "\"Right now it's $189 — it's going up to $299.\" Go check it out. Headlines: Sleep Like a President Tonight / Get That Open-Window Feeling / Make Your Bedroom Feel Like Outside.",
+  "claims": [
+   "In 1910, they built a screened-in sleeping porch right on top of the White House",
+   "doctors were the ones telling people to do it",
+   "Anxiety went through the roof. Depression rates started going up.",
+   "It's patented — the first and only fan",
+   "On low, you can't hear it at all.",
+   "people who sleep with it are watching their sleep scores go up. Their recovery scores go up.",
+   "Got a deal with Mark Cuban and Kevin O'Leary.",
+   "Thirty-five thousand people have one in their home. In six months."
+  ],
+  "assets_referenced": [
+   "2026-08-20 20-41-08.mp4",
+   "vo + music final.MP3",
+   "vo - v2.MP3",
+   "Instagram reel DYT6z_qC3OL ('Why baby cages were a thing')",
+   "White House sleeping porch archive photos"
+  ],
+  "iteration_of": "Inspired by 'Why baby cages were a thing' reel",
+  "learnings_feedback": "Creative Roadmap: Learning, DO NOT UPLOAD. Relaunch ADS: On Hold (incl. renamed Spin360_OpenWindowSimulator_Hook2). Feedback: Spin360_WhiteHouse_Porch.",
+  "notes": "Primary text teases that beginning and end are connected ('watch it twice'). Sheet has 5 hooks; brief lists 4 visual openers + VO v2 version."
+ },
+ {
+  "brief_id": "1xUdJCGjpoDX9PPPSmaeI4YS7MljeMUIRlKWQBgivaoo",
+  "title": "Spin360_5Reasons_MomsBabyBedtime",
+  "ad_ids": [
+   "Spin360_5Reasons_MomsBabyBedtime_Hook1",
+   "Spin360_5Reasons_MomsBabyBedtime_Hook2",
+   "Spin360_5Reasons_MomsBabyBedtime_Hook3",
+   "Spin360_5Reasons_MomsBabyBedtime_Hook4",
+   "Spin360_5Reasons_MomsBabyBedtime_Hook5",
+   "Spin360_5Reasons_MomsBabyBedtime_Hook6"
+  ],
+  "n_ads": 6,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [
+   "Chose"
+  ],
+  "date_hint": "AI clip hf_20260620 (Jun 2026)",
+  "ad_type": "iteration",
+  "format": "VSL",
+  "length_hint": "30-60s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Female AI VO (Gemini TTS or ElevenLabs) + David soundbite in Hook 5",
+  "avatar": "Moms",
+  "awareness": "Problem Aware (hook and core)",
+  "angle": "Better sleep for babies",
+  "concept": "Baby version of the winning '5 Reasons' listicle VO ad (Spin360_5Reasons_WomenPositive_V3_Hook_8): five reasons moms love the fan for baby bedtime, over realistic AI baby/nursery shots.",
+  "hooks": [
+   "1: \"Five reasons moms won't do baby bedtime without this fan anymore.\"",
+   "2: \"Five reasons moms are loving this fan for their babies.\"",
+   "3: \"Five reasons babies seem to love this fan.\"",
+   "4: \"Five reasons moms are loving this fan.\"",
+   "5: [DAVID] \"When someone takes a fan and waves it like this... that's what we're doing. We just took that and turned it into a full circle.\" [VO FEM] \"That's David Patrick. And if you're a mom, this is the fan he built to make baby bedtime feel completely different. Here are five reasons why.\"",
+   "6: Text \"5 YEARS AGO, THIS WAS JUST A PROTOTYPE.\" + David Patrick VO",
+   "7: \"Five reasons parents are using Spin360 instead of blasting AC in the nursery\""
+  ],
+  "structure": [
+   "Hook (listicle promise)",
+   "1: walls removed, crib on a beach in Hawaii; soft breeze, eyes close",
+   "2: top+bottom intake, 360, same temperature every corner",
+   "3: silent below 5, best white noise above",
+   "4: scent pod spa in 10 seconds, citronella bugs",
+   "5: Shark Wheel inventor, Shark Tank deal (Cuban, O'Leary, Woodman); reinvented the fan",
+   "Offer: first thousand get $100 off",
+   "CTA: Come feel the difference"
+  ],
+  "key_lines": [
+   "First, it feels like the walls were removed and your baby's crib is on a beach in Hawaii.",
+   "They're gonna breathe so easy, they'll wake up feeling like a whole new baby.",
+   "Third, below speed five... absolute silence. Above that... the best white noise there is.",
+   "Finally, a fan that sounds like it was made for sleep. Because it was.",
+   "This is a scent system as much as it's a fan.",
+   "Now he's reinvented the fan.",
+   "The first thousand people get a hundred dollars off."
+  ],
+  "visual_direction": "Hyper-realistic iPhone-style AI clips (7s, 9:16) using @video1 product reference: fan body never moves/oscillates, only blade spins; new environment; sleeping baby 6-8 months, breeze lifting hair/blanket; 'no CGI/AI look'. Hook 5 uses Spin360_GunnaDie_VSL_Hook_6 and Spin360_BedOutside_Hook_1. Assets: Kickstart footage, prototype imagery, stock, mother with baby 2.mp4.",
+  "tone_music_captions": "Good quality music; add 'sh' sound effects; AI clips ambient only, no music.",
+  "cta_offer": "\"The first thousand people get a hundred dollars off.\" Headline 'Hawaii Breeze For The Nursery'; 'First 1,000 get $100 off'.",
+  "claims": [
+   "pulls air from above and below at the same time, mixes everything, and pushes it out 360 degrees",
+   "the same temperature in every corner",
+   "below speed five... absolute silence",
+   "drop a scent pod in and ten seconds later the whole room turns into a spa",
+   "Throw citronella in and the bugs disappear",
+   "Shark Tank deal with Mark Cuban, Kevin O'Leary, and Nick Woodman"
+  ],
+  "assets_referenced": [
+   "Spin360_5Reasons_WomenPositive_V3_Hook_8.mp4",
+   "Creating Baby Fan Ad Hooks and Scripts (video)",
+   "Spin360 Kickstart Footage",
+   "Prototype Imagery",
+   "Creative Assets Library",
+   "Visual Assets (Chris)",
+   "hf_20260620_232640_337e6408-d95f-4c2d-8109-eb70604f6ee3.mp4",
+   "Spin360_GunnaDie_VSL_Hook_6.mp4",
+   "Spin360_BedOutside_Hook_1_9x16.mp4",
+   "mother with baby 2.mp4"
+  ],
+  "iteration_of": "Winning ad Spin360_5Reasons_WomenPositive_V3_Hook_8 (same idea and flow with baby shots)",
+  "learnings_feedback": "Status: Waiting the editor apply feedback. Feedback: 1) better voiceover (ElevenLabs if Gemini TTS poor) 2) good quality music 3) add 'sh' SFX 4) same flow as winning ad with more/better baby shots 5) better hooks with baby shots so easier to digest.",
+  "notes": "Doc headed 'Chad Scale'. Primary text: 'A fan that makes the nursery feel like Hawaii?'"
+ },
+ {
+  "brief_id": "1JMiZPIFbzieeEX3OSTchKudwHG5C6jLwluIxLsHKlwY",
+  "title": "Spin360_BabyCage_V3",
+  "ad_ids": [
+   "Spin360_BabyCage_V3",
+   "Spin360_BabyCage_V4",
+   "Spin360_BabyCage_V5"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "2026-08-17",
+  "ad_type": "iteration",
+  "format": "VSL",
+  "length_hint": "~2:45",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Calm American female documentary narrator (ElevenLabs 'Jane - Professional Audiobook Reader'), ~190 wpm",
+  "avatar": "Nature-loving mature woman 45-70 (porch life, gardens, ocean air), already sleeps with fan or cracked window",
+  "awareness": "Hook Unaware, Core Product Aware",
+  "angle": "Sealed rooms with air that doesn't move.",
+  "concept": "Mini-documentary: a hundred years ago mothers hung babies in wire cages outside windows (doctor-recommended, Eleanor Roosevelt did it) and they slept better because outdoor air moves; you sleep in dead air every night; Spin360 works on the room like those babies' moving air.",
+  "hooks": [
+   "VO (all): \"A hundred years ago, mothers hung their babies in wire cages outside the window. Five stories up, on purpose.\"",
+   "V1 period photo baby in cage bolted to window, street below, slow push-in (earned 40.64% hook rate)",
+   "V2 close on sleeping baby face, zoom out to cage/brick/street",
+   "V3 period photo of mother at window with hands on cage",
+   "V4 modern sealed bedroom window cut to 1900s cage photo"
+  ],
+  "structure": [
+   "Hook strange fact + 'babies slept better' (turns horror to curiosity)",
+   "Story escalates: companies, cities, Eleanor Roosevelt, doctors (never contradicted)",
+   "Reveal: it wasn't the city, it was moving air (recognition, no knife)",
+   "Bridge: 'Now here's the part that has nothing to do with babies.' You sleep in dead air",
+   "Engineer, 4 years; breeze not blast; double-take; walls disappear",
+   "Name + patent after sensation; works on the room not on you; babies objection killer",
+   "Quiet, wind through trees, scent pod, leave on all day, wake rested",
+   "Authority: David Patrick, Shark Tank (Cuban, O'Leary, GoPro founder), 35,000 in six months",
+   "Price $189 -> $299, soft CTA"
+  ],
+  "key_lines": [
+   "And the babies slept better than they ever did inside.",
+   "Nobody was arrested for this. Companies manufactured the cages. Cities handed them out. Eleanor Roosevelt hung her own daughter out a window in one.",
+   "Now here's the part that has nothing to do with babies.",
+   "Every night of your life, you've been sleeping in that same dead air. That's the experiment.",
+   "you stop noticing the fan and start noticing the air.",
+   "And you haven't even heard what it is yet.",
+   "You don't point this at anything. It works on the room, not on you.",
+   "they weren't sleeping in front of a fan. They were just sleeping in moving air."
+  ],
+  "visual_direction": "Slow History Channel/Nat Geo mini-doc with real archive photos (NY, London, Chelsea Baby Club) and slow push-ins, no fast cuts; AI only as last resort, never for human moments. Hard rule: no fan or fan-shaped object in the first 40-50 seconds.",
+  "tone_music_captions": "Surprised -> recognition -> relaxed; never salesy. Quiet bed; near silence on the bridge line; let the close breathe.",
+  "cta_offer": "\"Right now it's $189 — it's going up to $299.\" Go check it out.",
+  "claims": [
+   "Doctors were the ones telling mothers to do it.",
+   "It's patented. The first fan ever built to move air this way.",
+   "On low, nothing.",
+   "Got a deal with Mark Cuban, Kevin O'Leary, and the founder of GoPro.",
+   "Thirty-five thousand sold in six months."
+  ],
+  "assets_referenced": [
+   "Instagram reels DHMGoWNhtyX, DJnX5pNJ9C1",
+   "youtu.be/4dgzJQsAXfI",
+   "2026-08-17 20-27-59.mp4",
+   "ElevenLabs_2026-08-17T23_19_45_Jane - Professional Audiobook Reader...mp3",
+   "v2(1).MP3"
+  ],
+  "iteration_of": "Fix of the original BabyCage ad, which stayed in shock and got clicks instead of buyers and argued with its own viewers (40.64% hook rate on V1 visual)",
+  "learnings_feedback": "Status Learning (also Not Started rows); DO NOT UPLOAD.",
+  "notes": "Keep the engineer/product intro section under 1:10 (1:00 ideal). YouTube comments show audience defends the practice, so story is never contradicted."
+ },
+ {
+  "brief_id": "16WXt4TnzQO5QRXvoViprTsPRV1dyTQ-VgYYmvoG0nTQ",
+  "title": "Spin360_Kingfisher_Biomimicry",
+  "ad_ids": [
+   "Spin360_Kingfisher_Biomimicry_Hook1",
+   "Spin360_Kingfisher_Biomimicry_Hook2",
+   "Spin360_Kingfisher_Biomimicry_Hook3",
+   "Spin360_Kingfisher_Biomimicry_Hook4",
+   "Spin360_Kingfisher_Biomimicry_Hook5"
+  ],
+  "n_ads": 5,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [
+   "Shiv"
+  ],
+  "date_hint": "June 2026",
+  "ad_type": "ideation",
+  "format": "VSL",
+  "length_hint": "60s+",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Male VO (like the reference video)",
+  "avatar": "General; primary men 35-55 practical/curious, secondary women 35-65 wellness/sleep-conscious",
+  "awareness": "Hook Unaware, Core Problem Aware (brief says Problem Aware)",
+  "angle": "Nature already solved air. Spin360 just copied it.",
+  "concept": "A proven biomimicry story (a birdwatcher used the kingfisher's beak and owl feathers to silence Japan's bullet train) lands on David Patrick, who used nature's sine-wave shape to reinvent the wheel and now the way air moves in your home.",
+  "hooks": [
+   "\"In 1989, the fastest train in the world had a problem.\" (Hooks 1-4, different visuals incl. ChatGPT images)",
+   "Hook 5: hook explained in the brief video",
+   "Hook 6: editor's own"
+  ],
+  "structure": [
+   "Hook: 1989 bullet train problem",
+   "Story: tunnel boom, birdwatcher engineer, owl serrations, kingfisher beak, 1997 train 10% faster/15% less power",
+   "Biomimicry: nature's 3.8B years of R&D vs copies of copies",
+   "Inventor: 20 years on one shape (sine wave), reinvented the wheel, Shark Tank",
+   "Spin360 reveal: what it means for you, real breeze memory",
+   "Mechanism: top/bottom intake, gentle 360 vortex, rings around the room",
+   "Whisper quiet like the owl; stale closed room at 3 AM",
+   "Scent pod / citronella",
+   "Authority: Cuban + GoPro founder handshake",
+   "Offer: first 1000 get $100 off; tap below",
+   "Close: 'The owl. The kingfisher. The wheel. And now — the air in your home.'"
+  ],
+  "key_lines": [
+   "In 1989, the fastest train in the world had a problem.",
+   "And their secret weapon... was a birdwatcher.",
+   "Nature has been doing research and development for 3.8 billion years.",
+   "They study other designers — copies of copies of copies.",
+   "A shape nature draws everywhere — a fish swimming, a snake moving, your own footprints in the sand.",
+   "It didn't blast you in the face. It didn't hit you, disappear, and hit you again.",
+   "And just like the owl — it's whisper quiet.",
+   "The owl. The kingfisher. The wheel. And now — the air in your home."
+  ],
+  "visual_direction": "Every clip must match the VO. Kling-generated clip, Prototype_Freestyle_Selects_1.mp4, Shape_VSL_HOOK1.mp4 (sine-wave effect on footprints), prototype pictures with sound design, Utah April '26 shots, Higgsfield clips hf_20260427..., citronella shots. Nature b-roll peaceful/aspirational, not generic stock.",
+  "tone_music_captions": "Captions for entire video; editor must add sound design.",
+  "cta_offer": "\"right now, the first 1000 people get 100$ off. Tap the button below, watch it spin, and lock in your price.\" Headline: The Fan Inspired By Nature.",
+  "claims": [
+   "Spin360 pulls air in from above and below, then releases it in a gentle 360-degree vortex",
+   "it's whisper quiet",
+   "the citronella pod out on the patio — and mosquitoes lose interest",
+   "earned a handshake from Mark Cuban and the founder of GoPro on Shark Tank",
+   "one man spent twenty years obsessed with a single shape"
+  ],
+  "assets_referenced": [
+   "Spin360_Kingfisher_Biomimicry.mp4",
+   "youtube.com/watch?v=iMtXqTmfta0 (idea)",
+   "ChatGPT Image Jun 7, 2026 PNGs",
+   "kling_20260608 clip",
+   "Prototype_Freestyle_Selects_1.mp4",
+   "Shape_VSL_HOOK1.mp4",
+   "Prototype Footage",
+   "2026-06-07 22-02-42.mp4",
+   "April '26 Utah shots",
+   "hf_20260427_021629 / hf_20260427_021557 clips",
+   "Spin360 Kickstart Footage",
+   "Visual Assets (Chris)"
+  ],
+  "iteration_of": "Borrowed proven biomimicry story from a YouTube video",
+  "learnings_feedback": "Status Learning; DO NOT UPLOAD.",
+  "notes": "Deliverable listed as 6 versions (one per hook); sheet has 5."
+ },
+ {
+  "brief_id": "1p51d1MmyWDVq99q-0rrrGqca8W1ldMKb3cSIaWBX6jc",
+  "title": "Spin360_CO2Bubble_SleepVSL",
+  "ad_ids": [
+   "Spin360_CO2Bubble_SleepVSL_Hook1",
+   "Spin360_CO2Bubble_SleepVSL_Hook2",
+   "Spin360_CO2Bubble_SleepVSL_Hook3",
+   "Spin360_CO2Bubble_SleepVSL_Hook4",
+   "Spin360_CO2Bubble_SleepVSL_Hook5"
+  ],
+  "n_ads": 5,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "winter",
+  "ad_type": "ideation",
+  "format": "AI-generated",
+  "length_hint": "~2:45",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Female VO",
+  "avatar": "Adults who sleep their hours and still wake up tired, in a closed bedroom (door/window shut, heat on)",
+  "awareness": "Hook Unaware, Core Product Aware",
+  "angle": "You breathe your own carbon dioxide all night in still air; moving air takes it away",
+  "concept": "Adult version of the Baby SIDSNursery VSL: same beats and 3D Pixar look; exhaled CO2 shown as dark smoke sitting around a woman's face all night; Kaiser SIDS study bridged with 'you're not a baby, but you breathe the same way'; Spin360 breaks up the smoke.",
+  "hooks": [
+   "Spoken A (Hooks 1-2): \"If you wake up tired no matter how long you sleep, I can almost guarantee you're missing the most important thing. And if you don't have it, I'm not exaggerating, you're breathing your own breath all night.\"",
+   "Spoken B (Hooks 3-4): \"If you're trying to sleep better right now, I can almost guarantee you're missing the most important thing. And if you don't have it, I'm not exaggerating, you're breathing your own breath all night.\"",
+   "H1 face macro: each exhale puffs dark smoke around her face, clock 3:00",
+   "H2 the loop: side profile, breathes smoke back in",
+   "H3 the dome: top-down dark fog dome over pillow",
+   "H4 night time-lapse: clock 11PM->1AM->3AM, cloud grows"
+  ],
+  "structure": [
+   "Hook",
+   "Perfect bedroom (mattress, curtains, white noise)",
+   "Problem: CO2 sits around your face, rebreathed, wake heavy",
+   "SIDS in babies (empty crib, respectful)",
+   "Kaiser Permanente 72%",
+   "Bridge: you're not a baby, but you breathe the same way",
+   "Heater/purifier/regular fan (need four) don't move air",
+   "Spin360 reveal, mechanism, smoke dissolves",
+   "Clear head morning; gentle like open window with window shut",
+   "Review card",
+   "Drift off, wake rested; 10+ years",
+   "Price objection vs mattress",
+   "CTA: try it for 30 nights"
+  ],
+  "key_lines": [
+   "You've got the good mattress. The blackout curtains. The white noise machine.",
+   "It just sits there, right around your face.",
+   "You'll just wake up with your head heavy, and have no idea why.",
+   "Now, you're not a baby. But you breathe the same way. Eight hours. Same spot. Same air.",
+   "Your heater just warms the air. Your purifier just cleans it.",
+   "It's made to feel like an open window, with the window shut.",
+   "This makes sure the air you breathe on it isn't your own.",
+   "Every night without it is another night breathing the same air back in."
+  ],
+  "visual_direction": "3D Pixar-style animation same as baby ad; one woman (early 40s, wavy chestnut hair, grey pajamas). CO2 = dark grey/black smoke staying over pillow; Spin360 = soft blue swirling air lines that break it up. Product must match real reference, soft white light only. Winter cues (frost, wall heater, no Christmas). Hooks bright/bold like YouTube thumbnail (warm saturated, huge pitch-black smoke), no dark flat first frames. Plain 5-star review card, no Trustpilot logo.",
+  "tone_music_captions": "Emotional music under the voice; white word-by-word captions.",
+  "cta_offer": "30 nights to try it, no discount. End card: Spin360 · Try it for 30 nights.",
+  "claims": [
+   "the ones who slept with a fan in the room had a 72% lower risk of SIDS",
+   "It's built to last over 10 years.",
+   "\"My bedroom was stuffy, as there was no air flow; now it feels airy and bright.\" (customer review)"
+  ],
+  "assets_referenced": [
+   "Brief - Spin360_CO2Bubble_SleepVSL.mp4",
+   "Spin360_Baby_SIDSNursery_VSL_HOOK2 (inspiration)",
+   "product reference",
+   "Kaiser Permanente study"
+  ],
+  "iteration_of": "Spin360_Baby_SIDSNursery_VSL (same flow and look, for adults)",
+  "learnings_feedback": "Hooks 1-4 Learning, not uploaded; Hook5 Waiting on Buyer.",
+  "notes": "Rules: never say or show 'silent/quiet'; no discount; baby part respectful. Keep VO exactly as written and smoke logic."
+ },
+ {
+  "brief_id": "1cTY7BS8b7tvykrqmekSi-R2xJYrK6oMpy6IhfMqKL4U",
+  "title": "Spin360_CO2Bubble_HomeOfficeShort",
+  "ad_ids": [
+   "Spin360_CO2Bubble_HomeOfficeShort_Hook1",
+   "Spin360_CO2Bubble_HomeOfficeShort_Hook2",
+   "Spin360_CO2Bubble_HomeOfficeShort_Hook3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "iteration",
+  "format": "educational explainer",
+  "length_hint": "~55s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Female narrator in her 30s, warm and close, like a friend (VO, not on-screen)",
+  "avatar": "Remote workers in a small home office with the door shut who feel foggy by 2pm",
+  "awareness": "Hook Problem Aware, Core Product Aware",
+  "angle": "The 2pm slump might be the air you're sitting in: keep it moving, nothing blowing at you",
+  "concept": "55s cut of the CO2 Bubble HomeOffice ad: UC Berkeley found a personal CO2 bubble in front of every desk worker's face (even in ventilated rooms), more CO2 lowers decision scores, gentle moving air breaks it up, Spin360 circulates the whole office.",
+  "hooks": [
+   "H1 Brain mush: \"Brain feels like mush by 2pm? It might not be your sleep. It might be the air you're sitting in.\" (text: Brain mush by 2pm? Might be your air.)",
+   "H2 Door shut: \"Work from home with the door shut? You might be breathing your own air back in all day.\" (text: Breathing your own air all day?)",
+   "H3 41 out of 41: \"Scientists tested 41 people at their desks. Every single one had the same thing hanging in front of their face.\" (text: Scientists tested 41 people. All 41 had this.)"
+  ],
+  "structure": [
+   "Hook (belief / situation / proof)",
+   "Here's why: your breath hangs in front of your face",
+   "Study: UC Berkeley personal CO2 bubble, 41/41, even in well-ventilated room",
+   "Why it matters: more CO2, lower decision-making scores",
+   "Good news: gentle moving air breaks it up",
+   "Spin360 + Shark Tank inventor",
+   "Mechanism: top/bottom intake, whole office, nothing blowing papers",
+   "Your day: 2pm head clear, no second coffee",
+   "CTA: try it for 30 days, send it back"
+  ],
+  "key_lines": [
+   "When you sit still, your own breath hangs right in front of your face.",
+   "UC Berkeley researchers call it a personal CO2 bubble. They found it on all 41 people they tested, even in a well-ventilated room.",
+   "when office workers breathed more CO2, their decision-making scores dropped.",
+   "Gentle, moving air breaks it up. No strong breeze needed.",
+   "Nothing blowing your papers off the desk.",
+   "No second coffee. You finish your last call feeling as good as you did at 8am."
+  ],
+  "visual_direction": "New look vs long edit: woman working in corner of small bedroom, door shut. Signature 'CO2 camera' sensor view: room cool blue, breath as soft orange cloud sitting in front of face; light-blue streams break it up. Real study title on screen; real product footage; UGC library + past David/Shark Tank footage; don't reuse long HomeOffice shots. Quick cuts.",
+  "tone_music_captions": "Tired/relatable hook -> curious science -> serious -> relief -> confident -> light -> calm CTA, no urgency. White captions a few words at a time; per-hook on-screen line; 'More CO2 -> lower decision scores', 'UC Berkeley · 41 out of 41'.",
+  "cta_offer": "\"Try it for 30 days. If you don't love how your office feels, just send it back. Tap below and see how it works.\" No discount, no price.",
+  "claims": [
+   "They found it on all 41 people they tested, even in a well-ventilated room.",
+   "when office workers breathed more CO2, their decision-making scores dropped.",
+   "Gentle, moving air breaks it up.",
+   "It was built by the guy who reinvented the wheel on Shark Tank."
+  ],
+  "assets_referenced": [
+   "Brief - Spin360_CO2Bubble_HomeOfficeShort.mp4",
+   "UC Berkeley studies (personal CO2 bubble)",
+   "Harvard CO2/decision study (not named in VO)",
+   "UGC library",
+   "Shark Tank footage"
+  ],
+  "iteration_of": "Spin360_CO2Bubble_HomeOffice (~1:40) shortened to ~55s; tests bubble message in short format",
+  "learnings_feedback": "Status Learning. Feedback doc: Feedback - Spin360_CO2Bubble_HomeOfficeShort.mp4",
+  "notes": "Objection handling: ventilated room -> so was the study; air blowing all day -> nothing blowing papers; doesn't work -> 30 days. Ad variable: Hold."
+ },
+ {
+  "brief_id": "1rHdZub8m4RgOyhok0oC1vtXvJsAqlvxhhC9xwQwXH68",
+  "title": "Spin360_DrillHook_SwedishBabies",
+  "ad_ids": [
+   "Spin360_DrillHook_SwedishBabies_Hook1",
+   "Spin360_DrillHook_SwedishBabies_Hook2",
+   "Spin360_DrillHook_SwedishBabies_Hook3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "iteration",
+  "format": "mashup",
+  "length_hint": "~2:35 (hook ~3s + bridge ~13s + body 2:19)",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "AI narrator: ElevenLabs 'Siren' (voice ID eXpIbVcVbLo8ZJQDlDnl), same as Swedish Babies body",
+  "avatar": "Homeowners 45-65 sharing a closed bedroom; curious how things work, skeptical of gadgets; tried box fans, ceiling fan, AC",
+  "awareness": "Hook Unaware, Core Product Aware",
+  "angle": "One strange shape moves bedroom air the way it moves outside, the reason Swedish babies sleep longer",
+  "concept": "Silent 'what is this guy doing' drill hook (David pulling smoke into the blade on a city street) + a 13s AI narrator bridge introducing David and the shape + the winning Swedish Babies body (no-offer version) unchanged.",
+  "hooks": [
+   "On-screen text (all): \"what is this guy doing 😂\" (upper third, first 3s), no talking, real sound",
+   "Hook 1 New York night: existing Hook4_NYC_Sidewalk.mp4, blade on drill pulls smoke, people walk by",
+   "Hook 2 New York day (Seedance): street food cart smoke pulled into blade, people at crosswalk film it",
+   "Hook 3 Chicago day (Seedance): street steam pipe steam pulled into blade, pedestrians with coffee"
+  ],
+  "structure": [
+   "Drill hook (~3s, silent)",
+   "Bridge: 'This is David Patrick.' (arrow on him)",
+   "Reinvented the wheel with one strange shape (Shark Wheel/Shark Tank)",
+   "Tons of prototypes (2021-2023)",
+   "Same shape pulls air from both sides (bedroom smoke demo)",
+   "'But first, you need to hear this story.' (dip to black max 0.5s or window to snow)",
+   "Swedish Babies body unchanged, ends 'Go check it out.'"
+  ],
+  "key_lines": [
+   "This is David Patrick. Years ago, he came up with one strange shape and used it to reinvent the wheel. Then he built tons of prototypes. And now he's using the exact same shape to pull air in from both sides and change the way your room feels. But first, you need to hear this story.",
+   "In Sweden, parents put their babies outside to sleep in the snow. On purpose…"
+  ],
+  "visual_direction": "Hooks look like a stranger filmed it on a phone: handheld, imperfect framing, real people reacting; generated hooks rejected if AI-looking. Bridge: David push-in/freeze with arrow, Shark Wheel/Shark Tank from winning David ad (FB post 999154579466151) or Spin360_LiveLonger_HOOK_6 01:24-01:32, prototypes folder, Spin360 in bedroom pulling smoke top+bottom. Spin360 already on in generated shots; gentle breeze only. No long black screens.",
+  "tone_music_captions": "Curiosity -> surprise -> wonder -> calm. Captions same style as body, a few words at a time.",
+  "cta_offer": "No discount; body is no-offer version ending on 'Go check it out.'",
+  "claims": [
+   "The patented shape pulls air in from the top and the bottom at the same time and sends it out 360°",
+   "outdoor air is why Swedish babies sleep almost twice as long"
+  ],
+  "assets_referenced": [
+   "Brief - Spin360_DrillHook_SwedishBabies.mp4",
+   "Hook4_NYC_Sidewalk.mp4",
+   "Swedish Babies body (no offer)",
+   "Spin360 prototypes folder",
+   "winning David ad (facebook post 999154579466151)",
+   "Spin360_LiveLonger_HOOK_6.mp4",
+   "elevenlabs voice eXpIbVcVbLo8ZJQDlDnl"
+  ],
+  "iteration_of": "Winning Swedish Babies body + existing drill hook (Hook4_NYC_Sidewalk)",
+  "learnings_feedback": "Hook1/Hook3 Waiting on Buyer, Hook2 On Hold; DO NOT UPLOAD. Two feedback rounds: Feedback / Feedback 2 - Spin360_DrillHook_SwedishBabies.mp4",
+  "notes": "Authority (David) placed before story so viewer trusts the shape before hearing why it matters. Respect belief 'a fan is a fan'."
+ },
+ {
+  "brief_id": "1J2Dmv7_FL2W-v7LpB7LWe_olg35OihPcANa8ERia_tw",
+  "title": "Spin360_White_Noise_Calm",
+  "ad_ids": [
+   "Spin360_White_Noise_Calm_V1",
+   "Spin360_White_Noise_Calm_V2",
+   "Spin360_White_Noise_Calm_V3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "UGC testimonial",
+  "length_hint": "unknown",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "None (no voiceover): music + real white-noise audio",
+  "avatar": "People whose sleep is disrupted by nighttime noise (city dwellers, e.g. NYC: traffic, neighbors, snoring, dogs, trains)",
+  "awareness": "Problem Aware (hook and core) -> Solution Aware",
+  "angle": "Nighttime noise makes it harder to relax, fall asleep, and stay asleep.",
+  "concept": "No-voiceover organic UGC ad repositioning Spin360 as a white-noise machine that also circulates a soft breeze: music carries the noisy 'before', then the real blade white noise carries the calm 'after'.",
+  "hooks": [
+   "3 different hooks chosen by editor (no shot list); do not open on the product"
+  ],
+  "structure": [
+   "Before: nighttime noise (traffic, neighbors, snoring, dogs, trains, 3 AM sound) with emotional music",
+   "Transition: let real white noise come through",
+   "After: calm, relief, masked noise, rested"
+  ],
+  "key_lines": [
+   "you literally can't hear it, but when you turn it up there's this really soft gentle white noise… you have the gentle breeze around you and that steady little sound — everything is just there without being distracting. (UGC tone reference)"
+  ],
+  "visual_direction": "UGC shots (especially the sleeping set) over polished product footage; mixing allowed; David/Shark Tank optional. No shot list on purpose - editor builds from the 8 Elements.",
+  "tone_music_captions": "No voiceover (selling voice makes people scroll). Every variation delivered twice: with own on-screen text and with no text (goal: sell without text). Supplied white-noise audio must be heard in every cut.",
+  "cta_offer": "",
+  "claims": [
+   "Spin360's blade is designed to move air smoothly instead of repeatedly chopping through it"
+  ],
+  "assets_referenced": [
+   "Brief - Spin360_White_Noise_Calm.mp4",
+   "Spin360_Erin_White_Noise_V5.mp4",
+   "c0e000d0483b73520322f8efefdb3a2f.wav",
+   "SNOOZ Instagram + Amazon reviews (competitor)",
+   "Instagram reels DNA0YV8MLEz, DV1m12fDRL8, DTEJ_WzEfWk"
+  ],
+  "iteration_of": "",
+  "learnings_feedback": "Status Learning; DO NOT UPLOAD.",
+  "notes": "Competitive framing: SNOOZ is a white-noise machine with a fan inside; Spin360 is the same from the other direction with a better fan; vs apps = real sound from a real blade. Deliverables: 3 variations x 2 (text/no text). Search keywords listed for inspiration."
+ },
+ {
+  "brief_id": "1Pvvs3FxI89o6ZR--CadynLc2KB1Kx3b1kiHFx-rPt_s",
+  "title": "Spin360_NatureBreeze_Winter",
+  "ad_ids": [
+   "Spin360_NatureBreeze_Winter_Hook1",
+   "Spin360_NatureBreeze_Winter_Hook2",
+   "Spin360_NatureBreeze_Winter_Hook3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "winter (test 27/10)",
+  "ad_type": "ideation",
+  "format": "AI-generated",
+  "length_hint": "~38s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "None: music + short on-screen text",
+  "avatar": "People who love sleeping with windows open and lose that breeze in winter",
+  "awareness": "Hook Unaware, Core Product Aware",
+  "angle": "The feeling of an open window, with the windows closed",
+  "concept": "Perfume-ad style, no voice: Act 1 generated nature breeze (no product), Act 2 winter shuts the windows (still, stuffy, freezing if cracked), Act 3 Spin360 placed in nature then fades into a bedroom where people sleep with it.",
+  "hooks": [
+   "Hook 1 text: \"What if your bed felt like this tonight?\"",
+   "Hook 2 text: \"What if your bed felt like this… in January?\"",
+   "Hook 3 text: \"Imagine falling asleep in this. Tonight.\"",
+   "Visual (all): golden grass waving at sunset, curtains blowing into bedroom from open window"
+  ],
+  "structure": [
+   "Act 1 breeze (0-15s): grass, curtains, birch leaves, woman's hair, dunes, lake, bed on screened porch; 'That breeze on your skin.' 'Like your bed is outside.'",
+   "Act 2 winter (15-23s): frosted closed window, awake in stuffy room, cracks window and freezes",
+   "Act 3 (23-38s): Spin360 on moss by forest stream 'What if this breeze came inside?' 'Meet Spin360. Built to bring the outdoors inside.'",
+   "Fade to bedroom, David quote, drift off, wake rested",
+   "End card: Spin360 · Try it for 30 nights"
+  ],
+  "key_lines": [
+   "That breeze on your skin.",
+   "Like your bed is outside.",
+   "Then winter shuts every window.",
+   "Stuffy. Still. Wide awake.",
+   "Crack the window? Now you're freezing.",
+   "What if this breeze came inside?",
+   "Meet Spin360. Built to bring the outdoors inside.",
+   "\"You'd swear the walls were removed and your bed is outside.\" David Patrick, inventor of the Spin360",
+   "You drift off without noticing.",
+   "And wake up actually rested."
+  ],
+  "visual_direction": "Cuts of 1-2s like the reference perfume ad. 7 Act 1 Seedance 2.5 clips already generated (5s, 1080p, no product). Product first seen inside nature (Seedance with product reference), then fade into bedroom. Premium, real, slow, shallow DOF; Act 1 warm green, Act 2 cold blue still, Act 3 warm with visible air movement. Spin360 matches real product, never heats/glows red, no Christmas decor.",
+  "tone_music_captions": "Emotional cinematic music: builds Act 1, almost disappears Act 2, returns bigger Act 3. On-screen text white, clean, centered, ~2-3s each, final as written.",
+  "cta_offer": "30 nights to try it. No discount. End card 'Spin360 · Try it for 30 nights'.",
+  "claims": [],
+  "assets_referenced": [
+   "Brief - Spin360_NatureBreeze_Winter.mp4",
+   "perfume ad reference (10s)",
+   "Seedance 2.5 Act 1 clips",
+   "Spin360 in nature clip (test 27/10)",
+   "product reference videos"
+  ],
+  "iteration_of": "Proven 'bed is outside' message: BedOutside_Hook_1 ($53k, ROAS 3.21), BedOutside_Hook_4 (ROAS 4.34), NatureBreeze_DavidVO ($47k); format from a perfume ad",
+  "learnings_feedback": "Status Learning; DO NOT UPLOAD. Feedback doc: Feedback - Spin360_NatureBreeze_Winter.mp4",
+  "notes": "Sell the feeling, never cooling. Hook test changes only the first text card."
+ },
+ {
+  "brief_id": "19kz7OCXBEixG6rjaEt2vS0dRiDgYktca9A2e1gj83ZE",
+  "title": "Spin360_SHEEP_STANDUP",
+  "ad_ids": [
+   "Spin360_SHEEP_STANDUP_V1",
+   "Spin360_SHEEP_STANDUP_V2",
+   "Spin360_SHEEP_STANDUP_V3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "skit",
+  "length_hint": "60s+",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Sheep stand-up comedian VO (VO SHEEP.MP3)",
+  "avatar": "People whose sleep is disrupted by nighttime noise",
+  "awareness": "Problem Aware (hook and core)",
+  "angle": "Nighttime noise makes it harder to relax, fall asleep, and stay asleep.",
+  "concept": "A sheep doing stand-up complains it got laid off from the sleep industry: noise ruins sleep, white-noise apps sound fake, fans blast one spot, and Spin360's blade makes real steady white noise plus a soft breeze, so nobody counts sheep anymore.",
+  "hooks": [
+   "Hook text 1: SHEEP ARE GETTING LAID OFF",
+   "Hook text 2: I GOT FIRED FROM THE SLEEP INDUSTRY",
+   "Hook text 3: THE SHEEP BUSINESS IS COLLAPSING",
+   "Opening line: \"So... yeah. I got laid off.\""
+  ],
+  "structure": [
+   "Laid off: sheep had the most secure job",
+   "Problem: traffic, barking dog, upstairs neighbor; human staring at ceiling",
+   "Failed solutions: apps, white-noise machines, 'deep brown noise' speakers going SHHHH",
+   "Fans: real sound but air on one spot ('one shoulder in December')",
+   "Spin360 took my job: blade-made steady white noise, not a recording",
+   "Plus soft breeze around room, not leaf blower",
+   "It feels good: 'Oh. Okay. We can sleep here.'",
+   "Close: three lambs at home; 'a sheep paid the price'"
+  ],
+  "key_lines": [
+   "Which is humiliating, because I'm a sheep. We had maybe the most secure job in human history.",
+   "you jump over a fence six or seven times and somebody passes out.",
+   "What am I supposed to do with that? Jump harder?",
+   "some of this stuff sounds like a speaker going SHHHHHHHH at you for eight straight hours.",
+   "That's somebody trying to shut you up very slowly.",
+   "wake up with one shoulder in December.",
+   "Somebody made Spin360. I know. I hate them too.",
+   "instead of feeling like somebody left a leaf blower pointed at your pillow",
+   "Like your body goes, \"Oh. Okay. We can sleep here.\"",
+   "I've got three lambs at home, man. One of them's looking at college.",
+   "If you sleep better tonight, just know a sheep paid the price."
+  ],
+  "visual_direction": "Sheep stand-up character (reference image 371a5ac8-...png).",
+  "tone_music_captions": "Comedy; music options: slim shady instrumental.mp3, Caleb Arredondo - Feeling Blue.mp3; snowfall.MP3 SFX.",
+  "cta_offer": "\"So yeah... Spin360.\" Primary text: 'See why sheep are updating their résumés.' Headlines: The Fan That Fired The Sheep / Make Nighttime Noise Less Noticeable / White Noise + A Softer Breeze.",
+  "claims": [
+   "They designed the blade so, as it moves the air, it creates this smoother, steadier mechanical white noise.",
+   "an actual sound from the blade itself — not a recording looping through a speaker"
+  ],
+  "assets_referenced": [
+   "Spin360_SHEEP_STANDUP.mp4",
+   "371a5ac8-bcfa-4a21-8b9b-60b3fdda03b2.png",
+   "VO SHEEP.MP3",
+   "slim shady instrumental.mp3",
+   "snowfall.MP3",
+   "Caleb Arredondo - Feeling Blue.mp3"
+  ],
+  "iteration_of": "",
+  "learnings_feedback": "Status Learning; DO NOT UPLOAD. Feedback doc: Feedback - Spin360_SHEEP_STANDUP",
+  "notes": "Shares 8 Elements doc with White_Noise_Calm (blade-generated white noise positioning)."
+ },
+ {
+  "brief_id": "1J421p8mVykpr58TTrFfqg5-Bu9AmpYhFLvOWJeA-Fj0",
+  "title": "Spin360_AtFirst_WomenSleepBetter",
+  "ad_ids": [
+   "Spin360_AtFirst_WomenSleepBetter_Hook_1",
+   "Spin360_AtFirst_WomenSleepBetter_Hook_2",
+   "Spin360_AtFirst_WomenSleepBetter_Hook_3",
+   "Spin360_AtFirst_WomenSleepBetter_Hook_4",
+   "Spin360_AtFirst_WomenSleepBetter_Hook_5",
+   "Spin360_AtFirst_WomenSleepBetter_Hook_6",
+   "Spin360_AtFirst_WomenSleepBetter_V2_Hook_1",
+   "Spin360_AtFirst_WomenSleepBetter_V2_Hook_2",
+   "Spin360_AtFirst_WomenSleepBetter_V2_Hook_3",
+   "Spin360_AtFirst_WomenSleepBetter_V2_Hook_4",
+   "Spin360_AtFirst_WomenSleepBetter_V2_Hook_5",
+   "Spin360_AtFirst_WomenSleepBetter_V2_Hook_6",
+   "Spin360_AtFirst_WomenSleepBetter_V2_Hook_7"
+  ],
+  "n_ads": 13,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [
+   "Chose"
+  ],
+  "date_hint": "June 2026 (hf_20260621-23)",
+  "ad_type": "iteration",
+  "format": "VSL",
+  "length_hint": "45-60s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Female AI VO (+ David soundbite in Hook 5)",
+  "avatar": "General (women)",
+  "awareness": "Problem Aware (hook and core)",
+  "angle": "Sleep better",
+  "concept": "'At first' format reworking the 5 Reasons feature stack as a false-reason reveal: women thought it was the breeze, the 360 airflow, the sound, the scent pods, the Shark Tank inventor; the real reason is how everything works together, like the bedroom gets its own weather system.",
+  "hooks": [
+   "Hooks 1-3, 6-7: \"At first, women were like… 'Wait… why does this fan actually make me sleep better?'\" (different visuals: hf_20260623 AI clip, iPhone_Apartment_CG.mp4, IMG_3361.MOV, hf_20260621 clips)",
+   "Hook 4: Text \"5 YEARS AGO, THIS WAS JUST A PROTOTYPE.\" + VO \"This was David Patrick testing one simple idea. Could you make air move through a room… the way it moves outside? That weird smoke test became Spin360.\"",
+   "Hook 5: [DAVID] \"When somebody takes a fan, they wave it like this… that's what we're doing. We just took that and turned it into a complete circle.\" + VO \"That's David Patrick.\""
+  ],
+  "structure": [
+   "Hook: 'Wait… why does this fan actually make me sleep better?'",
+   "'everyone thought they knew why' - not the real reason",
+   "Not just walls disappear / Hawaii beach breeze",
+   "Not just 360 airflow (same temp every corner)",
+   "Not just the sound (silent below 5, white noise above)",
+   "Not even scent pods (spa in 10 seconds, citronella)",
+   "Not just Shark Tank inventor",
+   "Reveal: how everything works together - 'its own little weather system'",
+   "Offer: first thousand get $100 off; Come feel it"
+  ],
+  "key_lines": [
+   "At first, women were like… \"Wait… why does this fan actually make me sleep better?\"",
+   "But that still wasn't the real reason women were loving it.",
+   "It wasn't just because the air feels like the walls disappeared and your bed landed on a beach in Hawaii.",
+   "The part people almost missed? It's not one feature. It's how everything works together.",
+   "It's like your bedroom gets its own little weather system.",
+   "Now he's reinvented the fan."
+  ],
+  "visual_direction": "Body uses same visual idea as Spin360_5Reasons_WomenPositive_V3_Hook_8 but more shots from UT_April_Sleep.mp4. Hook visuals: Higgsfield AI clips, iPhone apartment CG, Ad 10.4.mp4, Spin360_GunnaDie_VSL_Hook_6, Spin360_BedOutside_Hook_1. Every clip must match the audio; nature b-roll peaceful, not generic stock.",
+  "tone_music_captions": "Captions entire video; editor adds sound design.",
+  "cta_offer": "\"The first thousand people get $100 off. Come feel it.\" Headline: Try The Bedroom Weather.",
+  "claims": [
+   "Same temperature in every corner.",
+   "Below speed five, it's basically silent.",
+   "Drop one in, and ten seconds later, your room feels like a spa.",
+   "landed a Shark Tank deal with Mark Cuban and Nick Woodman"
+  ],
+  "assets_referenced": [
+   "UT_April_Sleep.mp4",
+   "Spin360_5Reasons_WomenPositive_V3_Hook_8.mp4",
+   "hf_20260623_074216_767ceede...mp4",
+   "iPhone_Apartment_CG.mp4",
+   "IMG_3361.MOV",
+   "Ad 10.4.mp4",
+   "Spin360_GunnaDie_VSL_Hook_6.mp4",
+   "Spin360_BedOutside_Hook_1_9x16.mp4",
+   "hf_20260623_080933...mp4",
+   "hf_20260621_225824...mp4",
+   "Spin360 Kickstart Footage"
+  ],
+  "iteration_of": "Script/visual idea from winning Spin360_5Reasons_WomenPositive_V3_Hook_8",
+  "learnings_feedback": "V1 hooks: Waiting the editor apply feedback. V2 hooks: Learning, DO NOT UPLOAD. Feedback doc: Feedback Spin360_AtFirst_WomenSleepBetter.",
+  "notes": "Deliverables listed as 5 versions; sheet has 6 V1 + 7 V2 hooks."
+ },
+ {
+  "brief_id": "1bXSQ2tv-mpwtERN26cn0__YWFoBvMXX1vvCUKrATcWg",
+  "title": "Spin360_OpenWindowSimulator",
+  "ad_ids": [
+   "Spin360_OpenWindowSimulator_Hook1",
+   "Spin360_OpenWindowSimulator_Hook2",
+   "Spin360_OpenWindowSimulator_Hook3",
+   "Spin360_OpenWindowSimulator_Hook4",
+   "Spin360_OpenWindowSimulator_Hook5"
+  ],
+  "n_ads": 5,
+  "uploaded_to_meta": 5,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "VSL",
+  "length_hint": "45-60s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Voiceover (VSL)",
+  "avatar": "Someone who loves the feeling of having the windows open but closes them at night (safety, noise, bugs, dust); broad adults, stronger for ground-floor/street-facing bedrooms",
+  "awareness": "Hook Unaware, Core Problem Aware",
+  "angle": "Still air makes the bedroom feel less comfortable.",
+  "concept": "Positions Spin360 as an 'open-window simulator': most Americans close windows at night (not because of weather), the air goes still; an inventor spent four years making a closed bedroom feel like the window is open.",
+  "hooks": [
+   "\"How to open your window at night… without actually opening it.\"",
+   "\"53% of Americans sleep with their bedroom windows closed. And the number one reason isn't the weather.\"",
+   "\"More than half of Americans sleep with their windows closed at night. But the number one reason isn't the weather.\"",
+   "\"Want to know what it feels like to sleep with no walls? Watch this.\"",
+   "\"Why don't more of us sleep with the window open?\""
+  ],
+  "structure": [
+   "Hook (stat / how-to / curiosity)",
+   "Day: windows open, house feels alive",
+   "Bedtime: safety, noise, bugs, dust -> close windows, air goes still",
+   "Inventor spent four years on keeping windows closed but feeling open",
+   "Spin360 = open-window simulator",
+   "Mechanism: pulls from above and below, unique blade pushes 360; like being fanned with a magazine",
+   "Keep noise/bugs/dust out, keep moving air in",
+   "Offer $189 before $299; click below"
+  ],
+  "key_lines": [
+   "How to open your window at night… without actually opening it.",
+   "the number one reason isn't the weather.",
+   "how do you keep your windows closed at night, but still make your bedroom feel like they're open?",
+   "it's basically an open-window simulator for your bedroom.",
+   "instead of chopping air straight at you like a normal fan",
+   "Think about someone gently fanning you with a magazine."
+  ],
+  "visual_direction": "",
+  "tone_music_captions": "Low intensity: calm, curious, comfortable.",
+  "cta_offer": "\"Spin360 is $189 before it goes back to $299.\" Click below and try it. Headlines: See Why Your Bedroom Feels Different / Find Out What Closing The Window Changes / See How He Faked An Open Window.",
+  "claims": [
+   "53% of Americans sleep with their bedroom windows closed.",
+   "Spin360 constantly pulls air from above and below, mixes it together, and its unique blade pushes it back out in a full 360 degrees."
+  ],
+  "assets_referenced": [
+   "Brief - Spin360_OpenWindowSimulator (video)"
+  ],
+  "iteration_of": "",
+  "learnings_feedback": "Creative Roadmap: Learning, all 5 uploaded to Meta. Relaunch ADS: Hook2 On Hold.",
+  "notes": "Enemy: direct-blast traditional fans; positioned not as a fan but as an open-window simulator."
+ },
+ {
+  "brief_id": "1VJIP1jqZDqR7Jt3KiBj7ZwCbE6PSoZ2uYHNa-KBT3x4",
+  "title": "Spin360_BabyCage_VSL",
+  "ad_ids": [
+   "Spin360_BabyCage_VSL_Hook1",
+   "Spin360_BabyCage_VSL_Hook2",
+   "Spin360_BabyCage_VSL_Hook3",
+   "Spin360_BabyCage_VSL_Hook4",
+   "Spin360_BabyCage_VSL_Hook5",
+   "Spin360_BabyCage_VSL_Hook6"
+  ],
+  "n_ads": 6,
+  "uploaded_to_meta": 6,
+  "author": "Gabriel",
+  "editors": [
+   "Chose"
+  ],
+  "date_hint": "May 2026 (storyboard 202605221225)",
+  "ad_type": "ideation",
+  "format": "VSL",
+  "length_hint": "60s+",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Female VO",
+  "avatar": "Women 35-55, wellness/sleep-conscious, value sensory experience at home, buy premium, not looking for a fan",
+  "awareness": "Unaware (sheet); brief says Problem Aware",
+  "angle": "",
+  "concept": "Original Baby Cage VSL: early-1900s mothers hung babies in wire cages outside apartment windows because doctors blamed stuffy indoor air; they were half wrong but circling something real (still air); an engineer built a fan that feels like a real outdoor breeze.",
+  "hooks": [
+   "\"In the early 1900s, mothers in New York and London hung their babies in wire cages — bolted to the outside of the apartment window, stories above the street. On purpose.\"",
+   "\"A century ago, mothers hung their babies in cages outside the window. On purpose. Wire cages bolted to the brick, the baby asleep inside, five stories above the traffic below.\""
+  ],
+  "structure": [
+   "Hook: baby cages, on purpose",
+   "Doctors blamed stuffy air; Eleanor Roosevelt did it",
+   "Correction: method insane, reason half wrong, but still air is real",
+   "You sleep in that sealed room every night",
+   "Engineer in California, 4 years: two-direction intake, Saturn's rings, blade = real breeze",
+   "Walls disappear, wake up feeling good",
+   "Silent below 5, wind through trees; scent pods forest; citronella",
+   "Shark Wheel inventor, Cuban + Woodman deal",
+   "Offer: first thousand get $100 off; go check it out"
+  ],
+  "key_lines": [
+   "On purpose.",
+   "Even Eleanor Roosevelt did it — she hung her own daughter out the window in one, until a neighbor threatened to turn her in.",
+   "Now, the method was insane — nobody's saying hang a baby off a building. And they had the reason half wrong",
+   "indoors, with everything sealed shut, the air stops moving — it goes dead still.",
+   "You sleep in that exact room every night — something almost no one in history did until about a lifetime ago. Your body never agreed to it either.",
+   "it feels like the walls of your bedroom just aren't there anymore.",
+   "That part honestly might be my favorite."
+  ],
+  "visual_direction": "Engineer section uses H1_Spin360_UnAware_SwedishBabie.mp4 visuals; baby-cage archive refs (apartmenttherapy, Instagram, YouTube), AI storyboard clip of tenement baby cages. Every clip matches audio; nature b-roll peaceful.",
+  "tone_music_captions": "Music: The_Weight_of_Sunlight.mp3 or Where_the_Walls_Dissolve.mp3. Captions entire video; sound design.",
+  "cta_offer": "\"First thousand people get a hundred dollars off\" ... \"Go check it out.\"",
+  "claims": [
+   "below speed five you literally won't be able to hear it",
+   "ten seconds later your whole room smells like a forest",
+   "Citronella in summer and bugs just disappear",
+   "got a deal with Mark Cuban and Nick Woodman"
+  ],
+  "assets_referenced": [
+   "Spin360_BabyCage_VSL.mp4",
+   "The_Weight_of_Sunlight.mp3",
+   "Where_the_Walls_Dissolve.mp3",
+   "H1_Spin360_UnAware_SwedishBabie.mp4",
+   "Storyboard__Baby_cages_tenement_202605221225.mp4",
+   "Instagram DJnX5pNJ9C1, DXPui8TAvUb",
+   "apartmenttherapy baby cage article",
+   "youtu.be/NerS17sC0Bg"
+  ],
+  "iteration_of": "Reuses Swedish Babie engineer-section visuals",
+  "learnings_feedback": "Status Learning; all 6 uploaded to Meta.",
+  "notes": "This is the original BabyCage that V3 later fixed (V3 brief: it stayed in shock, got clicks not buyers, and contradicted viewers by calling the method insane). Only 2 hooks written; 6 hook IDs."
+ },
+ {
+  "brief_id": "18PGbYAJYPvfSaKI64RG9joCks6OD79ae7NmUIGIGagI",
+  "title": "Spin360_Erin_Relaxation",
+  "ad_ids": [
+   "Spin360_Erin_Relaxation_Hook1",
+   "Spin360_Erin_Relaxation_Hook2",
+   "Spin360_Erin_Relaxation_Hook3",
+   "Spin360_Erin_Relaxation_Hook4",
+   "Spin360_Erin_Relaxation_Hook5",
+   "Spin360_Erin_Relaxation_Hook6",
+   "Spin360_Erin_Relaxation_Hook7",
+   "Spin360_Erin_Relaxation_Hook8",
+   "Spin360_Erin_Relaxation_Hook9",
+   "Spin360_Erin_Relaxation_Hook10",
+   "Spin360_Erin_Relaxation_Hook11"
+  ],
+  "n_ads": 11,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "Sep 2026 (hf_20260910)",
+  "ad_type": "ideation",
+  "format": "UGC testimonial",
+  "length_hint": "unknown",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Erin Schneider (UGC creator)",
+  "avatar": "Woman; broad - anyone who cares how their bedroom feels at night",
+  "awareness": "Hook Problem Aware, Core Solution Aware",
+  "angle": "Her day doesn't always end when she gets into bed.",
+  "concept": "Relaxation UGC built mostly from Erin Schneider's footage, positioning the fan as a sleep object: a breeze plus soft white noise that makes the bedroom calm enough to shut your brain off.",
+  "hooks": [
+   "1: \"Imagine falling asleep in a breeze like this. Now you can bring it into your bedroom every night.\" (nature-breeze intro effect like NatureBreeze_DavidVO_Hook_3)",
+   "2: same line, Cinema Studio-modified Instagram clip of a woman feeling the breeze, at night",
+   "3: \"It's just really relaxing. I just love it for sleeping.\" TOS: SHUT YOUR BRAIN OFF AT NIGHT",
+   "4: \"It's just really relaxing. I just love it for sleeping.\" TOS: FINALLY RELAX AT NIGHT"
+  ],
+  "structure": [],
+  "key_lines": [
+   "It's just really relaxing. I just love it for sleeping.",
+   "\"I never thought I'd care this much about a fan.\" (primary text)",
+   "It feels like the room itself is helping you relax. (primary text)"
+  ],
+  "visual_direction": "Mostly Erin Schneider footage; hook 1 effect from Spin360_NatureBreeze_DavidVO_Hook_3 and 'Imagine this breeze intro.mp4'; AI standard hf_20260910_145232...; Cinema Studio edit of Instagram DXrFEmLDStS.",
+  "tone_music_captions": "Calm; text-on-screen hooks (TOS).",
+  "cta_offer": "CTA button: Learn More. Headlines: FINALLY TURN YOUR BRAIN OFF / MAKE YOUR BEDROOM FEEL CALM / SLEEP SHOULD FEEL LIKE THIS.",
+  "claims": [],
+  "assets_referenced": [
+   "Brief - Spin360_Erin_Relaxation (video)",
+   "Spin360_Erin_Relaxation.mp4 (script)",
+   "Erin Schneider footage",
+   "Spin360_NatureBreeze_DavidVO_Hook_3_9x16.mp4",
+   "hf_20260910_145232_e4db8dbc-9802-4f45-9c32-2e6e79de7e59.mp4",
+   "Imagine this breeze intro.mp4",
+   "Instagram DXrFEmLDStS"
+  ],
+  "iteration_of": "Hook 1 borrows the NatureBreeze_DavidVO visual hook",
+  "learnings_feedback": "Status Learning; DO NOT UPLOAD. Feedback doc: Feedback- Spin360_Erin_Relaxation",
+  "notes": "Includes the same 8-elements doc as WhiteNoise_For_Your_Skin (white noise you hear + feel). Script lives in a video file, not the brief. 4 hooks written, 11 IDs."
+ },
+ {
+  "brief_id": "1_tSdL9RBi0ZZdgT_AvCbfFe59_brPLeXChkwdhrPGFU",
+  "title": "Spin360_HearNotNear",
+  "ad_ids": [
+   "Spin360_HearNotNear_Hook1",
+   "Spin360_HearNotNear_Hook2",
+   "Spin360_HearNotNear_Hook3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "UGC testimonial",
+  "length_hint": "~33s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "AI VO: ElevenLabs 'Siren' (voice ID eXpIbVcVbLo8ZJQDlDnl), calm like a friend",
+  "avatar": "Adults who like the sound of a fan to sleep but hate air blowing on them",
+  "awareness": "Hook Problem Aware, Core Product Aware",
+  "angle": "Keeps the sound, drops the blast: a natural breeze, not a jet",
+  "concept": "Built on a real customer review ('wonderful to hear and terrible to be near'): Spin360 keeps the fan sound and drops the blast; opens with her sentence and closes 'Wonderful to hear. And finally, good to be near.'",
+  "hooks": [
+   "VO (all): \"I have always found fans to be wonderful to hear and terrible to be near.\"",
+   "Hook 1 the review: 5-star review card, words appear as read, blurred bedroom with Spin360",
+   "Hook 2 hear/near: falling asleep to fan sound vs ordinary fan blasting face",
+   "Hook 3 the blast: ordinary fan blasting someone in bed, papers flying, then Spin360 room with gentle curtain"
+  ],
+  "structure": [
+   "Review quote hook",
+   "'A customer wrote that. And she's right.'",
+   "Problem: blast dries eyes, blows hair, hits one person",
+   "Keeps the sound, drops the blast",
+   "Mechanism: two directions, Saturn's rings, nothing aimed at you, like a window open",
+   "Head to toe",
+   "Sound choice: 1-5 ultra quiet, 6-9 soft shhh white noise",
+   "Sleep through night, wake rested",
+   "Payoff: 'Wonderful to hear. And finally, good to be near.'",
+   "CTA: 30 nights, send it back"
+  ],
+  "key_lines": [
+   "I have always found fans to be wonderful to hear and terrible to be near.",
+   "A customer wrote that. And she's right.",
+   "So this fan keeps the sound and drops the blast.",
+   "It pulls air in from two directions and sends it out like Saturn's rings.",
+   "You feel it from head to toe. Not in one spot.",
+   "Settings one to five are ultra quiet. Six through nine give you that soft shhh",
+   "Wonderful to hear. And finally, good to be near."
+  ],
+  "visual_direction": "UGC library first (Erin 28.MOV, 25.MOV, 8.MOV; Avery kid sleeping; Stacie IMG_9769, IMG_9752; Vicky IMG_8039; Michael Summer breeze/Ribbons/Button press; Charlie IMG_3849, IMG_3851). Ordinary fan blast must be generated or stock. Airflow animation from Reinvent_Wheel_SplitScreen_David_V2_Hook_2.mp4. No strong wind after the problem.",
+  "tone_music_captions": "Same caption style as our winner; calm music low under voice, nearly zero on 'ultra quiet', real fan sound on 'shhh'.",
+  "cta_offer": "\"Sleep on it for 30 nights. If you don't love it, just send it back.\" End card 'Sleep on it for 30 nights.'",
+  "claims": [
+   "Settings one to five are ultra quiet.",
+   "Six through nine give you that soft shhh, white noise"
+  ],
+  "assets_referenced": [
+   "Erin 28.MOV / 25.MOV / 8.MOV",
+   "Avery kid sleeping",
+   "Stacie IMG_9769 / IMG_9752",
+   "Vicky IMG_8039",
+   "Michael Summer breeze window open / Ribbons / Button press first impressions",
+   "Charlie IMG_3849 / IMG_3851",
+   "Reinvent_Wheel_SplitScreen_David_V2_Hook_2.mp4"
+  ],
+  "iteration_of": "",
+  "learnings_feedback": "Status Editing.",
+  "notes": "Review words on screen exactly as written; no on-screen claims beyond script. Export Spin360_HearNotNear_Hook1/2/3."
+ },
+ {
+  "brief_id": "1Ow6ippy-NfWOlCj8bWy5F8i_LYvi6x3_mahcMgPf53g",
+  "title": "Spin360_UnAware_AirMixing",
+  "ad_ids": [
+   "Spin360_UnAware_AirMixing_Hook_1",
+   "Spin360_UnAware_AirMixing_Hook_2",
+   "Spin360_UnAware_AirMixing_Hook_3",
+   "Spin360_UnAware_AirMixing_Hook_4",
+   "Spin360_UnAware_AirMixing_Hook_5"
+  ],
+  "n_ads": 5,
+  "uploaded_to_meta": 0,
+  "author": "Chris",
+  "editors": [
+   "Shiv"
+  ],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "educational explainer",
+  "length_hint": "~1:30+",
+  "sizes": [
+   "9x16",
+   "4x5"
+  ],
+  "voice": "Man 35-65, confident calm (VO / David founder-led)",
+  "avatar": "Woman (35-65), general; TOF unaware buyers",
+  "awareness": "Hook Problem-Unaware, Core Unaware",
+  "angle": "Benefits",
+  "concept": "Unaware educational/founder-led VSL: 'You like breathing really oxygenated air', since the Industrial Revolution air quality got bad, ancient people slept outside in fresh air; David's air-mixing demo is the hero visual; product introduced slowly.",
+  "hooks": [
+   "Hooks 1-3: \"You like having well oxygenated air\" (H1 David talking + animation into mixing shot; H2 mixer clip slow with centered text; H3 woman with spray into mixing clip)",
+   "Hooks 4-5: \"This is what 4 years of studying airflow looks like\" into \"So Imagine this is your room\" (H4 David 13:29-13:33 into mixing clip; H5 woman hook)"
+  ],
+  "structure": [
+   "Hook (oxygenated air / 4 years of airflow)",
+   "Since the Industrial Revolution: coal trains, cars, pollution, big cities",
+   "Ancient/Native people slept outside, fresh air",
+   "David working on prototypes",
+   "360 spread visual",
+   "Prototype images",
+   "Sequence: woman sleeping, stretching, walls removed"
+  ],
+  "key_lines": [
+   "You like having well oxygenated air",
+   "This is what 4 years of studying airflow looks like",
+   "So Imagine this is your room",
+   "Every since the industrial revolution"
+  ],
+  "visual_direction": "Edit to supplied audio stringout. Mixing demo must be high quality and clearly visible (hero visual). New pollution/city shots (no reused ones), ancient people sleeping outside, prototype work, 360 spread. Speed ramps + blur. Lifestyle shots target middle-aged/older women, not young/trendy.",
+  "tone_music_captions": "Calm, smooth, interesting ('a lot of these edits lately have been too fast') yet first 3s FAST, no clip >2s in first 10s, no dead air. Captions entire video; sound design.",
+  "cta_offer": "",
+  "claims": [],
+  "assets_referenced": [
+   "Audio Stringout (link)",
+   "Spin360 Kickstart Footage",
+   "Prototype Imagery",
+   "Stock Footage",
+   "Visual Assets (Chris)",
+   "David video 13:29-13:33",
+   "Google Drive clips 1aFTxP27..., 1kS-ZwPn..."
+  ],
+  "iteration_of": "",
+  "learnings_feedback": "Status Learning; DO NOT UPLOAD.",
+  "notes": "Deliverables 7 versions in 9:16 + 4:5; naming Spin360_AirMixing_Woman_V1_HOOK1. Desire: Health."
+ },
+ {
+  "brief_id": "15wUD7NXobgZx_486EjgNlYr6Leu-xjkTV_j5S_ppvtc",
+  "title": "Spin360_Teleport_Hawaii_V1",
+  "ad_ids": [
+   "Spin360_Teleport_Hawaii_V1_HOOK1",
+   "Spin360_Teleport_Hawaii_V1_HOOK2",
+   "Spin360_Teleport_Hawaii_V1_HOOK3",
+   "Spin360_Teleport_Hawaii_V1_HOOK4",
+   "Spin360_Teleport_Hawaii_V1_HOOK5"
+  ],
+  "n_ads": 5,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [
+   "Chose"
+  ],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "AI-generated",
+  "length_hint": "60s+",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "VO (not specified)",
+  "avatar": "Woman 38-55 (sheet: Woman 35-65)",
+  "awareness": "Hook Unaware; Core Solution Aware (Hooks 1-4) / Unaware (Hook 5)",
+  "angle": "Hawaii Breeze Home",
+  "concept": "Cinematic 'teleport' hook (hammock in Hawaii) into Spin360: the breeze from that hammock, recreated in your bedroom via 360 airflow, silence/white noise, and scent pods that turn the bedroom into Hawaii, a forest or the Mediterranean.",
+  "hooks": [
+   "Hook 1: Hook.mp4 (cinematic)",
+   "Hooks 2-5: per Spin360_Teleport_Hawaii_V1.mp4 brief video"
+  ],
+  "structure": [
+   "Cinematic teleport hook (Hawaii hammock)",
+   "'That's the Spin360.' two-side intake, Saturn's rings, whole room moves",
+   "Blades cut so air feels like a real breeze, like the hammock",
+   "Sound: silent below 5, best white noise above",
+   "Sleep deeper; stop sweating, temperature stays right",
+   "Air feels alive, like a window open",
+   "Scent pods: Hawaii today, forest tomorrow, Mediterranean next week",
+   "David Patrick, Shark Wheel, Shark Tank 3 sharks",
+   "Offer: first 1,000 get $100 off; tap below"
+  ],
+  "key_lines": [
+   "The whole room moves. Every corner of it. Every inch of your skin.",
+   "Like the one that was on your skin in that hammock",
+   "Below speed five — absolute silence. You'll forget it's even on.",
+   "Finally, something that sounds like it was made for sleep. Because it was.",
+   "Today it's Hawaii. Tomorrow it's a forest after the rain. Next week it's the Mediterranean.",
+   "Your bedroom stops being a bedroom. It becomes wherever you want to be.",
+   "His idea was simple — bring nature indoors."
+  ],
+  "visual_direction": "Cinematic hook; shots from UT__April_Selects_2.mp4; clip 2a22d3d7b9b309e3e8aef603135ef57c.mp4; AI for scent destinations.",
+  "tone_music_captions": "Music made with SUNO to fit the video.",
+  "cta_offer": "\"To launch this, he's giving the first 1,000 people $100 off. Tap below.\" Headline: Hawaii Air In Your Bedroom.",
+  "claims": [
+   "Below speed five — absolute silence.",
+   "You stop sweating in the middle of the night",
+   "closed a deal with three sharks at once: Mark Cuban, Kevin O'Leary, and Nick Woodman"
+  ],
+  "assets_referenced": [
+   "Spin360_Teleport_Hawaii_V1.mp4",
+   "Hook.mp4",
+   "UT__April_Selects_2.mp4",
+   "2a22d3d7b9b309e3e8aef603135ef57c.mp4",
+   "SUNO music"
+  ],
+  "iteration_of": "",
+  "learnings_feedback": "Status Learning; DO NOT UPLOAD.",
+  "notes": "Type of ad: 'Cinematic hook'. Primary text: 'Ever notice how air feels different in Hawaii?'"
+ },
+ {
+  "brief_id": "1JKpHb-ByX4Og1aJF_7xTS7w8tg-jKPDRVmaRHBUXb1s",
+  "title": "Spin360_BuiltToSleepOutside",
+  "ad_ids": [
+   "Spin360_BuiltToSleepOutside_Hook1",
+   "Spin360_BuiltToSleepOutside_Hook2",
+   "Spin360_BuiltToSleepOutside_Hook3",
+   "Spin360_BuiltToSleepOutside_Hook4",
+   "Spin360_BuiltToSleepOutside_Hook5",
+   "Spin360_BuiltToSleepOutside_Hook6",
+   "Spin360_BuiltToSleepOutside_Hook7"
+  ],
+  "n_ads": 7,
+  "uploaded_to_meta": 2,
+  "author": "Gabriel",
+  "editors": [
+   "Shiv"
+  ],
+  "date_hint": "",
+  "ad_type": "iteration",
+  "format": "VSL",
+  "length_hint": "~60s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Female AI VO, warm, conversational, a friend telling you something she discovered",
+  "avatar": "Primary women 35-65 wellness/sleep-conscious, buys premium, not looking for a fan; secondary men 35-55 practical/curious",
+  "awareness": "Hook Unaware, Core Problem Aware",
+  "angle": "NASA sleep discovery",
+  "concept": "Iteration of the NASA ad: 'We were built to sleep outside' where air always moves; someone spent four years recreating that; casual friend-style VO stacks walls-gone Hawaii feeling, silence/white noise, scent pods, Shark Wheel inventor.",
+  "hooks": [
+   "\"We were built to sleep outside. In forests. On beaches. Places where the air is always doing something. That's when we sleep the deepest. Always have.\""
+  ],
+  "structure": [
+   "Hook: built to sleep outside",
+   "Four years recreating it; above/below intake, Saturn's rings, same temperature",
+   "Feel: walls gone, bed on Hawaii beach, fall asleep, wake rested",
+   "Below 5 dead silent, above 5 natural shhh",
+   "Scent pods: forest, citronella",
+   "Shark Wheel inventor, Shark Tank deal",
+   "Offer: first thousand get $100 off; 'You're gonna be obsessed.'"
+  ],
+  "key_lines": [
+   "We were built to sleep outside. In forests. On beaches.",
+   "And what they came up with is kind of nuts.",
+   "It doesn't blast you it just moves around you.",
+   "okay this is the part that gets people — it feels like the walls of your room just aren't there anymore.",
+   "Below speed five? Dead silent.You literally won't hear it.",
+   "It's basically a scent system that happens to also be a fan.",
+   "Honestly just go try it. You're gonna be obsessed."
+  ],
+  "visual_direction": "Every clip complements audio; nature b-roll peaceful/aspirational.",
+  "tone_music_captions": "Not advertising voice. Captions entire video; sound design.",
+  "cta_offer": "\"First thousand people get a hundred bucks off. Honestly just go try it.\"",
+  "claims": [
+   "Same temperature everywhere.",
+   "Below speed five? Dead silent.",
+   "Put citronella in? Bugs gone.",
+   "got a deal with Mark Cuban Kevin O'Leary and Nick Woodman"
+  ],
+  "assets_referenced": [
+   "Feedback nasa+ brief new ad.mp4",
+   "Notes.mp4",
+   "Spin360 Kickstart Footage"
+  ],
+  "iteration_of": "NASA ad (Spin360_UnAware_NASASleep)",
+  "learnings_feedback": "Hooks 1-3 Done, DO NOT UPLOAD; Hooks 4-5 Learning, not uploaded; Hooks 6-7 Learning, uploaded. Claim fix: change 'Doesn't even show up on a decibel meter' to 'You literally won't hear it.'",
+  "notes": "File naming Spin360_UnAware_NASASleep_HOOK1..."
+ },
+ {
+  "brief_id": "18HpV7B-ymT0eSowBtnwIttOkctQcoIaH4QBitmSpHIs",
+  "title": "Brief - Spin360_Air_Around",
+  "ad_ids": [
+   "Spin360_Air_Around_Hook1",
+   "Spin360_Air_Around_Hook2",
+   "Spin360_Air_Around_Hook3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 3,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "founder-led",
+  "length_hint": "unknown",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Woman presenter (testimonials11) + David interview soundbites + customer testimonials",
+  "avatar": "Women who don't sleep well, blame stress, noise or temperature, and can't stand a fan blowing on them",
+  "awareness": "Hook Problem Aware, Core Product Aware",
+  "angle": "The air around you, not stress or noise, keeps you from sleeping",
+  "concept": "Stringout of real footage: a presenter asks 'What if it's the air around you?', then David's discovery story (walls gone first night), his results, Shark Wheel authority, 'I can't stand a fan but I love yours' objection handling, customer testimonials and social proof, and a 'try to return it' close.",
+  "hooks": [
+   "VO (all): \"What if the reason you're not sleeping, not focusing, not fully relaxing, isn't stress or noise or even temperature? What if it's the air around you?\"",
+   "Hook 1 presenter: testimonials11 0:20-0:31 on terrace next to Spin360",
+   "Hook 2 awake at 3 a.m. (Seedance): clock 3:07, curtain dead still, push in",
+   "Hook 3 crossed out (Seedance): quick cuts with red X on stress/noise/temperature, still ribbon"
+  ],
+  "structure": [
+   "Hook: what if it's the air around you?",
+   "Bridge: David discovery 'thought the walls were gone' (Interview 13:11-13:37)",
+   "His results: slept well night after night (13:42-14:03)",
+   "Authority: reinvented wheel, same shape, world's first 360 fan (testimonials11 0:00-0:16)",
+   "Objection: 'I can't stand the way a fan feels on me… but I love yours' + 'not directly blowing on you'",
+   "Customer proof: 'I just feel calm', 'haven't slept this good in years'",
+   "Social proof: 'OMG, best night sleep ever'",
+   "Close: sleep with it three days and try to return it"
+  ],
+  "key_lines": [
+   "What if it's the air around you?",
+   "First night with it, I woke up halfway through the night and literally thought the walls were gone. I thought I was outside…",
+   "that's what a breeze does, it hits your whole body.",
+   "Introducing the Spin360, the world's first 360 degree fan.",
+   "Women will constantly come up to me and say, I can't stand the way a fan feels on me… but I love yours.",
+   "I haven't slept this good in years.",
+   "OMG, best night sleep ever… Everybody, same thing, same comment.",
+   "Sleep with it, sleep with it for three days and then try and return it. There's just no chance."
+  ],
+  "visual_direction": "Reframe 9:16, strong first frame, no fade-in; Seedance 2.5 for hooks 2-3; finished cut exists with 2s handles.",
+  "tone_music_captions": "",
+  "cta_offer": "Close: 'sleep with it for three days and then try and return it.'",
+  "claims": [
+   "the world's first 360 degree fan",
+   "You can feel the air movement in the room, but it's not directly blowing on you."
+  ],
+  "assets_referenced": [
+   "Dropbox folder cwb9sgk1nl9ri2kelpm5x",
+   "Spin360 - Air Around You - v1 - 2s handles.mp4",
+   "Spin360 - Air Around You - v1.mp4",
+   "testimonials11",
+   "David Interview (timecodes 12:31-15:58)"
+  ],
+  "iteration_of": "",
+  "learnings_feedback": "Status Learning; all 3 uploaded to Meta. Feedback doc: Feedback - Spin360_Air_Around.mp4",
+  "notes": "Built from timecoded soundbites rather than a written VO."
+ },
+ {
+  "brief_id": "1AUbcejlgGfLul3pwu4q8cgq6UZ_xqOR6Y3BikmbcOBQ",
+  "title": "Spin360_ReinventWheel_OldFan_V1",
+  "ad_ids": [
+   "Spin360_ReinventWheel_OldFan_V1"
+  ],
+  "n_ads": 1,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "iteration",
+  "format": "founder-led",
+  "length_hint": "~1:55",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "David Patrick (original + 2 new AI lines via Seedance 2.5 face/voice)",
+  "avatar": "Men 35-54 who don't like regular fans and are curious about new inventions",
+  "awareness": "Hook Unaware, Core Solution Aware",
+  "angle": "Your fan is the same box your grandpa had",
+  "concept": "Iteration on the winner Reinvent_Wheel_SplitScreen_David_V2_Hook_2 (1:49): same edit plus a new David line about the old box fan everyone has (before mechanism), cut the 'walls removed' line, and a new 30-night trial close.",
+  "hooks": [
+   "Drill on the street, smoke, no voice (original)"
+  ],
+  "structure": [
+   "0:00-0:42.7 original: drill hook, split screen, 'I took this shape...', Shark Tank, 'unbelievable journey'",
+   "NEW: old fan same as grandpa's",
+   "Original mechanism block (animation + hotter/cooler heat map)",
+   "Original 'Unlike a regular fan...' to 'wow, this feels great' (cut 'walls removed' line)",
+   "Original 'I hate a fan but I love yours'",
+   "NEW: 30-night trial close; customer comments; end card"
+  ],
+  "key_lines": [
+   "I took this shape and I used it to reinvent the wheel.",
+   "Think about the fan in your house right now. It's basically the same fan your grandpa had. A box with blades. It blasts one spot, you hear it all night, and everybody fights over where it points.",
+   "We pull the air in from two directions and send it out like Saturn's rings.",
+   "We're pulling that hotter air down and that cooler air up, and we're creating one single temperature in the room.",
+   "No more waiting your turn.",
+   "creates a harmonic wop wop wop, we do not do that.",
+   "I don't know how many people come to me and go: I hate a fan but I love yours.",
+   "So stop buying the same old fan. Try mine for 30 nights. If you don't like it, send it back. Tap below."
+  ],
+  "visual_direction": "Same 9:16, captions and music as original. New lines via Seedance 2.5 with David's face and voice (match studio mic) or VO over box/stand fan b-roll blasting one spot. End: real customer comments + end card.",
+  "tone_music_captions": "Same caption style and music as the original.",
+  "cta_offer": "\"Try mine for 30 nights. If you don't like it, send it back.\" On screen 'Try it for 30 nights.' End card 'Try it for 30 nights. Send it back if you don't like it.'",
+  "claims": [
+   "We're ultra quiet on settings one to five",
+   "creating one single temperature in the room",
+   "Nobody has ever created a fan like that before."
+  ],
+  "assets_referenced": [
+   "Reinvent_Wheel_SplitScreen_David_V2_Hook_2.mp4"
+  ],
+  "iteration_of": "Winner Reinvent_Wheel_SplitScreen_David_V2_Hook_2",
+  "learnings_feedback": "Status Waiting on Buyer.",
+  "notes": "Exact source timecodes given for each block."
+ },
+ {
+  "brief_id": "1OfuucHDXf5_EspCL26MeOdnTkyxnlupSEsLwT6W7xQs",
+  "title": "Spin360_Shut_Your_Brain_Off_Mashup (Spin360_BigFan_OutdoorsInside)",
+  "ad_ids": [
+   "Spin360_BigFan_OutdoorsInside_Hook1",
+   "Spin360_BigFan_OutdoorsInside_Hook2",
+   "Spin360_BigFan_OutdoorsInside_Hook3",
+   "Spin360_BigFan_OutdoorsInside_Hook4",
+   "Spin360_BigFan_OutdoorsInside_Hook5",
+   "Spin360_BigFan_OutdoorsInside_Hook6"
+  ],
+  "n_ads": 6,
+  "uploaded_to_meta": 6,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "static-like",
+  "length_hint": "unknown (short)",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "None: text on screen + music",
+  "avatar": "",
+  "awareness": "",
+  "angle": "",
+  "concept": "Just text and visuals: outdoor relaxation footage moves into the bedroom, then Spin360 reveal with text cards on falling asleep, mechanism (VFX airflow), soft breeze, walls removed, quiet, scent pod; 'Bring the outdoors in.'",
+  "hooks": [
+   "V1 Desire: IMAGINE FALLING ASLEEP LIKE THIS. / NOW IMAGINE IT INSIDE YOUR BEDROOM.",
+   "V2: THIS IS WHAT SHUTTING YOUR BRAIN OFF SHOULD FEEL LIKE. / NOW BRING THAT FEELING INTO YOUR BEDROOM.",
+   "V3: WHAT IF YOUR BEDROOM FELT LIKE THIS? / EVERY SINGLE NIGHT.",
+   "V4: SLEEP SHOULD FEEL LIKE THIS. / YOUR BEDROOM SHOULD TOO.",
+   "V5 Organic: BIG FAN OF ANYTHING THAT HELPS MY BRAIN SHUT OFF. / SO I BROUGHT THIS ONE INTO MY BEDROOM."
+  ],
+  "structure": [
+   "Hook text over outdoor woman relaxing, camera moves into house",
+   "Reveal Spin360 in bedroom: MADE TO BRING THE FEELING OF OUTDOORS INSIDE",
+   "Fall asleep / body lets go / brain shuts off / wake up rested",
+   "Mechanism VFX: pulls air above and below / mixes / moves 360",
+   "Soft breeze, walls removed, whisper quiet, scent pod, retreat",
+   "Hero shot callback: BRING THE OUTDOORS IN. Spin360"
+  ],
+  "key_lines": [
+   "MADE TO BRING THE FEELING OF OUTDOORS INSIDE.",
+   "FALL ASLEEP BEFORE YOU EVEN REALIZE IT.",
+   "YOUR BRAIN SHUTS OFF.",
+   "WAKE UP ACTUALLY RESTED.",
+   "FEELS LIKE THE WALLS WERE REMOVED.",
+   "WHISPER QUIET.",
+   "BRING THE OUTDOORS IN."
+  ],
+  "visual_direction": "Reference Spin360_NatureCutsV2_HOOK_4; Instagram shot refs; airflow VFX for mechanism; curtains/hair/bedding gentle; hero shot calls back to outdoor opening.",
+  "tone_music_captions": "Text-only, music from Instagram trending audio references.",
+  "cta_offer": "",
+  "claims": [
+   "WHISPER QUIET.",
+   "IT PULLS AIR FROM ABOVE AND BELOW."
+  ],
+  "assets_referenced": [
+   "Brief - Spin360_Shut_Your_Brain_Off_Mashup.mp4",
+   "Spin360_NatureCutsV2_HOOK_4_9x16.mp4",
+   "Instagram reels DaHTP0nxsBY, Dar8NYkMZ4z, DZu-Y7usJVA",
+   "Instagram music refs"
+  ],
+  "iteration_of": "NatureCutsV2 style",
+  "learnings_feedback": "Status Learning; all uploaded to Meta. Feedback doc: Feedback - Spin360_BigFan_OutdoorsInside",
+  "notes": "Brief doc title differs from sheet ad IDs (Shut_Your_Brain_Off_Mashup vs BigFan_OutdoorsInside)."
+ },
+ {
+  "brief_id": "1bS9y-cbPV_kdQADIpuYl2N2JmUZWoCfWxihLMS8hRXM",
+  "title": "Spin360_LeavingEverythingSale",
+  "ad_ids": [
+   "Spin360_LeavingEverythingSale_V1",
+   "Spin360_LeavingEverythingSale_V2",
+   "Spin360_LeavingEverythingSale_V3",
+   "Spin360_LeavingEverythingSale_V4"
+  ],
+  "n_ads": 4,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "winter / holiday",
+  "ad_type": "iteration",
+  "format": "static-like",
+  "length_hint": "~10s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "None: music + one text line",
+  "avatar": "Warm audience: people who saw our ads or visited the site but haven't bought",
+  "awareness": "Most Aware (hook and core)",
+  "angle": "On sale right now, she drops everything to get one",
+  "concept": "Bottom-funnel 10s green-screen style ad: a woman films a shaky selfie running out of something (gym, groceries, ski slope, holiday party) in winter, Spin360 site scrolling behind with sale banner, text 'Leaving everything BC Spin360 is on sale RN!'",
+  "hooks": [
+   "Text (all): \"Leaving everything BC Spin360 is on sale RN!\"",
+   "V1 leaving the gym into snowy parking lot",
+   "V2 leaving half-full grocery cart",
+   "V3 leaving the ski slope",
+   "V4 leaving the holiday party in a Christmas sweater"
+  ],
+  "structure": [
+   "Single 10s scene: person in front, site scrolling behind, one line of text, upbeat music"
+  ],
+  "key_lines": [
+   "Leaving everything BC Spin360 is on sale RN!"
+  ],
+  "visual_direction": "Green screen style: person in front, screen recording of Spin360 product page with sale banner scrolling behind; candid shaky selfie while running; winter in every scene; real vs generated up to editor.",
+  "tone_music_captions": "Fun, light FOMO. One upbeat track same in all 4 (different from CrazySaleWinter). Big white text with black outline over middle.",
+  "cta_offer": "The current sale shown on site in background; no end date unless real.",
+  "claims": [],
+  "assets_referenced": [
+   "reference creator ad",
+   "Spin360_CrazySaleWinter",
+   "Spin360 site screen recording"
+  ],
+  "iteration_of": "Same format as our creator ad and Spin360_CrazySaleWinter",
+  "learnings_feedback": "Status Learning; not uploaded. Feedback doc: Feedback - Spin360_LeavingEverythingSale.mp4",
+  "notes": "New line and scenes so it tests as a new ad."
+ },
+ {
+  "brief_id": "1Nz5YPC4eVg3C4h6bYOZ8dhmSVk6MfOdKUtn5lqPo0Sk",
+  "title": "Spin360_Listicle_CountingSheep",
+  "ad_ids": [
+   "Spin360_Listicle_CountingSheep_Hook1",
+   "Spin360_Listicle_CountingSheep_Hook2",
+   "Spin360_Listicle_CountingSheep_Hook3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [
+   "Chose"
+  ],
+  "date_hint": "2026-07-07",
+  "ad_type": "ideation",
+  "format": "VSL",
+  "length_hint": "45-60s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "VO (not specified)",
+  "avatar": "Women 45-58, disrupted sleep",
+  "awareness": "Hook Problem Aware, Core Product Aware",
+  "angle": "Sleep better",
+  "concept": "Insomnia 'how to' hook into a four-reasons listicle (Hawaii breeze, 360 mixing/oxygen, silence/white noise, scent pods + Shark Tank 'plus') over proven sleep visuals from the 5 Reasons winner.",
+  "hooks": [
+   "\"How to stop counting sheep to fall asleep\"",
+   "\"How to actually make your brain shut off at night\"",
+   "\"How to stop waking up at 3 a.m. every night\""
+  ],
+  "structure": [
+   "How-to hook",
+   "'four reasons this fan might be the thing that finally puts you out'",
+   "1: walls off, bed on a beach in Hawaii",
+   "2: science-y: above/below intake, same temperature, more oxygen",
+   "3: silence below 5, best white noise above",
+   "4: scent pods spa, citronella",
+   "Plus: reinvented the wheel, Shark Tank",
+   "CTA: Go feel it"
+  ],
+  "key_lines": [
+   "Let me give you four reasons this fan might be the thing that finally puts you out.",
+   "this is the science-y one",
+   "And more oxygen right where you're breathing. Sounds like a small thing. It's not.",
+   "A fan that sounds like it was made for sleep. Because it was.",
+   "So it's a scent system that happens to blow air.",
+   "Go feel it. You're not gonna want to sleep without it."
+  ],
+  "visual_direction": "Proven sleep visuals; references fb-428086616795237 video and Spin360_5Reasons_WomenPositive_V3_Hook_8.",
+  "tone_music_captions": "Casual friend tone.",
+  "cta_offer": "\"Go feel it.\" Primary text 'Tap Shop Now and try it tonight'; headline 'Try The Brain-Off Room'. No offer.",
+  "claims": [
+   "same temperature in every corner",
+   "more oxygen right where you're breathing",
+   "Below speed five, silence. Actual silence.",
+   "Shook hands with Mark Cuban and Nick Woodman on Shark Tank."
+  ],
+  "assets_referenced": [
+   "Spin360_Editor_s_Brief.mp4",
+   "2026-07-07 19-37-55.mp4",
+   "fb-428086616795237-848161a1bd-card-0-video (1).mp4",
+   "Spin360_5Reasons_WomenPositive_V3_Hook_8.mp4"
+  ],
+  "iteration_of": "5 Reasons winner (Spin360_5Reasons_WomenPositive_V3_Hook_8) script/visual structure",
+  "learnings_feedback": "Status Learning; DO NOT UPLOAD. Feedback doc: feedback Spin360_Listicle_CountingSheep",
+  "notes": "Doc header still says Ad ID Spin360_UGC_DavidScamReaction (template carry-over). Primary text: 'Your brain at 11:47pm'."
+ },
+ {
+  "brief_id": "1z2l2kSQrSMKV8mPaYjyGEbRhcsZoSEsaOOGo5HpbtQ8",
+  "title": "Spin360_CountingSheep_BrainOff",
+  "ad_ids": [
+   "Spin360_CountingSheep_BrainOff_Hook1",
+   "Spin360_CountingSheep_BrainOff_Hook2",
+   "Spin360_CountingSheep_BrainOff_Hook3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "static-like",
+  "length_hint": "unknown (short)",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "None: text on screen + music",
+  "avatar": "People physically tired at night whose brain switches back on in bed",
+  "awareness": "Solution Aware (hook and core)",
+  "angle": "When your bedroom gets completely quiet, everything else feels louder. Even your own thoughts.",
+  "concept": "Text-and-visual ad: sheep jumping hook, hard cut to Spin360 in a calm bedroom, VFX airflow mechanism, then a slow sequence of a woman falling asleep 'no counting required'.",
+  "hooks": [
+   "V1 Hypothetical: WHAT IF YOU DIDN'T NEED SHEEP TO FALL ASLEEP? / WHAT IF YOUR BRAIN JUST... SHUT OFF?",
+   "V2 Curiosity: HOW MANY SHEEP DOES IT TAKE TO SHUT YOUR BRAIN OFF? / MAYBE THAT'S THE WRONG QUESTION.",
+   "V3 Conversational: STILL COUNTING SHEEP TO FALL ASLEEP? / IMAGINE IF YOUR BRAIN JUST... SHUT OFF.",
+   "Visual (all): sheep jumping"
+  ],
+  "structure": [
+   "Sheep hook",
+   "MEET Spin360 / built for a bedroom your brain can shut off in",
+   "VFX: pulls above and below / mixes / moves 360",
+   "Soft natural breeze, whisper quiet, scent pod",
+   "Body relaxes, thoughts slow, eyes heavy, YOU'RE ASLEEP. NO COUNTING REQUIRED.",
+   "Hero: A BEDROOM THAT HELPS YOUR BRAIN SHUT OFF."
+  ],
+  "key_lines": [
+   "MEET Spin360.",
+   "BUILT TO CREATE THE KIND OF BEDROOM YOUR BRAIN CAN SHUT OFF IN.",
+   "YOUR THOUGHTS START TO SLOW DOWN.",
+   "AND BEFORE YOU EVEN REALIZE IT... YOU'RE ASLEEP.",
+   "NO COUNTING REQUIRED.",
+   "A BEDROOM THAT HELPS YOUR BRAIN SHUT OFF."
+  ],
+  "visual_direction": "Sheep jumping (Instagram DbQp8pPiOX2 ref), NatureCutsV2_HOOK_4 style, airflow VFX, gentle curtains/hair/bedding.",
+  "tone_music_captions": "Text cards only; music from Instagram audio refs.",
+  "cta_offer": "",
+  "claims": [
+   "WHISPER QUIET."
+  ],
+  "assets_referenced": [
+   "Brief - Spin360_CountingSheep_BrainOff (video)",
+   "Instagram DbQp8pPiOX2",
+   "Spin360_NatureCutsV2_HOOK_4_9x16.mp4",
+   "Instagram music refs"
+  ],
+  "iteration_of": "Same text-card template as BigFan_OutdoorsInside / NatureCutsV2",
+  "learnings_feedback": "Status Waiting on Buyer; DO NOT UPLOAD. Feedback docs for Hook1 and Hook2.",
+  "notes": ""
+ },
+ {
+  "brief_id": "1jQf1fI5b7Qwf0UdAs6PrlJ9pg33odhjo0fMsix_KPHw",
+  "title": "Spin360_Thermostat_Up",
+  "ad_ids": [
+   "Spin360_Thermostat_Haseeb_Up_Hook1",
+   "Spin360_Thermostat_Haseeb_Up_Hook2",
+   "Spin360_Thermostat_Haseeb_Up_Hook3",
+   "Spin360_Thermostat_Haseeb_Up_Hook4",
+   "Spin360_Thermostat_Haseeb_Up_Hook5",
+   "Spin360_Thermostat_Eyasu_Up_Hook1",
+   "Spin360_Thermostat_Eyasu_Up_Hook2",
+   "Spin360_Thermostat_Eyasu_Up_Hook3_V1",
+   "Spin360_Thermostat_Eyasu_Up_Hook3_V2",
+   "Spin360_Thermostat_Eyasu_Up_Hook3_V3",
+   "Spin360_Thermostat_Eyasu_Up_Hook3_V4"
+  ],
+  "n_ads": 11,
+  "uploaded_to_meta": 6,
+  "author": "Gabriel",
+  "editors": [
+   "Haseeb",
+   "Eyasu"
+  ],
+  "date_hint": "2026-07-31",
+  "ad_type": "ideation",
+  "format": "founder-led",
+  "length_hint": "unknown",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "David Patrick (incl. Seedance-generated lines)",
+  "avatar": "Homeowners with high summer AC bills",
+  "awareness": "Hook Unaware, Core Problem-aware",
+  "angle": "Lower AC bills through whole-room air circulation.",
+  "concept": "Founder ad showing how 360 airflow helps the AC work less (thermostat up), sourced from a customer review: they keep the AC at 74 and it feels like 67/68.",
+  "hooks": [
+   "V1/V2: music variations of raw edit",
+   "V3 (David via Seedance): \"Can this fan actually help lower your AC bill? Absolutely.\"",
+   "V4 (David via Seedance): \"It sounds fake, but people keep saying this 360 fan is cutting their AC bills.\"",
+   "Hook 4 alt (review): \"When my husband saw what I spent on a fan… I got some grief… we have been able to keep our AC on 74 degrees because it makes it feel like 67/68 💖\""
+  ],
+  "structure": [],
+  "key_lines": [
+   "Can this fan actually help lower your AC bill? Absolutely.",
+   "It sounds fake, but people keep saying this 360 fan is cutting their AC bills.",
+   "we have been able to keep our AC on 74 degrees because it makes it feel like 67/68 (customer review)"
+  ],
+  "visual_direction": "Raw files folder Thermostat_UP; Seedance to make David speak new hook lines (hf_20260729 clip).",
+  "tone_music_captions": "Music variations tested (V1 vs V2).",
+  "cta_offer": "Primary text: 'Right now, Spin360 is $189, down from $300. Tap Shop Now before this batch sells out.' Headlines: The $189 AC Bill Fan / Blamed For Lower AC Bills / A Fan That Cuts AC Bills?",
+  "claims": [
+   "people keep saying this 360 fan is cutting their AC bills",
+   "keep our AC on 74 degrees because it makes it feel like 67/68"
+  ],
+  "assets_referenced": [
+   "2026-07-31 17-06-27.mp4",
+   "Thermostat_UP raw files",
+   "hf_20260729_202725_3111f017-a86e-4fa5-9622-d7f7d191c94d (2).mp4",
+   "Spin360 - All Reviews.xlsx",
+   "Instagram Da29tfHsYth",
+   "Facebook post 1045522208162721"
+  ],
+  "iteration_of": "Idea sourced from a customer review in Spin360 - All Reviews.xlsx",
+  "learnings_feedback": "Status Learning. Haseeb versions DO NOT UPLOAD; Eyasu versions (6) uploaded to Meta.",
+  "notes": "Two editors cut the same raw files (Haseeb vs Eyasu); Eyasu's went live."
+ },
+ {
+  "brief_id": "1ndJCIxmQiN_jszxsLNobDPAonalGv5U2t_YL2biReaE",
+  "title": "Spin360_Erin_White_Noise / Spin360_Night_Noise (8 Elements)",
+  "ad_ids": [
+   "Spin360_Erin_White_Noise_V1",
+   "Spin360_Erin_White_Noise_V2",
+   "Spin360_Erin_White_Noise_V3",
+   "Spin360_Erin_White_Noise_V4",
+   "Spin360_Erin_White_Noise_V5",
+   "Spin360_Erin_White_Noise_V6",
+   "Spin360_Night_Noise_Hook_1",
+   "Spin360_Night_Noise_Hook_2",
+   "Spin360_Night_Noise_Hook_3"
+  ],
+  "n_ads": 9,
+  "uploaded_to_meta": 9,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "UGC testimonial",
+  "length_hint": "unknown",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "None (no voiceover, organic UGC) per sheet concept",
+  "avatar": "People whose sleep is disrupted by nighttime noise",
+  "awareness": "Problem Aware (hook and core) -> Solution Aware",
+  "angle": "Nighttime noise makes it harder to relax, fall asleep, and stay asleep.",
+  "concept": "Strategy-only brief (8 Elements) for no-voiceover organic UGC ads (Erin footage) positioning Spin360's blade-generated white noise plus soft breeze against white-noise apps/machines and air-chopping fans.",
+  "hooks": [],
+  "structure": [],
+  "key_lines": [],
+  "visual_direction": "Organic UGC (Erin).",
+  "tone_music_captions": "No voiceover.",
+  "cta_offer": "",
+  "claims": [
+   "Spin360's blade is designed to move air smoothly instead of repeatedly chopping through it like a traditional fan."
+  ],
+  "assets_referenced": [],
+  "iteration_of": "",
+  "learnings_feedback": "Status Learning; all uploaded to Meta.",
+  "notes": "Enemy: digital white-noise machines/apps and traditional air-chopping fans. Emotion: annoyance/lack of control -> calm/relief. Same 8 Elements later reused in White_Noise_Calm and SHEEP_STANDUP briefs (Erin_White_Noise_V5 referenced there)."
+ },
+ {
+  "brief_id": "1lt8PqnQPsZFS1ktzptk2zlYbrp4QO0n9gGNFr6R9J-I",
+  "title": "Spin360_AC+Fan",
+  "ad_ids": [
+   "Spin360_AC+Fan_Hook1",
+   "Spin360_AC+Fan_Hook2",
+   "Spin360_AC+Fan_Hook3",
+   "Spin360_AC+Fan_Hook4",
+   "Spin360_AC+Fan_Hook5",
+   "Spin360_AC+Fan_Hook6",
+   "Spin360_AC+Fan_Shiv_Hook1",
+   "Spin360_AC+Fan_Shiv_Hook2",
+   "Spin360_AC+Fan_Shiv_Hook3",
+   "Spin360_AC+Fan_Shiv_Hook4"
+  ],
+  "n_ads": 10,
+  "uploaded_to_meta": 4,
+  "author": "Gabriel",
+  "editors": [
+   "Shiv"
+  ],
+  "date_hint": "2026-08-26",
+  "ad_type": "iteration",
+  "format": "founder-led",
+  "length_hint": "unknown",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "David Patrick (founder) reading/answering customer comments",
+  "avatar": "Owns AC, 35-64, hot climate, pays attention to the bill",
+  "awareness": "Problem aware (Shiv versions: hook Problem Aware, core Solution Aware)",
+  "angle": "Your AC is expensive and the room still isn't comfortable.",
+  "concept": "'Reading comments' founder ad iterating the winning Spin360_AC_Comments_V3: David explains cold air sinks and Spin360 mixes the room to one temperature, proven by three gauges (78 up / 71 down -> all 73), with three real customer comments on screen.",
+  "hooks": [
+   "Hook 1: v1davd.mp4 with comment on screen",
+   "Hook 2: v2david.mp4 (different from winning ad)",
+   "Hook 3: v3.mp4",
+   "Hook 4: hook 4.mp4 (use exact)"
+  ],
+  "structure": [],
+  "key_lines": [],
+  "visual_direction": "David outdoors; three gauges in one bedroom proof; three real customer comments on screen. Shiv versions add AI visuals.",
+  "tone_music_captions": "Positive, low intensity, calm, satisfied; no emotional shift.",
+  "cta_offer": "",
+  "claims": [
+   "three gauges in one bedroom, 78 up / 71 down → all three read 73 with the fan on",
+   "one single temperature in the room"
+  ],
+  "assets_referenced": [
+   "2026-08-26 17-13-20.mp4",
+   "Spin360_AC_Comments_V3.mp4 (winning ad)",
+   "v1davd.mp4",
+   "v2david.mp4",
+   "v3.mp4",
+   "hook 4.mp4"
+  ],
+  "iteration_of": "Winning ad Spin360_AC_Comments_V3",
+  "learnings_feedback": "Original Hooks 1-6: Learning, DO NOT UPLOAD (feedback video 2026-09-02 14-30-51.mp4). Shiv Hooks 1-4 ('Reading comments + AI visuals', Image variable): uploaded.",
+  "notes": "Desire is comfort; the electric bill is the justification. Patent not used (first-and-only absent). Season-locked to hot weather."
+ },
+ {
+  "brief_id": "1MjJSPNzb7iLC8mpWV1-65aut_mvVjc1cmDW8JFnoTR8",
+  "title": "Spin360_WeAreSorry_AC_BOF",
+  "ad_ids": [
+   "Spin360_Shiv_WeAreSorry_AC_BOF_Hook1",
+   "Spin360_Shiv_WeAreSorry_AC_BOF_Hook2",
+   "Spin360_Shiv_WeAreSorry_AC_BOF_Hook3",
+   "Spin360_Eyasu_WeAreSorry_AC_BOF_Hook1",
+   "Spin360_Eyasu_WeAreSorry_AC_BOF_Hook2",
+   "Spin360_Eyasu_WeAreSorry_AC_BOF_Hook3"
+  ],
+  "n_ads": 6,
+  "uploaded_to_meta": 6,
+  "author": "Gabriel",
+  "editors": [
+   "Shiv",
+   "Eyasu"
+  ],
+  "date_hint": "2026-07-24",
+  "ad_type": "imitation",
+  "format": "other",
+  "length_hint": "~20-30s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Male AI voiceover",
+  "avatar": "High AC bill",
+  "awareness": "Product Aware (hook and core)",
+  "angle": "Lower AC",
+  "concept": "Bottom-funnel 'We owe you an apology' brand-voice ad over b-roll: we forgot to tell you Spin360 makes your AC's job easier and drops your energy bill; $189 down from $300, batch may sell out.",
+  "hooks": [
+   "\"We owe you an apology.\""
+  ],
+  "structure": [
+   "Apology hook",
+   "Busy shipping thousands of orders, forgot the big reason",
+   "AC works less, energy bill drops",
+   "'That's the part we should have led with.'",
+   "Making it right: $189 down from $300",
+   "Scarcity: batch may sell out",
+   "'Order before we forget something else.'"
+  ],
+  "key_lines": [
+   "We owe you an apology.",
+   "We've been so busy shipping thousands of orders... that we forgot to tell you one of the biggest reasons people are switching to Spin360.",
+   "It makes your AC's job way easier — circulating the air so it doesn't have to run as hard. And your energy bill drops with it.",
+   "Will this batch sell out? Honestly... maybe.",
+   "Sorry about that. Order before we forget something else."
+  ],
+  "visual_direction": "Use new fan shots, Mohit_Unboxing, Charlie UGC, iPhone footage.",
+  "tone_music_captions": "Song: Tears for Fears - Everybody Wants to Rule the World (Instrumental).",
+  "cta_offer": "\"Spin360 is one eighty-nine, down from three hundred.\" Headlines: We Forgot The AC Part / Your AC Needed This / Stop Cranking The AC.",
+  "claims": [
+   "your energy bill drops with it",
+   "shipping thousands of orders"
+  ],
+  "assets_referenced": [
+   "2026-07-24 20-49-43.mp4",
+   "Mohit_Unboxing",
+   "Charlie UGC",
+   "fb-1066260452373085-f7941e4603-card-0-video (2).mp4 (inspiration)",
+   "Tears for Fears - Everybody Wants to Rule the World (Instrumental).mp3"
+  ],
+  "iteration_of": "Imitates an external FB 'we owe you an apology' ad (fb-1066260452373085)",
+  "learnings_feedback": "Status Learning; all 6 uploaded to Meta.",
+  "notes": "Two editors (Shiv, Eyasu) each cut 3 hooks."
+ },
+ {
+  "brief_id": "1cTjMOVHC4dbQrQIefmMFyXHAimwoDy7Qh6hIe3GiQEQ",
+  "title": "Spin360_AirMovement",
+  "ad_ids": [
+   "Spin360_AirMovement_Hook1",
+   "Spin360_AirMovement_Hook2",
+   "Spin360_AirMovement_Hook3",
+   "Spin360_AirMovement_Hook4"
+  ],
+  "n_ads": 4,
+  "uploaded_to_meta": 4,
+  "author": "Gabriel",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "UGC testimonial",
+  "length_hint": "30-45s",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "Male voiceover (first person)",
+  "avatar": "Broad",
+  "awareness": "Hook Unaware, Core Problem Aware",
+  "angle": "Sleep better",
+  "concept": "First-person male voice overlay on real b-roll: what makes a room comfortable is how the air moves; Spin360 pushes air rather than chopping it, mixes warm/cool air, feels like a breeze; people ask if a window is open.",
+  "hooks": [
+   "\"What actually makes a room feel comfortable?\" (3 visual hook variations by editor)"
+  ],
+  "structure": [
+   "Question hook",
+   "It's the air and how it moves",
+   "Spin360 designed to change that; breeze not blowing at you",
+   "Blades push not chop; warm ceiling + cool floor air mixed, full circle",
+   "Even airflow, fewer hot/cold spots",
+   "Quiet on low, white noise when up",
+   "'People come over and ask if I left a window open.'",
+   "Soft CTA: link below"
+  ],
+  "key_lines": [
+   "What actually makes a room feel comfortable?",
+   "That's because its blades push the air instead of chopping through it.",
+   "It pulls in the warmer air near the ceiling and the cooler air near the floor.",
+   "On the lower speeds, I can barely hear it running.",
+   "People come over and ask if I left a window open.",
+   "After a while, you stop thinking about it as a fan."
+  ],
+  "visual_direction": "No storyboard; editor's own ideas from reference; real footage whenever possible.",
+  "tone_music_captions": "",
+  "cta_offer": "\"And if you want to try it, the link's right below.\" Headline: The Room Just Feels Better.",
+  "claims": [
+   "fewer hot and cold spots",
+   "On the lower speeds, I can barely hear it running."
+  ],
+  "assets_referenced": [
+   "Inspiration 1 (reference video)"
+  ],
+  "iteration_of": "",
+  "learnings_feedback": "Status Learning; all uploaded to Meta.",
+  "notes": "Concept: Voice Overlay + B-Roll."
+ },
+ {
+  "brief_id": "1MwBO1dtBemVyP1SKcbu2BiR9ACe3_FyK9cvCE7PpDaU",
+  "title": "Spin360_Shiv7.1_V3",
+  "ad_ids": [
+   "Spin360_Shiv7.1_V3"
+  ],
+  "n_ads": 1,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [
+   "Chose"
+  ],
+  "date_hint": "2026-07-16",
+  "ad_type": "iteration",
+  "format": "founder-led",
+  "length_hint": "unknown",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "VO",
+  "avatar": "General",
+  "awareness": "Hook Unaware, Core Problem Aware",
+  "angle": "Fan from the future all reasons",
+  "concept": "Hook iteration of 'Fan from the future' (Shiv 7.1): prototype origin text card into 'Today, it's the future of fans.'",
+  "hooks": [
+   "TEXT: \"5 YEARS AGO, THIS WAS JUST A PROTOTYPE.\" VO: \"Today, it's the future of fans. And it's about to change everything you know about comfort.\""
+  ],
+  "structure": [],
+  "key_lines": [
+   "Today, it's the future of fans.",
+   "And it's about to change everything you know about comfort."
+  ],
+  "visual_direction": "Based on Spin360_Shiv 7.1_Iteration_HOOK1 (V2); examples Ad 10.4.mp4, H3_Spin360_DavidFounder_HomeBreezeV2.",
+  "tone_music_captions": "",
+  "cta_offer": "Primary text 'Tap Shop Now to see why SPIN360 feels different'; headline 'The Future Of Comfort'.",
+  "claims": [
+   "near-silent under 50 dB (primary text)",
+   "efficient comfort for all-day use (primary text)"
+  ],
+  "assets_referenced": [
+   "Creating a Stronger Ad Hook Script (video)",
+   "Spin360_Shiv 7.1_Iteration_HOOK1 (V2).mp4",
+   "Ad 10.4.mp4",
+   "H3_Spin360_DavidFounder_HomeBreezeV2 feedback.mp4"
+  ],
+  "iteration_of": "Spin360_Shiv 7.1_Iteration",
+  "learnings_feedback": "Status Learning; DO NOT UPLOAD. Feedback video 2026-07-16 22-45-24.mp4",
+  "notes": ""
+ },
+ {
+  "brief_id": "1RXtgUwAyJqRe51HG7D3l2HWT-Ya2T_RrwFscB8-ge2U",
+  "title": "Spin360_Authority_Recommend",
+  "ad_ids": [
+   "Spin360_Authority_Recommend_Woman",
+   "Spin360_Authority_Recommend_Man"
+  ],
+  "n_ads": 2,
+  "uploaded_to_meta": 0,
+  "author": "Chris",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "imitation",
+  "format": "AI-generated",
+  "length_hint": "unknown (short)",
+  "sizes": [
+   "9x16",
+   "4x5"
+  ],
+  "voice": "Host + AI authority figure (man / woman)",
+  "avatar": "",
+  "awareness": "",
+  "angle": "",
+  "concept": "Copy a reference video: host names sleep aids and a real-looking AI authority figure (not in a doctor's gown) rates them; 360 fan gets 9/10, dark room 10/10.",
+  "hooks": [
+   "Host: \"Melatonin?\" Authority: \"2/10 - it's overused, weak for long term benefits and messes up circadian rhythm\""
+  ],
+  "structure": [
+   "Melatonin 2/10",
+   "Sleep apps 3/10",
+   "Weighted blanket 6/10",
+   "Blue light glasses 4/10",
+   "360 Fan 9/10",
+   "Mouth taping -3",
+   "Dark room 10/10"
+  ],
+  "key_lines": [
+   "360 Fan / 9/10 - great for creating gentle airflow in your room and helps your body cool down, which is needed for deep sleep.",
+   "Mouth Taping / Negative 3, bad bad deal.",
+   "Dark Room / 10/10 - Gold standard"
+  ],
+  "visual_direction": "AI authority figure must look real: natural lighting, iPhone filming, not studio; not dressed as a doctor. Two versions (man, woman).",
+  "tone_music_captions": "",
+  "cta_offer": "",
+  "claims": [
+   "helps your body cool down, which is needed for deep sleep"
+  ],
+  "assets_referenced": [
+   "reference video to copy"
+  ],
+  "iteration_of": "Copies an external authority-rating video",
+  "learnings_feedback": "Status On Hold; not uploaded.",
+  "notes": ""
+ },
+ {
+  "brief_id": "1KdrFBrGoxl_prGgECf1d7jFwph_UNg0jeWv-vl5xphg",
+  "title": "Spin360_Price_Justification_BOF",
+  "ad_ids": [
+   "Spin360_Price_Justification_Shiv_BOF_Hook1",
+   "Spin360_Price_Justification_Shiv_BOF_Hook2",
+   "Spin360_Price_Justification_Shiv_BOF_Hook3",
+   "Spin360_Price_Justification_Shiv_BOF_Hook4",
+   "Spin360_Price_Justification_Shiv_BOF_Hook5",
+   "Spin360_Price_Justification_Shiv_BOF_Hook6",
+   "Spin360_Price_Justification_Shiv_BOF_Hook7",
+   "Spin360_Price_Justification_Shiv_BOF_Hook8",
+   "Spin360_Price_Justification_Shiv_BOF_Hook9",
+   "Spin360_Price_Justification_Muhammad_BOF_Hook1",
+   "Spin360_Price_Justification_Muhammad_BOF_Hook2",
+   "Spin360_Price_Justification_Muhammad_BOF_Hook3",
+   "Spin360_Price_Justification_Muhammad_BOF_Hook4"
+  ],
+  "n_ads": 13,
+  "uploaded_to_meta": 0,
+  "author": "Gabriel",
+  "editors": [
+   "Shiv",
+   "Muhammad"
+  ],
+  "date_hint": "2026-07-31",
+  "ad_type": "ideation",
+  "format": "founder-led",
+  "length_hint": "unknown",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "David Patrick (founder)",
+  "avatar": "Value-conscious shopper",
+  "awareness": "Solution Aware (hook and core)",
+  "angle": "Price Justification",
+  "concept": "Bottom-funnel founder ad justifying the $189 price via AC savings: AC makes the cold, Spin360 mixes it; customer room 78 up / 71 down became 73 everywhere.",
+  "hooks": [
+   "Versions v1-v4.mp4 (raw edits)"
+  ],
+  "structure": [],
+  "key_lines": [
+   "David had one customer with a room that was 78° up top and 71° down low. They turned on Spin360. The whole room became 73°. (primary text)",
+   "Your AC makes the cold air. Spin360 helps you actually feel it. (primary text)"
+  ],
+  "visual_direction": "Raw files: Spin360_Price_Justification_BOF.",
+  "tone_music_captions": "",
+  "cta_offer": "\"Right now, Spin360 is $189, down from $300.\" Headlines: The $189 AC Bill Fan / Blamed For Lower AC Bills / $189 To Use Less AC?",
+  "claims": [
+   "78° up top and 71° down low... The whole room became 73°",
+   "helps you stop cranking the thermostat"
+  ],
+  "assets_referenced": [
+   "2026-07-31 20-35-15.mp4",
+   "Spin360_Price_Justification_BOF raw files",
+   "v1.mp4",
+   "v2.mp4",
+   "v3.mp4",
+   "v4.mp4"
+  ],
+  "iteration_of": "",
+  "learnings_feedback": "Status Learning. Shiv Hooks 1-6 DO NOT UPLOAD. Muhammad versions have feedback docs (Feedback - Spin360_Price_Justification_Muhammad_BOF / _V2).",
+  "notes": "Hooks table (Original/New) left empty in brief."
+ },
+ {
+  "brief_id": "1cWcub2NjCO6NuSXDqQX6UEmEYU5M_GU6QhoUQdFBDoY",
+  "title": "Spin360_ThisIsNotAFan",
+  "ad_ids": [
+   "Spin360_ThisIsNotAFan_Hook1",
+   "Spin360_ThisIsNotAFan_Hook2",
+   "Spin360_ThisIsNotAFan_Hook3"
+  ],
+  "n_ads": 3,
+  "uploaded_to_meta": 3,
+  "author": "Freddy",
+  "editors": [],
+  "date_hint": "",
+  "ad_type": "ideation",
+  "format": "static-like",
+  "length_hint": "unknown",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "",
+  "avatar": "",
+  "awareness": "",
+  "angle": "",
+  "concept": "Split-screen (kids playing + text) with headline 'THIS IS NOT A FAN' and a long review-style text: don't expect wind; it keeps the room from feeling stale and makes it feel 3-5 degrees colder.",
+  "hooks": [
+   "Split screen: kids playing + \"THIS IS NOT A FAN\""
+  ],
+  "structure": [],
+  "key_lines": [
+   "THIS IS NOT A FAN",
+   "Don't expect this to blow wind on your skin to cool you down, it won't do that.",
+   "It keeps your room from feeling stale, and makes the room temperature feel like it's 3-5 degrees colder.",
+   "If you want to feel wind hitting you constantly, then get a normal fan.",
+   "I used to keep my room at 68 degrees at night. Now I only need it at 72 degrees",
+   "It also takes like 15 minutes to even start cooling a room down."
+  ],
+  "visual_direction": "Split screen format (icon.com formats reference): kids playing + text.",
+  "tone_music_captions": "",
+  "cta_offer": "",
+  "claims": [
+   "makes the room temperature feel like it's 3-5 degrees colder",
+   "I used to keep my room at 68 degrees at night. Now I only need it at 72 degrees"
+  ],
+  "assets_referenced": [
+   "Loom 804f7d5961964b969ac2bf1ab59b7ded",
+   "icon.com/formats",
+   "Google Drive 1v1iZNSF8Met5fd5UiXQqlp2pxuBwHg7T"
+  ],
+  "iteration_of": "",
+  "learnings_feedback": "Status Learning; all uploaded to Meta.",
+  "notes": "Text reads like a candid customer review (expectation-setting/reverse sell)."
+ },
+ {
+  "brief_id": "18T6RE_8FeSNIrynkdwvlmJW7s2BJbkHkVDoCSVjuuUs",
+  "title": "Spin360_Shiv 7.1_Iteration",
+  "ad_ids": [
+   "Spin360_Shiv 7.1_Iteration_Hook1",
+   "Spin360_Shiv 7.1_Iteration_Hook2",
+   "Spin360_Shiv 7.1_Iteration_Hook3",
+   "Spin360_Shiv 7.1_Iteration_Hook4",
+   "Spin360_Shiv 7.1_Iteration_Hook5",
+   "Spin360_Shiv 7.1_Iteration_Hook6",
+   "Spin360_Shiv 7.1_Iteration_Hook7"
+  ],
+  "n_ads": 7,
+  "uploaded_to_meta": 7,
+  "author": "Gabriel",
+  "editors": [
+   "Chose"
+  ],
+  "date_hint": "2026-06-06",
+  "ad_type": "iteration",
+  "format": "founder-led",
+  "length_hint": "unknown",
+  "sizes": [
+   "9x16"
+  ],
+  "voice": "",
+  "avatar": "General",
+  "awareness": "Hook Solution Aware, Core Problem Aware",
+  "angle": "Fan from the future all reasons",
+  "concept": "Hook iterations of the 'Fan from the future' founder ad (Shiv 7.1); all direction lives in a brief video.",
+  "hooks": [],
+  "structure": [],
+  "key_lines": [],
+  "visual_direction": "",
+  "tone_music_captions": "",
+  "cta_offer": "",
+  "claims": [],
+  "assets_referenced": [
+   "2026-06-06 17-38-01.mp4",
+   "S - 7.1.mp4"
+  ],
+  "iteration_of": "Spin360_Shiv 7.1 ('Fan from the future')",
+  "learnings_feedback": "Status Learning; all 7 uploaded to Meta.",
+  "notes": "Selling points: natural breeze, 360 airflow, quiet, scent pods. Later iterated again as Spin360_Shiv7.1_V3."
+ }
+]

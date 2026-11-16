@@ -1,0 +1,130 @@
+﻿Spin360_DrillHook_SwedishBabies
+
+
+Brief - Spin360_DrillHook_SwedishBabies.mp4
+3 ads, one edit. Same bridge and body in all three; only the hook (first seconds) changes. New part = a short narrator bridge (~13 s, made with AI, same voice as the body). After it, our winning Swedish Babies body, unchanged.
+	
+
+Inspiration, not a rulebook. The visual ideas below are suggestions. Use your judgment.
+	Strategy
+# Element
+	Answer
+	Desire
+	"I want to sleep like I used to." Fresh, moving air at night, like sleeping outside, so they wake up rested instead of stuffy and tired, without a fan blasting them in the face.
+	Avatar
+	Homeowners 45–65 sharing a closed bedroom. Curious about how things work (they stop for the guy with the drill) and skeptical of gadgets. Behavior: they already tried a box fan, the ceiling fan, the AC, and the room still feels stuffy. Belief to respect: "a fan is a fan, it just blows air at you."
+	Angle
+	One reason to buy: this strange shape moves air in your room the way it moves outside, and outdoor air is why Swedish babies sleep almost twice as long.
+	Mechanism
+	The patented shape pulls air in from the top and the bottom at the same time and sends it out 360°, like Saturn's rings. So it feels like a breeze, not a fan. The hook shows it: the blade pulls the smoke in.
+	Proof
+	The smoke pulled into the blade on camera, the Swedish outdoor-nap research in the body, and the inventor's track record.
+	Authority
+	David Patrick, the inventor who reinvented the wheel and got a deal on Shark Tank. Shown before the story starts, so the viewer trusts the shape before hearing why it matters.
+	Awareness
+	Hook: Unaware (what is this guy doing?). The bridge names the inventor and the shape. The body takes them from "my bedroom air feels dead" (Problem Aware) to "this fan moves air like outside" (Product Aware). Sophisticated market: the shape answers "how is yours different?".
+	Emotion
+	Curiosity (the smoke), "who is this guy?", surprise (he reinvented the wheel), then the Swedish babies story: wonder, then calm.
+	Format
+	Drill hook (no talking, on-screen text "what is this guy doing 😂") + a short AI narrator bridge (~13 s) + our winning Swedish Babies body, unchanged.
+	Hooks
+	3 drill hooks in real public city places, filmed like a stranger caught it on their phone: New York at night (the original), New York by day, Chicago by day.
+	Offer
+	No discount. The body is the version with the offer line already cut. It ends on "Go check it out."
+	Production brief
+Format: vertical 9:16, about 2:35 (hook ~3 s + bridge ~13 s + body 2:19).
+Body file: Swedish Babies body (no offer). Starts on "In Sweden, parents put their babies outside to sleep in the snow."
+Bridge voice (AI): the same narrator as the body: ElevenLabs "Siren - Natural realistic conversational voice", voice ID eXpIbVcVbLo8ZJQDlDnl. Voice link (the same voice used in the Swedish Babies body): https://elevenlabs.io/voices/eXpIbVcVbLo8ZJQDlDnl It must sound like the same person all the way through.
+Bridge script (one block):
+This is David Patrick. Years ago, he came up with one strange shape and used it to reinvent the wheel. Then he built tons of prototypes. And now he's using the exact same shape to pull air in from both sides and change the way your room feels. But first, you need to hear this story.
+Prototype footage: Spin360 prototypes folder. Shark Tank / airflow B-roll: our winning David ad (https://www.facebook.com/100081148531982/posts/999154579466151/).
+Captions: same style as the body, a few words at a time.
+Visual hooks (3 ads)
+Full screen, real sound, no talking. Same on-screen text on all three: what is this guy doing 😂. Real people around, so it feels like something that really happened and someone filmed it.
+Ad
+	Visual Inspiration
+	Scene description
+	Hook 1 · New York, night
+Spin360_DrillHook_SwedishBabies_Hook1
+	  
+
+	Use the existing hook: Hook4_NYC_Sidewalk.mp4. David on a New York sidewalk at night, the blade on the drill pulling the smoke in, people walking by. No talking in the hook. On-screen text (same in all 3): what is this guy doing 😂 (upper third, first 3 s). Just the scene and the real sound. The narrator starts right after.
+	Hook 2 · New York, day
+Spin360_DrillHook_SwedishBabies_Hook2
+	  
+
+	To generate (Seedance). Same idea as Hook 1 (frame shown for style only), but in daylight and a different New York spot: a busy crosswalk or a corner with a street food cart. The smoke from the cart grill gets pulled into the blade. People waiting at the light look, a couple film it. Filmed by a passerby. Must look real and organic: like a stranger saw this in public and filmed it on their phone. Handheld, imperfect framing, real people around reacting naturally, real background. Never AI-looking. No talking in the hook. On-screen text (same in all 3): what is this guy doing 😂 (upper third, first 3 s). Just the scene and the real sound. The narrator starts right after.
+	Hook 3 · Chicago, day
+Spin360_DrillHook_SwedishBabies_Hook3
+	  
+
+	To generate (Seedance). A busy downtown Chicago sidewalk in daylight, steam coming out of a street steam pipe. David spins the drill next to it and the steam gets pulled into the blade. Pedestrians with coffee slow down and look. Filmed by a passerby. Must look real and organic: like a stranger saw this in public and filmed it on their phone. Handheld, imperfect framing, real people around reacting naturally, real background. Never AI-looking. No talking in the hook. On-screen text (same in all 3): what is this guy doing 😂 (upper third, first 3 s). Just the scene and the real sound. The narrator starts right after.
+	Bridge + body (same in all 3 ads)
+Section
+	Voice-over (source)
+	Visual Inspiration
+	Visual idea
+	Emotion
+	Who
+	AI · narrator
+This is David Patrick.
+	  
+
+	Right after the hook, hold on David (slow push-in or a short freeze) with an arrow pointing at him.
+	Curiosity
+	The wheel
+	AI · narrator
+Years ago, he came up with one strange shape and used it to reinvent the wheel.
+	  
+
+
+
+	David on stage with the Shark Wheel / David on Shark Tank (from our winning ad 999154579466151 or Spin360_LiveLonger_HOOK_6.mp4 01:24–01:32), then the Shark Wheel rolling.
+	Surprise
+	Prototypes
+	AI · narrator
+Then he built tons of prototypes.
+	  
+
+  
+
+  
+
+	Fast cuts of real prototypes from the prototypes folder (photos and videos 2021–2023). Your pick.
+	Intrigue
+	Both sides
+	AI · narrator
+And now he's using the exact same shape to pull air in from both sides and change the way your room feels.
+	  
+
+	The Spin360 in a bedroom at night, already on. Smoke or mist gets pulled in from the top and the bottom at the same time (same thing the viewer just saw on the drill), then moves gently around the room.
+	Wow
+	Transition
+	AI · narrator
+But first, you need to hear this story.
+	  
+
+  
+
+	Stay on the bedroom. On "story": a quick dip to black (0.5 s max), or the camera moves to the window and outside it's snowing, then cut to the strollers in the snow. Never a long black screen.
+	Anticipation
+	Body
+	REAL · finished file
+In Sweden, parents put their babies outside to sleep in the snow. On purpose… (to the end of the file)
+	  
+
+  
+
+  
+
+	The Swedish Babies body (no offer) as it is, from its first frame. Do not change anything in the body.
+	Story
+	Orange rows = AI voice (narrator). White row = the finished body file, unchanged.
+Rules
+* Don't change the body. Use the no-offer version.
+* The bridge must sound like the same narrator as the body.
+* Generated shots: the Spin360 is already on from the first frame. Air shows as a gentle breeze, never strong wind.
+* Hooks must look real. If a generated hook looks like AI, don't use it.
+* No long black screens (0.5 s max).
+What's up to you
+Exact cuts, pace, which prototype shots, the arrow style and the transition (dip to black or the window).

@@ -1,0 +1,233 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_Baby_room
+Author: Gabriel
+Editor: Chose
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_Baby_room
+* Ad Type: Ideation
+* Type of Ad: Voiceover and shots
+* Sizes Needed: 9x16
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 Video
+
+
+
+
+
+
+________________
+ 
+[2] Strategy
+Who is this for: 
+Parents of babies who want the nursery to feel fresh and calm, without AC or a fan blowing directly at the crib. 
+
+
+Angle: Baby-room airflow without direct wind. 
+ 
+________________
+
+
+[3] Creative Direction
+Watch:
+2026-06-10 11-22-45.mp42026-06-10 11-32-57.mp4Assets to upload on Seedance
+________________
+
+
+[4] Script
+Hooks:
+If you don’t want cold AC or a regular fan blasting in your baby’s room, here are 5 reasons Spin360 is different.
+5 reasons parents are using Spin360 instead of blasting AC in the nursery. 
+If you don’t want cold AC blasting in your baby’s room, this is different.
+5 reasons Spin360 makes sense for a baby’s room
+
+
+Body:
+1. It doesn’t blast air at the crib.
+Because of its unique blade shape, Spin360 doesn’t push air like a regular fan. It pulls air from above and below, then moves it gently around the room — more like a natural breeze outside, not a hard stream of air thrown at your baby.
+2. No cold AC blast.
+A lot of parents don’t want cold air blowing through the nursery all night. This fan doesn’t chill the room like AC can. It keeps the air moving softly, so the room feels more balanced and comfortable.
+3. It keeps the nursery from feeling stale.
+A closed room can get stuffy fast, especially overnight. Spin360 keeps the air softly circulating, so the nursery feels fresher without needing to crack a window or make the AC too cold.
+4. It has a true quiet mode.
+On the lowest settings, it’s barely noticeable. The air keeps moving, the room stays calm, and there’s no harsh fan noise taking over the nursery.
+5. Or use it as soft white noise.
+Turn it up, and it becomes a gentle, even shhh — not that rough fan drone, just a smooth background sound that helps the nursery feel calm.
+For parents who want the baby’s room to feel calm, fresh, and comfortable — without fan air blasting at the crib.
+It comes from David Patrick — the inventor behind Shark Wheel, seen on Shark Tank. Now, he’s reinventing the way air moves through your baby’s room.
+Look this one up.
+Spin360.
+
+
+
+
+
+
+These are just prompt ideas — you don’t have to follow them exactly. Try it first. and also this whole storyboard you can change because this is just the idea of the shots.
+ 
+Shot
+	timing to generate
+	Prompt Seedance
+	Script
+	Hook A
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a realistic vertical video in a cozy baby nursery at night. The tall fan stands near the crib, softly glowing. A baby is sleeping safely in a crib, on their back, with no loose blankets or toys. Slow cinematic push-in. Do not show strong wind.
+	If you don’t want cold AC or a regular fan blasting in your baby’s room, here are 5 reasons Spin360 is different.
+	Hook B
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a realistic vertical video of the fan running softly in a calm nursery. The crib is visible in the background, warm nightlight, peaceful atmosphere, subtle curtain movement only.
+	5 reasons parents are using Spin360 instead of blasting AC in the nursery.
+	Hook C
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a cozy nighttime nursery scene. A parent quietly checks on the baby while the tall fan softly moves air around the room. No AC unit visible. Calm, realistic, premium lighting.
+	If you don’t want cold AC blasting in your baby’s room, this is different.
+	Hook D
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a clean hero shot in a baby nursery. The fan stands near the crib, softly glowing, with the baby sleeping safely in the crib. Slow cinematic push-in, calm atmosphere.
+	5 reasons Spin360 makes sense for a baby’s room.
+	1
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a close-up vertical video of the fan running beside a crib in a calm nursery. Show soft, subtle airflow moving gently around the room, with a light curtain or crib mobile moving slightly. Do not show air blowing directly at the baby.
+	1. It doesn’t blast air at the crib.
+	2
+	7s
+	Using @video1 as the exact reference for the tall fan, generate a realistic nursery scene where the tall fan is placed a few feet away from the crib. The baby sleeps calmly. Show the air feeling soft and indirect, with gentle movement in the room, not a strong stream aimed at the baby.
+	Because of its unique blade shape, Spin360 doesn’t push air like a regular fan.
+	3
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a vertical video showing the fan circulating air softly in a nursery. Add subtle visual cues of air being pulled from above and below and spreading gently around the room. Keep it realistic, like a soft indoor breeze.
+	It pulls air from above and below, then moves it gently around the room.
+	4
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a peaceful nursery video at night. The fan runs quietly near the crib. Soft curtains move slightly, and the room feels like a gentle outdoor breeze is passing through. No strong wind, no direct blast at the baby.
+	More like a natural breeze outside, not a hard stream of air thrown at your baby.
+	5
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a cozy nighttime nursery scene. The fan runs softly near the crib. A parent checks the baby from the doorway. The room feels comfortable, warm, and calm. Do not show an AC unit.
+	2. No cold AC blast.
+	6
+	7s
+	Using @video1 as the exact reference for the tall fan, generate a realistic video of a mother quietly walking into the nursery at night, checking the baby, then looking relieved as the fan softly moves the air. The baby remains peacefully asleep in the crib.
+	A lot of parents don’t want cold air blowing through the nursery all night.
+	7
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a vertical nursery video where the fan is softly running beside the crib. The room feels balanced and comfortable, with warm nightlight lighting. Show a calm parent sitting nearby, relaxed. No visible AC.
+	This fan doesn’t chill the room like AC can.
+	8
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a daytime nursery scene with soft sunlight coming through curtains. The fan runs gently while the nursery looks fresh, clean, and airy. The baby is safely in the crib, calm and comfortable.
+	3. It keeps the nursery from feeling stale.
+	9
+	7s
+	Using @video1 as the exact reference for the tall fan, generate a realistic vertical video starting on a closed nursery door, then slowly moving inside to show the fan softly circulating air near the crib. The room should feel fresh, not stuffy. Subtle curtain movement only.
+	A closed room can get stuffy fast, especially overnight.
+	10
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a clean nursery shot with the fan softly circulating air while the room feels fresh and comfortable. Use gentle daylight or warm nightlight. Keep the baby safely sleeping in the crib.
+	Spin360 keeps the air softly circulating, so the nursery feels fresher without needing to crack a window or make the AC too cold.
+	11
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a close-up shot of the fan running quietly in a dim nursery. Show a baby monitor, nightlight, and crib in the background. The fan should look stable, quiet, and premium.
+	4. It has a true quiet mode.
+	12
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a calm nighttime nursery video. The fan is on a low setting, barely noticeable. A baby sleeps safely in the crib while the parent slowly leaves the room. No harsh movement, no loud visuals.
+	On the lowest settings, it’s barely noticeable.
+	13
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a vertical video of the fan softly glowing in a dark nursery. The room is peaceful and still, but subtle curtain movement shows air is moving gently. Keep the baby sleeping safely in the crib.
+	The air keeps moving, the room stays calm, and there’s no harsh fan noise taking over the nursery.
+	14
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a close-up of the fan running beside a crib with soft blue night lighting. Show calm, smooth airflow, no vibration, no aggressive wind. The scene should visually feel like soft white noise.
+	5. Or use it as soft white noise.
+	15
+	7s
+	Using @video1 as the exact reference for the tall fan, generate a peaceful nursery scene where the fan is running slightly higher, creating a gentle background feeling. A parent sits in a chair beside the crib, relaxed, while the baby sleeps calmly.
+	Turn it up, and it becomes a gentle, even shhh.
+	16
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a vertical video of the nursery feeling calm and peaceful at night. The fan glows softly, the crib is in the background, and the room feels fresh and comfortable. No harsh wind, no AC, no regular fan.
+	Not that rough fan drone, just a smooth background sound that helps the nursery feel calm.
+	17
+	7s
+	Using @video1 as the exact reference for the tall fan, generate a final hero shot in a beautiful baby nursery. The fan stands near the crib, softly glowing. A parent looks into the room from the doorway, calm and reassured. Slow cinematic zoom out.
+	For parents who want the baby’s room to feel calm, fresh, and comfortable — without fan air blasting at the crib.
+	18
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a premium close-up hero shot of the fan in the nursery. Show the product clearly, tall size only, softly glowing, with the crib blurred in the background. Keep it cinematic and realistic.
+	It comes from David Patrick — the inventor behind Shark Wheel, seen on Shark Tank. Now, he’s reinventing the way air moves through your baby’s room.
+	19
+	6s
+	Using @video1 as the exact reference for the tall fan, generate a clean product-focused nursery shot. The fan is running near the crib, softly glowing, with soft airflow moving around the room. Premium realistic lighting, vertical ad style.
+	Look this one up. Spin360.
+	 
+
+
+[7] Editing Rules
+* Each visual clip MUST complement the audio. Never disconnect visual from what's being said.
+* Add captions for entire video
+* Editor must add sound design
+* Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+
+
+ 
+________________
+
+
+[8] Deliverables
+• Versions: 5 total (one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels),
+• Upload Location: Creative Roadmap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cold AC blasting through the nursery all night? ❄️
+Not ideal.
+Regular fan blowing straight at the crib?
+Also no.
+That’s why parents are looking at Spin360.
+Yes, it moves air in 360°…
+but the real difference is how the air feels.
+Soft.
+Natural.
+Gentle throughout the whole room.
+Instead of one harsh stream of fan air hitting the crib, Spin360 creates a soft breeze that moves around the nursery from corner to corner.
+So the room feels fresher, calmer, and more comfortable…
+without freezing it with AC.
+✅ Soft natural-feeling airflow
+✅ Whole-room air movement
+✅ No harsh fan air at the crib
+✅ No cold AC blasting through the nursery all night
+✅ Quiet enough for naps
+✅ Gentle white noise when turned up
+Built by David Patrick — the Shark Wheel inventor seen on Shark Tank.
+Look this one up.
+👇 Tap below to see why Spin360 is different.
+
+
+Headline:
+No Harsh Air At The Crib

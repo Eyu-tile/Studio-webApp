@@ -1,0 +1,763 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_ArticSleepVSL
+Author: Chris
+Editor: N/A 
+Ad Brief 
+
+
+[1] Overview 
+* Ad ID: Spin360_ArcticSleep_VSL_Hook_
+* Ad Type: Unaware VSL 
+* Awareness Level: Unaware → Solution Aware 
+* Target Length: 2 minutes max 
+* Sizes Needed: 9x16 
+* Voiceover: Woman — Warm, calm, unhurried. Like a friend telling you something that changed her life. NOT salesy. 
+* Music: Slow, atmospheric, cinematic. Cool and Nordic feeling. Builds very gently. Never overpowers the VO. 
+* Assets: Stock footage (Scandinavian villages, Nordic interiors, snow, candles, hot bedroom, woman sleeping) + Spin360 product footage + room diagram animation 
+
+
+________________
+
+
+
+
+[2] Direction 
+* Example Videos: 
+   * H1_Spin360_UnAware_SwedishBabie.mp4
+   * Concept Example 
+   * Visual Vibes 
+      * Example 2 
+      * Example 3
+* This is a pure Unaware VSL. Do not rush to reveal the product. 
+* The first 55 seconds are entirely educational and emotional — no product, no selling. Let the story breathe. 
+* The voiceover must sound completely natural. Use fish.audio or similar. 
+   * Add [pause] tags between short punchy lines. 
+   * Double-check pacing on every section. 
+   * Match the VO from H1_Spin360_UnAware_SwedishBabie.mp4
+* Gabriel’s Visual Guide 2026-05-20-ArcticSleep-VSL-AI-Shots
+* Every visual must match the audio. No random b-roll. If the script says candles and blankets, show candles and blankets. 
+* The contrast cut at the Bridge section (warm/still bedroom vs. cool Nordic scenes) is critical — this is the emotional pivot of the ad. 
+* The Feeling section should feel almost dreamlike. Slow visuals, soft light, complete stillness except the fan.
+* Sound design: subtle ambient wind/nature sounds under VO throughout. Should feel like cool night air. 
+
+
+________________
+
+
+[2.1] AI Direction 
+
+
+INSTRUCTIONS TO COPY AND PASTE INTO YOUR AI FOR GENERATION:
+All AI-generated images for this ad must look like documentary photography shot on 35mm film, Kodak Portra 400. Muted Scandinavian color palette — desaturated blues, grays, muted whites for exterior Sweden scenes. Warm muted amber for interior bedroom scenes. Real textures everywhere: dirty packed snow (not fresh powder), worn wool with pills, smudged glass with condensation, skin with visible pores, redness from cold, dry lips. Natural light ONLY — no studio lighting, no fill light. Overcast Nordic winter sky for exteriors. Visible lamps for interiors. No AI glow, no plastic skin, no clean perfect edges, no HDR look. If it looks like AI, it doesn't work. Every frame must pass as a still pulled from a real BBC documentary about Scandinavian culture.
+Documentary, not cinematic. The camera OBSERVES life. It does not dramatize it. No one looks at camera. Scenes feel found, not staged. The beauty comes from reality, not production.
+Two color worlds: Sweden exterior = cool blue-gray, 6500K. Bedroom interior = warm amber, 2700K tungsten. The contrast between the two tells the story before the audio 
+________________
+[3] Strategy 
+Avatar: 
+	Women 45–65+ who sleep poorly in the heat. May or may not have AC. Not currently shopping for a fan — completely unaware 
+	Core Desire: 
+	Health —To feel genuinely rested. To wake up and actually feel good. To sleep the way they used to sleep.
+	Awareness Level: 
+	Unaware — opens with a cultural/historical story. Product not mentioned right away
+	Angle: 
+	Humans were designed to sleep in cool, moving air. Modern sealed rooms took that away. Spin360 brings it back.
+	Key Insight: 
+	This ad doesn't sell a fan. It sells the feeling of cool air moving around you while you sleep — and uses historical proof 
+	Why Now: 
+	Summer. Every woman who sleeps hot is about to feel this problem acutely. This ad meets them before they go looking fo
+	Tone: 
+	Warm, conversational, unhurried. Never clinical. Never salesy. Feels like discovery, not advertising.
+	
+
+________________
+[4] Creative Direction 
+
+
+Visual World — Unaware Section 
+* Cold, beautiful, cinematic. Snow-covered Scandinavian villages at night. Warm cabin lights glowing. Nordic interiors — thick blankets, candles, frost on windows, a curtain moving gently from a cracked window. Should feel aspirational and peaceful. Color grade: cool blues, warm amber from candlelight. 
+Visual World — Bridge 
+* Hard contrast cut. Hot, still, uncomfortable. Summer bedroom. A woman lying awake staring at the ceiling. The ceiling fan barely moving. AC unit humming. Warm color grade. Should feel stuffy and restless compared to everything before it. 
+Visual World — Product Reveal 
+* Dark, calm bedroom. Spin360 glowing with soft blue LED. Woman sleeping peacefully under a blanket with one arm out. Complete stillness. Should feel like the Nordic scenes from the opening — cool, peaceful, resolved. 
+The Emotional Arc: 
+* Fascination → Recognition → Relief. The viewer should feel a quiet 'that's me' moment in the Bridge, and a quiet 'I need that' moment in the Feeling section. Never pushed. Never rushed. 
+What NOT to do: 
+* No fast cuts in the unaware section. No upbeat music. No product close-ups until the reveal. No mechanism diagrams — this ad sells feeling, not features. Do not mention the price until the CTA. 
+
+
+[4.1] Hooks
+Hook 1:
+	Start the video at: “There are people in the coldest parts of the world who sleep better than anyone else on earth.”
+	Hook 2: 
+	Start the video at: “In Scandinavia there's a word — hygge.” 
+	________________
+[5] Script + Visuals 
+
+
+HOOK 0 – 10 sec 
+HOOK Script (VO) 
+	Visual Direction 
+	Visuals 
+	Editor Notes
+	There are people in the coldest parts of the world who sleep better than anyone else on earth. 
+
+
+	Snow-covered Scandinavian village at night. Warm cabin lights glowing in the distance. Absolute stillness.
+
+
+TikTok Carousel Example
+	  
+
+	Slight digital zoom in 
+	Calmer. Healthier. Most Rested.
+	People, sleeping deeply in Scandinavian style cabins. Has to feel like it’s from the 1950’s
+
+
+Shot 1: Wide of sleeping quarters—old style Scandinavian cabin. 
+
+
+Shot 2: Tight up of face of people sleeping —old style Scandinavian cabin. 
+	  
+
+	
+
+	And when scientists finally figured out why 
+	Visuals: 
+Shot: Two researchers in expedition gear walking through deep snow toward a cabin at blue hour. Shot from behind, wide. The only light is a hard camera-mounted light cutting through the near-darkness ahead of them. Feels like they're closing in on something.
+
+
+* Blue hour — sky is dark blue, not black. Cold and eerie. The camera light should be the only warm source in the frame. Handheld, slight movement.
+
+
+	  
+
+	
+
+	it wasn't what anyone expected.
+	Shot: Close on the cabin now. Camera-mounted hard light blasting directly onto the snow-covered cabin facade. Snowstorm swirling through the beam. Dark tree line behind it. Feels like a documentary crew just arrived and locked onto their subject.
+* No cinematic warmth. The light should feel functional, not pretty — like a field researcher's rig, not a film set. Hold on this shot for 2-3 seconds. Let the snow move through the light beam.
+
+
+	  
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UnAware Script (VO) 
+	Visual Direction 
+	Visuals 
+	Editor Notes
+	UNAWARE SECTION
+	"In Scandinavia there's a word — hygge.
+	Aerial Shot of cute Scandinavian village in winter. 
+	  
+
+	
+
+	It's that feeling of deep, cozy, restorative rest.
+	Shots of interior sleeping area of super cozy warm cabin in the winder 
+	
+
+	
+
+	Long winter nights where candles are lit, blankets are piled high, and cool air drifts gently through the home while everyone sleeps.
+	Interior shots of people sleeping 
+
+
+* Candles 
+* Big Blankets 
+* Snow Outside Window
+* People Sleeping. 
+
+
+Should be multiple smooth shots. 
+	
+
+	
+
+	In the French Alps
+	Aerial shot of French alps, blue hour, peaceful. Cold + Snowy. 
+	  
+
+	
+
+	entire villages used to sleep through seven months of winter.
+	Medium shot of French Village chalet outside in the cold winter 
+
+
+Cut to shot of people in deep sleep. 
+	  
+
+	
+
+	In Russia, there's a documented tradition called lotska — a deep winter rest that lasted for months.
+	Shot of Russian house in middle of winter. 
+	  
+
+	
+
+	Researchers in the 1950s studied these groups
+
+
+And the one thing every single one of them had in common?
+	Slideshow section of realistic images of Researchers from the 1950s. 
+
+Think: 
+* Black and white images 
+* Arctic expeditions 
+* Low quality, film photography w/ grain 
+* Slideshow with camera flash sound on transitions 
+* Make it feel realistic. 
+	  
+  
+  
+
+	
+
+	The air around them was cold and never stopped moving.
+Cool. Fresh. Gentle.
+	
+
+	
+
+	
+
+	Simply sleeping the way human beings were always meant to sleep.
+	
+
+	
+
+	
+
+	Bridge Section 
+	"But somewhere along the way 
+	VIBE CHANGE
+
+
+From Peaceful to a jarring wakeup. Sounds effects should include, traffic, honking cars, indicating she woke up not feeling good. 
+
+Shot: Top Down shot, perfectly centered on her face, tight up on face—camera stays still. Action: her eyes open and she looks distraught / unrested. 
+
+
+Natural Lighting. 
+	  
+
+	
+
+	we sealed everything up.
+	Cut to Wide Shot: 
+
+
+Visual: Cuts to wide shot of woman laying it bed, looking unrested. Centered on her body, all she has is sheets on (not revealing too much) and she looks hot (temperature) and unrested, putting her hand on her face. 
+
+Natural lighting. 
+	  
+
+	
+
+	Windows closed. AC on.
+	This clip lives in the stock footage folder. 
+	  
+
+	
+
+	And the air in our bedrooms just — stopped.
+	
+
+	
+
+	
+
+	It sits there all night, warm and still and stale.
+
+
+	Video of same woman who woke up, tossing and turning in her sleep. There’s also some footage in the Stock Footage folder of this. 
+	
+
+	
+
+	Your body is waiting for its temperature to drop so it can finally rest.
+
+
+	
+
+	
+
+	
+
+	And most nights — it just can't get there.
+	
+
+	
+
+	
+
+	PRODUCT REVEAL 
+	"So one engineer in California got completely obsessed with this idea.
+	
+
+	  
+  
+
+	
+
+	What if you could bring that cool, moving air back into your bedroom?
+
+
+	
+
+	  
+
+	
+
+	He spent four years figuring it out.
+	
+
+	  
+
+	
+
+	What he built is honestly hard to explain until you feel it. It pulls the cool air from the floor and the hot air from ceiling And sends it outward in every direction at once
+	Let this whole clip play though, nice and slow. 
+	  
+
+	
+
+	And due to the blades shape, it doesn't feel mechanical.
+
+
+	
+
+	  
+
+	
+
+	It feels like a breeze.
+Cool. Soft. Wrapping around you from every direction.
+
+
+	Pull clips from this sequence Gabriel made 
+
+https://drive.google.com/file/d/1FemEDsK_WVnhL--vTFn71c9IPFDR8ZEl/view
+ 
+
+
+
+
+	  
+
+	Made sure to include a few shots, nice and slowly. Wide + Tight shots 
+	"The first time you sleep with it
+it feels like the walls of your bedroom were removed 
+
+
+	Walls of Bedroom removed shot. 
+	  
+
+	
+
+	Gentle. Constant. Everywhere at once.
+	Product Shots 
+	
+
+	
+
+	And you don't even realize you're falling asleep until you wake up the next morning and think —
+wait.
+
+
+	Video Links: https://drive.google.com/file/d/1C_mmJUt9myTNP_oKaCuQZFZtr97L6_cS/view?usp=drive_link
+
+
+https://drive.google.com/drive/folders/1Z3ckSQekfBlXDfvLMXETKBK_zvfa1EFT
+
+
+Tight up of fan first, then wide of her sleeping. 
+	  
+  
+
+	Editor Notes: Reverse the speed of the tight fan shot, or put a horizontal flip on it (effect). This way the motion will go in the same direction! 
+
+Ask me questions on this if you need. 
+	I'm cold.
+In the middle of summer.
+And I feel incredible.
+	Cut to shots of her stretching. 
+
+
+LINK: https://drive.google.com/file/d/16oR_iUMrW9J9HR1QpPzdF0FOOyoP7wPc/view?usp=drive_link
+
+
+	  
+  
+
+	
+
+	Below speed five you won't hear it at all.
+
+
+	Decibel Shot Sequence. 
+	
+
+	
+
+	Above that it's like wind through trees — that soft, cool shhhh that makes everything in your brain just go quiet.
+	Decibel Shot Sequence, cut to beautiful shot of trees swaying with sound effects. 
+	
+
+	
+
+	Women say they've stopped using their AC entirely.
+That they wake up the way they haven't woken up in years.
+	Product Shots of Woman in Utah Selects 
+	  
+
+	
+
+	It's what those cultures have always known.
+Cool, moving air is not a luxury.
+It's just what your body needs."
+
+
+	Product Shots of Woman in Utah Selects 
+	
+
+	
+
+	CTA Section 
+	"Made by the guy who invented the Shark Wheel — went on Shark Tank and got a deal with Mark Cuban and Kevin O'Leary.
+	Quick Sequence of Shark Tank footage 
+	
+
+	
+
+	First thousand people get $110 off.
+	
+
+	
+
+	
+
+	Once you feel that breeze —
+you'll understand.
+Go check it out."
+	
+
+	
+
+	
+
+	[7] Editing Rules 
+
+
+● DO NOT rush. This ad earns its watch-through with pacing and atmosphere, not speed. 
+● Unaware section (0–55 sec): slow, cinematic cuts. 3–5 seconds per clip minimum. 
+● Bridge contrast cut should feel like a bucket of warm water — uncomfortable after the cool Nordic world. 
+● Product reveal onward: return to the slow, cool visual world. Should feel like resolution.
+● No dead air — but silence and near-silence are intentional tools here. Use them. 
+● VO pacing: short punchy lines (Cool. Fresh. Gentle.) need a [pause] between each word. Do not rush them. 
+● Music: starts cool and atmospheric, builds very subtly through the Bridge, softens again at the Feeling section. Never dramatic. 
+● Sound design: subtle ambient wind/nature sounds throughout. Should feel like cool night air in the room. 
+● Add captions for entire video. 
+● All visuals must match audio — no random stock shots. 
+● Export: 9x16 for all hooks. 
+
+
+[8] Deliverables 
+Upload to Creative Sheet: 
+* Spin360_ArcticSleep_VSL_Hook_1
+* Spin360_ArcticSleep_VSL_Hook_2
+
+
+
+
+"In Scandinavia there's a word — hygge.
+	
+
+	
+
+	
+
+	It's that feeling of deep, cozy, restorative rest.
+	
+
+	
+
+	
+
+	Long winter nights where candles are lit, blankets are piled high, and cool air drifts gently through the home while everyone sleeps.
+	
+
+	
+
+	
+
+	In the French Alps
+	
+
+	
+
+	
+
+	entire villages used to sleep through seven months of winter.
+	
+
+	
+
+	
+
+	In Russia, there's a documented tradition called lotska — a deep winter rest that lasted for months.
+	
+
+	
+
+	
+
+	Researchers in the 1950s studied these groups
+
+
+And the one thing every single one of them had in common?
+	* 	
+
+	
+
+	The air around them was cold and never stopped moving.
+Cool. Fresh. Gentle.
+	
+
+	
+
+	
+
+	Simply sleeping the way human beings were always meant to sleep.
+	
+
+	
+
+	
+
+	Bridge Section 
+	"But somewhere along the way 
+	
+
+	
+
+	
+
+	we sealed everything up.
+	
+
+	
+
+	
+
+	Windows closed. AC on.
+	
+
+	
+
+	
+
+	And the air in our bedrooms just — stopped.
+	
+
+	
+
+	
+
+	It sits there all night, warm and still and stale.
+
+
+	
+
+	
+
+	
+
+	Your body is waiting for its temperature to drop so it can finally rest.
+
+
+	
+
+	
+
+	
+
+	And most nights — it just can't get there.
+	
+
+	
+
+	
+
+	PRODUCT REVEAL 
+	"So one engineer in California got completely obsessed with this idea.
+	
+
+	
+
+	
+
+	What if you could bring that cool, moving air back into your bedroom?
+
+
+	
+
+	
+
+	
+
+	He spent four years figuring it out.
+	
+
+	
+
+	
+
+	What he built is honestly hard to explain until you feel it. It pulls the cool air from the floor and the hot air from ceiling And sends it outward in every direction at once
+	
+
+	
+
+	
+
+	And due to the blades shape, it doesn't feel mechanical.
+
+
+	
+
+	
+
+	
+
+	It feels like a breeze.
+Cool. Soft. Wrapping around you from every direction.
+
+
+	
+
+	
+
+	
+
+	"The first time you sleep with it
+it feels like the walls of your bedroom were removed 
+
+
+	
+
+	
+
+	
+
+	Gentle. Constant. Everywhere at once.
+	
+
+	
+
+	
+
+	And you don't even realize you're falling asleep until you wake up the next morning and think —
+wait.
+
+
+	
+
+	
+
+	
+
+	I'm cold.
+In the middle of summer.
+And I feel incredible.
+	
+
+	
+
+	
+
+	Below speed five you won't hear it at all.
+
+
+	
+
+	
+
+	
+
+	Above that it's like wind through trees — that soft, cool shhhh that makes everything in your brain just go quiet.
+	
+
+	
+
+	
+
+	Women say they've stopped using their AC entirely.
+That they wake up the way they haven't woken up in years.
+	
+
+	
+
+	
+
+	It's what those cultures have always known.
+Cool, moving air is not a luxury.
+It's just what your body needs."
+
+
+	
+
+	
+
+	
+
+	CTA Section 
+	"Made by the guy who invented the Shark Wheel — went on Shark Tank and got a deal with Mark Cuban and Kevin O'Leary.
+	
+
+	
+
+	
+
+	First thousand people get $110 off.
+	
+
+	
+
+	
+
+	Once you feel that breeze —
+you'll understand.
+Go check it out."

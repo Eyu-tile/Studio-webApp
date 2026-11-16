@@ -1,0 +1,47 @@
+﻿Spin360_QuietOrNoise
+3 ads: same voiceover and same body, 3 different visual hooks. About 36 seconds, 9:16.
+The idea
+People who sleep with a fan split in two groups. Some need the sound of a fan to fall asleep. Others can't stand fan noise. Spin360 works for both: settings 1 to 5 are ultra quiet, and settings 6 to 9 make a soft "shhh", like white noise. On any setting the air is not a blast, it is a soft breeze that moves through the whole room. The result we sell: you sleep right through the night and wake up actually rested.
+The viewer should finish the ad thinking: "whichever kind of sleeper I am, this fan is for me."
+Voiceover script
+Some people can't sleep without the sound of a fan.
+Some people can't sleep with it.
+This fan is for both.
+If you need silence, settings one to five are ultra quiet. You forget it's on.
+If you need the sound, six through nine give you that soft shhh, like white noise.
+Either way, it never blasts you. The air in the whole room just keeps moving, soft, like a breeze through an open window.
+So you sleep right through the night. And you wake up actually rested.
+David Patrick, the man who built it, calls it the best sleep of his life.
+And those people who can't sleep with a fan? They keep telling him: "I hate fans… but I love yours."
+Sleep on it for 30 nights. If you don't love it, just send it back.
+The 3 visual hooks
+The voiceover is the same in all three. Only the first 5 to 6 seconds of picture change (the first three lines of the script).
+Hook
+	What we see
+	Hook 1: two sleepers
+	Split screen. On one side, someone sleeping deeply with a fan running next to the bed. On the other side, someone awake and annoyed by a noisy fan (pillow over the head, looking at the fan). On "This fan is for both", both sides become the Spin360 next to a bed.
+	Hook 2: the dial
+	Close-up of a hand on the Spin360 control. We see the speed number go up from the low settings and pass 5, with the blades in the frame. Simple labels on screen: "1-5 quiet" and "6-9 shhh". On "This fan is for both", cut wide to the Spin360 in a bedroom.
+	Hook 3: the swap
+	Someone takes an ordinary fan out of the bedroom and puts the Spin360 in its place. On "This fan is for both", the Spin360 is running next to the bed.
+	How the edit could go (open, your call)
+* Material: use our UGC library first (bedroom and sleep shots, Spin360 on the nightstand, the dial, blades up close). Use David and the customer comments from Reinvent_Wheel_SplitScreen_David_V2_Hook_2.mp4 for the last part.
+* "Settings one to five": someone asleep with the Spin360 on beside the bed. Bring the music almost to zero here, so we feel the quiet.
+* "Six through nine": the dial passing 5 and the blades. Let us hear the real fan sound softly under the voice, so the viewer hears the "shhh".
+* "It never blasts you... breeze through an open window": a curtain, a plant or hair moving gently. No strong wind.
+* "Sleep right through... rested": sleeping, then waking up in morning light.
+* David line: David from the winner. He is not speaking here, so avoid shots where his lips clearly move.
+* "I hate fans... but I love yours": the real customer comments from the winner.
+* Last line: end card with "Sleep on it for 30 nights."
+Useful clips from the UGC library (suggestions)
+* Sleeping under a duvet: Erin 28.MOV (0:00-0:08, Spin360 on beside her), Avery "kid sleeping" (0:00-0:07), Stacie IMG_9769 (0:00-0:11).
+* Spin360 beside the bed at night: Erin 25.MOV (0:00-0:22, she turns it on and lies down), Vicky IMG_8039.
+* Dial going past 5: Stacie IMG_9752 (0:28-1:00, F5 to F9 with the blades in frame), Michael "Button press first impressions" (1:06-1:27), Charlie IMG_3849 (0:29-0:39).
+* Blades up close: Stacie IMG_9752 (0:04-1:00), Charlie IMG_3851 (0:07-0:13).
+* Gentle movement: Erin 8.MOV (0:00-0:18), Michael "Summer breeze window open", Michael "Ribbons".
+* Swapping the old fan: Charlie IMG_3814 (0:06-0:30, takes the tower fan away and puts the Spin360).
+We do not have a shot of someone annoyed by a noisy fan (Hook 1, right side). You can generate it or use stock.
+Notes
+* Same caption style as the winner. Calm music, low under the voice.
+* Please do not add on-screen claims that are not in the script.
+* Export 3 files: Spin360_QuietOrNoise_Hook1, _Hook2, _Hook3.

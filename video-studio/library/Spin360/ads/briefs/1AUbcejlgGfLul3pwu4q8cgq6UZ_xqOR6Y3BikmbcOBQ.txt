@@ -1,0 +1,41 @@
+﻿Spin360_ReinventWheel_OldFan_V1
+Iteration on our winner. One version. Same edit as Reinvent_Wheel_SplitScreen_David_V2_Hook_2.mp4 (1:49). We add two short new lines by David: one about the old fan everybody has (before the mechanism) and one with the 30-night trial at the end. Everything else is the original.
+  
+            
+New order
+Time
+	From
+	What happens
+	0:00 – 0:42.7
+	SRC 00:00 – 00:42.7
+	Original, untouched: drill hook → split screen → "I took this shape..." → Shark Tank → "...an unbelievable journey."
+	~0:42.7 – ~0:53
+	NEW (AI)
+	David's new line about the old fan (see script, orange). Make it in Seedance 2.5 with David's face and voice, or his voice over B-roll of a regular box/stand fan blasting one spot in a bedroom.
+	~0:53 – ~1:17
+	SRC 00:50.6 – 01:14.9
+	Original mechanism block (animation + Hotter/Cooler heat map): "We have a product that is utterly unique... Nobody has ever created a fan like that before."
+	~1:17 – ~1:40
+	SRC 01:14.9 – 01:38.3
+	Original: "Unlike a regular fan..." until "...wow, this feels great." Cut right after "great."
+	(cut)
+	SRC 01:38.3 – 01:42.9
+	Remove "You'd swear the walls were removed... my bed is outside."
+	~1:40 – ~1:46
+	SRC 01:42.9 – 01:48.8
+	Original: "I don't know how many people come to me and go: I hate a fan but I love yours."
+	~1:46 – ~1:55
+	NEW (AI)
+	David's closing line with the 30-night trial (see script, orange), same method as above. On screen: "Try it for 30 nights." Then the real customer comments and an end card with the product + "Try it for 30 nights. Send it back if you don't like it."
+	Script (new lines in orange)
+[Drill on the street, smoke. No voice.]
+I took this shape and I used it to reinvent the wheel. A long time ago I came up with a really unique shape that was based on nature. Eventually it started becoming real products, and one of the products that it of course became was a wheel. I did that for 10 years. I went on Shark Tank, I did a killer deal with Kevin O'Leary, Mark Cuban, but it was a precursor to me being able to make this product. This shape was something that occurred in nature everywhere, and then finding out that I could turn it into a fan was an unbelievable journey.
+Think about the fan in your house right now. It's basically the same fan your grandpa had. A box with blades. It blasts one spot, you hear it all night, and everybody fights over where it points.
+We have a product that is utterly unique. We pull the air in from two directions and send it out like Saturn's rings. We're pulling that hotter air down and that cooler air up, and we're creating one single temperature in the room. And it also spreads perfect airflow to everyone all at once. No more waiting your turn. Nobody has ever created a fan like that before.
+Unlike a regular fan, which only blows air in one direction and creates a harmonic wop wop wop, we do not do that. We're ultra quiet on settings one to five, and settings six through nine is that wonderful pure kind of noise. It is the best experience I've ever had sleeping. You wake up and you go, wow, this feels great. I don't know how many people come to me and go: I hate a fan but I love yours.
+So stop buying the same old fan. Try mine for 30 nights. If you don't like it, send it back. Tap below.
+Notes
+* Same 9:16, same caption style, same music as the original.
+* New lines: Seedance 2.5 with David's face and voice, or his voice over B-roll. Match the sound of his studio mic.
+What's up to you
+* Old-fan B-roll choice, transitions, and how to hide the cuts.

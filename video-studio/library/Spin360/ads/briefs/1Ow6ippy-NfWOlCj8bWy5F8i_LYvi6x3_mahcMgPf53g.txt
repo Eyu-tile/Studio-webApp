@@ -1,0 +1,199 @@
+﻿Brand: Spin360
+Ad ID: Spin360_UnAware_AirMixing
+Author: Chris
+Editor: Shiv 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_UnAware_AirMixing_Hook_1
+* Ad Type: Ideation
+* Type of Ad: Educational VSL / Founder-led
+* Sizes Needed: 9x16
+* Voiceover: Man (35-65) - Confident Calm  
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+
+
+
+
+________________
+ 
+[2] Direction
+Edit a video to this Audio Stringout >>>>>LINK<<<<<<<
+
+
+________________
+ 
+[3] Strategy
+Who is this for [Avatar]: TOF, Unaware buyers. The goal is to bring new audiences in with an entertaining and compelling ad that slowly introduces the fan / product / sell. 
+Main Selling Points: 360 degree airflow, feels like a natural breeze, sleep, scent pods 
+Market Awareness: Unaware 
+Desires: Health  
+ 
+________________
+
+
+[4] Creative Direction
+Angle: 
+* Unaware VSL -> Meaning people who aren’t originally interested in fans will find it interesting 
+* Good Storytelling -> You need to convince people about bad air quality and that the fan is the solution. 
+* Introduce the Product Slowly -> don’t sell it / show it too quickly, get people into the story first. 
+Feeling
+* Calm, Smooth and Interesting. A lot of these edits lately have been too fast. 
+
+
+
+
+ 
+________________
+
+
+[5] Script
+
+Edit a video to this Audio Stringout >>>>>LINK<<<<<<<
+ 
+________________
+[6] Shotlist / Storyboard
+
+
+HOOKS
+	HOOK
+	Script
+	Visual
+	Description
+	1
+	You like having well oxygenated air 
+	  
+  
+
+	Hook 1 - Should start with David talking, using your animation from previous videos, then go to the mixing shot. Keep it nice and slow so people can visualize what is happening. 
+	2
+	You like having well oxygenated air 
+	  
+
+	Hook 2 - Same Audio, but Hook Clip is just the mixer clip, nice and slow. Text in the center between the two frames. 
+	3
+	You like having well oxygenated air 
+	  
+  
+
+	Hook 3 - Woman with Spray into Mixing Clip 
+	4
+	This is what 4 years of studying airflow looks like 
+
+
+Into -> “So Imagine this is your room” 
+	  
+  
+
+	Hook 4 - Image = David Talking 
+
+Video LINK 
+
+13:29 - 13:33 
+Into Mixing Clip 
+
+
+
+
+	5
+	This is what 4 years of studying airflow looks like 
+
+
+Into -> “So Imagine this is your room” 
+	  
+  
+
+	Hook 5 Woman hook found here 
+	 
+BODY
+BODY
+	Script
+	Visual
+	Description
+	0:16 
+Every since the industrial revolution 
+	  
+
+	I want you to use this type of editing for the storytelling 
+
+
+* Think Coal Trains 
+* Cars 
+* Air Pollution 
+* Big Cities 
+* 	0:22 
+	Use these clips 
+https://drive.google.com/file/d/1aFTxP27Ff_crQ-ASHvoEJhPXEmW78rJl/view?usp=drive_link
+https://drive.google.com/file/d/1kS-ZwPn4zqTBbqrKJfmqNWQ5gdYPrTVY/view?usp=drive_link
+
+
+	
+
+	0:24 - 26  
+	Show Cities / pollution / non nature shots
+	Use new shots, no-using the past ones I’ve seen! 
+	 0:26 
+	  
+
+	Use this type of storytelling, 
+
+Think like
+* Native American / Ancient people sleeping outside 
+* What their houses looked like 
+* Fresh air 
+* Ect. 
+	0:34 
+	  
+
+	Show shots of him working on prototypes 
+The designing clip is great 
+	0:50 
+	  
+
+	Some kind of shot showcasing that it spreads in 360 
+	1:01 
+	
+
+	Show Prototype images 
+	1:30 
+	Make a sequence here around woman sleeping, stretching, the walls removed 
+	
+
+	
+
+ 
+________________
+
+
+[7] Editing Rules
+* First 3 seconds must be FAST (no pauses)
+* No dead air in video—unless it's intentional
+* No clip longer than 2 seconds in first 10 seconds
+* Add captions for entire video
+* Each visual clip MUST complement the audio to help the audience understand what is happening
+* Editor must add sound design
+* Use Speed Ramps when needed and Add Blur
+* The mixing demo should be HIGH QUALITY and clearly visible—this is the hero visual
+* Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+* Lifestyle shots should target middle-aged/older women—avoid young, overly trendy aesthetics
+
+
+ 
+________________
+
+
+[8] Deliverables
+• Versions: 7 total (V1-V7, one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels), 4:5 (Feed)
+• File Naming Convention: Spin360_AirMixing_Woman_V1_HOOK1, Spin360_AirMixing_Woman_V1_HOOK2, etc.
+• Upload Location: Creative Roadmap

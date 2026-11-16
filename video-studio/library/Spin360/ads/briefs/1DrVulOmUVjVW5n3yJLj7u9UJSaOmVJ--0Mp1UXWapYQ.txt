@@ -1,0 +1,126 @@
+﻿Spin360_LiveLonger_DogReaction
+Brief - Spin360_LiveLonger_DogReaction.mp4
+
+
+Source ad (use it whole, untouched): Spin360_LiveLonger_HOOK_6.mp4 · 2:08 · 9:16
+Product reference: SPIN360_FLOOR · SPIN360_BLADE
+Ad type: Iteration · new visual hook on a proven ad · Size: 9x16 · about 2:05 · 1 ad.
+The idea: a cinematic, real-looking golden retriever sits in a cozy living room at night and watches Spin360_LiveLonger_HOOK_6 on the TV. He reacts like a real dog would (head tilt, ears up, moving closer), and at the end he picks the phone and buys one. The ad itself does not change: same video, same words, same order. Only the ending changes: the $100-off line comes out and David offers 30 nights instead. The dog is the new way of watching it.
+	
+
+The rule: David's voice, lines, order and captions stay 100% from 0:00 to 1:43. One exception, and only one: the discount line ("So the first thousand people… that is not going to last.", 1:43–1:50) comes out, and in its place David says one new line, generated with Seedance from a real frame and his real voice: "So try it for 30 nights. And if you don't love it, send it back." Everything else on the TV is the real footage. See "The new ending" below, step by step.
+	Strategy
+# Element
+	Answer
+	1 · Why this ad
+	Spin360_LiveLonger_HOOK_6 is a proven founder ad. We keep it exactly as it is and change only the way it is watched: a real-looking golden retriever watches David on TV and reacts. The dog is the new hook and the entertainment layer; David still makes the whole pitch.
+	2 · Desire
+	Same as the original: a room that feels like outside, one temperature, a breeze you can sleep in.
+	3 · Avatar
+	Same as LiveLonger: adults who want fresh, moving air at home and like hearing it from the inventor.
+	4 · Angle
+	Same as the original (nature indoors, hot air down / cool air up, "you'd swear your bed is outside"). Nothing in the argument changes.
+	5 · Authority
+	David, real footage, real voice, in the TV. Shark Tank proof stays and must be seen full screen.
+	6 · Awareness
+	Hook: unaware, the dog stops the scroll and the "live longer" line opens the loop. Body: product aware, as in the original.
+	7 · Emotion
+	A smile first (a dog taking a founder ad seriously), then the same curve as the original. Dry, cinematic, warm. No slapstick.
+	8 · Positioning
+	Same as the original. The dog adds nothing to the claims; he only reacts.
+	9 · Offer
+	30 nights, send it back if you don't love it. No discount: the original "$100 off for the first thousand" is removed from the audio and from the end card.
+	Production brief
+Video: the original is the timeline (minus the discount line, see "The new ending"). Lay it down first, audio locked from start to finish. The dog shots are cutaways on top of it (generated clips), each one a few seconds, placed on the lines marked in the storyboard. Between cutaways the original plays full screen, and it should be full screen most of the time: the mechanism, the product demo, the Shark Tank proof and the offer are never covered by the dog.
+David: real footage everywhere, except the one new line. That line is generated from a real frame with his real voice as reference, and it has to pass as the same shot.
+The dog: one adult golden retriever, the same in every shot (same fur, size, collar or no collar), generated cinematic and photorealistic (Seedance / Kling, from the images below as start frames). He behaves like a dog: head tilt, ears, a step closer, a look at the phone. Never talks, never has human expressions, no cartoon takes. The one joke is the paw on Add to Cart at the end, and even that is shot like it really happened.
+The room: one cozy American living room at night, wooden floor, rug, sofa, warm lamps, big TV on the wall. The TV light is cool teal on the dog, the lamps are warm. Smooth, slow camera moves, shallow depth of field, reflections on the screen.
+The TV: the real video goes inside the TV (corner-pinned, with the room's reflections and light). The source is 9:16 and the TV is landscape: show the whole portrait video centered with a soft blurred fill on the sides, never stretched, never with the captions cut off. When we are on the dog, add a light "TV speaker" feel to David's voice; when the original is full screen, the audio is the master, clean.
+
+
+The new ending (read this first)
+The original ends with a discount we are not running. Here is exactly what to do, in order:
+1. Keep the original from 0:00 to 1:43.1 — it ends on "…and look, we're just getting started with this."
+2. Cut 1:43.1 → 1:49.8. That is the whole discount: "So the first thousand people that come in right now are getting a hundred bucks off. And I'm telling you, that is not going to last." Nothing of it stays, audio or picture.
+3. Insert the new David line (about 5 s), generated with Seedance: "So try it for 30 nights. And if you don't love it, send it back." It plays inside the TV, like the rest of David.
+4. Resume the original audio at 1:49.8 → 1:57.2: "Because once people feel this thing, they don't go back. So if you want to be part of that, come check it out." The "because" now points at the 30 nights, which is why it works.
+5. From 1:41 to the end, never use the original picture (it has "FIRST 1,000 GET $110 OFF" burned into it). The picture there is the dog: the phone, the paw on Add to Cart, then the payoff.
+6. New end card: Try it for 30 nights. Don't love it? Send it back. + logo, over the dog asleep with the Spin360. No price, no discount, no "first 1,000".
+Storyboard (over the original timeline)
+Times are the original video's times. The dog column is a guide for where the reactions sit; exact lengths are yours, as long as David stays audible and the original comes back full screen.
+Time
+	Original (real, untouched)
+	The dog (generated)
+	Inspiration
+	0:00–0:04
+	Spray/mist clip. VO: "I love saying that this is going to make you live longer."
+	Opening hero shot. The dog from behind, sitting on the rug, watching the TV. The TV shows the real spray clip. Slow push-in toward the dog and the screen. No text.
+	  
+
+	0:04–0:08
+	David in the studio: "Of course, I can't say that for real, but man, it really does kind of make sense."
+	Close-up: the dog tilts his head on "live longer", then looks back at the screen. Keep David's disclaimer audible and visible.
+	  
+
+	0:08–0:26
+	Mood of the room, "inspiration from two things", natural breeze, ocean breeze, "bringing nature indoors", "a fan everybody can enjoy".
+	Mostly the original full screen. One cutaway: ears up, leaning in, as the nature shots play. Back to the original before the next idea.
+	  
+
+	0:26–0:55
+	Hot and cold, heat goes to the top, "pulling that hotter air down and that cooler air up", one single temperature, freshness in the room.
+	Original full screen for the mechanism (this is the sale). One short cutaway: the dog has moved closer to the TV, sitting right in front of it.
+	  
+
+	0:55–1:14
+	Night bedroom; "every fan in the world… wop, wop, wop"; "we do not do that, it's that pure shhh".
+	Dog's ear twitches on "wop wop wop"; he settles on "shhh". Tiny, real dog reactions. Original stays full screen most of the time.
+	
+
+	1:14–1:24
+	"You'd swear the walls were removed and my bed is outside." / "I really strive for that with my product."
+	The dog settles, relaxed, eyes half closed for a second on "my bed is outside", then back to the screen. Small.
+	
+
+	1:24–1:43
+	Shark Tank footage, Shark Wheel montage, "this is my big home run… and look, we're just getting started with this."
+	Original full screen. No dog here: the proof has to be seen. The original picture is used up to 1:41 only; 1:41–1:43 is audio over the dog looking at the TV.
+	  
+
+	CUT 1:43.1–1:49.8
+	“So the first thousand people… a hundred bucks off… that is not going to last.” — REMOVED
+	Nothing from here is used.
+	
+
+	NEW ~5 s
+	DAVID, GENERATED (Seedance): “So try it for 30 nights. And if you don’t love it, send it back.”
+	Plays in the TV. The dog looks from the TV to the phone lying on the sofa.
+	  
+
+	1:49.8–1:57.2
+	Original audio: "Because once people feel this thing, they don't go back. So if you want to be part of that, come check it out."
+	Picture is the dog (not the original): on the sofa with the phone, the real Spin360 product page on the screen, one paw tap on Add to Cart on "come check it out".
+	  
+
+	+ ~8 s
+	(no voice)
+	A
+	  
+
+	Why each part is there (for the cut)
+Part
+	What it does
+	Opening (0:00–0:08)
+	The scroll stops on a dog watching TV like a person; the "live longer" line and the head tilt open the loop. David's disclaimer stays, so the claim stays honest.
+	Inspiration (0:08–0:26)
+	The dog leaning in tells the viewer "this is worth listening to" without a word; the original does the talking.
+	Mechanism (0:26–1:14)
+	The sale. Original full screen, dog only in the gaps, so the one-temperature explanation is seen and heard.
+	Proof (1:24–1:43)
+	Shark Tank and the wheel are David's credibility; nothing covers them.
+	30 nights (new line)
+	The offer in David's own voice, where the discount used to be. The dog looking at the phone plants the gag on it.
+	Purchase + payoff
+	"Once people feel this thing, they don't go back" is now the reason for the guarantee; the paw on Add to Cart lands on "come check it out"; the sleeping dog with the real fan is the quiet proof shot under the end card.
+	What's up to you
+Where exactly each dog cutaway starts and ends, the camera moves, the TV compositing, and whether to keep the optional last caption. Keep the original whole, keep the dog real, keep the product real.

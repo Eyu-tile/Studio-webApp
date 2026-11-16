@@ -1,0 +1,2132 @@
+[
+ {
+  "id": "6b8166ad-e016-4586-94a7-22b65e89f4d7",
+  "kind": "ugc_broll",
+  "summary": "Professional selects reel of white Spin360 units (tall and tabletop) in a luxury modern living room with a couple reading, plus close-ups of the display, LED ring and top scent well; sheets cover 0-338s only.",
+  "people": [
+   {
+    "who": "woman, 50s, long dark brown hair",
+    "wardrobe": "taupe cardigan over white top, dark cropped trousers / grey lounge set, red nails",
+    "role": "actor"
+   },
+   {
+    "who": "man, 40s, bald, light beard",
+    "wardrobe": "purple/maroon shirt, jeans / teal tee in bed",
+    "role": "actor"
+   },
+   {
+    "who": "woman, red nails",
+    "wardrobe": "grey lounge set",
+    "role": "hand only"
+   }
+  ],
+  "product": {
+   "visible": "hero",
+   "colourway": "white",
+   "on": true,
+   "details_seen": [
+    "cage",
+    "gold halo",
+    "blue/lavender ring",
+    "display F1",
+    "display F3",
+    "display F9",
+    "Spin360 logo on display",
+    "base",
+    "top cap scent well with lid",
+    "short tabletop unit"
+   ],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "trees",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 5.6,
+    "camera": "static",
+    "framing": "wide",
+    "action": "tall white unit beside sectional, couple reading behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 5.6,
+    "end": 17.2,
+    "camera": "static",
+    "framing": "medium",
+    "action": "unit in foreground, woman reading on sofa soft focus",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 17.2,
+    "end": 36.5,
+    "camera": "static",
+    "framing": "wide",
+    "action": "couple on sofa reading/relaxing, tall unit at sofa end, stone pillar, high windows",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 36.5,
+    "end": 77.7,
+    "camera": "static",
+    "framing": "wide",
+    "action": "short tabletop unit on coffee table, couple on sofa; man smiles at 60s",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 77.7,
+    "end": 104.9,
+    "camera": "static",
+    "framing": "close",
+    "action": "over-shoulder of woman/man looking at unit, stone fireplace behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 104.9,
+    "end": 146.3,
+    "camera": "static",
+    "framing": "medium",
+    "action": "tabletop unit on coffee table, woman reading, plants",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 146.3,
+    "end": 171.1,
+    "camera": "static",
+    "framing": "close",
+    "action": "woman smiling, eyes closed, enjoying breeze (window with trees)",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 171.1,
+    "end": 192.2,
+    "camera": "static",
+    "framing": "close",
+    "action": "hands holding book on lap, base of unit and cord in foreground",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 192.2,
+    "end": 217.0,
+    "camera": "static",
+    "framing": "medium",
+    "action": "unit by sofa, woman leaning in; close of pole ring/display",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 217.0,
+    "end": 240.1,
+    "camera": "static",
+    "framing": "close",
+    "action": "unit with man and woman in background, cage close-up",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 240.1,
+    "end": 265.6,
+    "camera": "handheld",
+    "framing": "close",
+    "action": "woman reading next to unit; hands press top cap, touch display, fingers through cage slats",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 265.6,
+    "end": 295.2,
+    "camera": "static",
+    "framing": "wide",
+    "action": "wide room with huge windows, pool and mountain view, couple on sofa, unit by coffee table",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 295.2,
+    "end": 327.5,
+    "camera": "static",
+    "framing": "macro",
+    "action": "pole close-ups: lavender LED ring, display F1/F3/F9 with Spin360 logo",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 327.5,
+    "end": 338.0,
+    "camera": "static",
+    "framing": "macro",
+    "action": "hand lifts round lid off top-cap scent well, pool and mountains blurred behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 338.0,
+    "end": 459.4,
+    "camera": "static",
+    "framing": "close",
+    "action": "not shown on sheets - unclear",
+    "on_screen_text": "",
+    "audio_hint": ""
+   }
+  ],
+  "best": {
+   "start": 265.6,
+   "end": 295.2,
+   "why": "wide luxury living room with pool/mountain view and unit in scene - top brand look"
+  },
+  "beats": [
+   "room_aesthetic",
+   "product_hero",
+   "lifestyle_reading_relaxing",
+   "control_display",
+   "scent_tray",
+   "airflow_demo_hand",
+   "reaction_face"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "polished hero/display macros; little action for a scroll-stop"
+  },
+  "brand_fit": {
+   "score": 3,
+   "why": "airy luxe home, stone, big windows, view, calm couple"
+  },
+  "quality": {
+   "score": 3,
+   "issues": [
+    "vertical crop risk"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "short tabletop unit is the subject in several shots (36-146s); last ~120s not covered by sheets",
+  "tags": [
+   "luxury living room",
+   "couple reading on sofa",
+   "tabletop spin360",
+   "display close-up F1 F3 F9",
+   "LED ring macro",
+   "scent well lid",
+   "pool mountain view",
+   "woman enjoys breeze eyes closed",
+   "hand through cage slats"
+  ]
+ },
+ {
+  "id": "78bbf403-af10-437b-a392-4fc6e68eff19",
+  "kind": "ugc_broll",
+  "summary": "Professional bedroom shoot: couple sleeping, waking, stretching and reading in bed beside a tall white Spin360 with blue ring; audio is crew direction and chit-chat.",
+  "people": [
+   {
+    "who": "woman, 50s, long dark brown hair",
+    "wardrobe": "grey long-sleeve henley + grey lounge pants",
+    "role": "actor"
+   },
+   {
+    "who": "man, 40s, bald",
+    "wardrobe": "teal tee",
+    "role": "actor"
+   }
+  ],
+  "product": {
+   "visible": "full",
+   "colourway": "white",
+   "on": true,
+   "details_seen": [
+    "cage",
+    "gold halo",
+    "blue ring",
+    "display",
+    "base",
+    "under-head blue glow"
+   ],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "bedroom",
+   "time": "day",
+   "light": "mixed",
+   "view": "trees",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 4.8,
+    "camera": "static",
+    "framing": "wide",
+    "action": "dawn bedroom, woman asleep, unit by window with conifers",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 4.8,
+    "end": 24.6,
+    "camera": "static",
+    "framing": "wide",
+    "action": "unit (blue ring) beside bed, woman asleep under white ribbed blanket; close of sleeping face",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 24.6,
+    "end": 44.8,
+    "camera": "static",
+    "framing": "medium",
+    "action": "dim early-morning angles of sleeper and unit through palm leaves",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 44.8,
+    "end": 53.3,
+    "camera": "static",
+    "framing": "wide",
+    "action": "woman sits on bed edge facing big window, stretches arms up",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 53.3,
+    "end": 75.2,
+    "camera": "static",
+    "framing": "medium",
+    "action": "woman wakes, sits up smiling, content, in bed",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 75.2,
+    "end": 100.2,
+    "camera": "static",
+    "framing": "medium",
+    "action": "man in bed behind unit; sits up smiling, stretches",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 100.2,
+    "end": 116.9,
+    "camera": "static",
+    "framing": "close",
+    "action": "unit head and bright blue ring in dark, man asleep behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 116.9,
+    "end": 138.4,
+    "camera": "static",
+    "framing": "medium",
+    "action": "woman reading red book in bed, unit beside her",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 138.4,
+    "end": 186.6,
+    "camera": "static",
+    "framing": "close",
+    "action": "unit head and ring through palm fronds, blue under-glow",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 186.6,
+    "end": 227.7,
+    "camera": "static",
+    "framing": "medium",
+    "action": "woman sits on bed, stretches arms overhead, smiles",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 227.7,
+    "end": 253.9,
+    "camera": "static",
+    "framing": "wide",
+    "action": "woman from behind on bed facing window with pine view, stretches; man asleep foreground",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 253.9,
+    "end": 277.5,
+    "camera": "static",
+    "framing": "medium",
+    "action": "couple in bed: woman reads red book, man scrolls phone, unit with palm behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 277.5,
+    "end": 303.3,
+    "camera": "static",
+    "framing": "close",
+    "action": "woman reading in bed next to unit head",
+    "on_screen_text": "",
+    "audio_hint": ""
+   }
+  ],
+  "best": {
+   "start": 227.7,
+   "end": 253.9,
+   "why": "woman stretching at window with pine view, unit glowing - waking refreshed"
+  },
+  "beats": [
+   "sleeping_comfort",
+   "waking_refreshed",
+   "lifestyle_reading_relaxing",
+   "product_hero",
+   "room_aesthetic",
+   "reaction_face"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "clean wake-up and stretch moments; slow paced"
+  },
+  "brand_fit": {
+   "score": 3,
+   "why": "calm luxe bedroom, big window to pines, soft light"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "dark",
+    "vertical crop risk"
+   ]
+  },
+  "status": "OK",
+  "status_why": "audio is crew chatter, not usable as voice; mute and use visuals",
+  "tags": [
+   "couple in bed",
+   "woman wakes up stretching",
+   "bed by window pine view",
+   "reading in bed",
+   "man on phone in bed",
+   "blue LED ring glow",
+   "palm plant",
+   "dawn bedroom",
+   "white ribbed blanket"
+  ],
+  "takes": [
+   {
+    "start": 0,
+    "line": "back there, but be early morning. Complete blackout.",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 68,
+    "line": "Awesome. Great. Love it. That was great. Nice.",
+    "delivery": "clean",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 86,
+    "line": "All right, and action. Nice. Awesome. All right,",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 99,
+    "line": "let's do that again. We're gonna have a",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "close",
+    "keep": false
+   },
+   {
+    "start": 129,
+    "line": "lot of shots to work with now. Do you want any lights…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 138,
+    "line": "50 is not old anymore. Like 60…",
+    "delivery": "clean",
+    "energy": 1,
+    "framing": "close",
+    "keep": false
+   },
+   {
+    "start": 160,
+    "line": "But I think he's home because he had finals…",
+    "delivery": "cut off",
+    "energy": 1,
+    "framing": "close",
+    "keep": false
+   },
+   {
+    "start": 186,
+    "line": "doing some stretches. One, go. Awesome.",
+    "delivery": "clean",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 209,
+    "line": "we have a bunch, same thing. Yeah, keep",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 227,
+    "line": "doing that for",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 237,
+    "line": "more. Awesome. Yeah, keep going for a few.",
+    "delivery": "clean",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 245.8,
+    "line": "3, 2, 1. Nice.",
+    "delivery": "clean",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 253.6,
+    "line": "Mere Christianity. Is better. Yeah, written by him.",
+    "delivery": "clean",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 259.6,
+    "line": "One of the integral giants of the 20th century…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   }
+  ],
+  "best_takes": [],
+  "speaker": {
+   "look": "off-camera director/crew and actors chatting",
+   "setting": "bedroom set",
+   "props": "red book, phone"
+  }
+ },
+ {
+  "id": "d5361320-a431-45e2-b6a9-bd9590171364",
+  "kind": "ai_generated",
+  "summary": "1-second AI talking-head fragment of a brunette woman in a taupe cardigan saying 'And annoyingly,'.",
+  "people": [
+   {
+    "who": "woman, late 20s-30s, long brown hair (AI Kylie lookalike)",
+    "role": "creator",
+    "wardrobe": "taupe cardigan, white tee"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 1.0,
+    "camera": "selfie",
+    "framing": "medium",
+    "action": "woman on white couch talks to camera with hand gestures, black slat wall and abstract art behind",
+    "on_screen_text": "",
+    "audio_hint": "VO talking"
+   }
+  ],
+  "best": {
+   "start": 0.0,
+   "end": 1.0,
+   "why": "only fragment"
+  },
+  "beats": [
+   "talking_to_camera"
+  ],
+  "hook_potential": {
+   "score": 0,
+   "why": "1s fragment"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "warm clean modern room, no product"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "AI artefacts"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "AI lookalike of Kylie; 1s fragment only",
+  "tags": [
+   "AI talking head",
+   "Kylie lookalike",
+   "black slat wall",
+   "white couch",
+   "selfie talking",
+   "and annoyingly",
+   "transition line"
+  ],
+  "takes": [
+   {
+    "start": 0.3,
+    "line": "And annoyingly,",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.3
+  ],
+  "speaker": {
+   "look": "long brown hair, taupe cardigan, white tee",
+   "setting": "living room, black slat wall, abstract line art, brass picture lights",
+   "props": "none"
+  }
+ },
+ {
+  "id": "f9802123-c535-41b3-9c1d-17867086988d",
+  "kind": "ai_generated",
+  "summary": "AI talking head: brunette in taupe cardigan says 'Spin 360, it claims it can recreate that soft outdoor glow.'",
+  "people": [
+   {
+    "who": "woman, late 20s-30s, long brown hair (AI Kylie lookalike)",
+    "role": "creator",
+    "wardrobe": "taupe cardigan, white tee"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 4.3,
+    "camera": "selfie",
+    "framing": "medium",
+    "action": "woman on white couch talks to camera with hand gestures, black slat wall and abstract art behind",
+    "on_screen_text": "",
+    "audio_hint": "VO talking"
+   }
+  ],
+  "best": {
+   "start": 0.0,
+   "end": 4.3,
+   "why": "full line, clean"
+  },
+  "beats": [
+   "talking_to_camera"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "relatable hook line"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "warm clean modern room, no product"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "AI artefacts"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "AI lookalike of Kylie; claim: \"it claims it can recreate that soft outdoor glow\" (says 'glow' not 'breeze')",
+  "tags": [
+   "AI talking head",
+   "Kylie lookalike",
+   "black slat wall",
+   "white couch",
+   "selfie talking",
+   "spin 360 claims",
+   "soft outdoor glow"
+  ],
+  "takes": [
+   {
+    "start": 0.1,
+    "line": "Spin 360, it claims it can recreate that soft outdoor glow.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.1
+  ],
+  "speaker": {
+   "look": "long brown hair, taupe cardigan, white tee",
+   "setting": "living room, black slat wall, abstract line art, brass picture lights",
+   "props": "none"
+  }
+ },
+ {
+  "id": "ed08f12d-08b7-4e7a-aaf8-8a861639adf5",
+  "kind": "ai_generated",
+  "summary": "AI talking head: brunette in red cardigan delivers the 'quiet summer evening, air just moving enough' hook.",
+  "people": [
+   {
+    "who": "woman, late 20s-30s, long brown hair (AI Kylie lookalike)",
+    "role": "creator",
+    "wardrobe": "red cardigan, white tee"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 7.3,
+    "camera": "selfie",
+    "framing": "medium",
+    "action": "woman on white couch talks to camera with hand gestures, black slat wall and abstract art behind",
+    "on_screen_text": "",
+    "audio_hint": "VO talking"
+   }
+  ],
+  "best": {
+   "start": 0.8,
+   "end": 7.3,
+   "why": "complete relatable hook, warm smile"
+  },
+  "beats": [
+   "talking_to_camera"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "relatable hook line"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "warm clean modern room, no product"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "AI artefacts"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "AI lookalike of Kylie; red-cardigan variant",
+  "tags": [
+   "AI talking head",
+   "Kylie lookalike",
+   "black slat wall",
+   "white couch",
+   "selfie talking",
+   "quiet summer evening hook",
+   "red cardigan",
+   "relaxed smile"
+  ],
+  "takes": [
+   {
+    "start": 0.8,
+    "line": "You know what, when you're outside on a quiet summer evening…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.8
+  ],
+  "speaker": {
+   "look": "long brown hair, red cardigan, white tee",
+   "setting": "living room, black slat wall, abstract line art, brass picture lights",
+   "props": "none"
+  }
+ },
+ {
+  "id": "398e4a0d-232e-4433-a2dc-3bf800f64f95",
+  "kind": "ai_generated",
+  "summary": "AI talking head: brunette in taupe cardigan says 'Spin 360, it claims it can recreate that soft outdoor.' with baked-in word captions; line cut off.",
+  "people": [
+   {
+    "who": "woman, late 20s-30s, long brown hair (AI Kylie lookalike)",
+    "role": "creator",
+    "wardrobe": "taupe cardigan, white tee"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 4.3,
+    "camera": "selfie",
+    "framing": "medium",
+    "action": "woman on white couch talks to camera with hand gestures, black slat wall and abstract art behind",
+    "on_screen_text": "Spin / it claims / recreate / that soft outdoor",
+    "audio_hint": "VO talking"
+   }
+  ],
+  "best": {
+   "start": 0.0,
+   "end": 4.3,
+   "why": "only take; ends mid-sentence"
+  },
+  "beats": [
+   "talking_to_camera"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "relatable hook line"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "warm clean modern room, no product"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "AI artefacts",
+    "baked-in text"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "AI lookalike of Kylie; baked-in captions; line cut off before 'breeze'; claim: \"it claims it can recreate that soft outdoor\"",
+  "tags": [
+   "AI talking head",
+   "Kylie lookalike",
+   "black slat wall",
+   "white couch",
+   "selfie talking",
+   "baked captions",
+   "spin 360 claims"
+  ],
+  "takes": [
+   {
+    "start": 0.1,
+    "line": "Spin 360, it claims it can recreate that soft outdoor.",
+    "delivery": "cut off",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   }
+  ],
+  "best_takes": [],
+  "speaker": {
+   "look": "long brown hair, taupe cardigan, white tee",
+   "setting": "living room, black slat wall, abstract line art, brass picture lights",
+   "props": "none"
+  }
+ },
+ {
+  "id": "8dd43760-d27e-4b47-999e-bf96da4de407",
+  "kind": "ugc_broll",
+  "summary": "Avery in a black jumpsuit picks up a white Spin360 by the pole in a sunny bedroom and tilts it toward camera.",
+  "people": [
+   {
+    "who": "woman, 30s, dark brown hair",
+    "role": "creator",
+    "wardrobe": "black sleeveless jumpsuit, barefoot, ponytail"
+   }
+  ],
+  "product": {
+   "visible": "full",
+   "colourway": "white",
+   "on": false,
+   "details_seen": [
+    "cage",
+    "gold halo",
+    "display",
+    "base"
+   ],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "bedroom",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "camera": "handheld",
+    "framing": "wide",
+    "action": "she lifts the unit off the floor, tilts it, shows head to camera; last frame blurred as it swings toward lens",
+    "on_screen_text": "",
+    "audio_hint": ""
+   }
+  ],
+  "best": {
+   "start": 1.0,
+   "end": 4.3,
+   "why": "clear view of whole unit being carried - shows it is light"
+  },
+  "beats": [
+   "product_hero",
+   "assembly"
+  ],
+  "hook_potential": {
+   "score": 1,
+   "why": "shows portability; no hook"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "sunny bedroom, toile bedding, slight harsh sun"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "blurry"
+   ]
+  },
+  "status": "OK",
+  "status_why": "spoken line 'I can't understand that.' is off-topic - mute",
+  "tags": [
+   "woman lifts fan",
+   "carrying fan",
+   "lightweight",
+   "white unit",
+   "bedroom",
+   "black jumpsuit"
+  ],
+  "takes": [
+   {
+    "start": 0,
+    "line": "I can't understand that.",
+    "delivery": "clean",
+    "energy": 1,
+    "framing": "medium",
+    "keep": false
+   }
+  ],
+  "best_takes": [],
+  "speaker": {
+   "look": "dark ponytail, black jumpsuit, gold jewellery",
+   "setting": "bedroom with toile duvet, blue lamps",
+   "props": "white Spin360"
+  }
+ },
+ {
+  "id": "5f0f9826-c24f-469c-9fda-ad7bcc8b19df",
+  "kind": "ugc_talking_head",
+  "summary": "Avery on a sunroom couch says 'Last summer, I hit a wall.' then looks away.",
+  "people": [
+   {
+    "who": "woman, 30s, dark brown hair",
+    "role": "creator",
+    "wardrobe": "black short-sleeve button shirt, white shorts, tan knotted headband"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "trees",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 3.8,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Avery on a sunroom couch says 'Last summer, I hit a wall.' then looks away.",
+    "on_screen_text": "",
+    "audio_hint": "talking"
+   }
+  ],
+  "best": {
+   "start": 0.3,
+   "end": 3.8,
+   "why": "line delivered before she looks away at ~4s"
+  },
+  "beats": [
+   "talking_to_camera",
+   "hot_sleeper_problem"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "punchy struggle opener"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright natural light, homey"
+  },
+  "quality": {
+   "score": 3,
+   "issues": []
+  },
+  "status": "OK",
+  "status_why": "",
+  "tags": [
+   "last summer I hit a wall",
+   "hook",
+   "sunroom couch",
+   "headband",
+   "tree view windows"
+  ],
+  "takes": [
+   {
+    "start": 0.5,
+    "line": "Last summer, I hit a wall.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.5
+  ],
+  "speaker": {
+   "look": "dark brown hair, black short-sleeve button shirt, white shorts, tan knotted headband",
+   "setting": "grey couch, floral pillows, big windows onto green trees",
+   "props": "none"
+  }
+ },
+ {
+  "id": "e61ee665-52a9-4a59-b1ea-4b9b31872b89",
+  "kind": "ugc_talking_head",
+  "summary": "Avery on a sunroom couch says 'The moment my friend turned this on, I knew I was taking it home.'",
+  "people": [
+   {
+    "who": "woman, 30s, dark brown hair",
+    "role": "creator",
+    "wardrobe": "black short-sleeve button shirt, white shorts, tan knotted headband"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "trees",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Avery on a sunroom couch says 'The moment my friend turned this on, I knew I was taking it home.'",
+    "on_screen_text": "",
+    "audio_hint": "talking"
+   }
+  ],
+  "best": {
+   "start": 0.0,
+   "end": 4.0,
+   "why": "line done before she glances away"
+  },
+  "beats": [
+   "talking_to_camera",
+   "turning_on"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "desire/word-of-mouth hook"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright natural light, homey"
+  },
+  "quality": {
+   "score": 3,
+   "issues": []
+  },
+  "status": "OK",
+  "status_why": "",
+  "tags": [
+   "friend turned it on",
+   "taking it home",
+   "hook",
+   "sunroom couch"
+  ],
+  "takes": [
+   {
+    "start": 0.0,
+    "line": "The moment my friend turned this on, I knew I was taking it home.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.0
+  ],
+  "speaker": {
+   "look": "dark brown hair, black short-sleeve button shirt, white shorts, tan knotted headband",
+   "setting": "grey couch, floral pillows, big windows onto green trees",
+   "props": "none"
+  }
+ },
+ {
+  "id": "3167f633-671a-4377-898a-498e40954de6",
+  "kind": "ugc_talking_head",
+  "summary": "Avery sitting on a bed says 'This room used to be unbearable in the summer. Now it's my favorite place in the house.'",
+  "people": [
+   {
+    "who": "woman, 30s, dark brown hair",
+    "role": "creator",
+    "wardrobe": "lilac gauze short-sleeve dress, gold necklace"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "bedroom",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 7.8,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Avery sitting on a bed says 'This room used to be unbearable in the summer. Now it's my favorite place in the house.'",
+    "on_screen_text": "",
+    "audio_hint": "talking"
+   }
+  ],
+  "best": {
+   "start": 0.5,
+   "end": 7.8,
+   "why": "whole line, eyes-closed expressive start"
+  },
+  "beats": [
+   "talking_to_camera",
+   "before_after",
+   "hot_sleeper_problem"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "before/after room hook"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright natural light, homey"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "blurry"
+   ]
+  },
+  "status": "OK",
+  "status_why": "ends with her leaning to camera (blur at 8.2s)",
+  "tags": [
+   "room unbearable in summer",
+   "favorite place in the house",
+   "bedroom",
+   "lilac dress"
+  ],
+  "takes": [
+   {
+    "start": 0.7,
+    "line": "This room used to be unbearable in the summer. Now it's my favorite place in the house.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.7
+  ],
+  "speaker": {
+   "look": "dark brown hair, lilac gauze short-sleeve dress, gold necklace",
+   "setting": "bed with floral duvet, grey walls, navy lamps",
+   "props": "none"
+  }
+ },
+ {
+  "id": "426746a4-1cbb-4bc9-9285-a8d7056a2a66",
+  "kind": "ugc_talking_head",
+  "summary": "Avery sitting on a bed says 'I've never felt a room cool down this fast, and I'm a hot sleeper.'",
+  "people": [
+   {
+    "who": "woman, 30s, dark brown hair",
+    "role": "creator",
+    "wardrobe": "lilac gauze short-sleeve dress, gold necklace"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "bedroom",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 5.6,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Avery sitting on a bed says 'I've never felt a room cool down this fast, and I'm a hot sleeper.'",
+    "on_screen_text": "",
+    "audio_hint": "talking"
+   }
+  ],
+  "best": {
+   "start": 0.0,
+   "end": 5.6,
+   "why": "energetic full line"
+  },
+  "beats": [
+   "talking_to_camera",
+   "hot_sleeper_problem"
+  ],
+  "hook_potential": {
+   "score": 3,
+   "why": "strong hot-sleeper hook with gestures"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright natural light, homey"
+  },
+  "quality": {
+   "score": 3,
+   "issues": []
+  },
+  "status": "CAUTION",
+  "status_why": "superlative claim: \"I've never felt a room cool down this fast\"",
+  "tags": [
+   "hot sleeper",
+   "room cools down fast",
+   "hook",
+   "bedroom",
+   "lilac dress"
+  ],
+  "takes": [
+   {
+    "start": 0.2,
+    "line": "I've never felt a room cool down this fast, and I'm a hot sleeper.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.2
+  ],
+  "speaker": {
+   "look": "dark brown hair, lilac gauze short-sleeve dress, gold necklace",
+   "setting": "bed with floral duvet, grey walls, navy lamps",
+   "props": "none"
+  }
+ },
+ {
+  "id": "b214830d-8bce-47f3-9994-87808340575d",
+  "kind": "ugc_talking_head",
+  "summary": "Avery on a bed reads from a script page, then says 'The first night I turned it on, the room felt completely different.'",
+  "people": [
+   {
+    "who": "woman, 30s, dark brown hair",
+    "role": "creator",
+    "wardrobe": "lilac gauze short-sleeve dress, gold necklace"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "bedroom",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 8.3,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Avery on a bed reads from a script page, then says 'The first night I turned it on, the room felt completely different.'",
+    "on_screen_text": "",
+    "audio_hint": "talking"
+   }
+  ],
+  "best": {
+   "start": 3.3,
+   "end": 8.3,
+   "why": "after script paper is put down"
+  },
+  "beats": [
+   "talking_to_camera",
+   "turning_on"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "first-night transformation line"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "bright natural light, homey"
+  },
+  "quality": {
+   "score": 2,
+   "issues": []
+  },
+  "status": "OK",
+  "status_why": "0-3s she is reading the script paper - trim",
+  "tags": [
+   "first night",
+   "room felt different",
+   "bedroom",
+   "script paper visible"
+  ],
+  "takes": [
+   {
+    "start": 3.7,
+    "line": "The first night I turned it on, the room felt completely different.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   3.7
+  ],
+  "speaker": {
+   "look": "dark brown hair, lilac gauze short-sleeve dress, gold necklace",
+   "setting": "bed with floral duvet, grey walls, navy lamps",
+   "props": "none"
+  }
+ },
+ {
+  "id": "35629bb2-7f67-4f18-98b9-b267c0ef066d",
+  "kind": "ugc_talking_head",
+  "summary": "Michael's 'Home Upgrades That Are Actually Worth It' living-room script (take 1), single continuous shot with several pickup restarts.",
+  "people": [
+   {
+    "who": "man, 30s, dark hair (Michael)",
+    "wardrobe": "black button-down shirt, sleeves rolled",
+    "role": "creator"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "mixed",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 144.2,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Michael talks to camera continuously with hand gestures",
+    "on_screen_text": "",
+    "audio_hint": "talking"
+   }
+  ],
+  "best": {
+   "start": 0.3,
+   "end": 4.0,
+   "why": "strong hook line"
+  },
+  "beats": [
+   "talking_to_camera",
+   "hot_sleeper_problem",
+   "family_kids",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 3,
+   "why": "'one of the best home upgrades we've ever made' opener"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "tidy modern room, no product in frame"
+  },
+  "quality": {
+   "score": 3,
+   "issues": []
+  },
+  "status": "CAUTION",
+  "status_why": "superlatives: \"genuinely one of the best home upgrades we've ever made\", \"this is the best thing that we have added\"; \"It's not loud\"",
+  "tags": [
+   "home upgrades worth it",
+   "greenhouse living room",
+   "movie night",
+   "not harsh stream",
+   "Michael living room",
+   "series intro"
+  ],
+  "takes": [
+   {
+    "start": 0.3,
+    "line": "Okay, this is genuinely one of the best home upgrades…",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 4.1,
+    "line": "If you're new here, hey, I'm Michael…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 18.2,
+    "line": "Because here's the thing, our living room is where we spend…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 28.5,
+    "line": "But in the summer, it turns into a greenhouse. It's where the kids play…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 37.4,
+    "line": "But in the summer, it turns into a greenhouse. The afternoon sun…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 54.1,
+    "line": "So when we came across Spin 360, I honestly didn't expect much…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 63.8,
+    "line": "But the moment we turned it on, I was like, okay, wait…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 69.1,
+    "line": "It doesn't blast you with a harsh stream…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 84.6,
+    "line": "Like the whole space can finally breathe… comfortable everywhere.",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 96.2,
+    "line": "The kids stop complaining about being too hot during movie night…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 108.3,
+    "line": "The air just feels softer, lighter, like you can finally exhale.",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 113.4,
+    "line": "And I'm not gonna lie, I was skeptical at first…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 131.8,
+    "line": "So if you're looking for home upgrades that are actually worth it…",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.3,
+   4.1,
+   18.2,
+   37.4,
+   54.1,
+   69.1,
+   96.2,
+   113.4,
+   131.8
+  ],
+  "speaker": {
+   "look": "dark hair, 30s, black button-down",
+   "setting": "living room, white walls, TV, glowing floor lamps, wood sideboard",
+   "props": "none"
+  }
+ },
+ {
+  "id": "50dc9363-44b4-4239-8e0e-f1100c20d0c6",
+  "kind": "ugc_talking_head",
+  "summary": "Michael's 'Home Upgrades That Are Actually Worth It' script (take 2) in the same living room, cleaner run-through.",
+  "people": [
+   {
+    "who": "man, 30s, dark hair (Michael)",
+    "wardrobe": "black button-down shirt, sleeves rolled",
+    "role": "creator"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "mixed",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 128.2,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Michael talks to camera continuously with hand gestures",
+    "on_screen_text": "",
+    "audio_hint": "talking"
+   }
+  ],
+  "best": {
+   "start": 51.2,
+   "end": 81.5,
+   "why": "core product explanation delivered cleanly"
+  },
+  "beats": [
+   "talking_to_camera",
+   "hot_sleeper_problem",
+   "family_kids",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 3,
+   "why": "same strong opener, smoother run"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "tidy modern room, no product in frame"
+  },
+  "quality": {
+   "score": 3,
+   "issues": []
+  },
+  "status": "CAUTION",
+  "status_why": "superlatives: \"genuinely one of the best home upgrades we've ever made\", \"this is the best thing we've added all summer\", \"gets an A+ in my book\"",
+  "tags": [
+   "home upgrades worth it",
+   "greenhouse living room",
+   "movie night",
+   "skeptical at first",
+   "Michael living room",
+   "cleaner take"
+  ],
+  "takes": [
+   {
+    "start": 0.4,
+    "line": "Okay, this is genuinely one of the best home upgrades…",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 4.8,
+    "line": "If you're new here, hey, I'm Michael, and welcome back…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 18.9,
+    "line": "Because here's the thing, our living room is where we spend all our time…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 40.0,
+    "line": "We tried everything. We tried everything. Blackout curtains…",
+    "delivery": "stumble",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 51.2,
+    "line": "So when we came across Spin 360, I honestly didn't expect much…",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 81.5,
+    "line": "The kids stopped complaining about being too hot during movie night…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 95.7,
+    "line": "And I'm not going to lie, I was skeptical at first…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 105.6,
+    "line": "This house has completely changed how summer feels…A+ in my book.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 114.9,
+    "line": "So if you're looking for home upgrades that are actually worth it…",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.4,
+   4.8,
+   18.9,
+   40.0,
+   51.2,
+   81.5,
+   95.7,
+   105.6,
+   114.9
+  ],
+  "speaker": {
+   "look": "dark hair, 30s, black button-down",
+   "setting": "living room, white walls, colourful painting, glowing floor lamps, wood sideboard",
+   "props": "none"
+  }
+ },
+ {
+  "id": "df5119fb-73d0-48d2-93d3-447c045c913a",
+  "kind": "ugc_talking_head",
+  "summary": "Michael's reverse-psychology 'do not fall for this fan, it's a scam' script in a bright bedroom.",
+  "people": [
+   {
+    "who": "man, 30s, dark hair (Michael)",
+    "wardrobe": "black button-down shirt, sleeves rolled",
+    "role": "creator"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "bedroom",
+   "time": "day",
+   "light": "bright natural",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 115.0,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Michael talks to camera continuously with hand gestures",
+    "on_screen_text": "",
+    "audio_hint": "talking"
+   }
+  ],
+  "best": {
+   "start": 0.3,
+   "end": 5.5,
+   "why": "scroll-stopping scam hook"
+  },
+  "beats": [
+   "talking_to_camera",
+   "noise_problem",
+   "quiet_demo",
+   "scent_tray",
+   "room_aesthetic",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 3,
+   "why": "'do not fall for this fan, this thing is a scam' pattern-interrupt"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "tidy modern room, no product in frame"
+  },
+  "quality": {
+   "score": 3,
+   "issues": []
+  },
+  "status": "CAUTION",
+  "status_why": "'scam' framing must be clearly ironic; claims: \"ridiculously quiet\", \"pulls air in from the top and the bottom\", \"Traffic outside? Less noticeable.\"",
+  "tags": [
+   "scam hook",
+   "reverse psychology",
+   "do not fall for this",
+   "ridiculously quiet",
+   "scent pods",
+   "put-together man",
+   "Michael bedroom"
+  ],
+  "takes": [
+   {
+    "start": 0.3,
+    "line": "Okay, do not fall for this fan. This thing is a scam.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 5.7,
+    "line": "First, Spin 360 claims it can recreate that soft outdoor breeze…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 21.9,
+    "line": "Then I found out it pulls air in from the top and the bottom…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 34.2,
+    "line": "It feels completely different. The air around— the air around the bed…",
+    "delivery": "stumble",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 49.8,
+    "line": "Then there's the sound. At the lower speeds, it's ridiculously quiet…",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 61.1,
+    "line": "At this point, I'm getting irritated because… scent pods.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 69.8,
+    "line": "And within a few minutes, my room goes from…a very put-together man…",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 78.9,
+    "line": "Which brings me to the actual scam, calling Spin 360 a fan…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 103.7,
+    "line": "So seriously, do not fall for it…Honestly, very misleading.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.3,
+   5.7,
+   21.9,
+   34.2,
+   49.8,
+   61.1,
+   69.8,
+   78.9,
+   103.7
+  ],
+  "speaker": {
+   "look": "dark hair, 30s, black button-down",
+   "setting": "bedroom, navy curtains, window, chunky knit throw on bed, red/white checked rug",
+   "props": "none"
+  }
+ },
+ {
+  "id": "238b8ff3-e8ef-45b7-a70f-506fc305efed",
+  "kind": "ugc_talking_head",
+  "summary": "Michael seated on a bed tells the 'I hit a wall / slept through the night / energy for my kids' story, red LED glow behind.",
+  "people": [
+   {
+    "who": "man, 30s, dark hair (Michael)",
+    "wardrobe": "black button-down shirt, sleeves rolled",
+    "role": "creator"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "bedroom",
+   "time": "day",
+   "light": "mixed",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 133.3,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Michael talks to camera continuously with hand gestures",
+    "on_screen_text": "",
+    "audio_hint": "talking"
+   }
+  ],
+  "best": {
+   "start": 94.5,
+   "end": 114.4,
+   "why": "sleep payoff and energy line"
+  },
+  "beats": [
+   "talking_to_camera",
+   "hot_sleeper_problem",
+   "sweaty_discomfort",
+   "sleeping_comfort",
+   "waking_refreshed",
+   "family_kids",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "story opener, slower than Script 2"
+  },
+  "brand_fit": {
+   "score": 2,
+   "why": "tidy modern room, no product in frame"
+  },
+  "quality": {
+   "score": 3,
+   "issues": []
+  },
+  "status": "CAUTION",
+  "status_why": "sleep/energy claims: \"I slept through the night. No tossing, no turning, no waking up sweating\", \"It cooled the whole room down\", \"I had actual energy for my kids\"",
+  "tags": [
+   "slept through the night",
+   "energy for my kids",
+   "hit a wall",
+   "woke before alarm",
+   "red glow bedroom",
+   "Michael seated"
+  ],
+  "takes": [
+   {
+    "start": 0.3,
+    "line": "Last summer, I hit a wall.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 4.2,
+    "line": "The moment my friend turned this on, I knew I was taking it home.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 8.5,
+    "line": "I remember one morning specifically. My alarm went off…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 34.4,
+    "line": "But I was running on empty, and I knew exactly why…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 55.4,
+    "line": "about a month ago, a friend showed me something…Spin 360…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 71.7,
+    "line": "That first night, I turned it on, got into bed, and just exhaled…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 94.5,
+    "line": "I slept through the night. No tossing, no turning…",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 111.8,
+    "line": "I had actual energy for my kids.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 114.4,
+    "line": "I didn't realize how much the heat was draining me…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   },
+   {
+    "start": 129.8,
+    "line": "And that's exactly what Spin 360 does.",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "medium",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.3,
+   4.2,
+   8.5,
+   34.4,
+   55.4,
+   71.7,
+   94.5,
+   111.8,
+   114.4,
+   129.8
+  ],
+  "speaker": {
+   "look": "dark hair, 30s, black button-down",
+   "setting": "bedroom, red pillows, chunky knit throw, sculpture photo art, red LED wall glow",
+   "props": "none"
+  }
+ }
+]

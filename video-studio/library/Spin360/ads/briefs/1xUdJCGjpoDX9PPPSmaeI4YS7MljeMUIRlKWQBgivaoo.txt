@@ -1,0 +1,229 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_5Reasons_MomsBabyBedtime
+Author: Gabriel
+Editor: Chose
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID:Spin360_5Reasons_MomsBabyBedtime
+* Ad Type: Ideation
+* Sizes Needed: 9x16
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 Video
+
+
+________________
+
+
+[2] Creative Direction
+Watch: Creating Baby Fan Ad Hooks and Scripts
+
+
+Spin360_5Reasons_WomenPositive_V3_Hook_8.mp4
+
+
+________________
+
+
+[3] Script
+Hooks: 
+1- Five reasons moms won’t do baby bedtime without this fan anymore. 
+2- Five reasons moms are loving this fan for their babies.
+3 -Five reasons babies seem to love this fan.
+4- Five reasons moms are loving this fan.
+5 - [DAVID]
+When someone takes a fan and waves it like this... that's what we're doing. We just took that and turned it into a full circle.
+[VO FEM]
+That’s David Patrick. And if you’re a mom, this is the fan he built to make baby bedtime feel completely different.
+Here are five reasons why.
+
+
+6 -Text on screen: “5 YEARS AGO, THIS WAS JUST A PROTOTYPE. “
+That’s David Patrick. And for moms, the fan he built makes baby bedtime feel completely different.
+Here are five reasons why.
+
+
+7 - Five reasons parents are using Spin360 instead of blasting AC in the nursery 
+
+
+
+
+
+
+Body: 
+First, it feels like the walls were removed and your baby’s crib is on a beach in Hawaii. The air just moves like it does outside. That soft breeze across their skin, making their eyes close before they even realize it. They wake up actually rested. Once you feel the difference in the room, you’re hooked.
+Second, it pulls air from above and below at the same time, mixes everything, and pushes it out 360 degrees. That means the same temperature in every corner and more fresh, moving air where they breathe. They’re gonna breathe so easy, they’ll wake up feeling like a whole new baby.
+Third, below speed five... absolute silence. Above that... the best white noise there is. That relaxing shhhhh that makes the whole room feel calm in minutes. Finally, a fan that sounds like it was made for sleep. Because it was.
+Fourth, drop a scent pod in and ten seconds later the whole room turns into a spa. Throw citronella in and the bugs disappear. This is a scent system as much as it’s a fan.
+Fifth, made by the guy who literally reinvented the wheel and did a killer Shark Tank deal with Mark Cuban, Kevin O’Leary, and Nick Woodman.
+Now he’s reinvented the fan.
+The first thousand people get a hundred dollars off.
+Come feel the difference. You’re gonna love this thing.
+
+
+
+
+
+
+ 
+________________
+[4] Shotlist / Storyboard
+
+
+HOOKS
+	HOOK
+	Script
+	Visual
+	Description
+	1
+	Five reasons moms won’t do baby bedtime without this fan anymore. 
+
+
+	  
+
+
+
+	hf_20260620_232640_337e6408-d95f-4c2d-8109-eb70604f6ee3.mp4
+	2
+	Five reasons moms are loving this fan for their babies.
+
+
+	
+
+
+
+	@video1 The fan body must remain completely still at all times. The fan does not oscillate, does not rotate side to side, and does not move as one whole unit. Only the internal blade spins.Take ONLY the fan itself from @video1 — its exact shape, proportions and finish. Do NOT reuse or carry over the background, room, set, lighting or grade from the @video1 clip; build a completely new, different environment around the fan as described. EXTREMELY REALISTIC — hyper-photorealistic, indistinguishable from genuine real-life phone footage; real human skin with natural pores, fine texture and tiny imperfections, real fabric and materials, true real-world light and air physics, documentary realism. `[0-7s]` Shot 1: shot on iPhone, native vertical 9:16, main wide camera ~26mm equivalent, handheld with subtle natural micro-movement; open already CLOSE on a real, healthy sleeping baby around six to eight months old — calm and peaceful, soft natural skin with fine texture, delicate wispy hair, gentle even breathing, a believable real infant; warm dim nursery; iPhone low-light look — HDR-lifted shadows, faint luminance noise, natural auto white balance, no film grain; the visible hook is a soft breeze lifting the finest baby hair and stirring the blanket edge as if an outdoor wind moved through the room; the fan glows soft and clearly angled behind; natural depth of field, true-to-life skin tone, high clarity. It must look 100% real, like footage someone actually filmed on their phone — absolutely no CGI, no 3D-render or AI look, no plastic or waxy skin, no over-smoothing, no uncanny faces. Sound: ambient only — quiet room tone, soft moving air. No dialogue. NO MUSIC. Total: 7s / 1 shot / 9:16 
+	3
+	Five reasons babies seem to love this fan.
+
+
+	
+
+	@video1 The fan body must remain completely still at all times. The fan does not oscillate, does not rotate side to side, and does not move as one whole unit. Only the internal blade spins.Take ONLY the fan itself from @video1 — its exact shape, proportions and finish. Do NOT reuse or carry over the background, room, set, lighting or grade from the @video1 clip; build a completely new, different environment around the fan as described. EXTREMELY REALISTIC — hyper-photorealistic, indistinguishable from genuine real-life phone footage; real human skin with natural texture and tiny imperfections, real fabric and materials, true real-world light and air physics, documentary realism. `[0-7s]` Shot 1: shot on iPhone, native vertical 9:16, main wide camera ~26mm equivalent, handheld with subtle natural micro-movement; one continuous slow push that turns a feeling — begin on a still, heavy, airless nursery, curtains hanging dead-still, a real healthy baby around six to eight months old just faintly restless in the crib, natural soft skin and wispy hair; then the fan turns and the room comes alive — the curtain lifts, the air visibly moves, the baby settles and softens; iPhone low-light look, HDR-lifted shadows, faint noise, natural color, no film grain; deep natural depth of field, high clarity; the visible CHANGE in the air is the event. It must look 100% real, like footage someone actually filmed on their phone — absolutely no CGI, no 3D-render or AI look, no plastic or waxy skin, no over-smoothing, no uncanny faces. Sound: ambient only — first a dead-still room tone, then the soft wash of moving air. No dialogue. NO MUSIC. Total: 7s / 1 shot / 9:16 
+
+
+	4
+	Five reasons moms are loving this fan.
+
+
+	
+
+
+
+	@video1 The fan body must remain completely still at all times. The fan does not oscillate, does not rotate side to side, and does not move as one whole unit. Only the internal blade spins.Take ONLY the fan itself from @video1 — its exact shape, proportions and finish. Do NOT reuse or carry over the background, room, set, lighting or grade from the @video1 clip; build a completely new, different environment around the fan as described. EXTREMELY REALISTIC — hyper-photorealistic, indistinguishable from genuine real-life phone footage; real human skin with natural pores and tiny imperfections, real materials, true real-world light and air physics, documentary realism. `[0-7s]` Shot 1: shot on iPhone, native vertical 9:16, main wide camera ~26mm equivalent, handheld with subtle natural micro-movement; a bold clear composition — the fan large in the foreground at a striking low three-quarter angle, mid-motion, visibly moving air; a real healthy baby around six to eight months old asleep and very calm in the crib just behind, natural soft skin and wispy hair, soft but clearly readable; dim warm room with one glowing practical, iPhone low-light look — HDR-lifted shadows, slight bloom on the light, faint noise, no film grain; natural depth of field, true-to-life color, high clarity. It must look 100% real, like footage someone actually filmed on their phone — absolutely no CGI, no 3D-render or AI look, no plastic or waxy skin, no over-smoothing, no uncanny faces. Sound: ambient only — quiet room tone, soft moving air. No dialogue. NO MUSIC. Total: 7s / 1 shot / 9:16 
+
+
+	5
+	[DAVID]
+When somebody takes a fan they wave it like this... that's what we're doing. We just taking that and turned it into a completely circle.
+[VO FEM]
+That’s David Patrick. And if you’re a mom, this is the fan he built to make baby bedtime feel completely different.
+Here are five reasons why.
+	  
+  
+  
+
+	Spin360_GunnaDie_VSL_Hook_6.mp4 Spin360_BedOutside_Hook_1_9x16.mp4 
+	6
+	Text on screen: “5 YEARS AGO, THIS WAS JUST A PROTOTYPE. “
+
+
+That’s David Patrick. And for moms, the fan he built makes baby bedtime feel completely different.
+Here are five reasons why.
+
+
+	  
+  
+  
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Primary text:
+👶 A fan that makes the nursery feel like Hawaii?
+Sounds dramatic…
+until you feel the air.
+That’s why moms are loving SPIN360.
+It doesn’t feel like a regular fan blasting one spot.
+It spreads a soft 360° breeze through the WHOLE room — more like fresh air moving outside than air from a fan.
+The crib feels like it’s sitting in a calm beach breeze.
+Soft.
+Fresh.
+Relaxing.
+And the whole nursery just feels better.
+🌴 feels more like a natural breeze than a fan
+🌀 pulls air from above + below, then spreads it 360°
+🔇 whisper-quiet below speed 5
+😴 soft white noise when you turn it up (babies LOVE it)
+🌿 built-in scent pod option so the room feels fresh
+🦈 created by David Patrick — the Shark Wheel inventor seen on Shark Tank
+It moves air.
+It scents the room.
+It makes bedtime feel calmer.
+If you’re setting up a nursery → this is the fan I’d add first. 👶
+First 1,000 get $100 off 👇
+Headline:
+Hawaii Breeze For The Nursery
+
+
+Five reasons moms won’t do baby bedtime without this fan anymore. 
+Five reasons moms are loving this fan.
+mother with baby 2.mp4
+
+
+
+
+
+
+
+
+1 - Make a better voiceover ( if not getting good results with with gemini tts anyway, use eleven labs)
+2- use the good quality music
+3- Add sound effects sh
+4 - Use the same idea and flow of the winning ad but with baby shots, and try to make more baby shots and better, Spin360_5Reasons_WomenPositive_V3_Hook_8.mp4 
+5-Make better hooks with the baby shots so it's easier to digest

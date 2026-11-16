@@ -1,0 +1,645 @@
+﻿0Spin360_Baby_TalkShow_2to5Hours — Editor Brief
+Watch:Brief - Spin360_Baby_TalkShow_2to5Hours
+Strategy
+
+
+# Element
+	Answer
+	1 Desire
+	A baby who finally sleeps five hours straight instead of two, and a mom who gets her life back: she sleeps, drinks her coffee while it's still hot, has the energy to play with her baby and gets to enjoy him instead of just surviving him. And a happier baby who wakes up smiling.
+Core desire: comfort (rest, peace of mind) + the joy of motherhood (enjoying the baby, feeling like herself again).
+	2 Avatar
+	Who: a mom, specifically a new mom (first or second baby, 0 to 12 months) whose baby wakes up every two hours. The baby on the talk show speaks for her baby, but every line is aimed at her.
+Experiences: up every two hours for weeks or months; tried the swaddle, the sound machine, the blackout curtains and the bedtime routine, and nothing changed.
+Behaviors: googles baby sleep at 2 a.m., buys sleep gadgets, reheats the same coffee three times, scrolls funny mom content at night.
+Emotions: exhausted, frustrated, quietly guilty, loves her baby but is running on empty; responds to humor that 'gets' her.
+Demographic: US moms, 25 to 38, baby 0 to 12 months.
+	3 Angle
+	Sealed nursery air keeps the baby waking every 2 hours
+	4 Mechanism
+	Problem: with the door and the window closed, the air in the nursery stops moving; every exhale (used-up air, CO₂) hangs around the baby's face and gets breathed back in, so the baby can't settle and wakes up.
+Solution: Spin360 pulls air in from the top and the bottom and sends it out all the way around (360°), so the air around the crib keeps moving like outside; the used-up air drifts away, every breath is fresh air, with a soft, gentle breeze and no noise.
+	5 Authority
+	In order of appearance: 1) simple breathing science: every breath out is CO₂; 2) the Nordic tradition: babies nap outside, even in the snow, and sleep almost twice as long; 3) proof inside the family: the big brother never slept more than two hours, this baby slept five the first night with Spin360; 4) social proof as a joke: Grandma says he's the easiest baby in the family.
+Authority comes from the explanation and the story, told in the baby's voice: no expert or doctor on screen.
+	6 Awareness
+	Problem-aware: she knows her baby wakes up every two hours (the hook calls it out), but she has no idea the cause is the still air in the nursery, and she has never heard of a solution like this.
+Strange fact: 'I stopped breathing my own air': a baby breathes his own exhaled air all night in a closed room.
+	7 Emotion
+	  
+
+Opens: surprise and laughter (positive): a baby on a talk show, the host's curse and beep.
+Mid: realization and worry (negative): the used-up air around the face, the 2 a.m. wake-ups; then relief as Spin360 fixes it.
+Ends: joy and tenderness with laughs (strongly positive): the 4 a.m. moment, the hot coffee, Grandma, 'She'd give you the car'.
+	8 Positioning
+	Enemy: the still, sealed air in the nursery, and the gadgets that never touch it (the AC only cools, the purifier only cleans, a regular fan blasts the baby).
+First and only: an air circulator made for babies' rooms that keeps the air around the crib gently moving, like outside, without ever blowing on the baby.
+	Production notes
+Format: Vertical 9:16, about 3:12. A baby is the guest on a late-night talk show and tells the whole story to the host. Two layers: the STAGE (the baby and the host talking) and the B-ROLL (cinematic scenes that illustrate what the baby says).
+The stage track: The stage is generated in Seedance 2.5 from the prompts in the Chunks tab of this doc (8 chunks, text only, no reference images). The baby and the host say the ENTIRE script on stage, so the stage audio is the master audio track of the ad. Generate Chunk 1 first and approve the baby and the host before the rest.
+How to cut: The stage alone has to hold attention: multi-camera cuts every 2 to 5 seconds (close-up, medium, two-shot, over-the-shoulder, wide, audience reactions). Lay the b-roll over the baby's voice in the explanation parts, and come back to the stage for every punchline and every host question, roughly every 20 to 30 seconds. Each row below says whether it is stage, b-roll, or b-roll then stage.
+The curse word: The host says the full word in Chunk 1. Beep it in the edit, keeping the "f" sound audible before the beep. The caption shows "f***", never the full word.
+B-roll style: Cinematic but realistic, the same look as the NordicBabies brief: a premium commercial, not animation and not UGC. Shallow depth of field, warm practical light, slow camera moves, natural film grain. Snow scenes (lines 8 and 9) use real snow footage.
+Visual language: Used-up air (CO₂) = a translucent dark-grey haze that sits still. Fresh air = soft, glowing light-blue ribbons. Problem scenes in cold blue tones, solution scenes in warm amber light. A regular fan = one harsh straight stream; Spin360 = a gentle 360° ring.
+Fixed rules: A sleeping baby is always on its back in a bare crib (fitted sheet only). Spin360 is always the white floor model, on the floor, far from the crib. Never show a fan blowing straight into a baby's face. No text inside the images; all on-screen text is added in the edit.
+How to read the images: The images are VISUAL INSPIRATION ONLY, not keyframes: do not use them in the edit. Each Scene Description can be used as the base of your generation prompt. Rows with two images need two shots. Stage rows point to the chunk and the seconds where that line is.
+Music and sound: Keep the studio sound of the stage (room tone, audience laughs and applause). Under the b-roll, soft cinematic music: cold and sparse in the problem section, warm and hopeful from the product reveal (line 15), tender at 4 a.m. (lines 25 and 26). Duck the music every time we go back to the stage.
+
+
+Reference: Chunk 1 test generation. Use this video as the quality bar for the stage: the lighting, the camera cuts, the realism and the baby's performance. You can use the shots of the baby, but the host has to be changed: he came out looking like a real, famous TV host. hf_20261006_153342_742024d7-2350-45e0-9966-561db09be98a.mp4
+Hooks
+
+
+#
+	Script
+	Visual Inspiration
+	Scene Description
+	Hook 1
+	BABY: I stopped breathing my own air. Now I sleep five hours straight instead of two, and my mom finally got her life back.
+HOST: Wait, what the f***? You were breathing your own air? [BEEP]
+BABY: Yeah bro, every single night. Let me explain.
+	  
+
+	Source: STAGE: Chunks tab, Chunk 1, 0-12s
+Cold open on the stage, no b-roll. Start straight on the close-up of the baby on the couch, then the host's double take mid-sip, then the shrug on 'Yeah bro'. Beep the host's curse word in the edit, keeping the 'f' sound. The weirdness of a baby on a talk show has to stop the scroll on its own.
+	Hook 2
+	BABY: I stopped breathing my own air. Now I sleep five hours straight instead of two, and my mom finally got her life back.
+HOST: Wait, what the f***? You were breathing your own air? [BEEP]
+BABY: Yeah bro, every single night. Let me explain.
+	  
+
+	Source: STAGE: Chunks tab, Chunk 1, 0-12s + Cinematic AI b-roll
+Split screen. Top half: the baby on the talk-show couch saying the line. Bottom half: the same kind of baby fussing in a dark crib at 2 a.m. (cold blue), and on 'five hours straight' the bottom switches to a baby sound asleep on its back, arms up over its head, warm light. On-screen text: 2 HOURS → 5 HOURS. Go full screen on the stage at the host's reaction.
+	Hook 3
+	BABY: I stopped breathing my own air. Now I sleep five hours straight instead of two, and my mom finally got her life back.
+HOST: Wait, what the f***? You were breathing your own air? [BEEP]
+BABY: Yeah bro, every single night. Let me explain.
+	  
+
+	Source: Cinematic AI b-roll + VFX haze, then stage
+Open on b-roll for the first line only: extreme close-up of a baby asleep on its back in a dark crib, a dark-grey haze sitting around the nose and mouth (the baby's 'own air'). Hard cut to the stage on 'Now I sleep five hours straight', and stay on the stage through the host's reaction and 'Let me explain'.
+	Body (same for all hooks)
+#
+	Script
+	Visual Inspiration
+	Scene Description
+	1
+	See, my mom did everything. The swaddle, the sound machine, the blackout curtains, the whole bedtime routine.
+	  
+
+	Source: Cinematic AI b-roll
+Quick montage, one beat per item: mom swaddling the baby on the changing table, a hand switching on the white-noise machine, the blackout curtains being pulled shut. Night, cool blue tones, an exhausted mom doing everything right.
+	2
+	And I still woke up every two hours, screaming like somebody stole my bottle.
+	  
+
+	Source: Cinematic AI b-roll
+The baby fussing and turning in the crib at night, mom appearing in the doorway with the monitor, exhausted. Optional on-screen text: 2:00 AM, then 4:00 AM.
+	3
+	She was so tired she put the milk in the cabinet and the cereal in the fridge. Twice.
+	  
+
+  
+
+	Source: Cinematic AI b-roll (comedy), then stage
+Shot A: early morning, a zombie mom in pajamas puts the milk in the pantry and the cereal in the fridge. Shot B: hard cut to the stage for 'Twice.': the baby's deadpan stare (Chunk 1, 24-27s) and the audience laugh.
+	4
+	Turns out it wasn't any of that. It was the air. Every time I breathe out, that's used-up air, carbon dioxide.
+	  
+
+	Source: Cinematic AI b-roll + VFX
+Side-profile close-up of the sleeping baby: every exhale leaves a small grey cloud that stays hanging in the air. On-screen text: CO₂.
+	5
+	And with the door closed and the window closed, the air in my room just sits there.
+	  
+
+  
+
+	Source: Cinematic AI b-roll + VFX
+Shot A: a hand gently closes the nursery door, the window is shut, curtains drawn. Shot B: wide shot of the dark, sealed nursery, everything perfectly still, a faint grey haze hanging in the air.
+	6
+	So that used-up air hangs right around my face, and I keep breathing it back in all night long. You'd wake up too.
+	  
+
+  
+
+	Source: Cinematic AI b-roll + VFX, then stage
+Shot A: close-up of the baby's face, the haze curling around the nose and mouth and being breathed back in, brow knitted. Shot B: cut back to the stage for 'You'd wake up too.' (Chunk 2, 17-20s), the baby staring at the audience.
+	7
+	HOST: Okay, but how do you fix the air?
+BABY: Same way they do it in Norway, Sweden and Finland.
+	  
+
+  
+
+	Source: STAGE: Chunks tab, Chunk 2, 20-23s + Chunk 3, 0-4s
+Stay on the stage: the host leaning in, curious, then the baby answering. This is the first return to the stage after the problem section.
+	8
+	Over there, moms put their babies outside to nap, even in the snow, and those babies sleep almost twice as long.
+	  
+
+  
+
+	Source: Real snow footage (Swedish Babies ad or similar)
+Shot A: prams parked outside in the snow, babies asleep inside. Shot B: close-up of a baby deeply asleep in a fur-lined hood, snowflakes falling. Optional text: 2x longer.
+	9
+	It's not the cold. It's that outside, the air never stops moving.
+	  
+
+	Source: Real snow footage (Swedish Babies ad or similar) + light VFX
+Snow drifting sideways in the breeze, soft light-blue ribbons of air flowing past the sleeping baby's face: fresh air = blue ribbons.
+	10
+	And no, my mom didn't put me in the snow. I would've called Grandma.
+	  
+
+  
+
+	Source: STAGE: Chunks tab, Chunk 3, 15-21s
+Back to the stage for the joke: the baby leaning toward the host, mock-serious, then the wide shot with the host and the audience laughing.
+	11
+	Now, you're probably thinking you could just turn on the AC, or get a purifier, or a fan.
+	  
+
+	Source: STAGE: Chunks tab, Chunk 3, 21-25s
+Stay on the stage: the baby turns to the audience, reading their minds. It sets up the three items that get knocked down next.
+	12
+	But the AC just makes the air colder, and the purifier just cleans it, so either way the air still sits right there.
+	  
+
+	Source: Cinematic AI b-roll + VFX
+Two quick cuts: an AC unit on the wall blowing cold air, then an air purifier on the floor. Near the crib the grey haze still doesn't move. Optional ✗ on each.
+	13
+	And a regular fan blows a harsh wind straight ahead, so if you point it at my crib, it blows right in my face all night.
+	  
+
+	Source: Cinematic AI b-roll
+A box fan pointed at the crib blasting one harsh, straight stream of air, the curtains whipping. Make the 'straight ahead' direction obvious: it sets up the 360° contrast.
+	14
+	Hard pass.
+	  
+
+	Source: STAGE: Chunks tab, Chunk 4, 13-15s
+Hard cut to the stage: tight close-up, the baby wrinkles his nose, audience laugh.
+	15
+	That's why my mom got me a Spin360. It's an air circulator made for babies' rooms.
+	  
+
+	Source: Cinematic AI b-roll
+Product reveal: a warm nursery at dusk, amber lamp light, the white Spin360 on the floor across the room, lit like the hero. The music turns from cold to warm here.
+	16
+	It pulls air in from the top and the bottom and sends it out all the way around, so the air around my crib is always moving, just like outside.
+	  
+
+	Source: Cinematic AI b-roll + VFX
+The mechanism: light-blue ribbons of air pulled in from the top and the bottom of the Spin360 and pushed out in a gentle 360° ring around it, like Saturn's rings, flowing softly toward the crib.
+	17
+	That used-up air just drifts away, and every breath I take is fresh air.
+	  
+
+	Source: Cinematic AI b-roll + VFX
+Close-up of the baby: the grey haze breaks up and drifts away, the blue ribbons flow past, the face relaxes. The payoff of the whole problem section.
+	18
+	It's just a soft, gentle breeze, and it's so quiet I don't even know it's on.
+	  
+
+	Source: Cinematic AI b-roll
+The baby sleeping peacefully, a few fine strands of hair barely moving in a soft breeze, the Spin360 running quietly on the far side of the room.
+	19
+	My big brother never slept more than two hours at a time.
+	  
+
+	Source: Cinematic AI b-roll
+Night: a toddler boy wide awake, standing in his crib and fussing, an exhausted mom in the doorway, the clock at 2:00. Cool blue tones.
+	20
+	And me? The first night with the Spin360, five hours. Straight. Built different.
+	  
+
+  
+
+	Source: Cinematic AI b-roll, then stage
+Shot A: mom's hand holding the video monitor, the baby fast asleep on the screen, the window turning blue with dawn. On-screen text: 2 hours → 5 hours. Shot B: cut to the stage for 'Built different.' (Chunk 5, 15-19s), the baby's cocky deadpan and the audience clapping.
+	21
+	HOST: And how's mom doing?
+BABY: Mom's a whole new woman. When I sleep well, she sleeps well.
+	  
+
+  
+
+	Source: STAGE: Chunks tab, Chunk 5, 19-26s
+On the stage: the host smiling, then the baby, warm and affectionate. Third return to the stage.
+	22
+	And since I'm not cranky all day anymore, she gets to drink her coffee while it's still hot.
+	  
+
+	Source: Cinematic AI b-roll
+Sunny morning kitchen: a rested mom sipping a mug of coffee with steam clearly rising, smiling, the baby happy in the high chair. The hot coffee is the joke American moms recognize: make the steam visible.
+	23
+	She's got the energy to actually play with me.
+	  
+
+	Source: Cinematic AI b-roll
+Living-room floor: mom and baby face to face on the play mat, peekaboo, both laughing. Energy and joy.
+	24
+	Yesterday she even laughed at one of Dad's jokes. That's when I knew we made it.
+	  
+
+  
+
+	Source: Cinematic AI b-roll, then stage
+Shot A: evening kitchen, mom bursts out laughing at something dad says, the baby on her hip. Shot B: back to the stage for 'That's when I knew we made it.' (Chunk 6, 12-15s) and the audience reaction.
+	25
+	The first night, she woke up on her own at four in the morning and panicked, because it was way too quiet.
+	  
+
+	Source: Cinematic AI b-roll
+Before dawn, mom wakes up on her own, rested, props herself up and glances at the quiet monitor with a curious half-smile ('wait, it's so quiet').
+	26
+	She ran in, and there I was, flat on my back, arms over my head, sound asleep. She just stood there and cried. The good kind.
+	  
+
+	Source: Cinematic AI b-roll
+Mom leaning in the nursery doorway, hand on her heart, tears of relief and a smile, looking at the baby asleep on its back with both arms up over its head. The Spin360 far from the crib. Hold the shot.
+	27
+	Now she wakes up feeling like herself again, and she actually gets to enjoy me, instead of just trying to survive me.
+	  
+
+	Source: Cinematic AI b-roll
+Morning sunlight pouring in, mom stretching by the window, rested and smiling, the baby happy in the crib.
+	28
+	And me? I'm a totally different baby. I wake up smiling instead of screaming, I nap without a fight, and I'm happy all day long.
+	  
+
+	Source: Cinematic AI b-roll
+Morning sun in the nursery: the baby, freshly awake, standing in the crib holding the rail with a huge gummy smile.
+	29
+	Grandma says I'm the easiest baby in the family now.
+	  
+
+	Source: Cinematic AI b-roll
+Living room: a proud grandma on the sofa with the calm, smiling baby on her lap, looking at the camera like she's bragging. Callback to the Grandma joke.
+	30
+	HOST: Okay, real talk. Isn't it expensive?
+BABY: Yeah bro, it's not cheap.
+	  
+
+  
+
+	Source: STAGE: Chunks tab, Chunk 7, 18-22s + Chunk 8, 0-2s
+On the stage: the host leaning in with a sly smile, then the baby's honest little shrug.
+	31
+	But my parents already spent hundreds on stuff that didn't work,
+	  
+
+	Source: Cinematic AI b-roll
+A pile of baby-sleep gadgets they already bought (sound machine, swaddles, sleep sacks, monitor), and standing apart from the pile, clean and simple, the Spin360.
+	32
+	and this thing lasts over ten years, so it's going with me from the nursery to my big-kid room.
+	  
+
+	Source: Cinematic AI b-roll
+A big-kid bedroom at night, a six-year-old asleep under a dinosaur blanket, the same Spin360 on the floor in the far corner. Optional match cut: the nursery shot from line 18 dissolving into this room.
+	33
+	Ask my mom what five hours of sleep is worth. She'd give you the car.
+	  
+
+  
+
+	Source: STAGE: Chunks tab, Chunk 8, 12-18s
+Stay on the stage for the biggest punchline: close-up, deadpan, then the wide shot with the host and the audience laughing. Let the laugh breathe.
+	34
+	So if your baby's still up every two hours, it might not be your baby. It might be the air.
+	  
+
+	Source: STAGE: Chunks tab, Chunk 8, 18-23s
+The baby turns and talks straight into the camera, sincere. Optional quick inserts of line 6 (the haze) under 'It might be the air.'
+	35
+	Tap the link, get a Spin360 for the nursery, and let everybody in the house finally sleep.
+	  
+
+	Source: Cinematic AI b-roll + VFX
+Final hero: a peaceful nursery at night, soft blue air moving through the room, the baby asleep in the background, the Spin360 in the foreground. CTA text: Tap the link.
+	36
+	HOST (to camera): You heard him.
+	  
+
+	Source: STAGE: Chunks tab, Chunk 8, 28-30s
+End on the stage: the host looks into the camera and points at the baby, the audience applauds.
+	
+
+Spin360_Baby_TalkShow_2to5Hours — Cinema Studio 4.0  chunks
+Script: FINAL (V14). 8 chunks, text only, no reference images. The baby and the host say the entire script on stage; the b-roll goes on top in the edit (see the Brief tab).
+The BABY, HOST, LOCATION, LOOK and VOICES blocks are identical word for word in every chunk: that is what keeps the characters consistent without reference images. Generate Chunk 1 first and approve the baby's and the host's faces before running the rest.
+Same baby as Spin360_Baby_Standup (gray onesie, the voice of a man in his thirties).
+Chunk 1 — 27s · hook + mom tried everything · 90 words
+Generate a photorealistic live-action vertical 9:16 video, 27 seconds, one continuous segment of a late-night talk show interview, edited like a real multi-camera TV broadcast: hard cuts between fixed camera positions, same conversation, same moment, same studio.
+BABY (the guest):
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He sits upright on his own in the middle of the guest couch, steady and relaxed, legs stretched out in front of him, and behaves like a seasoned celebrity guest who has told this story before. Beside him, on a small side table, sits a baby bottle of milk where a guest would keep a coffee mug. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+HOST:
+A fictional American late-night host in his early forties: short dark-brown hair, clean-shaven, friendly face, navy suit, white open-collar shirt, no tie. He sits behind a dark wooden desk with a white coffee mug on it, to the baby's right. He does not resemble any real TV host.
+LOCATION:
+A believable contemporary American late-night talk show set. Deep-blue fabric guest couch next to the host's dark wooden desk, a city-skyline-at-night backdrop with warm soft bokeh lights, warm studio key light, subtle blue rim light. A live studio audience in tiered seats, ordinary American adults in their late twenties to forties, many of them young parents. No show name, no logo, no text anywhere on the set.
+LOOK:
+Premium broadcast realism, natural exposure, real skin texture, physically realistic studio lighting, authentic shallow depth of field. Fixed camera positions with only extremely subtle natural operator movement, and an occasional slow push-in on a punchline. In the baby's close and medium shots the camera sits at his eye level.
+VOICES AND PERFORMANCE:
+Spoken language: American English.
+The baby's voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, dry, confident and a little cocky, like a comedian on a talk-show couch. He uses casual slang naturally. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought, pausing only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, small natural facial reactions, raised eyebrows, side glances at the host and the audience. Gestures stay small and occasional.
+The host's voice is a warm, quick, playful American male voice in his forties, clearly different from the baby's voice.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover the dialogue.
+EMOTIONAL ARC:
+Starts calm and proud, like he is sharing big personal news. The host's reaction is a genuine, startled double take. "Yeah bro" is a casual, unbothered shrug. Then storytelling energy about his mom, ending on a dead-flat "Twice." with a long stare.
+SHOTS AND DIALOGUE, say exactly:
+0-3s: Close-up of the baby on the couch, looking at the host, calm and proud. The baby says: {I stopped breathing my own air.}
+3-7s: Medium shot of the baby. The baby says: {Now I sleep five hours straight instead of two, and my mom finally got her life back.}
+7-10s: Close-up of the host; he freezes mid-sip, lowers his mug and leans in. The host says: {Wait, what the f—} and the instant he starts the "f" sound, a sharp TV censor beep cuts in and covers the rest of the word. Then he says: {You were breathing your own air?}
+10-12s: Two-shot from the front of the stage, host and baby. The baby gives a small shrug. The baby says: {Yeah bro, every single night. Let me explain.} <the audience laughs>
+12-16s: Medium shot of the baby, turning slightly toward the audience. The baby says: {See, my mom did everything. The swaddle, the sound machine, the blackout curtains, the whole bedtime routine.}
+16-20s: Close-up of the baby. The baby says: {And I still woke up every two hours, screaming like somebody stole my bottle.}
+20-24s: Over-the-shoulder shot from behind the host toward the baby. The baby says: {She was so tired she put the milk in the cabinet and the cereal in the fridge.}
+24-26s: Tight close-up of the baby, completely deadpan. The baby says: {Twice.} He holds the stare in silence.
+26-27s: Cut to the audience: an American mom in her thirties laughs and nods with her hand over her mouth. <the audience laughs>
+No captions. No on-screen text. No logos. No background music, keep the studio sound.
+
+
+Chunk 2 — 23s · the problem: still air · 69 words
+Generate a photorealistic live-action vertical 9:16 video, 23 seconds, one continuous segment of a late-night talk show interview, edited like a real multi-camera TV broadcast: hard cuts between fixed camera positions, same conversation, same moment, same studio.
+ 
+BABY (the guest):
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He sits upright on his own in the middle of the guest couch, steady and relaxed, legs stretched out in front of him, and behaves like a seasoned celebrity guest who has told this story before. Beside him, on a small side table, sits a baby bottle of milk where a guest would keep a coffee mug. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+ 
+HOST:
+A fictional American late-night host in his early forties: short dark-brown hair, clean-shaven, friendly face, navy suit, white open-collar shirt, no tie. He sits behind a dark wooden desk with a white coffee mug on it, to the baby's right. He does not resemble any real TV host.
+ 
+LOCATION:
+A believable contemporary American late-night talk show set. Deep-blue fabric guest couch next to the host's dark wooden desk, a city-skyline-at-night backdrop with warm soft bokeh lights, warm studio key light, subtle blue rim light. A live studio audience in tiered seats, ordinary American adults in their late twenties to forties, many of them young parents. No show name, no logo, no text anywhere on the set.
+ 
+LOOK:
+Premium broadcast realism, natural exposure, real skin texture, physically realistic studio lighting, authentic shallow depth of field. Fixed camera positions with only extremely subtle natural operator movement, and an occasional slow push-in on a punchline. In the baby's close and medium shots the camera sits at his eye level.
+ 
+VOICES AND PERFORMANCE:
+Spoken language: American English.
+The baby's voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, dry, confident and a little cocky, like a comedian on a talk-show couch. He uses casual slang naturally. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought, pausing only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, small natural facial reactions, raised eyebrows, side glances at the host and the audience. Gestures stay small and occasional.
+The host's voice is a warm, quick, playful American male voice in his forties, clearly different from the baby's voice.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover the dialogue.
+ 
+EMOTIONAL ARC:
+Matter-of-fact, like he cracked a case. He gets a little indignant describing the air around his face. "You'd wake up too." is a dry, direct challenge to the audience. The host ends genuinely curious.
+ 
+SHOTS AND DIALOGUE, say exactly:
+0-4s: Medium shot of the baby. The baby says: {Turns out it wasn't any of that. It was the air.}
+4-8s: Close-up of the baby. The baby says: {Every time I breathe out, that's used-up air, carbon dioxide.}
+8-12s: Wide shot of the whole stage from the audience's point of view. The baby says: {And with the door closed and the window closed, the air in my room just sits there.}
+12-17s: Close-up of the baby; one small hand makes a slow circle near his own face. The baby says: {So that used-up air hangs right around my face, and I keep breathing it back in all night long.}
+17-19s: Tight close-up; he looks straight at the audience, flat and dry. The baby says: {You'd wake up too.}
+19-20s: Cut to the audience: an American dad in his thirties laughs and nods. <the audience laughs>
+20-23s: Close-up of the host, leaning forward on his desk, intrigued. The host says: {Okay, but how do you fix the air?}
+ 
+No captions. No on-screen text. No logos. No background music, keep the studio sound.
+Chunk 3 — 25s · the Nordic babies · 75 words
+Generate a photorealistic live-action vertical 9:16 video, 25 seconds, one continuous segment of a late-night talk show interview, edited like a real multi-camera TV broadcast: hard cuts between fixed camera positions, same conversation, same moment, same studio.
+ 
+BABY (the guest):
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He sits upright on his own in the middle of the guest couch, steady and relaxed, legs stretched out in front of him, and behaves like a seasoned celebrity guest who has told this story before. Beside him, on a small side table, sits a baby bottle of milk where a guest would keep a coffee mug. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+ 
+HOST:
+A fictional American late-night host in his early forties: short dark-brown hair, clean-shaven, friendly face, navy suit, white open-collar shirt, no tie. He sits behind a dark wooden desk with a white coffee mug on it, to the baby's right. He does not resemble any real TV host.
+ 
+LOCATION:
+A believable contemporary American late-night talk show set. Deep-blue fabric guest couch next to the host's dark wooden desk, a city-skyline-at-night backdrop with warm soft bokeh lights, warm studio key light, subtle blue rim light. A live studio audience in tiered seats, ordinary American adults in their late twenties to forties, many of them young parents. No show name, no logo, no text anywhere on the set.
+ 
+LOOK:
+Premium broadcast realism, natural exposure, real skin texture, physically realistic studio lighting, authentic shallow depth of field. Fixed camera positions with only extremely subtle natural operator movement, and an occasional slow push-in on a punchline. In the baby's close and medium shots the camera sits at his eye level.
+ 
+VOICES AND PERFORMANCE:
+Spoken language: American English.
+The baby's voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, dry, confident and a little cocky, like a comedian on a talk-show couch. He uses casual slang naturally. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought, pausing only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, small natural facial reactions, raised eyebrows, side glances at the host and the audience. Gestures stay small and occasional.
+The host's voice is a warm, quick, playful American male voice in his forties, clearly different from the baby's voice.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover the dialogue.
+ 
+EMOTIONAL ARC:
+Knowing and a little smug, like he is letting the host in on a secret. "I would've called Grandma." is mock-serious, like a threat he means. Then he turns to the audience, reading their minds.
+ 
+SHOTS AND DIALOGUE, say exactly:
+0-4s: Medium shot of the baby. The baby says: {Same way they do it in Norway, Sweden and Finland.}
+4-10s: Two-shot from the front of the stage. The baby says: {Over there, moms put their babies outside to nap, even in the snow, and those babies sleep almost twice as long.}
+10-12s: Close-up of the host listening, eyebrows raised, while the baby's voice continues off-screen: {It's not the cold.}
+12-15s: Close-up of the baby. The baby says: {It's that outside, the air never stops moving.}
+15-20s: Medium shot; the baby leans slightly toward the host, mock-serious. The baby says: {And no, my mom didn't put me in the snow. I would've called Grandma.}
+20-21s: Wide shot: the host laughs and the audience laughs. <the audience laughs>
+21-25s: Medium shot of the baby turning toward the audience. The baby says: {Now, you're probably thinking you could just turn on the AC, or get a purifier, or a fan.}
+ 
+No captions. No on-screen text. No logos. No background music, keep the studio sound.
+Chunk 4 — 29s · the alternatives + Spin360 · 98 words
+Generate a photorealistic live-action vertical 9:16 video, 29 seconds, one continuous segment of a late-night talk show interview, edited like a real multi-camera TV broadcast: hard cuts between fixed camera positions, same conversation, same moment, same studio.
+ 
+BABY (the guest):
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He sits upright on his own in the middle of the guest couch, steady and relaxed, legs stretched out in front of him, and behaves like a seasoned celebrity guest who has told this story before. Beside him, on a small side table, sits a baby bottle of milk where a guest would keep a coffee mug. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+ 
+HOST:
+A fictional American late-night host in his early forties: short dark-brown hair, clean-shaven, friendly face, navy suit, white open-collar shirt, no tie. He sits behind a dark wooden desk with a white coffee mug on it, to the baby's right. He does not resemble any real TV host.
+ 
+LOCATION:
+A believable contemporary American late-night talk show set. Deep-blue fabric guest couch next to the host's dark wooden desk, a city-skyline-at-night backdrop with warm soft bokeh lights, warm studio key light, subtle blue rim light. A live studio audience in tiered seats, ordinary American adults in their late twenties to forties, many of them young parents. No show name, no logo, no text anywhere on the set.
+ 
+LOOK:
+Premium broadcast realism, natural exposure, real skin texture, physically realistic studio lighting, authentic shallow depth of field. Fixed camera positions with only extremely subtle natural operator movement, and an occasional slow push-in on a punchline. In the baby's close and medium shots the camera sits at his eye level.
+ 
+VOICES AND PERFORMANCE:
+Spoken language: American English.
+The baby's voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, dry, confident and a little cocky, like a comedian on a talk-show couch. He uses casual slang naturally. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought, pausing only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, small natural facial reactions, raised eyebrows, side glances at the host and the audience. Gestures stay small and occasional.
+The host's voice is a warm, quick, playful American male voice in his forties, clearly different from the baby's voice.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover the dialogue.
+ 
+EMOTIONAL ARC:
+Dismissive and quick with the alternatives, like a critic. "Hard pass." is a deadpan punch with a wrinkled nose. Then calm and sincere explaining how it works, still dry, never a salesman.
+ 
+SHOTS AND DIALOGUE, say exactly:
+0-5s: Close-up of the baby. The baby says: {But the AC just makes the air colder, and the purifier just cleans it,}
+5-8s: Medium shot of the baby. The baby says: {so either way the air still sits right there.}
+8-13s: Wide shot of the whole stage. The baby says: {And a regular fan blows a harsh wind straight ahead, so if you point it at my crib, it blows right in my face all night.}
+13-15s: Tight close-up; he wrinkles his nose. The baby says: {Hard pass.} <the audience laughs>
+15-19s: Two-shot; the host nods along. The baby says: {That's why my mom got me a Spin three-sixty. It's an air circulator made for babies' rooms.}
+19-25s: Medium shot; his small hands move up and down, then make a slow circle. The baby says: {It pulls air in from the top and the bottom and sends it out all the way around,}
+25-29s: Close-up of the baby. The baby says: {so the air around my crib is always moving, just like outside.}
+ 
+No captions. No on-screen text. No logos. No background music, keep the studio sound.
+Chunk 5 — 26s · the proof + how mom is doing · 72 words
+Generate a photorealistic live-action vertical 9:16 video, 26 seconds, one continuous segment of a late-night talk show interview, edited like a real multi-camera TV broadcast: hard cuts between fixed camera positions, same conversation, same moment, same studio.
+ 
+BABY (the guest):
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He sits upright on his own in the middle of the guest couch, steady and relaxed, legs stretched out in front of him, and behaves like a seasoned celebrity guest who has told this story before. Beside him, on a small side table, sits a baby bottle of milk where a guest would keep a coffee mug. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+ 
+HOST:
+A fictional American late-night host in his early forties: short dark-brown hair, clean-shaven, friendly face, navy suit, white open-collar shirt, no tie. He sits behind a dark wooden desk with a white coffee mug on it, to the baby's right. He does not resemble any real TV host.
+ 
+LOCATION:
+A believable contemporary American late-night talk show set. Deep-blue fabric guest couch next to the host's dark wooden desk, a city-skyline-at-night backdrop with warm soft bokeh lights, warm studio key light, subtle blue rim light. A live studio audience in tiered seats, ordinary American adults in their late twenties to forties, many of them young parents. No show name, no logo, no text anywhere on the set.
+ 
+LOOK:
+Premium broadcast realism, natural exposure, real skin texture, physically realistic studio lighting, authentic shallow depth of field. Fixed camera positions with only extremely subtle natural operator movement, and an occasional slow push-in on a punchline. In the baby's close and medium shots the camera sits at his eye level.
+ 
+VOICES AND PERFORMANCE:
+Spoken language: American English.
+The baby's voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, dry, confident and a little cocky, like a comedian on a talk-show couch. He uses casual slang naturally. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought, pausing only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, small natural facial reactions, raised eyebrows, side glances at the host and the audience. Gestures stay small and occasional.
+The host's voice is a warm, quick, playful American male voice in his forties, clearly different from the baby's voice.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover the dialogue.
+ 
+EMOTIONAL ARC:
+Soft and dreamy describing the breeze, his eyelids getting heavy. Proud and smug for the five hours, with "Built different." as a cocky deadpan punch. Then warm and affectionate when the host asks about mom.
+ 
+SHOTS AND DIALOGUE, say exactly:
+0-4s: Medium shot of the baby, relaxed. The baby says: {That used-up air just drifts away, and every breath I take is fresh air.}
+4-9s: Close-up; his eyelids grow heavy and his voice softens as he remembers. The baby says: {It's just a soft, gentle breeze, and it's so quiet I don't even know it's on.}
+9-12s: Over-the-shoulder shot from behind the host toward the baby. The baby says: {My big brother never slept more than two hours at a time.}
+12-15s: Close-up of the baby. The baby says: {And me? The first night with the Spin three-sixty,}
+15-19s: Tight close-up, completely deadpan. The baby says: {five hours. Straight.} A one-second pause. {Built different.} <the audience laughs and a few people clap>
+19-21s: Close-up of the host, smiling. The host says: {And how's mom doing?}
+21-26s: Medium shot of the baby, warm and affectionate. The baby says: {Mom's a whole new woman. When I sleep well, she sleeps well.}
+ 
+No captions. No on-screen text. No logos. No background music, keep the studio sound.
+Chunk 6 — 30s · mom's new life + the 4 a.m. moment · 91 words
+Generate a photorealistic live-action vertical 9:16 video, 30 seconds, one continuous segment of a late-night talk show interview, edited like a real multi-camera TV broadcast: hard cuts between fixed camera positions, same conversation, same moment, same studio.
+ 
+BABY (the guest):
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He sits upright on his own in the middle of the guest couch, steady and relaxed, legs stretched out in front of him, and behaves like a seasoned celebrity guest who has told this story before. Beside him, on a small side table, sits a baby bottle of milk where a guest would keep a coffee mug. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+ 
+HOST:
+A fictional American late-night host in his early forties: short dark-brown hair, clean-shaven, friendly face, navy suit, white open-collar shirt, no tie. He sits behind a dark wooden desk with a white coffee mug on it, to the baby's right. He does not resemble any real TV host.
+ 
+LOCATION:
+A believable contemporary American late-night talk show set. Deep-blue fabric guest couch next to the host's dark wooden desk, a city-skyline-at-night backdrop with warm soft bokeh lights, warm studio key light, subtle blue rim light. A live studio audience in tiered seats, ordinary American adults in their late twenties to forties, many of them young parents. No show name, no logo, no text anywhere on the set.
+ 
+LOOK:
+Premium broadcast realism, natural exposure, real skin texture, physically realistic studio lighting, authentic shallow depth of field. Fixed camera positions with only extremely subtle natural operator movement, and an occasional slow push-in on a punchline. In the baby's close and medium shots the camera sits at his eye level.
+ 
+VOICES AND PERFORMANCE:
+Spoken language: American English.
+The baby's voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, dry, confident and a little cocky, like a comedian on a talk-show couch. He uses casual slang naturally. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought, pausing only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, small natural facial reactions, raised eyebrows, side glances at the host and the audience. Gestures stay small and occasional.
+The host's voice is a warm, quick, playful American male voice in his forties, clearly different from the baby's voice.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover the dialogue.
+ 
+EMOTIONAL ARC:
+Proud and amused listing how his mom changed; "That's when I knew we made it." is a dry, satisfied punch. Then he drops into quieter, sincere storytelling for the four a.m. moment, and "The good kind." is soft and tender.
+ 
+SHOTS AND DIALOGUE, say exactly:
+0-6s: Medium shot of the baby. The baby says: {And since I'm not cranky all day anymore, she gets to drink her coffee while it's still hot.}
+6-9s: Close-up of the baby. The baby says: {She's got the energy to actually play with me.}
+9-12s: Two-shot from the front of the stage. The baby says: {Yesterday she even laughed at one of Dad's jokes.}
+12-14s: Tight close-up, deadpan. The baby says: {That's when I knew we made it.}
+14-15s: Cut to the audience: an American man in his thirties laughs, and the woman next to him playfully elbows him. <the audience laughs>
+15-20s: Medium shot; the baby's voice gets quieter, storytelling. The baby says: {The first night, she woke up on her own at four in the morning and panicked, because it was way too quiet.}
+20-25s: Close-up; he briefly lifts both little arms over his head to show the pose. The baby says: {She ran in, and there I was, flat on my back, arms over my head, sound asleep.}
+25-28s: Close-up, softer. The baby says: {She just stood there and cried.} A short beat. {The good kind.}
+28-30s: Cut to the audience: an American mom in her thirties puts her hand on her chest, touched.
+ 
+No captions. No on-screen text. No logos. No background music, keep the studio sound.
+Chunk 7 — 22s · mom enjoys the baby + the baby changed + the price question · 63 words
+Generate a photorealistic live-action vertical 9:16 video, 22 seconds, one continuous segment of a late-night talk show interview, edited like a real multi-camera TV broadcast: hard cuts between fixed camera positions, same conversation, same moment, same studio.
+ 
+BABY (the guest):
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He sits upright on his own in the middle of the guest couch, steady and relaxed, legs stretched out in front of him, and behaves like a seasoned celebrity guest who has told this story before. Beside him, on a small side table, sits a baby bottle of milk where a guest would keep a coffee mug. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+ 
+HOST:
+A fictional American late-night host in his early forties: short dark-brown hair, clean-shaven, friendly face, navy suit, white open-collar shirt, no tie. He sits behind a dark wooden desk with a white coffee mug on it, to the baby's right. He does not resemble any real TV host.
+ 
+LOCATION:
+A believable contemporary American late-night talk show set. Deep-blue fabric guest couch next to the host's dark wooden desk, a city-skyline-at-night backdrop with warm soft bokeh lights, warm studio key light, subtle blue rim light. A live studio audience in tiered seats, ordinary American adults in their late twenties to forties, many of them young parents. No show name, no logo, no text anywhere on the set.
+ 
+LOOK:
+Premium broadcast realism, natural exposure, real skin texture, physically realistic studio lighting, authentic shallow depth of field. Fixed camera positions with only extremely subtle natural operator movement, and an occasional slow push-in on a punchline. In the baby's close and medium shots the camera sits at his eye level.
+ 
+VOICES AND PERFORMANCE:
+Spoken language: American English.
+The baby's voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, dry, confident and a little cocky, like a comedian on a talk-show couch. He uses casual slang naturally. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought, pausing only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, small natural facial reactions, raised eyebrows, side glances at the host and the audience. Gestures stay small and occasional.
+The host's voice is a warm, quick, playful American male voice in his forties, clearly different from the baby's voice.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover the dialogue.
+ 
+EMOTIONAL ARC:
+Warm and sincere for "survive me", with a hint of humor. Then proud and a little cocky about himself; the Grandma line is a smug brag. The host ends sly and playful, poking at the price.
+ 
+SHOTS AND DIALOGUE, say exactly:
+0-6s: Medium shot of the baby, warm. The baby says: {Now she wakes up feeling like herself again, and she actually gets to enjoy me, instead of just trying to survive me.}
+6-8s: Cut to the audience: an American mom in her thirties nods slowly, smiling.
+8-10s: Close-up of the baby, proud. The baby says: {And me? I'm a totally different baby.}
+10-15s: Medium shot of the baby. The baby says: {I wake up smiling instead of screaming, I nap without a fight, and I'm happy all day long.}
+15-18s: Tight close-up, smug. The baby says: {Grandma says I'm the easiest baby in the family now.} <the audience laughs>
+18-22s: Close-up of the host, leaning in with a sly smile. The host says: {Okay, real talk. Isn't it expensive?}
+ 
+No captions. No on-screen text. No logos. No background music, keep the studio sound.
+Chunk 8 — 30s · price + CTA · 91 words
+Generate a photorealistic live-action vertical 9:16 video, 30 seconds, one continuous segment of a late-night talk show interview, edited like a real multi-camera TV broadcast: hard cuts between fixed camera positions, same conversation, same moment, same studio.
+ 
+BABY (the guest):
+A real American baby boy, about eight months old in appearance: round chubby cheeks, soft wispy light-brown hair, big expressive blue-gray eyes, realistic baby skin with natural texture, tiny realistic hands. He wears a plain heather-gray short-sleeve cotton onesie. He sits upright on his own in the middle of the guest couch, steady and relaxed, legs stretched out in front of him, and behaves like a seasoned celebrity guest who has told this story before. Beside him, on a small side table, sits a baby bottle of milk where a guest would keep a coffee mug. He looks like a real baby filmed on camera, not a doll, not CGI, not a cartoon.
+ 
+HOST:
+A fictional American late-night host in his early forties: short dark-brown hair, clean-shaven, friendly face, navy suit, white open-collar shirt, no tie. He sits behind a dark wooden desk with a white coffee mug on it, to the baby's right. He does not resemble any real TV host.
+ 
+LOCATION:
+A believable contemporary American late-night talk show set. Deep-blue fabric guest couch next to the host's dark wooden desk, a city-skyline-at-night backdrop with warm soft bokeh lights, warm studio key light, subtle blue rim light. A live studio audience in tiered seats, ordinary American adults in their late twenties to forties, many of them young parents. No show name, no logo, no text anywhere on the set.
+ 
+LOOK:
+Premium broadcast realism, natural exposure, real skin texture, physically realistic studio lighting, authentic shallow depth of field. Fixed camera positions with only extremely subtle natural operator movement, and an occasional slow push-in on a punchline. In the baby's close and medium shots the camera sits at his eye level.
+ 
+VOICES AND PERFORMANCE:
+Spoken language: American English.
+The baby's voice is a relaxed, slightly husky American adult male voice in his thirties, the same voice in every shot, dry, confident and a little cocky, like a comedian on a talk-show couch. He uses casual slang naturally. He speaks fast and natural, around 210 words per minute, sentences flowing into each other like one train of thought, pausing only where a punchline needs to land. Never slow, never over-enunciated, never a narrator or announcer voice. Realistic lip sync adapted to a baby's mouth, small natural facial reactions, raised eyebrows, side glances at the host and the audience. Gestures stay small and occasional.
+The host's voice is a warm, quick, playful American male voice in his forties, clearly different from the baby's voice.
+The audience laughs softly and naturally after real punchlines, never loud enough to cover the dialogue.
+ 
+EMOTIONAL ARC:
+Honest and unbothered admitting the price, then reasonable and confident. "She'd give you the car." is the biggest deadpan punch of the interview; let the laugh breathe. Then he turns to the camera, sincere and direct to the moms watching at home, still in his voice. The host closes with a playful point at the baby.
+ 
+SHOTS AND DIALOGUE, say exactly:
+0-2s: Tight close-up of the baby, a small honest shrug. The baby says: {Yeah bro, it's not cheap.}
+2-6s: Medium shot of the baby. The baby says: {But my parents already spent hundreds on stuff that didn't work,}
+6-12s: Two-shot from the front of the stage. The baby says: {and this thing lasts over ten years, so it's going with me from the nursery to my big-kid room.}
+12-15s: Close-up of the baby. The baby says: {Ask my mom what five hours of sleep is worth.}
+15-17s: Tight close-up, completely deadpan. The baby says: {She'd give you the car.}
+17-18s: Wide shot: the host laughs and the audience laughs loudly. <the audience laughs>
+18-23s: Medium shot; the baby turns and looks straight into the camera, sincere. The baby says: {So if your baby's still up every two hours, it might not be your baby. It might be the air.}
+23-28s: Close-up, straight into the camera. The baby says: {Tap the link, get a Spin three-sixty for the nursery, and let everybody in the house finally sleep.}
+28-30s: Close-up of the host looking into the camera, pointing at the baby. The host says: {You heard him.} <the audience applauds>
+ 
+No captions. No on-screen text. No logos. No background music, keep the studio sound.
+
+
+[STAGE — hook]
+BABY: I stopped breathing my own air. Now I sleep five hours straight instead of two, and my mom finally got her life back.
+HOST: Wait, what the f***? You were breathing your own air? [BEEP]
+BABY: Yeah bro, every single night. Let me explain.
+
+
+[VISUALS — baby VO]
+See, my mom did everything. The swaddle, the sound machine, the blackout curtains, the whole bedtime routine. And I still woke up every two hours, screaming like somebody stole my bottle. She was so tired she put the milk in the cabinet and the cereal in the fridge. Twice.
+Turns out it wasn't any of that. It was the air. Every time I breathe out, that's used-up air, carbon dioxide. And with the door closed and the window closed, the air in my room just sits there. So that used-up air hangs right around my face, and I keep breathing it back in all night long. You'd wake up too.
+
+
+[STAGE]
+HOST: Okay, but how do you fix the air?
+BABY: Same way they do it in Norway, Sweden and Finland. Over there, moms put their babies outside to nap, even in the snow, and those babies sleep almost twice as long. It's not the cold. It's that outside, the air never stops moving. And no, my mom didn't put me in the snow. I would've called Grandma.
+
+
+[VISUALS]
+Now, you're probably thinking you could just turn on the AC, or get a purifier, or a fan. But the AC just makes the air colder, and the purifier just cleans it, so either way the air still sits right there. And a regular fan blows a harsh wind straight ahead, so if you point it at my crib, it blows right in my face all night. Hard pass.
+That's why my mom got me a Spin360. It's an air circulator made for babies' rooms. It pulls air in from the top and the bottom and sends it out all the way around, so the air around my crib is always moving, just like outside. That used-up air just drifts away, and every breath I take is fresh air. It's just a soft, gentle breeze, and it's so quiet I don't even know it's on.
+My big brother never slept more than two hours at a time. And me? The first night with the Spin360, five hours. Straight. Built different.
+
+
+[STAGE]
+HOST: And how's mom doing?
+BABY: Mom's a whole new woman. When I sleep well, she sleeps well. And since I'm not cranky all day anymore, she gets to drink her coffee while it's still hot. She's got the energy to actually play with me. Yesterday she even laughed at one of Dad's jokes. That's when I knew we made it.
+
+
+[VISUALS]
+The first night, she woke up on her own at four in the morning and panicked, because it was way too quiet. She ran in, and there I was, flat on my back, arms over my head, sound asleep. She just stood there and cried. The good kind. Now she wakes up feeling like herself again, and she actually gets to enjoy me, instead of just trying to survive me.
+And me? I'm a totally different baby. I wake up smiling instead of screaming, I nap without a fight, and I'm happy all day long. Grandma says I'm the easiest baby in the family now.
+
+
+[STAGE]
+HOST: Okay, real talk. Isn't it expensive?
+BABY: Yeah bro, it's not cheap. But my parents already spent hundreds on stuff that didn't work, and this thing lasts over ten years, so it's going with me from the nursery to my big-kid room. Ask my mom what five hours of sleep is worth. She'd give you the car.
+
+
+[VISUALS — CTA]
+So if your baby's still up every two hours, it might not be your baby. It might be the air. Tap the link, get a Spin360 for the nursery, and let everybody in the house finally sleep.
+HOST (to camera): You heard him.

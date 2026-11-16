@@ -162,7 +162,7 @@ workspace, so they are never committed. Inside `<workspace>/projects/<name>/` th
 ## Stock media keys (optional, free)
 Pexels, Pixabay, Unsplash and Freesound need a free API key each: `vs keys ask pexels` (stored in
 `~/.config/video-studio/keys.env`, mode 600; environment variables `PEXELS_API_KEY` etc. also work). Internet
-Archive, Wikipedia, Wikimedia Commons, Creative Commons YouTube, Openverse and NASA work without keys. NonCommercial/NoDerivs licences are excluded by default.
+Archive, Wikipedia, Wikimedia Commons, Creative Commons YouTube, Openverse and NASA work without keys. NonCommercial/NoDerivs licences are excluded by default; `--cc0` keeps only CC0/public-domain results (free to use anywhere, no credit), the safe choice for client ads.
 
 ## Privacy
 The bundled HyperFrames CLI sends usage telemetry (and a usage beacon when its skill starts). Turn it off with

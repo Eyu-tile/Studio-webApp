@@ -1,0 +1,26 @@
+﻿Spin360_Price_Justification_DrillHook
+Iteration. One version. Our best visual hook (the drill hook from Reinvent_Wheel_SplitScreen_David_V2_Hook_2, 63% hook rate) on the body of Spin360_Price_Justification_BOF_HOOK6 (V3) (ROAS 3.70), with one line of text on screen so the drill makes sense and leads into the price talk.
+	
+
+The edit
+Time
+	What happens
+	Frames
+	0:00 – ~0:06
+	Drill hook from Reinvent_Wheel_SplitScreen_David_V2_Hook_2 (00:00–00:09.7 in that file). Use the best ~5–6 s: the smoke pulled through the blue blade, people stopping to film. Street sound low.
+
+
+Text on screen the whole time (top, bold):
+"He spent years prototyping this fan. Here's why it's not cheap."
+	  
+   
+	~0:06 → end
+	The body of Spin360_Price_Justification_BOF_HOOK6 (V3), untouched, starting at David's first line: "You cannot make a product like this any cheaper than this. This is the result of world-class manufacturing…". If HOOK6 (V3) opens with its own visual hook before that line, cut it: the drill hook replaces it.
+	
+
+	Why the text
+The drill shows a rough prototype. The text tells people it is the fan being built and asks the question the body answers ("why it's not cheap" → "you cannot make a product like this any cheaper").
+Notes
+Same 9:16, same captions style, same end as HOOK6 (V3). The only variable we test is the opening.
+What's up to you
+The exact in/out of the drill shot and the cut into David. Keep the text as written.

@@ -1,0 +1,180 @@
+﻿Brand: Spin360
+
+
+ Ad ID: Spin360_ThreeQuestions_David
+
+
+ Author: Gabriel 
+AD BRIEF
+	[1] CREATIVE DIRECTION
+Watch? Spin360__The_Battle_Plan.mp4
+Watch: How Does an Editor Think and Feel?
+  
+
+Seedance workflow one example of the workflowSpin360_UGC_DavidScamConfession_Hook3.mp4
+
+
+
+
+The idea: A quiz, not an ad. David asks three yes/no questions straight to camera — the fan every night (even winter), the wind she hates, the wop-wop she hates even more. The husband counts his yeses and by question three he's been SEEN. Then David flips the guilt: "It was never you two" — the machine made somebody lose. The rest is the fix: a fan that doesn't point, blades that push instead of chop, and the payoff — same night for both of them, with everything she hated simply gone.
+
+
+The core logic (keep this intact in the cut): he keeps his two things (air + sound). She loses her two things (blast + wop-wop). Nobody converts to anything — what she hated just doesn't exist in this machine. "Nobody hates an open window."
+
+
+Format: the winning family layout — b-roll fills the frame, David cutout PiP bottom-left reacting/pointing, continuous captions. David goes FULL FRAME on exactly two beats: the hand gesture and the close. Full frame is punctuation, not default. ~65s, 9:16.
+
+
+Tone: a friend who already knows the answers. Playful through the questions, warm at "It was never you two", inventor-calm in the mechanism, half-smile at the close. Never salesy, never defensive.
+
+
+How to read the storyboard: timings are approximate — the VO sets the clock. The VISUAL IDEA column describes what each stretch must communicate, with example scenes; you pick or generate the footage that carries that idea. You know the account's shot style: real bedrooms, natural light, couple's world, realism first — imperfect framing welcome. Only items marked NON-NEGOTIABLE are fixed. This storyboard is a battle plan, not a cage — if the footage hands you something better than the written idea, take it and keep it consistent.
+
+
+MUSIC (tied to lines, not timestamps): light quiz-pulse from the first word, one soft tick per check · the pulse CUTS on "Listen —" and a warm minimal bed takes over · bed opens on "So here's what I built" · ducks to near-zero for the real shhh (non-negotiable) · resolves on the final wide. No tail over the logo.
+
+
+SOUND DESIGN (non-negotiable): three soft "check" ticks (one per question) · real Spin360 shhh at speed 6+, 2s, on "clean, steady shhh" · room tone under the beats. The old fan appears on screen but its audio never plays — David SAYS the wop-wop; the only product sound the viewer hears is ours.
+
+
+CAPTIONS + TEXT (two layers):
+
+
+* Continuous spoken captions, account style, whole ad.
+* The question cards + checkbox counter (0/3 → 3/3) are the text system. Red caps anchors, one at a time, fired ON the line: "COUNT YOUR YESES" (hook) · "WOP WOP WOP" (shaking, Q3) · "IT WAS NEVER YOU TWO" · "THERE IS NO FRONT" · "THE BLAST? GONE." · "...IS THERE A WINDOW OPEN?"
+[2] THE HOOKS — pick per variant (each has its own visual)
+HOOK
+	FRAME 1 / VISUAL
+	DAVID'S LINE
+	THEN
+	Hook1 — _CountYourYeses (master)
+	David FULL FRAME, direct to lens. Counter appears: 0/3. Anchor "COUNT YOUR YESES."
+	"Okay — three quick questions. Count your yeses."
+	Straight into Q1. Body takes over.
+	Hook2 — _CallOut
+	B-roll full frame: the fan war in one image — fan aimed across the bed, her turned away shielding, him awake. David PiP pointing at it.
+	"If you sleep with a fan... and she hates it... I got three questions for you."
+	Counter appears on "three questions" → Q1. Body takes over.
+	Hook3 — _Challenge
+	David FULL FRAME with the product running beside him, soft glow. Slight lean-in on "Ready?"
+	"I can tell you if this fan's for your bedroom in three questions. Ready?"
+	Counter appears → Q1. Body takes over.
+	[3] SCRIPT (body — identical for all hooks)
+"One: do you sleep with a fan on every night... even in the winter? [beat]
+
+
+Two: does she hate the wind hitting her face? [beat]
+
+
+Three: and does she hate that sound even more? That wop... wop... wop? [beat]
+
+
+Three out of three? Yeah. Listen — none of that's a quirk, man. You need the air and the sound. She can't sleep with that fan. And with every fan you ever bought... somebody had to lose. 'Cause they all shoot the air in one line — and that line lands on one of you. That was the whole problem. It was never you two.
+
+
+So here's what I built. A fan that doesn't point. It pulls air in from the top and the bottom... and sends it out everywhere at once. So the whole room just has this breeze in it. Both of you are in it. And nobody's in front of it — there is no front.
+
+
+And the reason it feels like a breeze — and not like a fan — is the blades. They don't chop the air... they push it. [gesture] Like when you wave your hand. That's how wind moves outside. And that wop-wop? That came from the chopping too. Mine don't chop — so that sound just isn't in there. What's left is that clean, steady shhh. [2s REAL SHHH]
+
+
+So look — you're both getting the same night. Same breeze, same sound. The difference is — everything she hated is gone. The blast? Gone. The wop-wop? Gone. And what's still there... is the part everybody loves. 'Cause nobody hates an open window. People walk into this room and ask me, '...is there a window open?' Constantly. My bet? That's her, in about a week.
+
+
+Spin360 — link's below. Three out of three? You already knew, man. Go look at it."
+[4] STORYBOARD — VISUAL IDEAS PER SEGMENT (body)
+David is in his PiP corner in every segment unless marked FULL FRAME.
+
+
+SEG
+	VISUAL IDEA
+	AUDIO
+	DELIVERY
+	VOICE
+	Q1 — WINTER (~6s)
+	The idea: his devotion, in one image. Cold outside, fan on inside, pointed at the bed — any scene that says "it's freezing and that fan is STILL running." Card Q1, check → 1/3.
+	Pulse + tick.
+	Question rhythm: ask, hold the beat, move.
+	"One: do you sleep with a fan on every night... even in the winter?"
+	Q2 — THE WIND (~5s)
+	The idea: her side of the stream. Her shielding, turning away, blanket up against moving air — the nightly defense. Card Q2, check → 2/3.
+	Pulse + tick.
+	Slightly softer — this one's about her.
+	"Two: does she hate the wind hitting her face?"
+	Q3 — THE WOP-WOP (~6s)
+	The idea: the sound as villain. The old fan spinning close and mean, her eyes open in the dark. Anchor "WOP WOP WOP" shaking with his voice. Check → 3/3, all three visible.
+	Pulse + tick. NO old-fan audio — David performs the sound.
+	He does the wop-wop with his mouth, a little theatrical.
+	"Three: and does she hate that sound even more? That wop... wop... wop?"
+	THE PIVOT (~14s)
+	The idea: the impossible geometry, fast. The war in quick cuts — the fan aimed at her, him staring at the ceiling, a hand repositioning it. On "one line": a thin line of air crossing the bed to land on a sleeper. Anchor "IT WAS NEVER YOU TWO" on the line — hold David PiP pointing at the lens there.
+	Pulse CUTS on "Listen —". Warm bed enters.
+	Pace drops. Warm, certain. "It was never you two." = the absolution — soft.
+	"Three out of three? Yeah. Listen — none of that's a quirk, man. You need the air and the sound. She can't sleep with that fan. And with every fan you ever bought... somebody had to lose. 'Cause they all shoot the air in one line — and that line lands on one of you. That was the whole problem. It was never you two."
+	WHAT I BUILT (~11s)
+	The idea: air everywhere, aimed at nobody. Product hero → the 360° flow made visible (the account's smoke/particle language) → the couple in bed, BOTH inside the moving air. Anchor "THERE IS NO FRONT."
+	Bed opens up — warmest stretch. Soft product hum.
+	Quiet pride. "Both of you are in it." slow, with weight — it carries "she feels it too."
+	"So here's what I built. A fan that doesn't point. It pulls air in from the top and the bottom... and sends it out everywhere at once. So the whole room just has this breeze in it. Both of you are in it. And nobody's in front of it — there is no front."
+	THE BLADES (~14s)
+	The idea: push, not chop — shown by a hand. Macro on the blade's wide face → DAVID FULL FRAME for the signature gesture: open hand, slow wave at the lens → anything that says natural wind (curtain, trees).
+	Warm bed low. Soft natural wind under the nature shot.
+	His favorite subject. Small pause before "That came from the chopping too" — deliver it like a reveal.
+	"And the reason it feels like a breeze — and not like a fan — is the blades. They don't chop the air... they push it. [gesture] Like when you wave your hand. That's how wind moves outside. And that wop-wop? That came from the chopping too. Mine don't chop — so that sound just isn't in there. What's left is that clean, steady shhh."
+	THE SHHH (~3s)
+	The idea: the sound, felt. Dial or product running; a soft soundwave ripple. Her asleep nearby, calm.
+	MUSIC DUCKS — REAL SHHH 2s owns it (non-negotiable).
+	Silent — let the audio speak.
+	[2s REAL SHHH]
+	THE PAYOFF (~15s)
+	The idea: her peace, proven by contrast. Her sleeping serene — one strand of hair drifting gently, the curtain moving BEHIND her (stillness needs a reference motion). On the gones: anchor "THE BLAST? GONE." Then the window moment: someone walks in, stops, looks around puzzled-pleased. Anchor "...IS THERE A WINDOW OPEN?"
+	Bed warm.
+	The gones land as relief, not sales. "My bet?" with the half-smile — an opinion, not a promise.
+	"So look — you're both getting the same night. Same breeze, same sound. The difference is — everything she hated is gone. The blast? Gone. The wop-wop? Gone. And what's still there... is the part everybody loves. 'Cause nobody hates an open window. People walk into this room and ask me, '...is there a window open?' Constantly. My bet? That's her, in about a week."
+	CLOSE (~7s)
+	DAVID FULL FRAME, name card lower third on "link's below." Final wide: the couple asleep, product in the corner, both still, room calm. Logo 1s, clean.
+	Bed resolves on the wide. No tail.
+	Friend-to-friend. "You already knew, man." warm. "Go look at it." easy, zero pressure.
+	"Spin360 — link's below. Three out of three? You already knew, man. Go look at it."
+	PRODUCTION NOTES
+ITEM
+	SPEC
+	Layout
+	9:16. Couple-world b-roll full frame · David cutout PiP bottom-left · FULL FRAME only on the gesture and the close.
+	The counter
+	Checkbox counter 0/3 → 3/3, persistent corner — the viewer counts WITH it. Non-negotiable.
+	The beats
+	1s pause after each question — the viewer answers inside it. Never trim the beats; they ARE the engagement. Non-negotiable.
+	Old fan audio
+	The old fan appears on screen but NEVER plays its sound. David performs the wop-wop; the only machine sound in the ad is our shhh. Non-negotiable.
+	Captions
+	Continuous, account style. Anchors per Creative Direction, fired on their lines.
+	Shot sourcing
+	The VISUAL IDEA column is the contract; example scenes are suggestions. Use the account's existing shot families where they fit (couple's bedroom world, smoke/flow demos, her-stillness shots, curtain reference motion) — or generate new ones in the same style. Realism first.
+	AI generations
+	Winter-window scene · her shielding beats · the line-of-air image · couple inside moving air · her serene sleep with reference motion · the doorway window-open reaction.
+	
+
+Primary Text:
+😴 Some couples don’t fight over the thermostat.
+They fight over the fan.
+One person needs the air.
+The other person somehow ends up being the target.
+Point it one way?
+She gets blasted. 🌬️
+Point it somewhere else?
+Now you’re awake.
+So the fight keeps coming back.
+SPIN360 was built around the part every fan gets wrong:
+it doesn’t pick a side.
+It pulls air from the top and bottom, then moves a soft 360° breeze around the whole room.
+You still get the moving air.
+You still get the real shhhh.
+And she stops taking the fan to the face.
+Even the old wop-wop thing isn’t in the room anymore.
+Which is kind of the whole point.
+Tap Shop Now and try the fan that doesn’t pick a side 👇
+Headline:
+The Fan Doesn’t Pick A Side
+She’s Not The Target Anymore 
+No More Fan Math

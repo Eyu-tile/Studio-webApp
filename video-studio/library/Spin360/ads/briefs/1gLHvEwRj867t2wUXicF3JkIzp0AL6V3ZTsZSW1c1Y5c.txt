@@ -1,0 +1,327 @@
+﻿Spin360_FinnishBabie_Song
+Brief - Spin360_FinnishBabie_Song.mp4
+3 ads · same song · same body · 3 visual hooks. This is our best ad (Spin360_UnAware_SwedishBabie_V2_Hook_1) turned into a song. Same footage, same order as the original. Only the audio changes: the voiceover is replaced by the song, and the shots are re-timed to the music.
+Song: Spin360_FinnishBabie_Song - Its the Air.mp3 (2:58)
+Original ad (picture reference): Spin360_UnAwa re_SwedishBabie_V2_Hook_1 ·
+
+
+Baby no texts
+Ad type: Iteration · AI singing version of a winner · Size: 9x16 · ~2:45–2:58
+Strategy
+# Element
+	Answer
+	1 · Desire
+	"I want to wake up and actually feel rested." In the song: "Then you wake up like, wait… I actually feel good."
+	2 · Avatar
+	Adults who sleep in a closed bedroom (windows shut, AC or heat on) and wake up tired without knowing why. The same people who stopped for the original ad.
+	3 · Angle
+	It's not the cold, it's the air. Babies in Finland sleep better outside because the air keeps moving. Your sealed bedroom has air that doesn't move. One reason, the same as the winner.
+	4 · Mechanism
+	It pulls air in from two sides at once and sends it out everywhere, like Saturn's rings. Because of how the blade is shaped, it never feels mechanical: it feels like a real breeze.
+	5 · Authority
+	The babies (researchers measured that they sleep almost twice as long outside), plus David, the guy who reinvented the wheel and got a deal on Shark Tank with Mark Cuban, Kevin O'Leary and Nick Woodman.
+	6 · Awareness
+	Hook and first minute: unaware. A story about babies sleeping in the snow, no product. Verse 3 on: product aware. The engineer and the Spin360 come in only after the problem ("a sealed room where the air won't move").
+	7 · Emotion
+	Wonder ("on purpose!") → "that's me" (the sealed room) → relief (walls gone, wake up rested). Upbeat country-pop, sing-along chorus. The music gets bigger when the product comes in.
+	8 · Positioning
+	Enemy: the sealed bedroom with dead-still air (not the cold, not the temperature). Spin360 brings the moving air of outside into your room.
+	Production brief
+Audio: the song is the whole ad: no voiceover, no music bed. If there is instrumental before her first word ("In Finland…"), cut it so her voice starts at 0:00 (we measured her voice coming in around 0:08–0:09). The times in the table are from the uncut song file, so move everything back by what you cut.
+Picture: the same shots of the original ad, in the same order. Use the clean footage from the original project (no burned-in captions). Stretch or repeat shots to fit the song: the song is longer than the voiceover (2:58 vs 2:21). Cut on the beat.
+The band stop: on "On purpose!" (~0:13) the band stops for a moment. Make it a hard cut to the baby's face at that exact moment.
+Captions: the sung lyrics, word by word, same caption style as the original. Never show "Sweden" or "Swedish" anywhere: the song now says Finland / Finnish.
+Changes from the original: no "$100 off" and no "First thousand people". The offer is now a 30-day trial (end text: Try it for 30 days). No scent names on screen (no pine, cedar, eucalyptus or citronella): only "scent pod". Skip the shot with the 7-Eleven sign (0:09.8 in the original): use another stroller shot there.
+Ending: use the whole song. If the last chorus feels long, you can end after the second "It's the air" (~2:45).
+Visual hooks (3 ads, same song)
+The first sung line is slow, so the picture and the on-screen text carry the hook from the very first frame. On-screen text for all 3 (0:00 until "On purpose!"): In Finland, they put babies outside to sleep in the snow. Then on the band stop: On purpose.
+Ad
+	Visual Inspiration
+	Scene description
+	Hook 1 · The dad
+Spin360_FinnishBabie_Song_Hook1
+	  
+
+	Original 0:00–0:03 as it is: the dad lifting the baby in the snow, then the baby lying in the snow. Same first frame as the winner. On "On purpose!" hard cut to the baby's face.
+	Hook 2 · Asleep in the snow
+Spin360_FinnishBabie_Song_Hook2
+	  
+
+	Open on the baby asleep in the red bag, snow on the stroller (original 0:11.1–0:15.6), slow push-in. On "On purpose!" cut to the snow-covered stroller (original 0:04.1).
+	Hook 3 · Rows of strollers
+Spin360_FinnishBabie_Song_Hook3
+	  
+
+	Open on the row of strollers parked outside the café (original 0:05.5–0:08.2), no parents in sight. On "On purpose!" cut to the baby asleep in the red bag (original 0:11.1).
+	From "Fifteen below" (~0:15) on, the three ads are the same.
+Script / Shot list
+Song times are approximate (measured from the uncut file). "Original" = the timecode in the original ad.
+Song
+	Lyrics (sung)
+	Visual Inspiration
+	Scene description
+	0:00
+	In Finland they put babies out to sleep in the snow
+	  
+
+	One of the three visual hooks 
+	~0:13
+	On purpose! (band stops)
+	  
+
+	
+
+	0:15
+	Fifteen below
+	  
+
+	
+
+	0:17
+	Strollers in a row outside the café
+	  
+
+  
+
+	
+
+	0:22
+	No parents in sight, and they're sound asleep anyway
+	  
+
+	
+
+	0:28
+	Almost twice as long, researchers measured it
+	  
+
+	
+
+	0:32
+	Preschools made it mandatory, every kid till three
+	  
+
+	
+
+	0:34
+	So they went and figured out why / And it wasn't what anyone expected to see
+	  
+
+	
+
+	0:39
+	Chorus · It's not the cold, they're bundled up warm
+	  
+
+  
+
+	
+
+	0:42
+	It's the air! Outside there's always a breeze in the air
+	  
+
+	
+
+	0:45
+	Bring 'em inside, shut the windows tight
+	  
+
+	
+
+	0:47
+	The air goes dead still, and baby's eyes go wide
+	  
+
+	
+
+	0:49
+	It's not the cold, it's the air
+	  
+
+  
+
+	
+
+	~0:59
+	But here's what's crazy, it's the same for you
+	  
+
+	
+
+	1:06
+	You sleep in a sealed room where the air won't move
+	  
+
+	
+
+	1:09
+	That's the experiment, every night in bed / No one's body has figured it out yet
+	  
+
+	
+
+	1:14
+	So one engineer in California got obsessed
+	  
+
+  
+
+	
+
+	1:17
+	Four years on it, wouldn't let it rest
+	  
+
+  
+
+	
+
+	1:19
+	It pulls the air in from two sides at once / And sends it out everywhere, like Saturn's rings
+	  
+
+	
+
+	1:24
+	'Cause of how the blade is shaped, it never feels mechanical
+	  
+
+  
+
+	
+
+	1:29
+	It feels like a breeze, the real thing
+	  
+
+	
+
+	1:33
+	Chorus 2 · First time you turn it on, the walls just aren't there
+	  
+
+	
+
+	1:36
+	Like you're lying outside in that perfect air
+	  
+
+	
+
+	1:39
+	Don't even know you're falling asleep
+	  
+
+	
+
+	1:41
+	Then you wake up like, "Wait… I actually feel good"
+	  
+
+	
+
+	1:45
+	Rested like those Finnish babies, it's the air
+	  
+
+  
+
+	
+
+	1:49
+	Bridge · Under speed five, you won't hear a thing
+	  
+
+	
+
+	1:58
+	Over five, it's wind through the trees
+	  
+
+  
+
+	
+
+	2:03
+	That soft shhh, and your mind goes quiet
+	  
+
+	
+
+	2:06
+	Drop a scent pod in, ten seconds later
+	
+
+	
+
+	2:09
+	
+
+Your whole room smells like outside
+	  
+
+  
+
+	
+
+	2:14
+	Made by the guy who reinvented the wheel / Went on Shark Tank
+	  
+
+  
+
+	
+
+	2:17
+	Cuban, O'Leary, Woodman made the deal
+	  
+
+  
+
+	
+
+	2:19
+	Try it thirty days, once you feel it, it speaks for itself
+	  
+
+	
+
+	2:21
+	Go check it out, sleep like those babies yourself
+	  
+
+  
+
+	
+
+	2:24
+	Final chorus (key change) · It's not the cold, it's the air / Spin360, moving everywhere / Try it thirty days, you'll feel it there
+	  
+
+  
+
+	
+
+	2:38–end
+	It's the air.
+	  
+
+	End on the bundled-up baby asleep outside, then the Spin360 with Try it for 30 days.
+	Why each part is there (for the cut)
+Part
+	What it does
+	Hook (0:00–0:15)
+	The same open loop as the winner: babies sleeping in the snow, on purpose. Why would anyone do that? The on-screen text carries it from frame 1.
+	Pre-chorus + chorus (0:28–0:59)
+	Proof (researchers measured it), then the answer: it's not the cold, it's the air. The chorus is the idea people will remember.
+	Verse 2 (0:59–1:14)
+	Turns the story to the viewer: your sealed bedroom has air that doesn't move.
+	Verse 3 (1:14–1:33)
+	The engineer and the mechanism: two sides in, out everywhere, feels like a breeze. The music gets bigger because the product comes in.
+	Chorus 2 (1:33–1:49)
+	The benefit, shown: the walls are gone, she falls asleep, wakes up rested. Callback to the babies.
+	Bridge + Verse 4 (1:49–2:24)
+	Quiet, the scent pod, then who made it (Shark Wheel, Shark Tank) and the 30-day trial.
+	Final chorus (2:24–end)
+	Closes the loop with the hook: it's the air, Spin360. Last image: the baby asleep outside.

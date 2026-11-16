@@ -1,0 +1,391 @@
+﻿BODY 1 — Quiet room. Loud brain.
+Watch: Brief - Spin360_RacingThoughts_Timeline
+
+
+Spin360_RacingThoughts_Timeline — Editor Brief (V16)
+THIS TAB = BODY 1 (2 ads). Body 2 is in the other tab. The two bodies are the same ad — same scenes, same shots, same music, same order. Only 3 things change (rows marked ★ in yellow below):
+1. The hook (VO + on-screen text) and its 2 visual hooks. Here: "Your brain gets louder when your room goes quiet." · on-screen QUIET ROOM. LOUD BRAIN.
+2. The first body line. Here: "With nothing to listen to…" (Body 2 says "With nothing else to focus on…")
+3. The "It's not you" line. Here: "Sleep researchers found that in dead silence…" (Body 2 says "That's what the researchers found: in dead silence…")
+Everything else is identical: cut the body once and reuse it, swapping only the hook and those 2 VO lines.
+	Strategy (same for Body 1 and Body 2)
+# Element
+	Answer
+	1 · Desire
+	"I want my brain to actually relax when I go to bed." Not knocked out — relieved. Get real sleep, wake up feeling like a person again, have patience for the people she loves and energy for work.
+	2 · Avatar
+	Experiences: "tired but wired" — her body is exhausted, but the second she lies down her brain switches on: replaying conversations, work, something embarrassing from years ago, tomorrow's to-do list. Behaviors: scrolls her phone to distract herself, falls asleep to podcasts or sleep-sound recordings, or can't sleep without a fan, even in winter. Emotions: exhausted, frustrated, quietly blaming herself ("something's wrong with me"). Demographic: US women ~40–60 (cast ~45).
+	3 · Angle
+	Your brain gets louder when your room goes quiet. It's not you, it's the quiet: in dead silence your own thoughts become the loudest thing in the room.
+	4 · Mechanism
+	A steady sound for your mind, a soft breeze for your body. The brain needs one steady sound to lock on to. Recordings stop, loop, or pull you in; a regular fan rattles, hums and blasts air at you. Spin360 makes real white noise — one steady sound that never changes — and pulls air in from the top and the bottom and pushes a soft breeze around the whole room.
+	5 · Authority
+	Sleep researchers (Body 2 opens with it; Body 1 says it in the body) · thousands of people sleeping with it every night · reviews · 30-night guarantee.
+	6 · Awareness
+	Problem aware: she knows her brain won't shut off; she doesn't know the silence is part of why. Many are already solution aware (fans, white noise, podcasts) — the body handles that with "they're on the right track, but…".
+	7 · Emotion
+	Opens: negative, high (shock, "that's me"). Middle: frustration → guilt (next day) → relief ("it's not you") → "I've tried everything" → hope at the product. Ends: very calm, positive (surrender, a good morning, relief). High intensity in the problem, very calm in the resolution — the contrast is the ad.
+	8 · Positioning
+	Enemy: the dead-silent bedroom while your brain is still running — and the things that don't fix it (phone recordings, podcasts, a regular fan blasting air). Spin360: real white noise + a soft breeze around the room. Something for your mind to settle into, something for your body to settle into.
+	Production brief
+Inspiration: https://app.trendtrack.io/en/w-gabriels-workspace-7jyN37H/explorer?tab=ads&ad=facebook_1365634045642067&adSource=meta
+
+
+Format: "Here's what happens, minute by minute" night timeline, ~2:20–2:30 VO. This tab: 2 ads (Body 1 × 2 visual hooks). Both ads use the same VO and on-screen text; only the first 3–5 seconds of picture change. From "In the first few minutes…" on, the two ads are identical.
+Look: cinematic, natural, realistic live-action (real people, real skin, lamp light at night, clear daylight by day; never glossy-commercial) cut with medical-realistic 3D inserts inside the ear and the brain at every mechanism beat.
+The big idea — thoughts made visible: her thoughts leave her head as amber points of light and project onto the ceiling she's staring at. The Spin360 sound is a smooth blue wave that crosses the room, enters the ear and dims the amber. Amber = racing thoughts / anxiety. Blue = steady sound / calm. The ad starts amber and ends blue.
+Three motifs that tie every scene together (no random shots): (1) the ceiling — dark → filling with thoughts → packed at 1 AM → washed clean by the blue wave → morning sunlight; (2) the colors amber vs blue; (3) the clock — 11:04 PM, 12:03 AM, 1:07 AM on the bad night, 3:00 PM the next day, the same times again on the good night. Every shot is born from the previous one (ceiling → brain → ear → room), match cuts wherever possible.
+Sound waves (3D, inside the ear): silence = flat line · phone recording = a wave that repeats with a visible seam, then cuts out · regular fan = jagged, wobbling wave · Spin360 = one smooth, even band that never changes.
+Cast & set (same in every scene): the woman (~45, real-life look), her husband asleep beside her in some shots, one bedroom. Product: Spin360 always on the floor in the corner, white floor model only . 3:00 PM scenes must read clearly as daytime (bright window light, wall clock) so "three o'clock" never reads as 3 AM.
+Visual hooks — Body 1 (2 ads) ★
+Ad
+	Spoken hook (VO)
+	Visual Inspiration
+	Scene description
+	VH-A Ceiling
+Spin360_RacingThoughts_Timeline_Body1_Hook1
+	Your brain gets louder when your room goes quiet. Here's what happens, minute by minute.
+	  
+
+  
+
+	Emotion / mystery. On-screen text: QUIET ROOM. LOUD BRAIN. Close on her face in bed; her hand switches the lamp off — one full second of black and real silence (H1a). Her eyes open in the dark; one amber point of light appears on the ceiling, then ten, then a hundred, with layered whispers rising (H1b). Cut to "In the first few minutes…".
+	VH-B Meters
+Spin360_RacingThoughts_Timeline_Body1_Hook2
+	Your brain gets louder when your room goes quiet. Here's what happens, minute by minute.
+	  
+
+  
+
+	Information / literal. On-screen text: QUIET ROOM. LOUD BRAIN. Nightstand: a sound meter reads ROOM 52 dB and drops to 0 dB as the lamp clicks off (H2a). Wide on her lying in the dark: a second meter floating above her head labeled BRAIN climbs into the red and maxes out (H2b; meters/graphics added in edit). Must read in half a second with the sound off.
+	Both visual hooks cut straight into the body at "In the first few minutes…".
+Body 1
+Section
+	VO
+	Visual
+	Scene description
+	Emotion
+	★ Night 1
+	In the first few minutes, your body lets go, but your brain doesn't. With nothing to listen to, it starts talking to itself.
+	  
+
+  
+
+	Clock 11:04 PM. Live-action: her body sinks into the mattress, eyes closed, the husband already asleep (B01). Cut into 3D: inside the ear canal no wave arrives — a flat line; inside the brain the first amber sparks start flickering on their own (B02).
+	Unease, "that's me".
+	Night 1
+	An hour in, you're replaying that conversation from work, something embarrassing you said years ago, and everything you have to do tomorrow.
+	  
+
+	Clock 12:03 AM. Her POV up at the ceiling: amber, translucent fragments float across it like projections — her boss across a meeting table, an awkward moment at a party years ago, a scrawled to-do list.
+	Recognition.
+	Night 1
+	Two hours in, you're still staring at the ceiling. You're exhausted, but your brain is going a hundred miles an hour.
+	  
+
+	Clock 1:07 AM. Overhead shot straight down on the bed: she lies wide awake, eyes open; the ceiling (reflected glow on her face) is packed with racing amber light. Husband asleep.
+	Pressure at its peak.
+	Next day
+	So the next day, you're short with everyone,
+	  
+
+	Live-action, harsh morning daylight, kitchen: dark circles, she snaps at her husband over coffee; he steps back, hurt.
+	Guilt.
+	Next day
+	and by three o'clock you're fighting to keep your eyes open.
+	  
+
+	Bright office, big windows, wall clock at 3:00 PM clearly in frame (daytime!). She blinks hard at her screen, head propped on her hand.
+	Exhaustion.
+	★ Reframe
+	It's not you, it's the quiet. Sleep researchers found that in dead silence, your own thoughts become the loudest thing in the room.
+	  
+
+	Back to the dark, silent bedroom. 3D cutaway: the only light in the whole room is her amber-glowing brain — literally the loudest thing in the room. Hold still: the first breath of the ad.
+	Relief from blame.
+	Tried it
+	You've tried recordings and podcasts on your phone, but they stop, they loop, or you end up listening instead of sleeping.
+	  
+
+  
+
+	Phone on the nightstand: a sleep-sound recording's waveform repeats with a visible seam, then the screen shows it stopped at 2:14 AM (B08). She lies awake with an earbud in, eyes open, listening to a podcast (B09). Short, frustrated cuts.
+	"I've tried everything."Z
+	Fan
+	Which is why so many people can't sleep without a fan, even in winter. They're on the right track.
+	  
+
+	Winter night: frost and snow outside the window, a regular box fan running on the dresser, she's bundled under a heavy blanket. A moment of "yes, that's me".
+	Validation.
+	Fan
+	But a fan was built to blow air, not to quiet your mind. So you get a rattle, a hum that keeps changing, and air blasting in your face all night.
+	  
+
+	Close: a regular pedestal fan blasting straight at her face, hair whipping, she pulls the blanket over her head. 3D inset: a jagged, wobbling sound wave entering the ear.
+	Discomfort.
+	THE TURN
+	That's exactly why we made Spin360. It makes real white noise.
+	  
+
+	Live-action hero: Spin360 standing on the floor in the corner of her bedroom, running, a soft blue glow in the room. Music opens up.
+	Hope.
+	Mechanism
+	One soft, steady sound that never changes, so your brain has something to hold on to besides your thoughts.
+	  
+
+	3D: one smooth, even blue band travels across the room, enters the ear canal and reaches the brain.
+	Wonder.
+	Mechanism
+	And the more your brain settles into that sound, the quieter your thoughts get.
+	  
+
+	3D brain: the amber sparks fall into rhythm with the blue wave and go out, one by one.
+	Relief.
+	Breeze
+	And it doesn't blast air at you. It pulls air in from the top and the bottom, and its blade pushes a soft breeze around the whole room, so your body can finally relax too.
+	  
+
+	Overhead view of the bedroom: soft blue rings of air flow out from the Spin360 in every direction (Saturn's rings) and wash gently over the whole bed. Her shoulders drop; a strand of hair barely moves.
+	Calm.
+	Proof
+	Thousands of people fall asleep to it every night, and the reviews keep saying the same thing: it drowns out the mental chatter.
+	  
+
+  
+
+	Use real UGC selfie footage here, not AI. We have a lot of selfie shots of real customers/creators with the Spin360 — build a quick mosaic of those real selfies (each with the Spin360 visible), with review snippets on screen in edit. Reference: Erin's selfie with her Spin360 (the selfie frame under the mosaic = Erin B-roll clip 35; clips 8 and 17 are more Erin selfies). The AI frame (B16) only shows the mosaic layout.
+	Trust.
+	Night 2
+	Now here's what happens instead. In the first few minutes, that steady sound fills the room and your brain locks onto it.
+	  
+
+	Same framing as B01, clock 11:04 PM again. The blue wave washes across the ceiling; the first amber points dim.
+	Surrender begins.
+	Night 2
+	By minute twenty, the replay fades out. So you're out before the first hour is up. You don't even remember your last thought.
+	  
+
+	Clock 11:20 PM: the last amber fragment on the ceiling fades into blue. Then she's deeply asleep, peaceful, husband beside her, Spin360 in the corner, clock 11:52 PM.
+	Peace. Slow down.
+	Morning
+	In the morning, you actually feel like talking to people.
+	  
+
+	Same kitchen as B05, now warm golden morning light: she's laughing with her husband over coffee. The ceiling above the bed shows plain morning sunlight (optional insert).
+	Joy, lightness.
+	Morning
+	And that three o'clock crash? Gone.
+	  
+
+	Same office as B06, wall clock 3:00 PM, bright daylight: she's sharp and smiling, leading a conversation.
+	Confidence.
+	Close
+	Your room's going to go quiet again tonight. What's your brain going to hear: your to-do list, or one steady sound?
+	  
+
+	Night again: her hand switches the lamp off (echo of the hook). Split screen: left, the amber, sparking brain; right, the calm blue brain riding the steady wave.
+	The choice.
+	Offer
+	Over a year, that's about fifty cents a night. Less than your three o'clock coffee.
+	  
+
+	Product hero on the bedroom floor beside a coffee cup. On screen: ~50¢ A NIGHT.
+	Easy decision.
+	Offer
+	Try Spin360 for thirty nights. If you're not falling asleep easier, send it back.
+	  
+
+	Spin360 in morning light in the bedroom. On screen: 30 NIGHTS — RISK-FREE.
+	Confidence.
+	CTA
+	Tap the link and give your mind something to settle into.
+	  
+
+	Her asleep, calm blue room, Spin360 in the corner. End card + CTA.
+	Calm resolution.
+	
+
+BODY 2 — Why your thoughts get louder at night
+Spin360_RacingThoughts_Timeline — Editor Brief (V16)
+THIS TAB = BODY 2 (2 ads). Body 1 is in the other tab. The two bodies are the same ad — same scenes, same shots, same music, same order. Only 3 things change (rows marked ★ in yellow below):
+1. The hook (VO + on-screen text) and its 2 visual hooks. Here: "Sleep researchers found why your thoughts get louder at night." · on-screen WHY YOUR THOUGHTS GET LOUDER AT NIGHT
+2. The first body line. Here: "With nothing else to focus on…" (Body 1 says "With nothing to listen to…")
+3. The "It's not you" line. Here: "That's what the researchers found: in dead silence…" (Body 1 says "Sleep researchers found that in dead silence…")
+Everything else is identical: cut the body once and reuse it, swapping only the hook and those 2 VO lines.
+	Strategy (8 elements): same as Body 1 — see the Body 1 tab.
+Production brief
+Inspiration: https://app.trendtrack.io/en/w-gabriels-workspace-7jyN37H/explorer?tab=ads&ad=facebook_1365634045642067&adSource=meta
+
+
+Format: "Here's what happens, minute by minute" night timeline, ~2:20–2:30 VO. This tab: 2 ads (Body 2 × 2 visual hooks). Both ads use the same VO and on-screen text; only the first 3–5 seconds of picture change. From "In the first few minutes…" on, the two ads are identical.
+Look: cinematic, natural, realistic live-action (real people, real skin, lamp light at night, clear daylight by day; never glossy-commercial) cut with medical-realistic 3D inserts inside the ear and the brain at every mechanism beat.
+The big idea — thoughts made visible: her thoughts leave her head as amber points of light and project onto the ceiling she's staring at. The Spin360 sound is a smooth blue wave that crosses the room, enters the ear and dims the amber. Amber = racing thoughts / anxiety. Blue = steady sound / calm. The ad starts amber and ends blue.
+Three motifs that tie every scene together (no random shots): (1) the ceiling — dark → filling with thoughts → packed at 1 AM → washed clean by the blue wave → morning sunlight; (2) the colors amber vs blue; (3) the clock — 11:04 PM, 12:03 AM, 1:07 AM on the bad night, 3:00 PM the next day, the same times again on the good night. Every shot is born from the previous one (ceiling → brain → ear → room), match cuts wherever possible.
+Sound waves (3D, inside the ear): silence = flat line · phone recording = a wave that repeats with a visible seam, then cuts out · regular fan = jagged, wobbling wave · Spin360 = one smooth, even band that never changes.
+Cast & set (same in every scene): the woman (~45, real-life look), her husband asleep beside her in some shots, one bedroom. Product: Spin360 always on the floor in the corner, white floor model only . 3:00 PM scenes must read clearly as daytime (bright window light, wall clock) so "three o'clock" never reads as 3 AM.
+Visual hooks — Body 2 (2 ads) ★
+Ad
+	Spoken hook (VO)
+	Visual Inspiration
+	Scene description
+	VH-A Sleep lab
+Spin360_RacingThoughts_Timeline_Body2_Hook1
+	Sleep researchers found why your thoughts get louder at night. Here's what happens, minute by minute.
+	  
+
+  
+
+	Authority as a picture. On-screen text: WHY YOUR THOUGHTS GET LOUDER AT NIGHT. A woman in a sleep-lab bed with EEG electrodes; the room lights go out (H3a). A researcher at the monitors watches the brain-activity line spike the moment the room goes silent (H3b). Then cut to our woman at home, "In the first few minutes…". Never name a specific study on screen.
+	VH-B Night cam
+Spin360_RacingThoughts_Timeline_Body2_Hook2
+	Sleep researchers found why your thoughts get louder at night. Here's what happens, minute by minute.
+	  
+
+  
+
+	Scientific footage. On-screen text: WHY YOUR THOUGHTS GET LOUDER AT NIGHT. Overhead night-vision sleep-study camera of her in bed, timestamp running in the corner (H4a). Same frame with two lines drawn over it: ROOM SOUND falls flat while BRAIN ACTIVITY climbs (H4b; graph added in edit). Curiosity: "what is this graph showing?"
+	Both visual hooks cut straight into the body at "In the first few minutes…".
+Body 2
+Section
+	VO
+	Visual
+	Scene description
+	Emotion
+	★ Night 1
+	In the first few minutes, your body lets go, but your brain doesn't. With nothing else to focus on, it starts talking to itself.
+	  
+
+  
+
+	Clock 11:04 PM. Live-action: her body sinks into the mattress, eyes closed, the husband already asleep (B01). Cut into 3D: inside the ear canal no wave arrives — a flat line; inside the brain the first amber sparks start flickering on their own (B02).
+	Unease, "that's me".
+	Night 1
+	An hour in, you're replaying that conversation from work, something embarrassing you said years ago, and everything you have to do tomorrow.
+	  
+
+	Clock 12:03 AM. Her POV up at the ceiling: amber, translucent fragments float across it like projections — her boss across a meeting table, an awkward moment at a party years ago, a scrawled to-do list.
+	Recognition.
+	Night 1
+	Two hours in, you're still staring at the ceiling. You're exhausted, but your brain is going a hundred miles an hour.
+	  
+
+	Clock 1:07 AM. Overhead shot straight down on the bed: she lies wide awake, eyes open; the ceiling (reflected glow on her face) is packed with racing amber light. Husband asleep.
+	Pressure at its peak.
+	Next day
+	So the next day, you're short with everyone,
+	  
+
+	Live-action, harsh morning daylight, kitchen: dark circles, she snaps at her husband over coffee; he steps back, hurt.
+	Guilt.
+	Next day
+	and by three o'clock you're fighting to keep your eyes open.
+	  
+
+	Bright office, big windows, wall clock at 3:00 PM clearly in frame (daytime!). She blinks hard at her screen, head propped on her hand.
+	Exhaustion.
+	★ Reframe
+	It's not you, it's the quiet. That's what the researchers found: in dead silence, your own thoughts become the loudest thing in the room.
+	  
+
+	Back to the dark, silent bedroom. 3D cutaway: the only light in the whole room is her amber-glowing brain — literally the loudest thing in the room. Hold still: the first breath of the ad.
+	Relief from blame.
+	Tried it
+	You've tried recordings and podcasts on your phone, but they stop, they loop, or you end up listening instead of sleeping.
+	  
+
+  
+
+	Phone on the nightstand: a sleep-sound recording's waveform repeats with a visible seam, then the screen shows it stopped at 2:14 AM (B08). She lies awake with an earbud in, eyes open, listening to a podcast (B09). Short, frustrated cuts.
+	"I've tried everything."
+	Fan
+	Which is why so many people can't sleep without a fan, even in winter. They're on the right track.
+	  
+
+	Winter night: frost and snow outside the window, a regular box fan running on the dresser, she's bundled under a heavy blanket. A moment of "yes, that's me".
+	Validation.
+	Fan
+	But a fan was built to blow air, not to quiet your mind. So you get a rattle, a hum that keeps changing, and air blasting in your face all night.
+	  
+
+	Close: a regular pedestal fan blasting straight at her face, hair whipping, she pulls the blanket over her head. 3D inset: a jagged, wobbling sound wave entering the ear.
+	Discomfort.
+	THE TURN
+	That's exactly why we made Spin360. It makes real white noise.
+	  
+
+	Live-action hero: Spin360 standing on the floor in the corner of her bedroom, running, a soft blue glow in the room. Music opens up.
+	Hope.
+	Mechanism
+	One soft, steady sound that never changes, so your brain has something to hold on to besides your thoughts.
+	  
+
+	3D: one smooth, even blue band travels across the room, enters the ear canal and reaches the brain.
+	Wonder.
+	Mechanism
+	And the more your brain settles into that sound, the quieter your thoughts get.
+	  
+
+	3D brain: the amber sparks fall into rhythm with the blue wave and go out, one by one.
+	Relief.
+	Breeze
+	And it doesn't blast air at you. It pulls air in from the top and the bottom, and its blade pushes a soft breeze around the whole room, so your body can finally relax too.
+	  
+
+	Overhead view of the bedroom: soft blue rings of air flow out from the Spin360 in every direction (Saturn's rings) and wash gently over the whole bed. Her shoulders drop; a strand of hair barely moves.
+	Calm.
+	Proof
+	Thousands of people fall asleep to it every night, and the reviews keep saying the same thing: it drowns out the mental chatter.
+	  
+
+  
+
+	Use real UGC selfie footage here, not AI. We have a lot of selfie shots of real customers/creators with the Spin360 — build a quick mosaic of those real selfies (each with the Spin360 visible), with review snippets on screen in edit. Reference: Erin's selfie with her Spin360 (the selfie frame under the mosaic = Erin B-roll clip 35; clips 8 and 17 are more Erin selfies). The AI frame (B16) only shows the mosaic layout.
+	Trust.
+	Night 2
+	Now here's what happens instead. In the first few minutes, that steady sound fills the room and your brain locks onto it.
+	  
+
+	Same framing as B01, clock 11:04 PM again. The blue wave washes across the ceiling; the first amber points dim.
+	Surrender begins.
+	Night 2
+	By minute twenty, the replay fades out. So you're out before the first hour is up. You don't even remember your last thought.
+	  
+
+	Clock 11:20 PM: the last amber fragment on the ceiling fades into blue. Then she's deeply asleep, peaceful, husband beside her, Spin360 in the corner, clock 11:52 PM.
+	Peace. Slow down.
+	Morning
+	In the morning, you actually feel like talking to people.
+	  
+
+	Same kitchen as B05, now warm golden morning light: she's laughing with her husband over coffee. The ceiling above the bed shows plain morning sunlight (optional insert).
+	Joy, lightness.
+	Morning
+	And that three o'clock crash? Gone.
+	  
+
+	Same office as B06, wall clock 3:00 PM, bright daylight: she's sharp and smiling, leading a conversation.
+	Confidence.
+	Close
+	Your room's going to go quiet again tonight. What's your brain going to hear: your to-do list, or one steady sound?
+	  
+
+	Night again: her hand switches the lamp off (echo of the hook). Split screen: left, the amber, sparking brain; right, the calm blue brain riding the steady wave.
+	The choice.
+	Offer
+	Over a year, that's about fifty cents a night. Less than your three o'clock coffee.
+	  
+
+	Product hero on the bedroom floor beside a coffee cup. On screen: ~50¢ A NIGHT.
+	Easy decision.
+	Offer
+	Try Spin360 for thirty nights. If you're not falling asleep easier, send it back.
+	  
+
+	Spin360 in morning light in the bedroom. On screen: 30 NIGHTS — RISK-FREE.
+	Confidence.
+	CTA
+	Tap the link and give your mind something to settle into.
+	  
+
+	Her asleep, calm blue room, Spin360 in the corner. End card + CTA.
+	Calm resolution.

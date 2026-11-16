@@ -1,0 +1,177 @@
+﻿Some shots that you can use : Baby no texts 
+
+
+Brand: Spin360
+Ad ID: Spin360_NordicBabies_DavidExplainer
+Author: Gabriel
+
+
+
+
+AD BRIEF
+	
+
+Watch the videos first
+1. Every Frame a Painting — How Does an Editor Think and Feel → https://youtu.be/3Q3eITC01Fg THE main one. David's pauses and looks are the edit — never trim them.
+
+
+2. The_David_Explainer (1).mp4
+
+
+1. CREATIVE DIRECTION
+
+
+"The storyboard is here to be broken — by someone who understood it first." 
+You will be using that workflowSeedance workflow
+
+
+Examples: Spin360_UGC_DavidScamConfession_Hook3.mp4Spin360_UGC_DavidScamReaction_Hook1
+Some shots that you can use : Baby no texts 
+
+
+  
+
+
+
+Who buys this ad: the same buyer as the original Swedish Babies VSL — a woman, Unaware, who sleeps badly. The babies are the PROOF; the promise is HER sleep.
+
+
+What this ad is: the Nordic Babies argument (same skeleton as Spin360_NordicBabies_VO_V5.3) told by DAVID, one person, one camera, as an organic explainer. He opens with the "Did you know" hook, tells the Nordic fact like a guy telling you something wild he learned, and lands on his own product. Inserts carry the visuals over his voice.
+
+
+How this differs from the V5.3 batch (variation rule): V5.3 = acted scene + narrator VO. This = zero acting, zero narrator — one man talking. Different format, different voice, different structure. Not a skin.
+
+
+THE VOICE RULE (the whole point of this ad): every line follows David's REAL speech fingerprint, extracted from his unscripted SRTs: "so" as the connector · repetition as rhythm ("It's dead. And they feel it. And they wake up.") · "literally" · doubled emphasis ("big, big difference") · concrete analogies · personal habit framing ("I drop a pod in at night") · understatement ("That might honestly be my favorite part"). Long stretches are verbatim or near-verbatim from his own mouth. Do NOT polish these lines into copywriting. If a line feels too clean, it's wrong.
+
+
+THE HONESTY RULE (locked — David's face is on this): his lines are NEW, recorded with AI in his approved voice — so every claim must already exist in a published ad or in David's own recorded speech. Claim map:
+
+
+* Nordic babies / twice as long / researchers: the original Swedish Babies scaling ad
+* stagnant–dead air, spinning vs pushing, twin vortexes, Saturn's rings, "walls were removed", "wow this feels great": David's own words, LA April 26 SRT + speaking freely SRT
+* "you literally will not be able to hear it", "ridiculously quiet", "throws out scent like you cannot believe", "if you can smell it the bugs can smell it", "biggest home run": David's own words, Kickstarter V1 video
+* ORIGIN HONESTY: David does NOT say the babies inspired the invention. He was already obsessed with still air ("that's the thing I'd been obsessed with for four years"). The Nordic fact CONFIRMS the obsession — it did not cause it.
+* Scent: say "spa", never "forest" — matches the real pod lineup (Fresh / Clean / Lux).
+* Credential: spoken line is ONLY "I've launched products before — such as the Shark Wheel." Shark Tank and the sharks appear ON SCREEN, never in his mouth. What the voice drops, the image carries.
+
+
+DAVID: the real David Patrick look — his AI avatar as approved on the account. Relaxed setting (workshop or living room, product visible beside him from the build beat onward). Natural spoken delivery, his pace — he talks with his hands.
+
+
+PACING RULE: beat-mapped — no image longer than ~8s. David on camera is the anchor; inserts breathe over his voice, then return to him.
+
+
+TIMING (honest): ~440 words ≈ 2:45–2:50 at David's natural relaxed pace (~155wpm) + pauses + the 2s fan audio.
+
+
+The storyboard is the plan, not a cage. Locked: the honesty rule · the voice rule · the claim map · the 2s of real fan audio · Shark Tank on screen only · "spa" never "forest". Yours: angles, insert timing, setting details.
+2. THE SCRIPT — DAVID (FINAL — locked, do not rewrite lines)
+Did you know that in the Nordic countries, they put their babies outside to nap? In the snow. And I don't mean a few crazy parents — this is normal over there. There's rows of strollers sitting outside the coffee shops, babies asleep inside, moms inside having coffee. And here's the crazy part: those babies sleep almost twice as long outside. Researchers measured it.
+
+
+So when I first heard this, I had to know why. And it's not the cold. Look at 'em — they're bundled up, they're warm. It's the air. Outside, the air never stops moving. There's always a breeze doing something. You bring that baby inside, you close the windows... air that's not moving is called stagnant. It's dead. And they feel it. And they wake up.
+
+
+And you're the same way. You walk into a room with dead air — you feel it. You literally can feel it. Every generation before you slept with moving air. Open windows. Breeze on the skin. So a sealed room where nothing moves? Nobody's body has figured that out yet.
+
+
+And that's the thing I'd been obsessed with for four years — air that doesn't move. So here's what I built. It pulls air in from the top AND the bottom — twin vortexes coming in — and it comes out everywhere at once. Out the sides, like Saturn's rings. And here's the key: we're not spinning the air at you like other fans do. We're pushing it at you. And that is a big, big difference. Air that's being pushed feels entirely natural. That's the way a real breeze feels.
+
+
+I sleep with it every night. And I know what it's like to be in a stagnant room — but when this is going, you'd swear the walls were removed. That my bed is just... outside. And people tell me the same thing about the first night. You wake up and you go — wow. This feels great.
+
+
+It's silent below speed five — you literally will not be able to hear it. It's just ridiculously quiet. Above five, it makes this sound like wind going through trees —
+
+
+[VO stops. 2 seconds of the actual fan audio, clean, no music.]
+
+
+— you hear that? And that sound just puts you out.
+
+
+And it throws out scent like you cannot believe. I drop a pod in at night — ten seconds, the whole room smells like a spa. Citronella in the summer — if you can smell it, the bugs can smell it. No bugs. That might honestly be my favorite part.
+
+
+I've launched products before — such as the Shark Wheel. But this... this is my absolute biggest home run.
+3. STORYBOARD (beat-mapped)
+#
+	David's line
+	Visual — numbered beats
+	Note
+	1
+	"Did you know that in the Nordic countries, they put their babies outside to nap? In the snow. And I don't mean a few crazy parents — this is normal over there. There's rows of strollers sitting outside the coffee shops, babies asleep inside, moms inside having coffee. And here's the crazy part: those babies sleep almost twice as long outside. Researchers measured it." (~25s)
+	5 beats: (1) DAVID on camera, leaning in — the "did you know" energy, ~5s (2) insert[a]: a ROW of prams in the snow outside a café, babies asleep, ~5s (3) insert: through the café window — moms with coffee, calm, ~5s (4) insert: close on a bundled baby sleeping deep, snow on the canopy, ~5s (5) back to DAVID on "here's the crazy part", ~5s.
+	The hook = the fact + his genuine amazement. Same visual world as V5.3 (reuse generations). Babies always bundled, warm, visible; moms present.
+	2
+	"So when I first heard this, I had to know why. And it's not the cold. Look at 'em — they're bundled up, they're warm. It's the air. Outside, the air never stops moving. There's always a breeze doing something. You bring that baby inside, you close the windows... air that's not moving is called stagnant. It's dead. And they feel it. And they wake up." (~25s)
+	5 beats: (1) DAVID, ~5s (2) insert: bundled warm baby on "look at 'em", ~4s (3) insert: outdoor air moving — snow drifting, branches swaying, ~5s (4) insert: a still, dark nursery — dead air, ~5s (5) insert: a baby stirring awake, ~5s.
+	The turn: not cold → AIR. "It's dead. And they feel it." — hold his rhythm, don't tighten the repetition.
+	3
+	"And you're the same way. You walk into a room with dead air — you feel it. You literally can feel it. Every generation before you slept with moving air. Open windows. Breeze on the skin. So a sealed room where nothing moves? Nobody's body has figured that out yet." (~18s)
+	3 beats: (1) DAVID, direct to camera, ~6s (2) insert: open window, curtain breathing, ~5s (3) insert: sealed modern bedroom, a woman turning restlessly, ~6s.
+	THE BUYER ENTERS HERE.
+	4
+	"And that's the thing I'd been obsessed with for four years — air that doesn't move. So here's what I built. It pulls air in from the top AND the bottom — twin vortexes coming in — and it comes out everywhere at once. Out the sides, like Saturn's rings. And here's the key: we're not spinning the air at you like other fans do. We're pushing it at you. And that is a big, big difference. Air that's being pushed feels entirely natural. That's the way a real breeze feels." (~30s)
+	5 beats: (1) DAVID — THE PRODUCT ENTERS beside him on "here's what I built", ~6s (2) insert: smoke pulled in top + bottom, ~6s (3) insert: release — full circle out, the room filling, ~6s (4) DAVID with his hands showing spinning vs pushing, ~6s (5) insert: macro blade shape + sheer curtain breathing, ~6s.
+	The mechanism, in his own verbatim frames. If the AI shots of the fan aren't 100% perfect, use our real product footage.
+	5
+	"I sleep with it every night. And I know what it's like to be in a stagnant room — but when this is going, you'd swear the walls were removed. That my bed is just... outside. And people tell me the same thing about the first night. You wake up and you go — wow. This feels great." (~20s)
+	3 beats: (1) DAVID, quieter, personal, ~7s (2) DREAM BEAT insert: a bedroom "opening" — night-sky feeling, lying outside somewhere, ~7s (3) insert: morning, waking rested, ~6s.
+	His experience first ("I sleep with it every night"), the report second ("people tell me the same"). Keep that order — it's what makes it honest.
+	6
+	"It's silent below speed five — you literally will not be able to hear it. It's just ridiculously quiet. Above five, it makes this sound like wind going through trees —" [2s real fan audio] "— you hear that? And that sound just puts you out." (~16s + 2s)
+	3 beats: (1) DAVID by the dial at 4 — the silent room, ~6s (2) dial to 6 — the product spinning; HOLD through the 2s of clean audio, ~7s (3) DAVID: "you hear that?" — a small smile, ~5s.
+	The live demo moment. The 2s of real audio is mandatory — real recording, and if the contrast isn't obvious in a blind listen, re-record.
+	7
+	"And it throws out scent like you cannot believe. I drop a pod in at night — ten seconds, the whole room smells like a spa. Citronella in the summer — if you can smell it, the bugs can smell it. No bugs. That might honestly be my favorite part." (~17s)
+	3 beats: (1) DAVID dropping the pod in — his own hands, his own habit, ~6s (2) insert: the bedroom turning calm, warm, spa feeling, ~6s (3) DAVID, the understated shrug on "my favorite part", ~5s.
+	Personal habit, not instruction manual. "Spa", never "forest".
+	8
+	"I've launched products before — such as the Shark Wheel. But this... this is my absolute biggest home run." (~10s)
+	3 beats: (1) DAVID, relaxed, ~3s (2) INSERT: quick Shark Wheel shot + Shark Tank flash — the sharks visible, NO names spoken, ~4s (3) DAVID with the product, the last line lands, hold 1s, cut to black, ~3s.
+	What the voice dropped, the image carries: Shark Tank and the sharks live ON SCREEN only. "Biggest home run" is his verbatim closer.
+	DELIVERY
+
+
+	
+
+	If the AI shots of the fan aren't 100% perfect, use our real product footage
+	
+
+	Runtime
+	~2:45–2:50 (including the 2s fan audio)
+	Format
+	9:16
+	Voice
+	DAVID: his own words, AI-recorded in his approved voice, relaxed natural pace — he talks with his hands. Do not smooth the repetitions; they ARE his voice
+	Structure rule
+	Did-you-know hook → the turn (air, not cold) → the bridge (you're the same) → the build → his experience → sound demo → scent habit → home-run closer
+	Honesty rule
+	Every claim exists in a published ad or in David's recorded speech (claim map in Section 1) · origin honesty: the babies confirm the obsession, they didn't cause it · Shark Tank on screen only
+	Captions
+	Whole video, account style
+	Baby rule
+	Bundled, warm, visible — moms always nearby and calm. Charming, never negligent
+	File name
+	Spin360_NordicBabies_DavidExplainer
+	
+
+Primary Text:
+🌙 David spent four years obsessing over one thing most people never notice:
+dead air.
+When your bedroom is sealed all night, the air just sits there.
+SPIN360 changes that.
+It pulls air from the top and bottom, then sends a soft 360° breeze around the whole room — kind of like Saturn’s rings.
+Quiet under speed five.
+Natural shhhh above that.
+And the room starts feeling less like a box… and more like outside air at night.
+Maybe your bedroom doesn’t need another sleep trick.
+Maybe it just needs moving air again.
+Tap Shop Now and try a room that breathes 👇
+Headline:
+Try A Room That Breathes
+
+
+[a]Make 3 variations here your choice

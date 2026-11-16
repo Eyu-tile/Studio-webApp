@@ -1,0 +1,50 @@
+﻿Spin360_HearNotNear
+3 ads: same voiceover and same body, 3 different visual hooks. About 33 seconds, 9:16.
+The idea
+A real customer wrote this in her review: "I have ALWAYS found fans to be wonderful to hear and terrible to be near!" That is how a lot of people feel. They like the sound of a fan to sleep, but they hate the blast: dry eyes, hair blowing around, air in the face.
+Spin360 keeps the sound and drops the blast. Nothing is aimed at you. The air in the whole room just keeps moving, soft, like a window left open. The result we sell: you sleep right through the night and wake up actually rested.
+The ad opens with her sentence and closes by answering it: "Wonderful to hear. And finally, good to be near."
+Voiceover script
+Voice: ElevenLabs "Siren - Natural realistic conversational voice": https://elevenlabs.io/voices/eXpIbVcVbLo8ZJQDlDnl (voice ID eXpIbVcVbLo8ZJQDlDnl). Calm and natural, like a friend talking.
+"I have always found fans to be wonderful to hear and terrible to be near."
+A customer wrote that. And she's right.
+The sound helps you sleep. But the blast dries your eyes, blows your hair around, and hits one person in the face.
+So this fan keeps the sound and drops the blast.
+It pulls air in from two directions and sends it out like Saturn's rings. So nothing is aimed at you. The air in the whole room just keeps moving, soft, like you left a window open.
+You feel it from head to toe. Not in one spot.
+And the sound? You choose. Settings one to five are ultra quiet. Six through nine give you that soft shhh, white noise, perfect for sleeping.
+You sleep right through the night. And you wake up actually rested.
+Wonderful to hear. And finally, good to be near.
+Sleep on it for 30 nights. If you don't love it, just send it back.
+The 3 visual hooks
+The voiceover is the same in all three. Only the picture over the first two lines changes (about the first 6 seconds).
+Hook
+	What we see
+	Hook 1: the review
+	The review itself on screen, like a real 5-star review card, with her sentence appearing word by word as the voice reads it: "I have ALWAYS found fans to be wonderful to hear and terrible to be near!" Behind it, soft and out of focus, a bedroom with the Spin360.
+	Hook 2: hear / near
+	Two quick moments. "Wonderful to hear": someone falling asleep peacefully to the sound of a fan. "Terrible to be near": the same person with an ordinary fan blowing right in the face, hair flying, eyes squinting. The contrast is the hook.
+	Hook 3: the blast
+	Start directly on the problem: an ordinary fan blasting someone in bed, hair and sheets moving, papers flying off the nightstand. Then cut to the Spin360 in the same kind of room, where nothing is flying and a curtain just moves gently.
+	How the edit could go (open, your call)
+* Material: use our UGC library first (bedroom and sleep shots, Spin360 beside the bed, the dial, blades up close, gentle movement).
+* "The blast dries your eyes...": an ordinary fan blowing hard on someone. We do not have this in the library; generate it or use stock.
+* "Keeps the sound and drops the blast": first clear shot of the Spin360 running.
+* "Two directions... Saturn's rings": the airflow animation from Reinvent_Wheel_SplitScreen_David_V2_Hook_2.mp4, short.
+* "Like you left a window open": a curtain, a plant or hair moving gently in the room. No strong wind anywhere from here on.
+* "Head to toe": a person lying in bed, the whole body in frame, calm.
+* "Settings one to five / six through nine": the dial. Bring the music almost to zero on "ultra quiet", then let us hear the real soft fan sound on "shhh".
+* "Sleep right through... rested": sleeping, then waking up in morning light.
+* "Wonderful to hear. And finally, good to be near": the person close to the Spin360, relaxed. If you used the review card in the hook, it can come back here.
+* Last line: end card with "Sleep on it for 30 nights."
+Useful clips from the UGC library (suggestions)
+* Sleeping under a duvet: Erin 28.MOV (0:00-0:08, Spin360 on beside her), Avery "kid sleeping" (0:00-0:07), Stacie IMG_9769 (0:00-0:11).
+* Spin360 beside the bed at night: Erin 25.MOV (0:00-0:22), Vicky IMG_8039.
+* Gentle movement: Erin 8.MOV (0:00-0:18), Michael "Summer breeze window open", Michael "Ribbons".
+* Dial going past 5: Stacie IMG_9752 (0:28-1:00), Michael "Button press first impressions" (1:06-1:27), Charlie IMG_3849 (0:29-0:39).
+* Blades up close: Stacie IMG_9752 (0:04-1:00), Charlie IMG_3851 (0:07-0:13).
+Notes
+* The first line is a real customer review. On screen, keep her words exactly as written.
+* Same caption style as our winner. Calm music, low under the voice.
+* Please do not add on-screen claims that are not in the script.
+* Export 3 files: Spin360_HearNotNear_Hook1, _Hook2, _Hook3.

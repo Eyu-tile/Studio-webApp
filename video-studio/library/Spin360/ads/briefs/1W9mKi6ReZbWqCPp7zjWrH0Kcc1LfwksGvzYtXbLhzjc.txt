@@ -1,0 +1,156 @@
+﻿Spin360_AIStreetInterview
+Brief - Spin360_AIStreetInterview.mp4
+	
+
+The idea: everyone sleeps best where the air moves. The video never says it straight: the interviewees show it, the man realizes it, and David explains it. Inspiration, not a rulebook. Use your judgment.
+	Strategy
+# Element
+	Answer
+	Desire
+	"I want to sleep like I used to." Wake up rested instead of tired, with fresh moving air like the best nights of their life (camping, the beach, a window open), without a fan blasting their face.
+	Avatar
+	Homeowners 45–65 in a closed-up house who haven't slept well in years: they go to bed tired and wake up tired and can't say why. They already tried a box fan, the ceiling fan, the AC. Belief to respect: "a fan is a fan, it just blows air at you."
+	Angle
+	One reason to buy: everyone sleeps best where the air moves (outside). The Spin360 brings that moving air into a closed bedroom: it pulls the warm air from the ceiling and the cool air from the floor and mixes them into one perfect atmosphere, so the room feels open and outdoors, at the temperature of your own home.
+	Mechanism
+	Regular fans blow one way, or swing side to side to spread it. This one pulls air in from both directions and sends it out all around at once (Saturn's rings), mixing the floor air and the ceiling air.
+	Proof
+	David's own first night ("I thought I was outside"), the nights after ("waking up more refreshed"), a real customer ("I haven't slept this good in years"), and "I can't live without this thing."
+	Authority
+	David Patrick, the inventor, introduced by the on-screen text "The inventor who brings outdoor air into your bedroom." He is the only real person in the video, and it shows.
+	Awareness
+	Hook: Unaware (a funny, obviously-AI street interview). The man in the robe turns it Problem Aware ("I'm stuck in a closed-up bedroom where nothing moves"). David takes it to Product Aware.
+	Emotion
+	Amusement (the baby, the bear), recognition ("that's me"), curiosity, wonder ("the walls were gone"), then calm and want.
+	Format
+	AI street interview, and we don't hide that it's AI. Absurd interviewees in the snow, then a hard cut to the real David from the Dropbox interview. The cold/snow is only in the visuals: nobody ever mentions the season.
+	Hook
+	1 hook (the interview is one continuous sequence).
+	Offer
+	No discount and no sales line in the voice. End card only: "Try it for 30 nights."
+	Production brief
+Format: vertical 9:16, about 1:40.
+AI street interview (orange rows): new scenes and voices to create. Hyperreal but clearly AI, funny, like the viral AI street interviews. Voices must sound like real people talking (flowing, natural), not like ad reads. The snow and the cold are only visual: nobody says "winter" or anything about the weather.
+Real part (white rows): Interview Final render-4K.mov (16:9 4K, crop to 9:16) and TESTIMONIALS.mp4. Timecodes ± 0.5 s.
+The switch from AI to real (most important moment of the edit): 1) TRANSITION: signal glitch, about 0.3 s. Right after the man says "where nothing moves at all", his image glitches like a video losing signal (quick shake, RGB color split, a bit of static and a short digital noise), so the viewer feels we are leaving the AI world. 2) Hard cut to David in close-up, with no transition line in the voice. 3) ON-SCREEN TEXT, upper third, about 2 s, while David starts talking: The inventor who brings outdoor air into your bedroom. 4) LOWER THIRD: David Patrick (name only). 5) Use only David's close shots at the start. The woman interviewing him shows up later in wide shots, so it never looks like our AI interviewer is the one talking to David. Backup if the glitch doesn't work: zoom-out transition, the AI interview shrinks into a phone screen, then cut to David.
+Captions: white, a few words at a time, lower third.
+Visual hook (1 ad)
+Ad
+	Visual Inspiration
+	Scene description
+	Hook · Swedish baby
+Spin360_AIStreetInterview
+	  
+
+	Opens on the interviewer's question, straight into the baby's answer. The first 3 seconds should already feel funny and weird enough to stop the scroll.
+	Full script
+Section
+	What they say (source)
+	Visual Inspiration
+	Visual idea
+	Emotion
+	Hook · Baby
+	AI · new scene
+[Interviewer] Okay, quick question for you guys, where do you actually sleep the best?
+[Swedish baby in the pram] Oh, outside, for sure. My mom parks me right here in the snow every afternoon and I'm out cold for like three hours,     you can ask her.
+	  
+
+	Snowy city sidewalk, light snowfall, people in coats walking by. Interviewer holds the mic to a baby in a classic pram. The baby talks like a confident street-interview guest. Hyperreal, obviously AI, funny.
+	Fun
+	Polar bear
+	AI · new scene
+I mean, I've never slept inside a day in my life, so I'm gonna say right here, every single night, best sleep you can get.
+	  
+
+	A polar bear lying in fresh snow, calmly answering the mic.
+	Fun
+	Ice fisherman
+	AI · new scene
+Honestly, out here in the tent. There's this fresh air coming through all night and I just pass out the second my head hits the pillow.
+	  
+
+	Frozen lake, small ice-fishing tent, a cheerful fisherman (50s) stepping out to answer.
+	Fun
+	The man
+	AI · new scene
+[Man ~55] Me? Oh man… honestly, I don't think I've slept well in years. I go to bed tired, I wake up tired, and I couldn't even tell you why.
+[Interviewer] Well, why do you think they're all sleeping better than you?
+[Man] I don't know… I guess they're out here where the air's actually moving, and I'm stuck in a closed-up bedroom all night where nothing moves at all.
+	  
+
+	A tired man (~55) in a plaid bathrobe at his front door, snow on the porch, the house closed up behind him, coffee mug. This is our customer: let the realization land.
+	Recognition
+	First night
+	REAL · Interview 13:17.0–13:24.9 + 13:30.5–13:36.9 + 13:45.7–13:49.0
+First night with it, I woke up halfway through the night and literally thought the walls were gone. I'm still half asleep. I thought I was outside. … And I'm like, oh my God, it feels like a breeze because it's hitting my toes. It's hitting my knees. It's hitting my chest. … And I realized, gosh, I slept really well.
+	  
+
+  
+
+	THE SWITCH (see Production brief): 1) signal-glitch transition, about 0.3 s, right after "nothing moves at all". 2) Hard cut to David in close-up. 3) On-screen text, upper third, about 2 s: The inventor who brings outdoor air into your bedroom. 4) Lower third: David Patrick. 5) Only David's close shots here; the interviewer (a woman) shows up later in wide shots. On "first night with it": 1 s insert of the Spin360 on in a bedroom at night, so people see what "it" is.
+	Wonder
+	Next nights
+	REAL · Interview 13:50.3–13:53.1 + 13:59.4–14:06.4
+And then the next night, and the next night, and the next night… I always felt this amazing breeze. I always felt good. And I was like, I'm waking up more refreshed. I feel better.
+	  
+
+	David on screen, or a calm bedroom with a curtain moving gently.
+	Relief
+	Bridge
+	REAL · Interview 14:06.8–14:10.0 (cut before "And that's why")
+And there's got to be more than to this than just, oh, there's a breeze. 
+	  
+
+	David. He stumbles on the words: captions must follow the audio exactly.
+	Curiosity
+	How it works
+	REAL · Interview 4:28.5–4:35.5 + 4:38.7–4:41.4 + 4:43.7–4:51.9
+A regular propeller sucks the air in one way and sends it right back out. Ours was sucking in both directions, not going this way and back. … And then we figured out it was going out like Saturn's rings. … Every fan in the world, they make oscillate so that you can spread it over more of an area. This one does everything all at once.
+	  
+
+	Simple animation: a regular fan blowing one way / swinging side to side vs. the Spin360 pulling air in from top and bottom and sending it out all around like a ring.
+	Aha
+	Floor + ceiling
+	REAL · Interview 12:09.5–12:19.3 (start on "It was pulling", cut before "but it was pulling ground level air")
+It was pulling the air from the ground. The air on the ground is the coldest air in the room. You got a ceiling fan, that's the hottest air in the room pushing down. So we were getting a mix of both.
+	  
+
+	Animation: side view of a bedroom, warm layer at the ceiling, cool layer at the floor, both pulled into the Spin360 and blended into one even, neutral color. Don't make it look like it cools the room.
+	Aha
+	The mix
+	REAL · Interview 14:45.2–14:52.4
+I love the way this feels, but it's the mix of the room and the breeze that gives you that amazing sleeping experience.
+	  
+
+	David, or the bedroom with the curtain moving gently.
+	Calm
+	Customer
+	REAL · TESTIMONIALS 0:11.8–0:14.2
+I haven't slept this good in years.
+	  
+
+	The real customer, full screen.
+	Trust
+	Can't live without it
+	REAL · Interview 14:57.7–15:03.8
+I can't live without this thing. … If I had to sleep in a room without it now, oh, that's going to suck.
+	  
+
+	David, close-up.
+	Want
+	Close
+	AI · new scene
+[Interviewer, whispering] So… where do you sleep best now?
+[Man, eyes closed, half asleep] Right here. Now let me sleep.
+	  
+
+	The same man from the door, now deeply asleep at night: snow and frost on the closed window, a sheer curtain moving gently, the Spin360 on by the bed. The interviewer leans in with the mic and whispers.
+	Smile
+	End card
+	TEXT ONLY
+Try it for 30 nights.
+	  
+
+	Hold on the sleeping man / product. End card text: Try it for 30 nights.
+	Safe
+	Orange rows = new scenes and voices to create. White rows = real, cut from the file at the timecode shown.

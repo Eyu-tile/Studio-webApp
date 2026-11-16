@@ -1,0 +1,118 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_HowToClean_V1
+Author: Chris
+Editor: 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID:Spin360_HowToClean_V1
+* Ad Type: Founder Led - Explainer
+* Type of Ad: Split Screen Hook + Explainer 
+* Sizes Needed: 9x16, 4x5
+* Voiceover: David - Stringout 
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 LA ‘26 - David Talking 
+________________
+ 
+[3] DIRECTION
+WATCH FIRST
+
+
+This is an ad of David explaining how to clean the fan. Use B-roll from the Utah 26 cleaning selects. UT_April_FanCleaning.mp4
+
+
+Directions: 
+1. Edit to this Stringout: HowToClean_Edit_1_Hook_1.mp4
+2. Use footage from Utah Cleaning Selects.
+3. Make sure your edit is explaining what David is talking about.
+4. Come up with three Additional visual hooks.
+   1. One of them being this natural audio of David talking
+      1. Stringout (No Music + different audio): HowToClean_Edit_Hook_2_NoMusic.mp4
+      2. Music (if you chose to use it): Aves - Smile.wav
+
+
+ 
+ 
+________________
+[3] SCRIPT
+Refer to String Out
+
+
+
+
+________________
+
+
+[8] Shotlist / Storyboard
+
+
+HOOKS
+	#
+	Script 
+	Visual 
+	Description 
+	1
+	
+
+	
+
+	HowToClean_Edit_1_Hook_1.mp4
+
+
+Hook already included in this edit.
+	2
+	
+
+	
+
+	HowToClean_Edit_Hook_2_NoMusic.mp4
+
+
+Hook already included in this edit. Note there is no music or text.
+	3
+	
+
+	
+
+	Come up with an additional visual hook from the Utah Cleaning Selects.
+	4
+	
+
+	
+
+	Come up with an additional visual hook from the Utah Cleaning Selects.
+	
+
+
+
+ 
+________________
+
+
+[11] Deliverables
+4 Hooks 9x16 
+Headline (Include All Options) 
+
+
+How to Clean the Spin360°
+
+
+Primary text
+A lot of people ask me how to clean the Spin360. 🧼
+Here's the thing: it's INSANELY easy.
+Top comes off with one screw in the back. Blade pops out…it’s dishwasher safe. 
+Wipe everything down. Put it back together. Done.
+Takes five minutes. You're not going to break it. It's all high-quality polycarbonate.
+That's it. That's the maintenance.
+It’s $110 off this summer.

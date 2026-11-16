@@ -1,0 +1,231 @@
+{
+  "source": "raw/first15/Wren_Presley_B-Roll_13.mov",
+  "segments": [
+    {
+      "src": "raw/first15/Wren_Presley_B-Roll_13.mov",
+      "start": 0.3,
+      "end": 3.531,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/hookfix/cand_inside.mp4",
+      "start": 0.3,
+      "end": 2.256,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover",
+      "transition_in": {
+        "type": "zoomin",
+        "dur": 0.35
+      }
+    },
+    {
+      "src": "raw/first15/Wren_Presley_B-Roll_17.mov",
+      "start": 2.0,
+      "end": 5.45,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/first15/Ailani_Paneth_B-Roll_24.mov",
+      "start": 0.0,
+      "end": 3.45,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/first15/Ailani_Paneth_B-Roll_20.mov",
+      "start": 0.0,
+      "end": 1.2,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover",
+      "speed": 0.7692
+    },
+    {
+      "src": "raw/pool/c220.mp4",
+      "start": 2.0,
+      "end": 4.359,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/stock/woman-sits-on-bed-with-head-in-hands-2026-01-20-22-55-20-utc.mp4",
+      "start": 4.0,
+      "end": 6.359,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover",
+      "focus": [
+        0.42,
+        0.5
+      ]
+    },
+    {
+      "src": "raw/pool/c215.mp4",
+      "start": 0.3,
+      "end": 3.181,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover",
+      "transition_in": {
+        "type": "slideleft",
+        "dur": 0.3
+      }
+    },
+    {
+      "src": "raw/pool/c004.mp4",
+      "start": 0.3,
+      "end": 1.999,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c214.mp4",
+      "start": 0.3,
+      "end": 2.461,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c337.mp4",
+      "start": 0.3,
+      "end": 2.461,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c269.mp4",
+      "start": 0.3,
+      "end": 2.461,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c216.mp4",
+      "start": 0.3,
+      "end": 3.266,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover",
+      "transition_in": {
+        "type": "fade",
+        "dur": 0.7
+      }
+    },
+    {
+      "src": "raw/pool/c178.mp4",
+      "start": 0.3,
+      "end": 2.566,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c175.mp4",
+      "start": 0.3,
+      "end": 2.788,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c183.mp4",
+      "start": 0.3,
+      "end": 2.835,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c324.mp4",
+      "start": 0.3,
+      "end": 3.853,
+      "zoom": 1.04,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover",
+      "transition_in": {
+        "type": "fadeblack",
+        "dur": 0.6
+      }
+    },
+    {
+      "src": "raw/pool/c299.mp4",
+      "start": 0.3,
+      "end": 3.959,
+      "zoom": 1.0,
+      "zoom_to": 1.05,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c332.mp4",
+      "start": 0.0,
+      "end": 3.659,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c252.mp4",
+      "start": 0.3,
+      "end": 4.03,
+      "zoom": 1.05,
+      "zoom_to": 1.0,
+      "mute": true,
+      "fit": "cover",
+      "transition_in": {
+        "type": "zoomin",
+        "dur": 0.35
+      }
+    },
+    {
+      "src": "raw/pool/c237.mp4",
+      "start": 0.3,
+      "end": 3.68,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    },
+    {
+      "src": "raw/pool/c295.mp4",
+      "start": 0.3,
+      "end": 3.717,
+      "zoom": 1.0,
+      "zoom_to": 1.04,
+      "mute": true,
+      "fit": "cover"
+    }
+  ],
+  "reframe": 0.5,
+  "grade": "natural",
+  "texts": []
+}

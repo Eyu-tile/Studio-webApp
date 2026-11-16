@@ -294,15 +294,21 @@ def s_unsplash(q, kind, a, key):
 
 def s_openverse(q, kind, a, key):
     lic = "commercial,modification" if not a.allow_nc else None
+    only = "cc0,pdm" if getattr(a, "cc0", False) else None
     if kind in ("music", "sfx"):
-        params = {"q": q, "page_size": a.n, "license_type": lic,
-                  "category": "music" if kind == "music" else "sound_effect"}
+        # Openverse no longer fills "category" for most sound effects, so category=sound_effect matches
+        # nothing: search sfx without it and keep them short instead.
+        params = {"q": q, "page_size": a.n, "license_type": None if only else lic, "license": only,
+                  "category": "music" if kind == "music" else None}
         if a.max_dur:
             params["length"] = "short" if a.max_dur <= 30 else ("medium" if a.max_dur <= 120 else None)
+        elif kind == "sfx":
+            params["length"] = "short"
         d = http_json(f"{base('openverse')}/audio/", params=params)
         kind_out = kind
     else:
-        d = http_json(f"{base('openverse')}/images/", params={"q": q, "page_size": a.n, "license_type": lic})
+        d = http_json(f"{base('openverse')}/images/", params={"q": q, "page_size": a.n, "license_type": None if only else lic,
+                                                              "license": only})
         kind_out = "photo"
     out = []
     for it in d.get("results", []):
@@ -678,6 +684,8 @@ def cmd_search(a):
             notes.append(f"{p}: {e}")
             continue
         for r in got:
+            if getattr(a, "cc0", False) and r.get("attribution_required", True):
+                continue  # --cc0: no credit line, no conditions
             if kind == "music" and not music_ok(r, a):
                 continue
             if a.min_dur and r.get("duration") and r["duration"] < a.min_dur:
@@ -1125,6 +1133,8 @@ def main():
     s.add_argument("--max-dur", type=float)
     s.add_argument("--n", type=int, default=12)
     s.add_argument("--allow-nc", action="store_true", help="include NonCommercial/NoDerivs licences (personal projects)")
+    s.add_argument("--cc0", action="store_true",
+                   help="only CC0 / public domain: free to use anywhere, no credit needed (client ads)")
     s.add_argument("--allow-any-license", action="store_true",
                    help="YouTube: list all results, not only Creative Commons (references; rights not cleared)")
     s.add_argument("--lang", default="en", help="Wikipedia language edition (en, de, fr, ...)")

@@ -1,0 +1,142 @@
+﻿Spin360_Baby_BlackSmoke - Script & Visual Brief
+
+
+
+
+Brief - Spin360_Baby_BlackSmoke
+
+
+
+
+Desire: "I want my baby to sleep safe and sound through the night, so I can finally sleep too."
+
+
+
+
+Awareness: Problem-aware (she knows the baby wakes up all night). Unaware of the cause.
+
+
+Angle: Her baby is breathing bad air all night, a pool of carbon dioxide around his face. It's why he wakes up every night, and why she can't sleep either. 
+
+
+Mechanism: Still nursery air lets the carbon dioxide the baby breathes out pool around his face. Spin360 pulls air in from the top and bottom and mixes the whole room, so the pool is gone.
+
+
+Proof: One study linked having a fan in the room to a 72% lower risk of SIDS.
+
+
+Format: Pixar-style 3D animation (cute, warm, family-movie look) + female VO, warm but urgent, mom-to-mom. No dark dramatic music. 3 hook variations, about 1 minute.
+
+
+
+
+Look: Bright, colorful and vibrant, never dark. Black smoke ONLY in the hook, hovering in a believable way just above the baby; it turns into a glowing blue cloud (carbon dioxide) in about 1 second and stays blue for the rest of the ad. Under the cloud the baby looks sad and unwell (never choking); once the air moves, the baby is visibly happy and healthy. The mixing shot must be a big, powerful visual of the whole room's air swirling. Same Pixar baby and mom in every shot.
+
+
+
+
+Script
+
+
+Imagine forcing your baby to breathe this.
+Every single night.
+Spoiler: they already are.
+It's not smoke. It's carbon dioxide. It's in every breath your baby lets out.
+They're literally sleeping in a pool of carbon dioxide.
+It's why they wake up every night. And why you can't sleep either.
+Here's how you fix it. It's called Spin360.
+Your baby breathes easy all night.
+Sleeps longer.
+Wakes up happy instead of screaming.
+And you finally get your nights back.
+It's a fan that pulls air in from the top and the bottom and mixes the whole room, so there's no more pool of carbon dioxide. Just soft, fresh air, like sleeping with the window open.
+And one study even linked having a fan in the room to a 72% lower risk of SIDS.
+Every night you wait is another night they breathe this.
+Your baby deserves to breathe easy. And you deserve to sleep.
+Tap below to get Spin360 for your baby's nursery.
+Hooks
+Text on screen for all hooks: IMAGINE FORCING YOUR BABY TO BREATHE THIS
+#
+	Line
+	Visual
+	Note
+	1
+	Imagine forcing your baby to breathe this. Every single night. Spoiler: they already are.
+	  
+Cute   Pixar baby asleep in a crib in a cozy nursery at night. Thick black smoke swirls around the crib and, with every breath, is drawn into the baby's tiny nose while he keeps sleeping peacefully
+	Start here. Cold open: frame 0 already shows the smoke going into his nose, no establishing shot. Baby always calm, never choking
+	2
+	Imagine forcing your baby to breathe this. Every single night. Spoiler: they already are.
+	  
+
+The Pixar mom kisses the baby goodnight, smiles and closes the nursery door. The camera stays inside: in the dark, black smoke slowly rises from the crib and fills it around the sleeping baby
+	Extra test (third). The twist: the danger starts when she leaves
+	3
+	Imagine forcing your baby to breathe this. Every single night. Spoiler: they already are.
+	  
+The Pixar mom in her bed checks the baby monitor on her phone: on the screen, the crib is full of black smoke. Close-up of her shocked face lit by the screen
+	 Most mom-to-mom and softest for Meta. Her reaction sells "my nursery isn't safe" 
+	Body
+#
+	Line
+	Visual
+	Note
+	1
+	It's not smoke. It's carbon dioxide. It's in every breath your baby lets out.
+	The black smoke magically turns into a glowing blue cloud. Close-up: with each exhale, a tiny blue puff leaves the baby's mouth and joins the cloud
+	Color switch from black to blue. Blue for the rest of the ad
+	2
+	They're literally sleeping in a pool of carbon dioxide.
+	  
+Camera pulls back: with each exhale the blue pool rises in the crib, up to the baby's face, the baby asleep inside it
+	Key shot,. Text: SLEEPING IN A POOL OF CARBON DIOXIDE
+	3
+	It's why they wake up every night. And why you can't sleep either.
+	The baby wakes up crying at 2:00 AM (clock on the wall). Cut to the mom dragging herself out of bed like a zombie: messy hair, one slipper, eyes half closed
+	Light Pixar humor on the mom
+	4
+	Here's how you fix it. It's called Spin360.
+	The mom, now awake and determined, places the Spin360 in the nursery and turns it on
+	Product in Pixar style, exact real shape and colors, stays still. Text: SPIN360
+	5
+	Your baby breathes easy all night.
+	Soft glowing air swirls around the room and sweeps the blue cloud away. The baby takes a big, happy breath in his sleep
+	Payoff of the key shot
+	6
+	Sleeps longer.
+	Time-lapse through the window: moon and stars turn into sunrise while the baby stays sound asleep
+	Night → morning
+	7
+	Wakes up happy instead of screaming.
+	The baby wakes up in morning sunlight, giggling and reaching up with both hands
+	Mirror of body 3 (crying → giggling)
+	8
+	And you finally get your nights back.
+	The mom sleeping deeply and happily, then waking up refreshed and stretching with a big smile
+	Mirror of body 3 (zombie → rested)
+	9
+	It's a fan that pulls air in from the top and the bottom and mixes the whole room, so there's no more pool of carbon dioxide.
+	  
+The Spin360 visibly pulls the blue pool up and out of the crib in about 3 seconds, soft air swirls around the room, the crib ends clear
+	Simple and satisfying, like the gut-cleanse ads where "you watch the gunk come out"  No technical diagram. Only the air moves
+	10
+	Just soft, fresh air, like sleeping with the window open.
+	Curtains flutter as if the window were open; a few leaves float in the breeze; the baby's hair moves gently
+	Warm light
+	11
+	And one study even linked having a fan in the room to a 72% lower risk of SIDS.
+	Pixar-style graphic: a group of cute baby icons, then a big 72% pops up
+	Editor graphic. Text: A STUDY LINKED A FAN IN THE ROOM TO 72% LOWER SIDS RISK, small source: Kaiser Permanente, 2008. No Spin360 badge on this graphic
+	12
+	Every night you wait is another night they breathe this.
+	  
+Split screen, same crib. Left: tonight, the blue pool over the baby, no Spin360. Right: with Spin360 on, clear air, the baby breathing deeply
+	Turns "every night you wait" into a choice with the product in it
+	13
+	Your baby deserves to breathe easy. And you deserve to sleep.
+	Warm sunrise: the mom holds the baby by the window, both peaceful; the baby breathes calmly, the mom smiles with her eyes closed
+	Back to the desire. Warmest shot of the ad
+	14
+	Tap below to get Spin360 for your baby's nursery.
+	Hero shot: the cozy Pixar nursery in warm light, Spin360 in the corner, the baby asleep smiling in the crib
+	Text: GET SPIN360 FOR YOUR BABY'S NURSERY. Hold at least 2 seconds, product clearly visible

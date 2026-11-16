@@ -1,0 +1,235 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_9_Billion_People
+Author: Option 2
+Editor: Eyasu 
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_9_Billion_People
+* Ad Type: Iteration
+* Type of Ad: Founder-led
+* Sizes Needed: 9x16, 4x5
+* Voiceover: David - Stringout 
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage *use this for screenshots in script* 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 LA ‘26 - David Talking 
+________________
+ 
+[2] SCRIPT
+Script 
+________________
+ 
+[3] DIRECTION
+Use the string-out as the base structure.
+Follow the pacing of the audio. Embrace that pauses and don’t change pacing. 
+* Stringout: 9_Billion_People_Edit_1.mp4
+Use past Spin360 ads as reference.
+Lean on your knowledge of our previous Spin360 ads, especially the David talking-head ads and any other winning ads. Use those as a guide for pacing, tone, visual style and how we explain the product. Cut back to David two or three times throughout the video.The pacing needs to be slow and beautiful, very calming.The start of the video can be more dramatic and intense.
+
+
+Create a strong visual explanation.
+
+
+0:04 - 0:10
+* Create sequence of videos of Hassock Fans, Hassock Fans (Images), Bankers Fan (Images)
+0:14 - 0:19 
+* Create a visual sequence illustrating the 360-degree properties of the fan, how it spreads air to everyone at the same time.
+0:27 - 0:33
+Air_Mixing_Utah .mp4
+
+
+0:33 - 0:47 
+* Sleeping / relaxation sequence 
+* Showing how cold it is
+
+
+0:51-0:59 
+* Sequence showing beautiful imagery of natural breeze and then tying it back in to Spin360
+
+
+0:59 - 1:03 
+* No text on screen here, Only CTA.
+* REBUILD CTA text to match these colors 
+* Use very slight glow 
+* Ad 50mm grain on Top 
+* Spin360  Font - PP Neue Montreal
+* Cursive Font - Kokonor
+  
+
+
+
+
+
+ 
+________________
+[8] Shotlist / Storyboard
+HOOKS
+	#
+	Script 
+	Visual 
+	Description 
+	1
+	Already Edited**** 
+	
+
+	9_Billion_People_Edit_1.mp4
+	2
+	Same Audio 
+	
+
+	9_Billion_People_Hook_2.mp4
+	3
+	Same Audio 
+	
+
+	9_Billion_People_Hook_3.mp4
+	4
+	Same Audio 
+	
+
+	Apartment_Hook_2.mp4
+	5
+	Same Audio
+	
+
+	9_Billion_People_Hook_5.mp4
+	
+
+
+
+________________
+
+
+[11] Deliverables
+5 Hooks 9x16 
+00:00:00:03 - 00:00:04:06
+Unknown
+the fact that nobody ever invented this before is shocking.
+
+
+00:00:04:11 - 00:00:09:03
+Unknown
+We had so many machines that were so close to this, and yet nobody looked at it as being
+
+
+00:00:09:03 - 00:00:09:20
+Unknown
+The answer.
+
+
+00:00:10:02 - 00:00:15:11
+Unknown
+So when I went out and reinvented the wheel, the natural thing from people was,
+
+
+00:00:15:13 - 00:00:17:04
+Unknown
+dude, this is not your wheelhouse.
+
+
+00:00:17:09 - 00:00:18:17
+Unknown
+You're not that guy.
+
+
+00:00:18:22 - 00:00:27:13
+Unknown
+I took a shape that was never seen before. It is a dead perfect cube. It's also a perfect circle. It's also a set of sine waves.
+
+
+00:00:27:17 - 00:00:33:10
+Unknown
+And I just kept using the same exact natural shape to solve different problems.
+
+
+00:00:33:12 - 00:00:37:05
+Unknown
+I wanted to mimic that natural breeze that we feel outside.
+
+
+00:00:37:10 - 00:00:41:15
+Unknown
+When we feel a breeze, it naturally makes the environment better.
+
+
+00:00:41:17 - 00:00:45:20
+Unknown
+This is as pure of a form of air circulation as you can get.
+
+
+00:00:46:02 - 00:00:52:17
+Unknown
+we're pulling that hotter air down in that cooler air up. And we're creating one single temperature in the room.
+
+
+00:00:52:19 - 00:00:55:23
+Unknown
+It is the best experience I've ever had. Sleeping
+
+
+00:00:55:23 - 00:01:00:19
+Unknown
+it's that motion that I feel on my face and the motion that I feel on my body.
+
+
+00:01:01:00 - 00:01:03:12
+Unknown
+That's so calming and soothing.
+
+
+00:01:03:14 - 00:01:11:16
+Unknown
+I wanted to invent a fan that everybody can enjoy at the same time. Regular oscillating fans, you're still waiting for your turn.
+
+
+00:01:11:22 - 00:01:16:05
+Unknown
+This is something that everybody gets to feel all the time,
+
+
+00:01:16:07 - 00:01:19:16
+Unknown
+So we're currently offering a $110 off
+
+
+00:01:19:18 - 00:01:23:03
+Unknown
+to celebrate our first summer of beautiful airflow.
+
+
+
+
+Headline
+
+
+Nobody ever invented this before.
+
+
+How did nobody invent this? 
+
+
+He proved them wrong. 
+
+
+
+
+Primary text: 
+
+
+"That's not your wheelhouse," people said. 
+He reinvented the wheel. Then everybody told him to stick to that.
+But he spent years studying one thing: natural breeze.
+When you feel a breeze outside, it makes everything better. It's not one direction. It surrounds you.
+So he built a fan that mimics that. Takes the hot air from the ceiling, pulls the cold air up. One perfect temperature. 360° of motion around you.
+No waiting for your turn like regular fans. Everybody feels it all the time.
+$110 off to celebrate the first summer of beautiful airflow.

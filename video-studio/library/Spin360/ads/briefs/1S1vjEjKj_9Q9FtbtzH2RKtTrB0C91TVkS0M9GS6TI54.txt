@@ -1,0 +1,132 @@
+﻿Spin360 - It Wasn't the Mattress — Hotel Phone Call - Ad Brief
+[1] Concept
+Persona
+	Hot Sleeper
+	Desire
+	Better Sleep
+	Angle
+	Heat At Night
+	Reference
+	https://app.trendtrack.io/share/ads/groundingwell-561QFJ
+
+
+	[2] Script
+
+
+	Script
+	B-roll
+	Hook v1
+	SARAH: I already know what this call's going to be about.
+	
+
+	
+
+	SARAH: You've reached the front desk. This is Sarah.
+	
+
+	
+
+	GUEST: Hi, we just checked out this morning. What kind of mattress do you use?
+	
+
+	
+
+	GUEST: My wife normally wakes up sweating, and at your hotel she actually slept comfortably.
+	
+
+	
+
+	GUEST: We're on our way to a mattress store right now.
+	
+
+	
+
+	SARAH: You can save yourself the trip. It's not the mattress.
+	
+
+	
+
+	SARAH: It's a standard mattress. Did you notice the round machine beside the bed?
+	
+
+	
+
+	GUEST: Yeah, I thought that was a fan. She normally hates those.
+	
+
+	
+
+	SARAH: Oh, this feels more like sleeping with the windows open on a beautiful, quiet night.
+	
+
+	
+
+	SARAH: We leave it plugged in on low overnight.
+	
+
+	
+
+	GUEST: But what's it actually doing?
+	
+
+	
+
+	SARAH: It sends a soft breeze all around the room, rather than a forceful stream of air straight at your face.
+	
+
+	
+
+	GUEST: So you don't have to keep waiting for the fan to turn back toward you?
+	
+
+	
+
+	SARAH: Exactly. The air keeps moving around you.
+	
+
+	
+
+	GUEST: That makes sense. She felt cool, but nothing was blasting her. And I didn't hear it running.
+	
+
+	
+
+	SARAH: It's quiet on the lower settings. Turn it higher and you get that steady white noise.
+	
+
+	
+
+	GUEST: Okay, where do I get one?
+	
+
+	
+
+	SARAH: It's called Spin360. You can order it online, and there's a thirty-day return window from delivery.
+	
+
+	
+
+	GUEST: Sarah, I was about to buy a whole mattress.
+	
+
+	
+
+	SARAH: Well, now you know what to look for.
+	
+
+	
+
+	GUEST: We're going home. I'm looking up Spin360.
+	
+
+	CTA
+	SARAH: You can check it out for your bedroom. The link's below.
+	
+
+	[3] Text overlay (first frame, pick one)
+Option 1
+	Guest called asking what mattress we use…
+	Option 2
+	
+
+	Option 3

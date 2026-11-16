@@ -1,0 +1,343 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_OpenField
+Author: Gabriel
+Editor: Chose
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_OpenField
+* Ad Type: Ideation
+* Type of Ad: Founder ad 
+* Sizes Needed: 9x16
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 Video
+
+
+
+
+
+
+________________
+ 
+[2] Strategy
+Who is this for: 
+Primary: Women 35–55, wellness/sleep-conscious, values sensory experience at home, buys premium
+
+
+
+
+Main Selling Points: Natural breeze, 360 degree airflow, Quiet , scent pods 
+Market Awareness: Unaware 
+Desires: Comfort  
+Angle:n
+ 
+________________
+
+
+[3] Creative Direction
+Watch that: 2026-06-02 13-48-16.mp4
+
+
+Use the storyboard that i sent below;
+Watch that this is the idea from the production document that i made
+
+
+SPIN360_Visual_idea.mp4
+
+
+Use this reference image for the women: Woman.png
+
+
+
+
+
+
+Try to generate with seedance with this prompts
+
+
+Images prompts + seedance + kling
+  
+
+________________
+
+
+[4] Script
+
+
+Imagine you're walking through an open field, late in the afternoon. Nobody around for miles.
+Out across the grass, you see the wind before you feel it — it comes toward you in one slow wave, bending everything on its way to you.
+Then it reaches you. It lifts the grass against your hands, then your shirt, then your hair.
+It's not hitting you from one side — it's all around you. Your arms, the back of your neck. Everywhere at once.
+So you stop. You close your eyes, and you turn your face up into it.
+Your shoulders come down — and you realize you'd been holding them up there all day.
+Your breathing slows on its own. You don't even decide to. It just happens.
+Out here, nothing wants anything from you. The air just moves, and you let it move you.
+And you know this feeling. You just can't remember the last time you actually had it. A trip, maybe — years ago. Or back when you were a kid.
+It feels like something you only get once a year. If you're lucky.
+That's not a dream.
+That's Spin360.
+Here's the part that's hard to believe until you feel it: Spin360 was built to recreate that kind of air. Not just air moving — air moving naturally.
+Real wind doesn't come at you in one straight line. It kind of folds around you — in layers, from everywhere at once.
+That's what the blade was built to recreate. It pulls air in from above and below, then guides it outward in a slow, smooth 360-degree current — circling through the whole room.
+So what reaches your skin doesn't feel like a draft aimed at you. It moves around you — across the sheets, around your arms, behind your neck, through the corners. The way it moved around you out there.
+And your body settles, because your skin recognizes the pattern.
+The whole room comes alive with it — the curtains, the sheets, the air on your skin — until a closed room starts to feel open.
+Spin360 wasn't built just to cool a room. It was built to give it a feeling. Atmosphere — not just airflow.
+It doesn't tell you to relax. It reminds your body how.
+Below speed five, it's silent. Above speed five, it turns into a soft hush — that gentle shhh that pushes the rest of the world a little farther away.
+Drop in a scent pod — Sunlit Citrus, like bright citrus on a breeze. Soft Florals, like fresh linen and warm vanilla. Or Citronella, for that outside feeling without the bugs.
+Now it can feel like that field at golden hour. Like a forest after rain. Like the one evening your body actually let go.
+Spin360 came from David Patrick — the inventor behind Shark Wheel, the invention that brought him to Shark Tank and put him across the table from Mark Cuban and Nick Woodman, founder of GoPro.
+After reinventing the wheel, David spent years chasing a quieter question: what if you could bring the feeling of outside into your home?
+This is the answer.
+For the launch, the first 1,000 customers get $100 off.
+Tap below — and bring the outside in.
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+________________
+
+
+
+
+
+
+ 
+
+
+[6] Editing Rules
+* Each visual clip MUST complement the audio. Never disconnect visual from what's being said.
+* Add captions for entire video
+* Editor must add sound design
+* Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+
+
+ 
+________________
+
+
+[8] Deliverables
+• Versions: 5 total (one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels),
+• Upload Location: Creative Roadmap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPIN360 — VSL "THE FIELD" / PRODUCTION DOCUMENT v1.1
+Cinematic directorial treatment for the locked script. Shot-by-shot. Sound. Color. Pivot. Production method.
+________________
+
+
+0. What this document is
+This is the visual bible for the locked "The Field" script. It translates the VO into a shot-by-shot film: frame, lens, movement, light, sound, and — critically — production method (real footage / AI video / motion graphics / hybrid), so the next step (the Seedance/Kling table) knows exactly what each shot is built from.
+Two halves, one continuous voice:
+* PART 1 — THE WALK (the sensory open). Pure feeling. The viewer's body relaxes before the mind knows what's being sold. Lubezki territory — wind, grass, golden hour, surrender.
+* PART 2 — THE TURN (the product). The reveal and the proof, kept inside the same trance. Deakins territory for the product block — clean, motivated, premium.
+The whole film is built on one bridge, and it must survive every later decision: the air wraps around you in the open field → Spin360 puts that exact thing in a closed room. Field = open air. Product = open air, indoors. Everything serves that one hop.
+________________
+
+
+1. Governing principles (these decide every shot)
+1. Voice and image rhyme — they don't duplicate. When the voice says a thing, the image shows the effect of that thing on a body, not the thing itself. Voice: "it lifts the grass against your hands." Image: not a hand grabbing grass — the seed-heads bending and brushing open fingers. The viewer's brain builds the bridge. This is the line between commercial and cinema.
+2. The wind is the hero, not the field. The single most arresting image is wind you can see before you feel it — a wave traveling across the grass toward camera. That image is the scroll-stopper and the literal proof of "moving air." It must be the strongest frame in Part 1, and it returns, transformed, as the product.
+3. Vertical and active, not horizontal and passive. Unlike a hammock piece, she is walking and then standing — she moves into the air and receives it on her feet. Energy is upright. The body still never performs: everything that happens to her is the environment acting on her (hair lifts, shoulders drop, breath slows). If it reads as a gesture she decided to make, redo it. The one allowed willed action is "you stop" and "you turn your face up" — surrender, not performance.
+4. Mosaic, not establishing. The full field appears in only one or two wides. The rest is fragments: grass, a forearm, the back of a neck, sky, hair. Geography assembles in the viewer's head. The film is about sensation inside the body, not place outside it.
+5. The macro/ASMR + the one controlled lens flare are IN. This supersedes the project's earlier "rejected looks" list. Tactile macro (down on the arm, grass against skin, breath at the lip) and a single, slightly-imperfect anamorphic flare through the low sun are deliberate here — they're how the body-feeling gets transmitted. Used surgically, not as a wash.
+6. Production method is routed per shot. The field, the wind, the body, the room atmosphere = AI. Every clean product hero, the control, the pod drop = real product footage. The airflow mechanism = motion graphics. David Patrick / Shark Wheel / Shark Tank = real footage/stills (never AI likenesses). No text is generated by the AI — any on-screen text (pod names, offer, CTA) is added later in the edit, not generated. Each shot below is tagged with its method.
+________________
+
+
+2. The world
+Part 1 — the field. A wide open meadow of tall, dry, golden grass — knee-to-chest height — late afternoon, between four and six p.m., the sun low and raking. No water anywhere (this is the deliberate opposite of a beach). A distant tree line or low hills, out of focus. Big sky beginning to turn — warm at the horizon, cool cobalt up top. A steady, breathing wind that moves in visible waves across the grass, irregular, never mechanical. The light visibly lowers across the section: warm-gold at the open, near-amber by the time she stops.
+Part 2 — the room. A real, lived-in bedroom/living space at the same golden hour, light coming low through a window, sheer curtains. The Spin360 present but not announced at first. The room must feel like the same light as the field — that's the visual promise being kept: the outside, brought in.
+________________
+
+
+3. The protagonist (lock for AI continuity)
+She is the woman from the real Spin360 product footage — the reference image provided. That same woman is the character reference for every generated shot: we feed her image as the reference so the field (AI) and the room (real product footage) are unmistakably the same person. This is what makes the pivot work — the woman in the field and the woman with the product are one, so the cut from outside to inside reads as continuous, not as two different ads.
+Production rule: Every AI generation uses her reference image. The first shot's image prompt must read: "Using the reference image, generate this woman…" and every subsequent prompt continues from that locked reference (so face, hair, skin, and age stay consistent across the whole film). We describe her below for intent, but the reference image is the source of truth, not the description.
+She is a woman, roughly 50–60 — warm, real, premium-but-approachable, exactly in the 45–65 buyer band. The avatar matches the buyer, so the body the viewer steps into reads as their body, not a 30-year-old model's. This is what makes "your body remembers" and "you'd been holding them up there all day" land: they see their own hands, their own skin, their own years. The age isn't a compromise here — it's the emotional asset. Lock these across every shot she appears in (anchored to the reference image):
+* Mid-length hair, natural, with real grey or silver coming through — warm-toned, the kind golden light passes through beautifully (silver backlit by a low sun is gorgeous, and reads her age instantly, with grace). Soft, loose, unstyled.
+* Lived-in skin with real texture — soft lines at the eyes, sun-warmth, the gentle creases and looser skin of hands and forearms that have done decades of living, a few age spots or freckles. This is not skin to hide; in macro it's the entire point — a body that has earned its rest and hasn't felt this in a long time. No heavy makeup, natural brows.
+* Off-white / oatmeal raw linen — a loose shirt, sleeves pushable, one collar the wind can catch. Timeless, premium, age-neutral. No jewelry except maybe a simple, worn wedding band. No logos.
+* Bare forearms and hands (the macro surfaces) — mature, expressive, real. Simple if feet appear.
+* She is calm, unhurried, alone. She never looks at camera, never smiles on cue, never "acts." She receives. There's a quiet sense she's carried a lot, for a long time — and is, just now, setting it down.
+________________
+
+
+PART 1 — THE WALK
+(sensory open — meditative music track, intimate whisper VO)
+SHOT 1 — 0:00–0:03 — THE COLD OPEN
+VO: (none yet — 0.4s of total silence first) Frame: Cold open, no setup, on the wave of wind crossing the grass — a ripple traveling across a field of golden seed-heads, moving toward camera, bending everything as it comes. We do not yet see a person. Just the field and the moving air. Lens/Move: Long lens (85–135mm equivalent) compressing the grass into a sea of gold; locked or the faintest drift. The wave reads because of the compression. Light/Grade: Low raking sun behind/side, rim-lighting every blade; warm gold, cool sky bokeh behind. Sound: 0.4s of dead silence (the smash-cut from the feed), then a near-subliminal sub-bass swell + the first low directional wind whoosh as the wave moves. Method: AI (Seedance) — hero sensory shot. The wind-wave across grass is fully achievable and is the thumb-stop. Transition: Straight into VO over the held image.
+SHOT 2 — 0:03–0:13 — ORIENT + HOOK
+VO: "Imagine you're walking through an open field, late in the afternoon. Nobody around for miles. // Out across the grass, you see the wind before you feel it — it comes toward you in one slow wave, bending everything on its way to you." Frame: Now we place her — a wide-ish from behind/side, small in the grass, walking slowly away into the field, the wave of wind ahead of her. Solitude. Then push toward the grass tops ahead of her where the wave travels. Lens/Move: 35–50mm for the human scale; slow handheld-stabilized follow or a gentle dolly. The orientation (where we are, who, that she's walking) lands here so the cold open can stay abstract. Light/Grade: Golden, long shadows trailing her. Sound: Ambient field bed comes up — dry grass hiss, distant wind, one far bird. Whisper VO enters with audible breath between sentences. No music yet. Method: AI (Seedance) for the wide; the walking figure in the field is well within range.
+SHOT 3 — 0:13–0:20 — THE WIND ARRIVES (macro)
+VO: "Then it reaches you. It lifts the grass against your hands, then your shirt, then your hair." Frame: Three quick macro rhymes underneath one continuous line: seed-heads brushing across her open, hanging fingers → linen at her forearm pressing and fluttering → a few strands of hair lifting off her shoulder. We never cut to her full face. Fragments. Lens/Move: 100mm macro feel, ultra-shallow focus that racks from grass → cuff → hair. Micro-tremor (breath) in the frame. Light/Grade: Backlit so the grass edges and hair strands glow individually. Sound: The wind takes a binaural pass — enters one ear, crosses, exits the other. Foley: dry grass tick against skin, linen flutter. Music enters here: a single sustained low note (Rhodes/pad). Drone, no melody. Method: AI (Seedance) macro tactile. ASMR is intentional.
+SHOT 4 — 0:20–0:28 — ALL AROUND YOU (the 360 seed)
+VO: "It's not hitting you from one side — it's all around you. Your arms, the back of your neck. Everywhere at once." Frame: The air wrapping. Down on the forearm (fine hairs lifting in waves), then the nape of the neck with loose strands stirring, then a slow arc that implies the air circling her. This is the first quiet plant of the 360 idea — the wind comes from everywhere, not one direction. Lens/Move: Macro on arm and neck; a slow circular drift around her shoulders to feel "around." Light/Grade: Warm, raking. Sound: Binaural whoosh that pans a full circle around the head. Second music note enters, a fifth above the first. Method: AI (Seedance).
+SHOT 5 — 0:28–0:34 — THE STOP / SURRENDER
+VO: "So you stop. You close your eyes, and you turn your face up into it." Frame: She stops walking. 3/4 from the front, eyes already closed, chin tilting up into the wind, hair pulled back off her face by it. The one willed action of the film — but it reads as letting-go, not posing. Lens/Move: 85mm, locked, the faintest push-in. Light/Grade: Sun catching the front planes of her face, warm. Sound: Wind sustains; music holds. Method: AI (Seedance) — face continuity matters here; lock the character reference.
+SHOT 6 — 0:34–0:40 — THE REALIZATION (most human beat)
+VO: "Your shoulders come down — and you realize you'd been holding them up there all day." Frame: Tight on the line of the shoulders and neck. The shoulders physically drop two or three millimetres — captured in slight slow motion so it reads. This is the doubling-back, the body discovering its own tension. The single most human moment in Part 1. Lens/Move: 100mm, locked, 60fps for the micro-descent. Sound: Half a second of near-silence just before "and you realize," so the discovery lands in the viewer's own body. Subtle muscle/linen foley. Method: AI (Seedance).
+SHOT 7 — 0:40–0:45 — THE BREATH
+VO: "Your breathing slows on its own. You don't even decide to. It just happens." Frame: The rib cage / linen rising and falling — one long, deep, slow breath across the shot. Camera breathes with it (slow dolly synced to the inhale). Lens/Move: Medium, slow dolly-in on the inhale, settle on the exhale. Sound: Her binaural inhale recorded close and deep — the breath the viewer imitates without realizing. This is the mimicry trigger. Music swells a touch. Method: AI (Seedance). Contemplative, never sexualized — the chest reads as breath, not body.
+SHOT 8 — 0:45–0:52 — NOTHING WANTS ANYTHING
+VO: "Out here, nothing wants anything from you. The air just moves, and you let it move you." Frame: The one wide. Pull way back: she is small and alone, standing in the vast field, grass moving around her in waves, the sky big and turning. The visual exhale of the section. Lens/Move: 24mm, low; slow continuous dolly-out across the whole line. Light/Grade: Full soundscape of light — warm field, cool sky. Sound: Everything opens — wind up, grass up, music breathes to its calm peak. A heartbeat-like sub-pulse begins under it. Method: AI (Seedance). A controlled, slightly-imperfect anamorphic flare may cross here as the sun catches the lens — leave it.
+SHOT 9 — 0:52–1:03 — LONGING
+VO: "And you know this feeling. You just can't remember the last time you actually had it. A trip, maybe — years ago. Or back when you were a kid." Frame: Back to the intimate ECU of her face, peaceful, eyes closed — but now the camera pulls slowly away across the whole line, so by the end she is more distant, more alone in frame. The physical distancing becomes the distance of this feeling in the viewer's real life. Lens/Move: 85–100mm, continuous slow pull-out. Sound: Music thins. Heartbeat fuses with the wind. Method: AI (Seedance).
+SHOT 10 — 1:03–1:08 — THE CRACK
+VO: "It feels like something you only get once a year. If you're lucky." Frame: Hold on the face, or a last fragment (a strand of hair settling). Stillness arriving. Sound: On "if you're lucky," the voice recedes to its most fragile whisper — almost breaks. The vulnerability that creates the longing. Music near-gone. Method: AI (Seedance). Carries the vocal performance — keep the image quiet so the voice does the work.
+SHOT 11 — 1:08–1:11 — "THAT'S NOT A DREAM."
+VO: "That's not a dream." Frame: The field begins to lose focus — gently, as if the viewer's own eyes are closing. Not a dramatic rack; a soft surrender of focus. The sub-bass from the word "dream" begins, under the silence, to morph into something faintly mechanical. Sound: Audio drops to near-silence. Only breath, and a final low impact on "dream." Method: AI (Seedance) + defocus handled in edit.
+________________
+
+
+THE PIVOT — 1:11–1:14 — "THAT'S SPIN360."
+The most memorable two seconds of the film.
+This is a match on the moving air, not a cut.
+As the field defocuses and the sub-bass turns mechanical, cut to an extreme macro of a single strand of hair — or a sheer curtain edge — being lifted by moving air, in the same golden light, the same texture, the same motion that the wind had in the field. For two or three frames the viewer cannot tell if this is still her hair in the field or already the product.
+Then the camera pulls back and reveals: it's the Spin360, in a room, moving that air. The wind she felt out there is the air this makes in here. The product is sold with sensory proof, not explanation.
+VO: "That's Spin360." Sound: The mechanical hum resolves into the soft, real sound of the product's air; the meditative track gives its last breath; we cross into the product world. Method: HYBRID. The hair/curtain macro = AI or real footage matched to Shot 3's texture. The product reveal = real product footage (hero), for accuracy and trust. The match is finished in edit.
+________________
+
+
+PART 2 — THE TURN
+(product — flatter rhythmic track underneath, VO stays intimate but gains a little energy)
+SHOT 12 — 1:14–1:24 — THE CLAIM
+VO: "Here's the part that's hard to believe until you feel it: Spin360 was built to recreate that kind of air. Not just air moving — air moving naturally." Frame: First clean look at the Spin360 in the room, golden-hour window light behind it, sheers stirring. Premium, calm, Deakins-clean. Lens/Move: 50mm, slow reveal/orbit a few degrees. Light/Grade: Motivated warm window light; protected highlights; the same palette as the field. Sound: Product air bed; rhythmic track enters low and steady. VO intimate, a hair more present. Method: Real product footage (hero).
+SHOT 13 — 1:24–1:32 — HOW REAL WIND MOVES
+VO: "Real wind doesn't come at you in one straight line. It kind of folds around you — in layers, from everywhere at once." Frame: A brief return to the field's wind-wave (a flash of Shot 1's language) intercut with the air beginning to move in the room — curtains, a loose thread, dust in the light. Connecting "out there" to "in here." Lens/Move: Macro on the curtain edge / floating particles in the low light. Method: AI (Seedance) for field flash + room air detail.
+SHOT 14 — 1:32–1:44 — THE MECHANISM (motion graphics)
+VO: "That's what the blade was built to recreate. It pulls air in from above and below, then guides it outward in a slow, smooth 360-degree current — circling through the whole room." Frame: Clean motion-graphic overlay on a real product shot: air drawn IN from above and below (confirmed geometry), then released OUTWARD as a smooth 360° ring/current that circles the room. Elegant, minimal, premium — not a busy infographic. This is the one place we explain, and it must be graphic, because AI video cannot render accurate airflow. Lens/Move: Locked hero of the product; the air paths are animated lines/volumes. Sound: The rhythmic track carries; a soft tonal sweep follows the 360 ring. Method: MOTION GRAPHICS over real product footage. Not AI video. (Geometry "above and below" = confirmed true.)
+SHOT 15 — 1:44–1:58 — IT MOVES AROUND YOU
+VO: "So what reaches your skin doesn't feel like a draft aimed at you. It moves around you — across the sheets, around your arms, behind your neck, through the corners. The way it moved around you out there." Frame: The room alive: sheets breathing on a bed, hair/arm in the room stirring exactly as they did in the field, a curtain in a far corner moving. Rhyme each room beat to its field twin. Lens/Move: A slow circling move echoing Shot 4 — the air "around" her. Method: AI (Seedance) / hybrid with real room plates.
+SHOT 16 — 1:58–2:02 — THE BODY RECOGNIZES IT
+VO: "And your body settles, because your skin recognizes the pattern." Frame: She is now in the room (or on the bed), eyes closed, the same surrender as the field — shoulders down, breath slow. The match between field-body and room-body is the whole argument. Method: AI (Seedance) — same locked character reference as Part 1.
+SHOT 17 — 2:02–2:11 — THE ROOM COMES ALIVE
+VO: "The whole room comes alive with it — the curtains, the sheets, the air on your skin — until a closed room starts to feel open." Frame: Wider room beat, everything softly moving, light pouring in — the room visually "opening." End near a window so the inside/outside line blurs. Method: AI (Seedance) / hybrid.
+SHOT 18 — 2:11–2:19 — ATMOSPHERE, NOT AIRFLOW
+VO: "Spin360 wasn't built just to cool a room. It was built to give it a feeling. Atmosphere — not just airflow." Frame: A beautiful, quiet hero of the product in the living room, the whole space breathing around it. Positioning-up shot. Method: Real product footage.
+SHOT 19 — 2:19–2:23 — REMINDS YOUR BODY HOW
+VO: "It doesn't tell you to relax. It reminds your body how." Frame: Back to her face/shoulders, the involuntary unclench. The line is gold — let the image be simple and let it land. Method: AI (Seedance).
+SHOT 20 — 2:23–2:34 — THE SOUND FEATURE
+VO: "Below speed five, it's silent. Above speed five, it turns into a soft hush — that gentle shhh that pushes the rest of the world a little farther away." Frame: Night now, or dusk turning to night. The product on a low setting (a finger touch on a dial/control), then the room darkening for sleep — sheets, a sleeping shape, the world muffled. The "shhh" is felt. Sound: Demonstrate it — drop to near-silence on "silent," then bring up the soft white-noise hush on "shhh." The sound design is the proof. Method: Real product (the control/interaction) + AI/hybrid (the room at night).
+SHOT 21 — 2:34–2:45 — THE SCENT PODS
+VO: "Drop in a scent pod — Sunlit Citrus, like bright citrus on a breeze. Soft Florals, like fresh linen and warm vanilla. Or Citronella, for that outside feeling without the bugs." Frame: Real macro of a hand dropping a pod in; then three quick sensory rhymes, one per pod:
+* Sunlit Citrus → a sunlit, bright, airy beat
+* Soft Florals → fresh linen / soft morning
+* Citronella → an open porch at dusk, calm, no bugs Lens/Move: Macro insert + three short evocative cutaways. Sound: Rhythmic track; light, bright. Method: Real product for the pod insert; AI (Seedance) for the three scent vignettes. The pod names live in the VO only — no generated captions. (Pod names can be added as text in the edit, not generated by AI.)
+SHOT 22 — 2:45–2:54 — TRANSPORT (the payoff)
+VO: "Now it can feel like that field at golden hour. Like a forest after rain. Like the one evening your body actually let go." Frame: Three transporting images, the room dissolving into each: the field at golden hour (callback to Part 1), a forest twenty minutes after rain (wet, alive, cool light), then back to her in the room, fully let go. The product turns the room into these. Lens/Move: Soft dissolves between room and place. Sound: Meditative track briefly returns to lift the payoff. Method: AI (Seedance) for field/forest; hybrid back to room.
+SHOT 23 — 2:54–3:06 — THE FOUNDER (REAL FOOTAGE ONLY)
+VO: "Spin360 came from David Patrick — the inventor behind Shark Wheel, the invention that brought him to Shark Tank and put him across the table from Mark Cuban and Nick Woodman, founder of GoPro." Frame: Real footage / stills of David Patrick, the Shark Wheel, and the Shark Tank appearance. Authority block. Energy lifts. Sound: Rhythmic track, a touch more drive. Method: REAL FOOTAGE / LICENSED STILLS ONLY. Never AI-generate David Patrick, Mark Cuban, Nick Woodman, the Shark Tank set, or the Shark Wheel — use the real footage/stills.
+SHOT 24 — 3:06–3:16 — THE QUIETER QUESTION
+VO: "After reinventing the wheel, David spent years chasing a quieter question: what if you could bring the feeling of outside into your home? // This is the answer." Frame: From the founder world back to the product, hero, in the golden room. "This is the answer" lands on the Spin360. Method: Real product footage.
+SHOT 25 — 3:16–3:20 — THE OFFER
+VO: "For the launch, the first 1,000 customers get $100 off." Frame: Product hero, clean and premium. The offer lives in the VO; any on-screen offer text is added in the edit, not generated. Method: Real product footage.
+SHOT 26 — 3:20–3:25 — THE CTA / CLOSE
+VO: "Tap below — and bring the outside in." Frame: Final image: the room and the field rhymed one last time — a curtain moving exactly like the grass did, the window open to the turning sky. The meditative track returns to close; the voice drops back to the opening whisper. Sound: Music resolves; one last breath of wind. Method: Hybrid (real product/room + AI field rhyme). Any end-card / CTA text is added in the edit, not generated.
+________________
+
+
+4. The sound system — four layers
+Ambient bed. Never stops in Part 1: dry grass hiss, distant breathing wind, one rare far bird. In Part 2 it becomes the soft real air of the product and the quiet of the room.
+Foley. Close and clean, as if the mic is on her skin: grass tick against fingers (Shot 3), linen flutter (3, 7), muscle/cloth settle (6), the pod drop (21), a finger on the control (20).
+Accent SFX. 0.4s silence → sub-bass at the cold open (1). Binaural circular whooshes (3, 4). Half-second silence before "and you realize" (6) and before "that's not a dream." The sub-bass on "dream" morphing into mechanical hum at the pivot. The demonstrated silence→hush on the sound-feature line (20).
+Music — two tracks. Track A (meditative, minimal Rhodes/pad drone, single notes building to a calm peak) carries the open (enters Shot 3, peaks Shot 8) and returns for the transport payoff (22) and the close (26). Track B (flatter, rhythmic, steady loop with light forward drive) carries the product/explanation/CTA from Shot 12 onward. Same female narrator throughout — intimate the whole way, energy rising across Part 2, back to a whisper at the very end.
+Pacing & runtime: product reveal at ~1:11. The critical target is the early product reveal — "That's Spin360" lands at ~1:11. The opening VO (start → "That's Spin360") is 188 words; spoken at ~159 wpm that fills 71 seconds — mid-range of the natural band (150–190 wpm), so it reads as intimate, fluid narration: not a meditative whisper, not a rushed announcer. No word of the script is cut. PART 1 takes this slightly more forward-moving intimate read; PART 2 holds a similar natural pace. Total runtime is secondary — it lands around 3:25 and that's fine; the job here is getting the product on screen early. A tighter feed cutdown can come later if needed.
+________________
+
+
+5. Light & color
+Golden hour, start to finish, in both worlds — the room must share the field's light so "the outside, brought in" is literally true. Sun visibly lowers across Part 1 (warm-gold → amber). Part 2 runs warm window light by day into a dim, hushed blue for the sound/sleep beat (Shot 20), back to warm for the close.
+Palette: skin highlight ~#E8C8A4, dry grass ~#C9A24B / #B8902F, warm shadow ~#4A3022, distant foliage ~#3A4E32, sky cobalt ~#1F4E8A, linen ~#F4EBDD, hair #6B4A2E→#C9A87C. Grade: gentle black crush, protected highlights, skin on the orange line of the vectorscope, ~10% film grain, overall saturation 70–80%. The one anamorphic flare (Shot 8) is intentional — don't fix it.
+________________
+
+
+6. On-screen text
+No text is generated by the AI, and there are no burned-in captions over the narration — sensory immersion can't carry visual noise. Any on-screen text the final cut needs — the scent pod names (Shot 21), the offer (Shot 25), the CTA/end card (Shot 26) — is added in the edit/post, not generated. Keep it thin, white, minimal, with soft fades when it's added.
+________________
+
+
+7. Production-method guardrails (for the table step)
+* AI video (Seedance): the field, the wind-waves, the macro/ASMR body beats, the room atmosphere, the scent vignettes, the transport places. Use her reference image (the woman from the real product footage) as the character reference on every generation — face, hair, skin, age all anchored to that image so the field and the room are the same person. The first image prompt starts "Using the reference image, generate this woman…"; every later prompt continues from that locked reference. Keep the age cues present so the model doesn't drift younger.
+* Real product footage: every clean hero of the Spin360, the control interaction, the pod drop, the offer/CTA plates. Accuracy and trust.
+* Motion graphics: the airflow mechanism (Shot 14 — in from above and below, out in a 360° current). Never AI for this. (On-screen text is not generated at all — it's added in the edit.)
+* Real / licensed footage only: David Patrick, the Shark Wheel, the Shark Tank appearance, Mark Cuban, Nick Woodman (Shot 23). Never AI likenesses or the Shark Tank set.
+* Hybrid: the pivot (AI/real hair-or-curtain macro matched, real product reveal, finished in edit), and the room beats that pair real plates with AI air.
+________________
+
+
+8. The non-negotiables
+1. The cold open is the wind you can see crossing the grass — the strongest frame, and the literal proof of moving air.
+2. Voice and image rhyme, never duplicate.
+3. She never performs — the environment acts on her. The only willed beat is "you stop / turn your face up."
+4. The shoulder-drop realization (Shot 6) and the deep breath (Shot 7) are the human core of Part 1 — protect them.
+5. The pivot is a match on the moving air, not a cut: field wind → product air, ambiguous for 2–3 frames.
+6. The room shares the field's golden light — "the outside, brought in" must be literally visible.
+7. Mechanism = motion graphics; founder/Shark Tank = real footage; no AI-generated text (any on-screen text is added in the edit). No exceptions.
+8. The voice returns to a whisper at the close, and the meditative track bookends the film.
+This is the film.
+
+
+
+
+Most fans just move air.
+This makes the room feel alive.
+Not colder.
+Not louder.
+Not air blasting one side of your face.
+Just a soft 360° breeze moving through the whole room — like an open window you can feel from every corner.
+That’s Spin360.
+It was built to recreate the feeling of outside air…
+inside your bedroom.
+✅ Soft natural-feeling airflow
+✅ No harsh direct blast
+✅ Whisper quiet below speed 5
+✅ Soft white noise when turned up
+✅ Built-in scent pod system
+✅ Makes a closed room feel open
+Drop in your favorite scent pod…
+and the whole room starts to feel different.
+First 1,000 customers get $100 off.
+👇 Tap below and bring the outside in.
+
+
+
+
+
+
+
+
+Headline: Make Your Room Feel Alive

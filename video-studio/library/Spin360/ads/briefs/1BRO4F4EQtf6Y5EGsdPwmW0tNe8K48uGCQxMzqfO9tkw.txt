@@ -1,0 +1,262 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_ Wake_up_Amazing
+Author: Gabriel
+Editor: Chose
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID:Spin360_ Wake_up_amazing
+* Ad Type: Ideation
+* Type of Ad: UGC/iPhone-style sleep listicle (5 reasons) 
+* Sizes Needed: 9x16
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 Video
+
+
+
+
+
+
+________________
+ 
+[2] Strategy
+[2] Strategy
+* Who is this for: Women who want to sleep better.
+* Main Selling Points: 360° airflow that fills the room instead of blasting you; fall asleep fast; wake up actually rested; near-silent / white noise; scent-pod system; invented by David Patrick (Shark Wheel, Shark Tank).
+* Market Awareness: Solution-aware — open to a better fan; the ad reveals Spin360 as that fan and proves it in 5 reasons.
+* Desires: Sleep through the night and wake up rested, without cold air or air hitting their face.
+* Angle: A fan built to help you sleep better — fall asleep fast and wake up actually rested.
+
+
+________________
+
+
+[3] Creative Direction
+Watch: 2026-06-15 14-08-42.mp4
+Upload that video to seedance WHITE BIG FAN(1).mp4
+Voiceover similar i want, use google ai studio
+Spin360_5Reasons_WomenPositive_V3_Hook_8.mp4
+________________
+
+
+[4] Script
+Hooks: 
+
+
+There's a reason women choose this over the AC at night. 
+
+
+This fan has one job: make you wake up actually rested. Here's 5 reasons why. 
+
+
+This fan has one job: knock you out in minutes. Here's 5 reasons why.
+
+
+This fan has two jobs: knock you out at night, wake you up amazing. Here's how.
+
+
+
+
+[DAVID ] When someone takes a fan and waves it like this... that's what we are doing. We just took that and turned it into a full circle.
+[VO FEM] That's David Patrick. And what he built makes you sleep so good. Here's 5 reasons why.
+
+
+
+
+Body:
+
+
+First, the blade shape makes it feel like the walls vanished and your bed landed on a beach in Hawaii. The air just moves the way it does outside. That soft breeze drifting across your skin, making your eyes close before you even notice. You wake up genuinely rested. Feel it once and you're hooked.
+Second, it draws air from above and below at once, blends it all together and sends it out in every direction. Same comfort in every corner of the room, more fresh air right where you breathe. You'll breathe so easy you'll wake up feeling like a brand new person.
+Third, under speed five... total silence. Above that... the finest white noise around. That soothing shhhhhh that melts the whole world away in minutes. At last, a fan built for sleep. Because that's exactly what it is.
+Fourth, drop a scent pod in and ten seconds later your room becomes a spa. Add citronella and the mosquitoes lose interest fast. This is a scent system as much as a fan.
+Fifth, built by the man who literally reinvented the wheel and struck a killer Shark Tank deal with Mark Cuban and Nick Woodman. Now he's reinvented the fan. The first thousand people save a hundred dollars. Come feel it. You're gonna love this thing.
+
+
+
+
+
+
+ 
+________________
+[5] Shotlist / Storyboard
+
+
+HOOKS
+	HOOK
+	Script
+	Visual
+	Description
+	1
+	There's a reason women choose this over the AC at night. 
+
+
+	
+
+
+
+	Vertical 9:16, shot on iPhone, realistic and authentic, natural handheld but steady as if propped on a nightstand, slight phone-camera look, soft natural lighting, everyday real bedroom, not cinematic, no film grain, no lens flare, no text, no captions, no logos. Use @video_1 as the exact reference for the tall fan. Keep the fan identical in design, shape, proportions, color, materials, finish, grille, base, controls, and all visible details. CHARACTER: a beautiful woman in her early 50s, elegant and natural, soft features with graceful smile lines, healthy radiant skin, shoulder-length soft brown hair with subtle silver strands, refined and well cared for, serene; keep her face and hair identical throughout. A woman in her early 50s asleep on her side in a normal cozy bedroom in soft late-afternoon light, the tall fan from @video_1 beside the bed gently moving air through the whole room like a natural breeze — curtains drifting slowly, a loose strand of her hair lifting once and settling, the air never hitting her directly. [0-7s] she sleeps in calm deep rest, relaxed, one slow easy breath, the phone held steady on her. Warm natural light, realistic lived-in room. WITH soft ambient sound design: open airy room tone and a soft breeze, no music, no voice.
+	2
+	This fan has one job: make you wake up actually rested. Here's 5 reasons why. 
+
+
+	
+
+
+
+	Vertical 9:16, shot on iPhone, realistic and authentic, natural handheld but steady as if propped on a nightstand, slight phone-camera look, soft natural lighting, everyday real bedroom, not cinematic, no film grain, no lens flare, no text, no captions, no logos. Use @video_1 as the exact reference for the tall fan. Keep the fan identical in design, shape, proportions, color, materials, finish, grille, base, controls, and all visible details. CHARACTER: a beautiful woman in her early 50s, elegant and natural, soft features with graceful smile lines, healthy radiant skin, shoulder-length soft brown hair with subtle silver strands, refined and well cared for, serene; keep her face and hair identical throughout. A woman in her early 50s asleep on her side in a normal cozy bedroom in soft morning light, the tall fan from @video_1 standing beside the bed quietly moving air through the room, curtains drifting gently, never blowing at her. [0-4s] she sleeps peacefully, relaxed and still. [4-7s] she stirs and wakes naturally, eyes opening soft, a calm deep breath, genuinely rested. Warm natural morning light, realistic skin with graceful smile lines, lived-in room. WITH soft ambient sound design: quiet room tone, a gentle breeze, no music, no voice.
+	3
+	This fan has one job: knock you out in minutes. Here's 5 reasons why.
+
+
+	
+
+	Vertical 9:16, shot on iPhone, realistic and authentic, natural handheld but steady as if propped on a nightstand, slight phone-camera look, soft natural lighting, everyday real bedroom, not cinematic, no film grain, no lens flare, no text, no captions, no logos. Use @video_1 as the exact reference for the tall fan. Keep the fan identical in design, shape, proportions, color, materials, finish, grille, base, controls, and all visible details. CHARACTER: a beautiful woman in her early 50s, elegant and natural, soft features with graceful smile lines, healthy radiant skin, shoulder-length soft brown hair with subtle silver strands, refined and well cared for, serene; keep her face and hair identical throughout. A woman in her early 50s lying awake on her back in a normal dim bedroom at night with a warm bedside lamp, restless; the tall fan from @video_1 beside the bed quietly circulates soft air through the room, not blowing directly at her. [0-3s] she lies awake, then her shoulders ease and her eyelids grow heavy. [3-7s] she turns onto her side and drifts off, face relaxing, breathing slow. Warm lamp light, realistic everyday room. WITH soft ambient sound design: quiet night room tone, a gentle breeze, no music, no voice.
+	4
+	This fan has two jobs: knock you out at night, wake you up amazing. Here's how.
+	
+
+
+
+	Vertical 9:16, shot on iPhone, realistic and authentic, natural handheld but steady as if propped on a nightstand, slight phone-camera look, soft natural lighting, everyday real bedroom, not cinematic, no film grain, no lens flare, no text, no captions, no logos. Use @video_1 as the exact reference for the tall fan. Keep the fan identical in design, shape, proportions, color, materials, finish, grille, base, controls, and all visible details. CHARACTER: a beautiful woman in her early 50s, elegant and natural, soft features with graceful smile lines, healthy radiant skin, shoulder-length soft brown hair with subtle silver strands, refined and well cared for, serene; keep her face and hair identical throughout. The same woman in her early 50s in one normal cozy bedroom, the tall fan from @video_1 beside the bed quietly moving air through the room, never blasting at her. [0-3.5s] night, warm lamp glow, she sleeps deeply and peacefully on her side. [3.5-7s] a soft transition as light turns to natural morning, she wakes up rested and calm, a deep easy breath. Realistic everyday room, natural light shift from warm night to soft morning. WITH soft ambient sound design: quiet night room tone easing into soft morning, a gentle breeze, no music, no voice.
+	5
+	[DAVID ] When someone takes a fan and waves it like this... that's what we are doing. We just took that and turned it into a full circle.
+[VO FEM] That's David Patrick. And what he built makes you sleep so good. Here's 5 reasons why.
+
+
+	  
+  
+  
+
+	Spin360_GunnaDie_VSL_Hook_6.mp4Spin360_BedOutside_Hook_1_9x16.mp4 
+	
+
+BODY
+	Script 
+	Visual 
+	Description 
+	First, the blade shape makes it feel like the walls vanished and your bed landed on a beach in Hawaii. 
+	  
+
+	
+
+
+
+Lets make make a different one here, like that idea
+	The air just moves the way it does outside. That soft breeze drifting across your skin, making your eyes close before you even notice. You wake up genuinely rested. Feel it once and you're hooked.
+Second, it draws air from above and below at once, blends it all together and sends it out in every direction. Same comfort in every corner of the room, more fresh air right where you breathe. You'll breathe so easy you'll wake up feeling like a brand new person.
+Third, under speed five... total silence. Above that... the finest white noise around. That soothing shhhhhh that melts the whole world away in minutes. At last, a fan built for sleep. Because that's exactly what it is.
+Fourth, drop a scent pod in and ten seconds later your room becomes a spa. Add citronella and the mosquitoes lose interest fast. This is a scent system as much as a fan.
+Fifth, built by the man who literally reinvented the wheel and struck a killer Shark Tank deal with Mark Cuban and Nick Woodman. Now he's reinvented the fan. The first thousand people save a hundred dollars. Come feel it. You're gonna love this thing.
+
+
+	
+
+	For the rest of the ad you can copy the same visuals ideas of this ad right here that starts at 15sSpin360_Teleport_Hawaii_V1_H5.mp4
+	
+
+ 
+
+
+[6] Editing Rules
+* Each visual clip MUST complement the audio. Never disconnect visual from what's being said.
+* Add captions for entire video
+* Editor must add sound design
+* Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+
+
+ 
+________________
+
+
+[7] Deliverables
+• Versions: 5 total (one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels),
+• Upload Location: Creative Roadmap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Voiceover and Shot Selection Feedback
+Combining Sleep Ad Shots and Voiceover
+Feedback Shiv.mp4
+Transcript of everything: Feedback Shiv
+
+
+Video that i made : Shots for you use, use that example with the new voiceover.mp4
+
+
+Generate the voiceover similar to that ad ( BTW im trying to make the flow similar to that one because its a winning ad and the script is similar but using more of UTAH shots)
+Spin360_5Reasons_WomenPositive_V3_Hook_8.mp4
+
+
+
+
+
+
+
+
+What to do now?:
+
+
+1 - Generate the new voiceover using gemini 2.5 tts pro
+2 - Use the shots on the example that i made with that voiceover
+
+
+
+
+
+
+
+
+
+
+
+
+🥶🌙 AC at night is honestly kind of rude.
+Too cold.
+Too dry.
+Too much.
+But sleeping in a still, stuffy room?
+Also no.
+That’s why women are switching to SPIN360.
+It doesn’t try to freeze the room.
+It just makes the air move better.
+Soft.
+Quiet.
+Around the whole bed.
+Like your bedroom got moved into a Hawaii night breeze without touching the thermostat.
+And yeah…
+once you feel that little shhhh in the background, it makes regular AC air feel aggressive.
+🌬️ soft 360° breeze
+😴 made for sleep
+🔇 quiet below speed 5
+🌿 scent pod option
+🏝️ that beach-air feeling
+🦈 from the inventor behind Shark Wheel
+If AC feels like too much, but still air feels worse…
+this is probably the thing you were trying to find.
+Tap Shop Now to feel it 👇
+Headline:
+AC At Night Is Rude

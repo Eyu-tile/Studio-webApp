@@ -1,0 +1,354 @@
+[
+{
+ "id": "a0e99184-29dc-4251-ba5a-f97e46e9c39d",
+ "kind": "stock",
+ "summary": "Dark bedroom silhouette: a boy lying in bed sits up and stays seated facing a window with a white box fan and sheer curtains.",
+ "people": [{"who": "boy/teen, short hair, silhouette only", "wardrobe": "light t-shirt", "role": "actor"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": ["white box fan in window"], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.2, "camera": "static", "framing": "wide", "action": "boy lies in bed in dark room, box fan glowing in window", "on_screen_text": "", "audio_hint": "fan hum"},
+  {"start": 4.2, "end": 9.2, "camera": "static", "framing": "wide", "action": "boy sits up and turns toward window", "on_screen_text": "", "audio_hint": ""},
+  {"start": 9.2, "end": 19.8, "camera": "static", "framing": "wide", "action": "boy sits still on bed edge, silhouetted against window and box fan", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 4.2, "end": 10.2, "why": "restless sit-up in front of old box fan reads as can't-sleep problem"},
+ "beats": ["hot_sleeper_problem", "old_fan_annoyance", "before_after"],
+ "hook_potential": {"score": 2, "why": "moody cinematic can't-sleep silhouette"},
+ "brand_fit": {"score": 1, "why": "dark problem shot, old fan"},
+ "quality": {"score": 2, "issues": ["dark"]},
+ "status": "CAUTION", "status_why": "other fan (box fan) shown; problem shot only",
+ "tags": ["box fan in window", "can't sleep", "boy sits up in bed", "dark bedroom silhouette", "Artlist stock"]
+},
+{
+ "id": "f3143892-050c-493c-99a9-b1b166833a0f",
+ "kind": "product_only",
+ "summary": "Low-angle handheld close-up of a black Spin360 head spinning in a lake-view dining room, people's arms and legs at a table behind.",
+ "people": [{"who": "adults at table, only arms/legs visible", "wardrobe": "unclear", "role": "hand only"}],
+ "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["cage", "gold halo", "pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "other", "time": "day", "light": "bright natural", "view": "lake", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 18.6, "camera": "handheld", "framing": "close", "action": "low angle on spinning cage head, slight sway; lake through windows and dining table behind", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 3.1, "end": 8.2, "why": "steady, centred head with gold halo and lake view"},
+ "beats": ["product_hero", "room_aesthetic"],
+ "hook_potential": {"score": 1, "why": "plain product spin"},
+ "brand_fit": {"score": 2, "why": "lake view and daylight, but rustic dining room"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["black fan head spinning", "low angle hero", "lake house dining", "people at table behind"]
+},
+{
+ "id": "69fb95b4-9f75-49e1-87a5-eb1326222dea",
+ "kind": "ugc_broll",
+ "summary": "POV hand repeatedly slots the clear curved scent tray into the side of a black Spin360 cage in a wood-ceiling cabin.",
+ "people": [{"who": "adult, hand/forearm only", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "partial", "colourway": "black", "on": null, "details_seen": ["scent tray", "gold halo", "cage", "pole label sticker"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 6.2, "camera": "handheld", "framing": "close", "action": "hand brings clear curved tray to side of cage and pushes it in", "on_screen_text": "", "audio_hint": ""},
+  {"start": 6.2, "end": 11.2, "camera": "handheld", "framing": "close", "action": "hand rests on cage, tray pulled out and reinserted", "on_screen_text": "", "audio_hint": ""},
+  {"start": 11.2, "end": 20.0, "camera": "handheld", "framing": "close", "action": "repeat takes of sliding tray into cage", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 1.1, "end": 5.2, "why": "clearest tray insertion"},
+ "beats": ["scent_tray"],
+ "hook_potential": {"score": 1, "why": "functional demo"},
+ "brand_fit": {"score": 2, "why": "airy wood cabin, daylight"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["scent tray insert", "clear curved tray side of cage", "POV hand", "wood ceiling cabin", "wide-angle lens"]
+},
+{
+ "id": "b857c67b-3194-459d-91af-b244aec5e2a7",
+ "kind": "product_only",
+ "summary": "Handheld low move around a black Spin360 in a lake-view living room with brick fireplace and armchair.",
+ "people": [],
+ "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["cage", "gold halo", "pole label sticker"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "lake", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 7.2, "camera": "handheld", "framing": "medium", "action": "fan in front of lake windows, camera drifts right until fan exits frame", "on_screen_text": "", "audio_hint": ""},
+  {"start": 7.2, "end": 15.2, "camera": "orbit", "framing": "medium", "action": "camera arcs back across fan, fireplace and lake behind", "on_screen_text": "", "audio_hint": ""},
+  {"start": 15.2, "end": 18.1, "camera": "pan", "framing": "wide", "action": "fan leaves frame, room and lake view only", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 8.2, "end": 12.2, "why": "fan framed against fireplace and lake"},
+ "beats": ["room_aesthetic", "product_hero"],
+ "hook_potential": {"score": 1, "why": "calm establishing"},
+ "brand_fit": {"score": 3, "why": "floor-to-ceiling lake view, airy room"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["lake view living room", "brick fireplace", "black fan orbit", "armchair purple throw"]
+},
+{
+ "id": "d4ba4329-753b-4c18-9929-23b2bfca34fe",
+ "kind": "product_only",
+ "summary": "Low-angle push in on a spinning black Spin360 head in a bright lake-view room, display reads F3.",
+ "people": [],
+ "product": {"visible": "hero", "colourway": "black", "on": true, "details_seen": ["display F3", "cage", "gold halo"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "lake", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 6.2, "camera": "handheld", "framing": "medium", "action": "fan head against lake windows, green cushion on floor", "on_screen_text": "", "audio_hint": ""},
+  {"start": 6.2, "end": 11.2, "camera": "push in", "framing": "close", "action": "camera pushes in, F3 on pole display, cage fills frame", "on_screen_text": "", "audio_hint": ""},
+  {"start": 11.2, "end": 18.2, "camera": "handheld", "framing": "extreme close", "action": "spinning blades seen through slats", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 6.2, "end": 11.2, "why": "push in with display and lake view"},
+ "beats": ["product_hero", "control_display"],
+ "hook_potential": {"score": 1, "why": "detail shot"},
+ "brand_fit": {"score": 2, "why": "bright lake room, plain"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["push in fan head", "blades spinning through cage", "display F3", "lake view"]
+},
+{
+ "id": "7ed6f9bd-044e-41a1-8fe0-a9267a9f937f",
+ "kind": "ugc_broll",
+ "summary": "Silver-haired woman walks up to a black Spin360, feels the air around the head with both hands, laughs, and walks off.",
+ "people": [{"who": "woman, 50s-60s, long silver wavy hair", "wardrobe": "black top, cream wide-leg trousers", "role": "senior"}],
+ "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["cage", "pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 5.2, "camera": "static", "framing": "medium", "action": "fan by gold mirrored cabinet and plant, woman reflected walking in", "on_screen_text": "", "audio_hint": ""},
+  {"start": 5.2, "end": 15.2, "camera": "static", "framing": "medium", "action": "woman holds hands around fan head feeling airflow, smiles and laughs", "on_screen_text": "", "audio_hint": "laugh"},
+  {"start": 15.2, "end": 19.6, "camera": "static", "framing": "medium", "action": "woman exits, fan alone", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 6.2, "end": 15.2, "why": "delighted reaction while feeling air"},
+ "beats": ["airflow_demo_hand", "reaction_face", "room_aesthetic"],
+ "hook_potential": {"score": 2, "why": "genuine delighted reaction"},
+ "brand_fit": {"score": 2, "why": "stylish navy wall art and gold cabinet; cable visible"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["senior woman feels breeze", "hands around fan head", "laughing", "navy silhouette wall art", "gold mirror cabinet", "Vicky"]
+},
+{
+ "id": "f800d4c8-fa12-4d3a-835e-1cd99669857d",
+ "kind": "ugc_broll",
+ "summary": "POV hand with gold ring waves around a black Spin360 head by a forest-view window, ending on the window and trees.",
+ "people": [{"who": "woman, hand only, gold ring, pink nails", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "partial", "colourway": "black", "on": true, "details_seen": ["cage", "gold halo", "top cap mesh with round lid", "yellow sticker on pole"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 16.1, "camera": "handheld", "framing": "close", "action": "hand hovers and waves in front of spinning cage, feeling airflow", "on_screen_text": "", "audio_hint": ""},
+  {"start": 16.1, "end": 18.8, "camera": "tilt", "framing": "medium", "action": "camera pulls off fan up to window and pine trees/mountains", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 0.0, "end": 4.2, "why": "hand clearly in airflow with top cap visible"},
+ "beats": ["airflow_demo_hand", "room_aesthetic"],
+ "hook_potential": {"score": 1, "why": "standard hand demo"},
+ "brand_fit": {"score": 3, "why": "forest/mountain view, sunny wood frames"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "CAUTION", "status_why": "yellow warning sticker on pole visible",
+ "tags": ["hand in breeze", "gold ring", "forest view window", "mountain cabin", "Lauren", "top cap mesh"]
+},
+{
+ "id": "a5a84ce6-dfb6-43a9-aabf-0e208b8b08ec",
+ "kind": "ugc_broll",
+ "summary": "Hand shows a yellow translucent scent pod to camera, then a blonde woman drops it into the top-cap well of a black Spin360 and walks off.",
+ "people": [{"who": "woman, 30s-40s, blonde hair in bun", "wardrobe": "brown tank top, teal bike shorts", "role": "creator"}],
+ "product": {"visible": "full", "colourway": "black", "on": null, "details_seen": ["scent pod (yellow disc)", "top cap well", "blue ring", "yellow sticker on pole", "cage"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 7.2, "camera": "static", "framing": "medium", "action": "hand holds yellow scent disc up to lens beside fan", "on_screen_text": "", "audio_hint": ""},
+  {"start": 7.2, "end": 13.2, "camera": "static", "framing": "medium", "action": "woman walks in, drops pod into top of fan, steps back smiling", "on_screen_text": "", "audio_hint": ""},
+  {"start": 13.2, "end": 19.7, "camera": "static", "framing": "medium", "action": "fan alone by cream boucle sofa, woman returns briefly at end", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 0.0, "end": 4.2, "why": "scent pod close to lens, sunlit"},
+ "beats": ["scent_tray", "room_aesthetic"],
+ "hook_potential": {"score": 1, "why": "simple scent pod show"},
+ "brand_fit": {"score": 3, "why": "sunlit cream boucle sofa, brass sconce, airy"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "CAUTION", "status_why": "yellow warning sticker on pole visible",
+ "tags": ["yellow scent pod", "drop pod in top cap", "boucle sofa", "blonde woman workout clothes", "Lauren"]
+},
+{
+ "id": "f2f2bfc3-5e67-4dd5-9376-28d1533c8728",
+ "kind": "product_only",
+ "summary": "Static locked-off shot of a white Spin360 head and pole against a plain grey wall with a plant.",
+ "people": [],
+ "product": {"visible": "hero", "colourway": "white", "on": null, "details_seen": ["cage", "gold halo", "display (blank)"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 19.6, "camera": "static", "framing": "medium", "action": "fan head and pole, no visible change (quiet test shot)", "on_screen_text": "", "audio_hint": "room sound / fan quiet"}
+ ],
+ "best": {"start": 0.0, "end": 5.0, "why": "clean steady frame"},
+ "beats": ["quiet_demo", "product_hero"],
+ "hook_potential": {"score": 0, "why": "nothing happens"},
+ "brand_fit": {"score": 1, "why": "plain wall, wall outlet visible"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["white fan static", "quiet demo", "plain wall", "Avery"]
+},
+{
+ "id": "0ac25079-38cd-4074-b9fd-e41c7f66b875",
+ "kind": "ugc_broll",
+ "summary": "Hand holds a blue-and-gold silk scarf near a white Spin360 so it flutters in the airflow.",
+ "people": [{"who": "adult, hand only", "wardrobe": "", "role": "hand only"}],
+ "product": {"visible": "full", "colourway": "white", "on": true, "details_seen": ["display (icon)", "cage", "gold halo", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 2.1, "camera": "handheld", "framing": "wide", "action": "full white fan on wood floor", "on_screen_text": "", "audio_hint": ""},
+  {"start": 2.1, "end": 9.2, "camera": "handheld", "framing": "medium", "action": "scarf dangled in front/side of fan, swaying", "on_screen_text": "", "audio_hint": ""},
+  {"start": 9.2, "end": 17.5, "camera": "handheld", "framing": "medium", "action": "scarf moved in and out at edge of frame, often blocking lens", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 2.1, "end": 5.2, "why": "scarf clearly in airflow beside fan"},
+ "beats": ["airflow_demo_curtain_or_ribbon"],
+ "hook_potential": {"score": 1, "why": "airflow visual but messy"},
+ "brand_fit": {"score": 1, "why": "plain room, cable/outlet visible"},
+ "quality": {"score": 1, "issues": ["shaky", "blurry"]},
+ "status": "OK", "status_why": "",
+ "tags": ["silk scarf fluttering", "airflow visualisation", "white fan full length", "baroque print scarf", "Avery"]
+},
+{
+ "id": "465969fb-5ca0-4708-b19f-673e10366585",
+ "kind": "ugc_broll",
+ "summary": "Handheld night shot of a quilt kicked off onto the floor beside a bed, with a sleeper partly visible on the pillow.",
+ "people": [{"who": "sleeper in bed, head/arm only, unclear (possibly child)", "wardrobe": "unclear", "role": "actor"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "night", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 6.2, "camera": "handheld", "framing": "close", "action": "crumpled sage quilt on rug by bed", "on_screen_text": "", "audio_hint": ""},
+  {"start": 6.2, "end": 11.2, "camera": "pull out", "framing": "medium", "action": "reveals bed, nightstand with photo frame, sleeper on pillow", "on_screen_text": "", "audio_hint": ""},
+  {"start": 11.2, "end": 19.1, "camera": "handheld", "framing": "close", "action": "back to quilt on floor", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 6.2, "end": 10.2, "why": "context: blanket kicked off while someone sleeps"},
+ "beats": ["hot_sleeper_problem"],
+ "hook_potential": {"score": 1, "why": "relatable kicked-off blanket"},
+ "brand_fit": {"score": 1, "why": "dim, ordinary bedroom"},
+ "quality": {"score": 1, "issues": ["dark", "shaky"]},
+ "status": "CAUTION", "status_why": "family photo frame on nightstand (personal info)",
+ "tags": ["blanket kicked off", "quilt on floor", "too hot at night", "nightstand photo frame", "Avery"]
+},
+{
+ "id": "6377e6b8-5dd6-4ba8-bd12-d937da096c8c",
+ "kind": "ugc_broll",
+ "summary": "Lit candle in a glass jar on a whitewashed cabinet beside a fiddle-leaf fig and glass lamp; camera pushes in then pulls back.",
+ "people": [],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 9.2, "camera": "push in", "framing": "medium", "action": "push in from cabinet to candle flame", "on_screen_text": "", "audio_hint": ""},
+  {"start": 9.2, "end": 19.0, "camera": "pull out", "framing": "close", "action": "hold on candle then pull back to lamp and plant", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 3.1, "end": 9.2, "why": "smooth push to glowing candle"},
+ "beats": ["before_after"],
+ "hook_potential": {"score": 0, "why": "generic b-roll"},
+ "brand_fit": {"score": 2, "why": "warm, tidy, plant; no breeze"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["candle burning", "candle vs scent pod", "fiddle leaf fig", "glass lamp", "Avery"]
+},
+{
+ "id": "6e2b4469-dd31-495b-9257-47644d95063c",
+ "kind": "ugc_broll",
+ "summary": "Brunette woman sits beside a white Spin360, gestures that her hair is not blowing, and smiles.",
+ "people": [{"who": "woman, 30s, long dark curly hair", "wardrobe": "black sleeveless jumpsuit, gold bracelet", "role": "creator"}],
+ "product": {"visible": "full", "colourway": "white", "on": true, "details_seen": ["cage", "gold halo", "display", "base"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 3.1, "camera": "static", "framing": "medium", "action": "woman switches fan on and walks into frame", "on_screen_text": "", "audio_hint": ""},
+  {"start": 3.1, "end": 16.1, "camera": "static", "framing": "medium", "action": "sits next to fan, points to her still hair, smiles calmly", "on_screen_text": "", "audio_hint": ""},
+  {"start": 16.1, "end": 18.0, "camera": "static", "framing": "close", "action": "stands and covers lens to end", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 7.2, "end": 12.2, "why": "clear hair-not-blowing gesture and smile"},
+ "beats": ["airflow_demo_hair", "reaction_face", "turning_on"],
+ "hook_potential": {"score": 1, "why": "gentle breeze vs blasting fan idea"},
+ "brand_fit": {"score": 2, "why": "calm but plain room, louvre door"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["hair not blowing", "gentle breeze", "woman sits by fan", "white fan", "Avery"]
+},
+{
+ "id": "8c7d71e0-8205-45b0-a9c4-3ad9f897fd87",
+ "kind": "ugc_broll",
+ "summary": "Brunette woman sits on an unmade bed, rubs her face and looks exhausted after a bad night.",
+ "people": [{"who": "woman, 30s, long dark hair", "wardrobe": "white t-shirt, pink shorts", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 4.2, "camera": "static", "framing": "medium", "action": "empty unmade bed, woman enters and sits", "on_screen_text": "", "audio_hint": ""},
+  {"start": 4.2, "end": 14.2, "camera": "static", "framing": "medium", "action": "rubs eyes, face in hands, stares tired", "on_screen_text": "", "audio_hint": ""},
+  {"start": 14.2, "end": 17.1, "camera": "static", "framing": "medium", "action": "gets up, hand covers lens", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 6.2, "end": 11.2, "why": "face-in-hands exhaustion"},
+ "beats": ["hot_sleeper_problem", "sweaty_discomfort", "reaction_face"],
+ "hook_potential": {"score": 2, "why": "relatable tired morning"},
+ "brand_fit": {"score": 1, "why": "dim grey bedroom"},
+ "quality": {"score": 2, "issues": ["dark"]},
+ "status": "OK", "status_why": "",
+ "tags": ["tired woman on bed", "rubbing face", "bad night sleep", "unmade bed", "Avery"]
+},
+{
+ "id": "9c5486cb-2de9-478a-9a2a-46956e38c075",
+ "kind": "ugc_broll",
+ "summary": "A black tower fan oscillates on a rug by a window with trees and dark curtains.",
+ "people": [],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": ["black tower fan"], "other_brands": ["small brand text on tower fan (likely Honeywell)"]},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 18.5, "camera": "static", "framing": "medium", "action": "tower fan rotates back and forth, blue display on top shows at mid-swing", "on_screen_text": "", "audio_hint": "fan noise"}
+ ],
+ "best": {"start": 8.2, "end": 14.2, "why": "full oscillation swing showing it only points one way"},
+ "beats": ["old_fan_annoyance", "before_after"],
+ "hook_potential": {"score": 1, "why": "problem comparison shot"},
+ "brand_fit": {"score": 1, "why": "other fan"},
+ "quality": {"score": 2, "issues": []},
+ "status": "CAUTION", "status_why": "other fan (tower fan) with small brand logo; problem shot only",
+ "tags": ["tower fan oscillating", "old fan", "before shot", "Avery"]
+},
+{
+ "id": "a611ea32-6758-4c55-a4c5-94004672ca9f",
+ "kind": "ugc_broll",
+ "summary": "Woman in a pink dress opens a sash window onto trees, leans out and fans at the air, looking hot.",
+ "people": [{"who": "woman, 30s, dark hair in bun", "wardrobe": "pink linen dress", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 2.1, "camera": "static", "framing": "medium", "action": "closed window with green trees", "on_screen_text": "", "audio_hint": ""},
+  {"start": 2.1, "end": 12.2, "camera": "static", "framing": "medium", "action": "woman lifts sash, tilts head back, wipes brow, stands by window", "on_screen_text": "", "audio_hint": ""},
+  {"start": 12.2, "end": 19.0, "camera": "static", "framing": "medium", "action": "leans out window waving hand for air, then walks off", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 13.2, "end": 16.1, "why": "leaning out of window desperate for air"},
+ "beats": ["sweaty_discomfort", "hot_sleeper_problem"],
+ "hook_potential": {"score": 2, "why": "clear 'it's so hot' moment"},
+ "brand_fit": {"score": 2, "why": "open window and trees, though problem shot"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["opening window", "too hot", "woman leans out window", "trees view", "Avery"]
+},
+{
+ "id": "78a7af14-15a9-43e1-a331-9376440a7b4a",
+ "kind": "ugc_broll",
+ "summary": "Brunette woman in navy pyjamas snuggles under a white fluffy blanket and smiles contentedly in bed.",
+ "people": [{"who": "woman, 30s, long dark hair", "wardrobe": "navy pyjamas", "role": "creator"}],
+ "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "day", "light": "mixed", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+ "shots": [
+  {"start": 0.0, "end": 6.2, "camera": "static", "framing": "medium", "action": "pulls blanket up, lies back smiling with eyes closed", "on_screen_text": "", "audio_hint": ""},
+  {"start": 6.2, "end": 18.1, "camera": "static", "framing": "medium", "action": "turns on side, snuggles in, content smile", "on_screen_text": "", "audio_hint": ""},
+  {"start": 18.1, "end": 19.6, "camera": "static", "framing": "medium", "action": "sits up and blanket thrown toward camera", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 2.1, "end": 6.2, "why": "eyes-closed blissful smile"},
+ "beats": ["sleeping_comfort", "reaction_face"],
+ "hook_potential": {"score": 1, "why": "solution payoff"},
+ "brand_fit": {"score": 2, "why": "soft neutral bedding, calm"},
+ "quality": {"score": 2, "issues": []},
+ "status": "OK", "status_why": "",
+ "tags": ["smiling in bed", "cozy blanket", "sleeping comfortably", "woman navy pyjamas", "Avery"]
+},
+{
+ "id": "127f997c-6cae-41a1-93fa-65ce0d1e03f8",
+ "kind": "ugc_broll",
+ "summary": "Woman in striped shirt unboxes the Spin360 box on a bed in a dark-walled bedroom, pulling out wrapped parts and the fan head.",
+ "people": [{"who": "woman, 30s, dark hair", "wardrobe": "blue-white striped shirt", "role": "creator"}],
+ "product": {"visible": "partial", "colourway": "white", "on": false, "details_seen": ["box/packaging", "cage"], "other_fans": [], "other_brands": []},
+ "setting": {"room": "bedroom", "time": "evening", "light": "warm lamp", "view": "none", "curtains_moving": false, "decor": "luxe"},
+ "shots": [
+  {"start": 0.0, "end": 3.1, "camera": "static", "framing": "medium", "action": "box placed on bed, turned showing photo of fan head", "on_screen_text": "box printed copy", "audio_hint": ""},
+  {"start": 3.1, "end": 16.1, "camera": "static", "framing": "medium", "action": "opens flaps, lifts out wrapped pole sections and cardboard insert", "on_screen_text": "", "audio_hint": ""},
+  {"start": 16.1, "end": 19.5, "camera": "static", "framing": "medium", "action": "tips box on side to slide out white fan head in pulp tray", "on_screen_text": "", "audio_hint": ""}
+ ],
+ "best": {"start": 0.0, "end": 4.2, "why": "box front with product image clearly shown"},
+ "beats": ["unboxing"],
+ "hook_potential": {"score": 1, "why": "standard unboxing"},
+ "brand_fit": {"score": 2, "why": "dark slat wall, warm lamps; a bit dim"},
+ "quality": {"score": 2, "issues": ["vertical crop risk"]},
+ "status": "OK", "status_why": "",
+ "tags": ["unboxing on bed", "box with fan photo", "striped shirt", "black slat wall", "Kylie", "pole parts wrapped"]
+}
+]

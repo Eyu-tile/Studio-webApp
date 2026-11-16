@@ -1,0 +1,316 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_Conversational_BreezeSleep_V1
+Author: Gabriel
+Editor: Chose
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Sizes Needed: 9x16
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 Video
+
+
+
+
+________________
+
+
+[3] Creative Direction
+Watch:
+You will be using that workflow
+Did Kling 3.0 Omni Finally Solve AI Dialogue? Real-World Stress Test
+Creating a Cinematic Conversational Ad
+Use kling 3.0 account
+Kling AI: Next-Gen AI Video & AI Image Generator
+
+
+Examples: ( dont use that because i made some changes in the skin color of the avatars and some changes in the power of the breeze in the prompts)
+
+
+kling_20260625_VIDEO_Cinematic__5508_0.mp4
+kling_20260625_VIDEO_Cinematic__5661_0.mp4 
+
+
+This you can use https://drive.google.com/drive/u/0/h
+ome
+
+
+Spin360_Conversational_BreezeSleep_V1 
+
+
+________________
+
+
+[4] Script
+MOM: ...oh, feel that. Feel that breeze.
+MOM: I wish my bedroom felt like this every night.
+EMMA: You kind of can.
+MOM: ...what do you mean?
+EMMA: I kind of have this at home now.
+MOM: You do not.
+EMMA: I do. It's a fan — but not like the one you're thinking.
+MOM: Honey, I've had the same fan for twenty years.
+EMMA: I know. That's why I almost didn't even bring it up. But this one doesn't feel like a fan. It feels like this. Like the air right now.
+MOM: ...like the breeze?
+EMMA: That. Exactly that.
+MOM: But you know I can't have something blowing on me all night. I shut mine off, then I wake up with a stiff neck.
+EMMA: Right, that's the whole thing — it doesn't blast air at you. It never comes straight at you, it just kind of... moves around you. I don't even know how to explain it. It just feels like air outside.
+MOM: ...huh.
+EMMA: The first night I slept with it on, I swear it felt like the walls weren't even there. Like the bed was just... outside. And I woke up actually rested. I don't even remember the last time that happened.
+MOM: ...you know I haven't slept right in years.
+EMMA: I know, Ma. That's exactly why I thought of you. 
+MOM: ...and is it loud, though? Any little rattle and I'm up.
+EMMA: That's the crazy part. Low, you don't hear a thing. Turn it up, it's just this soft... shhhh. Makes the whole room feel calm.
+MOM: ...okay. That I'd like.
+EMMA: Oh — and you'll love this. You put one of those little scent things in it, and ten seconds later the whole room smells amazing.
+MOM: Okay, now you're really selling me.
+EMMA: I'm not. I swear. I just want you to have it. You of all people.
+MOM: ...and it really feels like this?
+EMMA: Turn it on, Ma. Then you tell me. 
+
+
+
+
+BODY
+	Script 
+	Visual 
+	Description 
+	MOM: ...oh, feel that. Feel that breeze.
+MOM: I wish my bedroom felt like this every night.
+EMMA: You kind of can.
+MOM: ...what do you mean?
+EMMA: I kind of have this at home now.
+MOM: You do not.
+EMMA: I do. It's a fan — but not like the one you're thinking.
+MOM: Honey, I've had the same fan for twenty years.
+EMMA: I know. That's why I almost didn't even bring it up. 
+	  
+  
+  
+
+	
+
+
+
+I want this idea to show only conversational conversation here. 
+	But this one doesn't feel like a fan. It feels like this. Like the air right now.
+MOM: ...like the breeze?
+EMMA: That. Exactly that.
+MOM: But you know I can't have something blowing on me all night. I shut mine off, then I wake up with a stiff neck.
+EMMA: Right, that's the whole thing — it doesn't blast air at you. It never comes straight at you, it just kind of... moves around you. I don't even know how to explain it. It just feels like air outside.
+MOM: ...huh.
+EMMA: The first night I slept with it on, I swear it felt like the walls weren't even there. Like the bed was just... outside. And I woke up actually rested. I don't even remember the last time that happened.
+MOM: ...you know I haven't slept right in years.
+EMMA: I know, Ma. That's exactly why I thought of you. 
+MOM: ...and is it loud, though? Any little rattle and I'm up.
+EMMA: That's the crazy part. Low, you don't hear a thing. Turn it up, it's just this soft... shhhh. Makes the whole room feel calm.
+MOM: ...okay. That I'd like.
+EMMA: Oh — and you'll love this. You put one of those little scent things in it, and ten seconds later the whole room smells amazing.
+
+
+
+
+
+
+	  
+  
+  
+
+	Try to use more of that
+	MOM: Okay, now you're really selling me.
+EMMA: I'm not. I swear. I just want you to have it. You of all people.
+MOM: ...and it really feels like this?
+EMMA: Turn it on, Ma. Then you tell me. 
+
+
+
+
+	  
+  
+
+	
+
+	
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPIN360 — "The Breeze"
+Video Prompts · Kling 3.0
+Cinematic mother-daughter conversation, golden hour, oceanfront balcony in Hawaii. 10 clips (~10s each) · product B-roll layered on top in editing · breeze always SOFT.
+How to use: the Global Look + Characters block below applies to every clip and is what defines the characters and the world. Prepend it to each clip when generating — Kling has no memory between generations.
+________________
+
+
+🎨 GLOBAL LOOK + CHARACTERS
+(applies to every clip)
+Cinematic luxury commercial, shot on ARRI Alexa with vintage cinema lenses, shallow depth of field, creamy bokeh. Warm dreamy aspirational aesthetic — the visual language of a high-end fragrance ad or a Nancy Meyers film. Golden hour on an oceanfront balcony in Hawaii, late afternoon.
+
+
+	
+
+	LIGHTING
+	soft glowing golden-hour sunlight, warm amber key wrapping the subjects, gentle rim light on their hair, subtle controlled lens flare from the low sun, soft halation on highlights — designed, intentional, expensive light.
+	COLOR GRADE
+	warm and filmic, golden highlights, soft teal shadows, gentle contrast, warm healthy skin tones, slightly desaturated and elegant.
+	CAMERA
+	subtle organic movement, slow and deliberate as if on a high-end gimbal; composed framing with layered depth — soft foreground, sharp subject, dreamy ocean background.
+	TEXTURE
+	fine 35mm film grain, gentle motion blur on moving hair and fabric; cinematic and filmic, never plastic or AI-smooth.
+	BREEZE
+	keep it SOFT and GENTLE: only a light, lazy breeze barely moving a few loose strands of hair, a sheer linen curtain swaying softly and slightly, a potted plant with leaves gently trembling, a calm ocean. Subtle, serene late-afternoon air — NOT windy, NOT strong, no hair flying, no flapping or billowing fabric.
+	CHARACTERS
+* MOM (about 62) — elegant warm natural woman, soft silver-grey hair with a few fine strands gently drifting, graceful light wrinkles, calm content face, cream linen wrap, wellness elegance. Beautiful at her real age, not de-aged, not a model.
+* EMMA (about 35) — her daughter, same fair skin tone, subtle family resemblance, same eyes and smile, loose hair barely moving in the soft breeze, minimal natural makeup, soft neutral linen resort wear, easy and warm.
+They sit close on elegant balcony loungers facing the golden ocean, turning to each other as they talk.
+SOUND (every clip) — gentle ocean swell, soft wind, distant birds throughout, intimate and warm. No intrusive music.
+________________
+
+
+CLIP 1 · ~10s
+0–10s
+0.0–3.0s — Wide establishing shot of the balcony at golden hour, both women on the loungers, glowing ocean behind, a soft breeze barely moving a few strands of hair and the sheer curtain. Camera slowly pushes in on MOM, already speaking from the first frame.
+MOM: (soft, savoring, eyes half-closing as she breathes in) “...oh, feel that. Feel that breeze.”
+3.0–5.5s — Soft close-up on MOM, eyes opening, gazing out at the ocean, wistful.
+MOM: (gently longing) “I wish my bedroom felt like this every night.”
+5.5–7.5s — Soft cut to EMMA beside her against warm ocean bokeh, a small knowing smile.
+EMMA: (light, casual) “You kind of can.”
+8.5–10.0s — Cut to MOM turning toward Emma, curious, intrigued.
+MOM: “...what do you mean?”
+________________
+
+
+CLIP 2 · ~10.8s
+0–10.8s
+0.0–2.5s — Warm two-shot, golden light between them, a soft breeze gently swaying the sheer curtain and a few strands of hair. EMMA gives a playful little shrug, like sharing a secret.
+EMMA: (warm, a little playful) “I kind of have this at home now.”
+2.5–4.0s — Quick reaction on MOM, affectionate, fond disbelief.
+MOM: (light, skeptical) “You do not.”
+4.0–7.5s — Back to EMMA, calm and certain, a gentle smile.
+EMMA: (warm, sure) “I do. It's a fan — but not like the one you're thinking.”
+7.5–10.8s — MOM raises her eyebrows, a fond little laugh, leaning back.
+MOM: (warm, gently teasing) “Honey, I've had the same fan for twenty years.”
+________________
+
+
+CLIP 3 · ~11.8s
+0–11.8s
+0.0–8.0s — Soft close-up / loose two-shot on EMMA, sincere and warm, gesturing gently as she searches for the words, a soft breeze barely moving a few loose strands of hair.
+EMMA: (sincere, searching for the words) “I know. That's why I almost didn't even bring it up. But this one doesn't feel like a fan. It feels like this. Like the air right now.”
+8.0–9.8s — Cut to MOM, a flicker of recognition, turning the idea over.
+MOM: (softly, getting it) “...like the breeze?”
+9.8–11.8s — Back to EMMA, a warm certain nod, a small smile.
+EMMA: (warm, certain) “That. Exactly that.”
+________________
+
+
+CLIP 4 · ~9.5s
+0–9.5s
+0.0–9.5s — Soft close-up on MOM, gently skeptical but warm, a practical concern. She lightly touches the back of her neck, a soft breeze drifting a fine strand of hair across her face. Hold a beat at the end.
+MOM: (practical, a little wry) “But you know I can't have something blowing on me all night. I shut mine off, then I wake up with a stiff neck.”
+________________
+
+
+CLIP 5 · ~10.5s
+0–10.5s
+0.0–8.5s — EMMA, warm and reassuring, gesturing softly toward the ocean, struggling a little to describe it — genuine, not rehearsed, a soft breeze barely moving a few loose strands of hair.
+EMMA: (warm, earnest) “Right, that's the whole thing — it doesn't blast air at you. It never comes straight at you, it just kind of... moves around you. I don't even know how to explain it. It just feels like air outside.”
+8.5–10.5s — Cut to MOM taking it in, a small thoughtful pause.
+MOM: (quiet, thoughtful) “...huh.”
+________________
+
+
+CLIP 6 · ~11.5s
+0–11.5s
+0.0–11.5s — Soft close-up / loose two-shot on EMMA, warm and a little amazed as she remembers, golden light on her face, a soft breeze barely moving her hair and the sheer curtain, MOM listening. Let her trail off on the last line.
+EMMA: (warm, remembering) “The first night I slept with it on, I swear it felt like the walls weren't even there. Like the bed was just... outside. And I woke up actually rested. I don't even remember the last time that happened.”
+________________
+
+
+CLIP 7 · ~10.2s
+0–10.2s
+0.0–3.0s — Soft close-up on MOM, a quiet, slightly vulnerable admission, looking out at the ocean, a soft breeze drifting a strand of hair across her face.
+MOM: (quiet, honest) “...you know I haven't slept right in years.”
+3.0–6.2s — Cut to EMMA, tender, warm, looking at her mom with love.
+EMMA: (gentle, affectionate) “I know, Ma. That's exactly why I thought of you.”
+6.2–10.2s — Back to MOM, touched but still practical, a small concerned question.
+MOM: (practical, soft) “...and is it loud, though? Any little rattle and I'm up.”
+________________
+
+
+CLIP 8 · ~10.0s
+0–10.0s
+0.0–8.0s — EMMA, warm and a little delighted, almost soothing as she describes the soft sound, a soft breeze barely moving a few loose strands of hair.
+EMMA: (warm, soothing) “That's the crazy part. Low, you don't hear a thing. Turn it up, it's just this soft... shhhh. Makes the whole room feel calm.”
+8.0–10.0s — Cut to MOM, softening, almost won over, a small nod.
+MOM: (softening, pleased) “...okay. That I'd like.”
+________________
+
+
+CLIP 9 · ~10.5s
+0–10.5s
+0.0–8.0s — EMMA brightens, remembering one more thing, warm and a little excited, a soft breeze barely moving a few loose strands of hair.
+EMMA: (bright, warm) “Oh — and you'll love this. You put one of those little scent things in it, and ten seconds later the whole room smells amazing.”
+8.0–10.5s — Cut to MOM, a warm laugh, gently teasing her daughter.
+MOM: (laughing, fond) “Okay, now you're really selling me.”
+________________
+
+
+CLIP 10 · ~9.7s
+0–9.7s
+0.0–4.5s — EMMA, sincere, warm, a little emotional — not selling, just love, a soft breeze barely moving a few loose strands of hair.
+EMMA: (sincere, heartfelt) “I'm not. I swear. I just want you to have it. You of all people.”
+4.5–6.7s — Cut to MOM, moved, looking back out at the golden ocean, wistful and hopeful.
+MOM: (soft, wishful) “...and it really feels like this?”
+6.7–9.7s — Back to EMMA, a warm knowing smile, golden light on her face.
+EMMA: (smiling, warm) “Turn it on, Ma. Then you tell me.”
+
+
+
+
+Primary Text
+🌴 “I wish my bedroom felt like this every night.”
+That’s how this conversation starts.
+A mom feeling the ocean breeze…
+and her daughter telling her:
+“You kind of can.”
+Not with a regular fan.
+With one that feels more like the air outside.
+SPIN360 doesn’t blast air straight at you.
+It moves a soft breeze through the WHOLE room — the kind of air that feels calmer, lighter, easier to sleep in.
+🔇 quiet on low
+😴 soft white noise when you turn it up
+🌿 scent pod option so the whole room feels fresh
+🛏️ more like a real breeze than a regular fan
+And once you feel it…
+you get why she wanted her mom to have it.
+First 1,000 get $100 off 👇
+Headline
+Feel This Breeze At Home

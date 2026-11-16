@@ -1,0 +1,210 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_6Reasons_BetterThanACandFan
+Author: Gabriel
+Editor: Chose
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_6Reasons_BetterThanACandFan
+* Ad Type: Ideation
+* Type of Ad: 
+* Sizes Needed: 9x16
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 Video
+
+
+
+
+
+
+________________
+ 
+[2] Strategy
+Who is this for: 
+Primary: Women 35–65, wellness/sleep-conscious, 
+
+
+Main Selling Points: Natural breeze, 360 degree airflow, Quiet , scent pods 
+Market Awareness: Problem Aware 
+Desires: Comfort  
+Angle:n
+ 
+________________
+
+
+[3] Creative Direction
+The idea of this brief is to create something similar to that one, but focused more on this avatar.
+https://drive.google.com/file/d/1xYQjBs7cOZ4zEQb2qNUke7MulR1bVBdP/view?usp=drivesdk
+
+
+I want to try using the Seedance hooks listed in the tab.
+
+
+For the body, you can freely test different prompts to see what works best.
+
+
+I wrote 4 hooks, but I’d like you to choose the one you think is strongest. Then, create one additional visual hook that you think could perform well, so we can analyze it later.
+
+
+So in total, we’ll launch 5 versions, with 2 of them using the same voiceover.
+
+
+
+
+I don’t want to show too many negative shots, like a fan blasting someone's face or an AC feeling too cold. I’d rather focus on positive, feel-good lifestyle shots and clean product shots of the fan.
+
+
+For the body, I want it to feel similar to the example videos, with a calm, comfortable, and aspirational vibe.
+
+
+
+
+https://drive.google.com/file/d/1cRoqchIG-7v2Gm8aywAUdbAVl5hOvdv-/view?usp=drivesdk
+
+
+
+
+Spin360_5Reasons_WomenPositive_V3_Hook_8.mp4
+
+
+________________
+
+
+[4] Script
+Hooks:
+If you want fresh, moving air at night, but hate cold AC and a fan blasting your face, this is different. 
+This gives you fresh, moving air at night — without cold AC or a fan blasting your face. Here are 6 reasons women are loving it. 
+This is for women over 60 who want fresh, moving air at night — without freezing from AC or getting blasted by a fan. 
+Stop choosing between freezing AC and a fan blasting your face. This is different.
+
+
+
+
+
+
+
+
+
+
+Body:
+1. It moves air without blasting your face.
+Regular fans blast air straight at you. Spin360 uses a unique blade shape to move air gently around the room — more like a natural breeze, not air being thrown at your face all night. 
+2. No cold AC blast.
+A lot of people can’t sleep with the AC too cold. This fan doesn’t chill the room like AC can. It keeps the air moving softly, so the room feels more balanced and comfortable.
+3. It keeps the air from feeling still.
+A closed bedroom can start to feel still and stuffy overnight. Spin360 keeps the air gently circulating, so the room feels fresh instead of stale.
+4. It has a true quiet mode.
+On the lowest settings, it’s barely noticeable. The air keeps moving, but there’s no harsh fan noise taking over the room.
+5. Or use it as soft white noise.
+Turn it up, and it becomes a gentle, even shhh — not that rough fan drone, just a smooth background sound that helps the room feel calm.
+6. Add a scent pod.
+Drop in a scent pod, and the breeze doesn’t just feel fresh — it smells fresh too. A soft scent moves with the airflow, giving the room that calm, spa-like feeling.
+For people who want the bedroom to feel fresh, calm, and comfortable — without cold AC or fan air blasting at their face.
+It comes from David Patrick — the inventor behind Shark Wheel, seen on Shark Tank. Now, he’s reinventing the way air moves through your bedroom.
+Look this one up.
+Spin360.
+
+
+.
+
+
+
+
+ 
+________________
+[5] Editing Rules
+* Each visual clip MUST complement the audio. Never disconnect visual from what's being said.
+* Add captions for entire video
+* Editor must add sound design
+* Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+
+
+ 
+________________
+
+
+[6] Deliverables
+• Versions: 5 total (one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels),
+• Upload Location: Creative Roadmap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shot
+	Duration
+	Product Visibility
+	Script
+	Visual Intent
+	Prompt
+	Upload / Notes
+	Hook A
+	6s
+	P1
+	If you want fresh, moving air at night, but hate cold AC and a fan blasting your face, this is different.
+	Immediately position the product as the third option between cold AC and harsh fan airflow.
+	Using @video1 as the exact reference for the tall fan, generate a realistic vertical video in a calm bedroom at night. The fan is near the bed, softly running. A woman in her 60s rests in bed, comfortable, with warm lamp light and subtle curtain movement showing fresh moving air. The mood is calm, premium, realistic UGC. Slow push-in toward the fan and bed. Do not show AC. Do not show strong wind. No text, no captions, no voice, no music. Keep the fan identical to @video1.
+	Upload product video as @video1. Generate 6s.
+	Hook B
+	6s
+	P1
+	This gives you fresh, moving air at night — without cold AC or a fan blasting your face. Here are 6 reasons women are loving it.
+	Direct benefit visual: fresh bedroom, comfortable woman, fan clearly present.
+	Using @video1 as the exact reference for the tall fan, generate a realistic vertical bedroom shot at night. The fan stands beside the bed, softly glowing, moving air gently through the room. A woman relaxes under light bedding, looking comfortable, not cold. Warm bedside lamp, soft shadows, subtle curtain movement, premium realistic ad style. Slow cinematic dolly-in. No AC unit. No harsh wind. No text, no captions, no voice, no music. Keep the fan identical to @video1.
+	Upload product video as @video1. Generate 6s.
+	Hook C
+	6s
+	P2
+	This is for women over 60 who want fresh, moving air at night — without freezing from AC or getting blasted by a fan.
+	Clear avatar: woman 60+, nighttime comfort pain point.
+	Using @video1 as the exact reference for the tall fan, generate a realistic vertical video of a woman in her 60s in a cozy bedroom at night. She sits on the edge of the bed, relaxed, with the fan running nearby. The room feels fresh and comfortable, warm lamp lighting, soft airflow moving a curtain slightly. Natural, believable, premium UGC style. No strong wind, no AC, no text, no captions, no voice, no music. Keep the fan identical to @video1.
+	Upload product video as @video1. Generate 6s.
+	Hook D
+	6s
+	P1
+	Stop choosing between freezing AC and a fan blasting your face. This is different.
+	Visual contrast: no cold air, no fan blast, product as the solution.
+	Using @video1 as the exact reference for the tall fan, generate a realistic nighttime bedroom video. The fan is the hero, positioned near the bed. A woman settles comfortably into bed while the room feels calm and fresh. Show only gentle airflow through subtle curtain movement. Warm lighting, no visible AC, no regular fan, no harsh wind. Slow push-in. No text, no captions, no voice, no music. Keep the fan identical to @video1.
+	Upload product video as @video1. Generate 6s.
+	
+
+❄️ AC too cold?
+Fan blasting your face?
+There’s finally a third option.
+Fresh, moving air at night — without freezing your room or pointing a fan straight at your face.
+That’s why women are switching to Spin360.
+It doesn’t throw air at one spot. It moves air softly around the room — 360° — so your bedroom feels fresher, calmer, and more comfortable.
+✅ No cold AC blast
+✅ No fan air smacking your face
+✅ Soft natural-breeze feeling
+✅ Barely-there quiet mode
+✅ Gentle white noise when turned up
+✅ Built-in scent pod system
+Built by David Patrick — the Shark Wheel inventor seen on Shark Tank.
+Look this one up.
+👇 Tap below to see why it’s different.
+Headline:
+No AC. No Face Blast.

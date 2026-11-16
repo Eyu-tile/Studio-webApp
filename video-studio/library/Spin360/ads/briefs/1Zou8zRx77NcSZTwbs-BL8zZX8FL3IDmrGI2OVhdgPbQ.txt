@@ -1,0 +1,135 @@
+﻿Spin360_David_HeatMapSplit
+
+
+Brief - Spin360_David_HeatMapSplit.mp4
+3 ads, one edit, vertical 9:16, split screen. Top half: animation. Bottom half: David. Only the top visual of the hook changes between the 3 ads; the audio and the rest are the same. The images are inspiration for each shot, not a storyboard.
+	
+
+The idea: David tells his real test (78 at the top, 71 at the bottom, fan on: all three gauges at 73) while the top half shows it as the heat map he asked for. Then: the heat from your heater goes to the ceiling, Spin360 moves it back down to you, no cold blast, and real reviews.
+	Strategy
+# Element
+	Answer
+	Why this ad
+	In winter the heat goes to the ceiling and people still feel cold where they sit and sleep. David already ran the test that proves what Spin360 does about it (78 at the top, 71 at the bottom, fan on, all three gauges at 73), and in the Q&A he even asks for it as a heat map: "That would be cool as heck to see a heat map… the red and the blue and the whole thing just becomes purple… we're totally gonna do that." This ad makes that heat map.
+	Desire
+	"I want the warm air near the ceiling to reach where I actually am." (from our Reddit research on heating in winter)
+	Sub-avatar
+	People who run the heat all winter and still feel cold at the bed or the couch. Behavior: they crank the thermostat, wear socks, pile on blankets.
+	Angle
+	It makes the heater you already have work better: Spin360 moves the heat from your heater around the room, down to where you are.
+	Awareness
+	Hook: problem aware (heat on, still cold), opened with the proof. Body: product aware.
+	Belief
+	"A fan in winter makes me colder" and "fans don't change anything" (people who reversed a ceiling fan and felt no difference). We answer with a measured test, no cold blast, and real reviews.
+	Mechanism
+	Spin360 pulls air in from the top and the bottom and sends it out all around the room, so the warm air stuck at the ceiling mixes back down. Proof: the 78 / 71 / 73 test David tells.
+	Authority / proof
+	David, the inventor, on camera (real footage). Lower third the first time he shows up. Two real 5-star reviews and a real comment, read by David.
+	Positioning
+	Not a heater. It doesn't make heat; it moves the heat you already pay for. Enemy: the heat stuck at the ceiling.
+	Emotion
+	Curiosity (78, 71… then 73?) → recognition (heat on, cold feet) → relief (the heat reaches you) → trust (real reviews).
+	Offer
+	30 nights to try it. No discount.
+	Production brief
+Format: vertical 9:16, split screen 50/50, about 80 s: animation on top, David on the bottom, a thin white line between them. Captions on (white, a few words at a time, on the middle line). In the tables, each image shows the full frame as it should look; the green REAL / red AI tag is only for you, not for the ad.
+Bottom half, David: all real lines come from Stringout_Spin260_Comments-QA_Vertical.mp4 (Interview3 Comments/QA; recorded twice, take 2 is about +26:40, pick the best read). Timecodes are in the table. Real lines stay exactly as recorded (cuts only).
+Highlighted lines = AI: David's voice and look, generated in the same Q&A set (outdoor patio, same black shirt, holding his phone like he is reading comments). Everything else is real footage.
+Where David looks: he only looks at his phone when he reads the reviews and the comment (rows 5, 6, 7). Everywhere else (hook, the explanation, the benefits, the CTA) he talks to the camera with the phone down in his hand and gestures, like the real footage at 00:04:58–00:05:09. The AI lines must follow this too.
+Who David is: the first time he shows up, lower third: "David Patrick · Inventor of the Spin360 · Reinvented the wheel on Shark Tank".
+The Q&A set looks like summer (outdoors, green trees). Keep David as he is; every winter cue (snow, blankets, heater) lives in the top half.
+Top half, animation: clean 3D, easy to read in one second. Red = warm, blue = cold, purple = mixed. Add the numbers (78, 71, 73, 72) in the edit, not in the AI image, so they are exact.
+Reviews: Trustpilot format. Show each review the way Trustpilot shows it: five green star boxes, the reviewer name, the date and the review text, exactly as written in the brief. Important: put the Trustpilot logo or name on it only if that review is really on the Spin360 Trustpilot page. These two came from our own review list (Shopify / email), so check first; if they are not on Trustpilot, keep the same look without the Trustpilot logo.
+Rules: the heater makes the heat; Spin360 only moves it (never show Spin360 glowing red or blowing hot air).
+Hooks (3 ads, same audio, same on-screen text)
+On-screen text, all 3: Warm feet without cranking the heat. Only the top visual changes, so this test isolates the visual. The text speaks to what she feels (heat on, cold feet), not to the mechanism: the ad teaches the "why".
+Hook audio, all 3 (REAL 00:20:38–00:20:44 + 00:20:51–00:20:59; take 2: 00:47:20–00:47:25 + 00:47:31–00:47:41): If you put a temperature gauge high, a temperature gauge in the middle and a temperature gauge low… the high temperature was 78, the low temperature was 71. When they turned the fan on, all three gauges went to 73.
+Ad
+	How it looks (split screen)
+	On screen
+	Top: what we see · Bottom: David
+	H1 · Placing the gauges
+Spin360_David_HeatMapSplit_Hook1
+	  
+
+	Warm feet without cranking the heat.
+	Top: Animation: two people place three thermometers on a pole (high, middle, low) in a winter bedroom, then switch on the Spin360. The numbers 78 / 71 roll to 73 on "all three gauges went to 73".
+Bottom: David, real footage, saying the hook line.
+	H2 · The three thermometers
+Spin360_David_HeatMapSplit_Hook2
+	  
+
+	Warm feet without cranking the heat.
+	Top: Close-up animation of three stacked thermometers (TOP / MIDDLE / BOTTOM). They read 78 / 74 / 71, then all roll to 73 on David's line.
+Bottom: David, real footage, saying the hook line.
+	H3 · The heat map
+Spin360_David_HeatMapSplit_Hook3
+	  
+
+	Warm feet without cranking the heat.
+	Top: The heat map David asked for: red air at the ceiling, blue at the floor. Spin360 turns on, air rings move, the whole room turns purple. Numbers on top: 78 / 71 → 73.
+Bottom: David, real footage, saying the hook line.
+	Body (same in all 3 ads)
+Highlighted lines = AI (David's voice and look, same set). Everything else is real footage.
+Section
+	VO (David)
+	How it looks (split screen)
+	Top: what we see · Bottom: David
+	1 · Bridge
+	Here's why that matters.
+AI
+	  
+
+	Top: The room resets to still air. AI David, same set.
+Bottom: David (AI, same set).
+	2 · The problem
+	If you turn on the heat in your house, it's going to immediately go to the ceiling. So if you say I want to feel 72 degrees, by the time you feel 72 the ceiling's at 78. That's not a good idea because you wasted all that money heating the ceiling.
+REAL 00:04:55–00:05:11 (take 2: 00:31:37–00:31:53)
+	  
+
+	Top: Animation: the heater turns on, red air rises straight to the ceiling. Badges: 72° at the bed, 78° at the ceiling. She is under the blanket, feet cold.
+Bottom: David (real footage).
+	3 · The benefit
+	That's where the Spin360 comes in. Instead of heating your ceiling while your feet stay cold, it takes the heat from your heater and moves it around the room, down to your bed, your couch, your feet.
+AI
+	  
+
+	Top: Spin360 turns on and warm air rings carry the heat from the ceiling down to the bed, the couch, her feet in socks. Spin360 never glows red: it moves heat, it doesn't make it.
+Bottom: David (AI, same set).
+	4 · No cold blast
+	And it doesn't blow at you. The air moves gently around the room. No cold blast in your face.
+AI
+	  
+
+	Top: Real-looking shot: she reads on the sofa under a blanket, hair barely moving, Spin360 running a few feet away, snow outside. Calm.
+Bottom: David (AI, same set).
+	5 · Review 1
+	Don't just take my word for it. Jerald wrote: “I live in a condo with a wall-mounted gas heater. I use the fan on the lowest setting so that it moves the air around… It works exactly as I had hoped.”
+AI (review text is real; only the typo "exactas" fixed to "exactly as")
+	  
+
+	Top: Trustpilot-style review card on top while David reads it (Jerald Josephs, 5 stars, Jul 12, 2026). Text exactly as written in the card.
+Bottom: David (AI, same set).
+	6 · Review 2
+	Robin said: “When I turned it on it felt just like a nice gentle country breeze. Not like all the other fans. That blows hard in your face, when oscillating.”
+AI (review text is real; only the typo "osculateing" fixed to "oscillating")
+	  
+
+	Top: Trustpilot-style review card (Robin Tonnessen, 5 stars, Jul 17, 2026).
+Bottom: David (AI, same set).
+	7 · Real comment
+	“I now have two and they are amazing.” Wow, wow, wow.
+REAL 00:18:20–00:18:24 (take 2: 00:45:02–00:45:06). Cut before "wait till you hear me say this".
+	  
+
+	Top: Comment card on top. Keep David's real reaction ("Wow, wow, wow").
+Bottom: David (real footage).
+	8 · CTA
+	Summer or winter, it's made to run all year. Try it for 30 nights. If you don't love it, just send it back.
+AI
+	  
+
+	Top: End card: "Try it for 30 nights".
+Bottom: David (AI, same set).
+	What's up to you
+Animation style details, transitions, music and how long each cut holds. Keep the real lines as recorded and the AI lines as written.

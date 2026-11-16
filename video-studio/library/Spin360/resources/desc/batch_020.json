@@ -1,0 +1,237 @@
+{
+ "batch": "batch_020",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_020.out.json",
+ "clips": [
+  {
+   "id": "afff427d-3be5-4218-8688-5d23376fee38",
+   "filename": "AC unit , low temp",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 24.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/afff427d-3be5-4218-8688-5d23376fee38_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/afff427d-3be5-4218-8688-5d23376fee38_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/afff427d-3be5-4218-8688-5d23376fee38_3.jpg"
+   ],
+   "bya_description": "A white pedestal fan and a portable air conditioner sit on a dark tiled floor in a room with light wood walls.",
+   "bya_tags": [
+    "Living room",
+    "Fan controls",
+    "Digital display",
+    "Digital display",
+    "Fan controls",
+    "Living room",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "71c6f1df-c57d-456f-ae62-a606ba98b687",
+   "filename": "Candle",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 25.77,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/71c6f1df-c57d-456f-ae62-a606ba98b687_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/71c6f1df-c57d-456f-ae62-a606ba98b687_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/71c6f1df-c57d-456f-ae62-a606ba98b687_3.jpg"
+   ],
+   "bya_description": "A hand uses a long black lighter to ignite the candle wick. Then a brown wavy-edged candle sits on a light wood table.",
+   "bya_tags": [
+    "Living room",
+    "Product on surface",
+    "Candle zoom",
+    "Candle zoom",
+    "Lifestyle moment",
+    "Living room",
+    "Product on surface",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "5a60fb78-33c3-4122-a297-ac32e3312809",
+   "filename": "Creator in frame, fan bedroom",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 25,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5a60fb78-33c3-4122-a297-ac32e3312809_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5a60fb78-33c3-4122-a297-ac32e3312809_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/5a60fb78-33c3-4122-a297-ac32e3312809_3.jpg"
+   ],
+   "bya_description": "A black fan stands on the floor in a bright bedroom next to a bed with a striped duvet. A woven chair and a large plant are visible in the background.",
+   "bya_tags": [
+    "Bedroom",
+    "Lifestyle moment",
+    "Direct address",
+    "Bedroom",
+    "Direct address",
+    "Feeling the breeze",
+    "Home testimonial",
+    "Lifestyle moment"
+   ]
+  },
+  {
+   "id": "c6ebb330-0211-4690-9922-8bfb703dfdaf",
+   "filename": "Opening window x V2",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 23.9,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c6ebb330-0211-4690-9922-8bfb703dfdaf_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/c6ebb330-0211-4690-9922-8bfb703dfdaf_2.jpg"
+   ],
+   "bya_description": "Wide shot of a room featuring a foosball table and a window.",
+   "bya_tags": [
+    "Living room",
+    "Lifestyle moment",
+    "Curtains & windows",
+    "Curtains & windows",
+    "Lifestyle moment",
+    "Living room",
+    "Tablet on chair"
+   ]
+  },
+  {
+   "id": "b063dadd-d19d-4993-8391-a36e3b9956d7",
+   "filename": "POV scent pods",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 25.17,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b063dadd-d19d-4993-8391-a36e3b9956d7_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b063dadd-d19d-4993-8391-a36e3b9956d7_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/b063dadd-d19d-4993-8391-a36e3b9956d7_3.jpg"
+   ],
+   "bya_description": "Three scent pods sit on a patterned cloth as a hand reaches for one.",
+   "bya_tags": [
+    "Scent pods close-up",
+    "Product close-up",
+    "Product in hand",
+    "Product close-up",
+    "Product in hand",
+    "Product on surface",
+    "Showing pod contents"
+   ]
+  },
+  {
+   "id": "53595d55-ac14-44b9-8b09-8248a2d5e6a9",
+   "filename": "POV, turning on",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 28.4,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/53595d55-ac14-44b9-8b09-8248a2d5e6a9_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/53595d55-ac14-44b9-8b09-8248a2d5e6a9_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/53595d55-ac14-44b9-8b09-8248a2d5e6a9_3.jpg"
+   ],
+   "bya_description": "Close-up of a black fan's clear ribbed top grill. The camera pans down the sleek black stem.",
+   "bya_tags": [
+    "Digital display",
+    "Fan controls",
+    "Living room",
+    "Digital display",
+    "Fan controls",
+    "Living room",
+    "Product close-up",
+    "Product on surface"
+   ]
+  },
+  {
+   "id": "62ee3a82-afea-414a-a9d8-a2be07178628",
+   "filename": "Smelly air",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 27.63,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/62ee3a82-afea-414a-a9d8-a2be07178628_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/62ee3a82-afea-414a-a9d8-a2be07178628_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/62ee3a82-afea-414a-a9d8-a2be07178628_3.jpg"
+   ],
+   "bya_description": "Static view of a home entryway with a wooden door, bench, and wall map.",
+   "bya_tags": [
+    "Direct address",
+    "Home testimonial",
+    "Lifestyle moment",
+    "Direct address",
+    "Home testimonial",
+    "Lifestyle moment",
+    "Living room",
+    "Rubbing face"
+   ]
+  },
+  {
+   "id": "93bf0015-d40b-484f-8cbd-6d09d169f6bd",
+   "filename": "Sticky note, best fan of 2026",
+   "folder": "Spin 360 - Lauren / B-rolls",
+   "duration_s": 24.1,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/93bf0015-d40b-484f-8cbd-6d09d169f6bd_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/93bf0015-d40b-484f-8cbd-6d09d169f6bd_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/93bf0015-d40b-484f-8cbd-6d09d169f6bd_3.jpg"
+   ],
+   "bya_description": "Hand moves a sticky note labeled 'BEST Fan of 2026' around a cylindrical fan's top.",
+   "bya_tags": [
+    "Sticky note claim",
+    "Living room",
+    "Peeling note",
+    "Living room",
+    "Peeling note",
+    "Product on surface",
+    "Showing note to camera",
+    "Sticky note claim"
+   ]
+  },
+  {
+   "id": "3d0b640a-34b9-4323-b7ce-109baf49ba82",
+   "filename": "air moment visualization.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 27.23,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3d0b640a-34b9-4323-b7ce-109baf49ba82_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3d0b640a-34b9-4323-b7ce-109baf49ba82_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/3d0b640a-34b9-4323-b7ce-109baf49ba82_3.jpg"
+   ],
+   "bya_description": "A woman in a black jumpsuit enters a living room through a white louvered door, carrying a patterned scarf.",
+   "bya_tags": [
+    "Living room",
+    "Feeling the breeze",
+    "Product hero shot",
+    "Feeling the breeze",
+    "Living room",
+    "Visible airflow test",
+    "Walking through door"
+   ]
+  },
+  {
+   "id": "4c80314e-5542-4398-a55f-462ba42ac9d2",
+   "filename": "bottom intake.MOV",
+   "folder": "Spin360 - Avery",
+   "duration_s": 29.32,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4c80314e-5542-4398-a55f-462ba42ac9d2_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4c80314e-5542-4398-a55f-462ba42ac9d2_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4c80314e-5542-4398-a55f-462ba42ac9d2_3.jpg"
+   ],
+   "bya_description": "Hand reapplies paper to the intake and points as it sticks. Then Hand holds paper near a white tower fan's intake to show suction. Then Hand moves the paper strip near the fan's central intake area. Then Hand places paper on the fan intake; suction holds it in place. Then the paper strip remains stuck to the fan intake without manual support. Then Hand pulls the paper strip away from the fan's int",
+   "bya_tags": [
+    "Product on surface",
+    "Visible airflow test",
+    "Product on surface",
+    "Visible airflow test"
+   ]
+  }
+ ]
+}

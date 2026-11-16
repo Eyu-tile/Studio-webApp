@@ -1,0 +1,219 @@
+[
+ {
+  "id": "a325f11b-408e-4de1-ad14-1ab260f6f263",
+  "kind": "mixed",
+  "summary": "Edited nursery ad draft with mum voiceover: baby asleep in white crib, white Spin360 turned on by remote beside crib, muslin blanket fluttering, display stepped F3 to F2, baby asleep at dusk.",
+  "people": [{"who": "infant, dark hair, grey onesie", "wardrobe": "grey short-sleeve onesie, patterned sleep sack", "role": "child"}, {"who": "adult hand", "wardrobe": "", "role": "hand only"}],
+  "product": {"visible": "full", "colourway": "white", "on": true, "details_seen": ["blue ring", "gold halo", "cage", "base", "display F3", "display F2", "Spin360 logo on display", "white remote"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "nursery", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 3.43, "camera": "handheld", "framing": "medium", "action": "baby asleep on side in white crib, striped sun through blinds", "on_screen_text": "", "audio_hint": "VO: 'New moms, this is one thing I wish I added...'"},
+   {"start": 3.43, "end": 6.27, "camera": "handheld", "framing": "extreme close", "action": "baby's sleeping face and hand", "on_screen_text": "", "audio_hint": "VO"},
+   {"start": 6.27, "end": 8.07, "camera": "handheld", "framing": "close", "action": "sleeping baby profile in sun stripes", "on_screen_text": "", "audio_hint": "VO"},
+   {"start": 8.07, "end": 13.03, "camera": "static", "framing": "wide", "action": "hand points white remote, white Spin360 by sheer curtain turns on, blue ring lit", "on_screen_text": "", "audio_hint": "VO: 'So we added this fan to the nursery'"},
+   {"start": 13.03, "end": 16.0, "camera": "static", "framing": "close", "action": "muslin blanket draped over crib rail flutters in breeze", "on_screen_text": "", "audio_hint": "VO: 'soft and natural airflow'"},
+   {"start": 16.0, "end": 20.13, "camera": "static", "framing": "close", "action": "blanket on crib rail moving, sun stripes on wall", "on_screen_text": "", "audio_hint": "VO"},
+   {"start": 20.13, "end": 25.07, "camera": "handheld", "framing": "wide", "action": "nursery wide: crib with sleeping baby, white Spin360 beside it, diamond rug, sheer curtains", "on_screen_text": "", "audio_hint": "VO: 'comfortable keeping it by the crib'"},
+   {"start": 25.07, "end": 32.33, "camera": "handheld", "framing": "close", "action": "remote lowers speed, display F3 to F2 under blue ring", "on_screen_text": "", "audio_hint": "VO: 'on the lower settings you can barely hear it'"},
+   {"start": 32.33, "end": 37.11, "camera": "handheld", "framing": "medium", "action": "baby asleep in crib in dim warm evening light", "on_screen_text": "", "audio_hint": "VO CTA: 'If you're setting up a nursery, I'd definitely add this.'"}
+  ],
+  "best": {"start": 20.13, "end": 25.07, "why": "wide nursery shot shows white unit next to crib with sleeping baby in one frame"},
+  "beats": ["sleeping_comfort", "turning_on", "control_display", "airflow_demo_curtain_or_ribbon", "quiet_demo", "family_kids", "room_aesthetic", "product_hero", "cta_point"],
+  "hook_potential": {"score": 3, "why": "sleeping newborn + 'New moms' hook line"},
+  "brand_fit": {"score": 2, "why": "sunlit, soft nursery, sheer curtains; ordinary room, plug/cord visible"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "CAUTION",
+  "status_why": "baby claims in VO: 'My baby used to wake up so easily, every little sound'; 'it completely changed how comfortable the room feels'; 'I feel comfortable keeping it by the crib'; 'creates this soft white noise, kind of soothing'; fan running near infant",
+  "tags": ["newborn asleep in crib", "nursery", "white unit by crib", "remote turns fan on", "muslin blanket fluttering", "display F3 F2", "new moms", "sun stripes through blinds", "white remote", "voiceover draft"]
+ },
+ {
+  "id": "707550e4-c217-42dc-92ad-8779f5068825",
+  "kind": "ugc_broll",
+  "summary": "POV hand points black remote at black Spin360 in lake-house sunroom; fan starts, then handheld looks at spinning head with blue ring lit.",
+  "people": [{"who": "adult hand", "wardrobe": "", "role": "hand only"}, {"who": "seated people at table, blurred background", "wardrobe": "unclear", "role": "actor"}],
+  "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["blue ring", "cage", "base", "display F5", "black remote"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "lake", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 17.0, "camera": "POV", "framing": "medium", "action": "hand holds black remote toward fan, presses buttons repeatedly; focus hunts between remote and fan", "on_screen_text": "", "audio_hint": ""},
+   {"start": 17.0, "end": 28.0, "camera": "handheld", "framing": "medium", "action": "fan alone by wooden post, tiled floor, dining table and lake windows behind", "on_screen_text": "", "audio_hint": ""},
+   {"start": 28.0, "end": 29.5, "camera": "POV", "framing": "close", "action": "remote press again, fan blurred", "on_screen_text": "", "audio_hint": ""},
+   {"start": 29.5, "end": 45.4, "camera": "handheld", "framing": "medium", "action": "fan running, blue ring lit, slow push toward head; display F5 at end", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 34.0, "end": 41.0, "why": "steady medium of running black unit with blue ring, lake windows behind"},
+  "beats": ["turning_on", "control_display", "product_hero"],
+  "hook_potential": {"score": 1, "why": "plain remote-on demo"},
+  "brand_fit": {"score": 2, "why": "bright lake-house sunroom, rustic wood; slightly busy"},
+  "quality": {"score": 2, "issues": ["blurry", "shaky"]},
+  "status": "OK",
+  "status_why": "",
+  "tags": ["black remote", "remote turns fan on", "lake house", "tiled floor", "blue ring", "black unit", "sunroom"]
+ },
+ {
+  "id": "358d72f3-d589-4514-8944-2ec55eda4705",
+  "kind": "ugc_broll",
+  "summary": "Close handheld of the black Spin360 head spinning in lake-house dining room, senior man blurred at table behind.",
+  "people": [{"who": "senior man, white hair, blurred", "wardrobe": "khaki shorts, light shirt, white socks, sandals", "role": "senior"}],
+  "product": {"visible": "partial", "colourway": "black", "on": true, "details_seen": ["cage", "gold halo", "display F3", "display F9"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 45.8, "camera": "handheld", "framing": "close", "action": "head and upper pole fill frame, inner rotor turning behind ribbed cage; display shows F3 then F9; senior man seated at table soft in background", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 23.0, "end": 33.0, "why": "steady, sharp cage with rotor visible, clean background"},
+  "beats": ["product_hero"],
+  "hook_potential": {"score": 1, "why": "static product detail"},
+  "brand_fit": {"score": 2, "why": "sunlit, wood chairs, airy; casual"},
+  "quality": {"score": 2, "issues": ["blurry"]},
+  "status": "OK",
+  "status_why": "no remote shown despite BYA description",
+  "tags": ["cage close-up", "rotor spinning", "black unit", "senior man in background", "lake house dining room", "F9"]
+ },
+ {
+  "id": "19a208d0-61f6-44b8-bbdc-69129531ddda",
+  "kind": "ugc_broll",
+  "summary": "POV hand presses black remote at black Spin360 by wooden post in lake-house sunroom, then pushes in on spinning head showing F9.",
+  "people": [{"who": "adult hand", "wardrobe": "", "role": "hand only"}],
+  "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["cage", "gold halo", "base", "display F9", "black remote"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "lake", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 7.0, "camera": "POV", "framing": "medium", "action": "hand presses black remote aimed at fan", "on_screen_text": "", "audio_hint": ""},
+   {"start": 7.0, "end": 11.5, "camera": "handheld", "framing": "wide", "action": "full unit on tiled floor by wooden post, chairs and lake windows behind", "on_screen_text": "", "audio_hint": ""},
+   {"start": 11.5, "end": 35.5, "camera": "push in", "framing": "close", "action": "head running, display F9, slow handheld drift around head", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 7.0, "end": 11.0, "why": "clean full-height shot of the black unit in sunlit room"},
+  "beats": ["turning_on", "control_display", "product_hero"],
+  "hook_potential": {"score": 1, "why": "routine remote demo"},
+  "brand_fit": {"score": 2, "why": "bright, wood and lake view, rustic"},
+  "quality": {"score": 2, "issues": ["blurry"]},
+  "status": "OK",
+  "status_why": "wall calendar visible top right (minor)",
+  "tags": ["black remote", "remote turns fan on", "full unit wide", "F9", "lake house", "tiled floor"]
+ },
+ {
+  "id": "a118a810-c7c5-4a2c-8d97-8a04cf44adb6",
+  "kind": "ugc_broll",
+  "summary": "Close of the black Spin360 pole display cycling speeds F9, F6, F3, F1, F5, F8 in lake-house dining room, ends with accidental floor shot and a wide.",
+  "people": [{"who": "people seated at table, blurred", "wardrobe": "unclear", "role": "actor"}],
+  "product": {"visible": "partial", "colourway": "black", "on": true, "details_seen": ["display F9", "display F6", "display F3", "display F1", "display F5", "display F8", "Spin360 logo on display", "base"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 1.5, "camera": "handheld", "framing": "medium", "action": "fan head and pole by wooden post", "on_screen_text": "", "audio_hint": "background chatter"},
+   {"start": 1.5, "end": 34.5, "camera": "handheld", "framing": "close", "action": "display under vented head changes F9 -> F6 -> F3 -> F1 -> F3 -> F5 -> F8 (remote off-screen)", "on_screen_text": "", "audio_hint": "voices: 'When is that? Uh, Sunday.'"},
+   {"start": 34.5, "end": 38.0, "camera": "handheld", "framing": "close", "action": "camera drops to base and tiled floor, blurred", "on_screen_text": "", "audio_hint": ""},
+   {"start": 38.0, "end": 38.6, "camera": "handheld", "framing": "wide", "action": "full unit, people at table by window", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 1.8, "end": 18.0, "why": "steady display close-up stepping through speeds"},
+  "beats": ["control_display"],
+  "hook_potential": {"score": 0, "why": "functional detail only"},
+  "brand_fit": {"score": 1, "why": "dark pole fills frame, background busy"},
+  "quality": {"score": 2, "issues": ["blurry"]},
+  "status": "OK",
+  "status_why": "unrelated background conversation on audio; tail 34.5-38 unusable",
+  "tags": ["display close-up", "speed settings", "F1 to F9", "black unit", "lake house", "background chatter"]
+ },
+ {
+  "id": "27fd8371-c01c-4905-842f-76be516e2af0",
+  "kind": "ugc_broll",
+  "summary": "Low-angle close of the black Spin360 touch display as a finger taps through speeds F9 to F1 and back up to F9, sunroom with trees and lake behind.",
+  "people": [{"who": "adult hand, small wrist tattoo", "wardrobe": "", "role": "hand only"}],
+  "product": {"visible": "partial", "colourway": "black", "on": true, "details_seen": ["cage", "display F9", "display F6", "display F4", "display F1", "display F2", "display F3", "display F5", "display F7", "Spin360 logo on display"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "lake", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 4.0, "camera": "tilt", "framing": "close", "action": "tilt down from cage and vented underside to display F9, lake through window", "on_screen_text": "", "audio_hint": ""},
+   {"start": 4.0, "end": 19.0, "camera": "handheld", "framing": "close", "action": "finger taps display down F9 -> F6 -> F4 -> F1", "on_screen_text": "", "audio_hint": ""},
+   {"start": 19.0, "end": 38.8, "camera": "handheld", "framing": "close", "action": "finger taps up F1 -> F2 -> F3 -> F5 -> F6 -> F7 -> F9, low angle to vaulted ceiling", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 4.0, "end": 12.0, "why": "sharp display with Spin360 logo, clear finger tap F9 to F4"},
+  "beats": ["control_display", "product_hero"],
+  "hook_potential": {"score": 1, "why": "crisp display detail"},
+  "brand_fit": {"score": 2, "why": "bright, trees/lake view, premium-looking detail"},
+  "quality": {"score": 3, "issues": []},
+  "status": "OK",
+  "status_why": "BYA says patio; actually indoor sunroom",
+  "tags": ["touch display", "finger taps speed", "Spin360 logo", "low angle", "F1 to F9", "black unit", "vented underside"]
+ },
+ {
+  "id": "68bbb875-8137-4088-9d97-575afb2f4ded",
+  "kind": "ugc_broll",
+  "summary": "POV of a man lying on a bed with crossed bare legs, black Spin360 at the foot of the bed in front of a big lake-view window.",
+  "people": [{"who": "man, legs only (likely the young blond man of the lake house)", "wardrobe": "pink/coral floral shorts, red tee", "role": "creator"}],
+  "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["cage", "gold halo"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "bedroom", "time": "day", "light": "bright natural", "view": "lake", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 16.5, "camera": "POV", "framing": "wide", "action": "crossed feet on quilted bed, fan behind iron footboard, lake and trees through window", "on_screen_text": "", "audio_hint": ""},
+   {"start": 16.5, "end": 20.0, "camera": "handheld", "framing": "medium", "action": "camera moves to fan head against lake view", "on_screen_text": "", "audio_hint": ""},
+   {"start": 20.0, "end": 38.1, "camera": "POV", "framing": "wide", "action": "wider POV from pillows: legs stretched, red shirt in foreground, wood ceiling, fan and lake window ahead", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 3.0, "end": 15.0, "why": "relaxed feet-up POV with fan framed against lake"},
+  "beats": ["lifestyle_reading_relaxing", "sleeping_comfort", "room_aesthetic"],
+  "hook_potential": {"score": 2, "why": "aspirational lake-view chill POV"},
+  "brand_fit": {"score": 3, "why": "lake + trees window, bright, calm"},
+  "quality": {"score": 2, "issues": ["vertical crop risk"]},
+  "status": "OK",
+  "status_why": "",
+  "tags": ["POV feet on bed", "lake view bedroom", "relaxing", "floral shorts", "fan at foot of bed", "wood ceiling", "black unit"]
+ },
+ {
+  "id": "ae12ec09-8f72-4660-8678-2c508365c4f4",
+  "kind": "ugc_broll",
+  "summary": "Static wide of a blonde woman tossing and turning in a dim bedroom, ending with a pillow over her face; no fan in shot.",
+  "people": [{"who": "woman, blonde (Lauren)", "wardrobe": "light top, black bottoms", "role": "creator"}],
+  "product": {"visible": "none", "colourway": "none", "on": null, "details_seen": [], "other_fans": [], "other_brands": []},
+  "setting": {"room": "bedroom", "time": "night", "light": "dim", "view": "none", "curtains_moving": false, "decor": "clean ordinary"},
+  "shots": [
+   {"start": 0.0, "end": 33.0, "camera": "static", "framing": "wide", "action": "woman shifts, kicks off duvet, rolls side to side, lies on back restless", "on_screen_text": "", "audio_hint": ""},
+   {"start": 33.0, "end": 37.5, "camera": "static", "framing": "wide", "action": "she grabs a pillow and presses it over her face in frustration", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 33.0, "end": 37.5, "why": "pillow-over-face frustration is the clearest beat"},
+  "beats": ["hot_sleeper_problem", "sweaty_discomfort", "before_after"],
+  "hook_potential": {"score": 2, "why": "relatable can't-sleep problem shot"},
+  "brand_fit": {"score": 1, "why": "dark problem shot, boho decor (rattan mirror, plant)"},
+  "quality": {"score": 2, "issues": ["dark"]},
+  "status": "OK",
+  "status_why": "",
+  "tags": ["can't sleep", "tossing and turning", "kicking off covers", "pillow over face", "night bedroom", "rattan mirror", "hot sleeper"]
+ },
+ {
+  "id": "5249b887-dcad-4052-8f31-36aba182da36",
+  "kind": "ugc_broll",
+  "summary": "Static wide of a sunlit corner: black Spin360 by a tall forest-view window next to a white bubble chair; blonde woman hops in, reads a book and sips from a mug, then leaves.",
+  "people": [{"who": "woman, blonde hair in bun (Lauren)", "wardrobe": "brown tank top, blue-grey bike shorts, barefoot", "role": "creator"}],
+  "product": {"visible": "full", "colourway": "black", "on": true, "details_seen": ["cage", "base", "blue ring"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "trees", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 6.0, "camera": "static", "framing": "wide", "action": "empty corner: fan, bubble chair with book, brass wall sconce", "on_screen_text": "", "audio_hint": ""},
+   {"start": 6.0, "end": 10.0, "camera": "static", "framing": "wide", "action": "woman enters, grabs book and drops into chair", "on_screen_text": "", "audio_hint": ""},
+   {"start": 10.0, "end": 34.0, "camera": "static", "framing": "wide", "action": "reads big book, sips mug, sets mug on sill beside fan", "on_screen_text": "", "audio_hint": ""},
+   {"start": 34.0, "end": 39.6, "camera": "static", "framing": "wide", "action": "she gets up with mug, drops book on table and walks out; empty corner", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 19.0, "end": 30.0, "why": "relaxed reading with mug, fan beside her in warm sun"},
+  "beats": ["lifestyle_reading_relaxing", "room_aesthetic", "product_hero"],
+  "hook_potential": {"score": 2, "why": "aspirational cosy reading nook"},
+  "brand_fit": {"score": 3, "why": "sunlit, forest view, airy modern decor"},
+  "quality": {"score": 3, "issues": []},
+  "status": "OK",
+  "status_why": "",
+  "tags": ["reading nook", "bubble chair", "woman reading book", "coffee mug", "forest window", "Lauren", "empty corner plate", "black unit"]
+ },
+ {
+  "id": "a248d94a-7ee5-47bd-b071-1f252c5d5011",
+  "kind": "ugc_broll",
+  "summary": "Hands show a Spin360 'Fresh' scent pod to camera and peel the lid to reveal blue gel, black Spin360 and bubble chair soft behind; long static tail of fan alone.",
+  "people": [{"who": "woman, blonde (Lauren), hands mostly", "wardrobe": "brown tank top, pink nails", "role": "creator"}],
+  "product": {"visible": "partial", "colourway": "black", "on": true, "details_seen": ["cage", "blue ring", "scent pod 'Fresh'"], "other_fans": [], "other_brands": []},
+  "setting": {"room": "living room", "time": "day", "light": "bright natural", "view": "none", "curtains_moving": false, "decor": "luxe"},
+  "shots": [
+   {"start": 0.0, "end": 7.0, "camera": "static", "framing": "close", "action": "hand holds sealed pod with dark 'spin360 Fresh' label to camera, turns it to show blue underside", "on_screen_text": "", "audio_hint": ""},
+   {"start": 7.0, "end": 13.0, "camera": "static", "framing": "close", "action": "both hands peel hinged clear lid, blue gel revealed", "on_screen_text": "", "audio_hint": ""},
+   {"start": 13.0, "end": 33.5, "camera": "static", "framing": "medium", "action": "she exits; fan head and bubble chair alone in sun", "on_screen_text": "", "audio_hint": ""},
+   {"start": 33.5, "end": 34.9, "camera": "static", "framing": "medium", "action": "woman walks back into frame", "on_screen_text": "", "audio_hint": ""}
+  ],
+  "best": {"start": 8.5, "end": 12.5, "why": "pod opened, blue gel clearly visible, fan behind"},
+  "beats": ["scent_tray", "product_hero"],
+  "hook_potential": {"score": 1, "why": "clean product accessory reveal"},
+  "brand_fit": {"score": 3, "why": "warm sun, white bubble chair, brass sconce"},
+  "quality": {"score": 2, "issues": ["blurry"]},
+  "status": "OK",
+  "status_why": "pod not shown going into the fan",
+  "tags": ["scent pod", "Fresh scent", "blue gel", "peel lid", "hands", "bubble chair", "Lauren", "black unit"]
+ }
+]

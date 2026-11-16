@@ -1,0 +1,275 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_DontHaveAC_TextOnScreen
+Author: Chris
+Editor: N/A 
+AD BRIEF 
+
+
+[1] Overview 
+
+
+● Ad ID: Spin360_DontHaveAC_TextOnScreen 
+● Ad Type: UGC-Style Text Hook + Voiceover Explainer 
+● Type of Ad: Problem Aware → Solution Aware 
+● Sizes Needed: 9x16 
+● Voiceover: Woman — Calm, Relatable, Slightly Exhausted-Then-Relieved Tone 
+[2] Direction 
+
+
+●  Example Videos 
+* 7631345847711632653.mp4
+* 7632736105787444511.mp4
+* 7633094622272572686.mp4
+
+
+* Create the Hooks using text-on-screen format — mimicking authentic TikTok/Reels style (no polished graphics, raw text feel). 
+● Hook section (first 4–6 seconds): TEXT ONLY on screen. No voiceover. Let the text do the scroll-stopping. 
+● After the hook: transition into calm, confident voiceover explaining the 360 cooling mechanism. 
+● Voiceover tone: someone who genuinely couldn't sleep without AC and found this — relieved, matter-of-fact, not salesy. 
+● Music: Subtle ambient/white noise underneath throughout. Slightly cool, relaxed vibe. 
+● Imagery must match audio — no random shots. Hot weather visuals in hook, then fan + bedroom visuals in body. 
+● Use fish.audio or similar for VO. Add [pause] and [emphasis] tags for natural pacing. 
+[3] Strategy 
+
+
+Who is this for [Avatar]: 
+	* People without AC, hot sleepers, renters who can't control their thermostat, anyone who needs cold air to fall asl
+	Main Selling Points: 
+	* 360° airflow that actually mixes cold air from the floor + hot air from the ceiling — creating a room-wide natural cool 
+	Market Awareness: 
+	* Problem Aware — they know they're hot and can't sleep. They don't know this fan exists or that it works different
+	Core Desires: 
+	* Sleep, coolness, comfort, relief from heat, saving money vs. AC.
+	Angle: 
+	* This fan replaces AC for sleeping — and you'll wake up shivering.
+	Why Untested: 
+	* Account has focused on natural breeze / wellness / sleep quality angles. No ad has directly targeted the AC repl
+	
+
+
+
+[4] Creative Direction 
+
+
+Hook Format (TEXT ON SCREEN ONLY — 0 to 5 sec): 
+Raw, authentic TikTok-style text. White text, black background or overlaid on footage. No voiceover during hook. The text IS the hook. Should feel like a real person posting about their experience, not an ad. 
+Emotional Arc:
+Start with heat misery / AC problem → moment of discovery → relief and disbelief → mechanism explanation (why it works) → 'this is basically AC' payoff → CTA. 
+Key Creative Insight from Account Data: 
+Older women (45–65+) respond strongly to feeling-first, calm, sensory-driven ads. This angle hits both: the problem is visceral (sweating, can't sleep) and the solution is equally sensory (waking up shivering, room feels alive). Don't over-explain — let the feeling sell it. 
+Competitive Positioning: 
+Don't compare to other fans. Compare to AC. Frame it as: 'I thought I needed AC. Turns out I just needed the right airflow.' 
+[5] Script 
+# Hook (Text On Screen — No VO) Tone / Notes 
+#
+	Script 
+	Visual 
+	Description 
+	1 
+	"Woke up shivering. 
+It's 100 degrees outside. 
+Best sleep of my life."
+	  
+
+	Contrast hook — unexpected outcome creates immediate curiosity.
+	2 
+	"For everyone who needs cold air to sleep”  
+
+
+This fan is a lifesaver. 
+
+
+I ordered a fan. I got an AC and a noise machine."
+
+
+NOT ALL OF THE TEXT SHOULD BE ON SCREEN AT ONCE. IT SHOULD BE SEPARATE LINES— EASY TO READ. 
+	  
+
+	Community hook — speaks directly to a specific tribe. Feels like a personal 
+recommendation, not an ad.
+
+
+The text on screen should last at least 4-5 second, maybe more. Make it super slow and easy to read. 
+	3 
+	"My landlord won't fix the AC. 
+So I tried this instead. 
+Haven't touched the thermostat since."
+
+
+NOT ALL OF THE TEXT SHOULD BE ON SCREEN AT ONCE. IT SHOULD BE SEPARATE LINES— EASY TO READ. 
+	  
+
+	Relatable renter situation. Strong problem credibility before any product mention.
+
+
+The text on screen should last at least 4-5 second, maybe more. Make it super slow and easy to read. 
+	4 
+	"It's 104 degrees. 
+I'm under three blankets. 
+Finally sleeping."
+
+
+
+
+	  
+
+	
+
+
+
+The text on screen should last at least 4-5 second, maybe more. Make it super slow and easy to read. 
+	5 
+	"This is for my people who don't have AC. 
+Nine power settings. 
+One of them will make you shiver."
+
+
+NOT ALL OF THE TEXT SHOULD BE ON SCREEN AT ONCE. IT SHOULD BE SEPARATE LINES— EASY TO READ. 
+	  
+
+	Direct audience call-out. The '9 settings / one will make you shiver' is a curiosity-driver that earns the watch-through.
+
+
+The text on screen should last at least 4-5 second, maybe more. Make it super slow and easy to read. 
+
+
+
+
+	
+
+
+
+Body Script (Voiceover — begins after hook, ~5 seconds in)
+Script (VO) Visual Description 
+Script 
+	Visual 
+	Description 
+	The breeze is so cold, I wake up shivering even on the hottest mornings
+	
+
+	
+
+	It’s really unique because it cools your room by actually mixing the air — then spreads it out in a 360-degree breeze.
+	  
+
+	Use the hot/cold room diagram (red above, blue below, arrows mixing). 
+
+
+I want a good cross section diagram video similar to this. It should either be a before and after or a top / bottom comparison shot. 
+	So all of the air in your room is moving. Not just one spot. 
+	
+
+	Slow pan of fan in center of room. 
+	It feels like my room is alive 
+	
+
+	Someone sitting near the fan, eyes closed, looking relaxed.
+	It's really more like an AC and noise machine than a fan. 
+	
+
+	Side-by-side or cut between window AC unit and Spin360 — let the visual do the comparison work.
+	At levels 1–5, it's nearly silent. Levels 6–9 give you that deep white noise and a strong cool breeze — even on the hottest days.
+	
+
+	Speed dial being turned. Decibel meter display. Close-up of the control panel.
+	$110 off, this spring only. Stay cool this summer with the Spin360.
+	
+
+	Product beauty shot. Clean background. CTA overlay: '$110 OFF — Limited Time'
+	
+
+
+
+
+
+[7] Editing Rules 
+● Hook section (0–7 sec): TEXT ONLY on screen. No voiceover. Raw TikTok text style. 
+● No dead air — unless the silence is intentional (e.g. moment before 'Best sleep of my life') 
+● Add captions for entire video. 
+● Each visual clip MUST complement the audio — no random shots. 
+● Editor must add sound design: subtle white noise bed throughout, birds optional in hook. 
+● Transition from hook to VO should feel smooth — not jarring. Consider a gentle ambient sound rising.
+● Keep overall length 60–90 seconds. This demographic (35–65+) watches long-form if hooked. 
+[8] Deliverables 
+● Five Hook Variants (text-on-screen format, 9x16) 
+● One Body Script (shared across all hooks) 
+● Upload to Creative Sheet: 
+■ Spin360_NoAC_CoolBreeze_Hook_1 
+■ Spin360_NoAC_CoolBreeze_Hook_2 
+■ Spin360_NoAC_CoolBreeze_Hook_3 
+■ Spin360_NoAC_CoolBreeze_Hook_4 
+■ Spin360_NoAC_CoolBreeze_Hook_5
+HOOK
+"There are people in the coldest parts of the world who sleep better than anyone else on earth.
+Calmer. Healthier. More rested.
+And when scientists finally figured out why —
+it wasn't what anyone expected."
+
+
+UNAWARE SECTION 
+"In Scandinavia there's a word — hygge.
+It's that feeling of deep, cozy, restorative rest.
+Long winter nights where candles are lit, blankets are piled high, and cool air drifts gently through the home while everyone sleeps.
+In the French Alps, entire villages used to sleep through seven months of winter.
+In Russia, there's a documented tradition called lotska — a deep winter rest that lasted for months.
+Researchers in the 1950s studied these groups
+And the one thing every single one of them had in common?
+The air around them was cold and never stopped moving.
+Cool. Fresh. Gentle.
+Simply sleeping the way human beings were always meant to sleep.
+
+
+[BRIDGE] Visual: Hot summer bedroom. Woman lying awake. AC humming. Air completely still.
+"But somewhere along the way we sealed everything up.
+Windows closed. AC on.
+And the air in our bedrooms just — stopped.
+It sits there all night, warm and still and stale.
+Your body is waiting for its temperature to drop so it can finally rest.
+And most nights — it just can't get there.
+You wake up tired and you don't even know why.
+But your body knows.
+It's been trying to tell you for years."
+
+
+[PRODUCT REVEAL] Visual: Slow fade to dark bedroom. Spin360 glowing softly.
+"So one engineer in California got completely obsessed with this idea.
+What if you could bring that cool, moving air back into your bedroom?
+Not AC blasting from one vent.
+Not a fan hitting you in the face.
+Something that actually feels like the air outside on a perfect cool night.
+He spent four years figuring it out.
+What he built is honestly hard to explain until you feel it.
+It pulls the cool air from the floor and the hot air from ceiling 
+And sends it outward in every direction at once.
+And what comes out doesn't feel mechanical.
+It feels like a breeze.
+Cool. Soft. Wrapping around you from every direction.
+Like a window left open on the most perfect night you can remember."
+
+
+[THE FEELING ] Visual: Woman in bed, eyes closed, one arm out from under the blanket. Fan glowing softly.
+"The first time you sleep with it
+it feels like the walls of your bedroom were removed 
+Like you're lying outside somewhere and this cool, perfect air is just moving all around you.
+Gentle. Constant. Everywhere at once.
+And you don't even realize you're falling asleep until you wake up the next morning and think —
+wait.
+I'm cold.
+In the middle of summer.
+And I feel incredible.
+Below speed five you won't hear it at all.
+Above that it's like wind through trees — that soft, cool shhhh that makes everything in your brain just go quiet.
+Women say they've stopped using their AC entirely.
+That they wake up the way they haven't woken up in years.
+It's what those cultures have always known.
+Cool, moving air is not a luxury.
+It's just what your body needs."
+
+
+[CTA] Visual: Clean product beauty shot. Fan slowly spinning.
+"Made by the guy who invented the Shark Wheel — went on Shark Tank and got a deal with Mark Cuban and Kevin O'Leary.
+First thousand people get $110 off.
+Once you feel that breeze —
+you'll understand.
+Go check it out."

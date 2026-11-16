@@ -1,0 +1,159 @@
+﻿Brand: Spin360
+Ad ID: Spin360_AC_Companion
+Author: Gabriel
+
+
+
+
+AD BRIEF
+	Creative Direction
+Watch: 2026-08-01 18-52-59.mp4
+Watch: Building_Spin360_Video.mp4
+How Does an Editor Think and Feel?
+
+
+CORE EDITING IDEA
+The video should feel like one simple story:
+Someone feels warm, lowers the thermostat, pays more, and still wants to lower it again. Then we reveal that the AC may already be making enough cold air—the real problem is how that air moves through the room.
+Before the Spin360 reveal, focus on human behavior and the thermostat cycle.
+
+
+After the reveal, use the strongest available product footage to explain the mechanism and benefits. 
+
+
+VISUAL SOURCE DIRECTION
+The story and all three visual hooks will be created with AI-generated live-action footage.
+Keep the AI story visually consistent: the same person, the same home, the same bedroom, and the same thermostat whenever possible.
+
+
+Use real footage for David and the inventor section. Whenever Spin360 is clearly visible, use real product footage. 
+
+
+VISUAL HOOK OPTIONS
+Use the same opening voice-over for all three hooks:
+“Every summer, Americans spend more money making their homes colder than they may actually need to be.”
+Each hook should last approximately 5–6 seconds. After the hook, all three versions continue into the same main edit.
+Hook
+	Visual direction
+	HOOK 1 — THERMOSTAT DOWN, BILL UP
+	Start on an extreme close-up of a thermostat. The temperature quickly changes: 74°F → 72°F → 70°F. With every click downward, show the electricity bill or monthly cost increasing. The visual message should be immediate: the temperature goes down while the cost goes up. This is the clearest and most direct hook.
+	HOOK 2 — THE SUMMER AC LOOP
+	Open with fast, clear summer images: strong sunlight outside, an AC compressor running, a thermostat being lowered, and an electricity bill notification appearing on a phone. End with the hand returning to the thermostat. The visual idea is that the AC keeps running, the bill keeps rising, and the person still wants the room colder.
+	HOOK 3 — STILL TOO WARM
+	Open inside a bedroom. The thermostat already shows 74°F, but the person still looks uncomfortable. Show simple, natural behavior: moving the blanket away, putting one leg outside the covers, and walking back to the thermostat. The person lowers it to 72°F, hesitates, then lowers it again to 70°F. The visual idea is that even after making the room colder, the person still does not feel comfortable.
+	MAIN STORYBOARD
+Voice-over
+	Visual direction
+	“Every summer, Americans spend more money making their homes colder than they may actually need to be.”
+	Use one of the three visual hooks. The first frame must already show movement or a clear problem. Do not begin with an exterior shot of a house or a slow introduction.
+	“You still feel warm, so 74 becomes 72. Then 70.”
+	Show the thermostat changing from 74°F to 72°F to 70°F. Keep the numbers large and easy to read. Use a clear click sound for each change.
+	“The AC runs longer. The bill climbs. But somehow, you still feel like turning it down again.”
+	Show three simple ideas in order: the AC running, the electricity bill increasing, and the hand returning to the thermostat. Do not combine all three ideas into one confusing shot.
+	“But here’s the part most people never hear: your AC may already be making enough cold air.”
+	Show air coming from an AC vent. Use a light curtain, tissue, or strip of paper to make the airflow visible. Then show the person farther away from the vent, still uncomfortable.
+	“The Department of Energy says moving air can make people feel cooler without lowering the room temperature.”
+	Show a clean Department of Energy webpage or document. Highlight only the relevant statement. Keep the screen simple and readable.
+	“Which sounds strange. How can the same room feel cooler without making it colder?”
+	Return to the thermostat. The hand pauses above the button without pressing it. Slow the edit slightly so the viewer has time to understand the question.
+	“Because your body doesn’t just feel temperature. It also feels air moving over your skin.”
+	Show a close-up of gentle airflow moving hair, fabric, a loose sleeve, or the small hairs on someone’s arm. The movement should look soft and natural.
+	“So the problem may not be that your AC needs to make more cold air. You may just need a better way to move the cold air it has already made.”
+	Show that the AC is producing air, but the airflow does not reach the whole space. A simple option is one piece of fabric moving near the vent while another piece farther away barely moves.
+	“That’s the question an inventor in California spent four years trying to answer.”
+	Show the real David working through the problem: sketches, prototypes, parts, testing, or hands examining a design. Use two or three shots only. Do not reveal the final product yet.
+	“What he built is called Spin360.”
+	Reveal the full Spin360 for the first time. Use the strongest clean real product shot available. The reveal should feel confident, not overly dramatic.
+	“A regular fan chops through the air and sends a narrow stream straight ahead.”
+	Briefly show a traditional fan sending air in one direction. This can be demonstrated with fabric, ribbons, or a simple airflow graphic. 
+	“Spin360 works differently.”
+	Cut back to Spin360. Use a clean product shot that clearly separates it from the traditional fan.
+	“It pulls air in from the top and the bottom at the same time. It brings those two streams together, then sends the air outward 360 degrees around the room—like Saturn’s rings.”
+	Use the strongest available real product footage and simple air enters from the top, air enters from the bottom, and air moves outward around the product.
+	“Its blade is shaped to push the air outward instead of chopping through it. And because of that, it’s incredibly quiet.”
+	Close of spin360
+	“What you feel is a wide, soft breeze moving around the room.”
+	Use the strongest available product or lifestyle footage that communicates a soft breeze. Show gentle movement in curtains, hair, bedding, clothing, or plants.
+	“You don’t have to sit in one exact spot. You feel the breeze across the bed, around your legs, and in more parts of the room.”
+	Show the benefit across different areas of the room. The exact product angle is not important. The important idea is that the breeze is not limited to one narrow spot.
+	“Because it moves air in every direction, Spin360 helps carry the cold air from your AC through more of the room.”
+	Use the best available real Spin360 footage with a simple airflow graphic if needed. The visual only needs to communicate that the AC creates the cold air and Spin360 helps spread it through the room.
+	“So more of that cold air actually reaches you.”
+	Shots spin360
+	“That means you can raise the thermostat a little and still feel comfortable.”
+	Return to the same thermostat framing from the beginning. Reverse the numbers: 70°F → 72°F → 74°F. This is the main visual payoff of the story.
+	“Your AC makes the cold air.”
+	Show the AC vent producing air. Keep the shot simple.
+	“Spin360 helps move it where you can actually feel it.”
+	Show Spin360 in the room with a clear sense of air moving through the space. Use the best available real product footage.
+	“So before you turn the thermostat down again, it might be worth seeing what happens when you move the cold air you already have.”
+	End on a calm room with Spin360 naturally placed in the space. Show the person comfortable and the thermostat resting at 74°F. Hold the final shot long enough for the message to land.
+	CONTINUITY RULES
+Before the product reveal, keep the AI-generated story inside the same home with the same person whenever possible.
+Use close-ups to protect continuity:
+* Hands.
+* Thermostat.
+* AC vent.
+* Phone screen.
+* Blanket.
+* Legs.
+* Hair.
+* Fabric.
+Avoid changing the person, house, bedroom, lighting, or visual style between scenes. The opening should feel like one person experiencing one problem.
+EDITING RHYTHM
+Opening
+Use faster cuts during the thermostat and electricity bill sequence.
+The viewer should immediately understand:
+Lower temperature = longer AC use = higher cost.
+Explanation
+Slow the pacing slightly during the Department of Energy statement and the explanation about air moving over the skin.
+Product reveal
+Let the reveal breathe. Do not cover the first full product shot with several graphics or fast cuts.
+Product explanation
+Use one clear visual idea at a time. Do not show multiple airflow concepts on screen simultaneously.
+Ending
+Repeat the thermostat shot from the opening, but reverse the direction.
+Beginning: 74°F → 72°F → 70°F
+Ending: 70°F → 72°F → 74°F
+This reversal makes the video feel complete.
+SOUND DIRECTION
+Use the sound of the thermostat clicks as a repeating element.
+At the beginning, the clicks move the temperature downward. At the end, the clicks move the temperature upward.
+Before the product reveal, the music should create light tension and curiosity. After the reveal, the music should feel more open and comfortable.
+When the script says Spin360 is quiet, reduce the music briefly. Do not use a dramatic silence effect. The moment should feel natural.
+FINAL EDITING PRINCIPLE
+Do not choose a visual only because it matches one word in the voice-over.
+Every shot should help explain the story:
+The AC is already making cold air. The person still feels warm. Spin360 helps move that cold air through more of the room.
+Primary Text:
+💸 You might be paying for cold air you barely feel.
+That’s why 74 becomes 72.
+Then 70.
+Same house.
+Bigger bill.
+Spin360 doesn’t make cold air.
+It helps move the cold air your AC already made.
+It pulls air from the top and bottom, mixes it, then pushes a soft 360° breeze around the room.
+So the cold air doesn’t just sit low…
+or get stuck in one corner.
+You actually feel more of it.
+Basically:
+❄️ AC makes the cold
+🌬️ Spin360 moves it
+🌀 top + bottom airflow
+🔇 quiet
+💸 less “turn it down again”
+Before you pay for more cold air…
+try moving the cold air you already paid for.
+Tap Shop Now 👇
+Headline:
+Stop Buying More Cold Air
+You Already Paid For Cold Air
+Your AC Bill Is The Clue
+
+
+
+
+
+
+Spin360 — AC Companion Editing Storyboard

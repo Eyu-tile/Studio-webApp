@@ -1,0 +1,367 @@
+﻿Chad Scale
+Brand: Spin360
+Author: Gabriel
+AD BRIEF
+	
+
+[1] Creative Direction
+Watch:2026-08-06 17-33-48.mp4
+Spin360_AC_Comment.mp4
+Spin360_AC_Comment 
+Watch this feedback: Gabriel / Team - Feedback 2 
+How Does an Editor Think and Feel?
+ 
+________________
+[5] Shotlist / Storyboard
+
+
+HOOKS
+	HOOK
+	Script
+	Visual
+	Description
+	1
+	
+
+	
+
+
+
+	When David says:
+“This is a real comment.”
+Briefly highlight:
+THIS IS A REAL COMMENT.
+Use a small punch-in on David.
+The opening should feel honest and unplanned.
+The viewer should feel:
+David is about to read something real.
+
+
+	2
+	
+
+	
+
+
+
+	Use normal captions and highlight:
+REAL CUSTOMER COMMENT
+Do not show a large review card.
+Do not create a fake comment screenshot.
+The goal is to make the viewer curious about what the customer wrote.
+
+
+	3
+	
+
+	
+
+	While David says he is about to read a real comment, briefly show the result that comes later in the story:
+AC SET TO 74°F
+“FEELS LIKE 67–68°F”
+Add a small label:
+Customer experience
+Use a real thermostat shot or a simple temperature graphic.
+Then return to David holding his phone while the original audio continues.
+Do not use the later 74°F sentence as the opening audio.
+Do not show the thermostat dropping from 74°F to 67°F.
+The viewer should wonder:
+How did this customer get that result?
+
+
+	
+
+SPIN360 EDITING BRIEF
+Ad ID: Spin360_RealComment_AC74
+Use the provided final audio as-is and build the visual edit around it.
+________________
+
+
+Ad Concept
+Real Customer Comment → Product Proof
+David reads a real customer comment from his phone.
+The customer’s husband did not like the setup and thought they would return Spin360. But after using it, he changed his mind and loved it.
+The customer also says they can keep the AC at 74°F because the room feels like 67–68°F.
+The comment gives David a natural reason to explain why Spin360 makes the room feel more comfortable.
+The story is:
+He doubted it. He tried it. He felt the difference. Now they are keeping it.
+________________
+
+
+Visual Hook Variations
+Create three visual hook versions.
+Use the same opening audio and the same main edit in all three versions.
+Only change the opening visuals, captions, framing, punch-ins, and sound design.
+________________
+
+
+Hook 1 — Raw Founder
+Start directly on David looking at his phone.
+Keep the framing simple and natural.
+Use normal captions.
+When David says the comment is real, briefly highlight:
+THIS IS A REAL COMMENT.
+Use a small punch-in on David.
+The opening should feel honest and unplanned.
+________________
+
+
+Hook 2 — Phone Detail
+Start with the closest real shot available of:
+* David holding the phone.
+* David tapping or scrolling.
+* David looking down at the screen.
+* A close shot of his hand and phone.
+Then cut to David’s face.
+Use normal captions and briefly highlight:
+REAL CUSTOMER COMMENT
+Do not create a fake review screenshot.
+The goal is to make the viewer curious about what the customer wrote.
+________________
+
+
+Hook 3 — Result Teaser
+While David begins reading the comment, briefly show the result that comes later:
+AC SET TO 74°F
+ “FEELS LIKE 67–68°F”
+Add a small label:
+Customer experience
+Use a real thermostat shot or a simple temperature graphic.
+Then return to David holding his phone.
+Do not show the thermostat changing from 74°F to 67°F.
+The goal is to make the viewer wonder:
+How did Spin360 make the room feel that much cooler?
+________________
+
+
+Hook Editing Rule
+Each version should have a different feeling:
+* Hook 1: raw and honest.
+* Hook 2: personal and real.
+* Hook 3: result and curiosity.
+After the first few seconds, continue into the same main edit.
+________________
+
+
+Editing Style
+Use a raw founder-video style mixed with a simple product explainer.
+The beginning should feel honest and real.
+The middle should become more visual so the viewer can easily understand the temperature and airflow idea.
+The ending should feel calm and premium.
+Do not make the whole ad fast, loud, or flashy.
+David should stay on screen when his face, gestures, or reaction are the strongest visual.
+Use B-roll when it helps explain the idea.
+Do not cover every sentence with B-roll.
+________________
+
+
+Story Flow
+Part 1 — The Real Comment
+Start with David holding his phone and reading the comment.
+Use normal captions.
+When he says the comments are real, briefly highlight:
+REAL CUSTOMER COMMENT
+When he talks about the small screw and says:
+“But God, did that suck.”
+Use a small punch-in.
+Keep this moment funny and honest.
+A real close-up of the screw or setup part can be used if the correct footage is available.
+Do not show the wrong product part.
+The viewer should understand:
+David admits the old setup problem and says he fixed it.
+________________
+
+
+Part 2 — The Customer Changes Her Mind
+When David reads:
+“It’s a win, and I love it.”
+Highlight the caption:
+IT’S A WIN, AND I LOVE IT.
+When David reads:
+“We’ve been able to keep our AC on 74 degrees because it makes it feel like 67, 68.”
+Make this the first major proof moment.
+Show:
+AC SET TO 74°F
+ “FEELS LIKE 67–68°F”
+Add:
+Customer experience
+Possible visuals:
+* A thermostat set to 74°F.
+* Spin360 working in a bedroom or living room.
+* A person looking cool and comfortable.
+* An AC vent.
+* Curtains, clothes, hair, or bedding moving softly.
+Do not show the thermostat dropping from 74°F to 67°F.
+The customer is describing how the room feels.
+________________
+
+
+Part 3 — Explain Why It Feels Cooler
+When David explains the temperature difference between the floor and ceiling, use a simple room graphic.
+Show:
+80°F — NEAR THE CEILING
+ 74°F — NEAR THE FLOOR
+Then show Spin360 mixing the air.
+Use simple, smooth arrows.
+The graphic should be easy to understand in one second.
+Do not make it look like a science class.
+When David says:
+“We make it all one temperature.”
+Show the warm and cool air layers becoming more even.
+The viewer should understand:
+The AC already made cold air. Spin360 helps move that air through more of the room.
+________________
+
+
+Part 4 — He Expected to Return It
+When David reads:
+“My husband kept the box in pristine condition… because he was sure we were sending it back.”
+Stay on David or use a real packaging shot if one is available.
+Do not use generic return footage.
+Do not create fake Spin360 packaging.
+When David says:
+“Nope! It’s here to stay.”
+Use a stronger punch-in.
+Let the music lift slightly.
+Show:
+NOPE.
+ IT’S HERE TO STAY.
+This is the emotional payoff.
+The viewer should understand:
+He expected to return it. Then he used it and changed his mind.
+________________
+
+
+Part 5 — Spin360 Is Not a Normal Fan
+When David begins explaining why Spin360 is different, show the real product clearly.
+When he says:
+“Every other fan in the world is whap, whap, whap.”
+Use three quick cuts that match each “whap.”
+Possible visuals:
+* A regular fan blade spinning.
+* A narrow stream of air.
+* Hair, paper, or fabric being hit by a hard blast.
+* A ribbon twisting in front of a regular fan.
+The regular fan should feel mechanical, narrow, and harsh.
+Then slow the edit down when David says:
+“This fan was created to create an outdoor feeling indoors.”
+Use softer visuals:
+* A curtain moving gently.
+* Hair moving lightly.
+* Clothing moving in a soft breeze.
+* A wide room shot with Spin360.
+* Leaves moving outside.
+* Soft movement inside the room.
+The contrast should be clear:
+Regular fan: hard, narrow blast.
+ Spin360: soft, wide breeze.
+________________
+
+
+Shot Selection
+Use the real shot that explains each line most clearly.
+Good options include:
+* David speaking.
+* David holding the phone.
+* David looking at the phone.
+* Real Spin360 close-ups.
+* Full product shots.
+* Spin360 inside a bedroom or living room.
+* Thermostat footage.
+* AC vents.
+* Curtains, clothes, hair, or fabric moving.
+* Simple airflow graphics.
+* Real lifestyle footage.
+Do not force a new shot for every sentence.
+Stay on David when his face or delivery is stronger than the B-roll.
+Avoid generic footage that makes the ad feel fake.
+________________
+Captions and Text
+Use normal captions through the ad.
+Do not show the full customer review.
+Highlight only the strongest moments:
+THIS IS A REAL COMMENT.
+IT’S A WIN, AND I LOVE IT.
+AC SET TO 74°F
+“FEELS LIKE 67–68°F”
+Customer experience
+NOPE. IT’S HERE TO STAY.
+Keep the text large, clean, and easy to read on a phone.
+Do not fill the screen with long paragraphs.
+________________
+
+
+Sound and Music
+Start with light music.
+Keep some natural outdoor sound around David.
+Use small sound details only when they help:
+* A phone tap.
+* A light click during the screw section.
+* Three short impacts for “whap, whap, whap.”
+* A soft breeze sound when the outdoor-breeze idea begins.
+Do not use loud whooshes on every transition.
+Let the music grow slightly when the husband changes his mind and when the product difference becomes clear.
+________________
+
+
+Pacing
+Beginning
+Simple, natural, and honest.
+Do not over-edit the opening.
+Middle
+Use more product shots and simple graphics to explain the AC and temperature difference.
+Ending
+Slow the visual pace down.
+Make Spin360 feel calm, comfortable, and different from a normal fan.
+________________
+
+
+Ending
+Use the strongest complete moment near the end for:
+* A clean Spin360 product shot.
+* Spin360 inside a room.
+* The current offer.
+* The logo.
+* A clear CTA.
+Possible final text:
+BRING THE OUTDOOR BREEZE INDOORS.
+________________
+
+
+Final Editing Goal
+The finished ad should feel like:
+A real customer story that naturally becomes a simple product demonstration.
+Keep the customer story believable.
+Make the 74°F versus 67–68°F result easy to understand.
+Show why the husband changed his mind.
+Then show that Spin360 is not just another fan. It creates a softer, wider, outdoor-like breeze inside the room.
+
+
+
+
+Primary Text:
+📦 She spent $300 on a fan.
+Her husband kept the box.
+Not because he’s organized.
+Because he was sure it was going back. 😅
+Then they turned on Spin360.
+The AC stayed at 74°…
+but the room felt more like 67 or 68.
+That’s when the return plan died.
+Spin360 pulls air from the top and bottom, mixes it, then pushes a soft 360° breeze around the room.
+So the cold air your AC already made actually moves through the space.
+Basically:
+❄️ keep the AC higher
+🌬️ still feel cooler
+🌀 360° room-wide breeze
+🔇 quiet on low
+🪟 open-window feeling
+He thought it was going back.
+Now he says it’s a win.
+Tap Shop Now and see why he kept it 👇
+Headline:
+See Why He Kept The $300 Fan
+Watch The $300 Fan Win Him Over
+
+
+Why He Didn’t Return It

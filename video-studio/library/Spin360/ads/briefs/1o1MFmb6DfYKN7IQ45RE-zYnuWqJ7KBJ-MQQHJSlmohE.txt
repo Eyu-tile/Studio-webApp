@@ -1,0 +1,97 @@
+﻿Chad Scale
+Brand: Spin360   Ad ID: Spin360_DeadAirDemo_V1_HOOK_
+Author: Freddy
+Editor: 
+
+
+AD BRIEF
+	
+
+[1] Overview
+
+
+Ad ID
+	Spin360_DeadAirDemo_V1_HOOK_
+	Ad Type
+	Ideation
+	Type of Ad
+	Demo-Led / Show-Don't-Tell (fog room)
+	Sizes Needed
+	9x16, 4x5
+	Voiceover
+	Confident demo VO; founder David optional as host.
+	Creative Roadmap Link
+	
+
+	Assets
+	Spin360 Kickstart Footage
+Prototype Imagery
+Creative Assets Library
+Stock Footage
+Master Documents (for AI ingestion)
+Visual Ideas (AI stills)
+	Performance Goal
+	Hook Rate Target: >35%
+Hold Rate Target: >30%
+Thumb Stopper Priority: HIGH
+Primary KPI: Purchase / CPA
+Secondary KPI: ThruPlay %
+	Reference Videos
+	
+
+	[2] Concept
+
+
+Who it's for (Persona)
+	Broad - Health Maxer + Design Upgrader + anyone who's felt a stuffy room. Skeptics welcome; the demo is the argument.
+	Angle
+	Dead air, fixed.
+	Awareness stage
+	Problem aware - stuffiness is felt, but its cause has never been SEEN.
+	Concept description
+	A demo-led show-don't-tell ad. Fill a room with fog so the air is visible. Show a normal fan carving one tunnel while the rest of the room sits still, then show the Spin360 turning the whole room evenly. The visible fog is the entire argument.
+	Key USPs
+	Double-vortex pulls fog from ceiling and floor at once; whole room visibly turns, evenly; quiet; scent-pod slot; built to run all day.
+	Hypothesis
+	Seeing the fog (dead air vs moving air) will convince skeptics that a normal fan only moves one tunnel, and this moves the whole room.
+	Format
+	Demo-led / show-don't-tell (fog room). Founder David optional as host.
+	Mode
+	New idea - visible-fog demo.
+	[3] Script / B-Roll
+
+
+Beat
+	Script
+	B-Roll
+	HOOK (pick one - max 3 tested)
+	I don't know how many people come to me and go: I hate a fan, but I love yours.
+	Hook 1: The air in your room is dead. (text overlay)
+	SETUP
+	Every fan does the same thing. It pulls air in one side and blows it out the other. It goes wop wop wop wop. But nothing in nature moves like that. This is why your body doesn’t like it.
+	Fan from above (Seedance clip) blasting fog  
+	THE NORMAL FAN
+	We do not do that!
+	Person talking to camera // Clip: hf_20260615_021211_3ab65870-8d98-4eae-a477-04e0f3637384 (3)(1)
+
+
+	NOW OURS
+	The Spin360 pulls the fog down from the ceiling and up from the floor at the same time, and look - the whole room starts to turn. Slowly, evenly, every corner. Nothing blasts. Everything moves.
+	  
+
+
+
+* Clip with ribbons where they turn around the whole 
+	THE DIFFERENCE
+	That's the difference. We make your whole room feel better. A normal fan can’t do that.
+	  
+
+	THE PRODUCT
+	It’s ultra quiet and gives you a constant perfect breeze.
+	Decible_Test_Selects_1 decibel clip
+	CLOSE
+	Once you understand this you understand why a normal fan is not good enough for you.
+	  
+
+	CTA
+	Get your now by clicking the link below

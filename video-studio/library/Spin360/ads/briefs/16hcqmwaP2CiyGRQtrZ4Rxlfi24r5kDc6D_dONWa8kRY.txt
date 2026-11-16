@@ -1,0 +1,216 @@
+﻿Spin360_HusbandRelaxation_SwitchOff_TenMinutes
+
+
+Creative Direction:
+
+
+Watch:Brief - Spin360_HusbandRelaxation_SwitchOff_TenMinutes
+
+
+Brief
+How i am making voiceovers for VSL 
+Erin Schneider
+
+
+Brief:
+You’re out in ten minutes. Your wife’s still lying there thinking about tomorrow.
+You know what I mean. She gets into bed exhausted, but her mind’s still going. Work. Tomorrow. Something she forgot. Something she still has to do.
+You can’t turn all of that off for her. But you can change what the room feels like when she gets into bed.
+And that’s exactly what Spin360 was built to do.
+It feels like the walls of your bedroom disappeared and your bed was sitting outside on one of those perfect nights, with soft air moving across your skin from every direction.
+And there’s the sound.
+Turn it up and you get this soft, steady shhhh made for sleep — like wind moving through the trees.
+So the room isn’t dead quiet while her mind’s still going. There’s just this calm, steady sound in the background. 
+Soft breeze. Soft shhhh. The room’s already waiting for her when she gets into bed.
+And before she even realizes it, her eyes start to close. Then she wakes up actually rested.
+And there’s a reason the breeze feels so different.
+Spin360 pulls air in from the top and the bottom at the same time, then naturally sends it all the way around the room, like Saturn’s rings.
+And it’s not like a fan blowing straight at her. It feels like this soft breeze is just there… surrounding her.
+And that’s the best part.
+You’re the one who created that for her.
+You noticed what makes her feel good at night, and you set the room up before she even got into bed.
+And it’s there again tomorrow night. And the night after that.
+The guy behind it is the inventor of the Shark Wheel. He literally reinvented the wheel, went on Shark Tank, then spent four years reinventing the way air moves through a room.
+So if you want to give her a bedroom she can actually unwind in every night, go check out Spin360.
+
+
+
+
+Hooks
+Beat
+	Visual / Direction
+	HOOK 1 — Split Screen / Contrast VO: “You’re out in ten minutes. Your wife’s still lying there thinking about tomorrow.”
+	Control version. Vertical split-screen of the same bed. On the left, the husband is completely out, sleeping deeply, maybe breathing heavily or lightly snoring. On the right, the wife is lying there awake, eyes open, staring at the ceiling. She should not look panicked or overly anxious. The feeling should be: her body is tired, but her brain is still on. Keep both sides compositionally similar so the contrast is instantly obvious. Add a subtle push-in on her during “your wife’s still lying there…”
+	HOOK 2 — 10 Minutes Later / Time Compression Same VO
+	More direct-response. Overhead shot of the bed. They both lie down. A subtle digital clock shows something like 10:42 PM. Quick speed-ramp or jump transition and it changes to 10:52 PM. The husband is already fully asleep. She is still awake, staring at the ceiling. This turns “you’re out in ten minutes” into a visual demonstration instead of just illustrating it.
+	HOOK 3 — Rack Focus / Two Different Nights Same VO
+	More premium and cinematic. Side angle of the bed with shallow depth of field. Start focused on the husband in the foreground, sleeping deeply. On “Your wife’s still lying there…”, rack focus across the frame to her in the background, eyes still open. Same shot, no cut. They are only inches apart, but they are experiencing completely different nights.
+
+
+	text hook for all three variants:
+	YOU’RE ASLEEP
+YOUR WIFE’S STILL ON 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Body
+
+
+
+
+	“You know what I mean. She gets into bed exhausted, but her mind’s still going.”
+	From here on, all three versions become identical. Medium close-up of her in bed. Low, natural nighttime lighting. She gives a small sigh, shifts position, adjusts her pillow, looks at the ceiling. She should look tired, not dramatically distressed. The husband can remain softly out of focus in the background.
+	“Work.”
+	Very quick 0.4–0.5 second flash: laptop open late at night, work email, or calendar. Avoid visible brand logos.
+	“Tomorrow.”
+	Quick flash of tomorrow’s calendar, morning alarm, or next-day schedule.
+	“Something she forgot.”
+	Short visual of an everyday unfinished thought: an unanswered message, keys left on the counter, or some small forgotten task. It does not need to be fully explained.
+	“Something she still has to do.”
+	Unchecked item on a list, open notebook, or unfinished household task. These inserts should feel like mental flashes, not a long montage.
+	“You can’t turn all of that off for her.”
+	Smash back to the same close-up of her in bed. No overlays or inserts now. Just the still, quiet room and her still awake. Hold this shot slightly longer so the line lands.
+	“But you can change what the room feels like when she gets into bed.”
+	Visual hinge of the ad. The environment begins to change subtly: curtain starts moving gently, a strand of hair shifts, the edge of the sheet lifts slightly. The room starts to feel like it has air moving through it. Avoid anything magical or exaggerated. The camera can slowly widen to prepare for the Spin360 reveal.
+	“And that’s exactly what Spin360 was built to do.”
+	Reveal the Spin360 and transition into the next sensory/product section of the ad.
+	
+
+
+
+Spin360_Husband_Wife_Bedroom_Calm_RESEARCH_1.pdf
+Spin360 — Husband / Wife Relaxation Master Doc
+Summary
+Mass Desire: “I want the woman I love to feel relaxed and good at the end of the day.”
+Situation: She carries the day into the bedroom.
+Angle: Her day doesn’t always end when she gets into bed.
+Desired State: She finally unwinds.
+Mechanism: Natural-feeling 360° airflow that changes how the whole room feels.
+Identity Payoff: I created that comfort for her.
+Relationship Payoff: We get the quiet part of the night back.
+________________
+
+
+1. Desire
+Surface Desire: I want the woman I love to feel relaxed, comfortable, and good at the end of the day.
+Why Train:
+ She feels more comfortable → she lets the day go → she becomes more relaxed and present → the end of the night feels better for both of us → they have more peaceful, affectionate time together.
+Core Desire: Comfort
+Secondary Desire: Belonging / Connection
+Hidden Downstream Desire: Closeness, affection, intimacy.
+The dominant desire should remain her feeling relaxed and good. Closeness and intimacy are consequences, not competing promises. This follows Schwartz’s principle of choosing one dominant desire and channeling it through the product’s performance.
+________________
+
+
+2. Avatar
+Husbands and long-term male partners who notice when the woman they love has difficulty transitioning from the demands of the day into real relaxation at night.
+Experiences: She may come to bed still thinking about work, responsibilities, tomorrow, family, her phone, or simply carrying the momentum of the day.
+What he notices: She is physically in bed before she is fully settled. It takes time before she feels calm, comfortable, and present.
+What matters to him: He likes seeing her relaxed and wants the end of the night to feel good for both of them.
+Identity: He values being the man who notices what makes her feel better and quietly creates that comfort for her.
+Not required: He does not need to already use a fan, like fans, understand airflow, or be actively searching for a sleep product.
+________________
+
+
+3. Angle
+Her day doesn’t always end when she gets into bed.
+The tension is the gap between:
+Being in bed → actually feeling like the day is over.
+Core Expression:
+“You can’t switch her mind off for her. But you can change what the room feels like.”
+The angle is the transition from day into relaxation, not insomnia, ADHD, fan ownership, or racing thoughts as a medical problem.
+________________
+
+
+4. Mechanism
+Natural-feeling 360° airflow that changes the sensory experience of the whole room.
+Spin360 pulls air from above and below and pushes it naturally outward around the room, instead of mechanically blasting air directly at one person. 
+Mechanical Mechanism
+Dual-direction intake → unique blade geometry → 360° distributed airflow → soft, surrounding breeze.
+Sensory Performance
+The winning scripts consistently translate that engineering into the feeling of:
+“that soft breeze across your skin”
+ “it feels like the walls were removed”
+ “your bed is just outside”
+ “the whole room breathes”
+ “wind through trees”
+They also repeatedly connect the experience to:
+falling asleep before you notice it → waking up actually rested.
+Sound
+At lower settings, the winners position Spin360 as extremely quiet. At higher settings, they describe a steady natural “shhh”, more like wind through trees than conventional fan noise.
+Supporting Sensory Layer
+The scent pod can add another environmental layer and is described in winning ads as making the bedroom feel closer to a spa or natural environment. It is secondary to the breeze.
+Mechanism Chain
+360° airflow → soft surrounding breeze + natural sound → room feels more open, natural and calm → easier transition into relaxation.
+The fan is the mechanism.
+Changing how the room feels is the payoff of the mechanism.
+________________
+
+
+5. Authority
+Primary Authority: David Patrick, inventor behind Spin360 and the Shark Wheel, whose story gives credibility to the unusual blade geometry and airflow system.
+The existing winners use his Shark Tank / Shark Wheel background specifically to make the unconventional design more believable.
+Secondary Authority: Real Spin360 customers describing the breeze, bedroom experience, relaxation, and sleep in their own words.
+Authority should answer:
+“Why should I believe this fan actually feels different?”
+It should not replace the desire as the opening of the ad.
+________________
+
+
+6. Awareness Level
+Unaware → Problem Aware
+He does not start with:
+“I need a better fan.”
+He starts by recognizing:
+“She gets into bed, but she’s still carrying the day with her.”
+The ad then introduces the reframe:
+Instead of giving her one more thing to do to relax, change the environment she steps into.
+Only then do we reveal Spin360 as the mechanism.
+The product enters after recognition of the situation, which is consistent with Schwartz’s awareness principle.
+________________
+
+
+7. Emotion — Valence + Intensity
+Opening: Negative Valence / Low Intensity
+Primary emotions:
+Recognition / concern / mild frustration / tenderness
+The prospect should think:
+“Yeah. I know exactly what that looks like.”
+Transition: Positive Valence / Low-to-Medium Intensity
+Primary emotions:
+Relief / calm / warmth / comfort / affection
+The ad should feel:
+intimate, peaceful, observational, premium
+Not:
+fearful, clinical, aggressive, sexual, or relationship-crisis driven.
+________________
+
+
+8. Differentiation / Positioning
+Primary Enemy: A bedroom that still feels like an extension of the day.
+Secondary Enemy: Relaxation solutions that ask her to do one more thing:
+another app, routine, ritual, supplement, or task.
+Product-Level Enemy: Traditional fans that create a direct, mechanical stream of air instead of changing the feeling of the entire room.
+Positioning
+Spin360 is not introduced as a better fan. It is introduced as a way to transform how the bedroom feels.
+Its 360° airflow creates a soft, natural-feeling breeze around the room — the same perfect breeze / open window / outdoors experience repeatedly used in winning Spin360 advertising.
+Positioning Statement
+Spin360 transforms the bedroom into the place where the day finally ends — using a soft, natural-feeling 360° breeze to create an environment where she can unwind and the two of you can enjoy a calmer end to the night.
+________________

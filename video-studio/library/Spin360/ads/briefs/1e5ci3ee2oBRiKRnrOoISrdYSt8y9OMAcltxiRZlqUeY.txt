@@ -1,0 +1,282 @@
+﻿Chad Scale
+Brand: Spin360
+Ad ID: Spin360_BabyCage_Talking_head_VSL
+Author: Gabriel
+Editor: Chose
+
+
+AD BRIEF
+	
+
+[1] Overview
+* Ad ID: Spin360_BabyCage_VSL
+* Ad Type: Ideation
+* Type of Ad: VSL
+* Sizes Needed: 9x16
+* Creative Roadmap Link
+* Assets: 
+   * Spin360 Kickstart Footage 
+   * Prototype Imagery 
+   * Creative Assets Library 
+   * Stock Footage 
+   * Master Documents (for AI Ingestion) 
+   * Visual Assets (Chris)
+   * Spin360 Video
+
+
+
+
+
+
+________________
+ 
+[2] Strategy
+Who is this for: 
+Primary: Women 45–65, wellness/sleep-conscious, values sensory experience at home, buys premium, not looking for a fan.
+
+
+Main Selling Points: Natural breeze, 360 degree airflow, Quiet , scent pods 
+Market Awareness: Problem Aware 
+Desires: Comfort  
+Angle:n
+ 
+________________
+
+
+[3] Creative Direction
+Watch that first: Spin360_BabyCage_Talking_head_VSL (1)
+
+
+
+
+Watch main video that we are trying to make similar: https://youtu.be/4dgzJQsAXfI
+
+
+Use this women: hf_20260523_183632_7a452c4e-9e0c-4e54-b054-061ec22118f2.png
+Animate with seedance 2.0 the woman, do not use kling 3.0
+
+
+
+
+Use this style :
+
+
+https://www.instagram.com/reels/DJnX5pNJ9C1/
+
+
+https://www.apartmenttherapy.com/this-is-real-em-the-baby-cage-em-220848
+
+
+Storyboard__Baby_cages_tenement_202605221225.mp4
+
+
+https://youtu.be/NerS17sC0Bg
+
+
+Use Suno for  music
+________________
+
+
+[4]Hooks
+
+
+HOOKS
+	HOOK
+	Script
+	Visual
+	Description
+	1
+	I want to show you one of the most disturbing images I've ever come across. 
+	  
+
+
+
+	
+
+	2
+	I want to show you one of the most disturbing images I've ever come across. 
+	  
+
+
+
+	
+
+	3
+	I want to show you one of the most disturbing images I've ever come across. 
+	  
+
+	
+
+	4
+	I want to show you one of the most disturbing images I've ever come across. 
+	
+
+  
+
+	
+
+	5
+	I want to show you one of the most disturbing images I've ever come across. 
+	  
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+[4] Script
+
+
+That's a wire cage. Bolted to the outside of an apartment window, stories above the street. And that — inside it — is a baby.
+A hundred years ago, mothers did this on purpose. And it wasn't some lone lunatic — there's an actual patent for it, filed in 1922.
+Doctors back then were convinced the stuffy air of a sealed-up apartment was making children sick, and they told parents to get the baby out into the open air — even when "outside" meant a cage hanging over the traffic. Even Eleanor Roosevelt did it — until a neighbor threatened to turn her in.
+Now — the method was insane. Nobody's saying hang a baby off a building. And they had the reason half wrong; it was never magic in the outdoor air. But here's where they were onto something real: seal a room shut, and the air stops moving. It goes dead still. And still air is the thing your body quietly reacts to, all night long.
+And this is the part that should stop you — you do the exact same thing every single night. Windows shut, the air gone completely still. You've just gotten used to it. But your body never did — it's still waiting on the one thing those mothers actually got right: air that moves.
+So one engineer in California spent four years on exactly that — and what he came up with is honestly hard to explain until you feel it. It pulls air in from two directions at the same time and sends it out everywhere at once, like Saturn's rings. And because of how the blade is shaped, the air that comes out doesn't feel mechanical at all — it feels like a breeze. A real one. The kind you feel outside on a perfect night that just kind of wraps around you from every direction.
+And the first time you turn it on — okay this is the part that gets people — it feels like the walls of your bedroom just aren't there anymore. Like you're lying outside somewhere and this perfect air is just moving around you and you don't even realize you're falling asleep until you wake up the next morning and you're like wait, I actually feel good. It honestly kind of changes what you expect from your room after that.
+And it's silent — like below speed five you literally won't be able to hear it. Above five it makes this sound that's like wind through trees, that natural shhhh that just makes everything in your brain go quiet. Then you drop a scent pod in and ten seconds later your whole room smells like a forest — pine, cedar, eucalyptus. Citronella in summer and bugs just disappear. That part honestly might be my favorite.
+It was made by the guy who invented the Shark Wheel — literally reinvented the wheel, went on Shark Tank, got a deal with Mark Cuban and Nick Woodman. First thousand people get a hundred dollars off, and honestly once you feel it it kind of speaks for itself. Go check it out.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+________________
+
+
+
+
+[5] Shotlist / Storyboard
+
+
+
+
+	
+
+	Script
+	Visual
+	Description
+	1
+	I want to show you one of the most disturbing photographs I've ever come across. 
+	One of the 5 hooks here
+
+
+	
+
+	2
+	That's a wire cage. Bolted to the outside of an apartment window, stories above the street. And that — inside it — is a baby. 
+	
+
+  
+
+	
+
+	3
+	A hundred years ago, mothers did this on purpose. And it wasn't some lone lunatic 
+	  
+
+	you can use this video https://www.instagram.com/reels/DJnX5pNJ9C1/
+	4
+	there's an actual patent for it, filed in 1922. 
+	
+
+  
+
+	Use this style of image
+	5
+	Doctors back then were convinced the stuffy air of a sealed-up apartment was making children sick, and they told parents to get the baby out into the open air 
+	  
+
+	
+
+	6
+	even when "outside" meant a cage hanging over the traffic. 
+	  
+
+	Show baby here inside
+	7
+	Even Eleanor Roosevelt did it — until a neighbor threatened to turn her in.
+	  
+  
+
+	ChatGPT Image May 23, 2026, 04_30_00 PM (1).pngChatGPT Image May 23, 2026, 04_33_52 PM.png
+	8
+	Now — the method was insane. Nobody's saying hang a baby off a building. And they had the reason half wrong; it was never magic in the outdoor air. 
+	  
+
+	
+
+	9
+	And here's the part that should stop you — because you sleep in that exact room every night. On purpose. Something almost no one in history did, until about a lifetime ago. Your body never agreed to it either
+	  
+  
+
+  
+
+	
+
+	
+
+[7] Editing Rules
+* Each visual clip MUST complement the audio. Never disconnect visual from what's being said.
+* Add captions for entire video
+* Editor must add sound design
+* Nature B-roll should feel peaceful and aspirational, not stock-footage generic
+
+
+ 
+________________
+
+
+[8] Deliverables
+• Versions: 5 total (one per hook)
+• Aspect Ratios: 9:16 (Stories/Reels),
+• Upload Location: Creative Roadmap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Primary Text
+A hundred years ago, parents put babies in window cages because doctors believed fresh moving air mattered.
+The method was insane. But the instinct behind it wasn’t completely wrong.
+A sealed bedroom can go still overnight. The air stops moving, the room starts to feel stale, and your body quietly notices.
+Spin360 was designed to bring that outdoor-breeze feeling back inside — soft 360° airflow that wraps around the room.
+Headline
+Baby Cage - What Mothers Knew.

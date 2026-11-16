@@ -1,0 +1,186 @@
+﻿Spin360_Baby_SIDSBiggestFear
+Desire: "I want to bring my baby home and know they're safe every night."
+
+
+Avatar: Expecting moms (no baby yet) getting the nursery ready. The baby scenes show what WILL happen once the baby arrives.
+
+
+Awareness: Problem-aware of SIDS (every parent's biggest fear), unaware that CO₂ builds up around a baby's face in still air.
+
+
+Angle: SIDS takes healthy babies → the invisible cloud of CO₂ in a closed nursery → the Kaiser Permanente study (fan in the room, 72% lower risk) → why a window or a regular fan can't fix it → Spin360 → what fresh air does for a newborn (lungs, deep sleep, a happy baby).
+
+
+Mechanism: Spin360 pulls air in from the top and the bottom and sends it out 360°, so the air in the whole room keeps moving all night. A soft, silent breeze, never wind in the face.
+
+
+Proof: Coleman-Phox, Odouli & Li, Kaiser Permanente, Archives of Pediatrics & Adolescent Medicine, 2008: fan use linked to a 72% lower SIDS risk (185 SIDS cases vs. 312 controls). SIDS is the leading cause of death for babies 1 month to 1 year (NICHD).
+Script (VO)
+Hook:
+ SIDS is the number one killer of babies between one month and one year old.
+
+
+ And it doesn't take sick babies. It takes healthy, perfect babies who went to bed totally fine, and their mom walks in the next morning to a nightmare.
+And here's what nobody tells you. Every breath your baby lets out is carbon dioxide. And the second you close that nursery door, the air goes still, so it builds up in an invisible cloud right over their little face, and they breathe it back in, over and over, all night long, while you're asleep down the hall. And they can't cry for help.
+When researchers at Kaiser Permanente studied almost five hundred babies, the ones who slept with a fan in the room had a seventy-two percent lower risk of dying from SIDS. Because when the air in the room keeps moving, that carbon dioxide can't sit on your baby's face. It gets carried away, and they breathe fresh air instead.
+Generations of moms kept a window cracked in the baby's room.
+But you can't leave a window open all night with a newborn. And a regular fan only blows one way, while the rest of the room stays dead.
+That's why we built Spin360.
+It's a nursery air circulator that pulls air in from the top and the bottom and sends it out all the way around, 360 degrees, so the air in your baby's entire room keeps moving, all night long. Like a window open on a perfect spring night, without the cold or the noise.
+So that cloud of carbon dioxide never sits on your baby's face. Every breath they take is fresh air.
+And for a newborn, that's everything. Their lungs are brand new and still growing, and they sleep up to seventeen hours a day, breathing in whatever air is around them.
+So when that room is full of fresh, moving air instead of stale air, their little body gets exactly what it needs to grow strong and healthy.
+And a healthy baby is a baby who sleeps. They breathe easier, and they sink into that deep, peaceful sleep, the kind where they don't stir when you open the door to check on them. The number one thing parents tell us? Their babies went from waking up every two hours to sleeping five hours straight.
+And there's no harsh wind blowing in their face. Just a soft, silent breeze through the whole room.
+So they wake up calm. Rested. Smiling at you from the crib instead of screaming.
+And it's built to last over ten years, so it goes from the nursery to the toddler room to the big-kid room.
+You're about to spend hundreds on a crib and a monitor to keep your baby safe. This is the one thing in that room protecting every breath they take.
+Don't bring your baby home to dead air. Not even for one night. Tap below and get Spin360 now.
+Production notes
+Format: Female VO, ~2:45, vertical 9:16. Three hooks with the SAME VO; only the opening visual changes. The body is the same for all three.
+Style: Cinematic Pixar-style 3D animation with realistic, moody lighting: warm golden interiors for the safe moments, cold moonlit blue for the problem scenes. Darker and more intense than the pastel version, but never graphic.
+Visual language: CO₂ = a smoky grey-violet mist that sits still and pools around the baby's face. Fresh air = translucent white-blue ribbons of breeze.
+Fixed rules: The baby is always on its back in a bare crib. Spin360 is always the big white floor model. No text inside the images; all text is added in the edit.
+Hooks
+Same VO for all three hooks. Only the opening visual changes.
+#
+	Script
+	Visual Inspiration
+	Scene Description
+	Hook 1
+	SIDS is the number one killer of babies between one month and one year old. And it doesn't take sick babies. It takes healthy, perfect babies who went to bed totally fine, and their mom walks in the next morning to a nightmare.
+	  
+
+  
+
+  
+
+	Early morning, cold grey light: mom stands frozen at the nursery door, hand on the frame, looking toward the crib. The dread of the morning walk-in. text: EVERY PARENT'S BIGGEST  FEAR.
+	Hook 2
+	SIDS is the number one killer of babies between one month and one year old. And it doesn't take sick babies. It takes healthy, perfect babies who went to bed totally fine, and their mom walks in the next morning to a nightmare.
+	  
+
+  
+
+  
+
+	The night before: mom smiles as she lays her healthy baby down in the crib under a warm lamp, a faint wisp of mist already in the air. 'Went to bed totally fine.'
+	Hook 3
+	SIDS is the number one killer of babies between one month and one year old. And it doesn't take sick babies. It takes healthy, perfect babies who went to bed totally fine, and their mom walks in the next morning to a nightmare.
+	  
+
+  
+
+  
+
+	A dark, moonlit nursery: a cold beam through the window and a low fog rolling across the floor around the crib. The danger is already in the room.
+	Body (same for all hooks)
+#
+	Script
+	Visual Inspiration
+	Scene Description
+	1
+	And here's what nobody tells you. Every breath your baby lets out is carbon dioxide.
+	  
+
+	Extreme close-up of the baby asleep on its back at night: with every exhale, a small puff of smoky grey-violet mist (carbon dioxide) leaves the nose and floats above the face. Optional on-screen text: CO₂.
+	2
+	And the second you close that nursery door, the air goes still,
+	  
+
+	Mom's hand pulls the nursery door closed. The strip of hallway light shrinks over the floor and the dark room goes completely still, the crib by the window.
+	3
+	so it builds up in an invisible cloud right over their little face, and they breathe it back in, over and over, all night long,
+	  
+
+	From above the crib under a full moon: a thick grey-violet cloud sits right over the baby's face and wisps of it get pulled back into the nose with every breath. Brow furrowed, restless sleep. Animate the mist looping back in.
+	4
+	while you're asleep down the hall. And they can't cry for help.
+	  
+
+	Split frame: on top, mom fast asleep in her bed, the monitor glowing calm green on the nightstand; below, the baby alone in the crib, the dark room filling with smoky mist. The distance between them is the emotion.
+	5
+	When researchers at Kaiser Permanente studied almost five hundred babies, the ones who slept with a fan in the room had a seventy-two percent lower risk of dying from SIDS.
+	  
+
+	Two researchers at a desk buried in folders, one holding up a chart, both amazed. On-screen text: 72% LOWER SIDS RISK, small source: Kaiser Permanente, 2008.
+	6
+	Because when the air in the room keeps moving, that carbon dioxide can't sit on your baby's face. It gets carried away, and they breathe fresh air instead.
+	  
+
+	Translucent white-blue ribbons of air sweep across the crib and carry the grey mist away from the baby's face; the face clears and Srelaxes.
+	7
+	Generations of moms kept a window cracked in the baby's room.
+	  
+
+	Warm vintage flashback: a mom in a 1950s dress pushes an old sash window open in a vintage nursery, the lace curtain lifting in the breeze.
+	8
+	But you can't leave a window open all night with a newborn.
+	  
+
+	Back to today, a stormy night: wind and rain blow the curtain into the room, and mom rushes to shut the window, wincing, the crib right next to it. Light Pixar humor.
+	9
+	 
+	  
+
+	Top-down view of the nursery: a regular fan shoots one narrow stream across the room while the corner with the crib stays still and dark. Optional: red ❌.
+	10
+	That's why we built Spin360.
+	  
+
+	Product reveal: the white floor Spin360 standing alone in the nursery in soft morning light, next to the crib. Show the whole product. Optional push-in.
+	11
+	It's a nursery air circulator that pulls air in from the top and the bottom and sends it out all the way around, 360 degrees, so the air in your baby's entire room keeps moving, all night long.
+	  
+
+	The key product shot: close on the Spin360 head, air drawn in at the top and bottom and blown out in glowing ribbons all the way around, 360°. Animate the ring spreading through the room.
+	12
+	Like a window open on a perfect spring night, without the cold or the noise.
+	  
+
+	Magical spring night: the window is closed, a cherry tree blooms under the full moon outside, and inside the Spin360's soft breeze sways the curtains while the baby sleeps.
+	13
+	So that cloud of carbon dioxide never sits on your baby's face. Every breath they take is fresh air.
+	  
+
+	Close on the baby asleep with a little smile while soft white-blue ribbons of fresh air flow gently past. Calm, fresh, no mist.
+	14
+	And for a newborn, that's everything. Their lungs are brand new and still growing, and they sleep up to seventeen hours a day, breathing in whatever air is around them.
+	  
+
+	Gentle explainer: a soft glowing overlay shows the baby's tiny lungs filling with fresh air while it sleeps. Wonder, not clinical. Optional text: UP TO 17 HOURS OF SLEEP A DAY.
+	15
+	So when that room is full of fresh, moving air instead of stale air, their little body gets exactly what it needs to grow strong and healthy.
+	  
+
+	Sunny morning: the baby lies awake in the crib, rosy and strong, kicking happily, Spin360 in the corner by the window.
+	16
+	And a healthy baby is a baby who sleeps. They breathe easier, and they sink into that deep, peaceful sleep, the kind where they don't stir when you open the door to check on them. The number one thing parents tell us? Their babies went from waking up every two hours to sleeping five hours straight.
+	  
+
+	Night: mom peeks around the door with a relieved smile; the baby is in a deep sleep, arms up, not stirring, Spin360 nearby. On-screen text: 2 HOURS → 5 HOURS.
+	17
+	And there's no harsh wind blowing in their face. Just a soft, silent breeze through the whole room.
+	  
+
+	Low close shot on the sleeping baby: the sheer curtain sways softly in the breeze, Spin360 out of focus in the background.
+	18
+	So they wake up calm. Rested. Smiling at you from the crib instead of screaming.
+	  
+
+	Morning, from mom's point of view over the crib rail: the baby wakes up with a huge gummy smile, little hands reaching up.
+	19
+	And it's built to last over ten years, so it goes from the nursery to the toddler room to the big-kid room.
+	  
+
+	The same Spin360, years later, in a big-kid bedroom: a boy reads on his bed in warm afternoon light. Can be the last beat of a quick montage (nursery → toddler → big kid). Text: 10+ YEARS.
+	20
+	You're about to spend hundreds on a crib and a monitor to keep your baby safe. This is the one thing in that room protecting every breath they take.
+	  
+
+	The pregnant mom in the finished nursery, standing by the crib with her hand on the Spin360, the monitor on the wall. Calm and confident.
+	21
+	Don't bring your baby home to dead air. Not even for one night. Tap below and get Spin360 now.
+	  
+
+	Homecoming at golden hour: mom and dad walk into the finished nursery carrying the newborn in the car seat, Spin360 running in the corner. CTA text: GET SPIN360 BEFORE BABY COMES HOME. Hold at least 2 seconds.

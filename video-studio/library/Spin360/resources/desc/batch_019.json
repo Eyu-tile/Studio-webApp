@@ -1,0 +1,323 @@
+{
+ "batch": "batch_019",
+ "out": "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/desc/batch_019.out.json",
+ "clips": [
+  {
+   "id": "667aff4e-f958-42dc-b959-ecc26b700fb7",
+   "filename": "13.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 24.29,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/667aff4e-f958-42dc-b959-ecc26b700fb7_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/667aff4e-f958-42dc-b959-ecc26b700fb7_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/667aff4e-f958-42dc-b959-ecc26b700fb7_3.jpg"
+   ],
+   "bya_description": "A couple relaxes in a sunlit living room while a tabletop device emits animated airflow rings.",
+   "bya_tags": [
+    "Airflow graphics",
+    "Living room",
+    "Product hero shot",
+    "Airflow graphics",
+    "Living room",
+    "Relaxing at home",
+    "Visible airflow test"
+   ]
+  },
+  {
+   "id": "9c94ad67-bb9f-4eb6-9052-7ec06b71952a",
+   "filename": "Air Mix Loop.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 24.27,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9c94ad67-bb9f-4eb6-9052-7ec06b71952a_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9c94ad67-bb9f-4eb6-9052-7ec06b71952a_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/9c94ad67-bb9f-4eb6-9052-7ec06b71952a_3.jpg"
+   ],
+   "bya_description": "High-angle wide shot of a couple relaxing in a bright living room. A fan on the coffee table emits pulsing pink circular airflow graphics.",
+   "bya_tags": [
+    "Airflow graphics",
+    "Living room",
+    "Product hero shot",
+    "Airflow graphics",
+    "Living room",
+    "Relaxing at home"
+   ]
+  },
+  {
+   "id": "4c3337ff-2e91-40fd-9e7d-dca6645d1575",
+   "filename": "IMG_3793.mov",
+   "folder": "(unfiled)",
+   "duration_s": 28.14,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4c3337ff-2e91-40fd-9e7d-dca6645d1575_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4c3337ff-2e91-40fd-9e7d-dca6645d1575_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/4c3337ff-2e91-40fd-9e7d-dca6645d1575_3.jpg"
+   ],
+   "bya_description": "A black slatted fan spins in a sunroom while a senior man sits at a table in the background and speaks.",
+   "bya_tags": [
+    "Patio & backyard",
+    "Product hero shot",
+    "Relaxing at home",
+    "Fan spinning close-up",
+    "Patio & backyard",
+    "Relaxing at home"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "Yeah, it's really nice.",
+     "labels": [
+      "Relaxing at home",
+      "Patio & backyard",
+      "Product hero shot",
+      "Fan spinning close-up"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1192ba91-5047-4d74-a147-f1f8ff0f8cad",
+   "filename": "IMG_3803.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 25.87,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1192ba91-5047-4d74-a147-f1f8ff0f8cad_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1192ba91-5047-4d74-a147-f1f8ff0f8cad_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/1192ba91-5047-4d74-a147-f1f8ff0f8cad_3.jpg"
+   ],
+   "bya_description": "A hand uses a remote to turn on a tall black fan in a sunroom.",
+   "bya_tags": [
+    "Fan controls",
+    "Patio & backyard",
+    "Product hero shot",
+    "Fan controls",
+    "Patio & backyard",
+    "Turning fan on"
+   ]
+  },
+  {
+   "id": "475faa0b-2fc2-4425-a761-b8fa47b3e837",
+   "filename": "IMG_3809.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 23.53,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/475faa0b-2fc2-4425-a761-b8fa47b3e837_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/475faa0b-2fc2-4425-a761-b8fa47b3e837_2.jpg"
+   ],
+   "bya_description": "A hand snaps a clear plastic shield onto the side of a black cylindrical fan.",
+   "bya_tags": [
+    "Moving the fan",
+    "Product hero shot",
+    "Moving the fan"
+   ],
+   "transcript": [
+    {
+     "start": 7.8,
+     "text": "So before it starts pouring rain, take a picture of you two, uh, just with the sailboats in the background.",
+     "labels": [
+      "Moving the fan",
+      "Product hero shot"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aa3fb875-a43d-4a51-9526-98321ee26762",
+   "filename": "IMG_3875.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 23.69,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/aa3fb875-a43d-4a51-9526-98321ee26762_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/aa3fb875-a43d-4a51-9526-98321ee26762_2.jpg"
+   ],
+   "bya_description": "A hand slides open a screen door to reveal a black pedestal fan in a modern living room.",
+   "bya_tags": [
+    "Living room",
+    "Product hero shot",
+    "Nature montage",
+    "Living room",
+    "Nature montage",
+    "Patio & backyard"
+   ]
+  },
+  {
+   "id": "8a9f00f6-bac1-45d6-a9f0-656aea8724f7",
+   "filename": "IMG_3906.MOV",
+   "folder": "(unfiled)",
+   "duration_s": 25.07,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8a9f00f6-bac1-45d6-a9f0-656aea8724f7_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8a9f00f6-bac1-45d6-a9f0-656aea8724f7_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/8a9f00f6-bac1-45d6-a9f0-656aea8724f7_3.jpg"
+   ],
+   "bya_description": "A wide shot shows a bedroom with a large window overlooking a lake. A black pedestal fan stands on the wooden floor next to the bed.",
+   "bya_tags": [
+    "Product hero shot",
+    "Bedroom",
+    "Fan spinning close-up",
+    "Bedroom",
+    "Fan spinning close-up"
+   ]
+  },
+  {
+   "id": "833942a6-9f6e-4a57-92b5-8ce522c381f7",
+   "filename": "Purple_Prototype_Holding.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 25.58,
+   "talking": false,
+   "cuts": [],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/833942a6-9f6e-4a57-92b5-8ce522c381f7_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/833942a6-9f6e-4a57-92b5-8ce522c381f7_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/833942a6-9f6e-4a57-92b5-8ce522c381f7_3.jpg"
+   ],
+   "bya_description": "A hand rotates a purple 3D-printed fan part against a teal backdrop.",
+   "bya_tags": [
+    "Fan spinning close-up",
+    "Inventor at work",
+    "Mechanism explainer",
+    "Fan spinning close-up",
+    "Inventor at work"
+   ],
+   "transcript": [
+    {
+     "start": 7.7,
+     "text": "Yep, keep going, keep rotating it.",
+     "labels": [
+      "Inventor at work",
+      "Fan spinning close-up",
+      "Mechanism explainer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6db654dc-741b-44ec-804f-ff824f33eacd",
+   "filename": "Spin360_Nursery_UGC.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 29.82,
+   "talking": false,
+   "cuts": [
+    1.07,
+    5.3,
+    7.83,
+    14.67,
+    17.57,
+    20.57,
+    23.8,
+    26.93
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6db654dc-741b-44ec-804f-ff824f33eacd_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6db654dc-741b-44ec-804f-ff824f33eacd_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/6db654dc-741b-44ec-804f-ff824f33eacd_3.jpg"
+   ],
+   "bya_description": "Hand clicks remote to turn on a white pedestal fan in a nursery.",
+   "bya_tags": [
+    "Bedroom",
+    "Creator narration",
+    "Fan controls",
+    "Bedroom",
+    "Curtains & windows",
+    "Fan controls",
+    "Sleeping",
+    "Turning fan on"
+   ],
+   "transcript": [
+    {
+     "start": 0,
+     "text": "New moms, this is one thing I wish I added to the nursery sooner. My baby",
+     "labels": [
+      "Hook",
+      "Creator narration",
+      "Turning fan on",
+      "Fan controls"
+     ]
+    },
+    {
+     "start": 3.8,
+     "text": "used to wake up so easily, every little sound, every tiny change in the room. So",
+     "labels": [
+      "Creator narration",
+      "Sleeping",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 9.4,
+     "text": "we added this fan to the nursery, and honestly, it changed how comfortable the room feels.",
+     "labels": [
+      "Creator narration",
+      "Fan controls",
+      "Product hero shot",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 14.9,
+     "text": "The first thing I noticed was how soft and natural the airflow feels. It doesn't feel like a regular fan blowing air around. It feels more like a gentle breeze. And when",
+     "labels": [
+      "Creator narration",
+      "Curtains & windows",
+      "Sleeping",
+      "Bedroom"
+     ]
+    },
+    {
+     "start": 23.8,
+     "text": "I want a little background sound, I turn it up for soft white noise. It's become one of my favorite things in the nursery.",
+     "labels": [
+      "Creator narration",
+      "Quiet beat",
+      "Product hero shot",
+      "Bedroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7226d640-d9ac-4a48-adb0-fea87a5393da",
+   "filename": "two shots.mp4",
+   "folder": "(unfiled)",
+   "duration_s": 30.14,
+   "talking": false,
+   "cuts": [
+    3.73,
+    8.23,
+    11.23,
+    12.93,
+    21.63,
+    29.0
+   ],
+   "sheets": [
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7226d640-d9ac-4a48-adb0-fea87a5393da_1.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7226d640-d9ac-4a48-adb0-fea87a5393da_2.jpg",
+    "/home/user/video-studio-claude-plugin/video-studio/library/Spin360/resources/sheets/7226d640-d9ac-4a48-adb0-fea87a5393da_3.jpg"
+   ],
+   "bya_description": "Wide bedroom shot with a baby sleeping and a tower fan running.",
+   "bya_tags": [
+    "Sleeping",
+    "Bedroom",
+    "Product hero shot",
+    "Bedroom",
+    "Curtains & windows",
+    "Fan spinning close-up",
+    "Sleeping"
+   ]
+  }
+ ]
+}

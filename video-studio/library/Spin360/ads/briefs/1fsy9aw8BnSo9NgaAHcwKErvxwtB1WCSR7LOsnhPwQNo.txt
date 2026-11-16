@@ -1,0 +1,43 @@
+﻿Spin360_ReinventWheel_SleepThrough_V1
+New ad built from our winner. One version, about 33 seconds, 9:16. Our winner (Reinvent_Wheel_SplitScreen_David_V2_Hook_2.mp4) tells David's story and how the fan works, but it barely says what you get out of it. This ad starts with that: you sleep through the night without even noticing the fan, and you wake up actually rested. Then one simple explanation of why (it pulls the hot air from above and the cool air from below until the whole room is one temperature), and David comes in at the end as the proof.
+  
+
+How to edit
+Part
+	What happens
+	Voice
+	Narrator voiceover, ElevenLabs voice "Siren - Natural realistic conversational voice": https://elevenlabs.io/voices/eXpIbVcVbLo8ZJQDlDnl (voice ID eXpIbVcVbLo8ZJQDlDnl). Calm and natural, like a friend talking. Not a salesperson.
+	Opening
+	Someone sleeping deeply at night, not moving. You can reuse the night and sleep shots you made for Spin360_SleepWithoutNoticing.
+	"That's what this fan does"
+	Spin360 running in the bedroom.
+	"Here's how"
+	The airflow animation and the Hotter/Cooler heat map from the winner. This is the only technical part, keep it clear and slow enough to follow.
+	Sleep and morning
+	Back to the sleeper, then the morning: waking up rested, open and airy room on "someone took the walls away".
+	David
+	David footage from the winner (the drill shot, Shark Tank clip). He is not speaking here, so avoid shots where his lips clearly move.
+	Ending
+	Real customer comments from the winner on the "I hate fans" line, then an end card: Try it for 30 nights.
+	Voiceover script
+[Night. Someone sleeping deeply.]
+You know those nights you don't wake up once?
+You don't toss. You don't flip the pillow. You just sleep, and you wake up actually rested.
+[Spin360 in the bedroom.]
+That's what this fan does.
+[Airflow animation, heat map.]
+Here's how. Hot air sits up by the ceiling. Cool air sits down by the floor. This fan pulls both, the hot from above and the cool from below, and mixes them until the whole room is one temperature.
+So the room just feels right. All night.
+[Sleeper, then morning.]
+You sleep right through without even noticing it's on. And you wake up feeling like someone took the walls away.
+[David.]
+And the guy who built it? David Patrick. The man who reinvented the wheel. He calls it the best sleep of his life.
+[Customer comments.]
+People keep telling him the same thing: "I hate fans… but I love yours."
+[End card.]
+Try it for 30 nights.
+Notes
+* Same caption style as the winner. Calm music, low under the voice.
+* Keep it around 33 seconds. Please don't add on-screen claims that are not in the script.
+What's up to you
+* Which shots to use for each line, the pacing, and whether to reuse or make new sleep shots.

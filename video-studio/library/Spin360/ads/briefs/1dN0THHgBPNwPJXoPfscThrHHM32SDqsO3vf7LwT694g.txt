@@ -1,0 +1,375 @@
+﻿Spin360 — Moving Air, Hotel Scent — Editor Shot List 
+Watch that!:Brief - Spin360_Hotel_Scent_Moving_Air_VSL
+
+
+Watch that!Spin360_Ad__Editor_Brief.mp4
+
+
+Listen to that! (Really important)The_Spin360_Five_Star_Feeling.m4a
+
+
+Take a look on that workflow:
+How i am making voiceovers for VSL
+
+
+The feeling we're selling
+We're not selling a fan, and we're not selling a scent. We're selling that moment when you walk into a really nice hotel and just breathe — and then getting that same moment when you open your own front door. Every shot should make the viewer think: "I want to come home to that."
+This is inspiration, not rules. If you find a better shot that sells the same feeling, use it.
+The one visual idea that runs through the whole ad
+The bubble vs. the flow. Bubble = a warm, golden grade only in a small circle around the candle; the rest of the room is slightly cooler and still (sheer curtain, plant leaves, open book pages — dead still). Flow = the warm grade fills the whole frame and soft things move gently (sheer curtain, plant leaves, a flame leaning). Visible haze only in hotel light beams, and very subtle. Never visible haze or dust inside her home — it reads as smoke or dirt.
+The ad moves from bubble to flow. Hotel = flow. Her home before = bubble. Her home with Spin360 = the bubble breaks open and flows through the room, just like the hotel.
+Rules of thumb
+* Format: 9:16 vertical. Captions always on, big and simple.
+* Pace: slow and warm in the hotel and feeling parts. Tighter and quicker in the "it doesn't work at home" parts.
+* Look: warm, soft, premium. Luxury hotel film, not a tech demo. No cold blue gadget light.
+* Music: soft piano and strings. It thins out at "Here's what nobody tells you," lifts at "With this," and drops to almost nothing at "You take one breath..." before the last line.
+* Sound design: quiet lobby ambience in hotel shots. A soft air hush every time air moves. Dead-quiet room tone when her home air is still.
+* One main character: a woman who loves home fragrance — relaxed, stylish, real, 30s to 50s. Same woman in every AI shot so it feels like one story.
+* Airflow must look gentle. Never hair blasting, never things flying. It moves around her, not at her.
+* Scent placement: the scent pod goes ON TOP of Spin360. Anything else (diffuser) goes NEXT TO it, never on top. Never show a lit candle right next to the fan.
+* No real hotel names or logos anywhere. Hotels and hotel-scent products stay unbranded.
+* Text on screen: only a few key words, marked in the Note column. Don't clutter. Never place it over the caption area.
+* Product accuracy: AI-generated product shots are fine, but the unit must always look like the real Spin360 (same shape, same color, pod on top), and it must never be shown doing more than the real demo shows (no smoke filling a whole room, no strong wind).
+* Lived-in home: her home must feel real and personal, not like a catalog. Always show a few of her own things: a framed photo, an open book, her favorite mug, a throw on the couch. Keep the same details in every AI shot of her home.
+* Continuity: if any shot mixes real and AI footage, the hands, wardrobe and product must match across them.
+* No lit candle in the same frame as Spin360 — including the breath shot and the end card.
+* Real footage, not AI, for: Shark Wheel and the Shark Tank clip. Never AI-generate Shark Tank. David Patrick can be AI-generated, but he must look like the real David. For the smoke demo, real footage is strongly preferred because it is the proof. Never show or suggest Spin360 on Shark Tank — the Shark Tank deal was for Shark Wheel.
+Hook: 4 voiceover variations
+This test is different from a normal visual test: each hook has its own voiceover, and the body after it is exactly the same for all four. So we can test which opening line wins. Each hook gets its own visual idea below. The first frame has to be striking at 0.0 seconds: no logo, no slow fade-in. Every hook ends by handing off cleanly into the first body line.
+Variation A: The Reason (H1 – Reason/Fix)
+Line
+	Visual
+	Note
+	There's a reason your home never smells like a five-star hotel…
+	Extreme close-up: a match lights a candle wick in her living room. Pull back slowly: one small glow in a flat, still room.
+	First frame is the flame. Warm, intimate, instantly recognizable.
+	…no matter what candle you buy.
+	Quick pan across a shelf full of pretty candles and jars she's collected.
+	Shows she's already spent the money. Don't mock the candles. She loves them.
+	And once you see it, you'll know exactly how to fix it.
+	An incense stick next to the candle: its smoke rises in one thin, straight line and goes nowhere. Slow push-in.
+	This is the clue, and it plants the demo. A good candle barely smokes, so use incense for the smoke line. Hand off to the hotel on the next line.
+	Variation B: Same Scent (H2 – Never Ever)
+Line
+	Visual
+	Note
+	Your home will never, ever smell like a five-star hotel.
+	Top/bottom split from frame one: glowing hotel lobby on top, her living room below.
+	Works with sound off. Hard, confident opening.
+	Not even with the exact same scent they use.
+	The same unbranded scent bottle appears in both halves: on the lobby table and on her shelf.
+	The two bottles must look identical. That's the whole joke. Text on screen: Same scent.
+	Here's why.
+	Top: curtains lift gently. Bottom: nothing moves. Freeze for a beat.
+	The difference is motion, not the bottle. Cut straight into the body.
+	Variation C: Backwards (H3 – Backwards)
+Line
+	Visual
+	Note
+	Five-star hotels don't smell expensive because of better perfume.
+	Frame 1: macro of an elegant, unbranded room-scent bottle already sliding away across marble under a fingertip.
+	Pushing the bottle away says "not this" without words.
+	It's something about the air.
+	Sunbeam in a hotel lobby. Tiny particles and a soft haze drift slowly through it.
+	First glimpse of moving air. Make it beautiful. Keep it a mystery — don't show vents yet.
+	And your home is doing it completely backwards.
+	Hotel lobby: the curtain flows. Hard cut to her room in the same framing: everything still, warm glow only around the candle.
+	The hard cut lands on "backwards." Same framing makes the contrast instant.
+	Variation D: The Question (H4 – What Makes)
+Line
+	Visual
+	Note
+	What makes a five-star hotel smell like a five-star hotel?
+	Frame 1: already mid-lobby, slow push toward reception, warm light, doors closing behind.
+	Puts the viewer inside the hotel from frame one.
+	I'll give you a hint.
+	Camera finds a reed diffuser on the reception desk.
+	Set up the obvious answer.
+	It's not the perfume.
+	Focus racks past the diffuser to the soft light and haze moving through the lobby behind it.
+	The focus shift is the "not that" moment. Text on screen: Not the perfume.
+	Body: shot list, line by line
+The two moments that matter most are the smoke demo (Part 5) and the front-door breath (Part 7). Spend the most time and care there.
+Part 1: The hotel (slow, dreamy)
+Line
+	Visual
+	Note
+	Walk into a really nice hotel, even once, and that smell stays with you.
+	Our woman walks into a lobby, slows down, closes her eyes, and breathes in.
+	Sell the feeling on her face. Hold the shot. This is the breath we echo at the end.
+	Soft. Clean. Expensive.
+	Three slow close-ups: fresh white linen, polished stone, a vase of white flowers.
+	One word, one shot. Cut on each word.
+	And it's everywhere.
+	Wide shot of the lobby, soft haze floating in the light.
+	Establish the flow look. We bring this exact look home later.
+	The lobby. The hallway. Even the elevator.
+	Three quick cuts: lobby, long hallway, elevator doors opening. Haze and gentle movement in each.
+	Cut on each word. We mirror this in Part 5 with "By the couch. By the window."
+	Part 2: The try at home (quicker, flatter)
+Line
+	Visual
+	Note
+	So you take that scent home.
+	She unpacks an unbranded, hotel-style candle at home.
+	Light shifts: flatter, a bit cooler. Music thins.
+	Some hotels even sell it. The candle. The oil.
+	Candle on her coffee table. A bottle of scent oil next to it.
+	Keep it moving. One beat per object.
+	And it smells amazing... right next to it.
+	She leans over the candle, smells it, smiles.
+	Hold on the smile before the turn.
+	Walk across the room, and it's gone.
+	She walks to the far side of the room, sniffs the air, small shrug.
+	Relatable and a little funny. The shrug is the payoff.
+	Part 3: The secret (back to the hotel)
+Line
+	Visual
+	Note
+	Here's what nobody tells you.
+	Slow push-in on the hotel lobby. Everything else goes quiet.
+	Music thins. Lean-in moment.
+	The hotel isn't using a better scent. It's using moving air.
+	Curtains lift gently, haze moves through a light beam.
+	Text on screen: Moving air.
+	Lots of hotels put their scent right into the air vents.
+	Close-up of an elegant ceiling vent. A faint, soft mist flows out.
+	The "secret revealed" shot. Slight slow motion.
+	The scent goes wherever the air goes... and in a hotel, that air moves all day long.
+	The mist drifts down a hallway and past a lounge chair. Time-lapse of the lobby from morning to night, haze always moving.
+	Show that it never stops.
+	Part 4: Why it fails at home (still, flat)
+Line
+	Visual
+	Note
+	But in your home, most of the day, the air just sits still.
+	Her living room. Sheer curtain and plant leaves perfectly still in the sun. Nothing moves.
+	Mood drop. Dead-quiet room tone.
+	Your candle can burn for hours, and the scent stays in one little bubble around it.
+	Candle on the table in a small circle of warm golden light; the rest of the room cooler and still. An incense stick on her shelf: its smoke rises in one thin straight line and hangs there.
+	THE bubble shot. Easy to read on a phone. The incense plants the demo: in Part 5 the same smoke gets pulled into rings.
+	It's not your candle. It's not you. It's the air.
+	She looks at the candle, then around the still room. Soft, relieved look.
+	Take the blame off her. Text on screen: It's the air.
+	So how do you get the air in your home moving like that?
+	Quick flash of the flowing hotel lobby, then back to her still room.
+	Echo of the hotel look. Leave the question hanging for a beat.
+	Part 5: The answer and the proof
+Line
+	Visual
+	Note
+	With this. It's called Spin360.
+	Hero shot: Spin360 in her styled living room. Slow orbit around it.
+	First look at the product. Premium light, clean room. Music lifts. Text on screen: Spin360.
+	Its scent pod sits right on top, right in the moving air.
+	Close-up: her hand places the pod on the honeycomb grid on top.
+	Satisfying, tactile. On top only.
+	Or set it next to the diffuser you already love.
+	She sets her own diffuser next to Spin360, beside it on the table.
+	Next to, never on top.
+	You walk in, and the scent is already everywhere.
+	She walks in the front door. The warm grade fills the whole room; the curtain moves softly. Spin360 in the background.
+	Key desire moment: her home has the hotel look.
+	By the couch. By the window. Just like that hotel.
+	Three quick cuts: couch with a throw moving softly, window with the curtain moving, then the hotel lobby.
+	Mirror of "The lobby. The hallway. Even the elevator." Cut on each word.
+	Here's why. A regular fan shoots one hard stream of air at you.
+	Side shot: a regular fan pushing one straight stream, a sheet of paper flapping in its path.
+	Quick and plain. The "before" of the demo.
+	Spin360 gently pulls air in from above and below, mixes it with the air in the room, and sends it out all the way around. Like the rings of Saturn.
+	Three angles: wide — incense smoke drawn toward the unit; close on the top and bottom intake on "above and below"; wide — smoke rings going out on "all the way around… Saturn."
+	THE demo shot. Real footage beats AI. Slow, clear, easy to follow. Give it room to breathe.
+	So the scent moves with it. Everywhere.
+	Demo wide: smoke rings leave the unit. Cut to a wide of her room where the curtain and a plant move softly. No smoke filling the room.
+	Payoff of the demo. The bubble from Part 4 is gone.
+	Part 6: The feeling
+Line
+	Visual
+	Note
+	And you can feel the air too. A soft, natural breeze. The whole room feels different.
+	Sheer curtain and plant leaves sway softly; she settles into the couch. Her hair doesn't move.
+	Gentle, all around her. Never a fan blast.
+	It's the kind of room where people walk in and go, "Wait... why does it smell like a hotel in here?"
+	A friend walks in, stops mid-step, inhales, eyebrows up, looks around. Then the two share a look and laugh, and the friend drops onto the couch next to her. No lip movement; the caption carries the line.
+	Not just a reaction: a warm, shared moment between friends. This is where the viewer feels something.
+	You don't need a better scent. You need air that moves.
+	Spin360 by itself in the calm room, pod on top, the curtain behind it moving softly.
+	The line that sums up the ad. Text on screen: Air that moves.
+	Part 7: Authority and close (the emotional peak)
+Line
+	Visual
+	Note
+	Spin360 comes from David Patrick. He spent years trying to make the air at home feel just right.
+	David Patrick with Spin360 (real or AI; he must look like the real David).
+	Keep it short: credibility, not a story.
+	You might know him as the guy who literally reinvented the wheel... and got a deal on Shark Tank with three Sharks.
+	Real Shark Wheel footage, then the real Shark Tank clip.
+	Real footage only. Never AI. Shark Wheel only. The Shark Tank clip must show Shark Wheel on screen. Never cut straight from the clip to Spin360.
+	But the best part? You come home tired.
+	Evening. She reaches her front door, bag on her shoulder. She stops for a second with the keys in her hand, eyes closed, and lets out a long breath.
+	Make the tiredness real. The release at the door only lands if we feel the long day first. Music drops almost to silence.
+	You open the door.
+	Her hand opens the front door.
+	Slow. Let the door swing.
+	You take one breath... and your shoulders drop.
+	She steps in, closes her eyes, breathes in, shoulders relax. Warm grade fills the room, curtain moving softly, Spin360 in the background. No lit candle in frame.
+	THE most important shot. Same breath as Part 1 in the hotel. Hold it the longest.
+	It feels like checking in. Except this time, you're home.
+	Quick match cut: hotel room door opening, then back to her own living room.
+	Callback to the hotel. Music peaks here.
+	Tap below and bring that five-star-hotel feeling home.
+	End card: Spin360 with the pod on top, warm home light, logo.
+	Clean and simple.
+	
+
+
+
+Spin360_Hotel_Scent_Moving_Air_VSL
+
+
+Hooks:
+There's a reason your home never smells like a five-star hotel… no matter what candle you buy. And once you see it, you'll know exactly how to fix it. 
+Your home will never, ever smell like a five-star hotel. Not even with the exact same scent they use. Here's why.
+Five-star hotels don't smell expensive because of better perfume. It's something about the air. And your home is doing it completely backwards.
+What makes a five-star hotel smell like a five-star hotel? I'll give you a hint. It's not the perfume.
+Body
+Walk into a really nice hotel, even once, and that smell stays with you. Soft. Clean. Expensive. And it's everywhere. The lobby. The hallway. Even the elevator.
+So you take that scent home. Some hotels even sell it. The candle. The oil. And it smells amazing... right next to it. Walk across the room, and it's gone.
+Here's what nobody tells you. The hotel isn't using a better scent. It's using moving air. Lots of hotels put their scent right into the air vents. The scent goes wherever the air goes... and in a hotel, that air moves all day long.
+But in your home, most of the day, the air just sits still. Your candle can burn for hours, and the scent stays in one little bubble around it. It's not your candle. It's not you. It's the air.
+So how do you get the air in your home moving like that?
+With this. It's called Spin360. Its scent pod sits right on top, right in the moving air. Or set it next to the diffuser you already love. You walk in, and the scent is already everywhere. By the couch. By the window. Just like that hotel.
+Here's why. A regular fan shoots one hard stream of air at you. Spin360 gently pulls air in from above and below, mixes it with the air in the room, and sends it out all the way around. Like the rings of Saturn. So the scent moves with it. Everywhere.
+And you can feel the air too. A soft, natural breeze. The whole room feels different. It's the kind of room where people walk in and go, "Wait... why does it smell like a hotel in here?"
+You don't need a better scent. You need air that moves.
+Spin360 comes from David Patrick. He spent years trying to make the air at home feel just right. You might know him as the guy who literally reinvented the wheel... and got a deal on Shark Tank with three Sharks.
+But the best part? You come home tired. You open the door. You take one breath... and your shoulders drop. It feels like checking in. Except this time, you're home. 
+Tap below and bring that five-star-hotel feeling home.
+
+
+1. Desire
+Surface Desire / Why Train Starting Point:
+ “I want my home to smell expensive, like a five-star hotel.”
+Why Train:
+ → Why? Because I want my home to feel luxurious and elevated.
+→ Why? Because I want being at home to feel more special and pleasurable, like the experience of staying at a five-star hotel.
+→ Why? Because I want to genuinely enjoy the atmosphere of the space I live in.
+Deeper Desired State:
+ A home that feels luxurious, elevated, and pleasurable to live in.
+Social Reinforcement:
+ “I want people who enter my home to notice how good it smells.”
+2. Avatar
+Primary Avatar:
+ The luxury home-fragrance buyer.
+Experiences:
+ Already uses or has used candles, room sprays, plug-ins, diffusers, or fragrance oils to make their home smell better.
+Behaviors:
+ Spends money on products that improve how the home smells and feels, experiments with scents, cares about the vibe of the space, and is attracted to luxury-hotel-inspired products.
+What They’ve Already Tried:
+ Candles, sprays, plug-ins, traditional diffusers, fragrance oils.
+What They Want:
+ A home that smells expensive, luxurious, and like a five-star hotel.
+Frustrations:
+ Current scent solutions may only scent one area, fade too quickly, require constant replacement, or fail to fill the space.
+Emotional Context:
+ They want their home to feel elevated, polished, and luxurious — and they like when other people notice how good it smells.
+3. Angle
+Primary Angle:
+ Many traditional scent products make one part of the room smell good — but they don’t change how the whole room smells and feels.
+Problem Being Solved:
+ The customer wants the luxurious, five-star-hotel atmosphere at home, but many traditional scenting solutions are strongest around the source and mainly address fragrance. They can improve how part of the space smells without changing the overall atmosphere of the room.
+Why Someone Pays Attention:
+ They may already be spending money on candles, sprays, plug-ins, or diffusers, yet still aren’t getting the complete luxury-hotel atmosphere they actually want.
+Spin360 Opportunity:
+ Spin360 can address both limitations: it helps move scented air throughout the room while also creating a soft, natural-feeling breeze.
+Angle in One Sentence:
+Many traditional scent products only improve the smell around one area. Spin360 helps turn that scent into a whole-room experience — so the room smells like a five-star hotel and feels amazing too.
+ 4. Mechanism
+Primary Mechanism:
+ Spin360 pulls air from above and below, mixes the scented air with the room air, and redistributes it 360° throughout the room — while creating a soft, natural-feeling breeze.
+Former Limitation:
+Many traditional scent products release fragrance from a fixed source, so the scent can remain stronger around that area, and they do not change how the room physically feels.
+How Spin360 Overcomes It:
+ Spin360 adds scent distribution + natural-feeling air movement. By pulling air from above and below, mixing the scented air with the room air, and redistributing it 360°, Spin360 helps carry fragrance beyond the immediate source while also creating a soft breeze.
+Mechanism → Promise:
+The same 360° airflow helps distribute the scent through the room while making the room feel better too.
+Mechanism in One Sentence:
+Spin360 pulls, mixes, and redistributes scented air 360° throughout the room while creating a soft, natural-feeling breeze.
+
+
+
+
+
+
+5. Authority
+Primary Authority:
+ Years spent pursuing the desired atmosphere.
+David Patrick, the inventor behind Spin360, spent years trying to create the best possible atmosphere indoors. To achieve that, he developed a system designed to recreate natural-feeling airflow — and use that airflow to help distribute scent throughout the room.
+Why He’s Credible:
+ He didn’t simply create another fan or scenting device. The airflow and scent-distribution system came out of years spent pursuing the same end result the customer wants: a room that smells great, feels great, and is genuinely pleasurable to be in.
+Proven Inventor Track Record:
+ David also has an established history as an inventor and entrepreneur. He invented Shark Wheel, has developed other inventions, and previously appeared on Shark Tank, where Shark Wheel secured an on-air deal with three Sharks. His background reinforces that Spin360 comes from someone with a demonstrated history of developing unconventional product mechanisms.
+Authority in One Sentence:
+David spent years pursuing the ideal indoor atmosphere — backed by a proven track record as an inventor — leading him to develop Spin360’s natural-feeling airflow and a new way to distribute scent through the room.
+
+
+6. Awareness Level
+Primary Awareness Level:
+ Solution-Aware
+The prospect already wants their home to smell luxurious and already knows traditional scenting solutions such as candles, sprays, plug-ins, and diffusers.
+They do not yet know that air movement and scent distribution can offer a different way to satisfy that desire — while also improving how the room physically feels.
+Awareness in One Sentence:
+They already know scenting solutions exist. They don’t yet know Spin360 offers a different mechanism: scent distribution + natural-feeling airflow.
+
+
+
+
+7. Emotion / Valence & Intensity
+Primary Emotional Direction:
+Positive Valence + Medium Intensity
+The ad should create desire, sensory pleasure, aspiration, and comfort — making the prospect vividly imagine how luxurious their home could smell and how good the atmosphere could feel.
+Some creatives can begin with mild frustration around existing scenting solutions, but the dominant emotional movement should be toward the desired experience.
+Emotion in One Sentence:
+Make them vividly want the atmosphere Spin360 creates.
+
+
+
+
+8. Differentiation / Positioning
+Primary Positioning:
+ Not just a scenting product — a system designed to change the entire atmosphere of the room.
+The Alternative:
+ Many traditional scenting products primarily add fragrance from a fixed source.
+Former Limitation:
+ The scent can remain concentrated around that source, and the product itself does not change how the room physically feels.
+Spin360 Difference:
+ Spin360 helps distribute scent throughout the room while simultaneously creating natural-feeling airflow. Instead of only changing how the room smells, it also changes how the room physically feels.
+Positioning → Desire:
+Spin360 helps make the entire room smell luxurious while creating the natural-feeling airflow that makes the atmosphere feel better too.
+Positioning in One Sentence:
+Scent distribution + natural-feeling airflow — designed to change the entire atmosphere of the room.
+
+
+
+
+
+
+
+
+
+
+
+
+Primary Text
+🕯️ She bought the exact candle from her favorite hotel.
+Same scent. Lit it at home. Walked across the room... and it was gone.
+The reason has nothing to do with the candle.
+And watch her first breath in this video, and her last one. Same breath. Two very different places. It only clicks once you know the answer.
+You might want to watch it twice.
+👇
+Headlines
+1. The Hotel Secret Nobody Tells You 👉
+2. Why Hotels Smell Like That 👉
+3. It Was Never Your Candle 👉
+CTA button
+Learn More

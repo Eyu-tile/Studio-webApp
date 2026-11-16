@@ -1,0 +1,1398 @@
+[
+ {
+  "id": "6b8166ad-e016-4586-94a7-22b65e89f4d7",
+  "kind": "ugc_broll",
+  "summary": "Professional lifestyle selects in a luxury glass-walled living room (pool + mountain view): couple relaxing on a sectional with the white Spin360 in tall and tabletop setups, plus display, scent-pad and hand-on-cage close-ups.",
+  "people": [
+   {
+    "who": "woman, 50s, long dark brown hair",
+    "wardrobe": "beige knit cardigan, white top, jeans; grey loungewear in hand-detail shots; red nails",
+    "role": "actor"
+   },
+   {
+    "who": "man, 40s, bald",
+    "wardrobe": "plum/burgundy button shirt, jeans",
+    "role": "actor"
+   }
+  ],
+  "product": {
+   "visible": "hero",
+   "colourway": "white",
+   "on": true,
+   "details_seen": [
+    "display F3",
+    "display F9",
+    "Spin360 logo on display",
+    "blue ring",
+    "gold halo",
+    "cage",
+    "scent well in top cap",
+    "scent pad",
+    "base",
+    "power cord"
+   ],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "bright natural",
+   "view": "trees",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 5.63,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Tall white unit beside sofa; woman reads, bald man lounges; stone pillar, glass walls",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 5.63,
+    "end": 17.23,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Tall unit foreground, cage + blue ring; woman blurred on sofa behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 17.23,
+    "end": 23.15,
+    "camera": "static",
+    "framing": "medium",
+    "action": "unclear (not sampled)",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 23.15,
+    "end": 36.49,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Woman on sofa talks/gestures to man, tall unit beside her",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 36.49,
+    "end": 43.34,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Wide room, short tabletop unit on coffee table, couple either side",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 43.34,
+    "end": 59.77,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Low angle: tabletop unit on coffee table between woman reading and man",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 59.77,
+    "end": 67.32,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Tall unit foreground, man relaxing on sofa, plant",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 67.32,
+    "end": 77.66,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Woman reads on sofa, tabletop unit on coffee table, kitchen behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 77.66,
+    "end": 84.79,
+    "camera": "static",
+    "framing": "medium",
+    "action": "unclear (not sampled)",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 84.79,
+    "end": 88.55,
+    "camera": "static",
+    "framing": "close",
+    "action": "Over-shoulder of bald man looking at fan head (blue ring) against stone wall",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 88.55,
+    "end": 96.47,
+    "camera": "static",
+    "framing": "close",
+    "action": "Fan head close: clear slatted cage, gold halo, spinning blades",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 96.47,
+    "end": 104.9,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Tabletop unit on coffee table, woman reading behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 104.9,
+    "end": 110.78,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Woman laughs, hand in hair, fan edge in frame (breeze/relax reaction)",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 110.78,
+    "end": 118.95,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Woman reading on sofa, tabletop unit centred on coffee table",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 118.95,
+    "end": 128.34,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Tabletop unit on coffee table, woman reading cross-legged behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 128.34,
+    "end": 146.31,
+    "camera": "pan",
+    "framing": "medium",
+    "action": "Same tabletop setup, camera drifts to couple: woman reading, man on phone, mug",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 146.31,
+    "end": 151.49,
+    "camera": "static",
+    "framing": "medium",
+    "action": "unclear (not sampled)",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 151.49,
+    "end": 158.49,
+    "camera": "static",
+    "framing": "close",
+    "action": "Woman's face close, soft smile, hair lifting slightly",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 158.49,
+    "end": 171.13,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Woman seated, hands clasped, looks up contentedly, fan edge right",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 171.13,
+    "end": 181.22,
+    "camera": "static",
+    "framing": "close",
+    "action": "Woman reading a black book, eyes down, fan at left edge",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 181.22,
+    "end": 192.23,
+    "camera": "static",
+    "framing": "medium",
+    "action": "unclear (not sampled)",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 192.23,
+    "end": 199.66,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Fan head in profile beside woman's face, stone wall behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 199.66,
+    "end": 207.16,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Tall unit hero vs stone wall, orange cushion, blue ring",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 207.16,
+    "end": 216.97,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Tabletop unit hero on table: top cap with scent well, cage, base, ring",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 216.97,
+    "end": 222.6,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Fan foreground, couple on sofa behind, man with mug, recessed lights",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 222.6,
+    "end": 240.12,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Over-shoulder bald man, fan head ahead vs stone wall",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 240.12,
+    "end": 244.83,
+    "camera": "static",
+    "framing": "medium",
+    "action": "unclear (not sampled)",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 244.83,
+    "end": 251.84,
+    "camera": "static",
+    "framing": "close",
+    "action": "Red-nailed hands rest on/adjust perforated top cap of fan",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 251.84,
+    "end": 258.63,
+    "camera": "handheld",
+    "framing": "medium",
+    "action": "Woman in grey loungewear touches cage of tall unit",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 258.63,
+    "end": 265.64,
+    "camera": "static",
+    "framing": "macro",
+    "action": "Fingers run across clear horizontal cage slats, gold halo above",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 265.64,
+    "end": 285.62,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Wide living room, couple on sofa, unit by coffee table, orange rug",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 285.62,
+    "end": 300.43,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Wide from other side: glass wall with pool + mountains, couple on sofa, unit",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 300.43,
+    "end": 309.77,
+    "camera": "static",
+    "framing": "close",
+    "action": "Pole close: blue ring, display reading F3",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 309.77,
+    "end": 313.65,
+    "camera": "static",
+    "framing": "close",
+    "action": "Finger presses display, F3",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 313.65,
+    "end": 319.82,
+    "camera": "static",
+    "framing": "close",
+    "action": "Display reads F9 (speed changed)",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 319.82,
+    "end": 327.49,
+    "camera": "static",
+    "framing": "close",
+    "action": "unclear (not sampled)",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 327.49,
+    "end": 337.67,
+    "camera": "static",
+    "framing": "close",
+    "action": "Hands lift lid and place scent pad into top-cap well, pool behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 337.67,
+    "end": 345.05,
+    "camera": "static",
+    "framing": "close",
+    "action": "Hand holds scent lid/pad above top cap, sunny garden blur",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 345.05,
+    "end": 369.2,
+    "camera": "static",
+    "framing": "close",
+    "action": "Spray bottle mists scent pad, then pad sits in perforated top cap",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 369.2,
+    "end": 382.01,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Couple walks in from sunny pool patio through open glass door (backlit)",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 382.01,
+    "end": 386.47,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Woman reading next to tall unit, smiling",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 386.47,
+    "end": 398.94,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Woman reading on sofa beside tall unit",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 398.94,
+    "end": 414.87,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Couple on sofa, tall unit left; she reads, he on phone",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 414.87,
+    "end": 436.64,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Tall unit hero in front of glass wall: pool, trees, mountains, blue sky",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 436.64,
+    "end": 459.37,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Wide living room, couple on sofa, tall unit on orange rug, pool + mountain view",
+    "on_screen_text": "",
+    "audio_hint": ""
+   }
+  ],
+  "best": {
+   "start": 414.87,
+   "end": 436.64,
+   "why": "Tall white unit framed against pool, trees and mountains: clean hero with brand-ideal view"
+  },
+  "beats": [
+   "room_aesthetic",
+   "product_hero",
+   "lifestyle_reading_relaxing",
+   "control_display",
+   "scent_tray",
+   "airflow_demo_hand",
+   "reaction_face",
+   "outdoor_patio"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "Beautiful but calm; F3->F9 display (300-320s) and scent-spray macro (345-369s) are the punchiest inserts"
+  },
+  "brand_fit": {
+   "score": 3,
+   "why": "Luxury glass house, sunlit, pool/mountain view, quiet relaxing couple"
+  },
+  "quality": {
+   "score": 3,
+   "issues": [
+    "vertical crop risk"
+   ]
+  },
+  "status": "OK",
+  "status_why": "Professional, no other fans or logos; tabletop units are the genuine Spin360 with short pole (height-adjustable), not a caution reason",
+  "tags": [
+   "couple on sofa reading",
+   "tabletop spin360 on coffee table",
+   "tall white unit pool view",
+   "display F3 to F9",
+   "finger presses display",
+   "spraying scent pad",
+   "scent pad into top cap",
+   "hand on cage slats",
+   "woman laughing on sofa",
+   "couple walking in from patio",
+   "mountain view glass wall",
+   "white unit luxury living room"
+  ]
+ },
+ {
+  "id": "78bbf403-af10-437b-a392-4fc6e68eff19",
+  "kind": "ugc_broll",
+  "summary": "Professional bedroom shoot: couple sleeping, waking, stretching and reading in bed beside a tall white Spin360 with blue ring, forest-view window; audio is crew direction, use muted.",
+  "people": [
+   {
+    "who": "woman, 50s, long dark brown hair",
+    "wardrobe": "grey henley pyjamas",
+    "role": "actor"
+   },
+   {
+    "who": "man, 40s, bald, light beard",
+    "wardrobe": "teal/green tee",
+    "role": "actor"
+   }
+  ],
+  "product": {
+   "visible": "hero",
+   "colourway": "white",
+   "on": true,
+   "details_seen": [
+    "blue ring",
+    "blue underglow",
+    "gold halo",
+    "cage",
+    "display",
+    "base",
+    "power cord"
+   ],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "bedroom",
+   "time": "day",
+   "light": "mixed",
+   "view": "trees",
+   "curtains_moving": false,
+   "decor": "luxe"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 4.8,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Dim dawn bedroom, couple asleep, unit by forest window",
+    "on_screen_text": "",
+    "audio_hint": "crew direction"
+   },
+   {
+    "start": 4.8,
+    "end": 9.13,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Tall unit with blue ring beside bed, sleeper under textured blanket, dark",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 9.13,
+    "end": 24.65,
+    "camera": "pan",
+    "framing": "close",
+    "action": "Woman asleep under chunky blanket, camera drifts past bed to fan + sleeper",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 24.65,
+    "end": 35.58,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Fan silhouette in front of bright window, dark foreground wipe",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 35.58,
+    "end": 44.79,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Low angle: fan head foreground, couple asleep behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 44.79,
+    "end": 53.3,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Woman sits up in bed, back to camera, looking at forest window, fan right (waking)",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 53.3,
+    "end": 61.6,
+    "camera": "static",
+    "framing": "close",
+    "action": "Woman asleep on back, arm over head, chunky blanket",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 61.6,
+    "end": 75.2,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Wide bed + fan; woman wakes and sits up smiling, man beside her on phone",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 75.2,
+    "end": 84.71,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Fan foreground with blue ring/display; man wakes and looks up from pillow",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 84.71,
+    "end": 100.22,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Couple asleep behind fan; man stretches arms over head",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 100.22,
+    "end": 116.87,
+    "camera": "static",
+    "framing": "close",
+    "action": "Fan cage + blue ring close, man asleep blurred behind, dark",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 116.87,
+    "end": 129.38,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Woman reading red book in bed, tall unit foreground left",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 129.38,
+    "end": 138.39,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Woman reads, fan head close foreground, then eyes closed relaxing",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 138.39,
+    "end": 168.29,
+    "camera": "tilt",
+    "framing": "macro",
+    "action": "Product detail: cage edge with palm fronds, underside blue glow, ring, display",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 168.29,
+    "end": 186.6,
+    "camera": "static",
+    "framing": "close",
+    "action": "Fan head hero with blue underglow among palm fronds",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 186.6,
+    "end": 201.45,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Woman in profile on bed edge stretching arm overhead",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 201.45,
+    "end": 209.58,
+    "camera": "static",
+    "framing": "wide",
+    "action": "Woman sits on edge of bed, unit beside bed",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 209.58,
+    "end": 216.72,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Woman stretches both arms up, eyes closed",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 216.72,
+    "end": 227.69,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Woman sits hugging knees on bed edge looking toward fan/window",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 227.69,
+    "end": 245.7,
+    "camera": "static",
+    "framing": "medium",
+    "action": "From behind: woman sits up facing forest window, reaches to fan pole",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 245.7,
+    "end": 253.88,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Fan in front of window; woman stretches arms wide toward view",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 253.88,
+    "end": 259.88,
+    "camera": "static",
+    "framing": "close",
+    "action": "Fan head rising over white chunky blanket",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 259.88,
+    "end": 265.01,
+    "camera": "static",
+    "framing": "close",
+    "action": "POV over blanket: hands with phone and red book, fan behind among palm",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 265.01,
+    "end": 268.85,
+    "camera": "static",
+    "framing": "medium",
+    "action": "Couple in bed: man on phone, woman reading, fan behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 268.85,
+    "end": 277.53,
+    "camera": "static",
+    "framing": "close",
+    "action": "Hands: phone and book over blanket, fan head behind",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 277.53,
+    "end": 291.29,
+    "camera": "static",
+    "framing": "close",
+    "action": "Woman's face, eyes closed, content, fan cage foreground",
+    "on_screen_text": "",
+    "audio_hint": ""
+   },
+   {
+    "start": 291.29,
+    "end": 303.38,
+    "camera": "static",
+    "framing": "close",
+    "action": "Rack focus between fan cage and woman relaxing, eyes closed",
+    "on_screen_text": "",
+    "audio_hint": ""
+   }
+  ],
+  "best": {
+   "start": 168.29,
+   "end": 186.6,
+   "why": "Clean fan hero with blue underglow and palm; plus 244-254s woman stretching at forest window"
+  },
+  "beats": [
+   "sleeping_comfort",
+   "waking_refreshed",
+   "lifestyle_reading_relaxing",
+   "product_hero",
+   "room_aesthetic",
+   "reaction_face"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "Waking-and-stretching at forest window reads instantly; otherwise calm"
+  },
+  "brand_fit": {
+   "score": 3,
+   "why": "Airy bedroom, forest view, plush bedding, palm, quiet rest"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "dark",
+    "vertical crop risk"
+   ]
+  },
+  "status": "OK",
+  "status_why": "No other fans/logos; night shots are intentionally dark; audio unusable (crew direction, chat) so use muted",
+  "tags": [
+   "couple sleeping with fan",
+   "woman wakes stretching",
+   "woman at forest window",
+   "blue glow fan at night",
+   "reading in bed with fan",
+   "man on phone in bed",
+   "chunky white blanket",
+   "palm plant bedroom",
+   "eyes closed relaxing"
+  ],
+  "takes": [
+   {
+    "start": 0,
+    "line": "back there, but be early morning…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 68,
+    "line": "Awesome. Great. Love it…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 86,
+    "line": "All right, and action…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 99,
+    "line": "let's do that again…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 129,
+    "line": "lot of shots to work with now…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 138,
+    "line": "50 is not old anymore…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 160,
+    "line": "But I think he's home…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 186,
+    "line": "doing some stretches. One, go…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 209,
+    "line": "we have a bunch, same thing…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 227,
+    "line": "doing that for",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 237,
+    "line": "more. Awesome. Yeah, keep going…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 245.8,
+    "line": "3, 2, 1. Nice.",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 253.6,
+    "line": "Mere Christianity…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   },
+   {
+    "start": 259.6,
+    "line": "One of the integral giants…",
+    "delivery": "cut off",
+    "energy": 0,
+    "framing": "medium",
+    "keep": false
+   }
+  ],
+  "best_takes": [],
+  "speaker": {
+   "look": "off-camera crew/actors chatting",
+   "setting": "bedroom set",
+   "props": "none"
+  }
+ },
+ {
+  "id": "fda48d86-d5bf-4d9b-943f-6a30a74dac06",
+  "kind": "ugc_talking_head",
+  "summary": "~10-minute mirrored selfie script read: woman tells the hot-sleeper story (sister's house, Spin360, air layers, double vortex, quiet) ending in a 'Tap below' CTA, each line repeated 2-3 times.",
+  "people": [
+   {
+    "who": "woman, late 30s-40s, brown hair in low ponytail",
+    "wardrobe": "olive tee with firefly-jar graphic (text 'Matthew 5:14'), clip mic on chest",
+    "role": "creator"
+   }
+  ],
+  "product": {
+   "visible": "none",
+   "colourway": "none",
+   "on": null,
+   "details_seen": [],
+   "other_fans": [],
+   "other_brands": []
+  },
+  "setting": {
+   "room": "living room",
+   "time": "day",
+   "light": "mixed",
+   "view": "none",
+   "curtains_moving": false,
+   "decor": "clean ordinary"
+  },
+  "shots": [
+   {
+    "start": 0.0,
+    "end": 259.37,
+    "camera": "selfie",
+    "framing": "close",
+    "action": "Seated in brown leather chair, chest-up, reads script lines with repeats; big hand gestures 144-264s (pointing up at 204s for 'She points at this thing')",
+    "on_screen_text": "mirrored wall sign 'Do small things with great love'",
+    "audio_hint": "voice, script read"
+   },
+   {
+    "start": 259.37,
+    "end": 591.48,
+    "camera": "selfie",
+    "framing": "close",
+    "action": "Same set-up after a restart; mechanism, quiet, routine and CTA lines; animated hands at 324s, 432-444s, 504-516s, 564s",
+    "on_screen_text": "mirrored wall sign",
+    "audio_hint": "voice, script read"
+   }
+  ],
+  "best": {
+   "start": 150.7,
+   "end": 229.9,
+   "why": "Story peak: sister's house, 'why does it feel so good in here?', 'She points at this thing… Spin 360', most animated delivery"
+  },
+  "beats": [
+   "talking_to_camera",
+   "hot_sleeper_problem",
+   "sweaty_discomfort",
+   "old_fan_annoyance",
+   "noise_problem",
+   "quiet_demo",
+   "sleeping_comfort",
+   "cta_point"
+  ],
+  "hook_potential": {
+   "score": 2,
+   "why": "'This is not just being a hot sleeper' and 'one freezing arm' / 'jet engine' lines are relatable openers"
+  },
+  "brand_fit": {
+   "score": 1,
+   "why": "Ordinary home selfie, warm indoor light, no product on screen"
+  },
+  "quality": {
+   "score": 2,
+   "issues": [
+    "vertical crop risk",
+    "baked-in text"
+   ]
+  },
+  "status": "CAUTION",
+  "status_why": "Claims to verify: \"patented double vortex design where it pulls air in from above and below at the same time\"; \"On the lower speeds, it's nearly silent\"; health/sleep: \"Your body naturally needs to lower its core temperature as you fall asleep and stay asleep\", \"temperature matters way more for sleep than I realized\"; \"I slept under an actual blanket in July\". Image is mirrored (wall sign and tee text read backwards) - flip before use; tee shows scripture ref 'Matthew 5:14'.",
+  "tags": [
+   "hot sleeper story",
+   "sister's house story",
+   "she points at this thing",
+   "double vortex explainer",
+   "one freezing arm",
+   "jet engine fan",
+   "nearly silent white noise",
+   "bedtime routine",
+   "removed the walls of your bedroom",
+   "air feels dead",
+   "tap below CTA",
+   "ponytail woman olive tee selfie"
+  ],
+  "takes": [
+   {
+    "start": 0.6,
+    "line": "This is not just being a hot sleeper…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 9.0,
+    "line": "And then I would drag myself through the next morning…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 33.4,
+    "line": "but then I started paying attention to what those 8 hours…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 41.2,
+    "line": "And no, buying another cooling pillow ain't/isn't gonna fix it…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 53.2,
+    "line": "Because if you sleep hot, you've probably tried…",
+    "delivery": "stumble",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 85.0,
+    "line": "I did all of them… wake up at 2:17 in the morning…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 115.9,
+    "line": "And everyone had an answer… Turn the thermostat down…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 137.1,
+    "line": "It turns out I was fixing everything except the actual room…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 150.7,
+    "line": "So last summer I stayed at my sister's house…",
+    "delivery": "restart",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 172.3,
+    "line": "The air felt like it was moving everywhere…",
+    "delivery": "restart",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 190.2,
+    "line": "And then I slept under an actual blanket in July… She points at this thing",
+    "delivery": "restart",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 208.6,
+    "line": "Spin 360.",
+    "delivery": "clean",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 210.5,
+    "line": "And I'm thinking, that's a fan. She goes, No, turn it on…",
+    "delivery": "restart",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 229.9,
+    "line": "There isn't this one aggressive stream blasting your arm…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 242.5,
+    "line": "So obviously I went home, bought one…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 253.9,
+    "line": "Your bedroom naturally has different layers of air…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 275.2,
+    "line": "Now look at what a regular fan does…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 289.3,
+    "line": "That's it. One direction… one freezing arm…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 313.9,
+    "line": "Spin 360 works completely differently… patented double vortex…",
+    "delivery": "restart",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 337.7,
+    "line": "So instead of leaving those warmer and cooler layers… keeps mixing the air",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 347.7,
+    "line": "And that is the feeling I could not explain at my sister's house…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 358.1,
+    "line": "There isn't one giant blast of air…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 372.4,
+    "line": "It feels natural, almost like sleeping with all the windows open…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 383.9,
+    "line": "And apparently temperature matters way more for sleep…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": false
+   },
+   {
+    "start": 397.9,
+    "line": "Your body naturally needs to lower its core temperature…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 413.7,
+    "line": "But here's the mistake I made for years…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 426.2,
+    "line": "So I kept buying more powerful fans…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 436.1,
+    "line": "That wasn't what I wanted. …sleeping behind a jet engine…",
+    "delivery": "restart",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 447.6,
+    "line": "I wanted the bedroom itself to feel better…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 462.4,
+    "line": "It's about keeping the air around you moving… nearly silent…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 476.8,
+    "line": "And when you turn it higher, you get this really steady shh…",
+    "delivery": "restart",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 493.2,
+    "line": "So now my bedtime routine is embarrassingly simple…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 506.0,
+    "line": "I'm not doing one leg out, both legs out…",
+    "delivery": "restart",
+    "energy": 3,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 535.2,
+    "line": "And this just might be the weirdest part— you stop noticing the fan",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 542.9,
+    "line": "You just notice that the room feels good… removed the walls…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 551.5,
+    "line": "That's the closest way that I can describe it… air just feels dead",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 562.5,
+    "line": "So if you've spent years saying, I'm just a hot sleeper…",
+    "delivery": "clean",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 575.1,
+    "line": "Because for me, that was the thing that nobody had explained…",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   },
+   {
+    "start": 588.1,
+    "line": "Tap below and check it out.",
+    "delivery": "restart",
+    "energy": 2,
+    "framing": "close",
+    "keep": true
+   }
+  ],
+  "best_takes": [
+   0.6,
+   9.0,
+   33.4,
+   41.2,
+   53.2,
+   85.0,
+   115.9,
+   137.1,
+   150.7,
+   172.3,
+   190.2,
+   208.6,
+   210.5,
+   229.9,
+   242.5,
+   253.9,
+   275.2,
+   289.3,
+   313.9,
+   337.7,
+   347.7,
+   358.1,
+   372.4,
+   397.9,
+   413.7,
+   426.2,
+   436.1,
+   447.6,
+   462.4,
+   476.8,
+   493.2,
+   506.0,
+   535.2,
+   542.9,
+   551.5,
+   562.5,
+   575.1,
+   588.1
+  ],
+  "speaker": {
+   "look": "woman, brown hair in low ponytail, olive firefly-jar tee, clip mic",
+   "setting": "brown leather armchair, beige wall, framed 'Do small things with great love' sign (mirrored), bead garland",
+   "props": "none; no product on camera"
+  }
+ }
+]

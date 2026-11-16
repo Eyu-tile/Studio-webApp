@@ -1,0 +1,153 @@
+﻿Spin360_RacingThoughts_WhiteNoise
+
+
+
+
+Watch:Brief - Spin360_RacingThoughts_WhiteNoise.mp4
+3 ads, same body. Each ad has its own visual hook (0–8 s) and its own first on-screen line. The last two on-screen lines and the whole body are the same in all 3. Cut the body once and reuse it. Images in the Visual Inspiration column are inspiration, not final frames.
+Strategy
+# Element
+	Answer
+	1 · Desire
+	"I want my brain to actually relax when I go to bed." Not knocked out — relieved. Real sleep, wake up feeling like a person again, patience for the people she loves.
+	2 · Avatar
+	Experiences: "tired but wired" — exhausted, but the second her head hits the pillow her brain switches on: tomorrow's to-dos, work, conversations, something awkward from years ago. Behaviors: sleep apps, podcasts, a fan even in winter. Emotions: exhausted, frustrated, quietly blaming herself. Cast: a woman ~38 (the singer's voice is early 30s) and her husband.
+	3 · Angle
+	Quiet room, loud brain. It's not you, it's the quiet: in dead silence your own thoughts become the loudest thing in the room.
+	4 · Mechanism
+	White noise and a relaxing breeze in one. One steady sound her brain can latch onto, that doesn't loop like a sleep app, and a breeze with no air blasting in her face.
+	5 · Authority
+	First-person voiceover (her own experience) · 30-night trial.
+	6 · Awareness
+	Problem aware in the hook (she knows racing thoughts keep her up) → product aware by the end.
+	7 · Emotion
+	Hook: calm, aspirational, curious ("how is she asleep?"). Body: relief and confidence. End: easy, risk-free decision.
+	8 · Positioning
+	Enemy: lying awake with racing thoughts, sleep apps that loop, a regular fan blasting air. Spin360: white noise and a relaxing breeze in one.
+	Production brief
+Format: vertical 9:16, ~35 s, all scenes AI-generated. 0–8 s: no voice. Only white noise + a night scene + 3 on-screen texts. Hard cut at ~8 s to the body: her first-person voiceover over B-roll. She never talks to the camera and never looks into it.
+Look: realistic, cinematic footage in one bedroom. Night scenes dark with a soft blue glow; morning scenes in natural window light. The hook shots must stop the scroll on their own.
+No product in the hook (0–8 s). We never see what makes the sound or the breeze. Spin360 appears only after the cut.
+Audio: real white noise from the first frame (0.0 s), no music, no voice, no fade in. At the cut, her voiceover takes over.
+On-screen text: hook texts in white with the emoji, center of the screen, one at a time (~2.5 s each). Body: captions of the voiceover.
+Cast & set (same in every scene): SHE (40s, long dark brown hair, light grey long-sleeve pajama set), HIM (her husband, bald, green t-shirt, in bed asleep), one bedroom: dark wood headboard, black-and-white abstract art above the bed, a tall palm plant, white textured duvet, big window with a forest view. Every scene in the ad is generated with AI using this same woman and this same room. She is only ever relaxing or asleep, except the last morning shot (rested, after 30 nights).
+Product: Spin360, white floor model only (reference: FLOOR_0.1.jpg). Always on the floor next to her side of the bed, never on furniture. The air is a breeze, not wind: a couple of strands of hair and the sheet edge move, nothing more. No app logos.
+https://www.facebook.com/reel/1719051579512370
+
+
+Visual hooks (3 ads)
+Every hook starts beautiful: she is already relaxing or asleep from the very first frame. No product in any hook. Real white noise from 0.0 s, no voice, no music, no fade in. Hard cut into the body at ~0:08.
+Spin360_RacingThoughts_WhiteNoise_Hook1 · From above
+Time
+	On-screen text
+	Visual Inspiration
+	Scene description
+	0:00–0:03
+	I haven't slept before 2 AM in years. 🌙
+	  
+
+	Top-down shot straight over the bed, slow push-in: she and her husband asleep, completely still, the room in a soft blue glow.
+	0:03–0:05
+	Tonight I'm out by 10:15. 😴
+	  
+
+	Side shot of the bed: both asleep, peaceful. The clock on the nightstand reads 10:15.
+	0:05–0:08
+	My brain finally went quiet. 🤫
+	  
+
+	Close on her sleeping face, a few strands of hair moving in the breeze.
+	Spin360_RacingThoughts_WhiteNoise_Hook2 · Breeze in her hair
+Time
+	On-screen text
+	Visual Inspiration
+	Scene description
+	0:00–0:03
+	Racing thoughts kept me up every night for years. 😩
+	  
+
+	Macro, slow motion: fine strands of her hair drift across her sleeping face in the breeze, soft blue light, shallow focus.
+	0:03–0:05
+	Tonight I'm out by 10:15. 😴
+	  
+
+	Her hand on the duvet slowly uncurls and goes soft as she drifts off.
+	0:05–0:08
+	My brain finally went quiet. 🤫
+	  
+
+	Side shot of the bed: both asleep, the clock reads 10:15.
+	Spin360_RacingThoughts_WhiteNoise_Hook3 · Sinking into the pillow
+Time
+	On-screen text
+	Visual Inspiration
+	Scene description
+	0:00–0:03
+	For years: head hits pillow, brain hits 100 mph. 🧠
+	  
+
+	Slow motion at pillow height: she sinks her head into the pillow, hair fanning out gently, eyes closed, a relieved smile.
+	0:03–0:05
+	Tonight I'm out by 10:15. 😴
+	  
+
+	Close on her sleeping face, completely relaxed, hair moving in the breeze.
+	0:05–0:08
+	My brain finally went quiet. 🤫
+	  
+
+	Top-down: she and her husband asleep, still, soft blue glow.
+	Body
+Section
+	Voiceover
+	Visual Inspiration
+	Scene description
+	Emotion
+	Result
+	[0:08] I'm out before my brain even gets to tomorrow's to-do list.
+	  
+
+	Night. She is already asleep. Her handwritten to-do list sits untouched on the nightstand. Spin360 on the floor next to her side of the bed, blue light on.
+	Relief.
+	Unique
+	[0:12] It's really unique because it's white noise and a relaxing breeze in one.
+	  
+
+	Spin360 running on the floor by the bed; the palm leaves next to it sway gently in the breeze. She sleeps behind it.
+	Curiosity.
+	Unique
+	[0:16] No air blasting in my face.
+	  
+
+	She sleeps on her side, completely at ease; Spin360 a few feet away, angled into the room. Only a strand or two of hair moves.
+	Comfort.
+	Sound
+	[0:18] It doesn't loop like a sleep app.
+	  
+
+	Her phone face down and dark on the nightstand, put away for the night. She sleeps behind it. No screen, no app.
+	Relief.
+	Sound
+	[0:20] It's one steady sound my brain can latch onto.
+	  
+
+	Close on the steady blue light ring of Spin360 in the dark, her sleeping face soft behind it.
+	Calm.
+	Feeling
+	[0:23] It's like someone finally turned down the volume in my head.
+	  
+
+	Close: she settles into the pillow next to Spin360, eyes closed, a small relieved smile.
+	Peace.
+	Offer
+	[0:27] Sleep with it for 30 nights. If you're not falling asleep easier, send it back.
+	  
+
+	Morning, 30 nights later: she wakes up fully rested and stretches in bed, sunlight through the big window, Spin360 on the floor. On-screen: 30 NIGHTS · RISK-FREE.
+	Confidence.
+	CTA
+	[0:32] Stop lying awake with racing thoughts. Get your Spin360.
+	  
+
+	Product hero: Spin360 on the floor next to the bed. End card: TAP THE LINK.
+	Easy decision.

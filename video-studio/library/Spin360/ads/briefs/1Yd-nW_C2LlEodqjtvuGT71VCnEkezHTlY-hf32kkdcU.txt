@@ -1,0 +1,44 @@
+﻿Spin360_FeelLikeAC_Heater_V2
+Brief - Spin360_FeelLikeAC_Heater_V2.mp4 (watch this first: Gabriel explains the idea)
+Same script, better video. Our ad Spin360_FeelLikeAC_Heater got 3 sales, but the hook rate is too low and the frequency is high, so it is mostly reaching people who already saw our ads. Remake it with the exact same script and make a better video. You have creative freedom on everything except the words.
+	Links
+* The ad to beat (current version): Hook 1 · Hook 2 · Hook 3
+* Inspiration, our AC winner in the same format: Spin360_Feel_Like_AC_Hook_4. Watch how David sounds here: that is the energy we want.
+* Original brief (script, 3D shots, sets): Spin360_FeelLikeAC_Heater
+* David's real voice: Stringout · David footage: Spin360 LA 26 - David Talking
+Ad type: Iteration · Size: 9x16 · ~57 s
+What to change
+1. The hook. The hook rate is the main problem. Make the first seconds stop the scroll. One idea is below; you can try your own too.
+2. David's voice. Regenerate it. The current AI voice is too slow and too calm, and it doesn't sound natural. It should sound like the real David in the AC winner: faster, more energy, a guy excited about what he built. Use the stringout as the reference.
+3. The visuals. The goal is a better video
+The hook
+Idea to try (from Gabriel): a real room split down the middle. One half is hot (warm orange light, the heater glowing), the other half is cold (blue, frosty). The Spin360 stands right in the middle. Clear at first sight, like a YouTube thumbnail. No voiceover on this shot, just the picture for a moment. Then the video starts with "Is it a heater? No. Does it make your heater work better? Yes."
+Reference for the hot/cold look: the 3D room we already use. 
+If you try it, send it as Hook 1, and your best version of the original hook as Hook 2.
+Script 
+Time
+	Script (David)
+	0:00
+	Is it a heater? No. Does it make your heater work better? Yes.
+	0:04
+	We are freakishly cozy. When I sleep with this, my feet are never cold.
+	0:10
+	When you are in a room with a regular heater, the heat naturally goes up and the cold goes down, and you have a separation between those two things.
+	0:19
+	We're pulling that hotter air down and that cooler air up, and we're creating one single temperature in the room.
+	0:25
+	In one of our tests, the ceiling was 78 and the floor was 71. We turned the fan on and the whole room went to 73.
+	0:32
+	It's just that constant perfection. It's that perfect atmosphere all the time.
+	0:37
+	You'd swear the heater was right next to your bed.
+	0:42
+	It is so wildly different from anything else you've ever felt that it's almost incomparable.
+	0:48
+	So if you're tired of having cold feet, even with the heat on, try the Spin360 for 30 nights. And if you don't love it, just send it back.
+	Keep
+* The script, word for word.
+* Spin360 is the only fan on screen.
+* The end text: Try it for 30 nights.
+What's up to you
+Everything else: shots, pacing, the 3D, the music, the hook visuals. Make it better than the current version.
