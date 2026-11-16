@@ -91,7 +91,7 @@ class SfxTest(unittest.TestCase):
         return sh(PLUGIN / "bin" / "vs", *args, env=self.env)
 
     def plan(self, *extra, name="plan.json"):
-        self.vs("sfx", "plan", "--edl", "edl.json", "--library", "lib", "-o", name, *extra)
+        self.vs("sfx", "plan", "--edl", "edl.json", "--library", "lib", "--library-only", "-o", name, *extra)
         return json.loads(Path(name).read_text())["plan"]
 
     def by_cue(self, plan, cue):
@@ -110,7 +110,7 @@ class SfxTest(unittest.TestCase):
         plan = self.plan()
         big = self.by_cue(plan, "text-big")[0]
         self.assertTrue(big["file"].endswith("impact_test.wav"))
-        self.assertAlmostEqual(big["at"], 1.2 - 0.2, delta=0.03)     # silence pad absorbed: the hit is on 1.2 s
+        self.assertAlmostEqual(big["at"], 1.2 + 0.01 - 0.2, delta=0.03)  # silence pad absorbed: hit on 1.2 s (+10 ms bias)
         whip = self.by_cue(plan, "transition-fast")[0]
         self.assertTrue(whip["file"].endswith("whoosh_test.wav"))
         # crest on the frame; build-up capped at --max-head 0.8 s before it, faded in
@@ -150,7 +150,7 @@ class SfxTest(unittest.TestCase):
         plan = self.plan("--words", "words.json")
         small = self.by_cue(plan, "text")[0]
         self.assertTrue(small.get("over_speech"))
-        self.assertEqual(small["level_db"], -12 - 6)
+        self.assertEqual(small["level_db"], -12 - 10)                 # >= 10 LU under speech (Torcoli 2019)
         th = self.plan("--style", "talking-head", "--words", "words.json", name="th.json")
         self.assertLessEqual(len(th), 3)                             # sparse: one cue per ~5 s
 
@@ -166,8 +166,45 @@ class SfxTest(unittest.TestCase):
         self.assertLess(np.abs(x[i - SR // 10:i - SR // 50]).max(), 0.02)
         self.vs("sfx", "merge", "edl.json", "--plan", "p.json", "-o", "edl.sfx.json")
         merged = json.loads(Path("edl.sfx.json").read_text())["sfx"]
-        self.assertTrue(any("in" in s for s in merged) and any("dur" in s for s in merged))
+        # every timing/shape field the plan carries reaches the EDL, so vs render places it identically
+        keys = ("in", "dur", "fade_in", "fade_out", "pan", "rate")
+        for p_, m_ in zip([p for p in plan if p["file"]], merged):
+            self.assertEqual({k: p_[k] for k in keys if p_.get(k)}, {k: m_[k] for k in keys if m_.get(k)})
         self.vs("render", "edl.sfx.json", "-o", "rendered.mp4")
+
+    def test_snap_to_picture_and_check(self):
+        """Titles move to the first frame they are visible; every sound lands within one frame, never early."""
+        self.vs("render", "edl.json", "-o", "snapdraft.mp4")
+        plan = self.plan("--snap", "snapdraft.mp4", "--sheet", name="snap.json")
+        small = self.by_cue(plan, "text")[0]
+        self.assertIn("planned_t", small)
+        self.assertGreaterEqual(small["frame_t"], small["planned_t"])          # appears on or after its start
+        self.assertLess(small["frame_t"] - small["planned_t"], 0.09)            # within 2 frames at 25 fps
+        self.assertTrue(Path("snap.png").exists())
+        out = self.vs("sfx", "check", "--plan", "snap.json").stdout
+        self.assertIn("0 outside -40/+60 ms", out)
+        rows = [r for r in Path("snap_check.md").read_text().splitlines() if r.startswith("| ") and "ms |" in r]
+        offs = [int(r.split("|")[5].strip().split()[0]) for r in rows]
+        self.assertTrue(offs and all(-5 <= o <= 40 for o in offs), offs)      # on the frame or just after
+
+    def test_variation_and_layers(self):
+        """A reused file is varied (seeded pitch/level), and no more than 2 sounds ring at once."""
+        plan = self.plan("--style", "launch", "--min-gap", "0.1", "--max-tail", "3", name="var.json")
+        files = [p["file"] for p in plan if p["file"]]
+        reused = [p for i, p in enumerate(plan) if p["file"] and files[: i].count(p["file"]) >= 1 and "rate" in p]
+        for p in reused:
+            self.assertLessEqual(abs(12 * np.log2(p["rate"])), 0.5 + 1e-6)
+        again = json.loads(Path("var.json").read_text())["plan"]
+        self.plan("--style", "launch", "--min-gap", "0.1", "--max-tail", "3", name="var2.json")
+        self.assertEqual(again, json.loads(Path("var2.json").read_text())["plan"])   # reproducible
+        meas = {}
+        for p in plan:
+            if p["file"] and p["file"] not in meas:
+                meas[p["file"]] = len(read_mono(p["file"])) / SR
+        spans = [(p["at"], p["at"] + (p.get("dur") or meas[p["file"]] / p.get("rate", 1) - p.get("in", 0)))
+                 for p in plan if p["file"]]
+        for t, _ in spans:
+            self.assertLessEqual(sum(1 for a, b in spans if a <= t + 0.021 and b > t + 0.021), 2)
 
     def test_sfx_chain(self):
         c = sfx_chain({"file": "x", "at": 1.5, "in": 0.4, "dur": 1.0, "fade_in": 0.1, "fade_out": 0.2,

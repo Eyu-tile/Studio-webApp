@@ -109,6 +109,8 @@ vs <command>                                         video-studio plugin
   sfx plan --edl e.json | --hyperframes dir | --video v.mp4 [--style talking-head|tutorial|ugc-ad|montage|launch]
            [--words draft_words.json] [--risers] -o work/sfx_plan.json   find every moment, place measured recordings
   sfx apply <video> --plan p.json -o out.mp4 [--stem sfx.wav]  |  sfx merge <edl> --plan p.json -o edl.sfx.json
+  sfx plan ... --snap out/draft.mp4 --sheet   snap cues to the frame the picture changes; frame per cue to judge
+  sfx check --plan p.json                      measured landing of every sound vs its frame (EBU R37 limits)
   sfx library | sfx analyse <files|dirs> | sfx bank --from earshot   what's available / onset-hit-crest-level / earshot bank
   earshot critique <video> | timeline <video> | describe <wav> | ...  (optional; vs setup --earshot)
  check & deliver

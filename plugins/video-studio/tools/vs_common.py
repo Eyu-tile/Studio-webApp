@@ -86,6 +86,9 @@ def sfx_chain(fx):
     """ffmpeg filter chain (no labels) that places one sound effect: optional trim (`in`, `dur`), fades
     (`fade_in`, `fade_out`), stereo `pan` (-1 left .. 1 right), `gain_db`, then a delay to `at` seconds."""
     f = ["aresample=48000", "aformat=channel_layouts=stereo"]
+    rate = float(fx.get("rate", 1) or 1)
+    if abs(rate - 1) > 1e-4:  # pitch/speed variation; in/dur/fades below are in the varied file's time
+        f.append(f"asetrate={48000 * rate:.0f},aresample=48000")
     start, dur = float(fx.get("in", 0) or 0), fx.get("dur")
     if start > 0 or dur:
         f.append(f"atrim=start={start:.3f}" + (f":duration={float(dur):.3f}" if dur else "") + ",asetpts=PTS-STARTPTS")

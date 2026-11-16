@@ -35,9 +35,19 @@ vs sfx plan --hyperframes $P/work/gfx/launch --style launch -o $P/work/sfx_plan.
 vs sfx plan --video $P/out/draft.mp4 -o $P/work/sfx_plan.json                         # any finished video: scene changes
   [--style talking-head|tutorial|ugc-ad|montage|launch] [--words $P/work/draft_words.json] [--risers]
   [--prefer cinematic,studio] [--beats $P/work/beats.json --on-beats 1] [--every-cut] [--min-gap 0.35] [--gain-offset -3]
-  [--max-head 0.8] [--max-tail 2.0]
+  [--max-head 0.8] [--max-tail 2.0] [--snap $P/out/draft.mp4] [--sheet] [--sync-bias 10] [--max-layers 2]
+  [--library <brand pack> --library-only]
 vs sfx analyse $P/assets/sfx      # onset / hit / crest times, loudest-50 ms level, normalising gain of every sound
 ```
+**Accurate workflow (use it for anything that ships):**
+1. Render a draft without SFX: `vs render $P/work/edl.json -o $P/out/draft.mp4`.
+2. `vs sfx plan --edl $P/work/edl.json --snap $P/out/draft.mp4 --sheet --style <style> [--words ...] -o $P/work/sfx_plan.json`.
+   Every cue moves to the frame the picture actually changes (a title's first visible frame, a cut's first frame,
+   a move's motion peak) and lands +10 ms after it, never before.
+3. **Read `sfx_plan.png`** (one frame per cue). You judge meaning: delete cues whose frame shows nothing worth a
+   sound, change the kind where it is wrong. Never move timing by eye; timing comes from the frames.
+4. `vs sfx check --plan $P/work/sfx_plan.json`: must say 0 outside −40/+60 ms. Then apply or merge.
+
 **Always pass `--style`** (it sets density, level and risers) and, when anyone speaks, `--words` with a
 transcript of the draft itself (`vs transcribe $P/out/draft.mp4 -o $P/work/draft_words`), so cues on a word
 are lowered and minor ones dropped. The exact numbers (anchors, levels, tail/head caps, styles, search words)
