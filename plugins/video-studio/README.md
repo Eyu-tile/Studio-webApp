@@ -12,7 +12,7 @@ FFmpeg, checks its own work, and iterates on your notes. It handles any common e
 | a folder of b-roll / photos + a song | a beat-synced montage, travel film, highlight reel or slideshow |
 | a screen recording | a tutorial with dead time cut, speed-ups, zooms on the action, step titles |
 | a reference video you like | its pacing, captions, moves, look and sound written as rules and applied to your footage |
-| a brief and no b-roll | footage, photos, music and SFX from the free internet (Internet Archive, Wikipedia/Commons, Creative Commons YouTube, Openverse) and stock libraries (Pexels, Pixabay, Unsplash, Freesound, NASA), downloaded with licences logged; only the seconds you need from long films |
+| a brief and no b-roll | footage, photos, music and SFX from the free internet (Internet Archive, Wikipedia/Commons, Creative Commons YouTube, Openverse) and stock libraries (Pexels, Pixabay, Unsplash, Freesound, NASA), downloaded with licences logged; archive films inspected scene by scene from a keyframe sheet before cutting, then only the seconds you need, verified, with a provenance record |
 | no music | mood/genre/tempo-matched tracks from Jamendo, Openverse, Incompetech, ccMixter, Archive; fitted to the exact edit length on downbeats so the song ends on the last frame, ducked under speech, credit lines logged |
 | a silent edit or HyperFrames film | every moment found (cuts, transitions, text pops, logo reveals, chart builds) and a real recording placed on the exact frame, plus an SFX stem; optional earshot scoring against pro launch films |
 | files, folders, zips, brand kits, Drive/Dropbox/YouTube links | everything imported and sorted into the project (footage linked, not duplicated), with a credits ledger |

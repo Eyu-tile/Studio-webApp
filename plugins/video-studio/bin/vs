@@ -81,6 +81,7 @@ vs <command>                                         video-studio plugin
  get media
   fetch search "<query>" --type video|photo|music|sfx --project P [--provider archive,youtube,wikipedia,...]
   fetch get <results.json> 2 5 7 [--quality hd --section 95-110]  download picks / only a section (logged with licences)
+  fetch inspect <results.json> N | archive:<id> [--window 4:00-9:00 --file f --page 2]   archive film: scenes + keyframe sheet
   add <files|folders|zips|URLs>... --project P [--as broll|music|sfx|logo|font|lut|ref|raw] | --library
   keys ask <provider> [--project P]    pop-up to enter an API key (hidden; per project or machine-wide)
   keys set|unset|check|list|exec       elevenlabs heygen openai gemini (audio), pexels pixabay unsplash freesound jamendo (stock)
