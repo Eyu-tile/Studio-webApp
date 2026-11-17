@@ -34,3 +34,7 @@ Telemetry: the HyperFrames CLI sends usage telemetry, and the `hyperframes` skil
   `vs setup --rea` into its own venv, pinned to commit `e3d2805ee1e6188a640b62149eb055474f6bf982`; no code is copied
   into this plugin. `vs breakdown` is an independent implementation (numpy + ffmpeg).
 - **earshot** ([Leonxlnx/earshot](https://github.com/Leonxlnx/earshot), MIT): installed by `vs setup --earshot`.
+- **Composio skill** ([ComposioHQ/composio](https://github.com/ComposioHQ/composio) `skills/composio`, MIT, Copyright
+  (c) 2025 Sampark Inc.): installed for Claude Code by `vs setup --social` (`npx skills add ComposioHQ/composio
+  --skill composio --agent claude-code --global`); nothing is copied into this plugin. Posting runs through the
+  person's own Composio account (CLI or MCP).

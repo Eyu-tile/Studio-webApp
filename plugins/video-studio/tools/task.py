@@ -186,6 +186,22 @@ def cmd_deliver(a):
     left = open_feedback(t)
     if left:
         print(f"still open: {len(left)} feedback item(s); mark handled ones: vs task done {t['code']} <#> --how ...")
+    offers = []
+    if files and pref("review_page") != "never":
+        offers.append(f"a review page for comments (/video-review: vs present {files[0]['path']} "
+                      f"--project {t.get('project') or '<P>'} --task {t['code']} --version {version})")
+    if files and pref("social_post") != "never":
+        offers.append("posting to social media (/social-post; nothing posts without approving the plan)")
+    if offers:
+        print("next: ask the person, in one question set, about " + " and ".join(offers))
+
+
+def pref(key):
+    f = workspace() / "settings.json"
+    try:
+        return load_json(f).get(key, "ask") if f.exists() else "ask"
+    except (OSError, ValueError, SystemExit):
+        return "ask"
 
 
 def cmd_feedback(a):

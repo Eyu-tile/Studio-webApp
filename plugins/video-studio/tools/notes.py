@@ -15,6 +15,9 @@ video was rendered from, so "0:12" becomes "shot 4, a-roll.mp4 @ 31.2 s".
   vs notes list work/notes.json [--all]
   vs notes done work/notes.json 3 --how "trimmed shot 4 end by 0.4 s"
   vs notes skip work/notes.json 5 --why "keeps the joke; asked the client"
+  vs notes focus work/notes.json 3 --video out/final_v1.mp4 --edl work/edl.json   ONLY what that note touches:
+        frames around its time, the shots/texts/overlays/sounds there (with their EDL index), the words spoken,
+        and the commands to fix it and re-render just that part (vs render ... --since out/final_v1.mp4)
 
 Note times are on the version that was reviewed (its EDL version is recorded): map them before
 you change the EDL, and work through the notes from the END of the video backwards so earlier
@@ -104,6 +107,15 @@ def main():
     a.add_argument("--video", help="the reviewed video (recorded with the notes)")
     a.add_argument("--by", default="", help="who gave the notes")
     a.add_argument("--fps", type=float, default=30.0, help="for HH:MM:SS:FF timecodes")
+    fo = sub.add_parser("focus", help="everything about one note's moment, nothing else")
+    fo.add_argument("notes")
+    fo.add_argument("id", type=int)
+    fo.add_argument("--video", help="the reviewed render (default: the one recorded with the note)")
+    fo.add_argument("--edl", help="the EDL that render came from")
+    fo.add_argument("--words", help="vs transcribe JSON of that render (output time): the words in the window")
+    fo.add_argument("--before", help="an older render: its frames go on the row above, for a before/after check")
+    fo.add_argument("--pad", type=float, default=2.0, help="seconds around the note (default 2)")
+    fo.add_argument("-o", "--out", help="folder (default: work/focus/note-<id>/ next to notes.json)")
     ls = sub.add_parser("list")
     ls.add_argument("notes")
     ls.add_argument("--all", action="store_true")
@@ -170,6 +182,9 @@ def main():
     if args.cmd == "list":
         show(book, args.all)
         return
+    if args.cmd == "focus":
+        focus(book, path, args)
+        return
     status = {"done": "done", "skip": "skipped", "reopen": "open"}[args.cmd]
     for i in args.ids:
         n = next((x for x in book["notes"] if x["id"] == i), None)
@@ -181,6 +196,78 @@ def main():
         n["updated"] = time.strftime("%Y-%m-%d %H:%M")
     save_json(path, book)
     show(book, False)
+
+
+def focus(book, path, a):
+    """One note's window: frames, the EDL entries that touch it, the words, and the next commands."""
+    n = next((x for x in book["notes"] if x["id"] == a.id), None)
+    if not n:
+        die(f"no note {a.id}")
+    if not n.get("at"):
+        die(f"note {a.id} has no time ({n['text']!r}): it is about the whole video, so there is no single window")
+    video = a.video or n.get("video")
+    t0 = min(x for x, _ in n["at"])
+    t1 = max((y if y is not None else x) for x, y in n["at"])
+    lo, hi = max(0.0, t0 - a.pad), t1 + a.pad
+    out = Path(a.out) if a.out else path.parent / "focus" / f"note-{a.id}"
+    out.mkdir(parents=True, exist_ok=True)
+    rows = [f"# Note {a.id}: {n['text']}", "",
+            f"At {', '.join(fmt_ts(x)[1:] + (f'-{fmt_ts(y)[1:]}' if y is not None else '') for x, y in n['at'])} "
+            f"(window {fmt_ts(lo)[1:]}-{fmt_ts(hi)[1:]}) on {Path(video).name if video else 'the reviewed render'}"
+            + (f", by {n['by']}" if n.get("by") else "") + ".", "",
+            "Fix only what this note asks. Do not re-plan, re-transcribe or re-review the whole video.", ""]
+    if a.edl:
+        from edl import shots
+        edl = load_json(a.edl)
+        sh = shots(edl)
+        rows += ["## The edit here (EDL entries that touch the window)", "",
+                 "| what | EDL index | output time | details |", "|---|---|---|---|"]
+        for i, s in enumerate(sh):
+            if s["out_end"] > lo and s["out_start"] < hi:
+                seg = edl["segments"][i]
+                extra = ", ".join(f"{k}={v}" for k, v in seg.items() if k not in ("src", "start", "end"))
+                rows.append(f"| shot {i + 1} | segments[{i}] | {fmt_ts(s['out_start'])[1:]}-{fmt_ts(s['out_end'])[1:]} | "
+                            f"{Path(seg['src']).name} {float(seg.get('start', 0)):.2f}-{float(seg.get('end', 0)):.2f} s"
+                            + (f"; {extra}" if extra else "") + " |")
+        for key in ("texts", "overlays", "blurs", "sfx"):
+            for j, it in enumerate(edl.get(key, []) or []):
+                s0 = float(it.get("start", it.get("at", 0)))
+                s1 = float(it.get("end", s0 + 0.5))
+                if s1 > lo and s0 < hi:
+                    label = it.get("text") or Path(str(it.get("file", ""))).name or key
+                    rows.append(f"| {key[:-1] if key.endswith('s') else key} | {key}[{j}] | "
+                                f"{fmt_ts(s0)[1:]}-{fmt_ts(s1)[1:]} | {str(label)[:60]} |")
+        if edl.get("music"):
+            rows.append(f"| music | music | whole edit | {Path(edl['music']['file']).name} at {edl['music'].get('gain_db', -18)} dB |")
+        rows.append("")
+    if a.words and Path(a.words).exists():
+        ws = [w for w in load_json(a.words).get("words", []) if w["e"] > lo and w["s"] < hi]
+        rows += ["## Words in the window", "", " ".join(f"[{w['s']:.2f}] {w['w']}" for w in ws) or "(none)", ""]
+    sheet_png = None
+    if video and Path(video).exists():
+        import archive  # noqa: E402  (shared keyframe + contact-sheet helpers)
+        step = max(0.25, round((hi - lo) / (7 if a.before else 15), 2))   # 8 per row before/after, 16 alone
+        times = [round(lo + i * step, 3) for i in range(int((hi - lo) / step) + 1)]
+        imgs, labels = [], []
+        if a.before and Path(a.before).exists():
+            imgs += archive.keyframes(a.before, times, out / "before", "vs")
+            labels += [f"before {fmt_ts(t)[3:]}" for t in times]
+        imgs += archive.keyframes(video, times, out / "frames", "vs")
+        labels += [f"{'after ' if a.before else ''}{fmt_ts(t)[3:]}" for t in times]
+        sheet_png = archive.sheet(imgs, labels, out / "frames.png", cols=len(times) if a.before else 4)
+        rows += ["## Frames", "", f"`{out / 'frames.png'}`: one frame every {step:.2f} s"
+                 + (" (top row: before, bottom row: after)" if a.before else "") + ".", ""]
+    edl_arg = a.edl or "work/edl.json"
+    vid = video or "out/final.mp4"
+    nxt = Path(vid).with_name(Path(vid).stem + "_next" + Path(vid).suffix)
+    rows += ["## Next", "",
+             "1. Change only the entries above with `vs edl` (trim/split/cut/set ...).",
+             f"2. `vs render {edl_arg} -o {nxt} --since {vid} [same --preset/--captions as before]`: re-encodes only "
+             "the shots between the cuts around the change and copies the rest.",
+             f"3. `vs notes focus {path} {a.id} --video {nxt} --before {vid} --edl {edl_arg}`: check that window only.",
+             f"4. `vs notes done {path} {a.id} --how \"...\"`."]
+    (out / "focus.md").write_text("\n".join(rows) + "\n", encoding="utf-8")
+    print(f"note {a.id}: window {fmt_ts(lo)[1:]}-{fmt_ts(hi)[1:]} -> {out / 'focus.md'}" + (f", {sheet_png}" if sheet_png else ""))
 
 
 def show(book, everything):

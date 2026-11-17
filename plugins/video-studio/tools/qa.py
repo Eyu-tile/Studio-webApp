@@ -20,13 +20,16 @@ from vs_common import PRESETS, edl_segments, fmt_ts, load_json, need, probe, run
 
 
 def ffmpeg_log(inp, vf=None, af=None):
-    cmd = ["ffmpeg", "-hide_banner", "-nostats", "-i", inp]
-    if vf:
-        cmd += ["-vf", vf]
+    """One decode pass for every check: the sound through `af`, the picture (shrunk to 480 px wide first: black and
+    frozen frames read the same on a small frame and cost a fraction) through `vf`. Used to be one pass per check."""
+    graph, maps = [], []
     if af:
-        cmd += ["-af", af]
-    cmd += ["-f", "null", "-"]
-    return run(cmd).stderr
+        graph.append(f"[0:a:0]{af}[ao]")
+        maps += ["-map", "[ao]", "-f", "null", "-"]
+    if vf:
+        graph.append(f"[0:v:0]scale=480:-2:flags=fast_bilinear,{vf}[vo]")
+        maps += ["-map", "[vo]", "-f", "null", "-"]
+    return run(["ffmpeg", "-hide_banner", "-nostats", "-i", inp, "-filter_complex", ";".join(graph), *maps]).stderr
 
 
 def main():
@@ -79,8 +82,9 @@ def main():
                 "; ".join(bad[:8]) + (f" (+{len(bad) - 8} more)" if len(bad) > 8 else "") if bad
                 else "no cut lands inside a word")
 
+    log = ffmpeg_log(args.input, vf="blackdetect=d=0.1:pix_th=0.08,freezedetect=n=0.003:d=1.5",
+                     af=f"ebur128=peak=true,silencedetect=noise=-40dB:d={args.max_silence}" if info["has_audio"] else None)
     if info["has_audio"]:
-        log = ffmpeg_log(args.input, af="ebur128=peak=true")
         summ = log[log.rfind("Summary:"):]
         mi = re.search(r"I:\s+(-?[\d.]+) LUFS", summ)
         mp = re.search(r"Peak:\s+(-?[\d.]+|-inf) dBFS", summ)
@@ -91,7 +95,6 @@ def main():
         if mp and mp.group(1) != "-inf":
             peak = float(mp.group(1))
             add("PASS" if peak <= -1.0 else "WARN", "true-peak", f"{peak:.1f} dBTP (want ≤ -1.0)")
-        log = ffmpeg_log(args.input, af=f"silencedetect=noise=-40dB:d={args.max_silence}")
         sil = re.findall(r"silence_end: ([\d.]+) \| silence_duration: ([\d.]+)", log)
         add("WARN" if sil else "PASS", "silences",
             ", ".join(f"{float(d):.1f}s ending {fmt_ts(float(e))}" for e, d in sil[:6]) if sil
@@ -99,7 +102,6 @@ def main():
     else:
         add("WARN", "audio", "no audio stream")
 
-    log = ffmpeg_log(args.input, vf="blackdetect=d=0.1:pix_th=0.08,freezedetect=n=0.003:d=1.5")
     blacks = re.findall(r"black_start:([\d.]+) black_end:([\d.]+)", log)
     add("WARN" if blacks else "PASS", "black-frames",
         ", ".join(f"{fmt_ts(float(a))}-{fmt_ts(float(b))}" for a, b in blacks[:6]) if blacks else "none")

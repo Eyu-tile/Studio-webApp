@@ -22,6 +22,9 @@ snapshots the edit's inputs (script, shot list, EDLs, builder, project.md) into 
 ## Delivering
 After sending a version to the client, always run
 `vs task deliver <CODE> --file <final file> [--file ...] [--link <where they got it>] --note "<what changed>"`.
+After each delivery, offer the review page (`/video-review`) and social posting (`/social-post`) in one question
+set, unless `vs present pref` / `vs social pref` say `never`. Post to a client's accounts only after the client
+approved the cut (`vs task close` or their written OK).
 Write the note for someone who wasn't here: what this version changed and why.
 
 ## Client feedback
@@ -33,6 +36,8 @@ Write the note for someone who wasn't here: what this version changed and why.
   won't do one, run `vs task done <CODE> <#> --skip "<why>"` and tell the person.
 - Decisions and context worth keeping (client preferences, things to avoid, approvals):
   `vs task note <CODE> "<text>"`.
+- Fix client feedback in revision mode (`/video-edit` GATE 2): `vs notes focus` per note, change only those
+  entries, one `vs render ... --since <the delivered file>`, check the windows, then deliver.
 - Deliver the revision with `vs task deliver` as above. `vs task close <CODE>` once the client approves.
 
 Never invent feedback or mark an item done that wasn't done. `resume` shows only what was recorded.

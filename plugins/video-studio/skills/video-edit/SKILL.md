@@ -27,7 +27,9 @@ Tools: `vs <cmd>` (on PATH via this plugin's SessionStart hook; if missing, run
 
 ## 1. Understand the footage
 - Many clips / unknown footage: `vs ingest $P/raw -o $P/work/media` → read `media.md` (or spawn `footage-logger`).
-- Speech: `vs transcribe $P/raw/<f> -o $P/work/<f>.transcript --prompt "<names, brands, jargon>"`
+- Speech: `vs transcribe $P/raw/<f> -o $P/work/<f>.transcript --prompt "<names, brands, jargon>"` (cached: the same file
+  again costs nothing). Hour-long recordings you only need to read or search: add `--fast` (2.5x faster), then
+  transcribe the parts you will cut without it; never cut or caption from a `--fast` transcript.
   (`--model small` to plan; `large-v3`/`turbo` before final captions). Read the `.md`.
 - B-roll / no speech: `vs scenes <f> -o $P/work/<f>.scenes` → shot list + sheet.
 - Music: `vs beats detect <music> -o $P/work/beats.json`.
@@ -101,16 +103,36 @@ rounds, then show it and say what you checked and what is left. Long or importan
 Log the person's notes before changing anything, so each is mapped to the version they watched:
 ```bash
 vs notes add $P/work/notes.json --edl $P/work/edl.json --video $P/out/draft.mp4 notes.txt   # or --text "0:12 ...", or a Frame.io CSV
+# comments from a review page (/video-review): vs present notes <comments.json|csv> -o notes.txt first
 vs notes list $P/work/notes.json        # each timed note shows its shot and source time
 ```
-Work from the latest timestamp backwards (earlier times stay valid), make each change with `vs edl`, mark it
-`vs notes done <id> --how "..."` (or `skip <id> --why "..."` and say why), then `vs review`. Reply with the
+**Revision mode: fix only the place each note asks about.** A revision must cost a fraction of the edit, not the
+same again. For each timed note:
+1. `vs notes focus $P/work/notes.json <id> --video <reviewed render> --edl $P/work/edl.json [--words <its transcript>]`
+   and read ONLY `focus.md` and `frames.png` (the frames around that moment, the EDL entries there with their
+   index, the words spoken). Do not re-read the transcript, the pack, the whole EDL or the plan; do not re-plan,
+   re-transcribe, re-run sound design or a full `vs review` for a local note.
+2. Change only the entries `focus.md` lists, with `vs edl`. Work from the latest timestamp backwards (earlier times
+   stay valid).
+3. After all notes of the round: ONE render that reuses the reviewed one:
+   `vs render $P/work/edl.json -o $P/out/<name>_v<N+1>.mp4 --since <reviewed render> <same --preset/--captions>`.
+   It re-encodes only the shots between the cuts around each change, copies the rest of the picture, remixes the
+   sound, and checks frame count and seams (it falls back to a full render by itself when a global setting changed
+   or most of the video did). Captions: regenerate the .ass only if timing changed; only changed events re-encode.
+4. Check only those windows: `vs notes focus ... --video <new render> --before <reviewed render>` (before/after
+   frames), then `vs notes done <id> --how "..."` (or `skip <id> --why "..."` and say why).
+Notes about the whole video (a new grade, "make it all faster", a different song) are not local: handle them with
+the normal steps; a music-only change still renders fast with `--since` (the picture is copied whole). Reply with the
 checklist. A note about taste that should apply to future videos → one line in `style/notes.md`. Log
 decisions in `project.md`.
 
 ## 6. Final
 `vs render ... -o $P/out/final.mp4 --preset <platform> --captions ...` (no `--preview`), `vs qa` again,
 then `/video-export` for other formats, thumbnails and `.srt`. Report the file paths, length, and QA.
+Then, every time a task finishes: offer the review page and social posting together (`/video-review`,
+`/social-post`: read `vs present pref` and `vs social pref`; whatever says `ask` goes into ONE AskUserQuestion call:
+"Present it in a Frame.io-style review page?" and "Post it to social media?"). Nothing is posted without the
+person approving the exact post plan.
 
 ## Hard rules
 1. Never cut inside a word (QA FAIL blocks delivery).

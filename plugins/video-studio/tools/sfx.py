@@ -468,8 +468,15 @@ def cmd_plan(a):
         moments += moments_from_video(a.video, a.threshold)
     if a.beats and a.on_beats:
         moments += [{"t": t, "cue": "beat", "why": "downbeat"} for t in load_json(a.beats).get("downbeats", [])[:: a.on_beats]]
-    if not moments:
-        die("no moments found: pass --edl, --hyperframes, --video and/or --beats")
+    if not (a.edl or a.hyperframes or a.video or (a.beats and a.on_beats)):
+        die("no moments to look at: pass --edl, --hyperframes, --video and/or --beats")
+    if not moments:  # a plain jump-cut talking head often has nothing that wants a sound: that's an answer, not an error
+        save_json(a.out, {"plan": [], "style": a.style, "missing_categories": []})
+        Path(a.out).with_suffix(".md").write_text(
+            "# Sound design plan\n\nNo moments that want a sound: no transitions, source changes, texts, overlays or "
+            "beats in this edit (jump cuts within one shot get no SFX). Nothing to apply.\n", encoding="utf-8")
+        print(f"0 cues: nothing in this edit wants a sound effect -> {a.out}")
+        return
     moments.sort(key=lambda m: m["t"])
     spans = speech_spans(a.words) if a.words else []
     if spans and a.drop_over_speech:
@@ -707,6 +714,9 @@ def cmd_check(a):
 def cmd_apply(a):
     need("ffmpeg")
     plan = load_json(a.plan)["plan"]
+    if not any(p_.get("file") for p_ in plan):
+        print(f"plan has no sounds to place: {a.out} not written (use {a.video} as it is)")
+        return
     info = probe(a.video)
     inputs, filt = build_mix(plan, info["duration"])
     n = len([p for p in plan if p.get("file")])

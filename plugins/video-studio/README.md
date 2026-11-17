@@ -53,6 +53,8 @@ Drop footage into `raw/` and talk to Claude:
 | `video-export` | platform presets, multi-aspect, GIF/WebM/ProRes/MP3, size limits, thumbnails, chapters |
 | `video-style-guide` | learn a style from reference videos |
 | `ai-presenter` | AI talking-head presenter and b-roll through the Higgsfield MCP (or another generator) as tracked jobs, pulled back into the edit |
+| `video-review` | Frame.io-style review page for a finished video: frame-accurate player, filmstrip timeline, comments pinned to frames or ranges, replies, resolve; offered after every finished task; comments come back as `vs notes` (`vs present`) |
+| `social-post` | Post a finished video to TikTok, Instagram Reels, YouTube/Shorts, LinkedIn or X through Composio: one checked upload per platform, platform captions, the exact plan approved before anything posts, links logged (`vs social`, `vs setup --social`) |
 | `task-history` | Client task history by code: every delivered version (files, link, note, snapshot of the edit), client feedback with done/skipped tracking, and `vs task resume <CODE>` to pick up exactly where you left off |
 | `library-learning` | Learn a client's footage from Drive, Frame.io, Dropbox, OneDrive, web pages, links or a local drive without downloading it all: scan, network frame sampling into contact sheets, described atlas, search, fetch on demand, usage log (`vs learn`) |
 | `ugc-ads` | UGC and VSL ads from a brief: audience/emotion/awareness → hooks, beats, captions, music; variants; ad QA (hook, words on screen, stimulus, safe zones, CTA, loudness, compliance); client review page |
@@ -80,6 +82,19 @@ before billing, Claude selects that workspace and states the account and credits
 Instagram rate-limits), TikTok, X, Vimeo, ~1,800 yt-dlp sites, Google Drive, Dropbox or a direct file, then
 writes `watch.md` with the caption, a Whisper transcript, the shot breakdown and timestamped frame sheets for
 Claude to read. Private or logged-in posts: `--cookies-from-browser chrome`.
+
+**Speed** (3-minute 1080p talk cut to a 2:35 Reel, 4 CPU cores): final render 88.6 s -> 54 s (x264 `veryfast`
+by default, same quality as `medium` on real footage; crop-then-scale framing; one decoder per run of jump cuts),
+review round 67.7 s -> 41 s, QA 32.6 s -> 12.5 s (one pass), silence detection 12.1 s -> 0.7 s, cut sheets 6.4 s ->
+2.4 s, a repeated transcription 0.1 s (cached). Renders also land on the right source frame: 97 % exact against
+82.5 % before. `--speed balanced|best` encodes masters with x264 medium/slow; `vs transcribe --fast` is a 2.5x faster
+draft for reading long recordings (not for cutting).
+
+**Fast revisions**: feedback is fixed where it was given. `vs notes focus <id>` shows only that moment (frames,
+the EDL entries there, the words), and `vs render ... --since out/final_v1.mp4` re-encodes only the shots between
+the cuts around each change and copies the rest of the picture (finals carry a keyframe at every cut and a
+`.render.json` manifest). On a 60 s 1080p edit: full render 31.7 s, one changed shot 15.0 s, a changed end card
+13.1 s, music-only 9.3 s; frame-exact and checked at every seam.
 
 **Agentic loop**: `vs edl` makes small edits (trim, split, cut a time range, delete, move, insert, set) with
 version history, undo/redo and ripple (texts, overlays, sfx follow the picture); `vs review` runs one
