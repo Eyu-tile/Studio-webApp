@@ -83,6 +83,29 @@ to the internet if your platform allows it.
 `DATABASE_URL`, `REDIS_URL`, the `S3_*` values, `S3_CREATE_BUCKET=false`. The API refuses to start with dev sign-in
 or a placeholder secret key.
 
+Claude workers (§6.1 of ARCHITECTURE.md) also need `AGENT_USER` and `AGENT_SANDBOX=true` (the worker image sets
+both); a Claude turn is refused without them.
+
+### Claude workers
+- The worker image runs as root on purpose: the root process only talks to the database and the bucket, media tools
+  run as `studio` (`WORKER_MEDIA_USER`) and Claude Code as `studio-agent` (`AGENT_USER`). Drop every capability it
+  doesn't need: `CHOWN`, `DAC_OVERRIDE`, `FOWNER`, `SETUID`, `SETGID` and `KILL` are enough.
+- Claude Code's sandbox uses bubblewrap, which needs **unprivileged user namespaces**. Docker's default seccomp
+  profile blocks them (verified: `bwrap` fails as a non-root user in a default container and works with
+  `seccomp=unconfined`). Production: a seccomp profile that is Docker's default plus `unshare`, `clone` / `clone3`
+  with namespace flags, and `setns`; on Ubuntu hosts also allow user namespaces in AppArmor
+  (`kernel.apparmor_restrict_unprivileged_userns=0` or a profile for `bwrap`). Platforms that can't create user
+  namespaces (some serverless containers, gVisor without the option) can't run Claude turns: the turn fails with
+  "Claude Code's sandbox can't run on this worker" rather than running unsandboxed. Run Claude workers on a node pool
+  that allows it, or one VM per worker.
+- Give each worker its own `WORKER_ROOT` (a shared volume lets one worker's Claude see another's turn).
+- `AGENT_NETWORK_DOMAINS` (comma list, `*.x.com` for subdomains) replaces the built-in list of tool APIs, media CDNs,
+  fonts and npm (`worker/agent_isolation.py`). Add a client tool's host there before Claude can call it from a shell.
+- Never put the worker's own credentials in `AGENT_ENV_PASSTHROUGH` (refused). For Bedrock or Vertex, give Claude its
+  own credentials with `AGENT_ENV_AWS_ACCESS_KEY_ID` etc. (an IAM user that can only invoke Bedrock models), not the
+  worker's role, which can read the bucket.
+- Certificate bundles and anything else Claude's tools need must be readable by `studio-agent`.
+
 ## 5. Operations
 - Health: `GET /api/healthz` (process up) and `GET /api/readyz` (database, Redis and storage reachable) for the
   load balancer and alerts.

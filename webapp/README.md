@@ -55,7 +55,8 @@ docker compose -f webapp/deploy/docker-compose.yml up --build
 open http://localhost:3000          # dev sign-in: any email; the first person becomes admin
 ```
 
-**Without Docker** (Postgres 16, Redis 7, ffmpeg, Python 3.12+, Node 22 installed):
+**Without Docker** (Postgres 16, Redis 7, ffmpeg, Python 3.12+, Node 22 installed; for the Claude tab also
+bubblewrap and socat, Claude Code's sandbox, or set `AGENT_SANDBOX=false` on a dev machine):
 ```bash
 cd webapp/api && uv venv && uv pip install -e ".[dev]"
 cp ../.env.example .env                       # point DATABASE_URL / REDIS_URL / S3_* at your services

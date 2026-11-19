@@ -31,7 +31,7 @@ FROM base AS worker
 ARG WHISPER_MODELS="small"
 ARG NODE_MAJOR=22
 RUN apt-get update && apt-get install -y --no-install-recommends ffmpeg fonts-dejavu-core fontconfig ca-certificates \
-      curl gnupg git chromium \
+      curl gnupg git chromium bubblewrap socat \
  && curl -fsSL https://deb.nodesource.com/setup_${NODE_MAJOR}.x | bash - \
  && apt-get install -y --no-install-recommends nodejs \
  && rm -rf /var/lib/apt/lists/*
@@ -40,6 +40,12 @@ ENV VS_VENV=/opt/vs-venv WHISPER_MODEL_DIR=/models WORKER_ROOT=/work
 RUN python -m venv /opt/vs-venv \
  && /opt/vs-venv/bin/pip install "faster-whisper>=1.0" "numpy>=1.26" "gdown>=5" "yt-dlp" "huggingface_hub>=0.23" \
  && for m in $WHISPER_MODELS; do /opt/vs-venv/bin/python -c "from huggingface_hub import snapshot_download as d; d('Systran/faster-whisper-$m', local_dir='/models/faster-whisper-$m')"; done \
- && mkdir -p /work && chown studio /work
-USER studio
+ && mkdir -p /work && chmod 0711 /work
+# Who runs what (worker/agent_isolation.py): the worker process is root and only talks to the database and the bucket;
+# vs / ffmpeg / ffprobe on uploaded media run as `studio`; Claude Code runs as `studio-agent`, which owns nothing but
+# the workspace of the turn in progress and never sees the worker's environment. Bubblewrap + socat are Claude Code's
+# sandbox for Bash (network allowlist); it needs user namespaces (see docs/DEPLOY.md, "Claude workers").
+RUN useradd --create-home --uid 10002 --user-group --shell /usr/sbin/nologin studio-agent
+ENV AGENT_USER=studio-agent WORKER_MEDIA_USER=studio AGENT_SANDBOX=true
+USER root
 CMD ["python", "-m", "worker.main"]

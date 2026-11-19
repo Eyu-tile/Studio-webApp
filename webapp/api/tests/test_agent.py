@@ -395,3 +395,38 @@ def test_one_turn_per_project(admin, engine_on):
     assert admin.post(f"/api/projects/{other['id']}/claude/threads", json={"text": "c"}).status_code == 201
     admin.post(f"/api/claude/threads/{first['id']}/stop")
     assert admin.post(f"/api/projects/{p['id']}/claude/threads", json={"text": "b"}).status_code == 201
+
+
+def test_a_turn_runs_isolated_and_fails_closed(admin, engine_on, monkeypatch):
+    """Claude starts through the isolating launcher with the sandbox on; a worker that can't sandbox runs nothing."""
+    from app.config import get_settings
+    from worker import agent_isolation
+    b = brand(admin)
+    p = project(admin, b["id"])
+    monkeypatch.setattr(get_settings(), "agent_sandbox", True)
+    seen = {}
+
+    async def script(options, cwd):
+        seen["options"] = options
+        seen["read_proc"] = await options.can_use_tool("Read", {"file_path": "/proc/1/environ"}, None)
+        yield _result()
+    FakeClient.script = script
+
+    monkeypatch.setattr(agent_isolation, "_sandbox_ok", lambda user: None)
+    tid = admin.post(f"/api/projects/{p['id']}/claude/threads", json={"text": "hi"}).json()["id"]
+    assert run_one("test-worker")
+    o = seen["options"]
+    assert o.cli_path == str(agent_isolation.LAUNCHER)
+    assert o.sandbox["enabled"] and o.sandbox["allowUnsandboxedCommands"] is False
+    keep = o.env["STUDIO_AGENT_KEEP"].split(",")
+    assert "ANTHROPIC_API_KEY" in keep and not {"DATABASE_URL", "SECRETS_KEY", "S3_SECRET_ACCESS_KEY"} & set(keep)
+    assert "Read(/" in o.settings
+    assert seen["read_proc"].behavior == "deny"
+
+    seen.clear()
+    monkeypatch.setattr(agent_isolation, "_sandbox_ok", lambda user: "install bwrap")
+    assert admin.post(f"/api/claude/threads/{tid}/messages", json={"text": "again"}).status_code == 201
+    assert run_one("test-worker")
+    assert "options" not in seen                                   # Claude never started
+    d = admin.get(f"/api/claude/threads/{tid}").json()
+    assert d["status"] == "failed" and "sandbox" in d["last_error"]

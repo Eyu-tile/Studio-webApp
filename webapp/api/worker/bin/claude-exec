@@ -1,0 +1,3 @@
+#!/bin/sh
+# The SDK's cli_path for agent turns: start Claude Code through worker/agent_exec.py (clean environment, own user).
+exec "$STUDIO_AGENT_PYTHON" -I "$(dirname "$0")/../agent_exec.py" "$@"

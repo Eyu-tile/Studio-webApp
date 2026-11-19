@@ -73,6 +73,25 @@ class Settings(BaseSettings):
     agent_plugin_dir: Path = REPO_ROOT / "plugins" / "video-studio"
     claude_cli_path: str | None = None                  # the `claude` binary; unset uses the SDK's bundled CLI
 
+    # Isolation of what Claude runs (worker/agent_isolation.py, docs/ARCHITECTURE.md §6). Claude Code always starts
+    # with only the turn's own variables (the brand's keys, the workspace, the Anthropic credential), never the
+    # worker's database, bucket or secrets keys. Production refuses a turn unless both settings below are on.
+    # A Unix user Claude Code runs as, with no access to anything but the turn's workspace. The worker must run as
+    # root to switch (the worker image does: root parent, `studio` for media tools, `studio-agent` for Claude).
+    agent_user: str | None = None
+    # with the worker running as root: the unprivileged user that runs vs / ffmpeg / ffprobe on uploaded media
+    worker_media_user: str | None = None
+    # Claude Code's own sandbox for Bash (bubblewrap + socat on Linux): writes only in the workspace, network only to
+    # the domains below (no cloud metadata service, no Redis or Postgres). A turn fails if the sandbox can't run.
+    agent_sandbox: bool = True
+    # Docker without user namespaces: the sandbox's weaker nested mode (less isolation; prefer allowing userns)
+    agent_sandbox_weaker_nested: bool = False
+    # comma list of domains Claude's commands may reach ("*.example.com" for subdomains); empty = the built-in list
+    agent_network_domains: str = ""
+    # comma list of extra variable names Claude may see, e.g. Bedrock / Vertex settings. Never credentials the
+    # worker uses itself (database, bucket, secrets keys, the worker's cloud role): those are refused.
+    agent_env_passthrough: str = ""
+
     @property
     def is_production(self) -> bool:
         return self.env == "production"

@@ -20,6 +20,8 @@ from app.db import SessionLocal
 from app.brand_env import brand_env
 from app.models import Asset, AssetKind, AssetStatus, Brand, Project, Version
 
+from .agent_isolation import give, media_user_kwargs, tool_env
+
 ASSET_REF = "asset:"
 
 
@@ -79,9 +81,11 @@ class JobContext:
         if cmd[0] == "vs":
             cmd[0] = str(get_settings().vs_bin)
         self.log("$ " + " ".join(Path(c).name if c.startswith(str(self.ws)) else c for c in cmd))
-        env = {**os.environ, **self.secret_env, **(extra_env or {}), "VS_WORKSPACE": str(self.ws), "PYTHONUNBUFFERED": "1"}
+        # only what the tool needs: never the worker's database, bucket or secrets keys (worker/agent_isolation.py)
+        env = tool_env({**self.secret_env, **(extra_env or {}), "VS_WORKSPACE": str(self.ws), "PYTHONUNBUFFERED": "1"})
+        give(self.ws.parent, get_settings().worker_media_user)        # the media user writes here (worker as root)
         self._proc = subprocess.Popen(cmd, cwd=cwd or self.ws.parent, env=env, stdout=subprocess.PIPE,
-                                      stderr=subprocess.STDOUT, text=True, bufsize=1)
+                                      stderr=subprocess.STDOUT, text=True, bufsize=1, **media_user_kwargs())
         out = []
         for line in self._proc.stdout:
             out.append(line)
@@ -145,7 +149,7 @@ class JobContext:
 
 def ffprobe(path: Path) -> dict:
     p = subprocess.run(["ffprobe", "-v", "error", "-print_format", "json", "-show_format", "-show_streams", str(path)],
-                       capture_output=True, text=True)
+                       capture_output=True, text=True, env=tool_env(), **media_user_kwargs())
     if p.returncode != 0:
         raise RuntimeError(f"not a readable media file: {p.stderr.strip()[:200]}")
     d = json.loads(p.stdout)

@@ -32,6 +32,7 @@ from app.models import (AgentApproval, AgentMessage, AgentThread, Asset, AssetKi
                         ConnStatus, Note, NoteStatus, Project, User, Version)
 from app.providers import PROVIDERS
 
+from .agent_isolation import APP_DIR, LAUNCHER, TurnJail
 from .handlers import Canceled, JobContext, ffprobe, fmt_info, materialize, portable, sync_caught, write_lessons
 
 log = logging.getLogger("studio.agent")
@@ -405,9 +406,10 @@ def make_permission(ctx: JobContext, thread: Thread, conns: dict[str, Connection
     from claude_agent_sdk import PermissionResultAllow, PermissionResultDeny
     workspace = ctx.ws.parent
     timeout = get_settings().agent_approval_timeout_s
+    private = (get_settings().worker_root, APP_DIR)        # other projects, other turns' homes, the app and its .env
 
     async def can_use_tool(tool: str, args: dict, _context) -> object:
-        d = agent_policy.decide(tool, args, workspace)
+        d = agent_policy.decide(tool, args, workspace, private)
         if d.action == agent_policy.ALLOW:
             return PermissionResultAllow(updated_input=args)
         if d.action == agent_policy.DENY:
@@ -453,17 +455,23 @@ def _brief_input(args: dict) -> dict:
     return out
 
 
-def build_options(ctx: JobContext, thread: Thread, conns: dict, prompt_append: str, resume: str | None):
+def build_options(ctx: JobContext, thread: Thread, conns: dict, prompt_append: str, resume: str | None,
+                  jail: TurnJail):
+    """Claude Code for this turn. It starts through the jail's launcher, so it sees only `env` below (plus the
+    allowlisted locale / certificate / proxy variables), never the worker's own credentials."""
     from claude_agent_sdk import ClaudeAgentOptions
     from app.agent_store import PgSessionStore
     s = get_settings()
     plugin = s.agent_plugin_dir
     env = {**ctx.secret_env, "VS_WORKSPACE": str(ctx.ws), "VS_ROOT": str(plugin),
-           "PATH": f"{plugin / 'bin'}:{os.environ.get('PATH', '')}", "PYTHONUNBUFFERED": "1",
-           "CLAUDE_CONFIG_DIR": str(s.worker_root / ".claude"),
-           "CLAUDE_CODE_DISABLE_AUTO_MEMORY": "1", "DISABLE_AUTOUPDATER": "1"}
-    if s.anthropic_api_key:
-        env["ANTHROPIC_API_KEY"] = s.anthropic_api_key
+           "PATH": f"{plugin / 'bin'}:{os.environ.get('PATH', '/usr/local/bin:/usr/bin:/bin')}",
+           "PYTHONUNBUFFERED": "1", "CLAUDE_CODE_DISABLE_AUTO_MEMORY": "1", "DISABLE_AUTOUPDATER": "1"}
+    for name, value in (("ANTHROPIC_API_KEY", s.anthropic_api_key), ("CLAUDE_CODE_OAUTH_TOKEN", None)):
+        if value or os.environ.get(name):
+            env[name] = value or os.environ[name]
+    # credentials meant for Claude alone (a Bedrock-only IAM key, a Vertex service account): AGENT_ENV_<NAME> is
+    # <NAME> in Claude's environment. Never the worker's own role, which can read the bucket.
+    env |= {k[len("AGENT_ENV_"):]: v for k, v in os.environ.items() if k.startswith("AGENT_ENV_") and v}
     mcp = {}
     hf = conns.get("higgsfield")
     if hf:
@@ -482,15 +490,14 @@ def build_options(ctx: JobContext, thread: Thread, conns: dict, prompt_append: s
         setting_sources=[], mcp_servers=mcp, strict_mcp_config=True, model=s.agent_model,
         permission_mode="default", can_use_tool=make_permission(ctx, thread, conns),
         disallowed_tools=["AskUserQuestion", "EnterPlanMode", "ExitPlanMode"], max_turns=s.agent_max_turns,
-        max_budget_usd=s.agent_turn_budget_usd, env=env, include_partial_messages=True,
+        max_budget_usd=s.agent_turn_budget_usd, env=jail.environment(env), include_partial_messages=True,
         session_store=PgSessionStore(), resume=resume, client_app="studio",
+        cli_path=str(LAUNCHER), settings=jail.settings_json(), sandbox=jail.sandbox(),
         stderr=lambda line: ctx.log("claude: " + line))
     if s.agent_fallback_model:
         opts["fallback_model"] = s.agent_fallback_model
     if s.agent_effort:
         opts["effort"] = s.agent_effort
-    if s.claude_cli_path:
-        opts["cli_path"] = s.claude_cli_path
     return ClaudeAgentOptions(**opts)
 
 
@@ -578,8 +585,9 @@ def agent_turn(ctx: JobContext) -> dict:
         info = prepare(ctx)
         before = out_state(ctx)
         ctx.step(0.15, "Claude is working")
-        options = build_options(ctx, thread, conns, system_prompt(ctx, info, conns, editor), resume)
-        result = asyncio.run(converse(ctx, thread, options, p["text"], first=not resume))
+        with TurnJail(ctx.ws.parent, ctx.job_id) as jail:
+            options = build_options(ctx, thread, conns, system_prompt(ctx, info, conns, editor), resume, jail)
+            result = asyncio.run(converse(ctx, thread, options, p["text"], first=not resume))
         ctx.step(0.92, "collecting what Claude made")
         made = collect(ctx, thread, before, info, uid)
         sync_caught(ctx, info["caught_before"])

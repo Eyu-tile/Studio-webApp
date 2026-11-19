@@ -119,7 +119,29 @@ browser ──POST message──► API ──job──► worker
   message and the running cost per conversation is shown; a turn whose worker dies is failed, never silently re-run
   (it may have spent credits already). Stop interrupts Claude mid-turn.
 - **Auth**: `ANTHROPIC_API_KEY`, or Bedrock / Vertex (`CLAUDE_CODE_USE_BEDROCK` / `CLAUDE_CODE_USE_VERTEX`) on the
-  API and workers. Model `AGENT_MODEL` (default `claude-opus-5-5`).
+  API and workers. Model `AGENT_MODEL` (default `claude-opus-5-5`). Cloud credentials for Claude go in as
+  `AGENT_ENV_<NAME>` (a Bedrock-only key, say), never the worker's own role.
+
+### 6.1 Isolation: what Claude's commands can reach
+
+Claude reads untrusted input (footage transcripts, library files, web pages), so a prompt injection must not reach
+the worker's credentials or another brand's files. The policy above is a guard rail; the boundary is
+`worker/agent_isolation.py`, in layers:
+
+| Layer | What it does | Stops |
+|---|---|---|
+| Clean environment | The SDK always merges the worker's environment into the CLI's, so `cli_path` is a launcher (`worker/agent_exec.py`) that keeps only the turn's variables (brand keys, workspace, Anthropic credential, locale/certs/proxy) and execs the CLI | `DATABASE_URL`, `S3_*`, `SECRETS_KEY`, the worker's cloud role reaching Claude or its commands |
+| Own Unix user | `AGENT_USER` (`studio-agent` in the image): the launcher drops to it with its own group only; it owns only the turn's workspace and a throwaway HOME / Claude config dir; leftover processes are killed and files handed back (no symlink or hard-link following) | Reading `/proc/<worker>/environ`, the app's files, other projects' workspaces, other turns' transcripts |
+| Sandbox | Claude Code's sandbox (bubblewrap + socat on Linux) for every Bash command, no opt-out: writes only in the workspace, network only to `AGENT_NETWORK_DOMAINS`. A turn fails closed if it can't run | The cloud metadata service (the worker's IAM role), Redis, Postgres, the bucket endpoint, exfiltration to arbitrary hosts from a shell |
+| File-tool policy | Read / Grep / Glob / LS denied on `/proc`, `/sys`, the worker root outside the workspace, the app, `.env*` (symlinks judged by their target) | The same reads through Claude's own tools rather than a shell |
+
+Media jobs get the same clean environment and run `vs` / ffmpeg / ffprobe as `WORKER_MEDIA_USER` (`studio`); the
+worker process itself is root only to switch users, and does nothing but database, bucket and file work.
+Production refuses a turn without `AGENT_USER` and the sandbox.
+
+Still open: the brand's own keys and the Anthropic credential are in the turn's environment by design (a turn can
+leak its own brand's keys, not another's); WebFetch / WebSearch run in the CLI, outside the sandbox's network
+allowlist; a separate container (or VM) per turn would also isolate the kernel and the worker's disk.
 
 ## 7. Third-party connections (M3)
 
@@ -140,6 +162,7 @@ Paid actions always show the account and cost and need approval; spend caps per 
   secrets they need; presigned URLs are short-lived and per object.
 - Audit log of sign-ins, membership changes, uploads, renders, approvals, deliveries and connection changes.
 - No secrets in the browser, logs, job payloads or agent messages.
+- Claude's tools: clean environment, own Unix user, Claude Code's sandbox with a network allowlist (§6.1).
 
 ## 9. Deployment
 

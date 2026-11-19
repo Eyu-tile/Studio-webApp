@@ -8,7 +8,12 @@ Code would normally ask about comes here (the SDK's `can_use_tool` callback) and
   ask       anything that spends a client's credits or acts outside the studio: Higgsfield generation, ElevenLabs /
             HeyGen / OpenAI / Gemini voice and music, posting to social. A brand lead approves in the browser, and
             the card names the client account that would be charged (the "confirm the account first" rule)
-  deny      never: writing outside the workspace, printing secrets, piping the internet into a shell, wiping disks
+  deny      never: writing outside the workspace, printing secrets, piping the internet into a shell, wiping disks,
+            reading process environments (/proc), the app's own files or other projects' workspaces
+
+These rules are a guard rail for honest mistakes and the obvious injections, not the security boundary: a shell can
+always be talked around a regex. The boundary is worker/agent_isolation.py (clean environment, own Unix user,
+Claude Code's sandbox).
 
 Pure functions so the rules are unit-tested without a model.
 """
@@ -24,6 +29,10 @@ SAFE_TOOLS = {"Read", "Glob", "Grep", "LS", "Skill", "Task", "Agent", "TodoWrite
               "WebFetch", "ToolSearch", "BashOutput", "KillShell", "KillBash", "TaskOutput", "TaskStop",
               "ListMcpResourcesTool", "ReadMcpResourceTool"}
 WRITE_TOOLS = {"Write", "Edit", "MultiEdit", "NotebookEdit"}
+# file tools that read: which arguments hold a path (Glob's pattern only when absolute)
+READ_PATHS = {"Read": ("file_path",), "LS": ("path",), "Grep": ("path",),
+              "Glob": ("path", "pattern")}
+NEVER_READ = (Path("/proc"), Path("/sys"))
 
 # Higgsfield MCP: read-only calls run freely; everything else spends credits or publishes
 HF_READ = re.compile(r"^(list_|get_|show_|search_|estimate_|balance$|models_explore$|apps_search$|apps_describe$|"
@@ -95,7 +104,45 @@ def short(cmd: str, n: int = 160) -> str:
     return cmd if len(cmd) <= n else cmd[: n - 1] + "…"
 
 
-def decide(tool: str, args: dict, workspace: Path) -> Decision:
+def _closed(path: str, workspace: Path, private: tuple[Path, ...], searches: bool) -> str | None:
+    """Why a file tool may not read `path`, or None. Symlinks are followed first, so a link in the workspace is judged
+    by where it points. `searches`: the tool descends into folders (Grep, Glob, LS), so a closed folder anywhere
+    under `path` closes it too."""
+    if not path:
+        return None
+    if any(ch in path for ch in "*?[") and not path.startswith("/"):
+        return None                                           # a relative glob: searched from the workspace
+    head = path.split("*", 1)[0].split("?", 1)[0].split("[", 1)[0] or "/"
+    try:
+        p = Path(head)
+        p = (workspace / p) if not p.is_absolute() else p
+        p = p.resolve()
+    except (OSError, ValueError, RuntimeError):
+        return "an unreadable path"
+    if any(part.startswith(".env") for part in p.parts):
+        return "environment files"
+    if p.is_relative_to(workspace.resolve()):
+        return None
+    closed = [(r, "process and system state") for r in NEVER_READ]
+    for root in private:
+        try:
+            closed.append((root.resolve(), "the studio's own files and other projects"))
+        except OSError:
+            continue
+    for root, why in closed:
+        if p.is_relative_to(root) or (searches and root.is_relative_to(p)):
+            return why
+    return None
+
+
+def decide(tool: str, args: dict, workspace: Path, private: tuple[Path, ...] = ()) -> Decision:
+    """`private`: folders outside the workspace no tool may read (the worker's root, the app)."""
+    if tool in READ_PATHS:
+        for key in READ_PATHS[tool]:
+            why = _closed(str(args.get(key) or ""), workspace, private, searches=tool != "Read")
+            if why:
+                return Decision(DENY, f"Not allowed in the studio: reading {why} ({args.get(key)})")
+        return Decision(ALLOW)
     if tool in SAFE_TOOLS:
         return Decision(ALLOW)
     if tool in WRITE_TOOLS:

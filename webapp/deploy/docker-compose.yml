@@ -55,8 +55,12 @@ services:
     build: { context: ../.., dockerfile: webapp/deploy/backend.Dockerfile, target: worker }
     depends_on:
       migrate: { condition: service_completed_successfully }
-    volumes: [work:/work]
+    # each worker keeps its own /work (a shared volume would let one worker's Claude see another's turn)
     deploy: { replicas: 2 }
+    # Claude Code's sandbox (bubblewrap) needs user namespaces, which Docker's default seccomp profile blocks. This
+    # lifts seccomp filtering for the worker only; production should use a profile that allows just unshare/clone
+    # with namespaces instead (docs/DEPLOY.md, "Claude workers"). Without either, Claude turns fail closed.
+    security_opt: ["seccomp=unconfined"]
 
   web:
     build: { context: ../.., dockerfile: webapp/deploy/web.Dockerfile, args: { API_URL: "http://api:8000" } }
@@ -64,4 +68,4 @@ services:
     depends_on: [api]
     restart: unless-stopped
 
-volumes: { pgdata: {}, media: {}, work: {} }
+volumes: { pgdata: {}, media: {} }

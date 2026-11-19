@@ -4,7 +4,8 @@ os.environ.update({
     "STUDIO_ENV_FILE": "none", "ENV": "test", "DATABASE_URL": os.environ.get("TEST_DATABASE_URL", "postgresql+psycopg://studio:studio@localhost:5432/studio_test"),
     "S3_ENDPOINT_URL": "http://127.0.0.1:9011", "S3_ACCESS_KEY_ID": "test", "S3_SECRET_ACCESS_KEY": "test",
     "S3_BUCKET": "studio-test", "S3_CREATE_BUCKET": "true", "WORKER_ROOT": "/tmp/studio-test-worker", "AUTH_MODE": "dev", "BOOTSTRAP_ADMINS": "admin@example.com",
-    "PUBLIC_URL": "http://localhost:3000", "SECRETS_KEY": "PI5rulZQPo_8m92ftc4VHBplQXwjsnZkUBs2qkOoY0U=", "LIBRARY_ALLOW_PRIVATE_HOSTS": "true"})
+    "PUBLIC_URL": "http://localhost:3000", "SECRETS_KEY": "PI5rulZQPo_8m92ftc4VHBplQXwjsnZkUBs2qkOoY0U=", "LIBRARY_ALLOW_PRIVATE_HOSTS": "true",
+    "AGENT_SANDBOX": "false"})   # sandbox needs user namespaces; tests/test_isolation.py covers it
 
 import pytest  # noqa: E402
 from alembic import command  # noqa: E402
