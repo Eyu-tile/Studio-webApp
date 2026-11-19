@@ -12,11 +12,12 @@ from pydantic import BaseModel, ConfigDict, Field
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-from .. import audit, events, queue
+from .. import audit, events, queue, spend
 from ..config import get_settings
 from ..db import get_db, utcnow
-from ..deps import brand_role, current_user, get_brand, get_project
-from ..models import ROLE_RANK, AgentApproval, AgentMessage, AgentThread, BrandRole, Job, JobStatus, User
+from ..deps import brand_role, current_user, get_brand, get_project, require_admin
+from ..models import (ROLE_RANK, AgentApproval, AgentMessage, AgentThread, Brand, BrandRole, Connection, Job,
+                      JobStatus, User)
 from ..schemas import UserBrief
 
 router = APIRouter(tags=["claude"])
@@ -58,11 +59,16 @@ class ApprovalOut(BaseModel):
     reason: str
     account: str
     paid: bool
+    provider: str | None = None
+    cost_usd: float | None = None
     status: str
     note: str
     decided_by: UserBrief | None
     decided_at: datetime | None
     created_at: datetime
+    # the account's monthly cap and what's approved against it this month (None: no cap)
+    cap_usd: float | None = None
+    cap_spent_usd: float | None = None
 
 
 class ThreadDetail(ThreadOut):
@@ -82,6 +88,26 @@ class NewThreadIn(BaseModel):
 class DecideIn(BaseModel):
     approve: bool
     note: str = Field("", max_length=500)
+    cost_usd: float | None = Field(None, ge=0, le=100000)    # the approver's estimate; required on a capped account
+
+
+class BudgetLine(BaseModel):
+    provider: str
+    limit_usd: float | None
+    spent_usd: float
+    remaining_usd: float | None
+
+
+class BudgetOut(BaseModel):
+    month: str
+    claude: BudgetLine
+    claude_default_usd: float | None          # AGENT_BRAND_MONTHLY_BUDGET_USD, used when the brand sets none
+    claude_brand_usd: float | None            # the brand's own setting (None: the default)
+    tools: list[BudgetLine]                   # the client's connected accounts
+
+
+class BudgetIn(BaseModel):
+    limit_usd: float | None = Field(None, ge=0, le=1000000)   # None: back to the default; 0: Claude off
 
 
 class Capability(BaseModel):
@@ -224,7 +250,7 @@ def detail(db: Session, t: AgentThread) -> ThreadDetail:
     out = ThreadDetail.model_validate({**ThreadOut.model_validate(t).model_dump(), "messages": [], "approvals": []})
     out.messages = [MessageOut.model_validate(m) for m in db.scalars(
         select(AgentMessage).where(AgentMessage.thread_id == t.id).order_by(AgentMessage.seq))]
-    out.approvals = [ApprovalOut.model_validate(a) for a in db.scalars(
+    out.approvals = [approval_out(db, a, t.brand_id) for a in db.scalars(
         select(AgentApproval).where(AgentApproval.thread_id == t.id).order_by(AgentApproval.created_at))]
     return out
 
@@ -250,6 +276,10 @@ def _send(db: Session, t: AgentThread, user: User, text: str, request: Request) 
         if other.status in BUSY:
             raise HTTPException(409, f"Claude is working on \"{other.title}\" in this project (they share its files): "
                                      "wait for it, or stop it first")
+    try:                                                   # this month's Claude budget for the brand
+        spend.refuse_if_exhausted(db, db.get(Brand, t.brand_id))
+    except spend.BudgetExhausted as e:
+        raise HTTPException(402, str(e)) from None
     from sqlalchemy import func
     seq = (db.scalar(select(func.max(AgentMessage.seq)).where(AgentMessage.thread_id == t.id)) or 0) + 1
     m = AgentMessage(thread_id=t.id, seq=seq, role="user", body={"text": text}, author_id=user.id)
@@ -305,12 +335,27 @@ def rename(thread_id: uuid.UUID, body: RenameIn, db: Session = Depends(get_db), 
 
 # --- approvals -------------------------------------------------------------------------------------------------------
 
+def _conn(db: Session, brand_id: uuid.UUID, provider: str | None) -> Connection | None:
+    if not provider:
+        return None
+    return db.scalar(select(Connection).where(Connection.brand_id == brand_id, Connection.provider == provider))
+
+
+def approval_out(db: Session, a: AgentApproval, brand_id: uuid.UUID) -> ApprovalOut:
+    out = ApprovalOut.model_validate(a)
+    c = _conn(db, brand_id, a.provider) if a.paid else None
+    if c is not None and c.spend_cap_monthly is not None:
+        out.cap_usd, out.cap_spent_usd = c.spend_cap_monthly, spend.cap_budget(db, c).spent
+    return out
+
+
 @router.get("/brands/{brand_id}/claude/approvals", response_model=list[ApprovalOut])
 def pending_approvals(brand_id: uuid.UUID, db: Session = Depends(get_db), user: User = Depends(current_user)):
     get_brand(db, user, brand_id)
-    return db.scalars(select(AgentApproval).join(AgentThread, AgentThread.id == AgentApproval.thread_id)
+    rows = db.scalars(select(AgentApproval).join(AgentThread, AgentThread.id == AgentApproval.thread_id)
                       .where(AgentThread.brand_id == brand_id, AgentApproval.status == "pending")
                       .order_by(AgentApproval.created_at)).all()
+    return [approval_out(db, a, brand_id) for a in rows]
 
 
 @router.post("/claude/approvals/{approval_id}", response_model=ApprovalOut)
@@ -325,11 +370,53 @@ def decide(approval_id: uuid.UUID, body: DecideIn, request: Request, db: Session
         raise HTTPException(403, "a brand lead approves paid steps and anything outside the studio")
     if a.status != "pending":
         raise HTTPException(409, f"already {a.status}")
+    if body.approve and a.paid:                            # counts against the account's monthly cap
+        try:
+            spend.approve_paid(db, _conn(db, t.brand_id, a.provider), body.cost_usd, a.id, t.id)
+        except spend.BudgetExhausted as e:
+            db.rollback()
+            raise HTTPException(409, str(e)) from None
+        a.cost_usd = body.cost_usd
     a.status = "approved" if body.approve else "denied"
     a.note, a.decided_by_id, a.decided_at = body.note.strip(), user.id, utcnow()
     audit.record(db, user, "claude.approve" if body.approve else "claude.decline", a.title, t.brand_id, request,
-                 tool=a.tool, account=a.account or None, paid=a.paid, note=a.note or None)
+                 tool=a.tool, account=a.account or None, paid=a.paid, note=a.note or None, cost_usd=a.cost_usd)
     db.commit()
     events.publish(t.project_id, "agent_approval", {"thread_id": str(t.id), "approval_id": str(a.id),
                                                     "status": a.status})
-    return a
+    return approval_out(db, a, t.brand_id)
+
+
+# --- budgets ---------------------------------------------------------------------------------------------------------
+
+def budget_out(db: Session, b: Brand) -> BudgetOut:
+    from ..providers import PROVIDERS
+    c = spend.claude_budget(db, b)
+    tools = []
+    for conn in db.scalars(select(Connection).where(Connection.brand_id == b.id).order_by(Connection.provider)):
+        if conn.provider in PROVIDERS and not PROVIDERS[conn.provider].paid:
+            continue
+        tb = spend.cap_budget(db, conn)
+        tools.append(BudgetLine(provider=conn.provider, limit_usd=tb.limit, spent_usd=tb.spent,
+                                remaining_usd=tb.remaining))
+    return BudgetOut(month=c.month, claude=BudgetLine(provider=spend.CLAUDE, limit_usd=c.limit, spent_usd=c.spent,
+                                                      remaining_usd=c.remaining),
+                     claude_default_usd=get_settings().agent_brand_monthly_budget_usd,
+                     claude_brand_usd=b.claude_budget_monthly, tools=tools)
+
+
+@router.get("/brands/{brand_id}/budget", response_model=BudgetOut)
+def read_budget(brand_id: uuid.UUID, db: Session = Depends(get_db), user: User = Depends(current_user)):
+    return budget_out(db, get_brand(db, user, brand_id))
+
+
+@router.put("/brands/{brand_id}/budget", response_model=BudgetOut)
+def set_budget(brand_id: uuid.UUID, body: BudgetIn, request: Request, db: Session = Depends(get_db),
+               user: User = Depends(require_admin)):
+    """The brand's monthly Claude budget: the studio's own money, so admins set it (leads set tool caps)."""
+    b = get_brand(db, user, brand_id)
+    before = b.claude_budget_monthly
+    b.claude_budget_monthly = body.limit_usd
+    audit.record(db, user, "brand.claude_budget", b.name, b.id, request, before=before, after=body.limit_usd)
+    db.commit()
+    return budget_out(db, b)

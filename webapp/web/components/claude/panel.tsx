@@ -8,6 +8,7 @@ import type { KeyboardEvent, ReactNode } from "react";
 import { Avatar, Badge, Button, Card, Dialog, Input, Skeleton, Spinner, useToast } from "@/components/ui";
 import { api } from "@/lib/api";
 import { ago, bytes } from "@/lib/format";
+import { money } from "@/components/brand/spending";
 import type { AgentMsg, Approval, Asset, Capabilities, Thread, ThreadDetail } from "@/lib/types";
 
 const BUSY = new Set(["queued", "running", "waiting"]);
@@ -330,8 +331,14 @@ function ApprovalCard({ a, fallback, isLead, threadId }: { a?: Approval; fallbac
   const qc = useQueryClient();
   const toast = useToast();
   const [note, setNote] = useState("");
+  const [cost, setCost] = useState("");
+  const capped = a?.cap_usd != null;
+  const costNum = cost.trim() === "" ? null : Number(cost);
+  const costBad = costNum != null && (!Number.isFinite(costNum) || costNum < 0);
+  const left = capped ? Math.max(0, a!.cap_usd! - (a!.cap_spent_usd ?? 0)) : null;
   const decide = useMutation({
-    mutationFn: (approve: boolean) => api.post<Approval>(`/claude/approvals/${a!.id}`, { approve, note }),
+    mutationFn: (approve: boolean) =>
+      api.post<Approval>(`/claude/approvals/${a!.id}`, { approve, note, ...(approve && a?.paid && costNum != null ? { cost_usd: costNum } : {}) }),
     onSuccess: () => qc.invalidateQueries({ queryKey: ["claude", threadId] }),
     onError: (e: Error) => toast(e.message, "danger"),
   });
@@ -348,6 +355,11 @@ function ApprovalCard({ a, fallback, isLead, threadId }: { a?: Approval; fallbac
           </p>
           <p className="mt-0.5 text-[13px] text-text-2">{v.reason}</p>
           {v.account && <p className="mt-1.5 text-[13px]"><span className="text-text-3">Account: </span><b>{v.account}</b></p>}
+          {capped && (
+            <p className="mt-1 text-[13px]"><span className="text-text-3">Monthly cap: </span>
+              {money(a!.cap_spent_usd ?? 0)} of {money(a!.cap_usd!)} approved this month · <b>{money(left!)} left</b></p>
+          )}
+          {status === "approved" && a?.cost_usd != null && <p className="mt-1 text-[13px]"><span className="text-text-3">Estimated cost: </span>{money(a.cost_usd)}</p>}
           {v.input && Object.keys(v.input).length > 0 && (
             <pre className="mt-2 max-h-32 overflow-auto whitespace-pre-wrap break-all rounded-md bg-surface/70 px-2 py-1.5 font-mono text-[11px] text-text-2">{JSON.stringify(v.input, null, 1)}</pre>
           )}
@@ -355,8 +367,16 @@ function ApprovalCard({ a, fallback, isLead, threadId }: { a?: Approval; fallbac
           {status === "pending" && a && (
             <div className="mt-3 flex flex-wrap items-center gap-2">
               <Input className="h-8 min-w-0 flex-1 text-[13px]" placeholder="Note to Claude (optional)" value={note} onChange={(e) => setNote(e.target.value)} />
+              {v.paid && isLead && (
+                <label className="flex items-center gap-1 text-[13px] text-text-2" title={capped ? "Counted against this account's monthly cap" : "Recorded for the brand's spend"}>
+                  <span>Est. $</span>
+                  <Input className="h-8 w-20 text-[13px]" inputMode="decimal" placeholder={capped ? "required" : "optional"} aria-label="Estimated cost in US dollars"
+                    aria-invalid={costBad || undefined} value={cost} onChange={(e) => setCost(e.target.value)} />
+                </label>
+              )}
               <Button size="sm" variant="ghost" loading={decide.isPending && decide.variables === false} onClick={() => decide.mutate(false)}>Decline</Button>
-              <Button size="sm" variant="primary" disabled={!isLead} title={isLead ? "" : "A brand lead approves paid steps"}
+              <Button size="sm" variant="primary" disabled={!isLead || costBad || (capped && costNum == null) || (capped && costNum! > left! + 1e-9)}
+                title={!isLead ? "A brand lead approves paid steps" : capped && costNum == null ? "Enter the estimated cost first" : capped && costNum! > left! ? "More than is left under this month's cap" : ""}
                 loading={decide.isPending && decide.variables === true} onClick={() => decide.mutate(true)}>Approve</Button>
             </div>
           )}

@@ -52,6 +52,7 @@ as the editing engine. The plugin's `vs` tools stay the engine; Studio is the te
 | `notes` | project, version, author, body, start/end seconds, status (open, done, skipped), resolution |
 | `audit_events` | actor, action, target, brand, details, ip |
 | `connections` | brand, provider, status, account label, secret ref, last 4, verified, last check, spend cap |
+| `spend_entries` | brand, provider (`anthropic` or a connection), kind (actual / estimate / hold), amount, job, thread, approval (§6.2) |
 | `agent_threads` | project, brand, title, SDK session id, status (idle, queued, running, waiting, failed), job, cost, turns |
 | `agent_messages` | thread, seq, role (user, assistant, tool, tool_result, approval, notice, output, result, engine, error), body |
 | `agent_approvals` | thread, tool, input, title, reason, account to be charged, paid, status, note, decided by / at |
@@ -150,6 +151,24 @@ Still open: the brand's own keys and the Anthropic credential are in the turn's 
 leak its own brand's keys, not another's); WebFetch / WebSearch run in the CLI, outside the sandbox's network
 allowlist; a separate container (or VM) per turn would also isolate the kernel and the worker's disk.
 
+### 6.2 Budgets and caps
+
+Per brand, per calendar month (UTC), in USD, all through one ledger (`spend_entries`, `app/spend.py`), so the
+numbers on the Settings page are the numbers enforced:
+
+- **Claude budget** (the studio's Anthropic bill): `brands.claude_budget_monthly`, else
+  `AGENT_BRAND_MONTHLY_BUDGET_USD`, else no limit; `0` switches Claude off for the brand. Admins set it. A message is
+  refused (402) once the month's budget is used. Each turn **reserves** its limit, at most what's left and at most
+  `AGENT_TURN_BUDGET_USD`, under a lock on the brand, and runs with that as the SDK's `max_budget_usd`, so turns
+  running at once can't overshoot together. The reservation counts only while its job is queued or running and
+  becomes the reported cost at the end; a turn that breaks off after Claude started is charged its whole limit.
+- **Tool caps** (the client's own accounts): `connections.spend_cap_monthly`, set by leads. Once a month's approved
+  estimates reach it, a paid step on that account is declined at once (no approval card, nothing waits). Approving
+  a paid step on a capped account takes the lead's cost estimate and is refused if it would go over; the card
+  shows the cap and what's left. Estimates on uncapped accounts are recorded too.
+- Not exact: tool spend is the approver's estimate, not the provider's bill (Higgsfield bills in credits); Claude's
+  cost is what the SDK reports per turn.
+
 ## 7. Third-party connections (M3)
 
 Per-brand Connections page; clients connect their own accounts through a connect link. API keys (ElevenLabs,
@@ -158,7 +177,7 @@ HeyGen, stock…) are verified with a read-only call and stored in the secrets b
 registration, authorization code + PKCE, rotating refresh tokens, `app/mcp_oauth.py`). The client picks the account
 and workspace on Higgsfield's own page, from the brand page or a connect link; workers refresh the token before
 each turn and give it to Claude Code as the MCP server's header. Secrets never reach the browser, logs or chat.
-Paid actions always show the account and cost and need approval; spend caps per brand and tool.
+Paid actions always show the account and cost and need approval, within the account's monthly cap (§6.2).
 
 ## 8. Security
 
@@ -186,7 +205,7 @@ Paid actions always show the account and cost and need approval; spend caps per 
 | **M1 Foundation** | Sign-in, users and roles, brands and members, projects, direct uploads, ingest (probe, poster, proxy, filmstrip), transcribe / render / QA jobs with live progress, versions and player, timed review notes, audit log, admin | built in this branch |
 | **M2 Claude engine** | Project chat running Claude Code + the plugin on the workers, live streaming, approvals, budgets, resumable sessions, outputs as versions, Higgsfield sign-in | built in this branch |
 | **M3 Client onboarding** | Setup checklist, footage library learning, connections + connect links + encrypted secrets, lessons with QA checks and repeat detection | built in this branch |
-| **M3b Clients** | Client review links, spend caps enforced on paid actions (estimate → cap check before approval), approvals inbox for leads | next |
+| **M3b Clients** | Client review links, approvals inbox for leads (spend caps and the monthly Claude budget: done, §6.2) | next |
 | **M4 Scale** | Social posting, cost dashboards, HLS playback, GPU transcription pool, multi-region storage | later |
 
 ## 11. Plugin coverage: where each feature lives in Studio

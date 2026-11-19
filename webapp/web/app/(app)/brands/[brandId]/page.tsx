@@ -7,6 +7,7 @@ import { ConnectionsTab } from "@/components/brand/connections";
 import { LessonsTab } from "@/components/brand/lessons";
 import { LibraryTab } from "@/components/brand/library";
 import { SetupTab } from "@/components/brand/setup";
+import { SpendingCard } from "@/components/brand/spending";
 import { ProjectCard } from "@/components/bits";
 import { Avatar, Badge, Button, Card, Dialog, Empty, Field, Input, PageHeader, Select, Skeleton, Tabs, Textarea, useToast } from "@/components/ui";
 import { api } from "@/lib/api";
@@ -167,11 +168,14 @@ function Settings({ brand }: { brand: Brand }) {
     onError: (e: Error) => toast(e.message, "danger"),
   });
   return (
-    <Card className="max-w-xl space-y-5 p-6">
-      <Field label="Name"><Input value={name} onChange={(e) => setName(e.target.value)} /></Field>
-      <Field label="Description"><Textarea value={description} onChange={(e) => setDescription(e.target.value)} /></Field>
-      <div className="flex justify-end"><Button variant="primary" loading={save.isPending} onClick={() => save.mutate()}>Save changes</Button></div>
-    </Card>
+    <div className="space-y-6">
+      <Card className="max-w-xl space-y-5 p-6">
+        <Field label="Name"><Input value={name} onChange={(e) => setName(e.target.value)} /></Field>
+        <Field label="Description"><Textarea value={description} onChange={(e) => setDescription(e.target.value)} /></Field>
+        <div className="flex justify-end"><Button variant="primary" loading={save.isPending} onClick={() => save.mutate()}>Save changes</Button></div>
+      </Card>
+      <SpendingCard brand={brand} />
+    </div>
   );
 }
 

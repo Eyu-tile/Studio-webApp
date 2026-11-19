@@ -105,6 +105,9 @@ class Brand(Timestamped, Base):
     color: Mapped[str] = mapped_column(String(16), default="#6366f1")
     description: Mapped[str] = mapped_column(Text, default="")
     archived: Mapped[bool] = mapped_column(Boolean, default=False)
+    # what Claude may spend for this brand per calendar month (UTC), in USD: the studio's own Anthropic bill.
+    # None: AGENT_BRAND_MONTHLY_BUDGET_USD (or no limit); 0: Claude is off for this brand. Admins set it.
+    claude_budget_monthly: Mapped[float | None] = mapped_column(Float)
     members: Mapped[list["BrandMember"]] = relationship(back_populates="brand", cascade="all, delete-orphan")
     projects: Mapped[list["Project"]] = relationship(back_populates="brand")
 
@@ -380,6 +383,8 @@ class AgentApproval(Base):
     reason: Mapped[str] = mapped_column(String(500), default="")       # why it needs approval
     account: Mapped[str] = mapped_column(String(300), default="")      # which client account would be used / charged
     paid: Mapped[bool] = mapped_column(Boolean, default=False)
+    provider: Mapped[str | None] = mapped_column(String(40))          # Connection.provider that would be charged
+    cost_usd: Mapped[float | None] = mapped_column(Float)              # the approver's estimate, counted to the cap
     status: Mapped[str] = mapped_column(String(12), default="pending")  # pending | approved | denied | expired
     note: Mapped[str] = mapped_column(String(500), default="")          # the decider's message back to Claude
     decided_by_id: Mapped[uuid.UUID | None] = mapped_column(ForeignKey("users.id", ondelete="SET NULL"))
@@ -401,3 +406,23 @@ class AgentTranscriptEntry(Base):
     uuid: Mapped[str | None] = mapped_column(String(80))
     entry: Mapped[dict] = mapped_column(Json)
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow)
+
+
+class SpendEntry(Base):
+    """Money spent for a brand, for monthly budgets and caps (app/spend.py). `provider` is "anthropic" for Claude
+    itself, else a Connection.provider (the client's own account). kind: actual (a Claude turn's reported cost),
+    estimate (an approved paid step, as the approver estimated it), hold (a running turn's reserved budget: counts
+    only while its job is queued or running, then replaced by the actual cost)."""
+    __tablename__ = "spend_entries"
+    __table_args__ = (Index("ix_spend_brand_provider_at", "brand_id", "provider", "created_at"),)
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uid)
+    brand_id: Mapped[uuid.UUID] = mapped_column(ForeignKey("brands.id", ondelete="CASCADE"))
+    provider: Mapped[str] = mapped_column(String(40))
+    kind: Mapped[str] = mapped_column(String(12))
+    amount_usd: Mapped[float] = mapped_column(Float)
+    job_id: Mapped[uuid.UUID | None] = mapped_column(ForeignKey("jobs.id", ondelete="SET NULL"), index=True)
+    thread_id: Mapped[uuid.UUID | None] = mapped_column(ForeignKey("agent_threads.id", ondelete="SET NULL"))
+    approval_id: Mapped[uuid.UUID | None] = mapped_column(ForeignKey("agent_approvals.id", ondelete="SET NULL"))
+    note: Mapped[str] = mapped_column(String(300), default="")
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow)
+

@@ -72,6 +72,9 @@ class Settings(BaseSettings):
     agent_effort: str | None = None                     # low | medium | high | xhigh | max (unset: model default)
     agent_max_turns: int = 80                           # tool round-trips per message before Claude stops and reports
     agent_turn_budget_usd: float = 5.0                  # hard cap per message; the thread total is shown to editors
+    # what Claude may spend per brand per calendar month (UTC), unless the brand sets its own (app/spend.py).
+    # Unset: no monthly limit for brands without one.
+    agent_brand_monthly_budget_usd: float | None = None
     agent_approval_timeout_s: int = 1800                # an unanswered approval is denied after this
     agent_plugin_dir: Path = REPO_ROOT / "plugins" / "video-studio"
     claude_cli_path: str | None = None                  # the `claude` binary; unset uses the SDK's bundled CLI
@@ -119,6 +122,8 @@ def get_settings() -> Settings:
         raise RuntimeError("LIBRARY_ALLOW_PRIVATE_HOSTS is for tests only")
     if s.agent_turn_budget_usd <= 0:
         raise RuntimeError("AGENT_TURN_BUDGET_USD must be positive")
+    if s.agent_brand_monthly_budget_usd is not None and s.agent_brand_monthly_budget_usd < 0:
+        raise RuntimeError("AGENT_BRAND_MONTHLY_BUDGET_USD can't be negative")
     if s.is_production and (len(s.secret_key) < 32 or "change-me" in s.secret_key):
         raise RuntimeError("set SECRET_KEY to 32+ random characters in production")
     return s

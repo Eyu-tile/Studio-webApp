@@ -25,7 +25,7 @@ from pathlib import Path
 
 from sqlalchemy import func, select
 
-from app import agent_policy, events, storage
+from app import agent_policy, events, spend, storage
 from app.config import get_settings
 from app.db import SessionLocal, utcnow
 from app.models import (AgentApproval, AgentMessage, AgentThread, Asset, AssetKind, AssetStatus, Brand, Connection,
@@ -425,9 +425,16 @@ def make_permission(ctx: JobContext, thread: Thread, conns: dict[str, Connection
                 thread.add("notice", {"tone": "warning", "text": msg})
                 return PermissionResultDeny(message=msg)
             account = f"{PROVIDERS[d.provider].name}: {c.account_label or 'connected account'}"
+            if d.paid:                                     # the client's monthly cap on this account
+                with SessionLocal() as db:
+                    why = spend.cap_reached(db, db.get(Connection, c.id))
+                if why:
+                    msg = f"{PROVIDERS[d.provider].name}: {why}. Don't retry; offer a free alternative or stop."
+                    thread.add("notice", {"tone": "warning", "text": f"Declined “{d.title or tool}”: {why}."})
+                    return PermissionResultDeny(message=msg)
         with SessionLocal() as db:
             a = AgentApproval(thread_id=thread.id, tool=tool, input=thread.mask(args), title=d.title or tool,
-                              reason=d.reason, account=account, paid=d.paid)
+                              reason=d.reason, account=account, paid=d.paid, provider=d.provider)
             db.add(a)
             db.commit()
             aid = a.id
@@ -456,7 +463,7 @@ def _brief_input(args: dict) -> dict:
 
 
 def build_options(ctx: JobContext, thread: Thread, conns: dict, prompt_append: str, resume: str | None,
-                  jail: TurnJail):
+                  jail: TurnJail, budget: float | None = None):
     """Claude Code for this turn. It starts through the jail's launcher, so it sees only `env` below (plus the
     allowlisted locale / certificate / proxy variables), never the worker's own credentials."""
     from claude_agent_sdk import ClaudeAgentOptions
@@ -490,7 +497,7 @@ def build_options(ctx: JobContext, thread: Thread, conns: dict, prompt_append: s
         setting_sources=[], mcp_servers=mcp, strict_mcp_config=True, model=s.agent_model,
         permission_mode="default", can_use_tool=make_permission(ctx, thread, conns),
         disallowed_tools=["AskUserQuestion", "EnterPlanMode", "ExitPlanMode"], max_turns=s.agent_max_turns,
-        max_budget_usd=s.agent_turn_budget_usd, env=jail.environment(env), include_partial_messages=True,
+        max_budget_usd=budget or s.agent_turn_budget_usd, env=jail.environment(env), include_partial_messages=True,
         session_store=PgSessionStore(), resume=resume, client_app="studio",
         cli_path=str(LAUNCHER), settings=jail.settings_json(), sandbox=jail.sandbox(),
         stderr=lambda line: ctx.log("claude: " + line))
@@ -507,11 +514,13 @@ def sdk_client(options):
     return ClaudeSDKClient(options=options)
 
 
-async def converse(ctx: JobContext, thread: Thread, options, prompt: str, first: bool = False) -> dict:
-    """Run one message through Claude and record everything it does. Returns the end-of-turn result."""
+async def converse(ctx: JobContext, thread: Thread, options, prompt: str, first: bool = False,
+                   result: dict | None = None) -> dict:
+    """Run one message through Claude and record everything it does. Returns the end-of-turn result (filled in as it
+    goes, into `result` when given, so a turn that breaks off still says whether Claude had started)."""
     from claude_agent_sdk import AssistantMessage, ResultMessage, StreamEvent, SystemMessage, UserMessage
     from claude_agent_sdk import TextBlock, ToolResultBlock, ToolUseBlock
-    result: dict = {}
+    result = {} if result is None else result
     tools: dict[str, str] = {}
     async with sdk_client(options) as client:
         await client.query(prompt)
@@ -525,6 +534,7 @@ async def converse(ctx: JobContext, thread: Thread, options, prompt: str, first:
         watcher = asyncio.create_task(watch_cancel())
         try:
             async for msg in client.receive_response():
+                result["started"] = True
                 if isinstance(msg, StreamEvent):
                     ev = msg.event or {}
                     if msg.parent_tool_use_id is None and ev.get("type") == "content_block_delta" \
@@ -580,14 +590,20 @@ def agent_turn(ctx: JobContext) -> dict:
     conns = connected(ctx.brand_id)
     thread = Thread(ctx, thread_id, list(ctx.secret_env.values()))
     thread.status("running", job_id=ctx.job_id, last_error="")
+    result: dict = {}
+    held = 0.0
     try:
+        # this month's Claude budget for the brand: reserve this turn's limit (at most what's left) before starting
+        with SessionLocal() as db:
+            held = spend.hold_for_turn(db, ctx.brand_id, ctx.job_id, get_settings().agent_turn_budget_usd)
         ctx.step(0.01, "preparing the workspace")
         info = prepare(ctx)
         before = out_state(ctx)
         ctx.step(0.15, "Claude is working")
         with TurnJail(ctx.ws.parent, ctx.job_id) as jail:
-            options = build_options(ctx, thread, conns, system_prompt(ctx, info, conns, editor), resume, jail)
-            result = asyncio.run(converse(ctx, thread, options, p["text"], first=not resume))
+            options = build_options(ctx, thread, conns, system_prompt(ctx, info, conns, editor), resume, jail,
+                                    budget=held)
+            asyncio.run(converse(ctx, thread, options, p["text"], first=not resume, result=result))
         ctx.step(0.92, "collecting what Claude made")
         made = collect(ctx, thread, before, info, uid)
         sync_caught(ctx, info["caught_before"])
@@ -603,6 +619,11 @@ def agent_turn(ctx: JobContext) -> dict:
         thread.add("error", {"text": thread.mask(msg)})
         thread.status("failed", last_error=thread.mask(msg))
         raise
+    finally:
+        if held:      # the hold becomes what the turn cost (all of it if Claude started and never said)
+            cost = result.get("cost") if "cost" in result else (None if result.get("started") else 0.0)
+            with SessionLocal() as db:
+                spend.settle_turn(db, ctx.brand_id, ctx.job_id, cost, held, thread_id)
     thread.add("result", {k: result.get(k) for k in ("cost", "turns", "duration_ms", "error", "subtype", "stop",
                                                     "denials")})
     with SessionLocal() as db:

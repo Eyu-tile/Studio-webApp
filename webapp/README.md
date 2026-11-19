@@ -41,10 +41,13 @@ webapp/
 - **Higgsfield sign-in**: a lead or the client (via a connect link) signs in on Higgsfield's page and picks the
   workspace; Claude uses that account over MCP
 - Per-message budget, running cost per conversation, stop button, resumable on any worker
+- **Spending limits**, checked before money is spent: a monthly Claude budget per brand (admins set it on the brand's
+  Settings page; a message is refused once it's used up) and the client's monthly cap per tool account (a paid step
+  is declined once reached; approving one takes the lead's cost estimate, and must fit under the cap)
 
 The full map of plugin features to screens is in `docs/ARCHITECTURE.md` §11.
 
-Next: client review links, spend caps enforced before approval, an approvals inbox for leads.
+Next: client review links, an approvals inbox for leads.
 
 ## Run it
 

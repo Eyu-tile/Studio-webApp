@@ -109,6 +109,12 @@ export interface Approval {
   id: string; thread_id: string; tool: string; input: Record<string, unknown>; title: string; reason: string; account: string;
   paid: boolean; status: "pending" | "approved" | "denied" | "expired"; note: string; decided_by: UserBrief | null;
   decided_at: string | null; created_at: string;
+  provider: string | null; cost_usd: number | null;
+  cap_usd: number | null; cap_spent_usd: number | null;      // the account's monthly cap and what's approved this month
+}
+export interface BudgetLine { provider: string; limit_usd: number | null; spent_usd: number; remaining_usd: number | null }
+export interface Budget {
+  month: string; claude: BudgetLine; claude_default_usd: number | null; claude_brand_usd: number | null; tools: BudgetLine[];
 }
 export interface ThreadDetail extends Thread { messages: AgentMsg[]; approvals: Approval[] }
 export interface Capability { name: string; kind: "skill" | "agent" | "command"; description: string }

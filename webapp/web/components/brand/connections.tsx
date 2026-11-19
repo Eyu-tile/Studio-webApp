@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 import { Badge, Button, Card, Dialog, Field, Input, Select, Skeleton, Textarea, useToast } from "@/components/ui";
 import { api } from "@/lib/api";
 import { ago, CATEGORY_LABEL } from "@/lib/format";
+import { money, useBudget } from "@/components/brand/spending";
 import type { Brand, ConnectLink, Connection, Provider } from "@/lib/types";
 
 const ORDER = ["generation", "voice", "avatar", "ai", "footage", "stock"];
@@ -14,6 +15,8 @@ export function ConnectionsTab({ brand }: { brand: Brand }) {
   const isLead = brand.role === "lead";
   const providers = useQuery({ queryKey: ["providers"], queryFn: () => api.get<Provider[]>("/providers"), staleTime: 3600_000 });
   const conns = useQuery({ queryKey: ["brand", brand.id, "connections"], queryFn: () => api.get<Connection[]>(`/brands/${brand.id}/connections`) });
+  const budget = useBudget(brand.id);
+  const spentOn = (provider: string) => budget.data?.tools.find((t) => t.provider === provider)?.spent_usd ?? null;
   const [connect, setConnect] = useState<Provider | null>(null);
   const [linkOpen, setLinkOpen] = useState(false);
   const toast = useToast();
@@ -62,7 +65,12 @@ export function ConnectionsTab({ brand }: { brand: Brand }) {
                     : live ? <Badge tone={c.verified ? "success" : "neutral"} dot>{c.verified ? "Verified" : "Saved"}</Badge>
                     : c?.status === "error" ? <Badge tone="danger" dot>Needs attention</Badge>
                     : c?.status === "revoked" ? <Badge>Removed</Badge> : null}
-                  {c?.spend_cap_monthly != null && live && <Badge tone="accent">cap ${c.spend_cap_monthly}/mo</Badge>}
+                  {c?.spend_cap_monthly != null && live && (() => {
+                    const used = spentOn(p.id);
+                    const over = used != null && used >= c.spend_cap_monthly!;
+                    return <Badge tone={over ? "danger" : "accent"}>
+                      {used != null ? `${money(used)} of ` : "cap "}{money(c.spend_cap_monthly!)} this month</Badge>;
+                  })()}
                   <ConnActions brandId={brand.id} provider={p} conn={c} isLead={isLead} canCheck={brand.role !== "viewer"} onConnect={() => setConnect(p)} />
                 </div>
               );
