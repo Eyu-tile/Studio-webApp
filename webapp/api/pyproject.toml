@@ -1,0 +1,30 @@
+[project]
+name = "studio-api"
+version = "0.1.0"
+description = "Studio: internal web app for video-studio (API and workers)"
+requires-python = ">=3.12"
+dependencies = [
+  "fastapi>=0.115",
+  "uvicorn[standard]>=0.30",
+  "sqlalchemy>=2.0.30",
+  "psycopg[binary]>=3.2",
+  "alembic>=1.13",
+  "pydantic>=2.7",
+  "pydantic-settings>=2.3",
+  "email-validator>=2.1",
+  "boto3>=1.34",
+  "redis>=5.0",
+  "joserfc>=1.0",
+  "httpx>=0.27",
+  "claude-agent-sdk>=0.2.185,<0.3",   # Claude Code as a library (bundles the CLI): the editing engine
+  "cryptography>=42",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "moto[server]>=5", "ruff>=0.5"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120

@@ -1,0 +1,13 @@
+.env
+*.env.local
+api/.venv/
+api/.pytest_cache/
+api/.ruff_cache/
+web/node_modules/
+web/.next/
+web/next-env.d.ts
+web/test-results/
+api/*.egg-info/
+web/tsconfig.tsbuildinfo
+api/dump.rdb
+*.rdb
