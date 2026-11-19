@@ -62,7 +62,8 @@ cd webapp/api && uv venv && uv pip install -e ".[dev]"
 cp ../.env.example .env                       # point DATABASE_URL / REDIS_URL / S3_* at your services
 .venv/bin/alembic upgrade head
 .venv/bin/uvicorn app.main:app --port 8000    # API     (docs at http://localhost:8000/api/docs)
-.venv/bin/python -m worker.main               # worker  (run more for parallel jobs)
+.venv/bin/python -m worker.main               # worker: media jobs and Claude turns side by side (run more to scale;
+                                              #   production runs two pools: --queues media and --queues agent)
 cd ../web && npm ci && npm run dev            # web app at http://localhost:3000
 ```
 Local S3 without Docker: `moto_server -p 9000` (dev dependency), with `S3_ENDPOINT_URL=http://127.0.0.1:9000`,

@@ -221,7 +221,7 @@ def test_a_conversation_turn(admin, engine_on, monkeypatch):
     FakeClient.script = script2
     import shutil
     from app.config import get_settings
-    shutil.rmtree(get_settings().worker_root / p["id"], ignore_errors=True)          # a fresh worker
+    shutil.rmtree(get_settings().worker_root / "agent" / p["id"], ignore_errors=True)  # a fresh worker
     assert admin.post(f"/api/claude/threads/{tid}/messages", json={"text": "make it punchier"}).status_code == 201
     assert run_one("test-worker")
     assert seen["resume"] == "sess-1" and seen["srt_back"]

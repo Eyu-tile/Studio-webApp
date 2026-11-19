@@ -1,5 +1,10 @@
 """Job queue on Postgres: workers claim with FOR UPDATE SKIP LOCKED (each job goes to exactly one worker), heartbeat
-while running, and jobs whose heartbeat stopped are re-queued up to JOB_MAX_ATTEMPTS."""
+while running, and jobs whose heartbeat stopped are re-queued up to JOB_MAX_ATTEMPTS.
+
+Two queues, served by separate worker pools (WORKER_QUEUES), so a Claude turn (minutes, or up to
+AGENT_APPROVAL_TIMEOUT_S waiting for a lead) never holds up an upload's ingest or a render:
+  media  ingest, transcribe, render, qa, library_scan: ffmpeg / vs / whisper, CPU-bound, many workers
+  agent  agent_turn: Claude Code, mostly waiting on the model or a person, on isolated workers (docs/DEPLOY.md)"""
 import uuid
 from datetime import timedelta
 
@@ -14,6 +19,12 @@ from .models import Job, JobStatus
 KINDS = {"ingest", "transcribe", "render", "qa", "library_scan", "agent_turn"}
 # a Claude turn is never re-run on its own after a worker dies: it may have spent credits or posted already
 NO_RETRY = {"agent_turn"}
+QUEUES = ("media", "agent")
+QUEUE_OF = {"agent_turn": "agent"}                       # every other kind is media
+
+
+def queue_of(kind: str) -> str:
+    return QUEUE_OF.get(kind, "media")
 
 
 def enqueue(db: Session, project_id: uuid.UUID | None, kind: str, payload: dict, user_id: uuid.UUID | None,
@@ -24,16 +35,19 @@ def enqueue(db: Session, project_id: uuid.UUID | None, kind: str, payload: dict,
     if brand_id is None:
         from .models import Project
         brand_id = db.get(Project, project_id).brand_id
-    job = Job(project_id=project_id, brand_id=brand_id, kind=kind, payload=payload, created_by_id=user_id,
-              message="queued")
+    job = Job(project_id=project_id, brand_id=brand_id, kind=kind, queue=queue_of(kind), payload=payload,
+              created_by_id=user_id, message="queued")
     db.add(job)
     db.flush()
     return job
 
 
-def claim(db: Session, worker: str) -> Job | None:
-    job = db.scalar(select(Job).where(Job.status == JobStatus.queued).order_by(Job.created_at)
-                    .with_for_update(skip_locked=True).limit(1))
+def claim(db: Session, worker: str, queues: tuple[str, ...] | list[str] | None = None) -> Job | None:
+    """The oldest queued job in `queues` (all of them when None)."""
+    q = select(Job).where(Job.status == JobStatus.queued)
+    if queues is not None:
+        q = q.where(Job.queue.in_(list(queues)))
+    job = db.scalar(q.order_by(Job.created_at).with_for_update(skip_locked=True).limit(1))
     if not job:
         return None
     now = utcnow()
@@ -59,6 +73,13 @@ def requeue_stale(db: Session) -> int:
             j.status, j.worker, j.message = JobStatus.queued, None, "re-queued: worker stopped responding"
     db.commit()
     return len(stale)
+
+
+def depth(db: Session) -> dict[str, int]:
+    """Queued jobs per queue: what each worker pool autoscales on."""
+    from sqlalchemy import func
+    rows = db.execute(select(Job.queue, func.count()).where(Job.status == JobStatus.queued).group_by(Job.queue)).all()
+    return {q: 0 for q in QUEUES} | {q: n for q, n in rows}
 
 
 def cancel(db: Session, job: Job) -> None:

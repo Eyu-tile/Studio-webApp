@@ -74,8 +74,15 @@ brands/<brand_id>/library/...            (logos, fonts, music, lessons export)
 
 - A job row is the unit of work: `ingest` (probe, poster, filmstrip, browser proxy), `transcribe`, `render`,
   `qa`, `library_scan` and `agent_turn` (one message to Claude). Workers claim the oldest queued job with `FOR UPDATE SKIP LOCKED`,
-  heartbeat every few seconds, and a job whose heartbeat stops is re-queued (up to 3 attempts).
-- A worker keeps a local workspace per project laid out exactly like the plugin's
+  heartbeat every few seconds, and a job whose heartbeat stops is re-queued (up to 3 attempts; a Claude turn is
+  failed instead, it may have spent credits).
+- Two queues (`jobs.queue`, `app/queue.py`), served by separate worker pools: **media** (every kind but
+  `agent_turn`: ffmpeg, `vs`, whisper; CPU-bound, many workers, no root) and **agent** (`agent_turn`: Claude Code,
+  mostly waiting on the model or a lead's approval, on the isolated workers of §6.1). So a turn that runs for
+  minutes, or holds its slot up to `AGENT_APPROVAL_TIMEOUT_S` waiting for approval, never delays an ingest or a
+  render. A worker serves the queues in `WORKER_QUEUES` (`--queues`), one job of each at a time; a worker serving
+  both (the dev default) keeps a separate workspace root per queue.
+- A worker keeps a local workspace per project (`WORKER_ROOT/<queue>/<project>`) laid out exactly like the plugin's
   (`video-studio/projects/<slug>/raw|work|out`), so every `vs` command runs unchanged. Inputs are fetched from the
   bucket once (cached by asset id), outputs are uploaded and registered as assets.
 - Progress and messages are written to the job row and published on Redis (`project:<id>`); the browser listens on

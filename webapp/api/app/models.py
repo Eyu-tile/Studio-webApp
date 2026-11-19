@@ -158,11 +158,13 @@ class Asset(Timestamped, Base):
 
 class Job(Timestamped, Base):
     __tablename__ = "jobs"
-    __table_args__ = (Index("ix_jobs_status_created", "status", "created_at"),)
+    __table_args__ = (Index("ix_jobs_queue_status_created", "queue", "status", "created_at"),)
     id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uid)
     brand_id: Mapped[uuid.UUID] = mapped_column(ForeignKey("brands.id", ondelete="CASCADE"), index=True)
     project_id: Mapped[uuid.UUID | None] = mapped_column(ForeignKey("projects.id", ondelete="CASCADE"), index=True)
     kind: Mapped[str] = mapped_column(String(40))                  # ingest | transcribe | render | qa | library_scan
+    # which worker pool runs it: media (ffmpeg, vs, whisper) or agent (Claude turns); see app/queue.py
+    queue: Mapped[str] = mapped_column(String(20), default="media", server_default="media")
     status: Mapped[JobStatus] = mapped_column(_enum(JobStatus), default=JobStatus.queued)
     payload: Mapped[dict] = mapped_column(Json, default=dict)
     result: Mapped[dict] = mapped_column(Json, default=dict)

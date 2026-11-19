@@ -30,7 +30,8 @@ class Canceled(Exception):
 
 
 class JobContext:
-    def __init__(self, job_id: uuid.UUID, project_id: uuid.UUID | None, payload: dict, brand_id: uuid.UUID | None = None):
+    def __init__(self, job_id: uuid.UUID, project_id: uuid.UUID | None, payload: dict, brand_id: uuid.UUID | None = None,
+                 queue: str = "media"):
         self.job_id, self.project_id, self.payload = job_id, project_id, payload
         self.progress, self.message = 0.0, "starting"
         self._log: deque[str] = deque(maxlen=200)
@@ -44,7 +45,8 @@ class JobContext:
                 b = db.get(Brand, brand_id)
                 self.brand_id, self.slug = b.id, b.slug
         self.secret_env = brand_env(self.brand_id)        # this brand's keys only, as the vs engine names them
-        root = get_settings().worker_root / (str(project_id) if project_id else f"brand-{self.brand_id}")
+        # one folder per queue: a media job never touches the files of a Claude turn running beside it
+        root = get_settings().worker_root / queue / (str(project_id) if project_id else f"brand-{self.brand_id}")
         self.ws = root / "video-studio"
         self.pdir = self.ws / "projects" / self.slug
         for d in ("raw", "work", "out"):

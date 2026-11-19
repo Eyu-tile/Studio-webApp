@@ -53,6 +53,9 @@ class Settings(BaseSettings):
 
     # Workers
     worker_root: Path = Path("/tmp/studio-worker")
+    # which queues this worker serves (app/queue.py): "media", "agent" or both. Production runs two pools: media
+    # workers, and isolated Claude workers (docs/DEPLOY.md). A worker serving both runs one job of each at a time.
+    worker_queues: str = "media,agent"
     worker_poll_seconds: float = 1.0
     worker_heartbeat_seconds: float = 5.0
     job_stale_seconds: int = 60

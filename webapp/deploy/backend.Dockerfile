@@ -40,7 +40,7 @@ ENV VS_VENV=/opt/vs-venv WHISPER_MODEL_DIR=/models WORKER_ROOT=/work
 RUN python -m venv /opt/vs-venv \
  && /opt/vs-venv/bin/pip install "faster-whisper>=1.0" "numpy>=1.26" "gdown>=5" "yt-dlp" "huggingface_hub>=0.23" \
  && for m in $WHISPER_MODELS; do /opt/vs-venv/bin/python -c "from huggingface_hub import snapshot_download as d; d('Systran/faster-whisper-$m', local_dir='/models/faster-whisper-$m')"; done \
- && mkdir -p /work && chmod 0711 /work
+ && mkdir -p /work/media && chown studio:studio /work/media && chmod 0711 /work
 # Who runs what (worker/agent_isolation.py): the worker process is root and only talks to the database and the bucket;
 # vs / ffmpeg / ffprobe on uploaded media run as `studio`; Claude Code runs as `studio-agent`, which owns nothing but
 # the workspace of the turn in progress and never sees the worker's environment. Bubblewrap + socat are Claude Code's

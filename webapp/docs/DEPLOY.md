@@ -6,7 +6,7 @@ on any container platform (AWS ECS/Fargate, Google Cloud Run, Kubernetes), with 
 | Piece | Production choice |
 |---|---|
 | Web, API | 2+ containers each behind a load balancer with HTTPS; the web forwards `/api` to the API |
-| Workers | Autoscaled on queue depth (`select count(*) from jobs where status='queued'`); CPU is enough to start, a GPU pool later for transcription |
+| Workers | Two pools from the worker image: **media** (`python -m worker.main --queues media`, run as `studio`) and **Claude** (`--queues agent`, the isolated workers below). Autoscale each on its own queue depth: `python -m worker.main --depth` prints `{"media": n, "agent": n}` (or `select queue, count(*) from jobs where status='queued' group by queue`). CPU is enough to start, a GPU pool later for transcription |
 | Database | Managed Postgres 16 (RDS, Cloud SQL, Neon) with daily backups and point-in-time recovery |
 | Redis | Managed Redis (ElastiCache, Memorystore, Upstash); only live events, nothing durable |
 | Storage | S3 or Cloudflare R2, private bucket, versioning on |
@@ -111,5 +111,6 @@ both); a Claude turn is refused without them.
   load balancer and alerts.
 - Logs are JSON on stdout; ship them to your log store. Alert on failed jobs and on `readyz` failures.
 - A worker that dies mid-job: its job is re-queued after `JOB_STALE_SECONDS` (60), up to `JOB_MAX_ATTEMPTS` (3).
-- Scale workers by queue depth; each worker runs one job at a time and needs disk for its project workspaces
+- Scale each pool by its own queue depth; a worker runs one job at a time per queue it serves and needs disk for its
+  project workspaces
   (`WORKER_ROOT`, can be wiped anytime: everything is re-fetched from the bucket).

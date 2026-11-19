@@ -3,7 +3,13 @@
 Each project gets a local workspace laid out exactly like the plugin's (video-studio/projects/<slug>/raw|work|out),
 so every `vs` command runs unchanged. Inputs come from the bucket (cached per asset), outputs go back as assets.
 
-  python -m worker.main            # one job at a time; run several processes or containers to scale
+  python -m worker.main                    # the queues in WORKER_QUEUES (default media,agent)
+  python -m worker.main --queues media     # one pool: media jobs only (scale on media queue depth)
+  python -m worker.main --queues agent     # one pool: Claude turns only (the isolated workers)
+  python -m worker.main --depth            # queued jobs per queue, as JSON (for autoscalers), and exit
+
+One job at a time per queue served: a worker serving both runs a media job and a Claude turn side by side, so a turn
+waiting on a lead's approval never holds up an upload. Run more processes or containers to scale.
 """
 import logging
 import os
@@ -11,8 +17,6 @@ import signal
 import socket
 import threading
 import uuid
-
-from sqlalchemy import select
 
 from app import events, queue
 from app.config import get_settings
@@ -46,15 +50,17 @@ class Heartbeat(threading.Thread):
                 db.commit()
 
 
-def run_one(worker_name: str) -> bool:
+def run_one(worker_name: str, queues: tuple[str, ...] | None = None) -> bool:
+    """Claim and run one job from `queues` (any queue when None). False when there was nothing to do."""
     with SessionLocal() as db:
         queue.requeue_stale(db)
-        job = queue.claim(db, worker_name)
+        job = queue.claim(db, worker_name, queues)
         if not job:
             return False
         job_id, kind, project_id, payload, brand_id = job.id, job.kind, job.project_id, dict(job.payload), job.brand_id
+        job_queue = job.queue
     try:
-        ctx = JobContext(job_id, project_id, payload, brand_id)
+        ctx = JobContext(job_id, project_id, payload, brand_id, job_queue)
     except Exception as e:  # noqa: BLE001 - a job that can't even start is failed, not retried forever
         log.exception("job %s could not start", job_id)
         with SessionLocal() as db:
@@ -90,26 +96,58 @@ def run_one(worker_name: str) -> bool:
     return True
 
 
-def main():
-    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s %(message)s")
+def parse_queues(value: str) -> tuple[str, ...]:
+    qs = tuple(dict.fromkeys(q.strip() for q in value.split(",") if q.strip()))
+    bad = [q for q in qs if q not in queue.QUEUES]
+    if bad or not qs:
+        raise SystemExit(f"unknown queue(s) {', '.join(bad) or '(none)'}: choose from {', '.join(queue.QUEUES)}")
+    return qs
+
+
+def serve(name: str, queues: tuple[str, ...]) -> None:
+    """One slot: run jobs from `queues` one at a time until STOP."""
     s = get_settings()
-    name = f"{socket.gethostname()}:{os.getpid()}:{uuid.uuid4().hex[:6]}"
-    for sig in (signal.SIGINT, signal.SIGTERM):
-        signal.signal(sig, lambda *_: STOP.set())
-    log.info("worker %s polling (vs: %s)", name, s.vs_bin)
     while not STOP.is_set():
         try:
-            if not run_one(name):
+            if not run_one(name, queues):
                 STOP.wait(s.worker_poll_seconds)
         except Exception:  # noqa: BLE001 - keep the worker alive through database blips
-            log.exception("worker loop error")
+            log.exception("worker loop error (%s)", ",".join(queues))
             STOP.wait(5)
-    log.info("worker %s stopped", name)
 
 
-def pending() -> int:
+def main(argv: list[str] | None = None):
+    import argparse
+    import json
+    ap = argparse.ArgumentParser(prog="python -m worker.main")
+    ap.add_argument("--queues", help="comma list of queues to serve (default: WORKER_QUEUES)")
+    ap.add_argument("--depth", action="store_true", help="print queued jobs per queue as JSON and exit")
+    args = ap.parse_args(argv)
+    if args.depth:
+        print(json.dumps(pending()))
+        return
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s %(message)s")
+    s = get_settings()
+    queues = parse_queues(args.queues or s.worker_queues)
+    base = f"{socket.gethostname()}:{os.getpid()}:{uuid.uuid4().hex[:6]}"
+    for sig in (signal.SIGINT, signal.SIGTERM):
+        signal.signal(sig, lambda *_: STOP.set())
+    log.info("worker %s serving %s (vs: %s)", base, ", ".join(queues), s.vs_bin)
+    slots = [threading.Thread(target=serve, args=(f"{base}/{q}", (q,)), name=f"slot-{q}", daemon=True)
+             for q in queues]
+    for t in slots:
+        t.start()
+    while not STOP.wait(1.0):
+        pass
+    for t in slots:                       # finish what's running; a killed worker's job is re-queued (or failed)
+        t.join()
+    log.info("worker %s stopped", base)
+
+
+def pending() -> dict[str, int]:
+    """Queued jobs per queue."""
     with SessionLocal() as db:
-        return len(db.scalars(select(Job.id).where(Job.status == JobStatus.queued)).all())
+        return queue.depth(db)
 
 
 if __name__ == "__main__":

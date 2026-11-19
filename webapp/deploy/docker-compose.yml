@@ -50,16 +50,41 @@ services:
       redis: { condition: service_healthy }
       minio: { condition: service_healthy }
 
-  worker:
+  # Two pools from one image (app/queue.py): media jobs (ingest, transcribe, render, qa, library scans) and Claude
+  # turns, so a turn waiting on a lead's approval never holds up an upload. Each worker keeps its own /work.
+  worker-media:
     <<: *backend
     build: { context: ../.., dockerfile: webapp/deploy/backend.Dockerfile, target: worker }
+    command: ["python", "-m", "worker.main", "--queues", "media"]
+    user: studio                    # no Claude here: no need for root or the agent user
+    environment:
+      DATABASE_URL: postgresql+psycopg://studio:studio@postgres:5432/studio
+      REDIS_URL: redis://redis:6379/0
+      S3_ENDPOINT_URL: ${S3_ENDPOINT_URL:-http://minio:9000}
+      S3_PUBLIC_ENDPOINT_URL: ${S3_PUBLIC_ENDPOINT_URL:-http://localhost:9000}
+      WORKER_MEDIA_USER: ""
     depends_on:
       migrate: { condition: service_completed_successfully }
-    # each worker keeps its own /work (a shared volume would let one worker's Claude see another's turn)
     deploy: { replicas: 2 }
+
+  worker-agent:
+    <<: *backend
+    build: { context: ../.., dockerfile: webapp/deploy/backend.Dockerfile, target: worker }
+    command: ["python", "-m", "worker.main", "--queues", "agent"]
+    environment:                    # set here too, so nothing in webapp/.env can switch the isolation off
+      DATABASE_URL: postgresql+psycopg://studio:studio@postgres:5432/studio
+      REDIS_URL: redis://redis:6379/0
+      S3_ENDPOINT_URL: ${S3_ENDPOINT_URL:-http://minio:9000}
+      S3_PUBLIC_ENDPOINT_URL: ${S3_PUBLIC_ENDPOINT_URL:-http://localhost:9000}
+      AGENT_USER: studio-agent
+      WORKER_MEDIA_USER: studio
+      AGENT_SANDBOX: "true"
+    depends_on:
+      migrate: { condition: service_completed_successfully }
+    deploy: { replicas: 1 }
     # Claude Code's sandbox (bubblewrap) needs user namespaces, which Docker's default seccomp profile blocks. This
-    # lifts seccomp filtering for the worker only; production should use a profile that allows just unshare/clone
-    # with namespaces instead (docs/DEPLOY.md, "Claude workers"). Without either, Claude turns fail closed.
+    # lifts seccomp filtering for the Claude workers only; production should use a profile that allows just
+    # unshare/clone with namespaces instead (docs/DEPLOY.md, "Claude workers"). Without either, turns fail closed.
     security_opt: ["seccomp=unconfined"]
 
   web:
