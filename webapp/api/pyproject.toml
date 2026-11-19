@@ -20,6 +20,14 @@ dependencies = [
   "cryptography>=42",
 ]
 
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+# app/ (the API) and worker/ are the packages; migrations/ is read by Alembic from disk, not imported
+[tool.setuptools.packages.find]
+include = ["app*", "worker*"]
+
 [project.optional-dependencies]
 dev = ["pytest>=8", "moto[server]>=5", "ruff>=0.5"]
 
