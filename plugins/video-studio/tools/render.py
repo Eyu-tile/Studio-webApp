@@ -50,6 +50,7 @@ Usage:
 import argparse
 import hashlib
 import json
+import math
 import os
 import subprocess
 import sys
@@ -66,7 +67,7 @@ from vs_common import (ASPECTS, GRADES, PRESETS, VOICE_ENHANCE, die, sfx_chain, 
                        is_image, kf_expr, load_json, need, probe, ramp_points, ramp_setpts, run, safe_zone, save_json,
                        timeline)
 
-RENDER_VERSION = "2.4.0"  # part of the chunk cache key: bump when stage-1 output changes
+RENDER_VERSION = "2.5.0"  # part of the chunk cache key: bump when stage-1 output changes
 FADE = 0.025
 JL_FADE = 0.02
 AUTO_CHUNK_MIN = 180.0  # auto-chunk edits at least this long (seconds)
@@ -202,6 +203,8 @@ class Ctx:
         self.pixfmt, self.keep_hdr, self.cache_dir, self.warnings = pixfmt, keep_hdr, cache_dir, warnings
         self.use_proxy = bool(args.proxy or args.preview)
         self.trf = {}
+        self.t_in = {}       # shot index -> in-point time on its decoded branch (set where the branch is cut)
+        self.only = None     # "video": picture only (a revision window); "audio": sound only (no frame decoded)
 
     def video_src(self, src):
         if self.use_proxy and not is_image(src):
@@ -247,7 +250,11 @@ def shot_video(ctx, gr, vlab, k, g):
             ctx.warnings.add(f"{Path(g['src']).name}: HDR source but ffmpeg lacks zscale; colours may look washed out")
     elif ctx.keep_hdr and not pinfo["hdr"] and not is_image(g["src"]):
         ctx.warnings.add(f"{Path(g['src']).name}: SDR shot in an HDR render will look dim/flat next to HDR shots")
-    chain.append("setpts=PTS-STARTPTS")
+    # Time 0 of the shot is its in-point. When the in-point falls between two source frames the first decoded frame
+    # is a little after it; resetting to that frame (PTS-STARTPTS) shifted the whole shot by up to a frame.
+    t_in = ctx.t_in.pop(k, None)
+    t_in = t_in if not (g["freeze"] or seg.get("reverse") or stab) else None
+    chain.append(f"setpts=PTS-{t_in:.6f}/TB" if t_in is not None else "setpts=PTS-STARTPTS")
 
     kf = dict(seg.get("kf") or {})
     fx, fy = seg.get("focus", [edl.get("reframe", 0.5), 0.5])
@@ -312,7 +319,18 @@ def shot_video(ctx, gr, vlab, k, g):
         chain.append(f"setpts='({ramp_setpts(g['ramp'], 'T')})/TB'")
     elif g["speed"] != 1.0:
         chain.append(f"setpts=PTS/{g['speed']}")
-    chain.append(f"fps={fps},setsar=1,format={ctx.pixfmt},trim=duration={g['len']:.4f},settb=AVTB")
+    # Place the shot on the video's absolute frame grid: output frame j (time j/fps) belongs to the shot whose
+    # [out_start, out_end) holds it, and shows the source at in-point + (j/fps - out_start). Each shot used to be
+    # cut to its own rounded length, so the rounding piled up differently depending on the shots before it: an
+    # untouched shot moved by a frame whenever an earlier cut changed (and revision splices could not match).
+    f0, f1 = frame_index(g["out_start"], fps), frame_index(g["out_end"], fps)
+    phase = f0 / fps - g["out_start"]          # 0 <= phase < 1 frame: how far the shot's first frame is into it
+    if phase > 1e-6:
+        chain.append(f"setpts=PTS-{phase:.6f}/TB")
+    # fps picks, for each output frame, the source frame on screen at that moment; frames before the shot's first
+    # output frame (the margin kept before the in-point) are then dropped
+    chain.append(f"fps={fps},trim=start=0,setpts=PTS-STARTPTS,tpad=stop_mode=clone:stop=1,setsar=1,"
+                 f"format={ctx.pixfmt},trim=end_frame={max(f1 - f0, 1)},settb=AVTB")
     gr.f(f"[{vlab}]" + ",".join(chain) + f"[v{k}]")
 
 
@@ -407,15 +425,21 @@ def shared_runs(ctx, gr, groups, follow, skip_audio=False):
     for run_ in runs:
         g0, g1 = groups[run_[0]], groups[run_[-1]]
         r0, r1 = g0["start"], g1["end"]
-        ri = gr.add_input("-ss", f"{r0:.3f}", "-t", f"{r1 - r0:.3f}", "-i", g0["src"])
+        early = min(r0, 1.0)     # seek early (as single shots do) so the frame showing at r0 is decoded too
+        r0 -= early
+        ri = gr.add_input("-ss", f"{r0:.3f}", "-t", f"{r1 - r0 + 2.0 / ctx.fps:.3f}", "-i", g0["src"])
         n = len(run_)
-        gr.f(f"[{ri}:v]split={n}" + "".join(f"[rs{k}]" for k in run_))
+        if ctx.only != "audio":
+            gr.f(f"[{ri}:v]split={n}" + "".join(f"[rs{k}]" for k in run_))
         has_a = probe(g0["src"])["has_audio"]
         if has_a:
             gr.f(f"[{ri}:a]asplit={n}" + "".join(f"[ras{k}]" for k in run_))
         for k in run_:
             a, b = groups[k]["start"] - r0, groups[k]["end"] - r0
-            gr.f(f"[rs{k}]trim=start={a:.4f}:end={b:.4f}[rv{k}]")
+            m = min(a, 1.0 / ctx.fps)   # keep the frame on screen at the in-point (it starts just before it)
+            if ctx.only != "audio":
+                gr.f(f"[rs{k}]trim=start={a - m:.4f}:end={b + 1.0 / ctx.fps:.4f}[rv{k}]")
+            ctx.t_in[k] = a          # the in-point's time on this branch's clock (input seeked to r0 = 0)
             used = has_a and not skip_audio and not groups[k]["seg"].get("mute")
             if has_a:  # every split branch must end somewhere: sound the shot won't use goes to a null sink
                 gr.f(f"[ras{k}]atrim=start={a:.4f}:end={b:.4f}" + (f"[ra{k}]" if used else ",anullsink"))
@@ -432,7 +456,8 @@ def build_shots(ctx, gr, groups, t0=0.0):
         if not Path(use_track["src"]).exists():
             die(f"audio_track not found: {use_track['src']}")
         tinfo = probe(use_track["src"])
-    shared = shared_runs(ctx, gr, groups, follow, skip_audio=bool(use_track and not follow))
+    vid, aud = ctx.only != "audio", ctx.only != "video"
+    shared = shared_runs(ctx, gr, groups, follow, skip_audio=bool(use_track and not follow) or not aud)
     for k, g in enumerate(groups):
         src, a, b = g["src"], g["start"], g["end"]
         vsrc = ctx.video_src(src)
@@ -452,14 +477,21 @@ def build_shots(ctx, gr, groups, t0=0.0):
             # source: 97 % exact vs 82.5 % seeking straight to the in-point, which put 1 in 6 frames a frame early).
             # Costs nothing extra: a seek decodes from the previous keyframe anyway.
             pad = min(a, 1.0)
-            vi = gr.add_input("-ss", f"{a - pad:.3f}", "-t", f"{b - a + pad:.3f}", "-i", vsrc)
-            gr.f(f"[{vi}:v]trim=start={pad:.4f}:end={pad + b - a:.4f}[pv{k}]")
+            vi = gr.add_input("-ss", f"{a - pad:.3f}", "-t", f"{b - a + pad + 2.0 / ctx.fps:.3f}", "-i", vsrc)
+            m = min(pad, 1.0 / ctx.fps)  # keep the frame on screen at the in-point (it starts just before it)
+            if vid:
+                gr.f(f"[{vi}:v]trim=start={pad - m:.4f}:end={pad + b - a + 1.0 / ctx.fps:.4f}[pv{k}]")
+            ctx.t_in[k] = pad
             vlab, alab = f"pv{k}", None
-            if probe(src)["has_audio"] and vsrc == src and not (use_track and not follow) and not g["seg"].get("mute"):
+            if aud and probe(src)["has_audio"] and vsrc == src and not (use_track and not follow) \
+                    and not g["seg"].get("mute"):
                 gr.f(f"[{vi}:a]atrim=start={pad:.4f}:end={pad + b - a:.4f}[pa{k}]")
                 alab = f"pa{k}"
-        shot_video(ctx, gr, vlab, k, g)
-        if use_track and not follow:
+        if vid:
+            shot_video(ctx, gr, vlab, k, g)
+        else:
+            ctx.t_in.pop(k, None)
+        if (use_track and not follow) or not aud:
             continue
         if follow and not g["freeze"]:
             ref0 = float(g["seg"].get("ref", [a])[0]) + float(use_track.get("offset", 0))
@@ -475,14 +507,25 @@ def build_shots(ctx, gr, groups, t0=0.0):
         else:
             silence(gr, f"a{k}", g["len"])
 
-    skip_audio = bool(use_track and not follow)
+    skip_audio = bool(use_track and not follow) or not aud
     has_tr = any(g["overlap"] > 0 for g in groups[1:])
     G = len(groups)
+    if not vid:   # sound only: join the shots' audio the way the picture would be joined
+        al = "a0"
+        for k in range(1, G):
+            d = groups[k]["overlap"]
+            gr.f(f"[{al}][a{k}]" + (f"acrossfade=d={d:.4f}:c1=tri:c2=tri" if d > 0 else "concat=n=2:v=0:a=1")
+                 + f"[xa{k}]")
+            al = f"xa{k}"
+        gr.f(f"[{al}]anull[ca]")
+        return None, "ca", groups[-1]["out_end"] - t0
     if not has_tr:
         if skip_audio:
-            gr.f("".join(f"[v{k}]" for k in range(G)) + f"concat=n={G}:v=1:a=0[cv]")
+            gr.f("".join(f"[v{k}]" for k in range(G)) + f"concat=n={G}:v=1:a=0[cvj]")
+            gr.f(f"[cvj]setpts=N/({ctx.fps}*TB)[cv]")
         else:
-            gr.f("".join(f"[v{k}][a{k}]" for k in range(G)) + f"concat=n={G}:v=1:a=1[cv][ca]")
+            gr.f("".join(f"[v{k}][a{k}]" for k in range(G)) + f"concat=n={G}:v=1:a=1[cvj][ca]")
+            gr.f(f"[cvj]setpts=N/({ctx.fps}*TB)[cv]")
     else:
         vl, al = "v0", "a0"
         for k in range(1, G):
@@ -500,7 +543,7 @@ def build_shots(ctx, gr, groups, t0=0.0):
                 if not skip_audio:
                     gr.f(f"[{al}][a{k}]concat=n=2:v=0:a=1[xa{k}]")
             vl, al = f"xv{k}", f"xa{k}"
-        gr.f(f"[{vl}]null[cv]")
+        gr.f(f"[{vl}]setpts=N/({ctx.fps}*TB)[cv]")
         if not skip_audio:
             gr.f(f"[{al}]anull[ca]")
     total = groups[-1]["out_end"] - t0
@@ -536,7 +579,7 @@ def build_shots(ctx, gr, groups, t0=0.0):
 # Finish: everything that lives on the output timeline.
 
 def finish(ctx, gr, vlab, alab, total, out):
-    edl, W, H = ctx.edl, ctx.W, ctx.H
+    edl = ctx.edl
     use_track = edl.get("audio_track")
     follow = bool(use_track and use_track.get("follow"))
     if use_track and not follow:
@@ -550,7 +593,16 @@ def finish(ctx, gr, vlab, alab, total, out):
         gr.f(f"[{alab}]anullsink")
         alab = "trk"
     ofmt = ":format=yuv420p10" if "10" in ctx.pixfmt else ""
+    if ctx.only != "audio":
+        finish_video(ctx, gr, vlab, ofmt, out)
+    if ctx.only == "video":
+        gr.f(f"[{alab}]anullsink")
+        return
+    finish_audio(ctx, gr, alab, total)
 
+
+def finish_video(ctx, gr, vlab, ofmt, out):
+    edl, W, H = ctx.edl, ctx.W, ctx.H
     for j, bl in enumerate(edl.get("blurs", [])):
         s, e = float(bl["start"]), float(bl["end"])
         cw = max(int(W * float(bl.get("w", 0.2))) // 2 * 2, 4)
@@ -638,6 +690,10 @@ def finish(ctx, gr, vlab, alab, total, out):
         vlab = "sv"
     gr.f(f"[{vlab}]null[vout]")
 
+
+def finish_audio(ctx, gr, alab, total):
+    edl = ctx.edl
+    use_track = edl.get("audio_track")
     # Audio: foreground (dialogue + sfx), then beds (music + tracks), ducked under the foreground.
     aud = edl.get("audio", {})
     if aud.get("enhance"):
@@ -755,6 +811,15 @@ def encoder_args(args, pixfmt, hdr_transfer):
     return venc, ["-c:a", "aac", "-b:a", "192k"]
 
 
+def frame_index(t, fps):
+    """First output frame at or after time t (frame k shows time k/fps): where a cut at t really starts."""
+    return int(math.ceil(t * fps - 1e-6))
+
+
+def frame_at(t, fps):
+    return frame_index(t, fps) / fps
+
+
 def manifest_path(out):
     return Path(str(out) + ".render.json")
 
@@ -774,39 +839,59 @@ def splice_plan(since, new_manifest, out):
         return None
     if not plan.get("copy"):
         keys = splice.keyframe_times(old_file)
+        fps = new_manifest["settings"]["fps"]
         for t in (plan["a"], plan["b_old"]):
-            if 0 < t < load_json(old_m)["total"] - 1e-3 and not any(abs(k - t) < 0.5 / new_manifest["settings"]["fps"] for k in keys):
+            # a cut between two frames starts on the next frame: that is where the encoder put the keyframe
+            if 0 < t < load_json(old_m)["total"] - 1e-3 and not any(abs(k - frame_at(t, fps)) < 0.5 / fps for k in keys):
                 print(f"--since: {old_file.name} has no keyframe at {t:.2f} s; rendering everything", file=sys.stderr)
                 return None
     plan["old"] = str(old_file)
     return plan
 
 
-def splice_render(ctx, gr, sp, venc, aenc, fps, total, out, new_manifest):
-    """One pass over the graph: the changed window's picture (if any) and the full audio mix. The rest of the
-    picture is copied from the old file, cut at its keyframes; then picture and sound are muxed and checked."""
+def splice_render(ctx, groups, sp, venc, aenc, fps, total, out, new_manifest):
+    """A revision: encode only the changed window's picture (built from the shots in it, nothing else decoded), mix
+    the full sound in a sound-only pass (no frame decoded), copy the rest of the picture from the old file at its
+    keyframes, then mux and check."""
     t_start = time.time()
     work = ctx.cache_dir / f"splice-{hashlib.sha1(str(out.resolve()).encode()).hexdigest()[:10]}"
     work.mkdir(parents=True, exist_ok=True)
     audio, win, old_v, joined = work / "audio.m4a", work / "window.mp4", work / "old_video.mp4", work / "video.mp4"
     old = Path(sp["old"])
-    cmd = ["ffmpeg", "-y", "-hide_banner", "-v", "error", *gr.inputs]
-    if sp.get("copy"):
-        gr.f("[vout]nullsink")
-        cmd += ["-filter_complex", ";".join(gr.filters)]
-    else:
+    jobs = []
+    # sound: every shot's audio, music, sfx, ducking and loudness, with no picture in the graph
+    ctx.only = "audio"
+    ga = Graph()
+    _, al, _ = build_shots(ctx, ga, groups)
+    finish(ctx, ga, None, al, total, out)
+    jobs.append(["ffmpeg", "-y", "-hide_banner", "-v", "error", *ga.inputs, "-filter_complex", ";".join(ga.filters),
+                 "-map", "[aout]", "-t", f"{total:.4f}", "-vn", *aenc, str(audio)])
+    if not sp.get("copy"):
         a, b_new = sp["a"], sp["b_new"]
-        gr.f(f"[vout]trim=start={a:.4f}:end={b_new:.4f},setpts=PTS-STARTPTS[vwin]")
-        inner = [0.0] + [c - a for c in new_manifest["cuts"] if a + 1e-3 < c < b_new - 1e-3]
+        fa = frame_at(a, fps)
+        wgroups = [g for g in groups if g["out_start"] >= a - 1e-6 and g["out_end"] <= b_new + 1e-6]
+        ctx.only = "video"
+        gv = Graph()
+        vl, al, _ = build_shots(ctx, gv, wgroups, t0=a)
+        gv.f(f"[{vl}]setpts=PTS+{fa:.6f}/TB[cvabs]")    # back on the edit's clock: texts, captions, overlays line up
+        finish(ctx, gv, "cvabs", al, total, out)
+        gv.f("[vout]setpts=PTS-STARTPTS[vwin]")
+        inner = [0.0] + [frame_at(c, fps) - fa for c in new_manifest["cuts"] if a + 1e-3 < c < b_new - 1e-3]
         wenc = list(venc)
         if "-force_key_frames" in wenc:
             wenc[wenc.index("-force_key_frames") + 1] = ",".join(f"{t:.4f}" for t in inner)
-        cmd += ["-filter_complex", ";".join(gr.filters), "-map", "[vwin]", "-t", f"{b_new - a:.4f}", *wenc,
-                "-r", str(fps), "-an", str(win)]
-    cmd += ["-map", "[aout]", "-t", f"{total:.4f}", "-vn", *aenc, str(audio)]
-    p = subprocess.run(cmd, capture_output=True, text=True)
-    if p.returncode != 0:
-        die(f"revision render failed ({p.returncode}).\n{(p.stderr or '')[-2500:]}")
+        n_win = frame_index(b_new, fps) - frame_index(a, fps)
+        jobs.append(["ffmpeg", "-y", "-hide_banner", "-v", "error", *gv.inputs, "-filter_complex",
+                     ";".join(gv.filters), "-map", "[vwin]", "-frames:v", str(n_win), *wenc, "-r", str(fps), "-an",
+                     str(win)])
+    ctx.only = None
+    with ThreadPoolExecutor(max_workers=len(jobs)) as ex:      # the sound and the window encode side by side
+        results = list(ex.map(lambda c: subprocess.run(c, capture_output=True, text=True), jobs))
+    for r in results:
+        if r.returncode != 0:
+            print(f"revision render failed ({r.returncode}); rendering everything instead\n{(r.stderr or '')[-1500:]}",
+                  file=sys.stderr)
+            return False
     run(["ffmpeg", "-y", "-v", "error", "-i", str(old), "-map", "0:v:0", "-c", "copy", str(old_v)])
     if sp.get("copy"):
         video = old_v
@@ -814,18 +899,25 @@ def splice_render(ctx, gr, sp, venc, aenc, fps, total, out, new_manifest):
     else:
         old_total = load_json(manifest_path(old))["total"]
         listing = work / "concat.txt"
+        # Split the old picture by frame number at the keyframes around the window (finals have an IDR at every cut,
+        # closed GOPs): the segment muxer cuts exactly there, so no time-based seek can land a frame early or late.
+        fa, fb = frame_index(sp["a"], fps), frame_index(sp["b_old"], fps)
+        old_frames = round(old_total * fps)
+        marks = ([fa] if fa > 0 else []) + ([fb] if fb < old_frames else [])
         parts = []
-        if sp["a"] > 1e-3:  # finals use closed GOPs with an IDR at every cut: the first N packets ARE the frames before a
-            head = work / "head.mp4"
-            run(["ffmpeg", "-y", "-v", "error", "-i", str(old_v), "-map", "0:v:0", "-c", "copy",
-                 "-frames:v", str(round(sp["a"] * fps)), str(head)])
-            parts.append(head)
-        parts.append(win)
-        if sp["b_old"] < old_total - 1e-3:  # input seek with stream copy lands exactly on the IDR at b_old
-            tail = work / "tail.mp4"
-            run(["ffmpeg", "-y", "-v", "error", "-ss", f"{sp['b_old']:.4f}", "-i", str(old_v), "-map", "0:v:0",
-                 "-c", "copy", str(tail)])
-            parts.append(tail)
+        for f in work.glob("old[0-9][0-9][0-9].mp4"):
+            f.unlink()
+        if marks:
+            run(["ffmpeg", "-y", "-v", "error", "-i", str(old_v), "-map", "0:v:0", "-c", "copy", "-f", "segment",
+                 "-segment_frames", ",".join(map(str, marks)), "-reset_timestamps", "1", str(work / "old%03d.mp4")])
+            pieces = sorted(work.glob("old[0-9][0-9][0-9].mp4"))
+            if fa > 0:
+                parts.append(pieces[0])
+            parts.append(win)
+            if fb < old_frames:
+                parts.append(pieces[-1])
+        else:
+            parts.append(win)
         listing.write_text("".join(f"file '{x.resolve()}'\n" for x in parts))
         run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(listing), "-c", "copy", str(joined)])
         video = joined
@@ -1029,12 +1121,17 @@ def main():
                 "crf": args.crf, "speed": args.speed, "preview": bool(args.preview), "proxy": bool(ctx.use_proxy), "font": args.font,
                 "preset": args.preset, "hdr": bool(keep_hdr)}
     new_manifest = splice.manifest(edl, groups, total, settings, args.captions)
+    new_manifest["args"] = {"argv": sys.argv[1:], "cwd": os.getcwd()}   # how it was rendered (for `vs fix --render`)
     cut_times = new_manifest["cuts"][1:-1]
     if args.codec == "h264":  # an IDR frame at every hard cut: a later revision can splice there without re-encoding
         venc += ["-force_key_frames", ",".join(f"{t:.4f}" for t in [0.0] + cut_times), "-x264-params", "forced-idr=1"]
     sp = None
     if args.since:
         sp = splice_plan(args.since, new_manifest, out)
+
+    if sp and not args.dry_run and not args.range:
+        if splice_render(ctx, groups, sp, venc, aenc, fps, total, out, new_manifest):
+            return
 
     gr = Graph()
     if len(chunks) == 1:
@@ -1074,10 +1171,6 @@ def main():
         if "-force_key_frames" in venc:
             i = venc.index("-force_key_frames")
             venc[i + 1] = "0"
-    if sp and not args.dry_run:
-        import copy
-        if splice_render(ctx, copy.deepcopy(gr), sp, venc, aenc, fps, total, out, new_manifest):
-            return
     cmd = ["ffmpeg", "-y", "-hide_banner", "-v", "error", "-stats", *gr.inputs,
            "-filter_complex", ";".join(gr.filters), "-map", vmap, "-map", amap,
            "-t", f"{length:.4f}", *venc, "-r", str(fps), *aenc, "-movflags", "+faststart", str(out)]

@@ -218,6 +218,12 @@ def cmd_feedback(a):
     t["status"] = "revising"
     save(t)
     print(f"{t['code']}: {len(items)} feedback item(s) on {on or '-'} logged (#{start + 1}–#{start + len(items)})")
+    if t.get("client"):
+        import lessons
+        new = [{"id": f["id"], "text": f["text"]} for f in t["feedback"][start:]]
+        for n, les, scope in lessons.record_notes(t["client"], new, t.get("project"), f"task {t['code']}"):
+            print(f"REPEAT: feedback #{n['id']} is something we already learned ({scope} {les['id']}: "
+                  f"{les['rule']}). Fix it and tighten the lesson (a --check, or --must).")
     pd = proj_dir(t)
     edl = pd / "work" / "edl.json" if pd else None
     if any(re.search(r"\b\d{1,2}:\d{2}\b", x) for x in items):

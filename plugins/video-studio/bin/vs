@@ -27,7 +27,7 @@ init_ws() {
 cmd="${1:-help}"
 shift || true
 case "$cmd" in
-  transcribe|pack|propose_cuts|silences|render|captions|filmstrip|qa|export_edl|ingest|scenes|beats|sync|multicam|convert|thumbs|sfx|packs|music|proxy|breakdown|edl|notes|review|ai|translate|ads|watch|gen|higgsfield|task|learn|present|social)
+  transcribe|pack|propose_cuts|silences|render|captions|filmstrip|qa|export_edl|ingest|scenes|beats|sync|multicam|convert|thumbs|sfx|packs|music|proxy|breakdown|edl|notes|review|ai|translate|ads|watch|gen|higgsfield|task|learn|present|social|lessons|fix)
     exec "$py" "$tools/$cmd.py" "$@" ;;
   cuts) exec "$py" "$tools/propose_cuts.py" "$@" ;;
   fetch) exec "$py" "$tools/assets.py" "$@" ;;
@@ -82,6 +82,9 @@ vs <command>                                         video-studio plugin
   fetch search "<query>" --type video|photo|music|sfx --project P [--provider archive,youtube,wikipedia,...]
   fetch get <results.json> 2 5 7 [--quality hd --section 95-110]  download picks / only a section (logged with licences)
   fetch inspect <results.json> N | archive:<id> [--window 4:00-9:00 --file f --page 2]   archive film: scenes + keyframe sheet
+  fix <project> "<time> <note>" ...   revision step 1: the exact words, pauses, shots and cut commands at each note
+  fix <project> --render [--how "..."]  revision step 2: captions, render only what changed, check, before/after
+  lessons brief|add|learn|check|list|retire --brand <Client>   what feedback taught us, applied and QA-checked
   present <final.mp4> --project P [--task CODE --version v2]   Frame.io-style review page: comments pinned to frames
   present notes <comments.json|csv> -o notes.txt | present link <dir> <url> | present pref [ask|always|never]
   social prep <final.mp4> --platforms tiktok,reels,shorts,youtube,linkedin,x --project P   files + captions to approve

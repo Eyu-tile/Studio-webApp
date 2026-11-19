@@ -2,8 +2,10 @@
 speed-path equivalences (needs ffmpeg + numpy).
 
 Before 2026-11, shots cut at in-points between two source frames showed the previous source frame on 1 in 6
-output frames (82.5 % exact). Seeking a little early and trimming to the in-point fixed it (97.3 %); the shared
-decoder for jump cuts (one decoder per run of shots) must give pixel-identical output.
+output frames (82.5 % exact). Seeking a little early and trimming to the in-point brought it to 97.3 %; placing every
+shot on the absolute frame grid (its clock anchored to the exact in-point, one frame of margin either side) made it
+exact, and an untouched shot now renders identically whatever changes before it (revision splices depend on that).
+The shared decoder for jump cuts (one decoder per run of shots) must give pixel-identical output.
 
 Run: python3 -m unittest discover -s tests -v
 """
@@ -63,14 +65,33 @@ class AccuracyTest(unittest.TestCase):
             t += b - a
         errs = []
         for i, g in enumerate(got):
-            tc = (i + 0.5) / FPS
-            k = max(j for j, o in enumerate(starts) if o <= tc + 1e-9)
-            ideal = int(np.floor((CUTS[k][0] + tc - starts[k]) * FPS + 1e-6)) % 50
+            # output frame i belongs to the shot under its start (where the encoder puts the cut's keyframe) and shows
+            # the source frame on screen at its midpoint
+            k = max(j for j, o in enumerate(starts) if o <= i / FPS + 1e-9)
+            ideal = int(np.floor((CUTS[k][0] + (i + 0.5) / FPS - starts[k]) * FPS + 1e-6)) % 50
+            if ideal in (0, 1) and g in (0, 1):     # numbers 0 and 1 read back alike (limited-range black)
+                continue
             errs.append((g - ideal + 25) % 50 - 25)
         return np.mean(np.array(errs) == 0)
 
     def test_frame_accuracy(self):
-        self.assertGreaterEqual(self.exactness(self.render("shared.mp4")), 0.95)
+        self.assertGreaterEqual(self.exactness(self.render("shared.mp4")), 0.995)
+
+    def test_untouched_shots_do_not_move(self):
+        """Cutting 0.4 s out of shot 1 must leave every later shot frame-for-frame identical (shifted by 12 frames)."""
+        cut = [dict(s) for s in self.edl["segments"]]
+        cut[:1] = [dict(cut[0], end=6.0), dict(cut[0], start=6.4)]
+        (self.tmp / "edl_cut.json").write_text(json.dumps({"segments": cut}))
+        sh(VS, "render", self.tmp / "edl_cut.json", "-o", self.tmp / "cut.mp4")
+        a, b = self.frames(self.render("whole.mp4")), self.frames(self.tmp / "cut.mp4")
+        later = int(round(sum(e - s for s, e in CUTS[1:]) * FPS))
+        self.assertEqual(len(a) - len(b), 12)
+        self.assertTrue(np.array_equal(a[-later:], b[-later:]))
+
+    def frames(self, video):
+        raw = subprocess.run(["ffmpeg", "-v", "error", "-i", str(video), "-vf", "scale=16:16,format=gray", "-f",
+                              "rawvideo", "-"], capture_output=True).stdout
+        return np.frombuffer(raw, np.uint8).reshape(-1, 256)
 
     def test_shared_decoder_is_pixel_identical(self):
         a, b = self.render("s.mp4"), self.render("p.mp4", {"VS_NO_SHARE": "1"})

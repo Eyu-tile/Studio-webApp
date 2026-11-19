@@ -36,8 +36,11 @@ Write the note for someone who wasn't here: what this version changed and why.
   won't do one, run `vs task done <CODE> <#> --skip "<why>"` and tell the person.
 - Decisions and context worth keeping (client preferences, things to avoid, approvals):
   `vs task note <CODE> "<text>"`.
-- Fix client feedback in revision mode (`/video-edit` GATE 2): `vs notes focus` per note, change only those
-  entries, one `vs render ... --since <the delivered file>`, check the windows, then deliver.
+- Fix client feedback in revision mode (`/video-edit` GATE 2): `vs fix <project> "<time> <note>"` (the exact words,
+  pauses and shots there), change only those entries with `vs edl`, then `vs fix <project> --render --how "..."`
+  (re-renders only the changed shots, checks that window, before/after sheet), then deliver.
 - Deliver the revision with `vs task deliver` as above. `vs task close <CODE>` once the client approves.
 
+Feedback is also logged in the client's library and checked against its lessons: a `REPEAT:` line means we
+already learned this. After a round, `vs lessons learn --brand <client>` (`/feedback-learning`).
 Never invent feedback or mark an item done that wasn't done. `resume` shows only what was recorded.

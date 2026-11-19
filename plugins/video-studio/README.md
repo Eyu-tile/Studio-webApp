@@ -55,6 +55,7 @@ Drop footage into `raw/` and talk to Claude:
 | `ai-presenter` | AI talking-head presenter and b-roll through the Higgsfield MCP (or another generator) as tracked jobs, pulled back into the edit |
 | `video-review` | Frame.io-style review page for a finished video: frame-accurate player, filmstrip timeline, comments pinned to frames or ranges, replies, resolve; offered after every finished task; comments come back as `vs notes` (`vs present`) |
 | `social-post` | Post a finished video to TikTok, Instagram Reels, YouTube/Shorts, LinkedIn or X through Composio: one checked upload per platform, platform captions, the exact plan approved before anything posts, links logged (`vs social`, `vs setup --social`) |
+| `feedback-learning` | Learns from every note: per-brand lessons with machine checks, a brief before each edit, repeated feedback flagged, and `vs qa --brand` failing when a lesson is broken |
 | `task-history` | Client task history by code: every delivered version (files, link, note, snapshot of the edit), client feedback with done/skipped tracking, and `vs task resume <CODE>` to pick up exactly where you left off |
 | `library-learning` | Learn a client's footage from Drive, Frame.io, Dropbox, OneDrive, web pages, links or a local drive without downloading it all: scan, network frame sampling into contact sheets, described atlas, search, fetch on demand, usage log (`vs learn`) |
 | `ugc-ads` | UGC and VSL ads from a brief: audience/emotion/awareness → hooks, beats, captions, music; variants; ad QA (hook, words on screen, stimulus, safe zones, CTA, loudness, compliance); client review page |
@@ -90,11 +91,13 @@ review round 67.7 s -> 41 s, QA 32.6 s -> 12.5 s (one pass), silence detection 1
 82.5 % before. `--speed balanced|best` encodes masters with x264 medium/slow; `vs transcribe --fast` is a 2.5x faster
 draft for reading long recordings (not for cutting).
 
-**Fast revisions**: feedback is fixed where it was given. `vs notes focus <id>` shows only that moment (frames,
-the EDL entries there, the words), and `vs render ... --since out/final_v1.mp4` re-encodes only the shots between
-the cuts around each change and copies the rest of the picture (finals carry a keyframe at every cut and a
-`.render.json` manifest). On a 60 s 1080p edit: full render 31.7 s, one changed shot 15.0 s, a changed end card
-13.1 s, music-only 9.3 s; frame-exact and checked at every seam.
+**Fast revisions, in two commands**: `vs fix <project> "1:12 cut this pause shorter"` prints only that moment: the
+shots there with their EDL index, every word with its time, every pause and filler with the exact `vs edl cut`
+command, and a frame sheet. After the edit, `vs fix <project> --render` remakes the captions, re-renders only the
+shots around each change (`--since`: finals carry a keyframe at every cut and a `.render.json` manifest; the rest of
+the picture is copied), checks the picture around the notes plus the whole sound, and makes a before/after sheet.
+On a 2:35 1080p Reel: finding the spot 3.5 s, the whole revision 19 s (a full render alone is 48 s), and the result
+matches a full render frame for frame. Every shot sits on the absolute frame grid, so untouched shots never move.
 
 **Agentic loop**: `vs edl` makes small edits (trim, split, cut a time range, delete, move, insert, set) with
 version history, undo/redo and ripple (texts, overlays, sfx follow the picture); `vs review` runs one
@@ -143,6 +146,19 @@ Clients keep footage in different places. Add each share once; public links work
 Measured on a real Frame.io share: 454 files listed in about 80 s, then 36 clips (including 4K .mov) sampled in
 about 110 s with 8 parallel jobs. Frame.io and other web pages are read with headless Chromium (Node.js and
 Playwright). Output lives in `library/<Library>/resources/`.
+
+## Learning from feedback (`vs lessons`)
+
+Every note is a chance not to make that mistake again. After each revision round, the notes that apply to future
+videos become lessons in the client's library (`library/<Brand>/LESSONS.md`), most with a machine check:
+```bash
+vs lessons brief --brand TrueClean                      # before planning: the ranked rules for this client
+vs lessons add --brand TrueClean --rule "Music bed at -22 dB or lower" --check music_gain_max=-22 --must
+vs lessons learn --brand TrueClean --notes work/notes.json   # handled notes to classify + feedback that keeps returning
+vs qa out/final.mp4 --edl work/edl.json --brand TrueClean    # a broken MUST lesson fails QA before the client sees it
+```
+`vs notes add` and `vs task feedback` flag a note that repeats a lesson (`REPEAT:`), so a lesson that didn't hold
+gets tightened. House rules for every client: `--global`. Skill: `/feedback-learning`.
 
 ## Task history: pick up a client task by its code
 Every client task gets a code (e.g. `TC0488`). Its history is kept in `video-studio/history/` (committed with the

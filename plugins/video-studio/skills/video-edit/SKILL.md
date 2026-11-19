@@ -18,7 +18,8 @@ Tools: `vs <cmd>` (on PATH via this plugin's SessionStart hook; if missing, run
 2. First time in this folder: `vs init` (creates `video-studio/style/{brand,moves,notes}.md`, `projects/`, `library/`).
    New edit: `vs new <name>`; bring footage and anything else the editor gives with `vs add <paths|links> --project <name>`
    (`/video-assets`). `P=video-studio/projects/<name>`. Check `video-studio/library/assets/` for logos, fonts, music.
-3. Read `style/notes.md` (house rules from past feedback), `style/brand.md`, `style/moves.md`, `$P/project.md`.
+3. Client work: `vs lessons brief --brand <Client>` (what past feedback taught us; apply every line, `/feedback-learning`).
+   Read `style/brand.md`, `style/moves.md`, `$P/project.md`.
    If `brand.md` is still the template and the video needs branding, ask for colours/font/logo once.
 4. Brief: if platform, max length, aspect or caption style is missing, ask ONE question with
    defaults ("Reels 9:16, ≤60 s, bold-pop captions, music under, OK?"). Record answers in `project.md`.
@@ -106,28 +107,28 @@ vs notes add $P/work/notes.json --edl $P/work/edl.json --video $P/out/draft.mp4 
 # comments from a review page (/video-review): vs present notes <comments.json|csv> -o notes.txt first
 vs notes list $P/work/notes.json        # each timed note shows its shot and source time
 ```
-**Revision mode: fix only the place each note asks about.** A revision must cost a fraction of the edit, not the
-same again. For each timed note:
-1. `vs notes focus $P/work/notes.json <id> --video <reviewed render> --edl $P/work/edl.json [--words <its transcript>]`
-   and read ONLY `focus.md` and `frames.png` (the frames around that moment, the EDL entries there with their
-   index, the words spoken). Do not re-read the transcript, the pack, the whole EDL or the plan; do not re-plan,
-   re-transcribe, re-run sound design or a full `vs review` for a local note.
-2. Change only the entries `focus.md` lists, with `vs edl`. Work from the latest timestamp backwards (earlier times
-   stay valid).
-3. After all notes of the round: ONE render that reuses the reviewed one:
-   `vs render $P/work/edl.json -o $P/out/<name>_v<N+1>.mp4 --since <reviewed render> <same --preset/--captions>`.
-   It re-encodes only the shots between the cuts around each change, copies the rest of the picture, remixes the
-   sound, and checks frame count and seams (it falls back to a full render by itself when a global setting changed
-   or most of the video did). Captions: regenerate the .ass only if timing changed; only changed events re-encode.
-4. Check only those windows: `vs notes focus ... --video <new render> --before <reviewed render>` (before/after
-   frames), then `vs notes done <id> --how "..."` (or `skip <id> --why "..."` and say why).
+**Revision mode: fix only the place each note asks about, in two commands.** A revision must cost a fraction of
+the edit, not the same again:
+1. `vs fix <project> "<time> <note>" ["<time> <note>" ...]` (the reviewed render is the latest one; else `--video`).
+   It prints, per note, ONLY that moment: the shots there with their EDL index, every word with its time, every
+   pause and filler with the exact `vs edl cut` command, texts/sfx there, and a frame sheet. Read that output and
+   nothing else: no transcript, pack, whole EDL or plan; no re-plan, re-transcribe, sound-design or full review.
+2. Change only the listed entries with `vs edl` (several notes: work from the latest time backwards).
+3. `vs fix <project> --render --how "<what you changed>"`: remakes the captions with the same look, re-renders only
+   the shots around each change (`--since`; the rest of the picture is copied, the sound remixed; it falls back to a
+   full render by itself when a global setting changed), checks the picture around the notes plus the whole sound
+   and the client's lessons, and makes a before/after sheet per note. Look at each sheet once; if a fix is wrong,
+   `vs notes reopen` and repeat 2-3. On the 2:35 test Reel: 3.5 s for step 1, 19 s for step 3 (a full render alone
+   was 48 s).
 Notes about the whole video (a new grade, "make it all faster", a different song) are not local: handle them with
 the normal steps; a music-only change still renders fast with `--since` (the picture is copied whole). Reply with the
-checklist. A note about taste that should apply to future videos → one line in `style/notes.md`. Log
-decisions in `project.md`.
+checklist. Then decide what the round teaches: `vs lessons learn --brand <Client> --notes $P/work/notes.json`
+(lesson with a check, or one-off; `/feedback-learning`). A `REPEAT:` line from `vs notes add` is a mistake we had
+already learned about: fix it first and tighten that lesson. Log decisions in `project.md`.
 
 ## 6. Final
-`vs render ... -o $P/out/final.mp4 --preset <platform> --captions ...` (no `--preview`), `vs qa` again,
+`vs render ... -o $P/out/final.mp4 --preset <platform> --captions ...` (no `--preview`), `vs qa ... --brand <Client>` again (a
+broken MUST lesson fails),
 then `/video-export` for other formats, thumbnails and `.srt`. Report the file paths, length, and QA.
 Then, every time a task finishes: offer the review page and social posting together (`/video-review`,
 `/social-post`: read `vs present pref` and `vs social pref`; whatever says `ask` goes into ONE AskUserQuestion call:

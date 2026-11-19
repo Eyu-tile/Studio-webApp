@@ -26,6 +26,7 @@ times stay valid.
 import argparse
 import csv
 import io
+import os
 import re
 import sys
 import time
@@ -96,6 +97,19 @@ def from_csv(text, fps):
     return out
 
 
+def remember(book, round_no, path, brand):
+    """Log this round in the brand's feedback history and flag notes that repeat a lesson (vs lessons)."""
+    import lessons
+    project = None
+    parts = Path(path).resolve().parts
+    if "projects" in parts and parts.index("projects") + 1 < len(parts) - 1:
+        project = parts[parts.index("projects") + 1]
+    brand = brand or os.environ.get("VS_BRAND") or (lessons.brand_for_project(project) if project else None)
+    if not brand:
+        return []
+    return lessons.record_notes(brand, [n for n in book["notes"] if n["round"] == round_no], project, str(path))
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -107,6 +121,8 @@ def main():
     a.add_argument("--video", help="the reviewed video (recorded with the notes)")
     a.add_argument("--by", default="", help="who gave the notes")
     a.add_argument("--fps", type=float, default=30.0, help="for HH:MM:SS:FF timecodes")
+    a.add_argument("--brand", help="client library: notes go into its feedback log and are checked against its "
+                                   "lessons (default: $VS_BRAND, or the client of this project's task)")
     fo = sub.add_parser("focus", help="everything about one note's moment, nothing else")
     fo.add_argument("notes")
     fo.add_argument("id", type=int)
@@ -175,9 +191,13 @@ def main():
                             n["edl_version"] = v
             except Exception:  # noqa: BLE001 - history is optional
                 pass
+        repeats = remember(book, round_no, path, args.brand)
         save_json(path, book)
         print(f"added {len(raw)} note(s) as round {round_no} -> {path}")
         show(book, False)
+        for n, les, scope in repeats:
+            print(f"REPEAT: note #{n['id']} is feedback we already learned ({scope} {les['id']}: {les['rule']}). "
+                  f"Fix it, then ask why the lesson didn't hold (add a --check, or make it --must).")
         return
     if args.cmd == "list":
         show(book, args.all)
@@ -225,9 +245,9 @@ def focus(book, path, a):
         for i, s in enumerate(sh):
             if s["out_end"] > lo and s["out_start"] < hi:
                 seg = edl["segments"][i]
-                extra = ", ".join(f"{k}={v}" for k, v in seg.items() if k not in ("src", "start", "end"))
+                extra = ", ".join(f"{k}={v}" for k, v in seg.items() if k not in ("src", "start", "end", "words", "text"))
                 rows.append(f"| shot {i + 1} | segments[{i}] | {fmt_ts(s['out_start'])[1:]}-{fmt_ts(s['out_end'])[1:]} | "
-                            f"{Path(seg['src']).name} {float(seg.get('start', 0)):.2f}-{float(seg.get('end', 0)):.2f} s"
+                            f"{Path(seg.get('src') or edl.get('source') or '?').name} {float(seg.get('start', 0)):.2f}-{float(seg.get('end', 0)):.2f} s"
                             + (f"; {extra}" if extra else "") + " |")
         for key in ("texts", "overlays", "blurs", "sfx"):
             for j, it in enumerate(edl.get(key, []) or []):
@@ -240,9 +260,24 @@ def focus(book, path, a):
         if edl.get("music"):
             rows.append(f"| music | music | whole edit | {Path(edl['music']['file']).name} at {edl['music'].get('gain_db', -18)} dB |")
         rows.append("")
-    if a.words and Path(a.words).exists():
-        ws = [w for w in load_json(a.words).get("words", []) if w["e"] > lo and w["s"] < hi]
-        rows += ["## Words in the window", "", " ".join(f"[{w['s']:.2f}] {w['w']}" for w in ws) or "(none)", ""]
+    ws = window_words(a, lo, hi)
+    if ws is not None:
+        edl_arg0 = a.edl or "work/edl.json"
+        rows += ["## Words here (output time)", "",
+                 " ".join(f"[{w['s']:.2f}] " + ("{" + w["w"] + "}" if w.get("filler") else w["w"]) for w in ws)
+                 or "(no speech)", ""]
+        gaps = [(p_["e"], n_["s"]) for p_, n_ in zip(ws, ws[1:]) if n_["s"] - p_["e"] >= 0.25]
+        fills = [w for w in ws if w.get("filler")]
+        if gaps or fills:
+            rows += ["## Exact cuts available here", ""]
+            for g0, g1 in gaps:   # keep a short breath either side so the cut sounds natural
+                rows.append(f"- pause {g0:.2f}-{g1:.2f} ({g1 - g0:.2f} s): shorten to 0.15 s -> "
+                            f"`vs edl cut {edl_arg0} {g0 + 0.08:.2f} {g1 - 0.07:.2f}`")
+            for w in fills:
+                rows.append(f"- filler {w['w']!r} {w['s']:.2f}-{w['e']:.2f} -> `vs edl cut {edl_arg0} "
+                            f"{w['s'] - 0.02:.2f} {w['e'] + 0.02:.2f}`")
+            rows.append("- a word or phrase: cut from its start to the next word's start (times above)")
+            rows.append("")
     sheet_png = None
     if video and Path(video).exists():
         import archive  # noqa: E402  (shared keyframe + contact-sheet helpers)
@@ -268,6 +303,27 @@ def focus(book, path, a):
              f"4. `vs notes done {path} {a.id} --how \"...\"`."]
     (out / "focus.md").write_text("\n".join(rows) + "\n", encoding="utf-8")
     print(f"note {a.id}: window {fmt_ts(lo)[1:]}-{fmt_ts(hi)[1:]} -> {out / 'focus.md'}" + (f", {sheet_png}" if sheet_png else ""))
+
+
+def window_words(a, lo, hi):
+    """Words in [lo, hi] on the output timeline: from --words (a transcript of the render), else the edit's own
+    transcript (its EDL's meta.from) mapped through the EDL, fillers included and marked."""
+    if a.words and Path(a.words).exists():
+        return [w for w in load_json(a.words).get("words", []) if w["e"] > lo and w["s"] < hi]
+    if not a.edl:
+        return None
+    edl = load_json(a.edl)
+    src = (edl.get("meta") or {}).get("from")
+    if not src:
+        return None
+    cands = [Path(src), Path(a.edl).parent / Path(src).name]
+    tp = next((c for c in cands if c.exists()), None)
+    if not tp:
+        return None
+    t = load_json(tp)
+    from captions import remap
+    return [w for w in remap(t["words"], edl, t.get("source") or edl.get("source"), keep_fillers=True)
+            if w["e"] > lo and w["s"] < hi]
 
 
 def show(book, everything):
