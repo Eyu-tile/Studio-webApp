@@ -9,6 +9,7 @@ import { Suspense, useCallback, useEffect, useMemo, useRef, useState } from "rea
 import { JobIcon, JobStatusBadge, STATUS_LABEL } from "@/components/bits";
 import { LessonDialog } from "@/components/brand/lessons";
 import { ClaudeTab } from "@/components/claude/panel";
+import { useWorkspace } from "@/components/workspace/context";
 import { Avatar, Badge, Button, Card, Dialog, Empty, Field, PageHeader, Progress, Select, Skeleton, Spinner, Tabs, Textarea, useToast } from "@/components/ui";
 import { api } from "@/lib/api";
 import { ago, bytes, duration, JOB_LABEL, KIND_LABEL, timecode } from "@/lib/format";
@@ -22,6 +23,7 @@ function ProjectPage() {
   const { projectId } = useParams<{ projectId: string }>();
   const params = useSearchParams();
   const [tab, setTab] = useState<Tab>((params.get("tab") as Tab) || "claude");
+  useEffect(() => { const t = params.get("tab") as Tab | null; if (t) setTab(t); }, [params]);     // sidebar and tasks links
   const [cutOpen, setCutOpen] = useState(false);
   useProjectEvents(projectId);
   const me = useMe().data!;
@@ -36,6 +38,10 @@ function ProjectPage() {
   const versions = useQuery({ queryKey: ["project", projectId, "versions"], queryFn: () => api.get<Version[]>(`/projects/${projectId}/versions`),
     refetchInterval: busy ? 5000 : false });
 
+  // the project's brand is the one in focus (sidebar chats, gallery, spend)
+  const { brandId: focus, setBrandId } = useWorkspace();
+  const pb = project.data?.brand_id;
+  useEffect(() => { if (pb && pb !== focus) setBrandId(pb); }, [pb, focus, setBrandId]);
   if (project.error) return <Empty icon={<Film className="size-5" />} title="Project not found" body="It may have been removed, or you don't have access." />;
   if (!project.data) return <Skeleton className="h-40" />;
   const p = project.data;
@@ -60,7 +66,7 @@ function ProjectPage() {
         { value: "activity", label: running ? `Activity · ${running} running` : "Activity" },
       ]} />
       {tab === "claude" && <ClaudeTab projectId={projectId} canEdit={canEdit} isLead={brand?.role === "lead"}
-        openNotes={p.open_notes} onOpenReview={() => setTab("review")} />}
+        openNotes={p.open_notes} onOpenReview={() => setTab("review")} thread={params.get("thread")} />}
       {tab === "media" && <Media projectId={projectId} assets={assets.data} canEdit={canEdit} onCut={() => setCutOpen(true)} />}
       {tab === "review" && <Review projectId={projectId} brandId={p.brand_id} versions={versions.data} canEdit={canEdit} />}
       {tab === "activity" && <ActivityList jobs={jobs.data} canEdit={canEdit} />}

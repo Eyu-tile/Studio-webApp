@@ -11,6 +11,16 @@ webapp/
   docs/       architecture, deployment
 ```
 
+## The workspace
+The home page is where work starts: pick a brand (or all of them), describe what you want, choose the project it
+goes in (or let Studio make one), the format and the length, attach footage, and Claude starts in that project.
+The tools under the prompt are the plugin's most used skills; More lists the rest. Around it:
+- **Sidebar**: the brand switcher, every Claude chat across your projects with what it's waiting on (approval,
+  working, failed), the brand's Projects, Library, Lessons and Connections, and this month's Claude spend
+- **Gallery** (right): renders, uploaded footage, the client's library and Claude's files, with search, shape and
+  project filters, upload, preview, and "Use in chat" to hand a file to the prompt
+- **Tasks** (bottom bar): everything queued or running right now, with progress
+
 ## What works today (milestone 1)
 - Sign-in with Google Workspace or Microsoft (OIDC + PKCE), server-side sessions, admins and members
 - Brands (one per client) with members as lead, editor or viewer; brands you're not in are invisible

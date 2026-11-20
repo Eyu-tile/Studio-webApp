@@ -13,8 +13,8 @@ import type { AgentMsg, Approval, Asset, Capabilities, Thread, ThreadDetail } fr
 
 const BUSY = new Set(["queued", "running", "waiting"]);
 
-export function ClaudeTab({ projectId, canEdit, isLead, openNotes, onOpenReview }: {
-  projectId: string; canEdit: boolean; isLead: boolean; openNotes: number; onOpenReview: () => void;
+export function ClaudeTab({ projectId, canEdit, isLead, openNotes, onOpenReview, thread }: {
+  projectId: string; canEdit: boolean; isLead: boolean; openNotes: number; onOpenReview: () => void; thread?: string | null;
 }) {
   const qc = useQueryClient();
   const toast = useToast();
@@ -22,8 +22,9 @@ export function ClaudeTab({ projectId, canEdit, isLead, openNotes, onOpenReview 
   const threads = useQuery({ queryKey: ["project", projectId, "threads"], queryFn: () => api.get<Thread[]>(`/projects/${projectId}/claude/threads`),
     refetchInterval: (q) => (q.state.data?.some((t) => BUSY.has(t.status)) ? 4000 : false) });
   const outputs = useQuery({ queryKey: ["project", projectId, "outputs"], queryFn: () => api.get<Asset[]>(`/projects/${projectId}/outputs`) });
-  const [sel, setSel] = useState<string | null>(null);
   const [fresh, setFresh] = useState(false);
+  const [sel, setSel] = useState<string | null>(thread ?? null);
+  useEffect(() => { if (thread) { setSel(thread); setFresh(false); } }, [thread]);       // a chat picked in the sidebar
   useEffect(() => {
     if (!sel && !fresh && threads.data?.length) setSel(threads.data[0].id);
   }, [threads.data, sel, fresh]);
@@ -216,7 +217,7 @@ function ThreadView({ threadId, canEdit, isLead, onOpenReview }: { threadId: str
   const results = new Map(d.messages.filter((m) => m.role === "tool_result").map((m) => [m.body.id as string, m]));
   const approvals = new Map(d.approvals.map((a) => [a.id, a]));
   return (
-    <Card className="flex h-[calc(100dvh-230px)] min-h-[480px] flex-col">
+    <Card className="flex h-[calc(100dvh-290px)] min-h-[480px] flex-col">
       <div className="flex items-center gap-3 border-b border-border px-4 py-3">
         <Bot className="size-4 text-accent" />
         <p className="min-w-0 flex-1 truncate text-sm font-semibold">{d.title}</p>

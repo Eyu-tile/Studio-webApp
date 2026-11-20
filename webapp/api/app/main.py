@@ -10,7 +10,7 @@ from . import storage
 from .config import get_settings
 from .db import engine
 from .events import _redis
-from .routers import admin, agent, assets, auth, brands, connections, jobs, lessons, library, projects, reviews
+from .routers import admin, agent, assets, auth, brands, connections, jobs, lessons, library, projects, reviews, workspace
 
 logging.basicConfig(level=logging.INFO, format='{"t":"%(asctime)s","lvl":"%(levelname)s","log":"%(name)s","msg":"%(message)s"}')
 settings = get_settings()
@@ -28,7 +28,7 @@ app = FastAPI(title=f"{settings.app_name} API", version="0.1.0", docs_url=f"{set
 app.add_middleware(CORSMiddleware, allow_origins=[settings.public_url], allow_credentials=True,
                    allow_methods=["*"], allow_headers=["*"])
 
-for r in (auth, brands, projects, assets, jobs, reviews, connections, library, lessons, agent, admin):
+for r in (auth, brands, projects, assets, jobs, reviews, connections, library, lessons, agent, admin, workspace):
     app.include_router(r.router, prefix=settings.api_prefix)
 
 

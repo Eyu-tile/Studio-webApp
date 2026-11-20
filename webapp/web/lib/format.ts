@@ -40,6 +40,7 @@ export const KIND_LABEL: Record<string, string> = {
 
 export const JOB_LABEL: Record<string, string> = {
   ingest: "Process upload", transcribe: "Transcribe", render: "Render", qa: "Quality check", library_scan: "Learn library",
+  agent_turn: "Claude",
 };
 
 export const PROVIDER_LABEL: Record<string, string> = {
@@ -49,3 +50,11 @@ export const PROVIDER_LABEL: Record<string, string> = {
 export const CATEGORY_LABEL: Record<string, string> = {
   generation: "AI generation", voice: "Voice", avatar: "Avatars", ai: "AI services", footage: "Footage sources", stock: "Stock libraries",
 };
+
+/** "claude-opus-5-5" -> "Opus 5.5" (a dated id's date is dropped). */
+export function modelName(id: string): string {
+  const parts = id.replace(/^claude-/, "").replace(/\[.*\]$/, "").split("-").filter((p) => !/^\d{8}$/.test(p));
+  const words = parts.filter((p) => !/^\d+$/.test(p)).map((w) => w[0].toUpperCase() + w.slice(1));
+  const version = parts.filter((p) => /^\d+$/.test(p)).join(".");
+  return [words.join(" "), version].filter(Boolean).join(" ") || id;
+}

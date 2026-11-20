@@ -73,6 +73,7 @@
   --color-danger-soft: var(--danger-soft);
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
   --font-mono: ui-monospace, "SF Mono", Menlo, monospace;
+  --font-display: var(--font-serif), ui-serif, Georgia, serif;
   --shadow-card: var(--shadow);
   --shadow-pop: var(--shadow-lg);
 }

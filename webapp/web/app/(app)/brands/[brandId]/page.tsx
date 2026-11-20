@@ -23,6 +23,7 @@ function BrandPage() {
   const params = useSearchParams();
   const [tab, setTab] = useState<Tab>((params.get("tab") as Tab) || "projects");
   const picked = useRef(!!params.get("tab"));
+  useEffect(() => { const t = params.get("tab") as Tab | null; if (t) { picked.current = true; setTab(t); } }, [params]);   // sidebar links
   const setup = useQuery({ queryKey: ["brand", brandId, "setup"], queryFn: () => api.get<Setup>(`/brands/${brandId}/setup`) });
   useEffect(() => {     // a client still being set up opens on its checklist
     if (!picked.current && setup.data) { picked.current = true; if (setup.data.done < setup.data.total - 1) setTab("setup"); }

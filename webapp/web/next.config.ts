@@ -8,6 +8,7 @@ const devS3 = process.env.DEV_S3_URL;
 const config: NextConfig = {
   output: "standalone",
   poweredByHeader: false,
+  devIndicators: false,          // the dev badge would sit on the sidebar footer
   // gzip would buffer the live event stream (SSE); the CDN / reverse proxy compresses everything else in production
   compress: false,
   async rewrites() {

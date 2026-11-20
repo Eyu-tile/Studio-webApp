@@ -123,3 +123,17 @@ export interface Capabilities {
   configured: boolean; model: string; plugin_version: string; skills: Capability[]; agents: Capability[];
   commands: Capability[]; quick_actions: QuickAction[];
 }
+
+// --- workspace (the app shell, across projects) ---
+export interface WorkspaceThread {
+  id: string; title: string; status: ThreadStatus; cost_usd: number; updated_at: string;
+  project_id: string; project_name: string; project_kind: string; brand_id: string; pending_approvals: number;
+}
+export interface MediaItem {
+  id: string; kind: "render" | "footage" | "output"; name: string; mime: string; project_id: string; project_name: string;
+  brand_id: string; version: number | null; duration: number | null; width: number | null; height: number | null;
+  status: string; poster_url: string | null; url: string | null; created_at: string;
+}
+export interface Task extends Job { project_name: string; brand_id: string | null }
+export interface Spend { month: string; spent_usd: number; limit_usd: number | null }
+export interface ClipPage { total: number; clips: Clip[] }
