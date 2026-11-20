@@ -6,6 +6,7 @@ import { Suspense, useEffect, useRef, useState } from "react";
 import { ConnectionsTab } from "@/components/brand/connections";
 import { LessonsTab } from "@/components/brand/lessons";
 import { LibraryTab } from "@/components/brand/library";
+import { ProductsTab } from "@/components/brand/products";
 import { SetupTab } from "@/components/brand/setup";
 import { SpendingCard } from "@/components/brand/spending";
 import { ProjectCard } from "@/components/bits";
@@ -13,9 +14,9 @@ import { Avatar, Badge, Button, Card, Dialog, Empty, Field, Input, PageHeader, S
 import { api } from "@/lib/api";
 import { ago, KIND_LABEL } from "@/lib/format";
 import { useMe } from "@/lib/hooks";
-import type { Brand, BrandRole, Member, Project, Setup } from "@/lib/types";
+import type { Brand, BrandRole, Member, Product, Project, Setup } from "@/lib/types";
 
-type Tab = "setup" | "projects" | "library" | "connections" | "lessons" | "members" | "settings";
+type Tab = "setup" | "projects" | "products" | "library" | "connections" | "lessons" | "members" | "settings";
 const ROLE_LABEL: Record<BrandRole, string> = { lead: "Lead", editor: "Editor", viewer: "Viewer" };
 
 function BrandPage() {
@@ -32,6 +33,7 @@ function BrandPage() {
   const brand = useQuery({ queryKey: ["brand", brandId], queryFn: () => api.get<Brand>(`/brands/${brandId}`) });
   const projects = useQuery({ queryKey: ["brand", brandId, "projects"], queryFn: () => api.get<Project[]>(`/brands/${brandId}/projects`) });
   const members = useQuery({ queryKey: ["brand", brandId, "members"], queryFn: () => api.get<Member[]>(`/brands/${brandId}/members`) });
+  const products = useQuery({ queryKey: ["brand", brandId, "products"], queryFn: () => api.get<Product[]>(`/brands/${brandId}/products`) });
 
   if (brand.error) return <Empty icon={<FolderKanban className="size-5" />} title="Brand not found" body="It may have been removed, or you don't have access." />;
   if (!brand.data) return <Skeleton className="h-40" />;
@@ -48,6 +50,7 @@ function BrandPage() {
         <Tabs value={tab} onChange={(t) => { picked.current = true; setTab(t); }} items={[
           { value: "setup", label: setup.data && setup.data.done < setup.data.total ? `Setup ${setup.data.done}/${setup.data.total}` : "Setup" },
           { value: "projects", label: "Projects", count: projects.data?.length },
+          { value: "products", label: "Products", count: products.data?.length },
           { value: "library", label: "Library" },
           { value: "connections", label: "Connections" },
           { value: "lessons", label: "Lessons" },
@@ -56,6 +59,7 @@ function BrandPage() {
         ]} />
       </div>
       {tab === "setup" && <SetupTab brandId={b.id} onGo={(t) => { if (t === "projects") { setTab("projects"); setNewOpen(true); } else setTab(t as Tab); }} />}
+      {tab === "products" && <ProductsTab brandId={b.id} canEdit={canEdit} isLead={b.role === "lead"} />}
       {tab === "library" && <LibraryTab brandId={b.id} canEdit={canEdit} isLead={b.role === "lead"} />}
       {tab === "connections" && <ConnectionsTab brand={b} />}
       {tab === "lessons" && <LessonsTab brandId={b.id} brandName={b.name} canEdit={canEdit} />}
@@ -78,12 +82,14 @@ function NewProject({ brandId, open, onClose }: { brandId: string; open: boolean
   const [name, setName] = useState("");
   const [kind, setKind] = useState("reel");
   const [brief, setBrief] = useState("");
+  const [product, setProduct] = useState("");
+  const products = useQuery({ queryKey: ["brand", brandId, "products"], queryFn: () => api.get<Product[]>(`/brands/${brandId}/products`), enabled: open });
   const create = useMutation({
-    mutationFn: () => api.post<Project>(`/brands/${brandId}/projects`, { name, kind, brief }),
+    mutationFn: () => api.post<Project>(`/brands/${brandId}/projects`, { name, kind, brief, product_id: product || null }),
     onSuccess: (p) => { toast(`${p.name} created`, "success"); router.push(`/projects/${p.id}`); },
     onError: (e: Error) => toast(e.message, "danger"),
   });
-  useEffect(() => { if (open) { setName(""); setBrief(""); } }, [open]);
+  useEffect(() => { if (open) { setName(""); setBrief(""); setProduct(""); } }, [open]);
   return (
     <Dialog open={open} onClose={onClose} title="New project" description="One video: its footage, edits, versions and notes."
       footer={<><Button variant="ghost" onClick={onClose}>Cancel</Button><Button variant="primary" loading={create.isPending} disabled={!name.trim()} onClick={() => create.mutate()}>Create project</Button></>}>
@@ -93,6 +99,14 @@ function NewProject({ brandId, open, onClose }: { brandId: string; open: boolean
           {Object.entries(KIND_LABEL).map(([k, v]) => <option key={k} value={k}>{v}</option>)}
         </Select>
       </Field>
+      {!!products.data?.length && (
+        <Field label="Product" hint="Claude gets its card and packshots in every message of this project.">
+          <Select value={product} onChange={(e) => setProduct(e.target.value)}>
+            <option value="">None</option>
+            {products.data.map((p) => <option key={p.id} value={p.id}>{p.name}</option>)}
+          </Select>
+        </Field>
+      )}
       <Field label="Brief" hint="Optional: goal, audience, length, references."><Textarea value={brief} onChange={(e) => setBrief(e.target.value)} /></Field>
     </Dialog>
   );

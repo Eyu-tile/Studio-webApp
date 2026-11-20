@@ -88,6 +88,16 @@ def presign_get(key: str, filename: str | None = None, download: bool = False) -
     return signer().generate_presigned_url("get_object", Params=params, ExpiresIn=get_settings().s3_presign_ttl)
 
 
+def presign_put(key: str, mime: str) -> str:
+    """One PUT for a small file (packshots, logos): the browser sends it with this Content-Type."""
+    return signer().generate_presigned_url("put_object", Params={"Bucket": bucket(), "Key": key, "ContentType": mime},
+                                           ExpiresIn=get_settings().s3_presign_ttl)
+
+
+def delete(key: str) -> None:
+    client().delete_object(Bucket=bucket(), Key=key)
+
+
 def upload_file(path, key: str, mime: str) -> None:
     client().upload_file(str(path), bucket(), key, ExtraArgs={"ContentType": mime})
 

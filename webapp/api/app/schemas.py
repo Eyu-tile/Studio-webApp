@@ -113,6 +113,7 @@ class ProjectIn(BaseModel):
     kind: ProjectKind = "reel"
     brief: str = ""
     settings: dict = {}
+    product_id: uuid.UUID | None = None        # one of the brand's products
 
 
 class ProjectPatch(BaseModel):
@@ -121,6 +122,8 @@ class ProjectPatch(BaseModel):
     status: Literal["active", "in_review", "delivered", "archived"] | None = None
     brief: str | None = None
     settings: dict | None = None
+    product_id: uuid.UUID | None = None
+    clear_product: bool = False                 # product_id None means "unchanged"; this removes it
 
 
 class ProjectOut(Out):
@@ -132,6 +135,8 @@ class ProjectOut(Out):
     status: str
     brief: str
     settings: dict
+    product_id: uuid.UUID | None = None
+    product_name: str | None = None
     has_edl: bool = False
     created_at: datetime
     updated_at: datetime

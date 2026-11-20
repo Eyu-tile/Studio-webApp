@@ -52,6 +52,7 @@ as the editing engine. The plugin's `vs` tools stay the engine; Studio is the te
 | `notes` | project, version, author, body, start/end seconds, status (open, done, skipped), resolution |
 | `audit_events` | actor, action, target, brand, details, ip |
 | `connections` | brand, provider, status, account label, secret ref, last 4, verified, last check, spend cap |
+| `products`, `product_files` | brand, name, pitch, benefits, claims ok / never, price, links, notes; packshots and logos in the bucket. `projects.product_id` names what a project sells (its card and packshots go into every Claude turn) |
 | `spend_entries` | brand, provider (`anthropic` or a connection), kind (actual / estimate / hold), amount, job, thread, approval (§6.2) |
 | `agent_threads` | project, brand, title, SDK session id, status (idle, queued, running, waiting, failed), job, cost, turns |
 | `agent_messages` | thread, seq, role (user, assistant, tool, tool_result, approval, notice, output, result, engine, error), body |
@@ -117,7 +118,7 @@ browser ──POST message──► API ──job──► worker
   input, and the **client account that would be charged** (the "confirm the Higgsfield account first" rule).
   Only a brand lead approves; anyone can decline. Unanswered approvals are declined after
   `AGENT_APPROVAL_TIMEOUT_S`. A paid step for a tool the brand hasn't connected is refused with a clear message.
-- **Context**: the system prompt (appended to Claude Code's own) gives the brand, project, brief, footage list,
+- **Context**: the system prompt (appended to Claude Code's own) gives the brand and its description, the product the project sells (card and packshots written to `video-studio/library/<brand>/products/`, approved claims only), the client's other products, the project, brief, footage list,
   current edit, latest render, open review notes and the studio rules (outputs go to `out/`, never ask for or print
   keys, ask decisions in the reply). The brand's lessons are on disk where `vs qa --brand` reads them.
 - **Resumable anywhere**: the SDK mirrors its transcript to `agent_transcript` (our `SessionStore`), and the

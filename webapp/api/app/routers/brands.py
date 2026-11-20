@@ -128,7 +128,7 @@ def _keep_a_lead(db: Session, b: Brand, m: BrandMember, new_role: BrandRole | No
 @router.get("/{brand_id}/setup")
 def setup(brand_id: uuid.UUID, db: Session = Depends(get_db), user: User = Depends(current_user)):
     """The onboarding checklist for a client, worked out from what exists (never ticked by hand)."""
-    from ..models import Connection, ConnStatus, Lesson, LibraryClip, LibrarySource
+    from ..models import Connection, ConnStatus, Lesson, LibraryClip, LibrarySource, Product
     b = get_brand(db, user, brand_id)
     n = lambda q: db.scalar(select(func.count()).select_from(q.subquery())) or 0  # noqa: E731
     sources = n(select(LibrarySource.id).where(LibrarySource.brand_id == b.id))
@@ -138,10 +138,13 @@ def setup(brand_id: uuid.UUID, db: Session = Depends(get_db), user: User = Depen
     lessons = n(select(Lesson.id).where(Lesson.brand_id == b.id, Lesson.status == "active"))
     members = n(select(BrandMember.id).where(BrandMember.brand_id == b.id))
     projects = n(select(Project.id).where(Project.brand_id == b.id))
+    products = n(select(Product.id).where(Product.brand_id == b.id, Product.archived.is_(False)))
     steps = [
         {"key": "profile", "title": "Describe the client", "done": bool(b.description.strip()),
          "detail": "Who they are, tone, audience: editors and Claude read this first."},
         {"key": "team", "title": "Add the team", "done": members >= 2, "detail": f"{members} member(s)"},
+        {"key": "products", "title": "Add their products", "done": products > 0,
+         "detail": f"{products} product(s)" if products else "What each one is, approved and banned claims, packshots"},
         {"key": "library", "title": "Add their footage library", "done": sources > 0 and clips > 0,
          "detail": f"{sources} link(s), {clips} files learned" if sources else "Drive, Frame.io, Dropbox, OneDrive or any page"},
         {"key": "review", "title": "Mark usable and banned clips", "done": clips > 0 and reviewed > 0,

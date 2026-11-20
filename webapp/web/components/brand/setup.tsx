@@ -7,11 +7,11 @@ import { api } from "@/lib/api";
 import type { Setup } from "@/lib/types";
 
 const GO: Record<string, string> = {
-  profile: "settings", team: "members", library: "library", review: "library", connections: "connections",
+  profile: "settings", team: "members", products: "products", library: "library", review: "library", connections: "connections",
   lessons: "lessons", project: "projects",
 };
 const CTA: Record<string, string> = {
-  profile: "Add description", team: "Add people", library: "Add footage", review: "Review clips",
+  profile: "Add description", team: "Add people", products: "Add products", library: "Add footage", review: "Review clips",
   connections: "Connect tools", lessons: "Add rules", project: "New project",
 };
 

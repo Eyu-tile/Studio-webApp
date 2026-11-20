@@ -193,7 +193,9 @@ def prepare(ctx: JobContext) -> dict:
                            .order_by(Note.start_s.asc().nulls_last())).all()
         open_notes = [{"at": n.start_s, "to": n.end_s, "body": n.body} for n in notes]
         info = {"project": project.name, "slug": project.slug, "kind": project.kind, "brief": project.brief,
-                "settings": project.settings or {}, "brand": brand.name, "brand_slug": brand.slug}
+                "settings": project.settings or {}, "brand": brand.name, "brand_slug": brand.slug,
+                "brand_about": brand.description or ""}
+        product_id = project.product_id
     n = len(raw_info)
     for i, (aid, name, probe) in enumerate(raw_info):
         ctx.step(0.02 + 0.1 * i / max(n, 1), f"getting footage ready ({i + 1}/{n})")
@@ -229,10 +231,64 @@ def prepare(ctx: JobContext) -> dict:
             except Exception:  # noqa: BLE001 - older renders have no manifest
                 pass
     caught = write_lessons(ctx)
+    info |= write_products(ctx, info["brand_slug"], product_id)
     info |= {"footage": footage, "edl": str(edl_path.relative_to(ctx.ws.parent)) if edl_path.exists() else None,
              "latest": latest_info[2] if latest_info else None, "open_notes": open_notes, "refs": refs,
              "caught_before": caught}
     return info
+
+
+def product_card(p) -> str:
+    """The product as Claude reads it (product.md): what it is and what may and may not be said about it."""
+    out = [f"# {p.name}", ""]
+    if p.pitch:
+        out += [p.pitch, ""]
+    for title, items in (("Key benefits", p.benefits), ("Claims we may make (approved)", p.claims_ok),
+                         ("Never claim or imply", p.claims_no), ("Links", p.links)):
+        if items:
+            out += [f"## {title}", *[f"- {x}" for x in items], ""]
+    if p.price:
+        out += ["## Price", p.price, ""]
+    if p.notes:
+        out += ["## Notes", p.notes, ""]
+    return "\n".join(out).rstrip() + "\n"
+
+
+def write_products(ctx: JobContext, brand_slug: str, product_id) -> dict:
+    """Every active product of the brand as video-studio/library/<brand>/products/<slug>/product.md (+ .json), and
+    for the project's own product its packshots and logos beside the card. Rewritten every turn: always current."""
+    from app.models import Product, ProductFile
+    root = ctx.ws / "library" / brand_slug / "products"
+    import shutil
+    shutil.rmtree(root, ignore_errors=True)
+    with SessionLocal() as db:
+        products = db.scalars(select(Product).where(Product.brand_id == ctx.brand_id, Product.archived.is_(False))
+                              .order_by(Product.name)).all()
+        files = db.scalars(select(ProductFile).where(ProductFile.product_id == product_id,
+                                                     ProductFile.status == "ready")).all() if product_id else []
+        cards = [(p.id, p.slug, p.name, p.pitch, product_card(p), {
+            "name": p.name, "pitch": p.pitch, "benefits": p.benefits, "claims_ok": p.claims_ok,
+            "claims_no": p.claims_no, "price": p.price, "links": p.links, "notes": p.notes}) for p in products]
+        file_info = [(f.storage_key, f.filename, f.kind) for f in files]
+    mine = None
+    for pid, slug, name, pitch, md, data in cards:
+        d = root / slug
+        d.mkdir(parents=True, exist_ok=True)
+        (d / "product.md").write_text(md)
+        (d / "product.json").write_text(json.dumps(data, indent=1))
+        if pid == product_id:
+            mine = {"name": name, "dir": str(d.relative_to(ctx.ws.parent)), "files": []}
+            for key, fname, kind in file_info:
+                sub = d / ("logos" if kind == "logo" else "packshots" if kind == "packshot" else "files")
+                sub.mkdir(exist_ok=True)
+                try:
+                    storage.download_file(key, sub / fname)
+                    mine["files"].append(str((sub / fname).relative_to(ctx.ws.parent)))
+                except Exception as e:  # noqa: BLE001 - a missing file must not block the turn
+                    ctx.log(f"product file {fname} not available: {e}")
+    others = [(name, pitch, str((root / slug).relative_to(ctx.ws.parent))) for pid, slug, name, pitch, _, _ in cards
+              if pid != product_id]
+    return {"product": mine, "other_products": others}
 
 
 def out_state(ctx: JobContext) -> dict[str, tuple[float, int]]:
@@ -324,6 +380,23 @@ def connected(brand_id) -> dict[str, Connection]:
         return {c.provider: c for c in rows}
 
 
+def product_lines(info: dict) -> list[str]:
+    p, others = info.get("product"), info.get("other_products") or []
+    lines = []
+    if p:
+        lines += ["", f"## The product: {p['name']}",
+                  f"- This project sells {p['name']}. Its card is {p['dir']}/product.md: read it before writing a "
+                  "script, captions, on-screen text or a generation prompt. Use only its approved claims; never "
+                  "make or imply anything under \"Never claim\", even if the footage or the editor's words seem to.",
+                  f"- Packshots and logos: {', '.join(p['files']) if p['files'] else 'none uploaded yet (say so if the work needs one)'}. "
+                  "Use these real images for product shots, end cards and as references for generation; don't "
+                  "invent the packaging."]
+    if others:
+        lines += ["", "## The client's other products (cards in the same folder; only if the editor asks)"]
+        lines += [f"- {n}{': ' + pitch if pitch else ''} ({d}/product.md)" for n, pitch, d in others[:30]]
+    return lines
+
+
 def system_prompt(ctx: JobContext, info: dict, conns: dict[str, Connection], editor: str) -> str:
     s = get_settings()
     proj = f"video-studio/projects/{info['slug']}"
@@ -334,6 +407,8 @@ def system_prompt(ctx: JobContext, info: dict, conns: dict[str, Connection], edi
         f"You are the editing engine of {s.app_name}, the studio's internal web app. You run the video-studio "
         f"plugin exactly as in the terminal (skills, sub-agents, `vs` on PATH). {editor} is talking to you about "
         f"the {info['brand']} project \"{info['project']}\" ({info['kind']}).",
+        *(["", "## The client", info["brand_about"][:2000]] if info.get("brand_about") else []),
+        *product_lines(info),
         "",
         "## Workspace (current directory)",
         f"- {proj}/raw/ uploaded footage (read only). {proj}/work/ transcripts, the edit ({proj}/work/edl.json), "

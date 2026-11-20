@@ -1,7 +1,7 @@
 "use client";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import clsx from "clsx";
-import { ArrowUp, Captions, ChevronDown, Clapperboard, Clock3, Cpu, Images, Megaphone, MoreHorizontal, Music, PanelRightClose,
+import { ArrowUp, Captions, ChevronDown, Clapperboard, Clock3, Cpu, Images, Megaphone, Package, MoreHorizontal, Music, PanelRightClose,
   PanelRightOpen, Paperclip, Plus, RectangleVertical, Scissors, ShieldCheck, UserRound, X } from "lucide-react";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
@@ -15,7 +15,7 @@ import { api } from "@/lib/api";
 import { KIND_LABEL, modelName } from "@/lib/format";
 import { useMe } from "@/lib/hooks";
 import { uploadFile } from "@/lib/upload";
-import type { Capabilities, Project, QuickAction, ThreadDetail, WorkspaceThread } from "@/lib/types";
+import type { Capabilities, Product, Project, QuickAction, ThreadDetail, WorkspaceThread } from "@/lib/types";
 
 const PLATFORMS = [
   { value: "auto", label: "Any format", hint: "", kind: "other" },
@@ -159,6 +159,13 @@ function Composer({ text, setText, area, picks, setPicks, brandId, projectId, se
   const toast = useToast();
   const caps = useQuery({ queryKey: ["claude-capabilities"], queryFn: () => api.get<Capabilities>("/claude/capabilities"), staleTime: 300_000 });
   const projects = useQuery({ queryKey: ["brand", brandId, "projects"], queryFn: () => api.get<Project[]>(`/brands/${brandId}/projects`), enabled: !!brandId });
+  const products = useQuery({ queryKey: ["brand", brandId, "products"], queryFn: () => api.get<Product[]>(`/brands/${brandId}/products`), enabled: !!brandId });
+  const [productId, setProductId] = useState("none");
+  // an existing project brings its product; a new one takes what's picked
+  const chosen = projects.data?.find((p) => p.id === projectId);
+  useEffect(() => { if (chosen) setProductId(chosen.product_id ?? "none"); }, [chosen?.id, chosen?.product_id]);
+  useEffect(() => { if (productId !== "none" && products.data && !products.data.some((p) => p.id === productId)) setProductId("none"); },
+    [products.data, productId]);
   const [platform, setPlatform] = useState("auto");
   const [length, setLength] = useState("auto");
   const [files, setFiles] = useState<File[]>([]);
@@ -174,9 +181,12 @@ function Composer({ text, setText, area, picks, setPicks, brandId, projectId, se
     mutationFn: async () => {
       let pid = projectId;
       const plat = PLATFORMS.find((p) => p.value === platform)!;
+      const product = productId === "none" ? null : productId;
       if (pid === "new") {
-        const p = await api.post<Project>(`/brands/${brandId}/projects`, { name: titleFrom(text), kind: plat.kind, brief: text.slice(0, 2000) });
+        const p = await api.post<Project>(`/brands/${brandId}/projects`, { name: titleFrom(text), kind: plat.kind, brief: text.slice(0, 2000), product_id: product });
         pid = p.id;
+      } else if ((chosen?.product_id ?? null) !== product) {
+        await api.patch(`/projects/${pid}`, product ? { product_id: product } : { clear_product: true });
       }
       for (let i = 0; i < files.length; i++) {
         setProgress(i / files.length);
@@ -232,6 +242,9 @@ function Composer({ text, setText, area, picks, setPicks, brandId, projectId, se
           <input ref={fileInput} type="file" multiple accept="video/*,audio/*,image/*" className="hidden"
             onChange={(e) => { const fl = e.target.files; if (fl) setFiles((x) => [...x, ...Array.from(fl)]); e.target.value = ""; }} />
           {brandId && <Menu value={projectId} options={projectOptions} onChange={setProjectId} title="Where Claude works" icon={<Clapperboard className="size-4" />} />}
+          {brandId && !!products.data?.length && <Menu value={productId} title="The product this is for"
+            options={[{ value: "none", label: "No product" }, ...products.data.map((p) => ({ value: p.id, label: p.name }))]}
+            onChange={setProductId} icon={<Package className="size-4" />} />}
           <Menu value={platform} options={PLATFORMS} onChange={setPlatform} title="Format" icon={<RectangleVertical className="size-4" />} />
           <Menu value={length} options={LENGTHS} onChange={setLength} title="Length" icon={<Clock3 className="size-4" />} />
           <span className="ml-1 hidden items-center gap-1.5 px-1 text-[13px] text-text-3 sm:flex" title={caps.data ? `Every turn runs ${caps.data.model} with the video-studio plugin v${caps.data.plugin_version} (set on the server)` : undefined}>

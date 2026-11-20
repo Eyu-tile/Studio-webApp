@@ -32,7 +32,12 @@ The tools under the prompt are the plugin's most used skills; More lists the res
 - Admin: people (invite, roles, disable = signed out everywhere) and the audit log
 
 **Client onboarding** (each brand page):
-- **Setup**: a live checklist per client (profile, team, footage library, clip review, connections, rules, first project)
+- **Setup**: a live checklist per client (profile, team, products, footage library, clip review, connections, rules,
+  first project)
+- **Products**: a card per product (what it is, key benefits, claims we may make, claims never to make, price, links,
+  notes) with its packshots and logos, the library clips that show it and the projects that sell it. A project
+  names its product; every Claude message in it gets the card and the packshots in its workspace
+  (`video-studio/library/<brand>/products/<product>/`) and is told to use only the approved claims
 - **Library**: the client's Drive / Frame.io / Dropbox / OneDrive / web links, learned by `vs learn` without
   downloading everything: every clip gets a thumbnail and a frame strip; editors mark Usable / Caution / Banned
 - **Connections**: the client's own tool accounts (ElevenLabs, HeyGen, OpenAI, Gemini, Dropbox, stock libraries),

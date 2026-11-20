@@ -136,6 +136,8 @@ class Project(Timestamped, Base):
     brief: Mapped[str] = mapped_column(Text, default="")
     settings: Mapped[dict] = mapped_column(Json, default=dict)            # preset, caption style, max length...
     edl: Mapped[dict | None] = mapped_column(Json)                         # the current edit (vs EDL)
+    # what this project sells: its card and packshots go into every Claude turn (app/routers/products.py)
+    product_id: Mapped[uuid.UUID | None] = mapped_column(ForeignKey("products.id", ondelete="SET NULL"), index=True)
     created_by_id: Mapped[uuid.UUID | None] = mapped_column(ForeignKey("users.id", ondelete="SET NULL"))
     brand: Mapped[Brand] = relationship(back_populates="projects")
     created_by: Mapped[User | None] = relationship()
@@ -424,5 +426,39 @@ class SpendEntry(Base):
     thread_id: Mapped[uuid.UUID | None] = mapped_column(ForeignKey("agent_threads.id", ondelete="SET NULL"))
     approval_id: Mapped[uuid.UUID | None] = mapped_column(ForeignKey("agent_approvals.id", ondelete="SET NULL"))
     note: Mapped[str] = mapped_column(String(300), default="")
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow)
+
+
+class Product(Timestamped, Base):
+    """One of a client's products, as Claude and editors should know it: what it is, what it does, what may and may
+    not be claimed, and its packshots. Library clips name it in their Product field."""
+    __tablename__ = "products"
+    __table_args__ = (UniqueConstraint("brand_id", "slug"),)
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uid)
+    brand_id: Mapped[uuid.UUID] = mapped_column(ForeignKey("brands.id", ondelete="CASCADE"), index=True)
+    slug: Mapped[str] = mapped_column(String(80))
+    name: Mapped[str] = mapped_column(String(200))
+    pitch: Mapped[str] = mapped_column(String(500), default="")             # one line: what it is, for whom
+    benefits: Mapped[list] = mapped_column(Json, default=list)              # key benefits, in the client's words
+    claims_ok: Mapped[list] = mapped_column(Json, default=list)             # claims that may be made (approved)
+    claims_no: Mapped[list] = mapped_column(Json, default=list)             # claims that must never be made
+    price: Mapped[str] = mapped_column(String(120), default="")
+    links: Mapped[list] = mapped_column(Json, default=list)                 # product page, store, reviews
+    notes: Mapped[str] = mapped_column(Text, default="")                    # audience, offers, how it's shown
+    archived: Mapped[bool] = mapped_column(Boolean, default=False)
+    created_by_id: Mapped[uuid.UUID | None] = mapped_column(ForeignKey("users.id", ondelete="SET NULL"))
+
+
+class ProductFile(Base):
+    """A packshot, logo or other file of a product, in the bucket under the brand."""
+    __tablename__ = "product_files"
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uid)
+    product_id: Mapped[uuid.UUID] = mapped_column(ForeignKey("products.id", ondelete="CASCADE"), index=True)
+    kind: Mapped[str] = mapped_column(String(20), default="packshot")      # packshot | logo | other
+    filename: Mapped[str] = mapped_column(String(400))
+    mime: Mapped[str] = mapped_column(String(200))
+    size: Mapped[int] = mapped_column(BigInteger, default=0)
+    storage_key: Mapped[str] = mapped_column(String(800), unique=True)
+    status: Mapped[str] = mapped_column(String(12), default="uploading")    # uploading | ready
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow)
 

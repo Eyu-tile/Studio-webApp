@@ -2,7 +2,7 @@
 import { useQuery, useQueryClient } from "@tanstack/react-query";
 import clsx from "clsx";
 import { BookOpenCheck, Check, ChevronDown, ChevronUp, FolderKanban, GraduationCap, Layers, Library, LoaderCircle,
-  LogOut, Menu, PanelLeftClose, PanelLeftOpen, Plug, Plus, Shield, SquarePen, X } from "lucide-react";
+  LogOut, Menu, Package, PanelLeftClose, PanelLeftOpen, Plug, Plus, Shield, SquarePen, X } from "lucide-react";
 import Link from "next/link";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { Suspense, useEffect, useRef, useState } from "react";
@@ -103,6 +103,7 @@ function Sidebar({ me, onClose }: { me: Me; onClose?: () => void }) {
       <nav className="shrink-0 space-y-0.5 border-t border-border px-3 py-2.5">
         {brand ? (<>
           {nav(`/brands/${brand.id}?tab=projects`, !!onBrand && (tab === "projects" || !tab), <FolderKanban className="size-4" />, "Projects")}
+          {nav(`/brands/${brand.id}?tab=products`, !!onBrand && tab === "products", <Package className="size-4" />, "Products")}
           {nav(`/brands/${brand.id}?tab=library`, !!onBrand && tab === "library", <Library className="size-4" />, "Library")}
           {nav(`/brands/${brand.id}?tab=lessons`, !!onBrand && tab === "lessons", <GraduationCap className="size-4" />, "Lessons")}
           {nav(`/brands/${brand.id}?tab=connections`, !!onBrand && tab === "connections", <Plug className="size-4" />, "Connections")}

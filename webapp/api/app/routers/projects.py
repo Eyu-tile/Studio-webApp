@@ -13,8 +13,20 @@ from ..schemas import ProjectIn, ProjectOut, ProjectPatch, slugify
 router = APIRouter(tags=["projects"])
 
 
+def _check_product(db: Session, brand_id: uuid.UUID, product_id: uuid.UUID | None) -> None:
+    from ..models import Product
+    if product_id is None:
+        return
+    pr = db.get(Product, product_id)
+    if not pr or pr.brand_id != brand_id or pr.archived:
+        raise HTTPException(422, "that product isn't one of this brand's")
+
+
 def project_out(db: Session, p: Project) -> ProjectOut:
+    from ..models import Product
     out = ProjectOut.model_validate(p)
+    if p.product_id:
+        out.product_name = db.scalar(select(Product.name).where(Product.id == p.product_id))
     out.has_edl = bool(p.edl)
     out.asset_count = db.scalar(select(func.count()).select_from(Asset)
                                 .where(Asset.project_id == p.id, Asset.kind == AssetKind.raw)) or 0
@@ -40,12 +52,13 @@ def list_projects(brand_id: uuid.UUID, status: str | None = None, db: Session = 
 def create_project(brand_id: uuid.UUID, body: ProjectIn, request: Request, db: Session = Depends(get_db),
                    user: User = Depends(current_user)):
     b = get_brand(db, user, brand_id, BrandRole.editor)
+    _check_product(db, b.id, body.product_id)
     base = slugify(body.name)
     slug, n = base, 2
     while db.scalar(select(Project).where(Project.brand_id == b.id, Project.slug == slug)):
         slug, n = f"{base}-{n}", n + 1
     p = Project(brand_id=b.id, slug=slug, name=body.name.strip(), kind=body.kind, brief=body.brief,
-                settings=body.settings, created_by_id=user.id)
+                settings=body.settings, product_id=body.product_id, created_by_id=user.id)
     db.add(p)
     db.flush()
     audit.record(db, user, "project.create", p.name, b.id, request)
@@ -72,6 +85,10 @@ def update_project(project_id: uuid.UUID, body: ProjectPatch, request: Request, 
                    user: User = Depends(current_user)):
     p = get_project(db, user, project_id, BrandRole.editor)
     changes = body.model_dump(exclude_none=True)
+    if changes.pop("clear_product", False):
+        changes["product_id"] = None
+        p.product_id = None
+    _check_product(db, p.brand_id, changes.get("product_id"))
     if not changes:
         raise HTTPException(400, "nothing to change")
     for k, v in changes.items():

@@ -16,7 +16,7 @@ export interface Member { id: string; role: BrandRole; created_at: string; user:
 
 export interface Project {
   id: string; brand_id: string; slug: string; name: string; kind: string; status: string; brief: string;
-  settings: Record<string, unknown>; has_edl: boolean; created_at: string; updated_at: string;
+  settings: Record<string, unknown>; product_id: string | null; product_name: string | null; has_edl: boolean; created_at: string; updated_at: string;
   asset_count: number; version_count: number; open_notes: number; poster_url: string | null;
 }
 
@@ -137,3 +137,12 @@ export interface MediaItem {
 export interface Task extends Job { project_name: string; brand_id: string | null }
 export interface Spend { month: string; spent_usd: number; limit_usd: number | null }
 export interface ClipPage { total: number; clips: Clip[] }
+
+// --- products (a client's product cards) ---
+export interface ProductFile { id: string; kind: "packshot" | "logo" | "other"; filename: string; mime: string; size: number; status: string; created_at: string; url: string | null }
+export interface Product {
+  id: string; brand_id: string; slug: string; name: string; pitch: string; benefits: string[]; claims_ok: string[]; claims_no: string[];
+  price: string; links: string[]; notes: string; archived: boolean; created_at: string; updated_at: string;
+  image_url: string | null; file_count: number; clip_count: number; project_count: number;
+}
+export interface ProductDetail extends Product { files: ProductFile[]; clips: Clip[]; projects: { id: string; name: string; kind: string }[] }

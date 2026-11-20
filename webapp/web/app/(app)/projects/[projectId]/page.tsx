@@ -2,7 +2,7 @@
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import clsx from "clsx";
 import { AlertTriangle, Check, ChevronRight, Clapperboard, Download, FileAudio, FileVideo, Film, GraduationCap, ImageIcon, Languages,
-  MessageSquarePlus, RotateCcw, Scissors, Trash2, UploadCloud, X } from "lucide-react";
+  MessageSquarePlus, Package, RotateCcw, Scissors, Trash2, UploadCloud, X } from "lucide-react";
 import Link from "next/link";
 import { useParams, useSearchParams } from "next/navigation";
 import { Suspense, useCallback, useEffect, useMemo, useRef, useState } from "react";
@@ -56,7 +56,10 @@ function ProjectPage() {
           <Link href={`/brands/${brand.id}`} className="flex items-center gap-1.5 hover:text-text"><span className="size-2 rounded-[3px]" style={{ background: brand.color }} />{brand.name}</Link>
           <ChevronRight className="size-3.5" /><span>{KIND_LABEL[p.kind] ?? p.kind}</span></>}
         title={p.name}
-        subtitle={<span className="flex items-center gap-2"><Badge tone="accent">{STATUS_LABEL[p.status] ?? p.status}</Badge>{p.brief || "No brief yet"}</span>}
+        subtitle={<span className="flex min-w-0 items-center gap-2"><Badge tone="accent">{STATUS_LABEL[p.status] ?? p.status}</Badge>
+          {p.product_name && <Link href={`/brands/${p.brand_id}?tab=products`} title="The product this project sells: Claude reads its card"
+            className="flex shrink-0 items-center gap-1 rounded-md border border-border px-1.5 py-0.5 text-xs font-medium text-text-2 hover:text-text"><Package className="size-3" />{p.product_name}</Link>}
+          <span className="truncate">{p.brief || "No brief yet"}</span></span>}
         actions={canEdit && <Button variant="primary" icon={<Scissors className="size-4" />} onClick={() => setCutOpen(true)}
           disabled={!assets.data?.some((a) => a.status === "ready")}>Make a cut</Button>} />
       <Tabs value={tab} onChange={setTab} items={[
