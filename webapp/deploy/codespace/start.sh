@@ -6,11 +6,14 @@ cd "$(dirname "$0")/../.."                                     # webapp/
 FREE=deploy/free
 ENV_FILE=$FREE/.env
 COMPOSE=(docker compose -f $FREE/docker-compose.yml -f deploy/codespace/docker-compose.codespace.yml --env-file $ENV_FILE)
-LOG=/tmp/studio-start.log
+LOG=/tmp/studio-build.log                                     # docker compose output
+STATUS=/tmp/studio-status.txt                                 # what status.sh shows
 
 : "${CODESPACE_NAME:?run this inside a GitHub Codespace (see README.md)}"
 DOMAIN="${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN:-app.github.dev}"
 
+echo "building since $(date '+%H:%M') (first time: 20-40 min)" > "$STATUS"
+trap '{ echo "failed at line $LINENO"; tail -n 30 "$LOG" 2>/dev/null; } > "$STATUS"' ERR
 for _ in $(seq 1 60); do docker info >/dev/null 2>&1 && break; sleep 2; done   # Docker starts with the codespace
 
 if [ ! -f "$ENV_FILE" ]; then
@@ -42,7 +45,7 @@ set -a; . "$ENV_FILE"; set +a
 
 echo "Building and starting Studio (first time: 20-40 min). Log: $LOG"
 if ! "${COMPOSE[@]}" up -d --build --remove-orphans >"$LOG" 2>&1; then
-  tail -n 30 "$LOG"; echo "Studio didn't start: see $LOG"; exit 1
+  { echo "failed"; tail -n 30 "$LOG"; } > "$STATUS"; tail -n 30 "$LOG"; echo "Studio didn't start: see $LOG"; exit 1
 fi
 for _ in $(seq 1 60); do curl -fsS http://localhost:8080/api/healthz >/dev/null 2>&1 && break; sleep 3; done
 
@@ -52,6 +55,7 @@ if command -v gh >/dev/null && gh codespace ports visibility 8080:public 8333:pu
   PUBLIC=yes
 fi
 
+{
 cat <<MSG
 
   Studio is running.
@@ -66,3 +70,4 @@ cat <<MSG
 
   Logs: docker compose -f $FREE/docker-compose.yml -f deploy/codespace/docker-compose.codespace.yml --env-file $ENV_FILE logs -f
 MSG
+} | tee "$STATUS"

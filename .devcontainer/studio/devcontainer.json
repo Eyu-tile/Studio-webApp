@@ -14,6 +14,9 @@
     "8080": { "label": "Studio (set to Public to share)", "onAutoForward": "notify" },
     "8333": { "label": "Studio media (set to Public)", "onAutoForward": "silent" }
   },
-  "postStartCommand": "bash webapp/deploy/codespace/start.sh",
+  // the build takes 20-40 minutes the first time: it runs in the background so the codespace opens at once
+  "postStartCommand": "setsid nohup bash webapp/deploy/codespace/start.sh > /tmp/studio-start.log 2>&1 < /dev/null &",
+  // each time the editor connects: where Studio stands (building / running with its address / failed)
+  "postAttachCommand": "bash webapp/deploy/codespace/status.sh",
   "customizations": { "codespaces": { "openFiles": ["webapp/deploy/codespace/README.md"] } }
 }

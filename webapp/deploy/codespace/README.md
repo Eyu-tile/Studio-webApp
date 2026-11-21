@@ -16,8 +16,9 @@ Good for testing sessions with the team; for always-on, use a VM (`../free/READM
    **https://codespaces.new/Eyu-tile/Studio-webApp/tree/internal-webapp?devcontainer_path=.devcontainer/studio/devcontainer.json&machine=basicLinux32gb**
 2. (The same by hand: on the repository, branch `internal-webapp`, **Code → Codespaces → ⋯ → New with options**,
    configuration **Studio**, machine **2-core**.)
-3. Wait: the codespace opens, then builds and starts Studio by itself (watch the terminal; the log is
-   `/tmp/studio-start.log`). It ends by printing the address and the team password.
+3. The codespace opens in a couple of minutes, and Studio builds **in the background** (20–40 minutes the first
+   time). A terminal shows where it stands and follows the build; when it's done it shows the address and the
+   team password. Run `bash webapp/deploy/codespace/status.sh` any time to see it again.
 4. If the end message asks for it: **Ports** tab (bottom panel), right-click **8080** → Port Visibility → **Public**,
    and the same for **8333** (media uploads and playback). Once per codespace; the start script tries it first.
 5. Open the printed address (`https://<codespace>-8080.app.github.dev`), enter user `studio` and the password, then
