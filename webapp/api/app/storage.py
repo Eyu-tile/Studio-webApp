@@ -1,5 +1,5 @@
 """S3-compatible object storage. The browser uploads and plays media with presigned URLs; the API never carries
-media bytes. Works with AWS S3, Cloudflare R2 and MinIO (set S3_ENDPOINT_URL)."""
+media bytes. Works with AWS S3, Cloudflare R2, SeaweedFS and MinIO (set S3_ENDPOINT_URL)."""
 import logging
 import math
 from functools import lru_cache

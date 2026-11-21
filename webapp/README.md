@@ -74,6 +74,9 @@ Next: client review links, an approvals inbox for leads.
 
 ## Run it
 
+**Free test server** (one Oracle Cloud Always Free VM, HTTPS, a team password): see
+[deploy/free/README.md](deploy/free/README.md); one command on the VM.
+
 **Everything in containers** (Docker):
 ```bash
 cp webapp/.env.example webapp/.env

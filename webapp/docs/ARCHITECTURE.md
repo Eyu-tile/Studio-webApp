@@ -11,7 +11,7 @@ as the editing engine. The plugin's `vs` tools stay the engine; Studio is the te
    │  upload / play                │   │                    ▲
    │  presigned URLs               │   └──pub/sub──► Redis ─┘ (live job + agent events → SSE)
    ▼                               │
- Object storage (S3 / R2 / MinIO) ◄┴──── Workers (ffmpeg + vs tools + whisper)  ◄── job queue (Postgres)
+ Object storage (S3 / R2 / SeaweedFS) ◄┴──── Workers (ffmpeg + vs tools + whisper)  ◄── job queue (Postgres)
                                                  │
                                                  └── Claude Code (Agent SDK) + the video-studio plugin, per message
 ```
@@ -23,7 +23,7 @@ as the editing engine. The plugin's `vs` tools stay the engine; Studio is the te
 | Database | PostgreSQL 16 | Relational data, transactions, row locks for the job queue |
 | Job queue | Postgres table + `SELECT … FOR UPDATE SKIP LOCKED` | Exactly-once claiming, transactional with job rows, no extra broker to run |
 | Live events | Redis pub/sub → Server-Sent Events | Job progress and Claude's messages (live text, steps, approvals) pushed to the browser |
-| Media storage | Any S3-compatible store (AWS S3, Cloudflare R2, MinIO) via boto3 | Browser uploads and plays directly with presigned URLs; the API never proxies media |
+| Media storage | Any S3-compatible store (AWS S3, Cloudflare R2, SeaweedFS) via boto3 | Browser uploads and plays directly with presigned URLs; the API never proxies media |
 | Workers | Python process in a container with ffmpeg, the `vs` tools, faster-whisper | Scales horizontally; one job at a time per worker slot |
 | Secrets | Pluggable backend: AWS Secrets Manager, or encrypted rows (dev) | Per-brand API keys never reach the browser, logs or chat |
 | Claude | Claude Agent SDK (Claude Code as a library, CLI bundled) loading `plugins/video-studio` | The same engine as the terminal: every skill, sub-agent, command and `vs` tool, unchanged, next to the footage |
@@ -194,7 +194,7 @@ Paid actions always show the account and cost and need approval, within the acco
 
 ## 9. Deployment
 
-- `webapp/deploy/docker-compose.yml`: postgres, redis, minio, api, worker, web. Production: the same images on a
+- `webapp/deploy/docker-compose.yml`: postgres, redis, s3 (SeaweedFS: MinIO's images left Docker Hub in 2026), api, worker-media, worker-agent, web. `webapp/deploy/free/`: the same on one free VM with HTTPS and a team password (its README). Production: the same images on a
   container platform (ECS, Cloud Run, Kubernetes), managed Postgres and Redis, S3 or R2, a CDN in front of the web.
 - Configuration is environment variables only (`webapp/.env.example`); migrations run with `alembic upgrade head`
   on deploy.

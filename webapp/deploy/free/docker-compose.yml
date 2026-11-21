@@ -1,0 +1,101 @@
+# Studio on one free VM (Oracle Cloud Always Free or any Linux box with Docker): the whole stack, behind Caddy with
+# automatic HTTPS and a shared password, for testing. Set up with ./setup.sh; see README.md here.
+#   docker compose -f webapp/deploy/free/docker-compose.yml --env-file webapp/deploy/free/.env up -d --build
+name: studio
+
+x-backend: &backend
+  env_file: .env
+  environment: &backend-env
+    ENV: staging                                   # dev sign-in behind the password gate; see README.md
+    PUBLIC_URL: https://${APP_HOST}
+    DATABASE_URL: postgresql+psycopg://studio:${PG_PASSWORD}@postgres:5432/studio
+    REDIS_URL: redis://redis:6379/0
+    S3_ENDPOINT_URL: http://s3:8333
+    S3_PUBLIC_ENDPOINT_URL: https://${S3_HOST}
+    S3_ACCESS_KEY_ID: ${S3_USER}
+    S3_SECRET_ACCESS_KEY: ${S3_PASSWORD}
+    S3_BUCKET: studio-media
+    S3_CREATE_BUCKET: "true"
+  depends_on:
+    postgres: { condition: service_healthy }
+    redis: { condition: service_healthy }
+    s3: { condition: service_healthy }
+  restart: unless-stopped
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment: { POSTGRES_USER: studio, POSTGRES_PASSWORD: "${PG_PASSWORD}", POSTGRES_DB: studio }
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck: { test: ["CMD-SHELL", "pg_isready -U studio"], interval: 5s, retries: 20 }
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    healthcheck: { test: ["CMD", "redis-cli", "ping"], interval: 5s, retries: 20 }
+    restart: unless-stopped
+
+  s3:                         # the media bucket (SeaweedFS), on the VM's disk; browsers reach it at https://${S3_HOST}
+    image: chrislusf/seaweedfs:4.54
+    command: ["mini", "-dir=/data", "-s3.externalUrl=https://${S3_HOST}", "-admin.ui=false"]
+    environment: { AWS_ACCESS_KEY_ID: "${S3_USER}", AWS_SECRET_ACCESS_KEY: "${S3_PASSWORD}" }
+    volumes: [media:/data]
+    healthcheck: { test: ["CMD", "wget", "-q", "-O", "/dev/null", "http://127.0.0.1:8333/healthz"], interval: 5s, retries: 30 }
+    restart: unless-stopped
+
+  migrate:
+    <<: *backend
+    build: { context: ../../.., dockerfile: webapp/deploy/backend.Dockerfile, target: api }
+    command: ["alembic", "upgrade", "head"]
+    restart: "no"
+
+  api:
+    <<: *backend
+    build: { context: ../../.., dockerfile: webapp/deploy/backend.Dockerfile, target: api }
+    command: ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--proxy-headers", "--forwarded-allow-ips", "*"]
+    depends_on:
+      migrate: { condition: service_completed_successfully }
+
+  worker-media:
+    <<: *backend
+    build: { context: ../../.., dockerfile: webapp/deploy/backend.Dockerfile, target: worker }
+    command: ["python", "-m", "worker.main", "--queues", "media"]
+    user: studio
+    environment:
+      <<: *backend-env
+      WORKER_MEDIA_USER: ""
+    depends_on:
+      migrate: { condition: service_completed_successfully }
+
+  worker-agent:
+    <<: *backend
+    build: { context: ../../.., dockerfile: webapp/deploy/backend.Dockerfile, target: worker }
+    command: ["python", "-m", "worker.main", "--queues", "agent"]
+    environment:
+      <<: *backend-env
+      AGENT_USER: studio-agent
+      WORKER_MEDIA_USER: studio
+      AGENT_SANDBOX: "true"
+    # Claude Code's sandbox (bubblewrap) needs user namespaces, which Docker's default seccomp profile blocks
+    security_opt: ["seccomp=unconfined"]
+    depends_on:
+      migrate: { condition: service_completed_successfully }
+
+  web:
+    build: { context: ../../.., dockerfile: webapp/deploy/web.Dockerfile, args: { API_URL: "http://api:8000" } }
+    depends_on: [api]
+    restart: unless-stopped
+
+  caddy:                      # HTTPS (Let's Encrypt) for both hosts, and the password gate in front of the app
+    image: caddy:2.10-alpine
+    ports: ["80:80", "443:443"]
+    environment:
+      APP_HOST: ${APP_HOST}
+      S3_HOST: ${S3_HOST}
+      GATE_USER: ${GATE_USER}
+      GATE_HASH: ${GATE_HASH}
+    volumes: [./Caddyfile:/etc/caddy/Caddyfile:ro, caddy_data:/data, caddy_config:/config]
+    depends_on: [web, s3]
+    restart: unless-stopped
+
+volumes: { pgdata: {}, media: {}, caddy_data: {}, caddy_config: {} }

@@ -1,0 +1,31 @@
+# Studio's two public hosts. Certificates are automatic (Let's Encrypt) once ports 80 and 443 reach this VM.
+{$APP_HOST} {
+	encode zstd gzip
+	# Clients open connect links without the team password (the link itself is the secret); the sign-in return from
+	# Higgsfield and the health check need no password either.
+	@open path /connect/* /api/public/* /api/oauth/callback /api/healthz /_next/* /favicon.ico
+	handle @open {
+		reverse_proxy web:3000 {
+			flush_interval -1
+		}
+	}
+	handle {
+		basic_auth {
+			{$GATE_USER} {$GATE_HASH}
+		}
+		reverse_proxy web:3000 {
+			flush_interval -1
+		}
+	}
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options nosniff
+		Referrer-Policy strict-origin-when-cross-origin
+		-Server
+	}
+}
+
+# The media bucket: browsers upload and play with presigned URLs (no password: each URL is signed and expires)
+{$S3_HOST} {
+	reverse_proxy s3:8333
+}
