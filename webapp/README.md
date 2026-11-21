@@ -34,10 +34,18 @@ The tools under the prompt are the plugin's most used skills; More lists the res
 **Client onboarding** (each brand page):
 - **Setup**: a live checklist per client (profile, team, products, footage library, clip review, connections, rules,
   first project)
-- **Products**: a card per product (what it is, key benefits, claims we may make, claims never to make, price, links,
-  notes) with its packshots and logos, the library clips that show it and the projects that sell it. A project
-  names its product; every Claude message in it gets the card and the packshots in its workspace
-  (`video-studio/library/<brand>/products/<product>/`) and is told to use only the approved claims
+- **Products**: each product has its own page with three tabs. **Ads**: every ad made for it (an ad is a project
+  that sells the product). **Resources**: what Claude learns the product from, each with a note on what it is:
+  packshots, logos, documents (briefs, research, guidelines, claim sheets, reviews, past scripts), reference ads,
+  and the library clips that show it. **Details**: the card (what it is, benefits, claims we may make, claims never
+  to make, price, links, notes). Every Claude message on one of its ads gets the card and all the resources in its
+  workspace (`video-studio/library/<brand>/products/<product>/`) and is told to use only the approved claims
+- **Each ad keeps its history**: a History tab with every version, request to Claude and what it made, approval,
+  review note and render; every new Claude message on the ad starts from a summary of it (versions, earlier
+  conversations, notes already fixed, the product's other ads), so updating an ad months later needs no re-briefing
+
+**A new client, start to finish**: create the brand → add each product and its resources on the product's page →
+New ad → produce it in Studio (Claude, Make a cut, review) → come back to the same ad to update it.
 - **Library**: the client's Drive / Frame.io / Dropbox / OneDrive / web links, learned by `vs learn` without
   downloading everything: every clip gets a thumbnail and a frame strip; editors mark Usable / Caution / Banned
 - **Connections**: the client's own tool accounts (ElevenLabs, HeyGen, OpenAI, Gemini, Dropbox, stock libraries),

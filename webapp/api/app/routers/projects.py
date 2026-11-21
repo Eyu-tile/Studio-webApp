@@ -61,7 +61,7 @@ def create_project(brand_id: uuid.UUID, body: ProjectIn, request: Request, db: S
                 settings=body.settings, product_id=body.product_id, created_by_id=user.id)
     db.add(p)
     db.flush()
-    audit.record(db, user, "project.create", p.name, b.id, request)
+    audit.record(db, user, "project.create", p.name, b.id, request, project=str(p.id))
     db.commit()
     return project_out(db, p)
 
@@ -80,6 +80,14 @@ def read_project(project_id: uuid.UUID, db: Session = Depends(get_db), user: Use
     return project_out(db, get_project(db, user, project_id))
 
 
+@router.get("/projects/{project_id}/history")
+def project_history(project_id: uuid.UUID, db: Session = Depends(get_db), user: User = Depends(current_user)):
+    """Everything that happened to this ad, newest first (app/history.py)."""
+    from .. import history
+    p = get_project(db, user, project_id)
+    return [e | {"at": e["at"].isoformat()} for e in history.events(db, p)]
+
+
 @router.patch("/projects/{project_id}", response_model=ProjectOut)
 def update_project(project_id: uuid.UUID, body: ProjectPatch, request: Request, db: Session = Depends(get_db),
                    user: User = Depends(current_user)):
@@ -93,7 +101,7 @@ def update_project(project_id: uuid.UUID, body: ProjectPatch, request: Request, 
         raise HTTPException(400, "nothing to change")
     for k, v in changes.items():
         setattr(p, k, v)
-    audit.record(db, user, "project.update", p.name, p.brand_id, request, fields=sorted(changes))
+    audit.record(db, user, "project.update", p.name, p.brand_id, request, fields=sorted(changes), project=str(p.id))
     db.commit()
     return project_out(db, p)
 

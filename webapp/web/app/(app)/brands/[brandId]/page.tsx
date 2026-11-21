@@ -59,7 +59,7 @@ function BrandPage() {
         ]} />
       </div>
       {tab === "setup" && <SetupTab brandId={b.id} onGo={(t) => { if (t === "projects") { setTab("projects"); setNewOpen(true); } else setTab(t as Tab); }} />}
-      {tab === "products" && <ProductsTab brandId={b.id} canEdit={canEdit} isLead={b.role === "lead"} />}
+      {tab === "products" && <ProductsTab brandId={b.id} canEdit={canEdit} />}
       {tab === "library" && <LibraryTab brandId={b.id} canEdit={canEdit} isLead={b.role === "lead"} />}
       {tab === "connections" && <ConnectionsTab brand={b} />}
       {tab === "lessons" && <LessonsTab brandId={b.id} brandName={b.name} canEdit={canEdit} />}

@@ -450,11 +450,13 @@ class Product(Timestamped, Base):
 
 
 class ProductFile(Base):
-    """A packshot, logo or other file of a product, in the bucket under the brand."""
+    """A resource Claude learns the product from: packshots, logos, documents (briefs, research, guidelines, reviews,
+    scripts), reference ads. In the bucket under the brand; every turn of an ad for the product gets all of them."""
     __tablename__ = "product_files"
     id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uid)
     product_id: Mapped[uuid.UUID] = mapped_column(ForeignKey("products.id", ondelete="CASCADE"), index=True)
-    kind: Mapped[str] = mapped_column(String(20), default="packshot")      # packshot | logo | other
+    kind: Mapped[str] = mapped_column(String(20), default="packshot")      # packshot | logo | document | reference | other
+    note: Mapped[str] = mapped_column(String(500), default="")            # what it is, how Claude should use it
     filename: Mapped[str] = mapped_column(String(400))
     mime: Mapped[str] = mapped_column(String(200))
     size: Mapped[int] = mapped_column(BigInteger, default=0)

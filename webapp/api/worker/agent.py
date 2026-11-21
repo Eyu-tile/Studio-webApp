@@ -196,6 +196,8 @@ def prepare(ctx: JobContext) -> dict:
                 "settings": project.settings or {}, "brand": brand.name, "brand_slug": brand.slug,
                 "brand_about": brand.description or ""}
         product_id = project.product_id
+        from app import history
+        info["memory"] = history.memory(db, project.id)
     n = len(raw_info)
     for i, (aid, name, probe) in enumerate(raw_info):
         ctx.step(0.02 + 0.1 * i / max(n, 1), f"getting footage ready ({i + 1}/{n})")
@@ -225,11 +227,16 @@ def prepare(ctx: JobContext) -> dict:
         out = ctx.pdir / "out" / fname
         if not out.exists():
             ctx.step(0.13, f"getting the latest render (v{num})")
-            storage.download_file(key, out)
             try:
-                storage.download_file(key + ".render.json", Path(str(out) + ".render.json"))
-            except Exception:  # noqa: BLE001 - older renders have no manifest
-                pass
+                storage.download_file(key, out)
+            except Exception as e:  # noqa: BLE001 - a lost render must not block the conversation
+                ctx.log(f"latest render v{num} not available: {e}")
+                latest_info = None
+            if latest_info:
+                try:
+                    storage.download_file(key + ".render.json", Path(str(out) + ".render.json"))
+                except Exception:  # noqa: BLE001, S110 - older renders have no manifest
+                    pass
     caught = write_lessons(ctx)
     info |= write_products(ctx, info["brand_slug"], product_id)
     info |= {"footage": footage, "edl": str(edl_path.relative_to(ctx.ws.parent)) if edl_path.exists() else None,
@@ -254,6 +261,10 @@ def product_card(p) -> str:
     return "\n".join(out).rstrip() + "\n"
 
 
+RESOURCE_DIRS = {"packshot": "packshots", "logo": "logos", "document": "documents", "reference": "references"}
+RESOURCE_BUDGET = 1536 * 1024 * 1024            # per turn: beyond this, resources are listed as skipped, not fetched
+
+
 def write_products(ctx: JobContext, brand_slug: str, product_id) -> dict:
     """Every active product of the brand as video-studio/library/<brand>/products/<slug>/product.md (+ .json), and
     for the project's own product its packshots and logos beside the card. Rewritten every turn: always current."""
@@ -269,7 +280,7 @@ def write_products(ctx: JobContext, brand_slug: str, product_id) -> dict:
         cards = [(p.id, p.slug, p.name, p.pitch, product_card(p), {
             "name": p.name, "pitch": p.pitch, "benefits": p.benefits, "claims_ok": p.claims_ok,
             "claims_no": p.claims_no, "price": p.price, "links": p.links, "notes": p.notes}) for p in products]
-        file_info = [(f.storage_key, f.filename, f.kind) for f in files]
+        file_info = [(f.storage_key, f.filename, f.kind, f.note or "", f.size or 0) for f in files]
     mine = None
     for pid, slug, name, pitch, md, data in cards:
         d = root / slug
@@ -277,15 +288,23 @@ def write_products(ctx: JobContext, brand_slug: str, product_id) -> dict:
         (d / "product.md").write_text(md)
         (d / "product.json").write_text(json.dumps(data, indent=1))
         if pid == product_id:
-            mine = {"name": name, "dir": str(d.relative_to(ctx.ws.parent)), "files": []}
-            for key, fname, kind in file_info:
-                sub = d / ("logos" if kind == "logo" else "packshots" if kind == "packshot" else "files")
+            mine = {"name": name, "dir": str(d.relative_to(ctx.ws.parent)), "files": [], "resources": [], "skipped": []}
+            budget = RESOURCE_BUDGET
+            for key, fname, kind, note, size in file_info:
+                sub = d / RESOURCE_DIRS.get(kind, "files")
                 sub.mkdir(exist_ok=True)
+                if size > budget:
+                    mine["skipped"].append(fname)
+                    continue
                 try:
                     storage.download_file(key, sub / fname)
-                    mine["files"].append(str((sub / fname).relative_to(ctx.ws.parent)))
                 except Exception as e:  # noqa: BLE001 - a missing file must not block the turn
                     ctx.log(f"product file {fname} not available: {e}")
+                    continue
+                budget -= size
+                rel = str((sub / fname).relative_to(ctx.ws.parent))
+                (mine["files"] if kind in ("packshot", "logo") else mine["resources"]).append(
+                    {"path": rel, "kind": kind, "note": note})
     others = [(name, pitch, str((root / slug).relative_to(ctx.ws.parent))) for pid, slug, name, pitch, _, _ in cards
               if pid != product_id]
     return {"product": mine, "other_products": others}
@@ -380,6 +399,10 @@ def connected(brand_id) -> dict[str, Connection]:
         return {c.provider: c for c in rows}
 
 
+def _res(f: dict) -> str:
+    return f"{f['path']} ({f['kind']}{': ' + f['note'] if f.get('note') else ''})"
+
+
 def product_lines(info: dict) -> list[str]:
     p, others = info.get("product"), info.get("other_products") or []
     lines = []
@@ -388,9 +411,15 @@ def product_lines(info: dict) -> list[str]:
                   f"- This project sells {p['name']}. Its card is {p['dir']}/product.md: read it before writing a "
                   "script, captions, on-screen text or a generation prompt. Use only its approved claims; never "
                   "make or imply anything under \"Never claim\", even if the footage or the editor's words seem to.",
-                  f"- Packshots and logos: {', '.join(p['files']) if p['files'] else 'none uploaded yet (say so if the work needs one)'}. "
+                  f"- Packshots and logos: {', '.join(_res(f) for f in p['files']) if p['files'] else 'none uploaded yet (say so if the work needs one)'}. "
                   "Use these real images for product shots, end cards and as references for generation; don't "
                   "invent the packaging."]
+        if p.get("resources"):
+            lines.append("- What the team gave you to learn the product from (read the documents before planning; "
+                         "study reference ads for structure and pacing, never copy them): "
+                         + "; ".join(_res(f) for f in p["resources"]))
+        if p.get("skipped"):
+            lines.append(f"- Too large to fetch this turn: {', '.join(p['skipped'])}.")
     if others:
         lines += ["", "## The client's other products (cards in the same folder; only if the editor asks)"]
         lines += [f"- {n}{': ' + pitch if pitch else ''} ({d}/product.md)" for n, pitch, d in others[:30]]
@@ -409,6 +438,8 @@ def system_prompt(ctx: JobContext, info: dict, conns: dict[str, Connection], edi
         f"the {info['brand']} project \"{info['project']}\" ({info['kind']}).",
         *(["", "## The client", info["brand_about"][:2000]] if info.get("brand_about") else []),
         *product_lines(info),
+        *(["", "## This ad so far (its history; you are continuing it, not starting over)", *info["memory"]]
+          if info.get("memory") else []),
         "",
         "## Workspace (current directory)",
         f"- {proj}/raw/ uploaded footage (read only). {proj}/work/ transcripts, the edit ({proj}/work/edl.json), "

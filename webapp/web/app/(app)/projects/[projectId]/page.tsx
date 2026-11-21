@@ -9,6 +9,7 @@ import { Suspense, useCallback, useEffect, useMemo, useRef, useState } from "rea
 import { JobIcon, JobStatusBadge, STATUS_LABEL } from "@/components/bits";
 import { LessonDialog } from "@/components/brand/lessons";
 import { ClaudeTab } from "@/components/claude/panel";
+import { History } from "@/components/project/history";
 import { useWorkspace } from "@/components/workspace/context";
 import { Avatar, Badge, Button, Card, Dialog, Empty, Field, PageHeader, Progress, Select, Skeleton, Spinner, Tabs, Textarea, useToast } from "@/components/ui";
 import { api } from "@/lib/api";
@@ -17,13 +18,15 @@ import { useMe, useProjectEvents } from "@/lib/hooks";
 import { uploadFile } from "@/lib/upload";
 import type { Asset, Brand, Job, Note, Project, Version } from "@/lib/types";
 
-type Tab = "claude" | "media" | "review" | "activity";
+type Tab = "claude" | "media" | "review" | "history" | "activity";
 
 function ProjectPage() {
   const { projectId } = useParams<{ projectId: string }>();
   const params = useSearchParams();
   const [tab, setTab] = useState<Tab>((params.get("tab") as Tab) || "claude");
   useEffect(() => { const t = params.get("tab") as Tab | null; if (t) setTab(t); }, [params]);     // sidebar and tasks links
+  const [thread, setThread] = useState<string | null>(params.get("thread"));
+  useEffect(() => { const t = params.get("thread"); if (t) setThread(t); }, [params]);
   const [cutOpen, setCutOpen] = useState(false);
   useProjectEvents(projectId);
   const me = useMe().data!;
@@ -54,11 +57,11 @@ function ProjectPage() {
       <PageHeader
         breadcrumb={brand && <>
           <Link href={`/brands/${brand.id}`} className="flex items-center gap-1.5 hover:text-text"><span className="size-2 rounded-[3px]" style={{ background: brand.color }} />{brand.name}</Link>
-          <ChevronRight className="size-3.5" /><span>{KIND_LABEL[p.kind] ?? p.kind}</span></>}
+          <ChevronRight className="size-3.5" />
+          {p.product_id ? <><Link href={`/products/${p.product_id}`} className="flex items-center gap-1 hover:text-text"><Package className="size-3.5" />{p.product_name}</Link>
+            <ChevronRight className="size-3.5" /><span>Ad · {KIND_LABEL[p.kind] ?? p.kind}</span></> : <span>{KIND_LABEL[p.kind] ?? p.kind}</span>}</>}
         title={p.name}
         subtitle={<span className="flex min-w-0 items-center gap-2"><Badge tone="accent">{STATUS_LABEL[p.status] ?? p.status}</Badge>
-          {p.product_name && <Link href={`/brands/${p.brand_id}?tab=products`} title="The product this project sells: Claude reads its card"
-            className="flex shrink-0 items-center gap-1 rounded-md border border-border px-1.5 py-0.5 text-xs font-medium text-text-2 hover:text-text"><Package className="size-3" />{p.product_name}</Link>}
           <span className="truncate">{p.brief || "No brief yet"}</span></span>}
         actions={canEdit && <Button variant="primary" icon={<Scissors className="size-4" />} onClick={() => setCutOpen(true)}
           disabled={!assets.data?.some((a) => a.status === "ready")}>Make a cut</Button>} />
@@ -66,12 +69,15 @@ function ProjectPage() {
         { value: "claude", label: "Claude" },
         { value: "media", label: "Media", count: assets.data?.length },
         { value: "review", label: "Review", count: versions.data?.length },
+        { value: "history", label: "History" },
         { value: "activity", label: running ? `Activity · ${running} running` : "Activity" },
       ]} />
       {tab === "claude" && <ClaudeTab projectId={projectId} canEdit={canEdit} isLead={brand?.role === "lead"}
-        openNotes={p.open_notes} onOpenReview={() => setTab("review")} thread={params.get("thread")} />}
+        openNotes={p.open_notes} onOpenReview={() => setTab("review")} thread={thread} />}
       {tab === "media" && <Media projectId={projectId} assets={assets.data} canEdit={canEdit} onCut={() => setCutOpen(true)} />}
       {tab === "review" && <Review projectId={projectId} brandId={p.brand_id} versions={versions.data} canEdit={canEdit} />}
+      {tab === "history" && <History projectId={projectId} onOpenVersion={() => setTab("review")}
+        onOpenThread={(id) => { setThread(id); setTab("claude"); }} />}
       {tab === "activity" && <ActivityList jobs={jobs.data} canEdit={canEdit} />}
       <CutDialog open={cutOpen} onClose={() => setCutOpen(false)} projectId={projectId} assets={assets.data ?? []} kind={p.kind}
         onStarted={() => { setCutOpen(false); setTab("activity"); }} />

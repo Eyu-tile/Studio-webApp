@@ -18,8 +18,11 @@ from ..schemas import slugify
 from .library import ClipOut, clip_out
 
 router = APIRouter(tags=["products"])
-FILE_KINDS = ("packshot", "logo", "other")
-FILE_TYPES = re.compile(r"^(image|video)/|^application/pdf$")
+FILE_KINDS = ("packshot", "logo", "document", "reference", "other")
+# images, video and audio; PDF, text, Markdown, CSV; Word, PowerPoint and Excel files
+FILE_TYPES = re.compile(r"^(image|video|audio)/|^text/(plain|markdown|csv)$|^application/(pdf|json|"
+                        r"vnd\.openxmlformats-officedocument\.(wordprocessingml\.document|presentationml\.presentation|"
+                        r"spreadsheetml\.sheet))$")
 MAX_FILE = 100 * 1024 * 1024
 
 Lines = list[str]
@@ -66,6 +69,7 @@ class FileOut(BaseModel):
     model_config = ConfigDict(from_attributes=True)
     id: uuid.UUID
     kind: str
+    note: str = ""
     filename: str
     mime: str
     size: int
@@ -113,6 +117,12 @@ class FileIn(BaseModel):
     size: int = Field(gt=0, le=MAX_FILE)
     mime: str = Field(min_length=3, max_length=200)
     kind: str = "packshot"
+    note: str = Field("", max_length=500)
+
+
+class FilePatch(BaseModel):
+    kind: str | None = None
+    note: str | None = Field(None, max_length=500)
 
 
 class FileStart(BaseModel):
@@ -209,11 +219,12 @@ def start_file(product_id: uuid.UUID, body: FileIn, request: Request, db: Sessio
                user: User = Depends(current_user)):
     p = get_product(db, user, product_id, BrandRole.editor)
     if not FILE_TYPES.match(body.mime):
-        raise HTTPException(415, "packshots and logos: images, short videos or PDFs")
+        raise HTTPException(415, "resources: images, video, audio, PDF, text, Word, PowerPoint or Excel files")
     if body.kind not in FILE_KINDS:
         raise HTTPException(422, f"kind is one of {', '.join(FILE_KINDS)}")
     name = re.sub(r"[^\w.\- ]+", "_", body.filename).strip() or "file"
-    f = ProductFile(product_id=p.id, kind=body.kind, filename=name, mime=body.mime, size=body.size, storage_key="")
+    f = ProductFile(product_id=p.id, kind=body.kind, filename=name, mime=body.mime, size=body.size, storage_key="",
+                    note=body.note.strip())
     db.add(f)
     db.flush()
     f.storage_key = f"brands/{p.brand_id}/products/{p.id}/{f.id}/{name}"
@@ -245,6 +256,28 @@ def complete_file(file_id: uuid.UUID, db: Session = Depends(get_db), user: User 
     p.updated_at = utcnow()
     db.commit()
     return file_out(f)
+
+
+@router.patch("/product-files/{file_id}", response_model=FileOut)
+def update_file(file_id: uuid.UUID, body: FilePatch, db: Session = Depends(get_db), user: User = Depends(current_user)):
+    f, _ = _file(db, user, file_id)
+    if body.kind is not None:
+        if body.kind not in FILE_KINDS:
+            raise HTTPException(422, f"kind is one of {', '.join(FILE_KINDS)}")
+        f.kind = body.kind
+    if body.note is not None:
+        f.note = body.note.strip()
+    db.commit()
+    return file_out(f)
+
+
+@router.get("/products/{product_id}/ads")
+def product_ads(product_id: uuid.UUID, db: Session = Depends(get_db), user: User = Depends(current_user)):
+    """The ads made for this product: the projects that sell it, newest work first."""
+    from .projects import project_out
+    p = get_product(db, user, product_id)
+    rows = db.scalars(select(Project).where(Project.product_id == p.id).order_by(Project.updated_at.desc()))
+    return [project_out(db, x).model_dump(mode="json") for x in rows]
 
 
 @router.delete("/product-files/{file_id}", status_code=204)

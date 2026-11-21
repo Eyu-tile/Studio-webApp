@@ -18,11 +18,11 @@ export function useProjectEvents(projectId: string) {
       const j = JSON.parse((e as MessageEvent).data);
       qc.setQueryData(["project", projectId, "jobs"], (old: unknown) =>
         Array.isArray(old) ? old.map((x) => (x.id === j.id ? { ...x, ...j } : x)) : old);
-      if (j.status !== "running") refresh(["jobs", "assets", "versions", "summary"]);
+      if (j.status !== "running") refresh(["jobs", "assets", "versions", "summary", "history"]);
     });
     es.addEventListener("asset", () => refresh(["assets", "summary", "outputs"]));
-    es.addEventListener("version", () => refresh(["versions", "summary", "jobs"]));
-    es.addEventListener("note", () => refresh(["notes", "summary"]));
+    es.addEventListener("version", () => refresh(["versions", "summary", "jobs", "history"]));
+    es.addEventListener("note", () => refresh(["notes", "summary", "history"]));
     // Claude conversations: messages append live, text streams in as it is written, status changes refresh the list
     const data = (e: Event) => JSON.parse((e as MessageEvent).data);
     es.addEventListener("agent_message", (e) => {
@@ -45,7 +45,7 @@ export function useProjectEvents(projectId: string) {
         qc.setQueryData(["claude", d.thread_id, "delta"], "");
         qc.invalidateQueries({ queryKey: ["claude", d.thread_id] });
       }
-      refresh(["threads"]);
+      refresh(["threads", "history"]);
     });
     es.addEventListener("agent_approval", (e) => qc.invalidateQueries({ queryKey: ["claude", data(e).thread_id] }));
     return () => es.close();

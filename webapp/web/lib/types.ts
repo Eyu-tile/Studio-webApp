@@ -139,10 +139,14 @@ export interface Spend { month: string; spent_usd: number; limit_usd: number | n
 export interface ClipPage { total: number; clips: Clip[] }
 
 // --- products (a client's product cards) ---
-export interface ProductFile { id: string; kind: "packshot" | "logo" | "other"; filename: string; mime: string; size: number; status: string; created_at: string; url: string | null }
+export interface ProductFile { id: string; kind: "packshot" | "logo" | "document" | "reference" | "other"; note: string; filename: string; mime: string; size: number; status: string; created_at: string; url: string | null }
 export interface Product {
   id: string; brand_id: string; slug: string; name: string; pitch: string; benefits: string[]; claims_ok: string[]; claims_no: string[];
   price: string; links: string[]; notes: string; archived: boolean; created_at: string; updated_at: string;
   image_url: string | null; file_count: number; clip_count: number; project_count: number;
 }
 export interface ProductDetail extends Product { files: ProductFile[]; clips: Clip[]; projects: { id: string; name: string; kind: string }[] }
+export interface HistoryEvent {
+  at: string; kind: "created" | "changed" | "version" | "asked" | "made" | "failed" | "approved" | "declined" | "note" | "resolved" | "job" | "job_failed";
+  title: string; detail: string; who: string | null; ref: { version?: number; thread?: string };
+}
