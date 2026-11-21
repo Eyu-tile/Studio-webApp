@@ -9,15 +9,17 @@ It runs while the codespace runs: it stops after 30 minutes without activity in 
 github.com → Settings → Codespaces → Default idle timeout) and starts again, with all its data, when you open it.
 Good for testing sessions with the team; for always-on, use a VM (`../free/README.md`).
 
-## Start it (5 minutes of clicks, then 20–40 minutes of building the first time)
+## Start it (one click, then 20–40 minutes of building the first time)
 
-1. On github.com open **Eyu-tile/Studio-webApp**, switch to the branch **internal-webapp**.
-2. **Code → Codespaces → ⋯ → New with options**: Branch `internal-webapp`, Dev container configuration
-   **Studio**, Machine type **2-core**. Create codespace.
+1. Open this link while signed in to GitHub, and press **Create codespace** (branch, configuration and machine are
+   already filled in):
+   **https://codespaces.new/Eyu-tile/Studio-webApp/tree/internal-webapp?devcontainer_path=.devcontainer/studio/devcontainer.json&machine=basicLinux32gb**
+2. (The same by hand: on the repository, branch `internal-webapp`, **Code → Codespaces → ⋯ → New with options**,
+   configuration **Studio**, machine **2-core**.)
 3. Wait: the codespace opens, then builds and starts Studio by itself (watch the terminal; the log is
    `/tmp/studio-start.log`). It ends by printing the address and the team password.
-4. **Ports** tab (bottom panel): right-click **8080** → Port Visibility → **Public**, and the same for **8333**
-   (media uploads and playback). Needed once per codespace.
+4. If the end message asks for it: **Ports** tab (bottom panel), right-click **8080** → Port Visibility → **Public**,
+   and the same for **8333** (media uploads and playback). Once per codespace; the start script tries it first.
 5. Open the printed address (`https://<codespace>-8080.app.github.dev`), enter user `studio` and the password, then
    sign in with your email: the first person becomes admin. Share the address and password with the team.
 

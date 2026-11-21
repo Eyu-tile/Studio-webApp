@@ -46,10 +46,21 @@ if ! "${COMPOSE[@]}" up -d --build --remove-orphans >"$LOG" 2>&1; then
 fi
 for _ in $(seq 1 60); do curl -fsS http://localhost:8080/api/healthz >/dev/null 2>&1 && break; sleep 3; done
 
+# share both ports (the team can't reach private ones); needs a token allowed to change this codespace
+PUBLIC=no
+if command -v gh >/dev/null && gh codespace ports visibility 8080:public 8333:public -c "$CODESPACE_NAME" >/dev/null 2>&1; then
+  PUBLIC=yes
+fi
+
 cat <<MSG
 
   Studio is running.
+MSG
+if [ "$PUBLIC" = no ]; then cat <<MSG
   1. Ports tab: right-click ports 8080 and 8333 > Port Visibility > Public (once per codespace).
+MSG
+fi
+cat <<MSG
   2. Open https://${APP_HOST}
      user "${GATE_USER}", password "${GATE_PASSWORD}", then sign in with your email (the first one becomes admin).
 
