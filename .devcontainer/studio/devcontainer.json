@@ -1,0 +1,18 @@
+// Studio in a GitHub Codespace: free on personal accounts (no card), the whole stack in Docker, reachable over
+// HTTPS with a team password. Create it with Code > Codespaces > ... > New with options > "Studio".
+// See webapp/deploy/codespace/README.md.
+{
+  "name": "Studio",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+  "hostRequirements": { "cpus": 2, "memory": "8gb", "storage": "32gb" },
+  "forwardPorts": [8080, 8333],
+  "portsAttributes": {
+    "8080": { "label": "Studio (set to Public to share)", "onAutoForward": "notify" },
+    "8333": { "label": "Studio media (set to Public)", "onAutoForward": "silent" }
+  },
+  "postStartCommand": "bash webapp/deploy/codespace/start.sh",
+  "customizations": { "codespaces": { "openFiles": ["webapp/deploy/codespace/README.md"] } }
+}

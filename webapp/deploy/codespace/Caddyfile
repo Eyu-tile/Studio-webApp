@@ -1,0 +1,19 @@
+# Studio in a Codespace: GitHub's port forwarding serves HTTPS and passes plain HTTP to this port.
+:80 {
+	encode zstd gzip
+	# connect links, the sign-in return from Higgsfield and the health check need no team password
+	@open path /connect/* /api/public/* /api/oauth/callback /api/healthz /_next/* /favicon.ico
+	handle @open {
+		reverse_proxy web:3000 {
+			flush_interval -1
+		}
+	}
+	handle {
+		basic_auth {
+			{$GATE_USER} {$GATE_HASH}
+		}
+		reverse_proxy web:3000 {
+			flush_interval -1
+		}
+	}
+}

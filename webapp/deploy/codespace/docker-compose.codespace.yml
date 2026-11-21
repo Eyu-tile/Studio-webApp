@@ -1,0 +1,8 @@
+# On top of ../free/docker-compose.yml: GitHub terminates HTTPS for forwarded ports, so Caddy listens on plain HTTP
+# (port 8080, with the team password) and the media bucket is published on 8333.
+services:
+  caddy:
+    ports: !override ["8080:80"]
+    volumes: !override ["../codespace/Caddyfile:/etc/caddy/Caddyfile:ro", "caddy_data:/data", "caddy_config:/config"]
+  s3:
+    ports: ["8333:8333"]

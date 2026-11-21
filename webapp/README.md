@@ -74,8 +74,9 @@ Next: client review links, an approvals inbox for leads.
 
 ## Run it
 
-**Free test server** (one Oracle Cloud Always Free VM, HTTPS, a team password): see
-[deploy/free/README.md](deploy/free/README.md); one command on the VM.
+**Free test server**, HTTPS and a team password in front:
+- no card: a GitHub Codespace ([deploy/codespace/README.md](deploy/codespace/README.md)); runs while the codespace runs
+- always on: one Oracle Cloud Always Free VM ([deploy/free/README.md](deploy/free/README.md)); Oracle asks for a card
 
 **Everything in containers** (Docker):
 ```bash
